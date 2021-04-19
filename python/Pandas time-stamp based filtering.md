@@ -22,22 +22,22 @@ weatherData = pd.read_csv("folder_location/weatherData.csv", index_col="City")
 The following code snippets show the contents of the **flightData** `DataFrame`.
 
 ```python
-flightData
+print(flightData)
 ```
 
 
 
-![](images/flight_data_snapshot.PNG)
+![Snapshot of flightData](images/flight_data_snapshot.PNG)
 
 
 
 The following code snippets show the contents of the **weatherData** `DataFrame`.
 
 ```python
-weatherData
+print(weatherData)
 ```
 
-![](images/weather_data_snapshot.PNG)
+![Snapshot of weatherData](images/weather_data_snapshot.PNG)
 
 
 
@@ -66,5 +66,6 @@ The following lines of code filters out the details of the flights that took off
 
 ```python 
 finalData = joinedData[(joinedData["DATE_TIME"] >= joinedData["StartTime(UTC)"]) & (joinedData["DATE_TIME"] <= joinedData["EndTime(UTC)"])]
+print(finalData)
 ```
 
