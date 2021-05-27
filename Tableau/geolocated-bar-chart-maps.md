@@ -1,20 +1,17 @@
-# **How to Create a Bar Chart over a Map in Tableau**
+# How to Create a Bar Chart over a Map in Tableau
 
-### Written by the Data Visualization Lab  
-
-
-
-## **Part 1: Uploading the Data**
- We are going to be using a **fictious** dataset for this tutorial. The dataset include a survey of how many households in different cities that have a dog or a cat as a pet.
+> Written by the Data Visualization Lab  
+## Part 1: Uploading the Data
+ We are going to be using a **fictitious** dataset for this tutorial. The dataset includes a survey of how many households in different cities that have a dog or a cat as a pet.
 1. Open Tableau and under ‘Connect’ - ‘To a file’ , click on 'Microsoft Excel'  
 2. Find the excel file titled "Dogs Vs. Cats" and click open
 3. In your Data Source view, Choose the sheet in which your working data is and drag that sheet to where it says “Drag Sheets here”.   
-CLicke Here for how your dashboard should look: [Insert Image 1 here.]   
-4. Make sure Tableau is interpreting your Data Types correctly.   (e.g., the Location column may need to be changed from a simple string to being assigned the Geographic Role of City)   
+Click Here for how your dashboard should look: [Insert Image 1 here.]   
+4. Make sure Tableau is interpreting your Data Types correctly. (e.g., the Location column may need to be changed from a simple string to being assigned the Geographic Role of City)   
 5. Click on the icon at the top of a column to change the data type:
 6. Make sure all dimensions match a location, data type, number value, etc. Please see example below [Insert Image 2]   
 
-## **Part 2: Creating Bar Chart Calculations**  
+## Part 2: Creating Bar Chart Calculations 
 
 You will have to create a few new fields before creating your graphic.   
 
@@ -23,7 +20,7 @@ You will have to create a few new fields before creating your graphic.
 3. Click on create calculated field.
 4. Enter the copy and paste the below statement.   
  LEFT ("██████████",ROUND([Dogs]/([Cats]+[Dogs])*10))
-    - This statement will tell Tableau to create a left bar that depicts the proportion of many Dogs against the total household pet population. We also scaled the bar up 20 times up so that we can see more of the smaller bars proportions for depiction.
+    - This statement will tell Tableau to create a left bar that depicts the proportion of many Dogs against the total household pet population. We also scaled the bar up 10 times up so that we can see more of the smaller bars proportions for depiction.
 5. Click Apply, then Ok.
 6. Repeat the above and create the same calculated field for Cats.  
  LEFT ("██████████",ROUND([Dogs]/([Cats]+[Dogs])*10))
@@ -44,7 +41,7 @@ You will also need to group data together to create a Regions Column
 **_At the end of these steps you should have 3 new columns. Two new columns for the bar graphics and one for the group._**
 
 
-## **Part 3: Creating the Map**
+## Part 3: Creating the Map
 1. Go to your first Sheet    
 2. Under Dimensions - double click on State. This should generate a map with data points.  Refer to this example [Insert Image 5]  
 3. Under “Measures”, Drag Latitude (generated) to Rows at the top of sheet.  
@@ -62,16 +59,17 @@ You will also need to group data together to create a Regions Column
 11. Don't forget to name your map at the top!
 
 
-## **Part 4: Tips and Tricks**
+## Part 4: Tips and Tricks
 
-### _Adjust the Size of the Bars_
+### Adjust the Size of the Bars
 1. Click on the Size box and drag bar to left for smaller bars and right for larger bars.  
 
- ### _Highlighting Regions_   
+ ### Highlighting Regions  
 
 1. Under Marks, for the first Latitude (generated), change the drop down menu to Map      
 2. Drag the column in which you created the group of maps (ex. State(group)) to the map and each region should turn a separate color.
-### _To Change Colors of the Regions_   
+
+### To Change Colors of the Regions 
 
 1. To the right of the pane you should see the color Legend. Click on the arrow and “Edit Colors”
 2. Select Color Palette “Seattle Grays” then Assign Palette.
@@ -79,13 +77,13 @@ You will also need to group data together to create a Regions Column
 
    See Example: Insert Image 7   
 
-### _Edit Map_  
+### Edit Map
 
 1. At the top, click on “Map” then “Map Layers”.
 2. Edit Map to include/exclude borders, state/city names, black out states without data, etc.  
 See Example: [Insert Image 8]
 
-### _Creating a Legend_
+### Creating a Legend
 
 How to create a legend for the 3 samples:
 
