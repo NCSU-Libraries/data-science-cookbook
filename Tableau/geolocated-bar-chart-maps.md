@@ -1,6 +1,9 @@
 # How to Create a Bar Chart over a Map in Tableau
 
-> Written by the Data Visualization Lab  
+> Credit: This tutorial was developed by [https://github.com/kmricha4](Kiara Richardson), Data Science Consultant in the [Data & Visualization Services department](https://www.lib.ncsu.edu/department/data-visualization-services) at NC State University Libraries in 2021. This tutorial uses calculated fields to generate bars as described by Jeffrey A. Shaffer on the [Data Plus Science, LLC blog](https://www.dataplusscience.com/BarChartMaps.html).   
+
+> Note that this code is currently missing the referenced "Dogs Vs. Cats" spreadsheet and image URLs have not yet been added.
+
 ## Part 1: Uploading the Data
  We are going to be using a **fictitious** dataset for this tutorial. The dataset includes a survey of how many households in different cities that have a dog or a cat as a pet.
 1. Open Tableau and under ‘Connect’ - ‘To a file’ , click on 'Microsoft Excel'  
@@ -11,7 +14,7 @@ Click Here for how your dashboard should look: [Insert Image 1 here.]
 5. Click on the icon at the top of a column to change the data type:
 6. Make sure all dimensions match a location, data type, number value, etc. Please see example below [Insert Image 2]   
 
-## Part 2: Creating Bar Chart Calculations 
+## Part 2: Creating Bar Chart Calculations
 
 You will have to create a few new fields before creating your graphic.   
 
@@ -69,7 +72,7 @@ You will also need to group data together to create a Regions Column
 1. Under Marks, for the first Latitude (generated), change the drop down menu to Map      
 2. Drag the column in which you created the group of maps (ex. State(group)) to the map and each region should turn a separate color.
 
-### To Change Colors of the Regions 
+### To Change Colors of the Regions
 
 1. To the right of the pane you should see the color Legend. Click on the arrow and “Edit Colors”
 2. Select Color Palette “Seattle Grays” then Assign Palette.
