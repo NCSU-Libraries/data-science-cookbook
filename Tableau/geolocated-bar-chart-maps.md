@@ -1,6 +1,6 @@
 # How to Create a Bar Chart over a Map in Tableau
 
-> Credit: This tutorial was developed by [https://github.com/kmricha4](Kiara Richardson), Data Science Consultant in the [Data & Visualization Services department](https://www.lib.ncsu.edu/department/data-visualization-services) at NC State University Libraries in 2021. This tutorial uses calculated fields to generate bars as described by Jeffrey A. Shaffer on the [Data Plus Science, LLC blog](https://www.dataplusscience.com/BarChartMaps.html).   
+> Credit: This tutorial was developed by [Kiara Richardson](https://github.com/kmricha4), Data Science Consultant in the [Data & Visualization Services department](https://www.lib.ncsu.edu/department/data-visualization-services) at NC State University Libraries in 2021. This tutorial uses calculated fields to generate bars as described by Jeffrey A. Shaffer on the [Data Plus Science, LLC blog](https://www.dataplusscience.com/BarChartMaps.html).   
 
 > Note that this code is currently missing the referenced "Dogs Vs. Cats" spreadsheet and image URLs have not yet been added.
 
