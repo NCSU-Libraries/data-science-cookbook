@@ -19,3 +19,4 @@ We'll capture one of ggplot's basic themes in a variable. This will let us explo
 my.theme <- theme_set(theme_bw())
 ```
 
+Make changes and reupload.
