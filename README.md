@@ -1,6 +1,6 @@
 # NC State University Libraries' Data Science Cookbook
 
-This cookbook contains sample code to solve common data science problems in languages like Python and R. 
+This cookbook contains some sample code to solve common data science problems in languages like Python and R. 
 
 If you have an idea for a topic for the Cookbook, please open a Github Issue, and add any details that might help. 
 
