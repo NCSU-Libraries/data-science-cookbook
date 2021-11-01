@@ -1,0 +1,2012 @@
+- ONLINE IMPOSTERS AND DISINFORMATION
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+ONLINE IMPOSTERS
+AND DISINFORMATION
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON INVESTIGATIONS
+AND OVERSIGHT
+OF THE
+COMMITTEE ON SCIENCE, SPACE,
+AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+SEPTEMBER 26, 2019
+__________
+Serial No. 116-47
+__________
+Printed for the use of the Committee on Science, Space, and Technology
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://science.house.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+37-739PDF
+WASHINGTON : 2020
+--------------------------------------------------------------------------------------
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HON. EDDIE BERNICE JOHNSON, Texas, Chairwoman
+ZOE LOFGREN, California
+FRANK D. LUCAS, Oklahoma,
+DANIEL LIPINSKI, Illinois
+Ranking Member
+SUZANNE BONAMICI, Oregon
+MO BROOKS, Alabama
+AMI BERA, California,
+BILL POSEY, Florida
+Vice Chair
+RANDY WEBER, Texas
+CONOR LAMB, Pennsylvania
+BRIAN BABIN, Texas
+LIZZIE FLETCHER, Texas
+ANDY BIGGS, Arizona
+HALEY STEVENS, Michigan
+ROGER MARSHALL, Kansas
+KENDRA HORN, Oklahoma
+RALPH NORMAN, South Carolina
+MIKIE SHERRILL, New Jersey
+MICHAEL CLOUD, Texas
+BRAD SHERMAN, California
+TROY BALDERSON, Ohio
+STEVE COHEN, Tennessee
+PETE OLSON, Texas
+JERRY McNERNEY, California
+ANTHONY GONZALEZ, Ohio
+ED PERLMUTTER, Colorado
+MICHAEL WALTZ, Florida
+PAUL TONKO, New York
+JIM BAIRD, Indiana
+BILL FOSTER, Illinois
+JAIME HERRERA BEUTLER, Washington
+DON BEYER, Virginia
+JENNIFFER GONZALEZ-COLON, Puerto
+CHARLIE CRIST, Florida
+Rico
+SEAN CASTEN, Illinois
+VACANCY
+KATIE HILL, California
+BEN McADAMS, Utah
+JENNIFER WEXTON, Virginia
+------
+Subcommittee on Investigations and Oversight
+HON. MIKIE SHERRILL, New Jersey, Chairwoman
+SUZANNE BONAMICI, Oregon
+RALPH NORMAN, South Carolina,
+STEVE COHEN, Tennessee
+Ranking Member
+DON BEYER, Virginia
+ANDY BIGGS, Arizona
+JENNIFER WEXTON, Virginia
+MICHAEL WALTZ, Florida
+C
+O
+N
+T
+E
+N
+T
+S
+September 26, 2019
+Page
+Hearing Charter..................................................
+2
+Opening Statements
+Statement by Representative Mikie Sherrill, Chairwoman,
+Subcommittee on Investigations and Oversight, Committee on
+Science, Space, and Technology, U.S. House of Representatives..
+10
+Written Statement............................................
+11
+Statement by Representative Frank Lucas, Ranking Member,
+Committee on Science, Space, and Technology, U.S. House of
+Representatives................................................
+12
+Written statement............................................
+12
+Statement by Representative Don Beyer, Subcommittee on
+Investigations and Oversight, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+13
+Statement by Representative Michael Waltz, Subcommittee on
+Investigations and Oversight, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+14
+Written statement............................................
+14
+Written statement by Representative Eddie Bernice Johnson,
+Chairwoman, Committee on Science, Space, and Technology, U.S.
+House of Representatives.......................................
+15
+Written statement by Representative Ralph Norman, Ranking Member,
+Subcommittee on Investigations and Oversight, Committee on
+Science, Space, and Technology, U.S. House of Representatives..
+16
+Witnesses:
+Dr. Siwei Lyu, Director, Computer Vision and Machine Learning
+Lab,
+SUNY - Albany
+Oral Statement...............................................
+17
+Written Statement............................................
+19
+Dr. Hany Farid, Professor of Electrical Engineering and Computer
+Science and the School of Information, UC, Berkeley
+Oral Statement...............................................
+24
+Written Statement............................................
+26
+Ms. Camille Francois, Chief Innovation Officer, Graphika
+Oral Statement...............................................
+31
+Written Statement............................................
+33
+Discussion.......................................................
+38
+Appendix: Additional Material for the Record
+Report submitted by Ms. Camille Francois, Chief Innovation
+Officer, Graphika..............................................
+58
+ONLINE IMPOSTERS
+AND DISINFORMATION
+----------
+THURSDAY, SEPTEMBER 26, 2019
+House of Representatives,
+Subcommittee on Investigations and Oversight,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 2:01 p.m., in
+room 2318 of the Rayburn House Office Building, Hon. Mikie
+Sherrill [Chairwoman of the Subcommittee] presiding.
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Sherrill. The hearing will now come to order.
+Good afternoon, and welcome to a hearing of the Investigations
+and Oversight Subcommittee. We're here today to discuss online
+impostors and disinformation. Researchers generally define
+misinformation as information that is false, but promulgated
+with sincerity by a person who believes it is true.
+Disinformation, on the other hand, is shared with the
+deliberate intent to deceive. It turns out that these days the
+concepts of disinformation and online impostors are almost one
+in the same. We all remember the classic scams and hoaxes from
+the early days of e-mail--a foreign prince needs help getting
+money out of the country. But today the more common brand of
+disinformation is not simply content that is plainly
+counterfactual, but that is being delivered by someone who is
+not who they say they are. We are seeing a surge in coordinated
+disinformation efforts, particularly around politicians, hot-
+button political issues, and democratic elections.
+The 2016 cycle saw Russian troll farms interfering in the
+American discourse across Facebook, Twitter, and Instagram,
+trying to sway public opinion for their preferred candidate.
+But at the same time they were after something else much
+simpler--to create chaos. By driving a wedge into the social
+fissures in our society, sowing seeds of mistrust about our
+friends and neighbors, exploiting social discord, they think
+they might destabilize our democracy, and allow the oligarchy
+to look a little more attractive by comparison.
+When I was a Russian Policy Officer in the Navy, I learned
+how central information warfare is in Russia's quest to
+dominate Western nations. And, unfortunately, modern technology
+makes information warfare a far easier proposition for
+antagonists--foreign or domestic. In fact, it's perhaps too
+easy today to proliferate convincing, harmful disinformation,
+build realistic renderings of people in videos, and impersonate
+others online. That's why the incidents of harmful episodes
+have exploded in the last few years. They range from fake
+reviewers misleading consumers on Amazon, to impersonating real
+political candidates, to fake pornography being created with
+the likenesses of real people. Earlier this year an alleged
+deep fake of the President of Gabon helped trigger an
+unsuccessful coup of the incumbent government. Deep fakes are
+particularly prone to being weaponized, as our very biology
+tells us that we can trust our eyes and our ears.
+There are social science reasons why disinformation and
+online impostors are such a confounding challenge. Research has
+shown that online hoaxes spread 6 times as fast as true
+stories, for example. Maybe human nature just likes a good
+scandal, and confirmation bias shapes how we receive
+information every time we log on, or open an app. If we
+encounter a story, a video, or an influence campaign that seems
+a little less than authentic, we may still be inclined to
+believe it if the content supports the political narrative
+already playing in our own heads. Our digital antagonists,
+whether the intelligence service of a foreign adversary, or a
+lone wolf propagandist working from a laptop, know how to
+exploit all of this.
+Our meeting today is the start of a conversation. Before
+we, as policymakers, can address the threat of fake news and
+online frauds, we have to understand how they operate, the
+tools we have today to address them, and where the next
+generation of bad actors is headed. We need to know where to
+commit more resources, in the way of innovation and education.
+Our distinguished witnesses in today's panel are experts in the
+technologies that can be used to detect deep fakes and
+disinformation, and I'm glad they're here to help us explore
+these important issues. We're especially thankful that all
+three of you are able to roll with the punches when we had to
+move the hearing due a change in the congressional schedule, so
+thank you all. I'd also like to thank my Republican
+counterparts who have been such great partners in this matter.
+He will be here shortly, but Mr. Gonzalez of Ohio is joining us
+today to inform his work on deep fakes, and I'm proud to be a
+co-sponsor of his bill, H.R. 4355, here he is, and I thank you
+for being here, Mr. Gonzalez.
+[The prepared statement of Chairwoman Sherrill follows:]
+Good morning and welcome to a hearing of the Investigations
+and Oversight Subcommittee.
+We're here today to discuss online imposters and
+disinformation. Researchers generally define misinformation as
+information that is false but promulgated with sincerity by a
+person who believes it is true. Disinformation, on the other
+hand, is shared with the deliberate intent to deceive.
+It turns out that these days, the concepts of
+disinformation and online imposters are almost one and the
+same. We all remember the classic scams and hoaxes from the
+early days of email - a Nigerian Prince needs help getting
+money out of the country! But today, the more common brand of
+disinformation is not simply content that is plainly
+counterfactual, but that it is being delivered by someone who
+is not who they say they are.
+We are seeing a surge in coordinated disinformation efforts
+particularly around politicians, hotbutton political issues,
+and democratic elections. The 2016 election cycle saw Russian
+troll farms interfering in the American discourse across
+Facebook, Twitter, Instagram, YouTube and beyond, trying to
+sway public opinion for their preferred candidate. But at the
+same time, they were after something else much simpler: to
+create chaos. By driving a wedge into the social fissures in
+our society, sowing seeds of mistrust about our friends and
+neighbors, exploiting social discord, they think they might
+destabilize our democracy and allow the oligarchy to look a
+little more attractive by comparison. When I was a Russian
+policy officer in the Navy, I learned how central information
+warfare is in Russia's quest to dominate western nations. And
+unfortunately, modern technology makes information warfare a
+far easier proposition for our antagonists, foreign or
+domestic.
+In fact, its perhaps too easy today to proliferate
+convincing, harmful disinformation, build realistic renderings
+of people in videos, and impersonate others online. That's why
+the incidence of harmful episodes has exploded in the last few
+years. They range from fake reviewers misleading consumers on
+Amazon, to impersonating real political candidates, to fake
+pornography being created with the likenesses of real people.
+Earlier this year, an alleged deepfake of the President of
+Gabon helped trigger an unsuccessful coup of the incumbent
+government. Deep fakes are particularly prone to being
+weaponized, as our very biology tells us that we can trust our
+eyes and ears.
+There are social science reasons why disinformation and
+online imposters are such a confounding challenge: research has
+shown that online hoaxes spread six times as fast as true
+stories, for example. Maybe human nature just likes a good
+scandal. And confirmation bias shapes how we receive
+information every time we log on or open an app. If we
+encounter a story, a video or an influence campaign that seems
+a little less than authentic, we may still be inclined to
+believe it if the content supports the political narrative
+already playing in our own heads. Our digital antagonists,
+whether the intelligence service of a foreign adversary or a
+lone wolf propagandist working from a laptop, know how to
+exploit all of this.
+Our meeting today is the start of a conversation. Before we
+as policymakers can address the threat of fake news and online
+frauds, we have to understand how they operate, the tools we
+have today to address them, and where the next generation of
+bad actors is headed. We need to know where to commit more
+resources in the way of innovation and education.
+Our distinguished witnesses on today's panel are experts in
+the technologies that can be used to detect deep fakes and
+disinformation, and I'm glad they are here to help us explore
+these important issues. We are especially thankful that all
+three of you were able to roll with the punches when we had to
+move the hearing due to a change in the Congressional schedule.
+I'd also like to thank my Republican counterparts who have
+been such great partners on this matter. Mr. Gonzalez of Ohio
+is joining us today to inform his work on deep fakes. I'm proud
+to be a cosponsor of his bill H.R. 4355, and I thank you for
+being here, Mr. Gonzalez.
+Chairwoman Sherrill. Unfortunately Ranking Member Norman
+could not be with us today, but we are happy to have the full
+Committee Ranking Member in his place, so the Chair now
+recognizes Mr. Lucas for an opening statement. Thank you, Mr.
+Lucas.
+Mr. Lucas. Thank you, Chairwoman Sherrill, for holding this
+hearing on the growing problem of disinformation on social
+media. We all know that photos these days can be digitally
+altered so easily that it's almost impossible to tell what's
+real and what's not. Now there's a growing problem where audio
+and video can be altered so convincingly that it can appear
+that someone has said or done something that never happened.
+These deep fakes can be produced more and more easily.
+You know, there was once a rumor that I myself was a deep
+fake, just impersonating the real Frank Lucas. The good news,
+or, depending on your perspective, perhaps the bad news, is the
+technology hasn't come quite that far, and I'm the real deal.
+But once it's on the Internet, it never goes away. But deep
+fake technology is getting more and more sophisticated, and
+it's also getting easier to produce. As our witnesses will
+discuss today, the technology for generating deep fakes is
+improving at a rapid clip. Soon anyone with a decent computer,
+and access to training data, will be able to create
+increasingly convincing deep fakes that are difficult to detect
+and debunk. False and misleading content like this undermines
+public trust, and disrupts civil society. Unfortunately, the
+technology for generating deep fakes is developing at a speed
+and a scale that dwarfs the technology needed to detect and
+debunk deep fakes. We must help level the playing field.
+This Committee took the first steps to do this yesterday by
+passing a bipartisan legislation aimed at improving research
+into the technology to detect deep fakes. I want to commend
+Representative Anthony Gonzalez for introducing this bill, and
+his leadership on the issue of technology and security. I often
+say that one of our most important jobs on the Science
+Committee is communicating to the American people the value of
+scientific research and development. Legislation and hearings
+like this are a great example of how the work we do here can
+benefit directly people across the country, and I look forward
+to hearing from our witnesses, and I yield back my time, Madam
+Chair.
+[The prepared statement of Mr. Lucas follows:]
+Thank you, Chairwoman Sherrill, for holding this hearing on
+the growing problem of disinformation on social media.
+We all know that photos these days can be digitally altered
+so easily that it's all but impossible to tell what's real and
+what's not.
+There's now a growing problem where audio and video can be
+altered so convincingly that it can appear that someone has
+said or done something that never happened. These deepfakes can
+be produced more and more easily.
+You know, there was once a rumor that I MYSELF was a
+deepfake, just impersonating the real Frank Lucas. The good
+news-or maybe the bad news-is that technology hasn't come quite
+that far and I am the real deal.
+But deepfake technology IS getting more sophisticated. And
+it's also getting easier to produce. As our witnesses will
+discuss today, the technology for generating deepfakes is
+improving at a rapid clip. Soon, anyone with a decent computer
+and access to training data will be able to create increasingly
+convincing deepfakes that are difficult to detect and debunk.
+False and misleading content like this undermines public
+trust and disrupts civil society.
+Unfortunately, the technology for generating deepfakes is
+developing at a speed and scale that dwarfs the technology
+needed to detect and debunk deepfakes. We must help level the
+playing field.
+This Committee took the first step to do that yesterday by
+passing bipartisan legislation aimed at improving research into
+the technology to detect deepfakes.
+I want to commend Representative Anthony Gonzalez for
+introducing this bill and for his leadership on the issue of
+technology and security.
+I often say that one of our most important jobs on the
+Science Committee is communicating to the American people the
+value of scientific research and development. Legislation and
+hearings like this are a great example of how the work we do
+here can directly benefit people across the country.
+I look forward to hearing from our witnesses, and I yield
+back my time.
+Chairwoman Sherrill. Well, thank you, Ranking Member Lucas.
+And we have an additional opening statement today from my
+colleague across the aisle, Representative Waltz of Florida.
+Unfortunately, Mr. Waltz could not make it to the hearing
+today, but considering his great interest in the issue, I
+allowed him to submit a video of his opening statement, so
+we'll now hear from Mr. Waltz.
+Mr. Waltz. Hello, everyone. I'm sorry I can't be in town
+for the hearing today, but I wanted to make sure to share my
+concerns about digital impostors. Everyone in this room relies
+on social media, video messages, and other digital technology
+to connect with our constituents. We listen to their concerns,
+we share information about our work in Congress. But deep fake
+technology, which can literally put words in our mouths,
+undermines public trust in any digital communication. Today's
+witnesses will paint a picture of just how sophisticated the
+technology has become for creating realistic images, videos,
+and personalities online.
+Before I conclude my statement, I want to say a few words
+about our distinguished Subcommittee Chairwoman, Mikie
+Sherrill. I think we can all agree that Mikie is one of the
+most intelligent, accomplished, and persuasive Members of
+Congress. In fact, she's so persuasive that she convinced me, a
+Green Beret, to cheer on Navy football in this year's rivalry
+game. Thanks, Chairwoman Sherrill, for bringing attention to
+the problems of deep fake technology, and go Navy, beat Army.
+Chairwoman Sherrill. What a pleasure. As you all saw that--
+thank you so much for your work. That was obviously a deep
+fake. That is what we're looking at, and that is what we're
+discussing today. Thank you so--right? How nice is that? And,
+sadly, knowing how deep the commitment to our respective
+services' football is, I do know that that was not actually
+your sentiment, although it should be. So thank you, Mr. Waltz
+and Mr. Beyer, for your willingness to participate in our deep
+fake demonstration, and thank you to our distinguished
+witnesses, Dr. Lyu, for creating this video.
+I'll now recognize Mr. Beyer and Mr. Waltz for a few
+remarks. Mr. Beyer?
+Mr. Beyer. Yes. Thank you, Madam Chair, very much.
+Congressman Waltz and I really had fun making the deep fake
+video. You can see that it clearly was in jest. As an Army
+brat, I would never throw a Green Beret under the bus. But you
+also see how dangerous and misleading it could be. I'm sure we
+fooled a couple of people. For instance, what if I had said,
+instead of go Navy, go beat Army, I had said, it's time to
+impeach the President? Well, that would be viral everywhere. I
+mean, the things would be ringing off the hook, and the social
+media----
+Mr. Waltz. Please do not do that to my staff.
+Mr. Beyer. No. And Mr. Waltz would be the first to know, so
+my friends might appreciate it, but I don't think he would at
+all, so obviously the potential for serious harms with these
+deep fakes is quite great on elections, international stage for
+diplomatic purposes, and even for our private lives. That's why
+we, as a country, need to take swift action and invest in the
+research and the tools for identifying and combating deep
+fakes, and create a national strategy immediately, especially
+for election integrity, and ahead of the 2020 presidential
+election.
+The stakes are high. We've got to act now. We already know
+of Russia's intentional campaign to spread disinformation
+throughout the last one, and I don't even want to imagine what
+Russia, or China, or just private players, the havoc they could
+wreak on our elections and on our personal lives. So thank you
+very much to Mikie Sherrill and Frank Lucas for leading this
+effort. I yield back.
+Chairwoman Sherrill. Thank you very much. Mr. Waltz?
+Mr. Waltz. Thank you, Madam Chairwoman. And while I do
+certainly hold you in the highest regard, that was not me. But,
+just to add to my colleagues, that's just an example, and a
+small example, of what a deep fake synthetic video can do. And
+we've seen this insidious capability. We're seeing, I think,
+the birth of it. But I certainly support my colleagues in how
+we can get our arms around this as a country. I think it's
+important to note that Mr. Beyer and I both consented to that
+video, but as, you know, putting words in the mouth of a U.S.
+Army Green Beret and cheering on for Navy is not the worst
+application of this technology, and it's certainly not
+difficult to imagine how our enemies or criminal groups can
+wreak havoc on governments, on elections, on businesses, on
+competitors, and the privacy of all Americans. So these videos,
+and this technology, have the potential to truly be a weapon
+for our adversaries.
+We know that advanced deep fake technology exists within
+China and Russia. We know that they have the capability, and
+that both countries have demonstrated a willingness to use
+asymmetric warfare capabilities. So, as the technology for
+generating deep fakes improves, we do risk falling behind on
+the detection front. That's why this hearing is so important,
+and I certainly commend you for calling it. It will help us
+examine solutions for both detecting and debunking the deep
+fakes of the future. And, you know, at the end of the day, I
+just have to say go Army, beat Navy. I yield back.
+[The prepared statement of Mr. Waltz follows:]
+What you just saw was an example of a ``deepfake,'' or
+synthetic video that can be generated thanks to advancements in
+artificial intelligence and machine learning.
+As we have just seen, deepfakes have the ability to make
+people-myself included-appear as though they have said or done
+things that they have never said or done. And advancements in
+the underlying technology, as we will hear today, are making it
+much more difficult to distinguish an authentic recording from
+synthetic, deepfake impersonations.
+Importantly, Mr. Beyer and I both consented to and
+participated in the creation of this deepfake. But a Green
+Beret cheering for Navy is not the worst application of the
+technology.
+It's not difficult to imagine how deepfakes of
+nonconsenting individuals could be used to wreak havoc on
+governments, elections, business, and the privacy of
+individuals.
+Deepfakes have the potential to be a weapon for our
+adversaries and we know that advanced deepfake technology
+exists in China and Russia and that both countries have
+asymmetric warfare capabilities.
+As the technology for generating deepfakes improves, we
+risk falling behind on the detection front. That's why today's
+hearing is so important. It will help us examine solutions for
+detecting and debunking deepfakes of the future.
+Thank you Chairwoman Sherrill and Ranking Member Norman for
+convening this important hearing.
+Yield back.
+Chairwoman Sherrill. I don't know why I let you testify in
+my--no, thank you very much. Those were really sobering
+comments, and I appreciate you both for showing us a little bit
+of what we're contending with.
+[The prepared statement of Chairwoman Johnson follows:]
+Thank you Madam Chair, and I would like to join you in
+welcoming our witnesses this morning.
+I'm glad we're holding this hearing today. It's worth
+acknowledging just how deeply the phenomenon of online
+disinformation affects most of our lives these days. As long as
+there's been news, there's been fake news. But the American
+people are far more connected than they used to be. And the new
+tools that enable fake images, misleading public discourse,
+even long passages of text are alarming in their
+sophistication. Maybe we all should have seen this coming, the
+explosion of disinformation that would accompany the
+information age.
+I suspect my colleagues here in the House are already
+taking this matter seriously, because in a way, online
+imposters and twisted facts on the internet present a real and
+active threat to the way we do our own jobs. We all use social
+media to connect with our constituents and to hear about their
+concerns. My staff want to read the comments and the posts from
+the people in Dallas and hear what they have to say. If I am to
+believe that a large percentage of the comments on Twitter are
+coming from ``bots'' or some other source of disinformation,
+the waters get muddy very quickly.
+We have to acknowledge the serious legacy of disinformation
+is in this country. In the late 1970s, I was working under
+President Carter as a Regional Director for the Department of
+Health. Around that time, the Soviet Union's KGB kicked off a
+campaign to plant the idea that the United States government
+invented HIV and AIDS at Fort Detrick. The KGB wrote bogus
+pamphlets and fake scientific research and distributed them at
+global conferences. It sold a complex narrative in which the
+United States military deliberately infected prisoners to
+create a public health crisis -- biological warfare against our
+own people. The KGB's efforts were so pervasive that by 1992,
+15% of Americans considered it ``definitely or probably true''
+that the AIDS virus was created deliberately in a government
+laboratory. Decades later, a 2005 study found that a
+substantial percentage of the African American community
+believed that AIDS was developed as a form of genocide against
+black people.
+How absolutely devastating such disinformation can be. It
+is clear that information warfare can have such profound,
+destructive effects. I think it is long past time to recognize
+how vulnerable we are to the next generation of hostile actors.
+As Chairwoman Sherrill said, the first step in addressing a
+big problem is understanding it. Not every Member of this
+Committee, myself included, is well-versed in what a ``deep
+neural network'' is or how a ``GAN'' works. However, we have a
+sense already that the federal government is likely to need to
+create new tools that address this issue.
+We also need to have a serious conversation about what we
+expect from the social media platforms that so many of us use
+every day. These companies have enjoyed a level of growth and
+success that is only possible in the United States. They were
+created in garages and dorm rooms, but they stand on the
+shoulders of giants like DARPA, which created the internet, and
+the National Science Foundation, which developed the backbone
+of computer networks that allowed the internet to blossom. The
+American consumer has been overwhelmingly faithful to social
+media over the past decade. We will need those companies to
+help combat disinformation. It can no longer be ignored.
+I am pleased to welcome our witnesses today, and I'm also
+pleased that we had bipartisan agreement in yesterday's markup
+on a bill that would enable more research on deep fakes. These
+issues require a bold bipartisan response. I thank my
+colleagues on both sides of the aisle for working together to
+address these important issues. With that, I yield back.
+[The prepared statement of Mr. Norman follows:]
+Good afternoon and thank you, Chairwoman Sherrill, for
+convening this important hearing.
+We are here today to explore technologies that enable
+online disinformation. We'll look at trends and emerging
+technology in this field, and consider research strategies that
+can help to detect and combat sophisticated deceptions and so-
+called ``deepfakes.''
+Disinformation is not new. It has been used throughout
+history to influence and mislead people.
+What is new, however, is how modern technology can create
+more and more realistic deceptions. Not only that, but modern
+disinformation can be spread more widely and targeted to
+intended audiences.
+Although media manipulation is nothing new, it has long
+been limited to altering photos. Altering video footage was
+traditionally reserved for Hollywood studios and those with
+access to advanced technological capabilities and financial
+resources.
+But today, progress in artificial intelligence and machine
+learning have reduced these barriers and made it easier than
+ever to create digital forgeries.
+In 1994, it cost $55 million to create convincing footage
+of Forrest Gump meeting JFK. Today, that technology is more
+sophisticated and widely available.
+What's more, these fakes are growing more convincing and
+therefore more difficult to detect. A major concern is this: as
+deepfake technology becomes more accessible, the ability to
+generate deepfakes may outpace our ability to detect them.
+Adding to the problem of sophisticated fakes is how easily
+they can spread. Global interconnectivity and social networking
+have democratized access to communication.
+This means that almost anyone can publish almost anything
+and can distribute it at lightspeed across the globe.
+As the internet and social media have expanded our access
+to information, technological advancements have also made it
+easier to push information to specific audiences.
+Algorithms used by social media platforms are designed to
+engage users with content that is most likely to interest them.
+Bad actors can use this to better target disinformation.
+For example, it is difficult to distinguish the techniques
+used in modern disinformation campaigns from the those used in
+ordinary online marketing and advertising campaigns.
+Deepfakes alone are making online disinformation more
+problematic. But when combined with novel means for
+distributing disinformation to ever more targeted audiences,
+the threat is even greater.
+Fortunately, we are here today to discuss these new twists
+to an old problem and to consider how science and technology
+can combat these challenges.
+I look forward to an engaging discussion with our
+distinguished panel of witnesses on how we can better address
+online disinformation.
+Thank you again, Chairwoman Sherrill, for holding this
+important hearing, and thanks to our witnesses for being here
+today to help us develop solutions to this challenge. I look
+forward to hearing your testimony.
+I yield back.
+Chairwoman Sherrill. At this time I would like to introduce
+our three witnesses.
+First we have Dr. Siwei Lyu. Dr. Lyu is a Professor at the
+University of Albany's College of Engineering and Applied
+Sciences. He is an expert in machine learning, and media
+forensics. Next is Dr. Hany Farid. Dr. Farid is a Professor at
+the University of California Berkeley School of Electrical
+Engineering and Computer Science and the School of Information.
+Dr. Farid's research focuses on digital forensics, image
+analysis, and human perception. Last we have Ms. Camille
+Francois. Ms. Francois is the Chief Innovation Officer at
+Graphika, a company that uses artificial intelligence to
+analyze online communities and social networks.
+As our witnesses should know, you will each have 5 minutes
+for your spoken testimony. Your written testimony will be
+included in the record for the hearing. When you all have
+completed your spoken testimony, we will begin with questions.
+Each Member will have 5 minutes to question the panel. And
+we'll start with you, Dr. Lyu.
+TESTIMONY OF DR. SIWEI LYU,
+PROFESSOR, DEPARTMENT OF COMPUTER SCIENCE,
+DIRECTOR, COMPUTER VISION AND MACHINE LEARNING LAB,
+UNIVERSITY AT ALBANY, STATE UNIVERSITY OF NEW YORK
+Dr. Lyu. Good afternoon, Chairwoman Sherrill, Ranking
+Member Lucas, and Members of the Committee. Thank you for
+inviting me today to discuss the emerging issue of deep fakes.
+You have just seen a deep fake video we created for this
+hearing, so let me first briefly describe how this video, and
+similar fake videos, are made.
+Making a deep fake video requires a source and a target. In
+this case, the source was Representative Beyer, and the target
+was Representative Waltz. Mr. Beyer's staff was kind enough to
+prepare a video of the Congressman for this project. While Mr.
+Waltz's office consented to this video demonstration, it is
+important to know that we didn't use any video from his office.
+Instead, we conducted an Internet search for about 30 minutes,
+and found one suitable minute-long YouTube video of Mr. Waltz,
+and that's our target video. The next step involves a software
+tool we developed, which used deep neural networks to create
+the fake video. It is important to note that our tool does not
+use a generative adversary network, or GAN.
+It first trains the deep neural network models using the
+source and the target video. It then used the models to extract
+facial expressions in the source video of Mr. Beyer, and
+generate a video of Mr. Waltz with the same facial expressions.
+The audio track is from the original video of Mr. Beyer, and
+was not modified. The training and the production are performed
+on a computer equipped with a graphical processing unit, or
+GPU. The computer and the GPU can be purchased from Amazon for
+about $3,000. The overall training and production took about 8
+hours, and were completely automated, after setting a few
+initial parameters.
+So a similar process was also used to generate the fake
+videos that are being displayed on the screen right now.
+Although we do not distribute this particular software, true,
+similar software making deep fakes can be found on code-sharing
+platforms like GitHub, and are free for anyone to download and
+to use. With the abundance of online media we share, anyone is
+a potential target of a deep fake attack.
+Currently there are active research developments to
+identify, contain, and obstruct deep fakes before they can
+inflict damages. The majority of such research is currently
+sponsored by DARPA (Defense Advanced Research Projects Agency),
+most notably the MediFor (Media Forensics) program. But it is
+also important that the Federal Government fund more research,
+through NSF (National Science Foundation), to combat deep
+fakes. As an emerging research area that does not fall squarely
+into existing AI (artificial intelligence) or cybersecurity
+programs, it may be wise to establish a new functional program
+at NSF dedicated to similar emerging technologies. It can serve
+as an initial catch-all for similar high-risk and high-impact
+research until either an existing program's mission is
+expanded, or a new dedicated program is established.
+We should also examine the approaches we share software
+code and tools, especially those with potential negative
+impacts like deep fakes. Therefore, it may be wise to consider
+requiring NSF to conduct reviews of sponsored AI research and
+enforcing controls on the release of software codes or tools
+with dual use nature. This will help to reduce the potential
+misuses of such technologies.
+Last, but not least, education on responsible research
+should be an intrinsic part of AI research. Investigators
+should be fully aware of the potential impact of the sponsored
+research, and provide corresponding trainings to the graduate
+students and post-docs working on the project. Again, NSF could
+enforce such ethics training and best practices through a
+mandatory requirement to sponsored research projects. The
+creation of new cross-function NSF programs for emerging
+technologies, the introduction of controls on the release of
+NSF-funded AI research with potential dual use, and required
+ethics training for NSF-funded AI research will go far in
+defending against the emerging threat posted by deep fakes.
+Thank you for having this hearing today, and giving me the
+opportunity to testify. I'm happy to answer any questions you
+may have. Thank you.
+[The prepared statement of Dr. Lyu follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Sherrill. Thank you very much. Dr. Farid?
+TESTIMONY OF DR. HANY FARID,
+PROFESSOR, ELECTRICAL ENGINEERING AND
+COMPUTER SCIENCE AND THE SCHOOL OF INFORMATION,
+UNIVERSITY OF CALIFORNIA, BERKELEY
+Dr. Farid. Chairwoman Sherrill, Ranking Member Lucas, and
+Members of the Committee, thanks for the opportunity to talk
+with you today on this important topic. Although disinformation
+is not new, what is new in the digital age is the
+sophistication with which fake content can be created, the
+democratization of access to sophisticated tools for
+manipulating content, and access to the Internet and social
+media, allowing for the delivery of disinformation with an
+unprecedented speed and reach.
+The latest incarnation in creating fake audio, image, and
+video, so-called deep fakes, is being fueled by rapid advances
+in machine learning, and access to large amounts of data.
+Although there are several variations, the core machinery
+behind this technology is based on a combination of traditional
+techniques in computer vision and computer graphics, and more
+modern techniques from machine learning, namely deep neural
+networks. These technologies can, for example, from just
+hundreds of images of the Chairwoman, splice her likeness into
+a video sequence of someone else. Similar technologies can also
+be used to alter a video of the Chairwoman to make her mouth
+consistent with a new audio recording of her saying something
+that she never said. And, when paired with highly realistic
+voice synthesis technologies that can synthesize speech in a
+particular person's voice, these deep fakes can make a, for
+example, CEO announce that their profits are down, leading to
+global stock manipulation; a world leader announcing military
+action, leading to global conflict; or a Presidential candidate
+confessing complicity to a crime, leading to the disruption of
+an election.
+The past 2 years have seen a remarkable increase in the
+quality and sophistication of these deep fakes. These
+technologies are not, however, just relegated to academic
+circles or Hollywood studios, but are freely available online,
+and have already been incorporated into commercial
+applications. The field of digital forensics is focused on
+developing technologies for detecting manipulated or
+synthesized audio, images, and video, and within this field
+there are two broad categories: Proactive and reactive
+techniques.
+Proactive techniques work by using a specialized camera
+software to extract a digital signature from a recorded image
+or video. This digital signature can then be used in the future
+to determine if the content was manipulated from the time of
+recording. The benefit of this approach is that the technology
+is well-understood and developed. It's effective, and it is
+able to work at the scale of analyzing billions of uploads a
+day. The drawback is that it requires all of us to use
+specialized camera software, as opposed to the default camera
+app that we are all used to using, and it requires the
+collaboration of social media giants to incorporate these
+signatures and corresponding labels into their systems.
+Notice that these proactive techniques tell us what is
+real, not what is fake. In contrast, reactive techniques are
+focused on telling us what is fake. These techniques work on
+the assumption that digital manipulation leaves behind certain
+statistical, geometric, or physical traces that, although not
+necessarily visually obvious, can be modeled and
+algorithmically detected. The benefit of these techniques is
+that they don't require any specialized hardware or software.
+The drawback is that, even despite advances in the field, there
+are no universal forensic techniques that can operate at the
+scale and speed needed to analyze billions of uploads a day.
+So, where do we go from here? Four points. One, funding
+agencies should invest at least as much financial support to
+programs in digital forensics as they are in programs that are
+fueling advances that are leading to the creation of, for
+example, deep fakes. Two, researchers that are developing
+technologies that can be weaponized should give more thought to
+how they can put proper safeguards in place so that their
+technologies are not misused. Three, no matter how quickly
+forensic technology advances, it will be useless without the
+collaboration of the giants of the technology sector. The major
+technology companies, including Facebook, Google, YouTube, and
+Twitter, must more aggressively and proactively develop and
+deploy technologies to combat disinformation campaigns. And
+four, we should not ignore the non-technical component of the
+issue of disinformation, us--the users. We need to better
+educate the public on how to consume trusted information, and
+not spread disinformation.
+I'll close with two final points. First, although there are
+serious issues of online privacy, moves by some of the
+technology giants to transform their platform to an end-to-end
+encrypted system will make it even more difficult to slow or
+stop the spread of disinformation. We should find a balance
+between privacy and security, and not sacrifice one for the
+other. And, last, I'd like to re-emphasize that disinformation
+is not new, and deep fakes is only the latest incarnation. We
+should not lose sight of the fact that more traditional human-
+generated disinformation campaigns are still highly effective,
+and we will undoubtedly be contending with yet another
+technological innovation a few years from now. In responding to
+deep fakes, therefore, we should consider the past, the
+present, and the future as we try to navigate the complex
+interplay of technology, policy, and regulation, and I'm sorry
+I'm 15 seconds over.
+[The prepared statement of Dr. Farid follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Sherrill. Thank you very much. Ms. Francois?
+TESTIMONY OF MS. CAMILLE FRANCOIS,
+CHIEF INNOVATION OFFICER, GRAPHIKA
+Ms. Francois. Chairwoman Sherrill, and Ranking Member
+Lucas, Members of the Committee, thank you for having me here
+today. We're here to discuss the growing issue of online
+imposters and disinformation. As you know, this problem is
+nuanced and complex. I've been looking at disinformation
+campaigns for many years, and I have seen great diversity in
+the types of actors, techniques, and impacts that those
+disinformation campaigns can have. I want to highlight that,
+while we tend to focus on fake content, the most sophisticated
+actors I have seen operate online actually tend to use
+authentic content weaponized against their targets. This is
+what I want to talk about a little bit more.
+It's really hard to give a sense of the growing and global
+scale of the issue, but here are a few recent examples. Today a
+report by my colleagues over at the Oxford Internet Institute
+highlighted that more than 70 countries currently use
+computational propaganda techniques to manipulate public
+opinion online. Since October 2018, Twitter has disclosed
+information around more than 25,000 accounts associated with
+information operations in 10 different countries.
+Twitter is one thing. On Facebook, over 40 million users
+have followed pages that Facebook has taken down for being
+involved in what they call coordinated inauthentic behavior.
+Those may seem like huge numbers, but, in fact, they represent
+a needle in a haystack, and the danger of this particular
+needle is its sharpness. Targeting specific communities at the
+right time, and with the right tactics, can have a catastrophic
+impact on society, or on an election. That impact remains very
+difficult to rigorously quantify. For instance, if you take a
+fake account, what matters is not just the number of followers
+it has, but who those followers are, how they have engaged with
+the campaign, and how they have engaged both online and
+offline. Similarly, for a piece of content, it's not often the
+payload that matters, but really the delivery system, and the
+targeted system.
+We are finding more and more state and non-state actors
+producing disinformation. What keeps me awake at night on this
+issue is also the booming market of disinformation for hire.
+That means troll farms that one can rent, bot networks that one
+can purchase, for instance. These tools are increasingly
+attractive to domestic political actors, who also use them to
+manipulate American audiences online. I see that you discovered
+how easy it was to make a deep fake, and I encourage you to
+also discover how easy it is to buy a set of fake accounts
+online, or, frankly, to purchase a full blown disinformation
+campaign.
+The good news here, if there is any, is that, as a society,
+and as a professional field, we've come a long way since 2016.
+These problems began long before 2016, but it really took the
+major Russian interference in the U.S. election to force us
+toward a collective reckoning. In 2016 the top platforms, law
+enforcement, and democratic institution sleepwalked through the
+Russian assault on American democratic processes. Those who
+raised the alarm were, at best, ignored. Today we're in a
+better place. We have rules, definition, and emerging processes
+to tackle these campaigns. Coordination between researchers,
+platforms, and public agencies have proven successful, for
+instance, in protecting the U.S. 2018 midterms from Russian
+disinformation efforts. Then, those actors worked hand in hand
+to detect, take down, and, to a certain extent, document the
+Russian attempts to deceive an manipulate voters.
+We still have a long way to go, but the scale of the
+problem is staggering. Sophisticated state actors, and, again,
+a growing army of hired guns, are manipulating vast networks'
+interactions among billions of people on dozens of platforms,
+and in hundreds of countries. This manipulation is
+discoverable, but almost in a way that a submarine is
+discoverable under the ocean. What you really need is
+sophisticated sensors that must evolve as rapidly as the
+methods of evasion. That requires a serious investment in the
+development of analytic models, computational tools, and domain
+expertise on adversary trade crafts. We need better technology,
+but also more people able to develop and adopt rapidly evolving
+methods.
+Accomplishing this also requires access to data, and that
+is currently the hardest conversation on this topic. The task
+at hand is to design a system that guarantees user security and
+privacy, while ensuring that the corps of scientists,
+researchers, and analysts can access the data they need to
+unlock the understanding of the threats, and harness innovative
+ways to tackle the issue. Today we're very far from having such
+a system in place. We critically need not just the data, but
+the community of scholars and practitioners to make sense of
+it. That emerging field of people dedicating to ensuring the
+integrity of online conversation needs support, funding, and a
+shared infrastructure.
+[The prepared statement of Ms. Francois follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Sherrill. Thank you, Ms. Francois. We'll have to
+get to the rest of it as we go through the questions, but thank
+you very much. At this point we'll begin our first round of
+questions, and I'm going to recognize myself for 5 minutes.
+I'd just like to start with Dr. Farid and Dr. Lyu, because
+we read a lot about the potential for deep fakes to be used on
+political candidates, and we watched Dr. Lyu's very compelling
+example here in this room, so thank you for that brilliant
+demonstration. I hope my fellow Members of Congress who aren't
+in the room today will actually get a chance to see for
+themselves, and hear just how limitless the potential impacts
+of deep fakes can be.
+Let's talk about some hard truths. On a scale of 1 to 10,
+what do you think are the chances of a convincing video deep
+fake of a political candidate, someone running for Congress, or
+President, or Governor, emerging during the 2020 election
+cycle, and why do you think that?
+Dr. Farid. I'm going to save five, to minimize my chances
+of being wrong. I am--and for another reason too, that I think
+we shouldn't--despite the sophistication of deep fakes, we
+shouldn't overlook that traditional disinformation works really
+well, and it's easy, right? Teenagers in Macedonia were
+responsible for a lot of the disinformation campaigns we saw in
+2016. So I think it's coming. I don't know whether it'll be in
+2020, or 2022, or 2024, but largely because the cheap stuff
+still works, and it's going to work for a while. I think we'll
+eventually get out ahead of that, and then this will be the new
+front.
+But I think it is just a matter of time. We've already seen
+nefarious uses of deep fakes for cases of fraud, and I think
+the bigger threat here is not going to be--the first threat I
+predict is not going to be an actual deep fake, but the
+plausible deniability argument, that a real video will come
+out, and somebody will be able to say, that's a deep fake. And
+that, in some ways, is the larger threat that I see coming down
+the road, is once anything can be faked, nothing is real
+anymore. And I think that's probably more likely to happen
+before the first real deep fake comes out.
+Chairwoman Sherrill. That's interesting. Dr. Lyu?
+Dr. Lyu. Yes. Thank you for the question. As, actually, I
+mentioned in the opening remarks, the technical capability of
+making high-quality deep fakes is already at the disposal of
+whoever wants to make it. As I mentioned, for the deep fake
+videos we made, we have a specially made software, but anybody
+can potentially also develop similar softwares based on the
+open-source software on the GitHub, and then they can just buy
+a computer for about, you know, a couple thousand dollars, and
+then run this for a couple hours. Everything is automatic. So
+this is really the reality that, you know, people, whoever want
+to make these kind of videos, they have that capacity.
+However, the question whether we will see such a video in a
+coming election really--as Professor Farid mentioned, depends
+on a lot of other factors, especially, you know, deep fake is
+not the only approach for disinformation. So it is kind of
+difficult to come up with a precise number there, but the
+possibility is certainly substantial. Thank you.
+Chairwoman Sherrill. Thank you. And then, Ms. Francois, you
+have a lot of experience observing how trolls and bots behave
+when they identify a hoax they might want to spread. If a
+convincing deep fake of a politico emerges next year, what do
+you expect the bot and troll participation to look like in
+proliferating the video? In other words, will we see this sort
+of erupt all at once, or does it percolate in dark areas of the
+Internet for a short-period of time before it emerges? How does
+that work?
+Ms. Francois. All of the above are possible. I will say
+that, if we are facing a sophisticated actor able to do a
+convincing deep fake, they will be able to do a convincing
+false amplification campaign, too.
+Chairwoman Sherrill. Thank you very much. And then, Dr.
+Farid, you said in your testimony that researchers working on
+technologies to detect disinformation should give more thought
+to proper safeguards so their work cannot be misused or
+weaponized. What kind of safeguards do you believe could be
+adopted voluntarily by the research community to protect
+against the spread of disinformation?
+Dr. Farid. Good. So I think there's two things that can be
+done. So, first, you have to understand in computer science we
+have an open source culture, which means we publish work, and
+we put it out there. That's been the culture, and it's
+wonderful. It's a wonderful culture. But when that technology
+can be weaponized, maybe we should think about putting the
+data, and the code, and the GitHub repository, where anybody
+can download it, as Professor Lyu was saying. So that's number
+one, is just think about how you disseminate. We can still
+publish and not put the details of it out so that anybody can
+grab it, No. 1.
+No. 2 is, there are mechanisms by which we can incorporate,
+into synthetic media, watermarks that will make it easier for
+us to identify that. That can become a standard. We can say
+academic publishers who are going to post code should
+incorporate into the result of their technology a distinct
+watermark. That is not bulletproof, it's not that it can't be
+attacked, but it's at least a first line of defense. So those
+are the two obvious things that I can see.
+Chairwoman Sherrill. That was perfect timing. Thank you
+very much, I appreciate it. I would now like to recognize Mr.
+Lucas for 5 minutes.
+Mr. Lucas. Thank you, Madam Chair. Dr. Farid, following up
+on what the Chair was discussing, in your written statement you
+say that no matter how quickly forensic technology for
+detecting deep fakes develops, it'll be useless without the
+cooperation of the technology giants like Google and Facebook.
+How do we bring those people to the table to begin this
+collaboration?
+Dr. Farid. Yes. So the bad news is they have been slow to
+respond, for decades, really. It's not just disinformation.
+This is the latest, from child sexual abuse, to terrorism, to
+conspiracy theories, to illegal drugs, illegal weapons. The
+technology sector has been very slow to respond. That's the bad
+news. The good news is I think a combination of pressure from
+here on Capitol Hill, from Brussels, from the UK, and from the
+public, and from advertisers, there is now an acknowledgement
+that we have a problem, step number one.
+Step number two is, what are we going to do about it? And I
+still think we are very slow here, and what you should
+understand is we are fighting against business interests,
+right? The business model of Facebook, Google, YouTube, Twitter
+is data, it's content. Taking down content is bad for business.
+And so we have to find mechanisms and either through regulatory
+pressure, advertising pressure, public pressure, bring them to
+the table. I will say the good news is, in the last 6 months,
+at least the language coming out of the technology sector is
+encouraging. I don't know that there's a lot of action yet.
+So I will give you an example. We all saw a few months ago
+an altered video of Speaker Pelosi. This was not a confusing
+video, we all knew it was fake, and yet Facebook gleefully let
+it on their platform. In fact, defended the decision to leave
+it on their platform, saying, we are not the arbiters of truth,
+OK? So we have two problems now. We have a policy problem, and
+we have a technology problem. I can help with the technology
+problem. I don't know what I can do about the policy problem,
+when you say, we are not the arbiters of truth. So I think we
+have to have a serious look at how to put more pressure on the
+technology sector, whether that's regulatory, or legislative,
+or advertising, or public pressure, and they have to start
+getting serious as to how their platforms are being weaponized
+to great effect in disrupting elections, and inciting violence,
+and sowing civil unrest. I don't think they've quite come to
+grips with that reality.
+Mr. Lucas. Well, when that moment comes, and inevitably it
+will, in your opinion, what will that collaboration look like?
+There's a government element, there's an academic element,
+there's a public-private partnership element.
+Dr. Farid. Yes.
+Mr. Lucas. Can you just----
+Dr. Farid. Sure.
+Mr. Lucas [continuing]. Daydream for a moment here with me?
+Dr. Farid. So I think the good news is the Facebooks and
+the Googles of the world have started to reach out to
+academics, myself included, Professor Lyu included. We now
+receive research funding to help them develop technology.
+That's good. I think the role of the government is to coax them
+along with regulatory pressure. I think what we've noticed over
+the last 20 years of self-regulation is not working. I'd like
+it to work, but it doesn't work in this particular space.
+So I think the role of the government can be through
+oversight, it can be regulatory, it can be through a cyber
+ethics panel that is convened to talk about the serious issues
+of how technology is being weaponized in society. But very much
+I think the academic/industry model has to work, because most
+of the research that we are talking about is happening at the
+academic side of things, and obviously the industry has
+different incentives than we do in the academy, so I think
+there is room for everybody.
+I'll also mention this is not bounded by U.S. borders. This
+is very much an international problem, so we should be looking
+across the pond to our friends in the UK, in the EU, and New
+Zealand, and Australia, and Canada, and bringing everybody on
+board because this is a problem for not just us, but for the
+whole world.
+Mr. Lucas. One last question. In your written testimony you
+suggest there's a non-technological component to solving the
+problem related to deep fakes and disinformation. Specifically,
+you wrote that we need to educate the public on how to consume
+trusted information, and how to be better digital citizens.
+What should this public education initiative----
+Dr. Farid. Yes.
+Mr. Lucas [continuing]. Look like?
+Dr. Farid. I'm always reluctant to say this, because I know
+how taxed our schools are in this country, but at some point
+this is an educational issue, starting from grade school on the
+way up. And, as an educator, I think this is our role. We have
+to have digital citizenry classes. Some of the European
+countries have done this. France is starting to do this, the UK
+is starting to do it. Public service announcements (PSAs)
+explaining to people how information can be trusted, what
+disinformation is, but we've got to start taking more seriously
+how we educate the next generation, and the current generation.
+And whether that's through the schools, through PSAs, through
+industry sponsored PSAs, you know, I think all of those are
+going to be needed.
+Mr. Lucas. And you would agree that our technology giant
+friends have a role in that education process?
+Dr. Farid. They absolutely have a role. They made this
+mess, they need to help fix it.
+Mr. Lucas. Very concise. Thank you, Doctor. I yield back,
+Madam Chair.
+Chairwoman Sherrill. Thank you, Mr. Lucas. And now, Ms.
+Wexton, I recognize you for 5 minutes.
+Ms. Wexton. Thank you, Madam Chair, and thank you to the
+panelists for appearing today. I want to speak a little bit
+about the explosive growth that the major social platforms have
+experienced over the past few years, because I'm worried that
+these companies are more focused on growth, and getting more
+users, than they are about essential oversight and user support
+functions. And, in fact, as has been noted, they disclaim
+responsibility for any information that goes out onto the web
+by the users. And, in fact, it seems to me that they have a
+disincentive to purge suspicious, or fake, or bot accounts.
+You know, I have here an article from July of last year,
+where Twitter's stock price went down by about eight and a half
+percent after they purged, over the course of two months, 70
+million suspicious accounts. Now, don't feel too bad for
+Twitter, because their stock price went up 75 percent over that
+six month period, but, you know, by being socially responsible,
+or by being responsible, it hurt their bottom line.
+Now, the platforms are incredibly powerful. We have already
+seen the power that they have here in the capitol, not just
+because of the lobbyists and everything, but because we all use
+them. We all have those platforms on our phones, and on our
+various devices. And, Dr. Farid, you spoke a little bit about
+how the basic features of the technology and the business model
+at social media companies kind of help exacerbate the
+proliferation of disinformation. Can you explain, from a
+business perspective, what benefit a bot account or a fake
+account might represent for a social media company?
+Dr. Farid. Sure. So, first of all, I think you're
+absolutely right that growth has been priority No. 1. And
+because the metrics of Silicon Valley are number of users,
+number of minutes online, it's because that's what eventually
+leads to advertising dollars. What we have to understand is
+that Silicon Valley, for better or worse, today is driven by ad
+revenue, and ad revenue is optimized by having more engagement,
+OK? So fake account, real account, don't care. Fake like, real
+like, fake tweet, doesn't matter, right, because at the end of
+the day, you get to report big numbers to the advertisers who
+are going to pay more money. Whether 50 percent of those
+accounts are fake or not, who's to know?
+So that's the underlying poison, if you will, of Silicon
+Valley, I think, and is the reason why the system is entirely
+frictionless, by design. There's no friction to creating an
+account on Twitter, or on Facebook, or on YouTube, because they
+want that to be easy. They want bots to be able to create these
+things because that is what elevates the numbers. And I think
+this is sort of our core problem that we have here.
+Ms. Wexton. So, related to that, why would social media
+companies allow, or even encourage, their recommendation
+algorithms to----
+Dr. Farid. Good.
+Ms. Wexton [continuing]. Put people, you know, to direct
+users to----
+Dr. Farid. Good.
+Ms. Wexton [continuing]. Suggested videos, or things like
+that, that are sensational, or even false? Why would they do
+that?
+Dr. Farid. The metric on YouTube is engagement, how long do
+you stay on the platform? And so what the algorithms learn is
+that, if I show you a video that is conspiratorial, or
+outrageous, you are more likely to click on it and watch it. If
+you are more likely to click or watch, you're going to stay on
+the platform longer, right? So the algorithms are not trying to
+radicalize you. What they are trying to do is to keep you on
+the platform for as long as possible. And it turns out, in the
+same way that people will eat candy all day long instead of
+broccoli, people will watch crazy videos all day long instead
+of PBS. I don't think this is surprising. And so the underlying
+algorithms, what they are being optimized for, in part, is
+exactly this.
+And we have been studying the nature of these conspiracy
+videos for over a year now, and I will tell you that, despite
+claims to the contrary, there is a rabbit-hole effect, that
+once you start watching the slightly crazy conspiratorial
+videos, you will get more and more and more of that because you
+are more likely to click, you are more likely to view, they're
+going to get more data, and they're going to sell more
+advertising. That's the underlying business model, is how long
+do you stay on my platform? And, in that regard, the quality of
+the information is utterly unimportant to the platforms. It is
+what keeps you there.
+Ms. Wexton. So maybe we should all have more cats and
+kittens, and less conspiracy?
+Dr. Farid. I'm all for cat videos.
+Ms. Wexton. So, switching gears a little bit, yesterday
+this Committee--we marked up a bill, it was Congressman
+Gonzalez's bill, that would expand research into technologies
+to help us better identify deep fake videos. And I had an
+amendment which was made in order, and approved by the
+Committee, to help increase education to help people identify
+deep fake videos, and so I was encouraged to hear you talk
+about that. So I would inquire of the panel, do you have any
+advice on what the most important elements of a public
+education campaign on deep fake videos should be?
+Dr. Farid. Again, you know, I am reluctant to put this on
+our public schools. I think they are overtaxed, and overworked,
+and underfunded. But at the end of the day, this is sort of
+where it belongs. And I think if we can do this, not as an
+unfunded mandate, but actually give them the resources to
+create courses of digital citizenry, of how you are a better
+digital citizen, how you can trust information and not trust
+information.
+I'll point out too, though, by the way, it's not just the
+young people. The senior citizens among us are more likely to
+share fake news than the young people, so this is across the
+spectrum. So I'm more--this--for me, the education level is
+more about the next 20, 30, 40 years than necessarily today. So
+I think a combination of PSAs, about returning to trusted
+sources, and about educating kids not just, by the way, about
+trusted information, but how to be a better digital citizen,
+how to interact with each other. The vitriol that we see online
+is absolutely horrific, and the things that we accept online we
+would never accept in a room like this, and I think we have to
+start teaching the next generation that this is not a way that
+we interact with each other. We need a more civil discourse.
+Chairwoman Sherrill. Thank you, Dr. Farid. And I'd now like
+to recognize Mr. Biggs for 5 minutes.
+Mr. Biggs. Thank you, Madam Chair, and I appreciate each of
+the witnesses for being here. It's a very, very interesting
+hearing, and appreciate the Chair for convening this hearing.
+So one of the main things I'm worried about is the de facto
+gray area between misinformation and disinformation, despite
+the seemingly clear definitional difference between these
+concepts. While disinformation may be defined in terms of the
+malicious intent on the part of the sender, such intent, as
+we've seen today, can at times be very difficult to identify.
+And then, on top of that, we need to make sure the gatekeepers,
+themselves trying to police content, are objective. Objective
+enough to identify potential misinformation, and able to do so
+as expeditiously as possible.
+It seems to me that, even if we have the technological
+anti-disinformation tools that we've learned about in this
+discussion, and that we anticipate seeing developed over time,
+human judgment will always be a key component of any anti-deep
+fakes effort, and human judgment can, of course, be fallible.
+In short, the difficulties and nuances of the battle pile up
+the deeper we delve into this topic. Maybe that's why I find it
+so interesting to hear what you all have to say today.
+But I want to just get back to something, and I would say I
+feel like we've been doing what I would call an endogenous
+look, and that is what's the technology here? And you mentioned
+it, Dr. Farid, in item four on page four of your
+recommendations in your written report, but it really gets to
+what I think is a real-world problem I'd like all of you to
+respond to, and the last questioner just kind of touched on it
+a bit as well. What do you tell a 13- or 14-year-old that
+you're trying to warn of potential disinformation,
+misinformation? How do you do it as a parent, as a grandparent,
+as someone who cares for, loves, an individual. I mean, that
+really becomes a part of the equation as much as anything else
+on the technological side.
+Dr. Lyu. Well, thank you for asking the question, because
+the nature of my work, I usually show a lot of fake videos to
+my 12-year-old daughter, and she actually grow the habit of
+distrust for any video I showed to her. So I think this may be
+a very effective way to actually tell them--to show them that
+the existence of fake videos will make them aware that those
+are something they should be careful about.
+Ms. Francois. I can take the question on, you know, what
+goes beyond technology, and I want to talk about one specific
+example. I think, when you look at the most sophisticated
+campaigns that have leveraged disinformation, and we're talking
+about actors who are willingly doing this, there's still a lot
+that we don't know. So, back to the Russian example, for
+instance, which is largely seen as the best-documented
+campaign, right, on which the platforms have shared a lot of
+data. I have myself worked with the Senate Select Intelligence
+Committee to document what happened. There are still essential
+pieces of that campaign that we know nothing about, and on
+which there's no data, in the eye of the public, to really
+understand how that technology was leveraged to manipulate
+audiences, direct messages, and how the Russians used to target
+deliberately specific journalists to feed them sources. We
+don't know anything about the scale of how much of that was
+going on.
+Similarly, what the GRU was doing, alongside the IRA, is
+something that there's zero available data on. So I would go
+back to those important and large-scale campaigns that we know
+have really disrupted society and interrogate, where are our
+blind spots? How can we do better? How can we produce this data
+so that we actually are able to fully understand those tactics?
+And then, of course, to build the tools to detect it, but also
+to train people to understand it, and to build defense.
+Mr. Biggs. Thank you. Dr. Farid? What are you going to tell
+your kid?
+Dr. Farid. I, fortunately, don't have kids, so I don't have
+to struggle with this problem.
+Mr. Biggs. They're a blessing and a curse.
+Dr. Farid. I think this is difficult, because the fact is
+this generation is growing up on social media----
+Mr. Biggs. Yes.
+Dr. Farid [continuing]. And they are not reading The
+Washington Post, and The New York Times, and MSNBC, and Fox
+News. They think about information very differently. And I can
+tell you what I tell my students, which is, do not confuse
+information with knowledge. Those are very different things.
+And I think there is this tendency that it's online, therefore
+it must be true. And so my job as an educator is to make you
+critically think about what you are reading. And I don't know
+how to do that on a sort of day-to-day basis, but I do that
+every day with my students, which is critical reasoning. And
+with critical reasoning, I think everything comes.
+And, if I may, I wanted to touch one--because I think you
+made a good point about the--sort of the nuance between mis-
+and disinformation, and we should acknowledge that there are
+going to be difficult calls. There is going to be content
+online that falls into this gray area that it's not clear what
+it is, but there is black and white things out there, and we
+should start dealing with that right now, and then we'll deal
+with that gray area when we need to, but let's not get
+confounded with that gray area, and not deal with the real
+clear cut harmful content.
+Mr. Biggs. Right. So information's not knowledge. I'd like
+to tell people in Congress, activity is not progress either,
+so, I mean, we----
+Dr. Farid. We agree on that.
+Chairwoman Sherrill. Thank you, Mr. Biggs. And next I would
+like to recognize Mr. Beyer for 5 minutes.
+Mr. Beyer. Madam Chair, thank you very much. Dr.--Ms.
+Francois--so Dr. Lyu talked about funding more civilian
+research through the National Science Foundation, and setting
+up an emerging technologies directorate, and you spoke about
+this emerging field of interdisciplinary scholars,
+practitioners, that needed support, funding, and shared
+infrastructure. How best do you see us making that happen? Do
+we need congressional legislation? How big a budget does it
+have to be? Is it only NSF, or NIST (National Institutes of
+Standards and Technology), or----
+Ms. Francois. That's a great question, thank you. I think
+it can be a whole of government effort, and I do think that a
+series of institutions have to get involved, because indeed, as
+I say, it's very interdisciplinary. I do think that regulation
+has to play a role too, not only to address those critical and
+complex questions, like the one of data access that I
+discussed.
+I want to build on a point that Dr. Farid made about the
+algorithmic reinforcement, as an example. This is something
+that we know is impacting society. People watch one video, and
+seem to end up in a filter bubble of conspirational video. But,
+unfortunately, we have very little serious research on the
+matter. We are making those observations on a purely empirical
+basis out of, you know, people who let their computers run. We
+can't afford to be in the dark on the impact of technology on
+society like this. And in order to do serious scientific
+research on those impacts at scale, we need data, and we need
+the infrastructure to systematically measure and assess how
+this technology is impacting our society.
+Mr. Beyer. Thank you very much. Dr. Farid, I was fascinated
+you talked about determining what's real, rather than what's
+fake, and specifically talking about the control capture
+technologies. We've had a number of Science Committee hearings
+on blockchain technology, which inevitably lead into quantum
+computing (QC) technology. Is blockchain, and ultimately QC,
+the right way to deal with this?
+Dr. Farid. I think blockchain can play a role here. So the
+basic idea, for those who don't know, blockchain--basically all
+you have to know is that it's an immutable distributed ledger.
+So immutable, when you put information on there, it doesn't
+change. Distributed as it's not stored on one central server,
+but on millions of computers, so you don't have to rely on
+trust of one individual.
+So one version of control capture is, at the point of
+capture, you extract that unique signature, cryptographically
+sign it, and you put that signature on the blockchain for
+public viewing of it, and public access to it. It's a very nice
+application of blockchain. I don't think it's critical to the
+solution. If you have a trusted central server, I think that
+would work well, but the reason why people like the blockchain
+is that I don't have to trust a Facebook, or an Apple, or a
+Microsoft, I can trust the globe. So I do see that as being
+part of the control capture environment, and being part of the
+solution of a universal standard that says, if you want your
+content to be trusted, take it with this control capture, and
+then we can trust that going down the line. I think we're
+eventually going to get there. I think it's just a matter of
+time.
+Mr. Beyer. And, Dr. Lyu, how would you contrast
+watermarking technology with the blockchain, with the control
+capture? And is one better than the other, or do you need both,
+or----
+Dr. Lyu. I think these technologies are somehow
+complementary. So watermark is the content you actually embed
+into the image, and blockchains are ways to actually
+authenticate if the watermark is consistent with the original
+contents we invited into the signal. So they can work together.
+You can imagine that we have watermark also being part of the
+blockchain, uploaded to the remote distributed serer. So they
+can work hand in hand in this case. But watermarks can also
+work independently from a single capture control mechanism for
+authenticity of digital visual media.
+Mr. Beyer. Thank you. And Ms.----
+Dr. Lyu. Thank you.
+Mr. Beyer. Ms. Francois, again, you talked about how the
+big data players, the Facebooks and Twitters, obviously are a
+huge part of the potential problem--source material, and have
+to be part of the solution, and you mentioned regulation as one
+of the pieces of the NSF/NIST piece. Not that you can do it in
+45 seconds, but anything that you guys can prepare to help our
+Energy and Commerce Committee, the committees in both houses,
+looking at how we manage the social media giants would be very,
+very appreciated. Because understanding how they've gone from
+basically unregulated unicorn game changers in our society, to
+how they can properly play within the rules, is going to be a
+really, really big challenge for us.
+Ms. Francois. I think it's going to be a lot of moving
+pieces. It's a complex problem, as I said, and I do believe
+that there's a lot of different bodies of regulation that can
+be applied and brought to bear to tackle it. One that is often
+left out of the conversation that I just want to highlight here
+is consumer protection. Dr. Farid talked about how the
+advertisers are getting the fake clicks. This can be a consumer
+protection issue. So different bodies of regulation, from cyber
+security to consumer protection, to address a whole of the
+disinformation problem, plus serious pressure to ensure that
+the data that the field needs is being shared in a way that
+makes it--for people.
+Mr. Beyer. Yes. Thank you very much, and I yield back.
+Chairwoman Sherrill. Thank you. Next I'd recognize Mr.
+Waltz for 5 minutes.
+Mr. Waltz. Thank you, Madam Chairwoman. Ms. Francois, going
+back to the disinformation campaigns that the Russians, the
+Iranians, and others have ongoing, the FBI and Department of
+Homeland Security have briefed us that they're confident, at
+least at this point in time, that active hacking into our
+election infrastructure has diminished, at least for now.
+Although I, and other colleagues, have worked to ensure
+that critical infrastructure is secured going forward, and this
+Committee has done work on that as well, but I'm interested in
+the disinformation piece of it, are you seeing increasing
+evidence of our adversaries conducting disinformation against
+individuals, whether they're thought leaders, journalists,
+politicians? For example, I could foresee hawks on Iran policy,
+or Russia, or others being specifically targeted during an
+election in order to change that election outcome, and
+therefore change our policy and voices. Are you seeing an
+increase there? What types of techniques are you seeing, and
+where are you seeing it, aside from the United States?
+One of the things that I've pushed is for us to share what
+we're gathering. For example, the Taiwanese elections, or other
+elections, for us to create a collaborative approach with our
+allies as well. This is a problem with the West, and I think
+with free speech and free thought, as much as it is with, you
+know, 2020 elections. And I'd welcome your thought.
+And then second, sorry, what would you think the response
+would be if we took more of a deterrence measure? For example,
+sending the signal that the Iranians, the Russians, and other
+bad actors, they have their own processes, and they have their
+own concerns, and often these regimes are more concerned with
+their own survival than they are with anything else, and at
+least demonstrating that we have that capability to interfere
+as well. I know that may present a lot of moral and ethical
+questions of whether we should have that capability, and
+whether we should demonstrate we should use it, but we've
+certainly taken that approach with nuclear weapons. And so I'd
+welcome your thoughts there.
+Ms. Francois. Thank you. I want to start by saying that
+part of it--yes, I am seeing an increase. Part of it is an
+increase, the other part is simply just a reckoning, as I said.
+Iran is a good example. We see a lot of disinformation
+campaigns originating from the Iranian state, who's a very
+prolific actor in that space.
+Now, people often ask me, is Iran following the Russian
+model. In reality the first Iranian campaign to use social
+media to target U.S. audiences date back from 2013, where we
+were asleep at the wheel, and not looking for them. So, despite
+our reckoning with sort of the diversity of actors who have
+been engaged with these techniques to target us, there is also
+an increase in both their scale and their sophistication. This
+is a cat-and-mouse game, and so what we also see is, as we
+detect actors and their techniques, they increase the
+sophistication. They make it harder for us to do the forensics
+that we need in order to catch those campaigns as they unfold.
+Thank you for raising the question of deterrence. I do
+think that this ultimately is a cyber policy issue too, and
+therefore the government has a role to play. In the case of the
+U.S. midterms in 2018, we saw U.S. Cyber Command target the
+Internet Research Agency in St. Petersburg in an act of this
+attempted cyber deterrence. So I do think that there is a
+governmental response too by putting this problem in the
+broader context of cyber issue and cyber conflict.
+Mr. Waltz. Thank you for raising that. I think it's
+important for my colleagues to note that was a policy change
+under this Administration that then allowed Cyber Command to
+take those kind of, what they call active defensive measures,
+and taking election security very seriously. I want to
+distinguish, though, between active defense and the potential,
+at least, and sending the signal that we have the potential for
+offense. And your thoughts there on the United States also
+participating in disinformation, or at least a deterrent
+capability?
+At the end of the day I think we can only do so much in
+playing defense here. We can only counter so much of this cat-
+and-mouse game. We have to fundamentally change our
+adversaries' behavior, and put them at risk, and their regimes
+at risk, in my own view. But I'd welcome your thoughts in my
+remaining time.
+Ms. Francois. Yes, I think the--8 minutes to answer this
+complex question on the dynamics of deterrence and resilience
+in cyberspace. I will say what immediately comes to mind is, of
+course, a question of escalation. How much of these dynamics
+contribute to escalation is something that is an unknown in
+this space.
+So far I think that the approach of being much more
+aggressive in both catching these campaigns, deactivating them,
+and publicly claiming that we have found them, and this is what
+they look like, seems to be a welcome move in this area. I
+think by exposing what actors are doing, we are also
+contributing to raising the cost for them to engaging in these
+techniques.
+Chairwoman Sherrill. Well, that was well done----
+Mr. Waltz. Thank you.
+Chairwoman Sherrill [continuing]. Ms. Francois. Thank you.
+Next I recognize Mr. Gonzalez for 5 minutes.
+Mr. Gonzalez. Thank you, Madam Chair, and thank you for
+being here, to our witnesses, and your work on this topic. A
+very important topic, and one that's a little bit new to
+Congress, but one that, alongside of Madam Chair, and others on
+this Committee, we've been excited to lead on, and I think
+we're making progress, unlike some other areas of Congress that
+I'm a part of.
+So, that being said, Dr. Lyu, I want to start with you, and
+I really just want to understand kind of where we are in the
+technology, from the standpoint of cost. So if, call it 2
+decades ago, I used the Forrest Gump example, yesterday. You
+know, Forrest Gump, if you've seen the movie, makes it looks
+like he's shaking hands with Presidents, and all kinds of
+things, and you can't tell the difference, except for you just
+know that there's no way that happened. Hollywood studio
+could've produced that, but it was costly back then, right,
+however much it costs. Today I think some numbers came out that
+you were citing that as, you know, roughly a couple thousand
+dollars. How quickly is the cost going down, to the point that
+this will be a weapon, if you will, that, you know, a 16-year-
+old sitting behind his computer could pull off?
+Dr. Lyu. I think this is basically, you know, we used to
+call this Moore's Law, where the computational power just got
+doubled every 18 months, and I think Moore's Law has already
+been broken with the coming of GPUs. The computational power
+that are at our hand is extremely higher than we have imagined
+before, and this trend is growing. So I will predict in the
+coming years it will become cheaper and easier, and also better
+to produce these kind of videos, and the computer hardware and
+algorithms will all get rapid improvements.
+Mr. Gonzalez. Yes.
+Dr. Lyu. So that's coming. I think it's a coming event.
+Thank you.
+Mr. Gonzalez. Thanks. And I actually think, you know, we
+talk a lot about great power competition in Iran, and China,
+and Russia, and I think that makes sense. I'm also maybe
+equally concerned about just a random person somewhere in
+society who has access to this, and can produce these videos
+without any problem, and the damage that that can cause. And I
+don't know that we've talked enough about that, frankly.
+But switching to Ms. Francois, you talked about how you
+found 70 countries use computational propaganda techniques in
+your analysis. And obviously a lot of this is spread through
+the platforms, and I think you talked really well about just
+how you can go down rabbit holes in the engagement metrics, and
+things like that. What do you think, and Dr. Farid, I'd welcome
+your comments as well, what do the platforms themselves need to
+be doing differently? Because it strikes me that they're being
+somewhat, or I would say, I would argue grossly irresponsible
+with how they manage some of the content on their systems
+today.
+Ms. Francois. That's a great question. I just want it
+precise that the 70 countries method comes from the Oxford
+Internet Institute report that was published today.
+Mr. Gonzalez. OK. Thank you.
+Ms. Francois. For me, the platform's play here is actually
+quite simple, and I would say clearer roles, more aggressive
+action, more transparency.
+Mr. Gonzalez. Yes.
+Ms. Francois. Let's start with clearer roles. Some
+platforms still don't have a rule that governments are not
+allowed to leverage their services in order to manipulate and
+deceive. And they will say they have rules that kind of go to
+this point, you know, tangentially, but there's still a lot of
+more clear rules that need to be established. To the second
+point, aggressive enforcement. There's still a lot of these
+campaigns that go under the radar, and that go undetected. They
+need to put the means to the table to make sure that they
+actually are able to catch, and detect, and take down as much
+of this activity as possible. My team, this week, published a
+large report on a spam campaign that was targeting Hong Kong
+protestors from Chinese accounts, and then they----
+Mr. Gonzalez. Yes.
+Ms. Francois [continuing]. Had to take it down. There's
+more that they can do. Finally, transparency. It's very
+important that the platform continue, and increase, their
+degree of transparency in saying what they're seeing on their
+services, what they're taking down, and share the data back to
+the field.
+Mr. Gonzalez. Yes. I think that makes a lot of sense. My
+fear is, you know, we're going to do the best we can. I don't
+know that, one, this is intellectually difficult to figure out,
+as Congress, and it's also politically difficult, which, to me,
+puts it in that, like, Never Never Land, if it's going to take
+a while. So my hope is that the social medial platforms
+understand their responsibility, and come to the forefront with
+exactly what you said, because if not, I don't know that we're
+going to get it right, frankly.
+But with my final question, I'll throw just the word mental
+health, and the platforms themselves, and misinformation. Any
+studies that you're aware of that are showing the impacts on
+mental health, in particular teenagers, with respect to what's
+going on on the platforms today? Anybody can answer that.
+Ms. Francois. Again, I want to say that in this field we
+direly lack the data, infrastructure, and access to be able to
+do robust at-scale studies. So there is a variety of wonderful
+studies that are doing their best with small and more
+qualitative approaches, which are really, really important, but
+we're still direly lacking an important piece of doing rigorous
+research in this area.
+Mr. Gonzalez. Thank you. And I'll follow up with additional
+questions on how we can get that data, and be smarter about
+that in Congress. So, thank you, I yield back.
+Mr. Beyer [presiding]. Thank you very much, sir. Dr. Farid,
+I understand you developed a seminal tool for Microsoft called
+PhotoDNA that detects and weeds out child pornography as it's
+posted online. Can you talk about how this tool works? Could
+this be used to address harmful memes and doctored images? And
+how do the social media companies respond to this?
+Dr. Farid. So PhotoDNA was a technology that I developed in
+2008-2009 in collaboration with Microsoft and the National
+Center for Missing and Exploited Children (NCMEC). Its goal was
+to find and remove the most horrific child sexual abuse
+material (CSAM) online. The basic idea is that the technology
+reaches into an image, extracts a robust digital signature that
+will allow us to identify that same piece of material when it
+is reuploaded. NCMEC is currently home to 80 million known
+child sexual abuse material, and so we can stop the
+proliferation and redistribution of that content.
+Last year alone, in one year, the National Center for
+Missing and Exploited Children's CyberTipline received 18
+million reports of CSAM being distributed online. That's 2,000
+an hour. 97, 98 percent of that material was found with
+PhotoDNA. It has been used for over a decade, and has been
+highly effective. Two more things. That same core technology
+can be used, for example, to find the Christchurch video, the
+Speaker Pelosi video, the memes that are known to be viral and
+dangerous. Once content is detected, the signature can be
+extracted, and we can stop the redistribution.
+And to your question of how the technology companies
+respond, I think the answer is not well. They were asked in
+2003 to do something about the global distribution of child
+sexual abuse material, and for 5 years they stalled, they did
+absolutely nothing. We're not talking about complicated issues
+here, gray areas. We are talking about 4-year-olds, 6-year-
+olds, 8-year-olds being violently raped, and the images and the
+videos of them, through these horrific acts, being distributed
+online. And the moral compass of Silicon Valley for the last
+decade has been so fundamentally broken they couldn't wrap
+their heads around their responsibility to do something about
+that.
+That doesn't bode well, by the way, for going forward, so I
+think that history is really important, and we have to remember
+that they come begrudgingly to these issues, and so we have to
+coax them along the way.
+Mr. Beyer. Thank you very much. So there--these images have
+digital signatures, even before we talk about the capture
+control technology----
+Dr. Farid. Yes.
+Mr. Beyer [continuing]. Or the watermark----
+Dr. Farid. That's exactly right. These don't have to be
+captured with specific hardware. So what we do is, after the
+point of recording, we reach in and we find a distinct
+signature that will allow us to identify, with extremely high
+reliability, that same piece of content. And that can be child
+abuse material, it can be a bomb-making video, it can be a
+conspiracy video, it can be copyright infringement material. It
+can be anything.
+Mr. Beyer. But it has to show up first----
+Dr. Farid. That's right.
+Mr. Beyer [continuing]. In the public space----
+Dr. Farid. Yes.
+Mr. Beyer [continuing]. At least once, and we have to know
+that it's there in order to capture this----
+Dr. Farid. That's the drawback. But the good news is that
+technology works at scale. It works at the scale of a billion
+uploads to Facebook a day, and 500 hours of YouTube videos a
+minute. And that's a really hard engineering problem to tackle,
+but this technology actually works, unlike many of the other
+algorithms that have extremely high error rates, and would
+simply have too many mistakes.
+Mr. Beyer. Thank you very much. Dr. Lyu, you talked about
+using AI to find AI, and that more deep neural networks are
+used to detect the fakes, but there's the sense that the good
+guys are always trying to catch up with the bad guys, you know,
+the cat-and-mouse. Is there any way around the cat-and-mouse
+nature of the problem? Which, by the way, we just saw before,
+it's got to be out there before you can tag it and chase it
+down.
+Dr. Lyu. That's a very good question. Actually, I think on
+this point, I'm more pessimistic because I don't think there's
+a way we can escape that, because that's the very nature of
+this kind of problem. Unlike other research areas, where the
+problem's fixed, we're basically dealing with a moving target.
+Whenever we have new detection or deterrent algorithms, the
+adversaries will always try to improve their algorithm to beat
+us. So I think, in the long run, this will be the situation
+that will keep going.
+But I--that also emphasize Dr. Farid's point that we need
+more investment onto the side of detection and protection for
+the sake that, you know, we have a lot more resources put into
+making deep fakes for, you know, all kinds of reasons, but the
+investment in detection has not been catching up with that
+level. So that's part of my testimony, is encouraging the
+Federal Government to put more investment into this important
+area. Thank you.
+Mr. Beyer. Ms. Francois?
+Ms. Francois. Yes, if I may add a very simple metaphor
+here, I think we also have a leveling of the playing field
+issue. We're currently in a situation where there are a lot of
+cats, and very few mouses. We need to bring the resources to
+the table that correspond to the actual scale and gravity of
+the problem.
+Mr. Beyer. OK. Great. Thank you very much. I now recognize
+the gentleman from Ohio, Mr. Gonzalez.
+Mr. Gonzalez. Thanks. Didn't know I was going to get a few
+extra seconds. So I just want to drill down on that data-
+sharing component. So you mentioned that we just need a better
+data-sharing infrastructure. Can you just take me as deep as
+you can on that? What do we need specifically? Just help me
+understand that.
+Ms. Francois. Yes. There are many different aspects to what
+we need, and I think that the--both the infrastructure, people
+involved, and type of data depend on the type of usage. So, for
+instance, facilitating academic access to at-scale data on the
+effects of technology on society is ultimately a different
+issue than ensuring that cybersecurity professionals have
+access to the types of forensics that correspond to a high-
+scale manipulation campaign that enables them to build better
+detection tools. And so I think the first step in tackling this
+problem is recognizing the different aspects of it.
+Mr. Gonzalez. Got it.
+Ms. Francois. Of course, the key component here is security
+and privacy, which here go hand in hand. What you don't want is
+to enable scenarios like Cambridge Analytica, where data abuses
+lead to more manipulation. Similarly, when we see
+disinformation campaigns, we often see a lot of real citizens
+who are caught into these nets, and they deserve the protection
+of their privacy.
+If you go down sort of the first rabbit hole of ensuring
+that cybersecurity professionals have access to the type of
+data and associated forensics that they need in order to do
+this type of detection at scale, and to build the forensics
+tool we need at scale, there's still, as I said, a lot we can
+do. The platforms right now are sharing some of the data that
+they have on these types of campaigns, but in a completely
+haphazard way. So they're free to decide when they want to
+share, what they want to share, and in which format. Often the
+format, they're sharing them in are very inaccessible, so my
+team has worked to create a database that makes that accessible
+to researchers. That's one step we can take.
+And, again, and I'll wrap on that, because this can be a
+deep rabbit hole----
+Mr. Gonzalez. Yes.
+Ms. Francois [continuing]. You pushed me down this way.
+Again, if we take the Russia example, for instance when we
+scope a collection around something that we consider to be of
+national security importance, we need to make sure we have the
+means to ensure that the picture we're looking at is
+comprehensive.
+Mr. Gonzalez. Right.
+Ms. Francois. Our own false sense of security, in looking
+at the data, thinking that they represent the comprehensive
+picture of what happened, and was directed at us, is a problem
+in our preparations for election security.
+Mr. Gonzalez. Thank you. Dr. Farid, any additional thoughts
+on that?
+Dr. Farid. Yes. I just wanted to mention, and I think Ms.
+Francois mentioned this, there is this tension between privacy
+and security, and you're seeing this particularly with
+Cambridge Analytica. And I will mention too that this is not,
+again, just a U.S. issue, this is a global issue. And with
+things like GDPR (General Data Protection Regulation), it has
+made data sharing extremely more complex for the technology
+sector.
+Mr. Gonzalez. Yes.
+Dr. Farid. So, for example, we've been trying to work with
+the sector to build tools to find child predators online, and
+the thing we keep running up against is we can't share this
+stuff because of GDPR, we can't share it because of privacy. I
+think that's a little bit of a false choice, but there is a
+sensitivity there that we should be aware of.
+Mr. Gonzalez. Yes. That's fair. I agree with you.
+Certainly, I think what you highlight, which I agree with, is
+there are gray areas----
+Dr. Farid. Yes.
+Mr. Gonzalez [continuing]. OK, but there also, like, big
+bright lines. Child pornography, let's get that off our
+platforms.
+Dr. Farid. Yes, I agree. And feels to me like, if you share
+child pornography, you have lost the right to privacy. I don't
+think you have a right to privacy anymore once you've done
+that, I should have access to your account. So I think there's
+a little bit of a false narrative coming out here, but I still
+want to recognize that there are some sensitivities,
+particularly with the international standards. The Germans have
+very specific rules----
+Mr. Gonzalez. Yes.
+Dr. Farid [continuing]. The Brits, the EU, et cetera.
+Mr. Gonzalez. So the last question, and this is maybe a bit
+of an oddball, so with the HN site that was ultimately brought
+down, I believe Cloudflare was their host, is that----
+Dr. Farid. Yes.
+Mr. Gonzalez. So we talk a lot about the platforms
+themselves, right, but we don't always talk about the
+underlying infrastructure----
+Dr. Farid. Yes.
+Mr. Gonzalez [continuing]. And maybe what responsibilities
+they have.
+Dr. Farid. Yes.
+Mr. Gonzalez. Any thoughts on that? Should we be looking
+there as well?
+Dr. Farid. You should. And it is complicated, because----
+Mr. Gonzalez. Yes.
+Dr. Farid [continuing]. When you go to a Cloudflare--as the
+CEO came out and said, I woke up 1 day, and I thought, I don't
+like these guys, and I'm going to kick them off my platform.
+That is dangerous.
+Mr. Gonzalez. That's very----
+Dr. Farid. Yes. But Ms. Francois said it very well. Clear
+rules, enforce the rules, transparency. We have to have due
+process. So define the rules, enforce them consistently, and
+tell me what you're doing. I can fix this problem for the CEO
+of Cloudflare. Just tell me what the rules are. So--but I don't
+think they get a bye just because they're the underlying
+hardware of the Internet. I think they should be held to
+exactly the same standards, and they should be held to exactly
+the same standards of defining, enforcing, and transparency.
+And, by the way, I'll also add that cloud services are
+going to be extremely difficult. So, for example, we've made
+progress with YouTube on eliminating terror content, but now
+they're just moving to Google Drive, and Google is saying,
+well, Google Drive is a cloud service, so it's outside of this
+platform. So I do think we have to start looking at those core
+infrastructures.
+Mr. Gonzalez. OK. I appreciate your perspective. Frankly, I
+don't know what I net out on it, I just know it's something
+that I think we should be looking at----
+Dr. Farid. I agree.
+Mr. Gonzalez [continuing]. And weighing, so thank you.
+Mr. Beyer. Thank you. Dr. Lyu, you know, Ms. Francois just
+talked about a level playing field, you know, that, the bad
+guys have a lot more tools and resources than the good guys.
+Dr. Lyu. Right.
+Mr. Beyer. We talked a lot about the perils of deep fakes,
+but are there any constructive applications?
+Dr. Lyu. Actually----
+Mr. Beyer [continuing]. Where we want to use deep fakes in
+a good way?
+Dr. Lyu. Yes, indeed. Actually, the technology behind deep
+fake, as I mentioned in my opening remark, is of dual use. So
+there's a beneficial side of using this technology. For
+instance, the movie industry can use that, reduce their costs.
+There are also ways to actually make sure a message can be
+broadcast to multilinguistic groups without, you know,
+regenerating the media in different languages. It is also
+possible to use this technology to protect privacy. For
+instance, for people like whistleblowers, or, you know, victims
+in violent crime. If they don't want to expose their identity,
+it's possible to use this technology, replacing the face, but
+leaving the facial expression intact there.
+The negative effect of deep fake, this kind of technology,
+you get a lot of spotlight, but there's also this dual use that
+we should also be aware of. Thank you very much.
+Mr. Beyer. Thank you. Ms. Francois, are there any good
+bots?
+Ms. Francois. Yes. They're really fun. One of them
+systematically tweets out every edit to Wikipedia that is made
+from the Congress Internet infrastructure. In general what I'm
+trying to say is there are good bots. Some of them are fun and
+creative, and I think they do serve the public interest. I do
+not think that there are good reasons to use an army of bots in
+order to do coordinated amplification of content. I think when
+you are trying to manipulate the behavior to make it look like
+a broader number of people are in support of your content than
+actually is the case, I do not see any particularly good use of
+that.
+Mr. Beyer. I want to send you one of my daughter's bots.
+She has a perfectly normal Twitter account, and then she has
+the Twitter bot account, where she leverages off of her
+linguistics background, and I cannot make heads nor tails of
+what it does. But perhaps----
+Ms. Francois [continuing]. Can look at it.
+Mr. Beyer [continuing]. You can. Yes, it's----
+Ms. Francois. OK.
+Mr. Beyer. She says it's OK. Dr. Farid, you talked--it
+would be a mistake for the tech giants to transform their
+system from end-to-end encrypted systems, that would make the
+problem only worse. Can you walk us through that?
+Dr. Farid. Sure, and I'm glad you asked the question. So
+let's talk about what end-to-end encryption is. So the idea is
+I type a message on my phone, it gets encrypted, and sent over
+the wire. Even if it's a Facebook service, Facebook cannot read
+the message. Under a lawful warrant, you cannot read the
+message. Nobody can read the message until the receiver
+receives it, and then they decrypt. So that's called an end-to-
+end encryption. Everything in the middle is completely
+invisible. WhatsApp, for example, owned by Facebook, is end-to-
+end encrypted, and it is why, by the way, WhatsApp has been
+implicated in horrific violence in Sri Lanka, in the
+Philippines, in Myanmar, in India. It has been linked with
+election tampering in Brazil, in India, and other parts of the
+world, because nobody knows what's going on on the platform.
+So last year, you heard me say, 18 million reports to the
+National Center for Child Sexual Abuse Material, more than half
+of those came from Facebook Messenger, currently unencrypted.
+If they encrypt, guess what happens? Ten million images of
+child sexual abuse material, I can no longer see. This is a
+false pitting of privacy over security, and it's completely
+unnecessary. We can run PhotoDNA, the technology that I
+described earlier, on the client so that, when you type the
+message and attach an image, we can extract that signature.
+That signature is privacy preserving, so even if I hand it to
+you, you won't be able to reconstruct the image, and I can send
+that hash, that signature, along with the encrypted message,
+over wire, pull the hash off, compare it to a database, and
+then stop the transmission.
+And I will mention, by the way, when Facebook tells you
+that this is all about privacy, is that on WhatsApp, their
+service, if somebody sends you a link, and that link is
+malware, it's dangerous to you, it will be highlighted in the
+message. How are they doing that? They are reading your
+message. Why? For security purposes. Can we please agree that
+protecting you from malware is at least as important as
+protecting 4-year-olds and 6-year-olds and 8-year-olds from
+physical sexual abuse?
+We have the technology to do this, and the rush to end-to-
+end encryption, which, by the way, I think is a head fake.
+They're using Cambridge Analytica to give them plausible
+deniability on all the other issues that we have been trying to
+get them--progress on, from child sexual abuse, to terrorism,
+to conspiracies, to disinformation. If they end-to-end encrypt,
+we will lose the ability to know what's going on on their
+platforms, and you have heard very eloquently from my colleague
+that this will be a disaster. You should not let them do this
+without putting the right safeguards in place.
+Mr. Beyer. So you were just making a powerful argument now
+for national and international level banning end-to-end
+encryption?
+Dr. Farid. I wouldn't go that far. We want end-to-end
+encryption for banking, for finance. There are places where it
+is the right thing to do, but there are other places where we
+have to simply think about the balance. So, for example, in my
+solution I didn't say don't do end-to-end encryption. I said
+put the safeguards in place so that if somebody's transmitting
+harmful content, I can know about it.
+I have mixed feelings about the end-to-end encryption, but
+I think, if you want to do it, and we should think seriously
+about that, you can still put the safeguards in place.
+Mr. Beyer. And blockchain is not end-to-end encryption?
+Dr. Farid. No, it is not.
+Mr. Beyer. But it gets close?
+Dr. Farid. These are sort of somewhat orthogonal separate
+issues, right? What we are talking about is a controlled
+platform saying that--everything that comes through us, we will
+no longer be able to see. That is super convenient for the
+Facebooks of the world, who don't want to be held accountable
+for the horrible things happening on their platforms, and I
+think that's the core issue here.
+Mr. Beyer. Great, thanks. Anything else? All right. I think
+Mr. Gonzalez and I are done and thank you very much. It's a
+very, very interesting mission, and don't be discouraged that
+there weren't more Members here, because everyone's in their
+office watching this, and have their own questions. So thank
+you very much for being here, and thanks for your witness
+stuff. And the record will remain open for 2 weeks for
+additional statements from the Members, and, additionally, we
+may have questions of you to answer in writing. So thank you
+very much.
+Dr. Farid. OK.
+Mr. Beyer. You're excused, and the hearing is adjourned.
+Dr. Farid. Thank you.
+[Whereupon, at 3:26 p.m., the Subcommittee was adjourned.]
+Appendix
+----------
+Additional Material for the Record
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

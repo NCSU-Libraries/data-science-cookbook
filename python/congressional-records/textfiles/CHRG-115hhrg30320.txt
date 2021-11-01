@@ -1,0 +1,1727 @@
+- LEVERAGING BLOCKCHAIN TECHNOLOGY TO IMPROVE SUPPLY CHAIN MANAGEMENT AND COMBAT COUNTERFEIT GOODS
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+LEVERAGING BLOCKCHAIN TECHNOLOGY
+TO IMPROVE SUPPLY CHAIN MANAGEMENT
+AND COMBAT COUNTERFEIT GOODS
+=======================================================================
+JOINT HEARING
+BEFORE THE
+SUBCOMMITTEE ON OVERSIGHT &
+SUBCOMMITTEE ON RESEARCH AND TECHNOLOGY
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+MAY 8, 2018
+__________
+Serial No. 115-57
+__________
+Printed for the use of the Committee on Science, Space, and Technology
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://science.house.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+30-320PDF
+WASHINGTON : 2018
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HON. LAMAR S. SMITH, Texas, Chair
+FRANK D. LUCAS, Oklahoma
+EDDIE BERNICE JOHNSON, Texas
+DANA ROHRABACHER, California
+ZOE LOFGREN, California
+MO BROOKS, Alabama
+DANIEL LIPINSKI, Illinois
+RANDY HULTGREN, Illinois
+SUZANNE BONAMICI, Oregon
+BILL POSEY, Florida
+AMI BERA, California
+THOMAS MASSIE, Kentucky
+ELIZABETH H. ESTY, Connecticut
+RANDY K. WEBER, Texas
+MARC A. VEASEY, Texas
+STEPHEN KNIGHT, California
+DONALD S. BEYER, JR., Virginia
+BRIAN BABIN, Texas
+JACKY ROSEN, Nevada
+BARBARA COMSTOCK, Virginia
+CONOR LAMB, Pennsylvania
+BARRY LOUDERMILK, Georgia
+JERRY McNERNEY, California
+RALPH LEE ABRAHAM, Louisiana
+ED PERLMUTTER, Colorado
+DANIEL WEBSTER, Florida
+PAUL TONKO, New York
+JIM BANKS, Indiana
+BILL FOSTER, Illinois
+ANDY BIGGS, Arizona
+MARK TAKANO, California
+ROGER W. MARSHALL, Kansas
+COLLEEN HANABUSA, Hawaii
+NEAL P. DUNN, Florida
+CHARLIE CRIST, Florida
+CLAY HIGGINS, Louisiana
+RALPH NORMAN, South Carolina
+------
+Subcommittee on Oversight
+RALPH LEE ABRAHAM, Louisiana, Chair
+BILL POSEY, Florida
+DONALD S. BEYER, Jr., Virginia
+THOMAS MASSIE, Kentucky
+JERRY McNERNEY, California
+BARRY LOUDERMILK, Georgia
+ED PERLMUTTER, Colorado
+ROGER W. MARSHALL, Kansas
+EDDIE BERNICE JOHNSON, Texas
+CLAY HIGGINS, Louisiana
+RALPH NORMAN, South Carolina
+LAMAR S. SMITH, Texas
+------
+Subcommittee on Research and Technology
+HON. BARBARA COMSTOCK, Virginia, Chair
+FRANK D. LUCAS, Oklahoma
+DANIEL LIPINSKI, Illinois
+RANDY HULTGREN, Illinois
+ELIZABETH H. ESTY, Connecticut
+STEPHEN KNIGHT, California
+JACKY ROSEN, Nevada
+DANIEL WEBSTER, Florida
+SUZANNE BONAMICI, Oregon
+JIM BANKS, Indiana
+AMI BERA, California
+ROGER W. MARSHALL, Kansas
+DONALD S. BEYER, JR., Virginia
+LAMAR S. SMITH, Texas
+EDDIE BERNICE JOHNSON, Texas
+C O N T E N T S
+May 8, 2018
+Page
+Witness List.....................................................
+2
+Hearing Charter..................................................
+3
+Opening Statements
+Statement by Representative Ralph Lee Abraham, Chairman,
+Subcommittee on Oversight, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+4
+Written Statement............................................
+6
+Written Statement by Representative Eddie Bernice Johnson,
+Ranking Member, Committee on Science, Space, and Technology,
+U.S. House of Representatives..................................
+8
+Written Statement by Representative Donald S. Beyer, Jr., Ranking
+Member, Subcommittee on Oversight, Committee on Science, Space,
+and Technology, U.S. House of Representatives..................
+10
+Written Statement by Representative Barbara Comstock, Chairwoman,
+Subcommittee on Research and Technology, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........
+12
+Written Statement by Representative Daniel Lipinski, Ranking
+Member, Subcommittee on Research and Technology, Committee on
+Science, Space, and Technology, U.S. House of Representatives..
+14
+Witnesses:
+Dr. Douglas Maughan, Cyber Security Division Director, Science
+and Technology Directorate, U.S. Department of Homeland
+Security
+Oral Statement...............................................
+16
+Written Statement............................................
+19
+Mr. Robert ``Bob'' Chiaviello, IPR Counsel, Nuby Law
+Oral Statement...............................................
+27
+Written Statement............................................
+29
+Mr. Michael White, Head of Global Trade Digitization, Maersk
+Oral Statement...............................................
+50
+Written Statement............................................
+53
+Mr. Chris Rubio, VP Global Customs Brokerage Staff, UPS
+Oral Statement...............................................
+57
+Written Statement............................................
+60
+Discussion.......................................................
+65
+Appendix I: Answers to Post-Hearing Questions
+Dr. Douglas Maughan, Cyber Security Division Director, Science
+and Technology Directorate, U.S. Department of Homeland
+Security.......................................................
+84
+Mr. Robert ``Bob'' Chiaviello, IPR Counsel, Nuby Law.............
+87
+Mr. Michael White, Head of Global Trade Digitization, Maersk.....
+89
+Mr. Chris Rubio, VP Global Customs Brokerage Staff, UPS..........
+91
+LEVERAGING BLOCKCHAIN TECHNOLOGY
+TO IMPROVE SUPPLY CHAIN MANAGEMENT
+AND COMBAT COUNTERFEIT GOODS
+----------
+TUESDAY, MAY 8, 2018
+House of Representatives,
+Subcommittee on Oversight and
+Subcommittee on Research and Technology
+Committee on Science, Space, and Technology,
+Washington, D.C.
+The Subcommittees met, pursuant to call, at 10:03 a.m., in
+Room 2318 of the Rayburn House Office Building, Hon. Ralph
+Abraham [Chairman of the Subcommittee on Oversight] presiding.
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Abraham. The Subcommittee on Oversight and
+Research and Technology will come to order.
+Without objection, the Chair is authorized to declare
+recess of the Subcommittee at any time.
+Good morning, and welcome to today's hearing entitled
+``Leveraging Blockchain Technology to Improve Supply Chain
+Management and Combat Counterfeit Goods.'' I'll recognize
+myself for five minutes for an opening statement.
+Good morning again. Welcome to today's joint Oversight and
+Research and Technology Subcommittee hearing, ``Leveraging
+Blockchain Technology to Improve Supply Chain Management and
+Combat Counterfeit Goods.'' Today's hearing will highlight
+potential applications of blockchain technology in shipping,
+logistics, and customs, emphasizing supply chain management. A
+focus today will be how this technology can be leveraged to a
+greater visibility into the supply chain and how the technology
+can be used to combat the distribution of counterfeit products.
+We will hear from government and private-sector experts
+about blockchains potential to improve the security of our
+systems and how it can ensure customers and the companies
+alike, that the products and services being used are verified.
+The Science Committee continues to engage in oversight of
+emerging forms and applications of technology, just like the
+discussion that we--will occur on blockchain today. We
+recognize that these technologies can benefit both the public
+and private sectors and seek to understand what can be done to
+ensure that this technology is appropriately leveraged in an
+efficient and productive manner.
+Through ensuring reliability, increasing productivity, and
+securing systems and data, the application of blockchain
+technology is an area in which there is much to learn. While
+the applications for blockchain technology are continuously
+increasing, this hearing is an opportunity to learn more about
+its specific use in supply chain management. Today's witnesses
+can provide valuable insight into how blockchain can enhance
+security and be leveraged outside of the private sector to
+improve government efficiency.
+We must also recognize that--the barriers faced by the
+private sector in leveraging blockchain technology in order to
+fully realize its potential benefits. By hearing from
+individuals today that are taking part in ongoing and proactive
+efforts within the private sector to utilize blockchain
+technology in different areas of their business models, we can
+gain a better understanding of what, if anything, industry
+needs from the government.
+I want to thank Mr. White for being here to represent
+Maersk, and Mr. Rubio representing UPS. These companies are
+presently engaged in important case studies using this
+technology. We look forward to learning about those efforts.
+Additionally, Mr. Chiaviello is here today to do--detail
+some of the counterfeiting and business issues companies like
+Luv N' Care are experiencing. Baby care products are some of
+the most important on the market. We must be able to verify the
+authenticity of these goods. There is a potential role emerging
+for technologies like blockchain to address these global supply
+chain safety issues.
+The committee will continue to prioritize issues like
+verification and overall cybersecurity. We hope venues like
+today's hearing will help provide a better understanding of the
+issues our private industries are facing and how they are
+utilizing emerging technologies. This knowledge can better
+inform the Committee on how the application of blockchain
+technology could potentially bolster private companies' and the
+federal government's cybersecurity weaknesses.
+Dr. Maughan, we appreciate you being here today to provide
+more insight into the role DHS has played in utilizing this
+emerging technology. DHS Science and Technology Directorate is
+in a unique position to provide valuable insight and services
+as a useful role in exploring a broader understanding and
+application of the technology in areas directly related to
+shipping, logistics, and customs.
+Additionally, through the many projects and ventures it
+supports, DHS has the ability to effectively identify the
+potential for blockchain technology and address how the federal
+government could benefit. These potential solutions could help
+secure data and enhance our national security.
+I look forward to the insight our witnesses will provide.
+This dialogue will help us resolve important questions and
+better understand the next steps that must be taken to ensure
+the integrity, resilience, and security of our systems and
+industries that could--and do--benefit from the application of
+this technology.
+[The prepared statement of Chairman Abraham follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[The prepared statement of Ms. Johnson follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[The prepared statement of Mr. Beyer follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[The prepared statement of Mrs. Comstock follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[The prepared statement of Mr. Lipinski follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Abraham. We're going to recognize our witnesses
+now. Our first witness today is Dr. Douglas Maughan, Director
+of the Cyber Security Division of the Science and Technology
+Directorate at the Department of Homeland Security. Dr. Maughan
+previously worked at the National Security Agency from 1987 to
+1999 as a Senior Computer Scientist before moving to DARPA to
+work as a Program Manager. In 2003, he joined the Department of
+Homeland Security as a Program Manager and was promoted to
+Division Director in 2010. He holds two bachelor's degrees from
+Utah State University in computer science and applied
+statistics, a master's degree in computer science from Johns
+Hopkins University, and a doctorate in computer science from
+the University of Maryland, Baltimore County.
+Our second witness is Mr. Bob Chiaviello, an IPR Counsel at
+Nuby Law. Mr. Chiaviello has practiced intellectual property
+law for 37 years starting at Pennie & Edmonds in 1980. After a
+brief stint with IBM, he joined Baker Botts in 1990. In 2002,
+Mr. Chiaviello joined Fulbright & Jaworski as a partner and
+worked there until 2011. He received his bachelor's degree from
+Washington and Lee University and his juris doctor from the
+John Marshall Law School.
+Our next witness is Mr. Michael White, head of the Global
+Trade Digitalization at Maersk. Mr. White has worked at Maersk
+since 2007, first as a Managing Director at Maersk Holding. He
+then became Managing Director at Maersk Line before becoming
+the head of Global Trade Digitization in 2017. He received a
+bachelor's degree from Virginia Wesleyan University and also
+studied at Harvard Business School and the International
+Institute for Management Development business school in
+Lausanne, Switzerland.
+Our final witness is Mr. Christopher Rubio, Vice President
+of Global Customs Brokerage Staff at United Parcel Services.
+Mr. Rubio holds a bachelor's degree in accounting from Pace
+University and an MBA in finance from Rutgers University. He
+has worked for UPS since 2004, first as Department Manager for
+the Midmarket Sales Team. He then became the Department Manager
+for UPS Trade Management Services before joining the Global
+Customs Brokerage System Group.
+I now recognize Dr. Maughan for five minutes to present his
+testimony.
+TESTIMONY OF DR. DOUGLAS MAUGHAN,
+CYBER SECURITY DIVISION DIRECTOR,
+SCIENCE AND TECHNOLOGY DIRECTORATE,
+U.S. DEPARTMENT OF HOMELAND SECURITY
+Dr. Maughan. Chairman Abraham and distinguished Members of
+the Oversight and Research and Technology Subcommittees, thank
+you for inviting DHS to speak with you today. I will be sharing
+important aspects of how the Department of Homeland Security
+Science and Technology Directorate is using blockchain
+technologies in research and development and working with
+department missionaries to integrate the innovative technology
+into everyday use.
+As the R&D arm of DHS, S&T develops the tools,
+technologies, and knowledge products for DHS operators and
+state and local first responders, ensuring that R&D
+coordination across the Department to develop solutions for the
+needs of today and tomorrow. S&T partners with federal
+agencies, industry, academia, and international governments to
+create and test real-world solutions that help the Nation's
+homeland security officials defend against, respond to,
+mitigate, and recover from all hazards and threats in a
+realistic time frame.
+Blockchains offer promise, as witnessed by the rapid growth
+of interest across government and private sector. From a
+government perspective, the technology holds potential for
+enhanced transparency and auditing of public service
+operations, greater supply chain visibility to combat the
+distribution of counterfeit products, and automation of paper-
+based processes to improve delivery of services to
+organizations and citizens.
+There are many types of blockchains with varying degrees of
+support of classic security principles such as confidentiality,
+integrity, and availability, as well as support of privacy
+principles such as pseudonymity and selective disclosure.
+Analysis to determine if a particular blockchain supports these
+security and privacy considerations is often nonexistent and/or
+not readily available. There remain other challenges with
+blockchain technology, particularly a lack of support for
+standards that may limit the growth and availability of a
+competitive marketplace of interoperable, cost-effective, and
+innovative solutions for both government and industry.
+Certainly, private industry is leading the way in
+blockchain development, as many see it as a key competitive
+advantage. Government must be informed and ensure blockchain
+technology, as it evolves, supports standardized approaches for
+security privacy and data exchange to create efficiencies and
+enhance the public good. Government must also consider
+leadership opportunities within the broader community and
+partner with industry to bring solutions to market.
+Blockchain technologies are an integral part of several
+ongoing S&T research efforts with both DHS components and
+industry partners. We're exploring many issues, including the
+development of best practices and decision criteria on when and
+how to implement the blockchain technologies, understanding the
+support for security and privacy principles in commercial
+blockchain implementations, developing specifications to ensure
+standardized approaches for decentralized identifiers, defining
+interoperable data formats using verifiable credentials, and
+identifying scalable and usable approaches to decentralized key
+management systems.
+DHS S&T is also supporting the development of globally
+available specifications as a precursor to standards, which are
+open, royalty-free, and free to implement to ensure
+interoperability across systems, while ensuring there is no
+vendor lock-in. We are doing this through organizations like
+the World Wide Web Consortium and the Organization for the
+Advancement of Structured Information Standards.
+Within DHS, the U.S. Customs and Border Protection
+organization has been the most active operational component to
+partner with S&T on the use of blockchain technologies for its
+mission. Our ongoing engagements with CBP include a proof-of-
+concept deployment with the Border Patrol to evaluate how
+blockchain technology can ensure the authenticity and integrity
+of imagery data collected from cameras, both fixed and mobile;
+conducting analysis of alternatives and feasibility studies to
+understand the potential benefits and challenges for
+facilitating and enhancing international passenger travel; and
+conducting proof-of-concept deployments in partnership with
+CBP's Office of Trade and Office of Trade Relations that are
+directly focused on applications of blockchain to shipping,
+logistics, and customs.
+Blockchains are moving rapidly from hype to reality in the
+application domain areas where DHS S&T is currently working. We
+believe our careful and considered approach benefits not just
+DHS but everyone who is considering the use of a blockchain
+technology by ensuring that there are multiple vendors with
+interoperable solutions from which the government can choose.
+Thank you again for your committee's thoughtful interest
+and leadership in blockchain technology and how it will help
+DHS accomplish its important mission. I look forward to your
+questions.
+[The prepared statement of Dr. Maughan follows:]
+[[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Abraham. Thank you, Dr. Maughan.
+I now recognize Mr. Chiaviello for five minutes to present
+his testimony.
+TESTIMONY OF MR. ROBERT CHIAVIELLO,
+IPR COUNSEL, NUBY LAW
+Mr. Chiaviello. Mr. Chairman, Members, thank you for
+focusing a light on this problem. I also want to thank your
+staff for helping to coordinate and the hospitality they've
+shown us coming up from Monroe, Louisiana, for this hearing.
+I represent Luv N' Care. It's a company located in Monroe,
+Louisiana, and we make baby products. If you're a parent or
+grandparent of small children, you probably are familiar with
+our products. We make sippy cups, pacifiers, bibs, a wide range
+of products. We're not a tech company, so--but I'm here to
+explain to the Committee a problem--a growing problem that we
+are experiencing from unfair competition, particularly unfair
+competition from overseas.
+As a consumer products company, we've always had to deal
+with people who would copy our intellectual property and try to
+sell it to--as counterfeits or knockoffs, but today, what we're
+facing is a foreign-centered threat. It's costing our company
+millions of dollars a year, and it's seriously affecting our
+bottom line.
+Some of the--what we are seeing today is really a
+combination of two things. One is online retailing, combined
+with the ability to ship products directly from overseas into
+the U.S. market. When I first started 30-some years ago, if
+there was unfair competition, it usually came in by a container
+load, which usually gave us plenty of time to deal with it or--
+either on the water or by the time it arrived here we--we could
+deal with it either with customs or in the court system.
+Today, the products are coming in by UPS and China post.
+What we see is a foreign-based entity that will use an online
+retailer like Amazon or others. They market their product to
+U.S.-based consumers. Typically, they use our intellectual
+property. They're using our trademarks to promote their
+product. They'll even go so far as to copy our photographs from
+our website, photograph our products, marketing it as their
+own. Then, they use digital advertising to attract the consumer
+to their website. The consumer thinks of course that the
+product is somehow related to us, purchases the product, and
+then the product is shipped directly to the consumer from,
+typically, China.
+We are now--and this--the product can be shipped in. We've
+done experiments or testing. It can be 48, 72 hours from
+placing an order online to the time the product arrives here in
+the United States.
+The--well, let me see. The--another--well, our problem is
+primarily with intellectual property where we can enforce our
+rights. There's also a problem with U.S. health and safety
+laws. Baby products are a fairly regulated item between the
+Consumer Products Safety Commission and the FDA, and our
+company spends a great deal of effort, resource complying with
+those rules and regulations, as well as our own quality
+standards.
+Quite often, these pirates do not. We--some of the products
+that we've inspected, they use inferior materials. They use
+banned materials. The products don't comply with the size
+regulations of the CPSC. We've found pacifiers, for example,
+that are made using inferior plastic materials or with
+adulterants so that the nipple part can come off the pacifier,
+obviously can become a choking hazard.
+And the U.S. consumer, as well as we, have no recourse.
+These folks are located--these pirates are located in China.
+They have no domestic connection, and our current systems for
+trying to enforce U.S. IP laws and health and safety
+regulations fail when the infringer or the violator is located
+overseas and outside the jurisdiction of U.S. courts and
+customs.
+The way we see the problem, it's really a question of how
+the border is opened, and we implore for some solution to try
+and place better controls on the border to prevent these kinds
+of--this kind of activity.
+I want to thank the Committee for its attention to this
+problem.
+[The prepared statement of Mr. Chiaviello follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Abraham. Thank you, Mr. Chiaviello.
+Mr. White, five minutes please, sir.
+TESTIMONY OF MR. MICHAEL WHITE,
+HEAD OF GLOBAL TRADE DIGITIZATION, MAERSK
+Mr. White. Good morning, Chairman Abraham, Chairwoman
+Comstock, Ranking Member Beyer, Ranking Member Lipinski, and
+members of the subcommittees. My name is Mike White. I'm head
+of Global Trade Digitization for Maersk. Before moving to my
+current role, I was President of Maersk Line North America for
+the past eight years, and I have had the pleasure of working in
+this industry for over 37 years. Thank you very much for the
+opportunity to testify this morning.
+In a global economy, supply chains are of critical
+importance. It is estimated that over $16 trillion worth of
+goods cross international borders each year, and more than 80
+percent of those goods are carried by the ocean shipping
+industry. Over the past five years, global container volumes
+have increased on average of 3.7 percent per year.
+Moving goods from point A to point B involves many parties
+who are separate but dependent upon one another. Importers and
+exporters, freight forwarders, customs brokers, ports and
+terminals, ocean carriers, customs and government authorities,
+inland transportation providers, financial institutions, and
+others all gather discrete sets of sometimes overlapping
+information, which they share using a convoluted web of
+individualized formats and aging technologies. This
+inconsistent flow of information across organizational
+boundaries hampers the efficient flow of goods, but through a
+collective complexity-driven inertia, supply chain participants
+persist in their outdated practices. Perhaps this is because
+they trust that, flawed though it may be, the system will
+deliver ultimately a container from point A to point B, and
+they can't afford to experiment with a system that may fail to
+do so.
+The industry operates today much as it does--or has since
+the introduction of shipping containers in the 1950s. Many
+processes are manual, time-consuming, and too often paper-
+based, with transactions still frequently coming today via fax
+machine. The cargo on any given container vessel voyage
+generates a mountain of documents, many of which are sent to
+the relevant container's destination by some other means.
+Container shipments can often be delayed in the port because
+necessary paperwork has not caught up with the goods that they
+carry.
+In a Freightos survey recently cited by The Economist, 2/3
+of respondents said that over 1/4 of their deliveries abroad
+arrived late. Nearly 1/2 said they spend more than 2 hours on
+paperwork when arranging a given shipment, and the vast
+majority of respondents had real difficulty tracking goods in
+transit.
+In an industry where global transport costs are 1.8 to $2
+trillion annually, administrative costs can sometimes exceed
+the end-to-end transport costs for a given container, and
+overall inefficiencies are estimated at 15 percent or higher.
+The World Economic Forum estimates that by reducing barriers
+within international supply chains, global trade could increase
+by up to 15 percent, boosting economy and creating jobs.
+These barriers have proven incredibly difficult to surmount
+as participants are trapped by the layered complexity of
+entrenched methods. Everyone agrees that there must be a better
+way, but no single participant is able to affect change because
+of the overarching desire to stick with what is known to work
+even if not very well over an experiment that could fail with
+disastrous and cascading consequences.
+In 2016, Maersk and IBM began a collaboration with the goal
+of digitizing the global supply chain. To begin, we analyzed a
+number of supply chains to understand the current challenges in
+specific areas of complexity. One of these involved a shipment
+of avocados moving from Kenya to the Netherlands. This one
+container involved over 30 different actors or entities, more
+than 100 individuals, and over 200 separate exchanges of
+information and documentation, the vast majority of which were
+completely manual, paper-based, and extremely time-consuming.
+We soon realized that no sustainable solution can exist for
+streamlining this entrenched complexity without unprecedented
+buy-in from the entire industry. In our analysis, an open and
+neutral industry platform, consisting at its core of a
+worldwide network of interconnected supply chain participants,
+is by far the best way to drive efficient, transparent, and
+secure global trade. The trust necessary to build this network
+would likely not exist without blockchain technology.
+In January of this year, Maersk and IBM announced our
+intention, subject to the receipt of all applicable regulatory
+approvals, to form a joint venture to implement this global
+platform. The platform will follow the flow of cargo from
+source to destination. As empty containers are provisioned and
+transported from a warehouse, as the containers are stuffed and
+transported to a port, loaded on board a vessel, cleared export
+regulatory clearance, and continuing on the vessel to the
+import side will follow the flow of the cargo through customs
+clearance and ultimately delivery to the final consignee and
+the empty containers returned to a depot.
+The platform will do this by leveraging network
+participants who both make information available and consume
+information by others. Blockchain enables this unprecedented
+collaboration by ensuring the security, trustworthiness, and
+permissioned accessibility of sensitive participation
+information, even as that information is distributed across
+heretofore segregated enterprises. Participants will be able to
+go to one place to track the real-time status of a container
+and to locate and transact with up-to-date, trustworthy trade
+information.
+Blockchain is the critical ingredient. It creates an
+immutable record of transactions, which enables the ecosystem
+to track the exchange of critical information like records of
+inspection, bills of lading, customs documents. Throughout the
+trade, each participant has real-time visibility access to
+supply chain according to permission levels. Trust is built by
+validating the participants, authenticating transactions,
+distributing information, and maintaining unalterable records
+that are located or accessible through the platform.
+At the end of the given shipment, these immutable records
+will provide one version of the truth of how a container
+transited from beginning to end, and the documents submitted to
+the platform can be actioned and stored using blockchain
+technology. This means that, once a document has been certified
+by a government agency, the slightest alteration to that
+document will be exposed and rejected as different from the
+original. This will obviously have lasting benefits towards
+fraud detection and prevention.
+The result: a previously unattainable information backbone
+of the global supply chain, encompassing the milestones
+documents in a structured form, customs filings, and many more
+solutions. Access to this platform will give traders and
+transportation real-time end-to-end visibility of, and
+permission to access to, information about cargo shipments such
+as status and whereabouts of containers, shipping milestones,
+and trade documentation. As the network grows, its benefits
+will multiply and it will generate billions of dollars in
+savings for all industry participants, along with entirely new
+approaches to global logistics.
+Thank you for the opportunity to discuss this vital topic.
+I look forward to answering your questions.
+[The prepared statement of Mr. White follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Abraham. Thank you, Mr. White.
+Mr. Rubio?
+TESTIMONY OF MR. CHRIS RUBIO,
+VP GLOBAL CUSTOMS BROKERAGE STAFF, UPS
+Mr. Rubio. Chairman Abraham, Chairman Comstock, Ranking
+Member Beyer----
+Chairman Abraham. Turn your mic on.
+Mr. Rubio. Thank you, sir. Chairman Abraham, Chairman
+Comstock, Ranking Member Beyer, Ranking Member Lipinski, and
+distinguished members of the committee, thank you for the
+opportunity to testify before you today on how blockchain
+technology can be leveraged to provide greater supply chain
+visibility and possibly help combat the distribution of
+counterfeit products.
+I applaud the Committee's efforts to get in front of this
+rapidly evolving technology, and this hearing before two
+subcommittees speaks to the importance of this issue.
+With over 434,000 global employees delivering more than 19
+million packages and documents every day in over 220 countries
+and territories around the world, we work hard to be united
+problem solvers. At UPS, our business processes are complex and
+our technology advanced, but our objective is simple: to ensure
+world-class service for our customers.
+UPS has been researching the use of blockchain technology
+with the purpose of identifying ways blockchain may impact,
+disrupt, and/or drive efficiency in the supply chain. Our goal
+is to engage in a collaborative discussion with customers and
+policymakers on how blockchain technology can be utilized to
+further enable supply chain digitization, efficiency, and
+security, blockchain as an enabler.
+In terms of logistics applications, blockchain could bring
+together buyers, sellers, suppliers, payment companies, and
+logistic companies to provide end-to-end supply chain
+visibility, while addressing privacy and data security
+concerns. For government border agencies, blockchain could
+enable greater transparency of a transaction, possibly
+including what's in the box and who's buying it, how much
+they're paying for it, assurance that the duties and taxes are
+paid, and possible confirmation that shipments are not under-
+declared, resulting in faster release and a more trustworthy
+supply chain.
+As a result of the technology underlying blockchains, UPS
+sees four key benefits for our company and our customers:
+integrity, transparency, interoperability, and security. In
+particular, our large customers have the potential to benefit
+greatly from the adoption of this technology.
+Given the complexities of the modern supply chain,
+multinational corporations have invested large amounts of money
+in enterprise resource planning systems and supply chain
+management software yet only have limited visibility and
+insight into where all of these products are at a given point
+in time.
+However, it is not only large multinationals that will
+benefit. We also see the potential for small and medium-size
+enterprises to realize the many benefits of blockchain, for
+example, a small business would be able to ship its products
+globally due to the blockchain framework that enables multiple
+parties to share important trade information in a single ledger
+for the contents of that shipment.
+As a protector of intellectual property rights, UPS and
+other express delivery service providers engage regularly with
+customers and governments to ensure that our network around the
+world only carries legitimate and legal products. However,
+there are practical limits to what we and other express
+delivery providers can do day-to-day. First, we're not the
+originators of the information about the shipments, and
+limitations exist on the quantity of information that we can
+obtain from customers. Second, we and other express delivery
+providers do not have the requisite expertise to identify
+counterfeit or pirated goods. And third, we're not law
+enforcement agencies, which means we're subject to national
+data protection and commercial information and confidentiality
+rules.
+This is where blockchain could potentially provide a
+solution. By having the ability to track any product from the
+beginning of its journey through the supply chain, blockchain
+may provide a solution to unknown or unverified product
+origins. In fact, we are already seeing this technology used to
+trace the origins of various products from diamonds and mangos.
+By creating a digital record of each individual item, the
+company and consumer are able to verify the authenticity of the
+product and ensure standards are met each step of the way.
+The United States and international governments' role in
+fostering blockchain: The U.S. Congress, federal agencies, and
+our international counterparts will play a vital role in the
+adoption and success of blockchain in the supply chain.
+Governments must take a balanced and measured approach between
+regulating this everchanging technology and allowing for its
+innovation and evolution. As e-commerce and global trade flows
+continue to rapidly grow, the United States must work with our
+international trading partners to establish a common set of
+blockchain standards that are recognized throughout the world.
+As I mentioned previously, UPS operates in over 220
+countries and territories around the world, and I know
+firsthand that a patchwork of global regulation would stifle
+innovation, slow the flow of goods across borders, and increase
+the likelihood that illicit material would enter the country
+undetected.
+Despite the potential upside to the widespread adoption of
+blockchain, a couple of key barriers exist that must be
+overcome. The first and biggest hurdle is the linking of all
+physical objects to the digital stream. Currently, individual
+items may be tagged digitally with RFID, near-field
+communication, or two-dimensional barcodes. However, in order
+for blockchain to realize its full potential, all products
+would have to be tagged digitally, requiring an overhaul in
+today's supply chain practices. Without an industry and supply-
+chain-wide commitment to adopt to digitalization, many
+organizations will not make the investment in the technology.
+Finally, the international community must come together to
+ensure that there is one unified set of standards for
+blockchain. This will give companies the confidence they need
+to know the technology they adopt will be recognized throughout
+the world. Without these common standards, uncertainty will
+prevent the largescale investment that is needed to make
+blockchain a success in the supply chain.
+Thank you once again for inviting me to testify before you
+on the technology that could change how the world understands
+supply chains. I look forward to any questions.
+[The prepared statement of Mr. Rubio follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Abraham. Thank you, Mr. Rubio. And I want to thank
+all the witnesses again for coming here and certainly bringing
+your knowledge base to this subcommittee.
+If I understand blockchain correctly--and I am in a steep
+learning curve--but it will revolutionize tracking of goods
+somewhat like GPS revolutionized navigation. So I think this is
+world-changing technology that we're dealing with.
+I'm going to ask some questions for five minutes. Mr.
+Chiaviello, I'll ask you first.
+In your testimony you detailed the issues your company and
+others are experiencing with counterfeit goods in the supply
+chain. What sort of impacts, either quantitative or
+qualitative, has this had on your business and on your
+customers?
+Mr. Chiaviello. Well, on our business it certainly affects
+us on the order of millions of dollars a year. I mean, it's
+hard--it's difficult to put an exact number on it because we
+don't know what we don't know, but based on what we can
+determine from what we have investigated, as I say--and it's
+growing. You know, five years ago, we didn't really see this
+problem, and--so now it's--it's a million-dollar problem,
+whereas five years ago, well, it barely existed.
+The direct effect is not only does it--it costs us--it
+costs us money, it affects our competitive situation as these
+pirates or counterfeiters, they don't bear the cost burden that
+we do in making sure that our products comply with federal
+regulations, so they can compete against us with a much lower
+cost structure. Our products set the--sort of set the price
+level. They come in just slightly underneath us, but because
+they don't have our cost structure, it's very, very profitable,
+which is what's driving this business.
+Chairman Abraham. So building off that, Mr. White and Mr.
+Rubio, how can your companies, with the application of this
+blockchain technology, help a company that Mr. Chiaviello
+represents? What can you guys do to combat that counterfeiting
+of goods?
+Mr. White. Well, the platform we're putting together
+between Maersk and IBM initially is one that helps identify the
+sources of information. So we use blockchain to help establish
+who are the--it's a blockchain solution which is permission
+blockchain, which means that the entities that are involved are
+known to each other. And if the documents created from origin
+are sent to anybody else who are party to that transaction, if
+any of those documents change, it's immediately identified that
+the document has been changed. And that could work from a
+change from when it goes to a customs authority or another
+government agency, when that's been certified and the document
+is therefore sent down the path.
+So the ability to identify any changes in the documentation
+of what's been shipped or any new entities that are involved in
+the party is immediately identifiable. So it helps identify the
+potential risk of fraud I think much easier, much earlier, and
+for everybody involved in the transaction to see one document
+is different from what was--the rest of the documents that they
+had seen up to that point.
+Chairman Abraham. Mr. Rubio?
+Mr. Rubio. Yes, and what we can envision is an environment
+where you can have a provision--permissioned network of
+traders, and in this permissioned network of traders, you could
+have the different actors in the supply chain exchanging
+information. And as the exchange information, fraud can, you
+know, immediately be detected via the technology, and then
+those that fall outside could be, you know, scored negatively
+and removed from the networks, et cetera. So the technology
+really lends itself to advancing the internet--intellectual
+property rights protection, and we see that as a possibility
+going forward.
+Chairman Abraham. And Dr. Maughan, could DHS potentially
+leverage this blockchain as a tool to combat the importation of
+counterfeit goods?
+Dr. Maughan. Yes, certainly. In fact, if you look at the
+Customs and Border Protection, they are just one person and one
+organization involved in the whole transaction, along with
+companies like Maersk and UPS and others. And so that's the
+work we've been looking at is in the pilot phase. How could we
+use the blockchain technology to detect counterfeit goods more
+easily?
+Chairman Abraham. Are you seeing any obstacles that we as a
+federal government are throwing up in your path to prevent you
+from using that technology in an efficient and productive way?
+Dr. Maughan. To date, no. As I pointed out in my testimony,
+the one area that does concern us is a shortage or lack of
+standards, and so we've been focusing on specifications towards
+that end, and I think when we have a full network of standards
+that everybody can live by, then I think that will be even more
+useful for all involved.
+Chairman Abraham. Thank you, Dr. Maughan.
+I now recognize Ms. Bonamici for 5 minutes.
+Ms. Bonamici. Thank you very much, Mr. Chairman, and thank
+you to all of our witnesses for your testimony today. There is
+certainly a wide range of possible applications for blockchain
+technology, some quite fascinating, for example, safeguarding
+ownership of creative works or voting technologies. There's a
+lot of potential there.
+These and other possible uses are important, but the health
+and safety of Americans is of course something that is of
+paramount importance. So I'd like to focus on one particular
+area where blockchain may offer benefits, namely drug abuse
+prevention. I recently had a series of community meetings in
+northwest Oregon about the toll of the opioid epidemic on our
+families and our communities, and one issue that came up not
+infrequently was the influx of dangerous drugs from foreign
+countries, especially fentanyl from China. So it seems that
+blockchain could be used to prevent the importation of illicit
+drugs or the unlawful diversion of legitimate medications.
+Parcels that are shipped from foreign countries are a major
+source of illegal substances, including opioids and, as I
+mentioned, fentanyl. I understand that Homeland Security,
+particularly customs, is as concerned about this as I am. And I
+know there are several legislative proposals to combat this
+problem. For example, one of the bills I'm cosponsoring is the
+Synthetics Trafficking and Overdose Prevention Act that would
+require foreign and postal operators to provide electronic
+data, enabling Customs and Border Patrol to better target and
+screen high-risk shipments.
+So, Dr. Maughan, might there be uses for blockchain
+technology in verifying that imported goods are legal and do
+not pose a threat to public health or safety? And are you aware
+of efforts or discussions specifically around using blockchain
+to prevent illegal drug activity, whether it be the
+interdiction or preventing diversion?
+Dr. Maughan. So I am unaware of any activity to date that
+is looking at this issue, but I certainly believe that it has a
+very interesting opportunity for us. As I mentioned in my
+testimony, there are other pilots that we are looking at with
+CBP to address counterfeit goods. We just haven't had the
+conversation about the opioids, fentanyl, and other illicit
+drugs in those types of pilots.
+In the end, the goal here is to be able to track goods, not
+only the--you know, using industry providers as well as
+government participants, and I certainly believe there's
+opportunity to look at that in the same example.
+Ms. Bonamici. I think that would be some welcome work.
+Also, Dr. Maughan, of course food safety, which you mentioned
+and has been mentioned in the testimony, the FDA and Centers
+for Disease Control recently warned us all about E. coli
+contamination in romaine lettuce, for example. Would you be
+able to comment on how blockchain might improve that ability to
+ensure food quality and safety? And you mentioned pilots. I
+know there's a couple of pilots going on and trial projects
+regarding seafood traceability, working with organizations so
+that customers, when they're shopping for fish, can know
+exactly where that came from and trace that. So do--are you
+aware of that work?
+Dr. Maughan. I'm not aware of that work but one of the
+other witnesses mentioned mangoes. There have been--and
+avocados. There have been other examples of cases where we've
+tracked food and goods, and I certainly believe the application
+areas are unlimited as to how we would use the technology to
+provide food safety for the Nation.
+Ms. Bonamici. Mr. Rubio, I understand that UPS already
+requires a kind of electronic registration data from foreign
+shippers. Could you comment on whether blockchain could play a
+role in this area?
+Mr. Rubio. Yes. Most definitely, we see the opportunity,
+again, leveraging the potential of blockchain to provide
+permissioned access for the exchange of information and then
+leveraging the information that's--that can be collected to
+perhaps maybe score customers and then provide access to, you
+know, secure supply chains.
+Ms. Bonamici. Terrific. And I don't know who wants to weigh
+in on my next question. As we are talking about this great
+potential from blockchain, we also understand and talk about in
+this committee a lot quantum computing and whether the
+development of blockchain is really keeping up with what's
+happening with quantum computing. I know NIST, the National
+Institute of Standards and Technologies, is looking at this,
+sort of incorporating some quantum cybersecurity measures along
+the way because everything I've read said that that is the big
+threat eventually that if we don't keep--as we're developing
+blockchain if we don't keep up with what's happening with
+quantum computing. Does anybody know about the work that's
+going on there as blockchain is developing? Are we developing
+these quantum-resistant algorithms? Anybody able to answer
+that?
+Dr. Maughan. I'll give you a shot and try, but--so if you
+look at the blockchain technology, at its core it's
+cryptography and the ability to secure the data, and the
+concern is that our cryptographic systems eventually can be
+broken using quantum computing, and so the concern is how do I
+make my cryptographic algorithms at the core of the blockchain
+technology something that can be quantum-computing-resistant or
+at least allow the cryptography to be--to last a lot longer.
+And the concern is if our adversaries are using quantum
+cryptography to break our cryptographic algorithms, they would
+actually be able to break the blockchain technology.
+Ms. Bonamici. Certainly something we can discuss further.
+Thank you. My time is expired. I yield back. Thank you.
+Chairman Abraham. Mrs. Comstock.
+Mrs. Comstock. Thank you.
+Mr. Chiaviello, as a mom and a grandmother now, your
+testimony about the challenges of knockoff children's products
+was certainly troubling. So how might the use of blockchain
+technology help a company resolve this problem? And what other
+tools might be useful in helping companies and consumers combat
+counterfeiters particularly in this area?
+Mr. Chiaviello. Well, I think the primary goal would be to
+control access, in other words, as the term has been used,
+permissioned access. And so when a consumer is--well, let me
+give you an example. Teethers are regulated by the Food and
+Drug Administration and require that any factory where a
+teether is manufactured has to be registered with the Food and
+Drug Administration, has to pass extensive health and safety
+evaluations. And then once the factory passes those tests, the
+factory is given a number. And that number then identifies the
+source of all the teethers that originate from that factory.
+And so that number can act as a stamp of approval like USDA
+approval on hamburger, on beef products and go with the
+product, using a blockchain technology to assure the consumer
+that the product they are buying is an authentic product. In
+other words, it's been--I don't want to say certified but
+it's--originates from a certified location. So I think there's
+great opportunity for--in that respect.
+Mrs. Comstock. Okay. Thank you. And then I guess for other
+witnesses, if any of you work--does any of your work involve
+coordinating with NIST or leading any type of collaboration
+with other industries regarding standards for blockchain
+technology?
+Mr. White. From Maersk and IBM, we're looking to embrace
+existing standards, industries, wherever there are standards
+available so that we can make sure that we adopt and embrace
+it. In our view, to have a platform that really helps to
+accelerate the digitization of global trade, we need to be
+completely open and neutral, and we need to take advantage of
+having common standards around the world.
+So here in the United States we're looking into the BiTA,
+which is trying to look at some of the standards. Also, we're
+working with other agencies as they develop across the global
+economy to understand where those opportunities are. Also, we
+look to be embracing not only DHS and CBH here--CBP here in the
+United States but also other customs and WCO to understand what
+direction they're going because we think it's really important,
+this interoperability. We need to make sure that everybody can
+avail themselves of this platform and exchange information in a
+transparent way using blockchain that provides that immutable
+trust.
+Mr. Rubio. Yes, and UPS is also involved in the BiTA
+Alliance, and we're clearly interested in advancing standards
+in blockchain.
+Mrs. Comstock. Okay. And have your companies recognized any
+cybersecurity benefits in the development and implementation of
+blockchain technologies across various applications? That's for
+any of you.
+Mr. White. At this point, we're still in the pilot program
+of putting together the platform and again waiting for
+regulatory approval, so it's a little bit early on in that, but
+I think it was mentioned using cryptography and having a
+permission blockchain, I think it's a 32-character alphanumeric
+sequence that has to be attached to the previous documents in
+there. So, so far, it seems that it's pretty trustworthy in
+terms of getting that information across there. It's a little
+bit early to see about the broader applications for
+cybersecurity, but that's obviously high on our list at Maersk
+Line, concerning some of the challenges we went through last
+year, and just make sure that we continue to keep that high on
+our agenda because it's critical to global supply chains.
+Mrs. Comstock. Okay. Anyone else on that? Okay.
+Well, I'll yield back, Mr. Chairman. Thanks.
+Chairman Abraham. Thank you, Mrs. Comstock.
+Dr. Marshall?
+Mr. Marshall. Thank you, Mr. Chairman. Let me first of all
+brag on my two grandsons, so congratulations to Mrs. Comstock
+on a new granddaughter.
+Mrs. Comstock. Yes, I have a grandson and a granddaughter--
+--
+Mr. Marshall. Well, good for you.
+Mrs. Comstock. --this past year. Yes, so I----
+Mr. Marshall. We've both got two each up here. This doesn't
+count against my time does it?
+I want to start with Mr. White. How important is NAFTA to
+Maersk?
+Mr. White. Well, NAFTA is important to all of us. I think,
+as Maersk, we're obviously supporters of global trade and
+trying to make sure that, you know, there's opportunities to
+promote that. In terms of North America, South America, most of
+our shipments are international by water, so there's some
+that's moving via that route, but most of that's moving
+overland borders. So we of course are interested in monitoring
+that, and we----
+Mr. Marshall. Okay.
+Mr. White. --just support whatever the regulations are and
+make sure that we can make trade as easy as possible under the
+regulations that are available.
+Mr. Marshall. Mr. Rubio, how important is NAFTA to UPS?
+Mr. Rubio. It's very important. Canada's one of our largest
+trading partners, and of course we move lots of products
+between United States, Canada, and Mexico. So we're also
+involved with CBP on some pilot work related to NAFTA.
+Mr. Marshall. Okay. Yes, China--I mean, Canada actually is
+our largest trading partner. We export $280 billion a year to
+Canada, 230 to Mexico. China is a distant third at about half
+of those.
+Blockchain technology, as we're modernizing the NAFTA
+agreement, do you feel like we're doing anything to help
+empower you all? Either one, Mr. White, Mr. Rubio, are we
+taking blockchain technology--have you had any conversations
+with Administration if you're allowed to what would allow you
+to better use blockchain as we modernize this NAFTA agreement?
+Mr. Rubio. We're--yes, as I mentioned, we're working right
+now with CBP on a pilot related to NAFTA, and it's progressing
+very well. We think that will have a pilot up and running in
+the fall time frame, so I think we're getting great support
+from CBP in this area.
+Mr. Marshall. Great. And, Mr. White, anything to add there?
+Mr. White. Yes, likewise, we're working with Canadian
+customs and CBP here in the United States to try and look at
+the documentation that's required for a certain specific
+commodity segment of that and to see if that can be applicable
+there and can we actually make that a standard elsewhere. So
+we're early days, but we're working together on that.
+Mr. Marshall. So there's a spirit of cooperation in
+anticipation of this technology from this Administration?
+Mr. White. Absolutely.
+Mr. Marshall. That's great to hear.
+Dr. Maughan, let's talk to you for a second. One of my
+biggest concerns is I go to all my different meetings,
+different committees, talk to different folks, is when it comes
+to cybersecurity, let alone blockchain technology is--I'm
+worried that every department is doing their own thing. Would
+you--is DHS the leader on these issues? Would--is there some
+cooperation between your department and the other departments
+in the Administration, whether it's blockchain technology or
+cybersecurity?
+Dr. Maughan. So I'll answer from two sides. From the
+science and technology side, there's a lot of coordination and
+collaboration going on in the interagency and particularly in
+the blockchain area where we share what's going on across the
+different agencies. You have NSF and NIST and others also
+funding research and development in blockchain.
+On the operational side, DHS does have the lead on the
+cybersecurity, as well as with the NIST cybersecurity framework
+and it's--how it explains cybersecurity. So both operationally
+and R&D, DHS has a strong position there.
+Mr. Marshall. Is there a cooperation with the military in
+what they're doing in these areas with DHS?
+Dr. Maughan. That I'm aware of on the research and
+development side there is because I'm involved in it and we----
+Mr. Marshall. Okay.
+Dr. Maughan. --do things from an interagency perspective. I
+don't know the details on operationally. I would expect there
+is, but I don't know the details.
+Mr. Marshall. Okay. It's been said--I'll stick with you Dr.
+Maughan--is that China steals $400-$600 billion of our
+technology every year through copyrights or computer software,
+whatever it is, explain to me again--you all have touched on
+it. Go a little bit deeper. How can blockchain technology
+impact that? And be as specific give me examples if you could.
+Dr. Maughan. Sure. So the--if you look at how a blockchain
+works and the ability for organizations or individuals to put
+their cryptographic stamp on the data, right, now, if I use it
+in that way, you as the Chinese or others, wouldn't be able to
+counterfeit and----
+Mr. Marshall. So Nike would have their unique encryption,
+and you knew if you got----
+Dr. Maughan. Right.
+Mr. Marshall. --a pair of Nike shoes from someone that
+doesn't have that unique encryption, you as a producer would--I
+mean, not as a producer--you as a wholesaler in America would
+understand--would see that?
+Dr. Maughan. Correct. And if it's not--if it doesn't have
+the correct data, doesn't have the correct integrity on the
+data, then someone would be able to tell that you're not the
+legitimate producer or supplier.
+Mr. Marshall. Okay. Thank you. I can ask one more question
+if you're not quite ready.
+Tell me--you know, fentanyl is one of my big concerns.
+Fentanyl is 100, 1,000 times more potent than the typical
+opioids coming across. You can make this in your garage. It's
+coming over by the truckloads from China, I'm told. How can
+blockchain--you know, UPS or DHS--maybe--Mr. Rubio, you're the
+UPS guy. Any thoughts how blockchain could impact that?
+Mr. Rubio. It's a tricky issue because it's ultimately what
+gets packed in a carton, and I think that becomes a challenge
+for us. Blockchain certainly provides the framework for us to
+begin investigating the contents and then perhaps scoring
+transactions and then eliminating them from the supply chain.
+So the framework is there, and it's an area that will require
+work----
+Mr. Marshall. Can we trace it backwards, you know, perhaps
+back to the origin----
+Mr. Rubio. Absolutely.
+Mr. Marshall. --a little bit better?
+Mr. Rubio. Yes, using the same techniques that Dr. Maughan
+explained, that's exactly the way we would go.
+Mr. Marshall. Thank you, Mr. Chairman, and I apologize I
+went over. I yield back.
+Chairman Abraham. That's quite all right, Doctor.
+Mr. Hultgren, 5 minutes.
+Mr. Hultgren. Thank you, Chairman. Thank you all. I
+appreciate you being here. This is a really important,
+interesting, challenging topic and grateful to learn from you
+all. And I've also been grateful I've been able to see a number
+of great ideas coming out of Illinois, my home State, with many
+investments in the financial sector coming out of Chicago.
+There are also some efforts at the state level to look at many
+innovative solutions to state and local government with the
+Illinois Blockchain Initiative, a consortium of state and
+county agencies who issued their first report just in February.
+I've also been encouraged through the work that I've been
+able to do on the Tom Lantos Human Rights Commission on the way
+in which new technologies like blockchain can better secure and
+validate supply lines in conflict regions, as well as better
+manage the disbursements of aid through the federal government
+and other NGOs. The transparency of something like a
+distributed ledger can also give new tools for individuals to
+finally assert basic property rights when governments deny the
+rule of law or access to the legal system in other countries.
+If I can address first, Mr. White, Mr. Rubio, and Dr.
+Maughan. Previous witnesses before the Committee have detailed
+how thoughtfully inserting blockchain, inappropriate projects
+already funded would ensure we stay at the forefront of this
+transformative technology. Have you taken this approach to
+analyze blockchain's potential for appropriate projects? And in
+your opinion, what are some examples of where it would be
+appropriate or not be appropriate to implement blockchain
+technology? And what's the distinction of where it would work
+likely and where it would likely not work?
+Mr. White. Well, from a Maersk Line perspective, one of the
+opportunities we see are global supply chains. So global supply
+chains are some of the most complex multiparty networks in the
+economic landscape today. So, by definition, you have a number
+of companies that are involved, transmitting sensitive
+information for the cargo across different channels. I think
+blockchain is especially suitable for that because you can
+enable, through this permissioned blockchain, the entities that
+should have a right to see and have access to that information,
+to have access to that information, to make sure that they can
+see it, and trust that the information has not been tampered
+with or modified in any way, shape, or form. And then you can
+tie the visibility of the sort of end-to-end, in-transit
+information and have that simultaneously with the documents or
+the data on that to actually enable smoother supply chains but
+also in a trusted immutable way. So we think for that
+blockchain is very much fit for purpose, and I think it can be
+a game changer because it provides that immutable trust through
+the distributed ledger, through smart contracts, and through a
+permissioned blockchain, so we think there's a great
+opportunity.
+Mr. Hultgren. Great. Mr. Rubio or Dr. Maughan?
+Mr. Rubio. Yes. From our side, really it's about reducing
+friction in the supply chain and streamlining the exchange of
+information. So what blockchain provides is the opportunity to
+digitize transactions and then share that information through
+the network. And as we can collect information near real-time,
+that will just speed up supply chains and provide, you know,
+fast-moving product.
+Mr. Hultgren. Okay. Dr. Maughan?
+Dr. Maughan. As I mentioned in my testimony, there are
+other additional ones from a DHS perspective in addition to the
+supply chain, but certainly the ones we've been working on is
+the data and sharing of imagery on the border with CBP in order
+to be able to share that and ensure the authenticity and
+integrity of that data. And I think that has tremendous value
+as we think about IOT devices that are doing--that are
+collecting data and sharing that data. We'll be able to protect
+that. There are others that have to do with passenger
+processing and other aspects that I think our potential uses as
+well.
+Mr. Hultgren. Yes. Any that jump to mind that you feel like
+this just wouldn't work? It's just not the right place for
+this? I guess if that comes up, let us know because we
+definitely respect your thoughts and opinions.
+Let me move on in my last minute here again to Mr. White,
+Mr. Rubio, and Dr. Maughan. Do you collaborate or coordinate
+with any domestic or international standards bodies on
+blockchain?
+Mr. White. Yes, so from a Maersk Line and IBM association,
+we're working together and looking to work with BiTA here in
+the United States and also looking to work with other entities
+around the world. We think it's very important to have sort of
+a common definition of standards where standards exist, and
+where standards don't exist or need to be improved, we want to
+work collaboratively with others to make sure that we get the
+right standards so that we can all--make sure that we can talk
+more easily through a digitized environment going forward.
+Mr. Rubio. UPS is also a member of the BiTA, and we're very
+interested in driving standards to improve this technology.
+Dr. Maughan. And we are actively involved with both the
+World Wide Web Consortium, the W3C, and OASIS, the Organization
+for Structured Information Systems for some of our standards
+work as well.
+Mr. Hultgren. Great. My time is expired. Thank you again
+for your work. Thank you, Chairman, for holding this hearing.
+Chairman Abraham. Thank you. Mr. Beyer?
+Mr. Beyer. Thank you, Mr. Chairman.
+Dr. Maughan, you--in your briefing you said, and I quote,
+``Most organizations don't need a blockchain.'' Can you tell us
+why most organizations don't need a blockchain?
+Dr. Maughan. So we've worked through kind of a process to
+ask some questions of people about what they're trying to do,
+and they oftentimes don't need a blockchain. They can solve
+their problems with a database or other accounting instruments.
+And it takes a little bit of a discussion to get to a point. A
+lot of times people are thinking just in a single organization
+they'll use a blockchain. Well, they don't really need one. The
+blockchain, its attributes include multiple parties, trust
+relationships, and different types of sharing of information
+and storage of information. And you really need to actually
+walk through a certain set of questions to decide whether you
+really need a blockchain. And in a lot of cases, people don't
+need a blockchain.
+Mr. Beyer. You know, there have been lots of anxiety the
+last couple of elections--and not just 2016--2004, 2008 about
+the security of voting machines, and there's a move to online
+voting but only if it's secure. Is voting someplace where
+blockchain might be relevant or is this like again a place
+where there are other simpler technologies?
+Dr. Maughan. I think we're early days. I don't know that
+we've done the real diligence that we need to look at that, but
+I actually believe that voting is probably not a place where we
+would use blockchain technology.
+Mr. Beyer. Would every voter have to have their own
+blockchain key and----
+Dr. Maughan. Right, well, the question is, is who am I
+sharing my vote with? I mean, the only person that I really
+want to share my vote with is my local voting establishment,
+and so I think the complexity there is even worse than what we
+have today in just paper in normal elections.
+Mr. Beyer. Thank you. Mr. Chiaviello, you are--I very much
+empathize with the problems of your company. I'm an automobile
+dealer, so counterfeit parts have plagued me for more than 4
+decades. But are any of the companies that you represent now
+pursuing blockchain technology? And do--on the other hand, if
+you complain about reselling the counterfeits through a big
+company, an Amazon, do they have to be a participant in the
+blockchain with you to make this work?
+Mr. Chiaviello. I--we are not pursuing blockchain at this
+point directly, but it would appear that the retailer, the
+Amazons of the world, would have to be participants in
+blockchain technology. And we would have to be participants as
+well. As we see it, where this is going is that the blockchain,
+the key to a blockchain would be like a digital hologram or an
+equivalent to a trademark or a watermark that you might find on
+paper identifying the product itself as an authentic,
+legitimate product. That would have to be established by
+someone like us, the designer/manufacturer, but then it would
+have to pass through the entire supply chain, and ultimately,
+we would need a method for the consumer to be able to verify
+that that product is a legitimate, authentic product.
+Mr. Beyer. Interesting. Mr. White, you have your--you had
+global perspective with Maersk obviously, and I strongly
+believe, just based on this committee's interest, that America
+should take the lead on blockchain innovation research. But we
+have--we see what a lot of the other nations are doing. China
+recently launched what they call the Trusted Blockchain Open
+Lab. Dubai says it will be the world's first blockchain-powered
+government. Singapore is exploring it. Russia's state-run bank
+Sberbank announced it's going to team up to do blockchain for
+document transfer. The European Union launched its E.U.
+Blockchain Observatory and Forum. Where is the United States
+compared to the rest of the world in terms of our blockchain
+leadership in research?
+Mr. White. Well, I think the United States is leading in
+lots of ways on blockchain. Maersk and IBM are coming together
+for our collaborative effort that we are seeking regulatory
+approval in different authorities around the world to launch
+this global digitization platform I think is evidence of the
+largest marine transport container shipping company in the
+world and the technology giant of IBM that is a leader in
+blockchain coming together to have some innovative uses of
+blockchain.
+And it's not--I would say blockchain is not a solution
+looking for a problem. It is specifically fit for purpose for a
+global supply chain, so when we talk about this large,
+distributed network, multiple parties transmitting sensitive
+information across not only organizational but also
+geographical boundaries, having some way to do that in a secure
+manner I think helps facilitate trade. I think it helps to
+certainly identify fraud much earlier in the process, which is
+a significant disincentive to it. And I think we can create
+safer, better, more efficient supply chains by deploying this
+technology. And I think the United States is right in the
+forefront of that.
+Mr. Beyer. Thank you. Mr. Chairman, I yield back.
+Chairman Abraham. Thank you. Mr. Loudermilk?
+Mr. Loudermilk. Thank you, Mr. Chairman. And first of all,
+I want to thank the Chairman for holding this hearing. I've
+kind of felt a little bit like a voice in the wilderness on
+blockchain--excuse me--after spending 20 years in the--20-plus
+years in the IT industry. And I've often said for the last
+couple of years if we can get over the stigma of cryptocurrency
+and look at the technology beneath it, it could be a solution
+to a lot of our cybersecurity and data protection issues.
+And so I appreciate the Chairman having this hearing. I was
+very excited when I saw it because I think we're beginning to
+make some progress from this side of the dais in looking at
+this incredible technology.
+Mr. Chiaviello, you talked about counterfeit and knockoff
+products as a problem, the sale and distribution of those. Can
+you elaborate a little bit how the sell and distribution of
+these counterfeit goods makes it difficult and costly to police
+and enforce IP rights, intellectual property?
+Mr. Chiaviello. Yes. The big problem that we're facing now
+is that the--the pirates, the knockoff companies are now
+located overseas, and we have no way of identifying them. They
+establish an online store with typically a fake name and no
+identifying or contact information. The--if they have a domain
+name, it's hidden behind a proxy server, privacy proxy, and so
+we have--we or the consumer have no way of identifying where
+that entity is located.
+Products that are shipped into this country, often they use
+fake addresses. Return addresses on the packaging are fake, and
+so we and the U.S. consumer is essentially left without a
+remedy. There's--as you know, to bring an action in a federal
+court or even a state court, you need personal jurisdiction
+over the seller.
+Mr. Loudermilk. Right.
+Mr. Chiaviello. And if we don't even know who the seller
+is, much less where they're located, we cannot get personal
+jurisdiction, and any default judgment would be essentially
+valueless trying to enforce it.
+Mr. Loudermilk. What would be the long-term consequences of
+failing to address the issue both to business and to the
+consumers?
+Mr. Chiaviello. Well, it puts domestic companies at a
+financial disadvantage. We're competing with people who don't
+incur the cost for the R&D, don't incur the cost for the
+regulatory compliance. And at the least it limits our growth.
+We're not as--we cannot be as big company as we should be based
+on this type of foreign unfair competition. And to the extent
+it continues, it threatens domestic industries.
+Mr. Loudermilk. Okay. Thank you. Let me steer a little
+closer back to Georgia with our good corporate partner from
+Atlanta. Mr. Rubio, you've stated or actually wrote that
+blockchain could make large multinational companies such as UPS
+more efficient and could, and I quote, ``leave them better
+equipped to handle the continued growth of e-commerce.'' Can
+you elaborate a little bit more on the e-commerce aspect of
+that and how it can help these companies be more efficient, as
+well as more secure?
+Mr. Rubio. Sure. The promise of blockchain is that it
+allows for the digitization of transactions within the supply
+chain. And in the e-commerce space, oftentimes documentation is
+required to clear customs around the world. And so what
+blockchain can do is it can provide the vehicle for us to
+digitize transactions, collect that information, and make it
+simpler for the consumers and then eliminate this friction in
+the supply chain. So by posting information in real time to the
+supply chain, data can be shared among the different players,
+and that would streamline the flow of goods.
+Mr. Loudermilk. What's the benefit to the consumer?
+Mr. Rubio. The benefit to the consumer is that they can
+receive their product quicker without any interruption.
+Mr. Loudermilk. All right. Thank you. Mr. Chairman, I yield
+back.
+Chairman Abraham. Thank you. Fascinating subject, so we're
+going to have another round of questions here.
+I'm sure volumes have been written on the efficiency of
+both Maersk and UPS as far as moving goods, phenomenal
+companies. But, Mr. White, in your testimony you said that
+blockchain technology could increase global trade by up to 15
+percent. That's a phenomenal figure, and certainly we want to
+move that forward. One barrier to the widespread adoption of
+blockchain technology is the linking of the physical object to
+the digitization. Can you guys--Mr. White and Mr. Rubio--can
+you all elaborate as to how we can actually make that happen,
+how we can make those physical dots connect?
+Mr. White. I think it's well-cited. Actually, during our
+evaluation of supply chains, we looked at some of the most sort
+of complex supply chains, as I mentioned. You have a challenge
+of both the physical end-to-end transport of the goods, which
+is one thing, and the visibility of the events that--the real-
+time access of that information as to where that container in
+our case is physically located at any one point in time and
+then the disconnect that we see from a paper-based
+documentation flow, so linking the two of them together with
+digitization so you have the opportunity to have more real-time
+visibility as to where a shipment is.
+So with our platform we have a shipment--shipping
+information pipeline, so we can actually see more events of
+what's happening with that container, everything from when it's
+empty for loading to when it's stuffed to when it's back to the
+terminal facility to when it's loaded on board a vessel and
+onto any train shipment through customs clearances on both
+ends, endgame delivery, but also having the capability with
+this platform to have digitize documents. As Mr. Rubio has
+said, it enables us to have them in a structured way in a
+format that the government agencies require so that they can
+actually process them. So you have the capability of having
+them both together.
+In our supply chain evaluation, the one shipment of
+avocados I mentioned was I know is a 34-day end-to-end transit
+from when it was actually farmed at the farm and then put to
+the truck to be loaded into a container until it would end up
+being delivered. In that 34 days, 14 days, two weeks of it, it
+was sitting there waiting for documentation for processing. So
+you've got an opportunity to actually improve supply chain
+cycle times and the efficiency, as I mentioned, over 200
+individual exchanges of document and information. With the
+certifications that were required, they actually are stamped by
+one authority and moved by courier by motorbike to another
+authority for another stamp and then to the port so you're
+physically moving documents instead of transmitting
+electronically.
+Chairman Abraham. Mr. Rubio, do you want to weigh in on
+that?
+Mr. Rubio. Sure, yes. The big challenge of course is making
+the physical world connect with the information world, and that
+really is a key challenge that will need to be overcome in
+order to achieve the ends that you're asking about.
+But there are technologies that can speak to the data like
+RFID, as I mentioned, and potentially even x-ray technology. So
+x-ray technology, you know, the possibilities exist for
+interpretation of x-rays to understand what's actually in a
+carton and then leveraging that information with what's
+physically been communicated by the different players in the
+supply chain can then further support the validity of what has
+been claimed on the transaction. So those are kinds of
+techniques that can be used to link up the two. It's a very
+tricky issue, but that would be how it could possibly unfold.
+Chairman Abraham. All right, thank you. Dr. Maughan, we
+have consistently heard that in order to effectively foster the
+adoption of blockchain solutions to supply-chain problems,
+there must be a common set of standards, and we've addressed
+that somewhat here today that are globally recognized. How can
+such standards be promulgated and adopted?
+Dr. Maughan. First is the development of those standards,
+which we're working on with some of our partners, but then I
+think it is--it's an education game. As you can tell, we're
+fairly early on in the blockchain world, and it becomes up to
+companies like Maersk and UPS as they use it to educate others.
+And I think we are in a leading position within the world that
+we the United States can take a leadership role and continue to
+push blockchain and educate people on the use of it.
+Chairman Abraham. So you agree that the United States
+should lead that charge?
+Mr. Rubio. I certainly believe we should take a leadership
+role. I don't know if we're going to be out in front because
+you can't do a blockchain by yourself, right?
+Chairman Abraham. Right.
+Mr. Rubio. I mean, what we want to do is have this
+conversation both government to government and have a
+conversation with our government partners so that they are also
+on board because it is a global community.
+Chairman Abraham. Okay. Thank you. Mr. Beyer?
+Mr. Beyer. Thank you, Mr. Chairman.
+Mr. Rubio, you talked about how UPS is committed to
+blockchain, and you also talked about some of the obstacles.
+One of the things I read is that Visa right now can process
+56,000 transactions per second, but the Bitcoin blockchain is
+only about five transactions per second. Do you see this
+transaction processing power an obstacle to making UPS
+effectively use blockchain?
+Mr. Rubio. Well, I'm unfortunately not in a position to
+qualify any statements on Bitcoin, but certainly, the
+blockchain itself, we certainly see the capability to share
+information, streamline information, and process it in real
+time and absolutely by exchanging information rapidly, that
+will streamline the supply chain and allow trade to happen
+efficiently.
+Mr. Beyer. If you adopt blockchain, will UPS drivers be
+allowed to turn left?
+Mr. Rubio. Hardly.
+Mr. Beyer. Okay. Dr. Maughan, one of the things that--you
+know, when we had our last blockchain technology, we got all
+excited for two hours and somebody pointed out that when
+quantum computing comes, that it goes so fast that they
+actually break the block chain keys. How soon do you see this
+coming? Do--does it make sense for us to make all this huge
+investment of blockchain if quantum computing is going to make
+it irrelevant once it arrives?
+Dr. Maughan. You know, that's a very good question, and I
+think we don't know yet where--when quantum is going to be
+here, right? I mean, it depends on who you talk to. Quantum is
+10 to 15 to 20 years out, and there's still I think a lot of
+research and development to be done even to get us there. And I
+think the issue is blockchain today can use cryptographic
+algorithms of today and still provide us the security and the
+privacy we need? I think we're going to have to figure out how
+this competition, if you will, between blockchain and quantum,
+how that plays out over the next decade or two.
+Mr. Beyer. Blockchain at least is a lot more intuitive----
+Dr. Maughan. It is and----
+Mr. Beyer. --than quantum entanglement and things like that
+so----
+Dr. Maughan. That's right, a bit easier to understand.
+Mr. Beyer. So you have this beautiful education, a Ph.D. in
+computer science. The President still doesn't have a National
+Science Director, head of the Office of Science and Technology
+Policy at the White House. Are you--should you apply? It would
+be the first computer scientist ever to be the White House
+Chief Scientist.
+Dr. Maughan. I don't think I can comment on that.
+Mr. Beyer. I'm talking to my friend here, the Chairman. I
+yield back, sir.
+Chairman Abraham. Thank you, Mr. Beyer.
+Mr. Hultgren?
+Mr. Hultgren. Thank you again, Chairman.
+Moving on to a couple other questions I had, so, first, I'm
+going to address this to Dr. Maughan. Other experts in the
+field have noted the potential opportunity for nurturing future
+blockchain projects within SBIR, the Small Business Innovation
+Research program. Do you see any other areas within the federal
+government that could help facilitate the establishment of
+blockchain projects or pilots, certainly within DHS but other
+spots as well?
+Dr. Maughan. I think the applications are almost limitless,
+and I think the question is really up to the departments or
+agencies as to how they try to address that. We have--from a
+science and technology perspective, we have taken a fairly good
+leadership position so far within the government. We are
+talking about other applications where blockchains might be
+usable, and we have also used our Silicon Valley Innovation
+Program to fund startup companies to look at some of these
+techniques and technologies. In fact, the pilot we're doing
+with the Border Patrol on data imagery is with a startup
+company out of Texas.
+Mr. Hultgren. Great. Thank you. Mr. White and Mr. Rubio,
+specifically with respect to collaboration and standardization,
+what are some of the lessons your companies have learned that
+will help you utilize blockchain technology at scale?
+Mr. White. So in terms of lessons, I think this item of
+standardization is critically important. We need to understand
+what standards are out there. For instance, you know, if we
+look at just end-to-end supply chains, UNC codes or the way
+that we define inland points varies depending on what geography
+you're in, and then also are they specific enough to really
+nail down, you know, what the geography is that you're--if
+you're talking about multiple facilities within a common ZIP
+Code, for instance. So the ability to sort of embrace and
+tackle some of those challenges I think, as an industry, we
+have to do it. It's something of course Maersk and UPS could do
+individually, but then if we're both calling it something
+different, it makes it a challenge. So I think coming together,
+working through these advisory boards and these standards
+committees, I think it's really important to prioritize what
+are the most important standards to get alignment on and how
+can we move that forward.
+And in addition to joining these established organizations
+between Maersk and IBM with our new platform we're looking to
+establish an industry advisory board, you know, making sure
+that we have participants from ports, terminals, other
+carriers, inland carriers, customs entities if we can to make
+sure that we look at it from a collaborative multi-perspective
+position.
+Mr. Hultgren. Thanks.
+Mr. Rubio. And the lessons that I'm learning personally in
+this space being involved in some of these working committees,
+but as you sit through and you look at defining standards for
+how we're going to communicate and collaborate via blockchain,
+there are painstaking issues over data that you will exchange.
+And so it's fascinating to listen to the different players and
+their perspectives of what information would be useful to
+exchange and what information would not. So it is--in driving
+the standards, it's not a trivial task but it's an important
+task. And in the end, you end up with a very sound product. And
+my first-hand experience is that's how we did it with CBP, and
+you guys should be proud of the work that they have done so
+far.
+Mr. Hultgren. Absolutely. Thank you. One last question,
+again, Mr. White, Mr. Rubio, and Dr. Maughan. Given its
+jurisdiction over NIST, what can this committee do to ensure
+that the United States is cultivating a supportive environment
+for blockchain technology projects? Dr. Maughan, I'll start
+with you.
+Dr. Maughan. Well, I think certainly in our role within
+DHS, we work a lot with NIST and the roles there. They've
+published documents identifying blockchain overview and how
+that all works, and I think just to continue participation in
+the standards community is an important part for NIST
+participation, and we've certainly been working with them on
+that.
+Mr. Hultgren. Great. Thanks.
+Mr. White. The interaction we've had with DHS and CBP has
+been very positive. We've been working with the E.U. CORE
+project for the last 18 months to try and understand how
+they're approaching digitization, and CBP and DHS have been
+supportive of that. And then also as we're developing our
+platform trying to learn from those lessons, that continued
+support and looking to how we can work with other partner
+government agencies, I think they have been very constructive
+in that process.
+Mr. Hultgren. Great. Thank you all so much. I'll yield
+back.
+Chairman Abraham. Thank you. Mr. McNerney?
+Mr. McNerney. Well, I thank the Chairman and I thank the
+panelists.
+Mr. Rubio, can you walk us through why blockchain
+technology is useful for identifying--for identity verification
+and why this is important for chain logistics?
+Mr. Rubio. So it's--it would be important for identity
+verification in that it would help secure supply chains. And so
+understanding who the actors are in the supply chain that are
+exchanging product or information would be critically important
+so that we can maintain security and it can also be leveraged
+for potential intellectual property rights types of issues.
+Mr. McNerney. Good. Thank you. Mr. Maughan, is the U.S.
+Government currently using blockchain technology to mitigate
+cybersecurity threats?
+Dr. Maughan. I'm not aware of actual deployed blockchain
+technology. As I mentioned in my testimony, we have a number of
+pilot deployments where we're testing out some of the
+technology to see how it will be used and the scale at which we
+can use it.
+Mr. McNerney. Are there any potential risks associated with
+using blockchains to reduce cybersecurity threats?
+Dr. Maughan. I don't know that there are that many risks. I
+mean, I think we're--you know, when you start talking about
+cybersecurity, it is about the data and can I ensure integrity
+and authenticity? As long as the technology is implemented
+correctly, then I think the risks are--they're mitigated by the
+technology itself. A lot of times in cybersecurity the problem
+is implementation and people implementing it incorrectly.
+Mr. McNerney. I understand. I'm not sure which panelist to
+ask, but could someone discuss the energy implications of
+expanding applications of blockchain technology and how can it
+be mitigated? Who would be the right person to address that?
+What are the energy implications of blockchain--widespread
+application of blockchains?
+Dr. Maughan. I believe your question is probably related
+to--if you look at from an energy standpoint, are you talking
+about computing power?
+Mr. McNerney. Right.
+Dr. Maughan. Yes. So if you look at the way
+cryptocurrencies are used--and there's an awful lot of
+computing power in the background of cryptocurrencies to
+actually make them work. And so the--I think the question and
+the discussion is about if I start to do large-scale
+blockchains, I now have computing infrastructure that I also
+have to operate. And the question is is does that make it a
+difficulty for a small business or someone else to ensure that
+they have the adequate power to do their blockchain technology?
+Because you do have to check. And there's checks all along the
+way in the data to ensure that it hasn't changed and that--and
+it is authentic, and so there is a computing infrastructure
+that goes along with this. It doesn't just happen.
+Mr. McNerney. So, I mean, what can be done to mitigate the
+energy usage implications of widespread application of
+blockchains?
+Dr. Maughan. I actually believe you're going to see
+companies like Maersk and UPS probably have their own large
+infrastructure from a computing standpoint. I think you have a
+potential for service companies to provide, which is what
+happens in the cryptocurrency world. There are what are called
+Bitcoin miners, and they run the infrastructure that does a lot
+of the calculation.
+Mr. McNerney. Right.
+Dr. Maughan. You could very easily see something similar in
+the blockchain world where someone else is doing--offering a
+technical capability to provide you a service and be the
+computing infrastructure if you are a small business.
+Mr. McNerney. Mr. White, I have in my district the Port of
+Stockton. It's the largest inland port on the West Coast. It's
+the third-largest port in the State of California. What steps
+is your company taking to increase adoption of blockchain
+technology?
+Mr. White. Well, we're working with ecosystem participants
+from ports and terminals to major rail operators, so we're
+already in discussion with four out of the seven class I
+railroads in the United States and also with trucking
+communities because we think by everybody participating in this
+new global platform, we have the capability of making it more
+visible in terms of the seamless and more efficient movement of
+cargo and, by using blockchain, make sure that those who are
+permissioned--it is a permissioned blockchain, so those who are
+party to the shipment can see the information; others cannot.
+And those that can see it can get better real-time information,
+so in terms of moving cargo efficiently through ocean or inland
+terminals, getting better visibility as to when cargo is
+available, will be available, and enabling more efficient use
+of the landside equipment that moves cargo between the ports
+and the shippers or the consignees and D.C.'s and warehouses.
+Mr. McNerney. It sounds like a lot of advantage.
+Mr. White. We think it's a great utility for everybody. I
+think this industry has not really changed since the 1950s
+since containerization has come around, and I think this
+technology affords us an opportunity to look at things
+differently. And what we're seeing is a lot of engagement from
+everybody involved in the supply chain because I think the
+industry is ready for change.
+Mr. McNerney. Thank you. I yield back.
+Chairman Abraham. Thank you, Mr. McNerney.
+Well, once again, I thank the witnesses and the members had
+some great questions. Robert, tell everybody in Monroe,
+Louisiana, give them my regards. I'll be home shortly.
+Mr. Rubio, is that your family behind you?
+Mr. Rubio. It is, yes.
+Chairman Abraham. I tell you, I've been watching those two
+young people. They are our future, and they have been listening
+intently, so they are our future blockchainers and quantum
+computer tacticians, so I appreciate their presence very much
+here.
+Mr. Rubio. Thank you, Mr. Abraham.
+Chairman Abraham. The record will remain open for two weeks
+for additional comments and written questions from members.
+This hearing is adjourned.
+[Whereupon, at 11:32 a.m., the Subcommittees were
+adjourned.]
+Appendix I
+----------
+Answers to Post-Hearing Questions
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[all]

@@ -1,0 +1,1654 @@
+- THE FUTURE OF REAL-TIME PAYMENTS
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+THE FUTURE OF REAL-TIME PAYMENTS
+=======================================================================
+HEARING
+BEFORE THE
+TASK FORCE ON FINANCIAL TECHNOLOGY
+OF THE
+COMMITTEE ON FINANCIAL SERVICES
+U.S. HOUSE OF REPRESENTATIVES
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+SEPTEMBER 26, 2019
+__________
+Printed for the use of the Committee on Financial Services
+Serial No. 116-55
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+42-355 PDF
+WASHINGTON : 2020
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+MAXINE WATERS, California, Chairwoman
+CAROLYN B. MALONEY, New York
+PATRICK McHENRY, North Carolina,
+NYDIA M. VELAZQUEZ, New York
+Ranking Member
+BRAD SHERMAN, California
+PETER T. KING, New York
+GREGORY W. MEEKS, New York
+FRANK D. LUCAS, Oklahoma
+WM. LACY CLAY, Missouri
+BILL POSEY, Florida
+DAVID SCOTT, Georgia
+BLAINE LUETKEMEYER, Missouri
+AL GREEN, Texas
+BILL HUIZENGA, Michigan
+EMANUEL CLEAVER, Missouri
+SEAN P. DUFFY, Wisconsin
+ED PERLMUTTER, Colorado
+STEVE STIVERS, Ohio
+JIM A. HIMES, Connecticut
+ANN WAGNER, Missouri
+BILL FOSTER, Illinois
+ANDY BARR, Kentucky
+JOYCE BEATTY, Ohio
+SCOTT TIPTON, Colorado
+DENNY HECK, Washington
+ROGER WILLIAMS, Texas
+JUAN VARGAS, California
+FRENCH HILL, Arkansas
+JOSH GOTTHEIMER, New Jersey
+TOM EMMER, Minnesota
+VICENTE GONZALEZ, Texas
+LEE M. ZELDIN, New York
+AL LAWSON, Florida
+BARRY LOUDERMILK, Georgia
+MICHAEL SAN NICOLAS, Guam
+ALEXANDER X. MOONEY, West Virginia
+RASHIDA TLAIB, Michigan
+WARREN DAVIDSON, Ohio
+KATIE PORTER, California
+TED BUDD, North Carolina
+CINDY AXNE, Iowa
+DAVID KUSTOFF, Tennessee
+SEAN CASTEN, Illinois
+TREY HOLLINGSWORTH, Indiana
+AYANNA PRESSLEY, Massachusetts
+ANTHONY GONZALEZ, Ohio
+BEN McADAMS, Utah
+JOHN ROSE, Tennessee
+ALEXANDRIA OCASIO-CORTEZ, New York
+BRYAN STEIL, Wisconsin
+JENNIFER WEXTON, Virginia
+LANCE GOODEN, Texas
+STEPHEN F. LYNCH, Massachusetts
+DENVER RIGGLEMAN, Virginia
+TULSI GABBARD, Hawaii
+ALMA ADAMS, North Carolina
+MADELEINE DEAN, Pennsylvania
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+DEAN PHILLIPS, Minnesota
+Charla Ouertatani, Staff Director
+TASK FORCE ON FINANCIAL TECHNOLOGY
+STEPHEN F. LYNCH, Massachusetts, Chairman
+DAVID SCOTT, Georgia
+FRENCH HILL, Arkansas, Ranking
+JOSH GOTTHEIMER, New Jersey
+Member
+AL LAWSON, Florida
+BLAINE LUETKEMEYER, Missouri
+CINDY AXNE, Iowa
+TOM EMMER, Minnesota
+BEN McADAMS, Utah
+WARREN DAVIDSON, Ohio
+JENNIFER WEXTON, Virginia
+BRYAN STEIL, Wisconsin
+C O N T E N T S
+----------
+Page
+Hearing held on:
+September 26, 2019...........................................
+1
+Appendix:
+September 26, 2019...........................................
+29
+WITNESSES
+Thursday, September 26, 2019
+Benson, Carol, Founding Partner, Glenbrook Partners..............
+10
+George, Esther L., President and Chief Executive Officer, Federal
+Reserve Bank of Kansas City....................................
+4
+Sinha, Harsh, Chief Technology Officer, TransferWise.............
+6
+Steen, Bob, Chairman and Chief Executive Officer, Bridge
+Community Bank, on behalf of the Independent Community Bankers
+of America (ICBA)..............................................
+7
+Williams, Rodney, Co-Founder and Chief Commercial Officer, LISNR.
+9
+APPENDIX
+Prepared statements:
+Benson, Carol................................................
+30
+George, Esther L.............................................
+32
+Sinha, Harsh.................................................
+49
+Steen, Bob...................................................
+55
+Williams, Rodney.............................................
+62
+Additional Material Submitted for the Record
+Lynch, Hon. Stephen:
+Written statement of the American Bankers Association........
+64
+Written statement of Americans for Financial Reform and
+various undersigned organizations..........................
+70
+Written statement of Consumer Reports........................
+73
+Written statement of Financial Innovation Now................
+78
+Written statement of Food Marketing Institute................
+79
+Written statement of Main Street Alliance....................
+82
+Written statement of Nacha...................................
+84
+Written statement of the National Association of Federally-
+Insured Credit Unions......................................
+88
+Written statement of the Retail Industry Leaders Association.
+90
+Written statement of The Clearing House Payments Company.....
+92
+Axne, Hon. Cindy:
+Written responses to questions submitted to Bob Steen........
+108
+Hill, Hon. French:
+Written responses to questions submitted to Carol Benson.....
+109
+Written responses to questions submitted to Harsh Sinha......
+111
+Written responses to questions submitted to Bob Steen........
+113
+THE FUTURE OF REAL-TIME PAYMENTS
+----------
+Thursday, September 26, 2019
+U.S. House of Representatives,
+Task Force on Financial Technology,
+Committee on Financial Services,
+Washington, D.C.
+The task force met, pursuant to notice, at 2:05 p.m., in
+room 2128, Rayburn House Office Building, Hon. Stephen F. Lynch
+[chairman of the task force] presiding.
+Members present: Representatives Lynch, Scott, Gottheimer,
+Lawson, Axne; Hill, Luetkemeyer, Emmer, Davidson, and Steil.
+Ex officio present: Representatives Waters and McHenry.
+Also present: Representatives Pressley, Hollingsworth, and
+Riggleman.
+Chairman Lynch. Good afternoon. The Task Force on Financial
+Technology will now come to order. Without objection, the Chair
+is authorized to declare a recess of the task force at any
+time. Also, without objection, members of the full Financial
+Services Committee who are not members of this task force are
+authorized to participate in today's hearing.
+Today's hearing is entitled, ``The Future of Real-Time
+Payments.'' I now recognize myself for an opening statement.
+Thank you for being here. I want to thank our esteemed
+panel of witnesses as we discuss the future of real-time
+payments in America.
+Today, we will examine how the nearly instantaneous
+clearing and settlement of payments stands to benefit consumers
+and small businesses, as well as the challenges it presents to
+both operations and security. This is a timely conversation.
+Both consumers' and institutions' expectations have demanded
+innovation. And, in fact, just a few days after we announced
+this hearing, the Federal Reserve announced their intent to
+roll out a 24-hours-a-day, 7-days-a-week, 365-days-a-year
+wholesale real-time payment system called FedNow.
+Much of the wider discussion surrounding FinTech is focused
+on consumer-facing applications like digital banking or
+applying for a loan on your smartphone. Along with these other
+applications, payments technology has seen a similar
+revolution. Every day, consumers use apps on their phone to
+split the check at restaurants or the utility bill at their
+apartment.
+But unlike other FinTech applications, payment technology
+is still largely dependent on old infrastructure that only
+allows settlement to occur intermittently. For example, if you
+make a transaction or transfer money on a weekend, it might
+take up to 3 days for your account to reflect that transaction.
+Americans have come to expect that they can make a payment
+with the tap of a button, and now our financial system is
+racing to catch up. For families living paycheck to paycheck,
+real-time payments mean that payday actually means payday,
+without having to resort to payday loans or other predatory
+alternatives while waiting for a check to clear. For gig
+workers, it means the option to get paid immediately after a
+job, something that can be the difference between paying a
+couple of dollars for a cup of coffee or paying $35 for a cup
+of coffee and an overdraft fee.
+For small businesses, it means having instant access to the
+money customers pay, reducing the need for short-term borrowing
+to pay employees or finance the purchase of goods. This will
+allow our businesses to cut down on the cost of borrowing
+capital and spend that money on growing their businesses.
+There is a wide array of benefits to be gained from moving
+to a real-time payment system, but it is not without some risk.
+Faster payments can mean a faster way for scammers to rip off
+unsuspecting victims, and the additional data used to track a
+real-time payment can serve as an inviting target for cyber
+criminals.
+We are faced with the meeting of two cultures: the rules-
+based cultures of banking; and the move-fast-and-break-things
+culture of tech, which sometimes burns through investor cash
+early on, and that is a philosophy that has not worked well in
+banking.
+Today's panel has a wide array of expertise from
+government, financial institutions, and financial technology
+firms. I am looking forward to hearing the testimony of our
+witnesses on the benefits and the risks of real-time payments,
+the hurdles that we still face on our way to universal
+adoption, and what lessons we can learn from other countries.
+With that, I would like to recognize my friend and
+colleague, the gentleman from Arkansas and ranking member of
+the task force, Mr. Hill of Arkansas, for an opening statement
+of 5 minutes.
+Mr. Hill. Thank you, Mr. Chairman. Thank you for having
+another good hearing in our FinTech Task Force to talk about
+another critical element in our research on how best to propose
+policy changes, both regulatorily and legislatively, to enhance
+innovation in the United States, to make sure the United States
+remains a global leader in FinTech on the credit side, the
+payment side, and the depository side, both among incumbent
+financial institutions as well as nonbank innovators.
+It is going to be good to have this conversation about the
+payments arena, because it is completely evolving and
+transforming as new technology, as you have noted, is brought
+on board. And throughout my over 40 years in finance, I have
+certainly seen every innovation that has happened since the
+mid-1970s, whether you are talking about checks or debit cards
+or credit cards, wires, or now paying through Apple Pay or from
+your watch.
+And that payment space has been a big, important part of my
+personal career. I was a founder of the Southwest's largest
+shared ATM EFT network, PULSE, back in 1980, which is now owned
+by Discover. At the time, that was the cutting-age technology
+for retail banking, and it was interesting to see that. And
+then when I was a community banker in Little Rock, before
+coming to Congress, when Google AdWords first was created, we
+built an entire digital bank online through Google AdWords,
+specializing in health savings accounts. So, I have sort of
+seen this emerging technology as an incumbent player.
+But during the first half of 2019, we have seen the
+extraordinary change globally in this with the venture capital
+business looking at payments, and then some of the biggest
+transactions on the world stage are in payments. First,
+Fiserv's acquisition of First Data, and then, Global Payments
+acquisition of Total System Services (TSYS), and those were $20
+billion transactions. And then finally, recently, just a few
+months ago, Fidelity's agreement to merge with Worldpay at $43
+billion. So, payments is a hot topic.
+And real-time payments is a gateway for further FinTech
+innovation. We don't have the future of digital banking without
+real-time payments, just like we don't have any of that if we
+don't have real private authentication and have a real national
+privacy standard and real individual identification. Those are
+the building blocks, the foundational blocks, whether you are
+doing a credit product, a payment, or opening up a new way to
+do banking.
+We have rudimentary innovation there. Visa Direct,
+Mastercard Send, these are real-time payments sort of, right?
+We have experiments there. If you have a person in college, you
+know all about Venmo, PayPal's Venmo. I thought for a while
+this was the best friend of my daughter in college, because
+Venmo kept getting money every week, and I figured out, no, of
+course not.
+But these are our payments working around the existing
+system, which is why we need real-time payments that are
+broader, and more innovative, with a bigger reach. And so, I
+look forward to talking today about the payment space that we
+have. I look forward to talking to our friends at the Federal
+Reserve about their operations in this space, learning more
+about what is being proposed by The Clearing House, to offer
+their real-time payments network, and also the timing of all
+that, because that is important. Because America has a long
+history of being a leader and an innovator in this space, and
+we don't want to delay that. And as I say, if you want a future
+that is digital, that is blockchain digital, then privacy,
+personal identification, and this issue of real-time payments
+that have fraud protections are essential.
+I look forward to the conversation today. And I would like
+to yield some time to my good friend, the ranking member of the
+full Financial Services Committee, Mr. McHenry.
+Mr. McHenry. Thank you, Mr. Hill, for your leadership on
+this, and I appreciate the testimony today.
+While we spent the last few years ``updating'' from swipe
+to PIN--which is not a newer technology, it is an older one--
+China created entire new world payments that connect consumers
+directly with their banks and merchants, where payments can be
+made at the click of a button. So, it is happening in real time
+there. It is happening on a very different scale there than
+here in the United States. And I don't know how we get it there
+in the United States. I don't know how we choose to get there,
+but what I do know is we have to get there. And if we don't, if
+we don't build our real-time payments here in the United
+States, rest assured, China will. Let's get on with it, let's
+be aggressive, let's be bipartisan, and let's get this thing
+done.
+I yield back.
+Chairman Lynch. Today, we welcome a panel of esteemed
+witnesses. First, the Honorable Esther George, president and
+chief executive officer at the Federal Reserve Bank of Kansas
+City. President George also chairs the Financial Services
+Policy Committee which oversees payment services in the United
+States. I thank you for being here, President George.
+Second, Mr. Harsh Sinha, the chief technology officer at
+TransferWise, one of Europe's largest FinTech companies, which
+focuses on helping customers cheaply transfer money
+internationally.
+Third, Mr. Bob Steen, chairman and CEO of Bridge Community
+Bank in Iowa. He serves as a member of the Iowa Bankers
+Association Payments Council, and on the Independent Community
+Bankers of America's Technology and Payments Committee.
+Fourth, Mr. Rodney Williams, co-founder and chief
+commercial officer of LISNR, a company that has developed
+technology to use inaudible tones to transmit payment data
+between retailers and mobile devices.
+And finally, we have Ms. Carol Benson, founding partner of
+the consulting firm Glenbrook Partners. Ms. Benson has
+significant experience in the payments field, having also
+worked at Visa. And she co-authored the book, ``Payment Systems
+in the U.S.''
+Thank you all for being here.
+Our witnesses are reminded that your oral testimony will be
+limited to 5 minutes. And without objection, your written
+statements will be made a part of the record.
+President George, you are now recognized for 5 minutes for
+an opening statement.
+STATEMENT OF ESTHER L. GEORGE, PRESIDENT AND CHIEF EXECUTIVE
+OFFICER, FEDERAL RESERVE BANK OF KANSAS CITY
+Ms. George. Thank you. Ranking Member McHenry, Chairman
+Lynch, Ranking Member Hill, and members of the task force,
+thank you for this opportunity.
+Chair Powell asked me to speak to you today in my role as
+the Federal Reserve Bank leader responsible for our payments
+improvement initiative since its beginning, and as Chair of the
+Financial Services Policy Committee, which oversees the
+provision of payment services to depository institutions and
+the United States Treasury by the 12 Federal Reserve Banks. I
+am pleased to offer my statement for the record, as well as an
+in-depth statement on the role of the Federal Reserve in the
+payment system and the recently announced proposal to support
+faster payments through the development of a new service called
+the FedNow Service.
+Since our founding more than a century ago, the Federal
+Reserve has provided payment and settlement services as part of
+its core function of promoting an accessible, safe, and
+efficient payment system. Today, the Federal Reserve is
+continuing this important operational role and preparing to
+support the modernization of our nation's payment system with
+capabilities that allow payments to move quickly through a safe
+and efficient foundation, on top of which innovation and
+competition can flourish.
+This decision was made only after three criteria were met.
+The first of these criteria is that other providers alone
+cannot be expected to provide the service with reasonable
+effectiveness, scope, and equity. Of notable importance related
+to this criterion is the Federal Reserve's ability to connect
+to more than 10,000 financial institutions. Through these
+connections, our existing payment services allow banks of every
+size to serve the needs of thousands of communities across the
+United States with competitive, fair, and transparent access.
+Providing this comprehensive nationwide reach is something that
+we believe will present significant challenges to other
+providers in the current market landscape. Coming from a region
+of the country with many small community banks serving rural
+areas of the central United States, I can tell you that the
+Board's decision to provide this new service has been very
+well-received.
+The second criterion is that there will be a clear public
+benefit, including promoting the integrity of the payment
+system and reducing payment system risk. The Federal Reserve
+must continue to play an important role in promoting the safety
+of the U.S. payment system by providing liquidity and
+operational continuity in response to financial turmoil,
+terrorist attacks, natural disasters, and other crises. The
+FedNow Service will allow the Federal Reserve to retain its
+ability to provide stability and support to the banking system,
+as well as promote the development and implementation of
+industry-wide fraud-mitigation standards. Development of the
+service will also enhance the safety of the U.S. payment system
+by promoting resiliency through redundancy.
+The third and final criterion is that the Fed be able to
+fully recover its cost over the long run. The U.S. payments
+infrastructure today includes alternative payment choices and
+providers. The Federal Reserve and The Clearing House currently
+operate competing and interoperable services which bring
+important benefits for resiliency and for competition.
+In all of our services, we have been able to meet the
+requirements of the Monetary Control Act for cost recovery that
+ensures competitive fairness while fulfilling our public policy
+goals. We fully expect this will be the case with the FedNow
+Service.
+As was explained in a 2016 GAO study, the Federal Reserve's
+role as an operator has long been judged as effective in
+promoting accessibility, safety, and efficiency for the
+nation's payment system and its customers. Last summer, the
+U.S. Treasury recommended that the Federal Reserve move quickly
+to facilitate a faster real-time payments system. We are in the
+process now of engaging with stakeholders for their input on
+features of the FedNow Service through a Federal Register
+notice which was issued last month. I am confident that
+together, we can achieve our public policy objectives for
+broadly accessible, safe, and efficient, faster payments.
+Thank you, and I will be happy to respond to your
+questions.
+[The prepared statement of Ms. George can be found on page
+32 of the appendix.]
+Chairman Lynch. Thank you.
+Mr. Sinha, you are now recognized for 5 minutes.
+STATEMENT OF HARSH SINHA, CHIEF TECHNOLOGY OFFICER,
+TRANSFERWISE
+Mr. Sinha. Chairman Lynch, Ranking Member Hill, and members
+of the task force, thank you for the invitation to testify
+today. My name is Harsh Sinha, and I am the chief technology
+officer at TransferWise, a global technology company with the
+mission to build the best way to move money around the world. I
+have spent the last 4 years scaling the technology and product
+teams in TransferWise. Before that, I was working in Silicon
+Valley for more than a decade leading and developing e-commerce
+and payment products for companies like PayPal and eBay.
+TransferWise was founded in 2011, and now has more than 6
+million customers moving $5 billion every month. It is one of
+the fastest-growing financial technology startups in the world,
+and offers international money transfer service, a multi-
+currency stored value product that can be linked to a debit
+card, and an application programming interface that can be
+integrated directly into large enterprises and banks.
+Our company is attempting to solve the problem of cross-
+border payments. It is really hard to move money between
+different currencies and countries. The corresponding banking
+infrastructure is expensive, slow, inconvenient, and lacks
+transparency. That is why we have created our own cross-border
+payments network that serves 71 countries, including the United
+States.
+The technology that powers our product relies on technical
+and regulatory understanding of local payment systems around
+the world. We connect directly to local payment systems as in
+the U.K., where we became the first nonbank to gain direct
+access to the Faster Payments scheme.
+We strongly agree that the Federal Reserve should create a
+real-time payment system. Specifically, it should be a real-
+time, gross settlement system based on ISO 20022 standards, and
+the Federal Reserve should extend Fedwire hours to enable 24/7,
+365 settlement.
+There are four main reasons I believe the Fed should build
+the system. First, ubiquity and reach. The Federal Reserve
+already connects to over 10,000 financial institutions in the
+United States.
+Second, pricing. FedNow should have a lower cost structure
+longer term, given their price recovery approach taken by the
+Fed.
+Third, competition. Having multiple systems promotes market
+competition.
+And fourth, a longer-term strategy. Real-time payment
+systems are here to stay. It would be prudent to not have a
+single system run by a single provider.
+Hence, there is a clear public interest in the Federal
+Reserve building a fair and ubiquitous system accessible to
+every financial institution and payments provider that operates
+at low margins over time.
+But as we talk about real-time payments, it is important to
+cover the rules that govern its access. In the U.S., to access
+a domestic payments infrastructure, a nonbank financial
+institution must partner with a bank to settle payment
+transactions. That results in added costs and complexity and
+partner dependence. In order to facilitate competition and
+ensure that the benefits of faster payments are passed on to
+the consumers, the U.S. should prioritize the accessibility and
+inclusion of nonbanks in the faster payment system.
+Additionally, diversification will reduce systemic risks that
+arise from a handful of banks hosting all indirect nonbank
+participants.
+Finally, as we talk about payments, we should not only
+think about domestic payments but global payments. To make
+cross-border payments cheaper and faster for all Americans, we
+need to address two main areas.
+First, transparency in fees. Every year, people and small
+businesses transfer $10 trillion internationally and lose $200
+billion in bank fees, mostly hidden in inflated exchange rates.
+The average global remittance cost is 7 percent, and the World
+Bank says the lack of transparency is the major reason for the
+high fees. Governments around the world are working to make
+sure customers see what they are really charged, and we believe
+the U.S. should do so, too, as the largest originator of cross-
+border payments worldwide.
+Second, implementing to international standards. With the
+U.S. lagging behind other major markets on faster payments, we
+can use this timing to our advantage and learn from other
+countries. The U.S. has the opportunity to leapfrog from having
+limited real-time payments domestically to having all payments,
+including international, being instant.
+In conclusion, I believe there should be more than one
+real-time payment system in the United States, and the Fed is
+best positioned to deliver this and unlock the benefits for
+consumers, businesses, and the economy at large.
+Thank you for the opportunity to testify today. I am happy
+to answer any questions.
+[The prepared statement of Mr. Sinha can be found on page
+49 of the appendix.]
+Chairman Lynch. Thank you.
+Mr. Steen, you are now recognized for 5 minutes.
+STATEMENT OF BOB STEEN, CHAIRMAN AND CHIEF EXECUTIVE OFFICER,
+BRIDGE COMMUNITY BANK, ON BEHALF OF THE INDEPENDENT COMMUNITY
+BANKERS OF AMERICA (ICBA)
+Mr. Steen. Chairman Lynch, Ranking Member Hill, Ranking
+Member McHenry, and members of the task force, I am Bob Steen,
+chairman and CEO of Bridge Community Bank in Mount Vernon,
+Iowa. I am testifying today on behalf of the Independent
+Community Bankers of America, where I have played an active
+role over the years, including service on the payments
+committee. Thank you for the opportunity to testify today.
+I believe it is imperative that the U.S. develop a robust,
+real-time payment system to meet consumer and business demand
+and stay competitive with the rest of the world. This system
+must create access for customers of all financial institutions,
+regardless of size, in every American community.
+How we achieve the goal is critical. A real-time payment
+system is too important to be entrusted to a private monopoly.
+The two dozen largest banks simply cannot own and operate the
+U.S. payment system. ICBA strongly supports the Federal
+Reserve's decision to build FedNow, a real-time payment system
+that will give direct access to all financial institutions and
+our customers.
+Bridge Community Bank is a $96 million community bank
+founded in 1903 and owned by our 20 employees. We serve real
+communities in growth markets in and around Cedar Rapids and
+Iowa City with small business, agriculture, and consumer
+banking. Our business model is relationship banking, in which
+we serve the totality of a family's business and personal
+banking needs, both deposits and lending. The transaction
+account is the key to the customer relationship and is at the
+heart of community banking. We have long recognized that
+payment innovation is critical to the long-term prosperity and
+independence of our bank and our community banking. This is why
+I have invested so much of my career in payment innovation and
+have developed multiple payments in our small bank.
+Only the Fed can guarantee competition and choice. The U.S.
+does not need another closed-loop payment system in which some
+financial institutions can participate and others are excluded.
+All financial institutions and all customers must have access
+to real-time payments. And even those who live in small or
+rural communities are exclusively served by community banks. I
+firmly believe this simply cannot happen without the Fed's role
+in real-time settlement.
+The Fed is uniquely positioned to provide access to all
+11,000 financial institutions, because all of those
+institutions have access to a settlement account and a service
+connection with the Fed. The Fed already operates a universally
+accessible check, Automated Clearing House (ACH), and wire
+transfer service. If history is any guide, the Fed will
+maintain an affordable as well as universal access to faster
+payments. The Fed offers a fair and affordable pricing
+structure today, even to the smallest of the small financial
+institutions, like our bank.
+The Fed is trusted among community banks. Each community
+bank has a relationship manager, and the opportunity for direct
+access to the payment system. I know our representative's name,
+I know his cell number, and he answers the phone. As a
+community bank, I know that I have direct and easy access to
+Fed support services, even after our banking hours. I place a
+high value on that access.
+As I stated at the outset, payments innovation, offering
+customers what they want, when they want it, is critical to the
+prosperity and continued independence of community banks. As a
+neutral, real-time settlement network, FedNow will be critical
+to our ability to continue to innovate. For example, my bank,
+in partnership with another community bank, developed a mobile
+app we call ExcheQ, which allows a user to send money to anyone
+in the U.S. who has an account at any financial institution
+without a payment application on the receiver's end. Once
+FedNow is fully operational, ExcheQ will allow real-time
+transactions without being dependent on a core system. That, in
+and of itself, is transformational. Once ubiquity is achieved
+through FedNow, new use cases and new opportunities for
+innovation will emerge.
+The Fed's entry into real-time payments is part of a
+natural evolution from its involvement in check clearing, ACH
+payments, and wire transfers. The Fed has strengthened the
+payment system by providing safety, integrity, choice, and
+equitable access to all financial institutions. I am confident
+the Fed will bring the same critical benefits to real-time
+payments.
+Thank you again for convening this hearing. I be happy to
+answer any questions you may have.
+[The prepared statement of Mr. Steen can be found on page
+55 of the appendix.]
+Chairman Lynch. Thank you, Mr. Steen.
+Mr. Williams, you are now recognized for 5 minutes.
+STATEMENT OF RODNEY WILLIAMS, CO-FOUNDER AND CHIEF COMMERCIAL
+OFFICER, LISNR
+Mr. Williams. Chairman Lynch, Ranking Member Hill, members
+of the task force, thank you for the opportunity to testify
+today. My name is Rodney Williams. I am the co-founder and
+chief commercial officer at LISNR, an ultrasonic proximity
+company that enables a universal and secure proximity mobile
+payment method. I am pleased to participate in this hearing
+panel alongside my esteemed colleagues.
+As a financial technology founder, I have spent the past 7
+years creating technology around the inefficiencies of how we
+pay and how we access funds for individuals in discretionary
+need. Both innovations were driven by the limitations of our
+current payment infrastructure and my experience growing up
+disenfranchised.
+LISNR was founded in 2012 with a simple idea: A way to
+transmit data between two devices using software and a mobile
+device's speaker and microphone. Since then, LISNR has advanced
+the security and flexibility of our transmission method to
+support proximity-based payments and checkout experiences.
+Today, LISNR is actively working with the world's leading
+merchants and card networks on what will become a better way to
+pay.
+LISNR's premise in payments has always been
+straightforward: Anyone with a mobile phone should be able to
+pay in proximity securely and universally. Today, secure mobile
+payments in a store are driven by card networks and mobile
+device manufacturers' use of near-field communication (NFC).
+This control limits the use of NFC only to mobile device
+manufacturer services, as all third-party mobile applications
+are restricted from using NFC for payment services. This
+significantly restricts what is considered a safe and secure
+way to pay as it is limited to the mobile device manufacturer's
+branded application.
+This has driven many of our top retailers towards QR codes
+and barcodes as a method to pay in their mobile applications,
+incurring additional transaction costs and risks, which
+ultimately hurts the value that these merchants can give to the
+end consumer. Our company is addressing this core problem as
+LISNR allows a universal and secure way to pay for any mobile
+device or merchant at a better cost structure than today's
+alternatives.
+We provide software that is inserted into a mobile
+application. Within these applications, we enable the speaker
+and microphone as a method to wirelessly send and receive
+proximity noncloud-based data. Merchants can leverage this
+method to transmit any series of proximity-based and
+verification data points to initiate and complete a
+transaction. A transaction can happen safely within a few
+inches or even up to 10 feet, powering more payment and
+checkout experiences than ever before.
+Today's consumers expect to pay wherever they are
+instantly. These experiences are expected to happen on every
+device in every retail environment. We see a world where
+ultrasonic proximity verification will live across all payment
+scenarios globally. As we think about the future real-time
+payment system, it must democratize the proximity payment
+method at the edge of the mobile device securely so that anyone
+with a phone can pay with whatever source their mobile wallet
+holds.
+Our technology relies heavily on financial regulatory
+infrastructure, an infrastructure that is due for innovation in
+real-time payments. We strongly agree that all payments should
+be instant and universal at proximity.
+I grew up in Baltimore, Maryland, as an offspring of
+hardworking Jamaican parents. I personally experienced
+challenges of being underbanked and costs associated with being
+poor, as cash is expensive. As a kid, I can remember counting
+down to my parents' payday, as the electricity could be turned
+off. In this simple scenario, we were being taken advantage of
+as the fees, delays in funds availability, and the manual task
+associated with checking, or cash checking, became significant.
+My childhood was filled with many such memories as my parents
+tried to ensure proper cash flow to run the household. Walking
+to the ATM or money transfer services, paying bills in cash,
+and taking predatory cash advances were far too normal
+experiences. Looking back, even where I grew up, I believe that
+there was a genuine desire for advancement, to play by the
+rules, except the rules were not written for them.
+This situation highlights the silent cost of payments and
+its unfair transfer to the poor and certain segments of our
+population. There is a social cost that many pay in the form of
+invisible tax. It is time that we use data networks and
+technology to eliminate delays and reduce costs. The time is
+now. The global widespread use of real-time payment systems
+lends compelling evidence to a discussion that is needed in the
+United States. The Federal Reserve must take the lead in
+building this vital social, commerce infrastructure with a
+heightened sense of urgency.
+Thank you again for this opportunity.
+[The prepared statement of Mr. Williams can be found on
+page 62 of the appendix.]
+Chairman Lynch. Thank you, Mr. Williams.
+And Ms. Benson, you are now recognized for 5 minutes.
+STATEMENT OF CAROL BENSON, FOUNDING PARTNER, GLENBROOK PARTNERS
+Ms. Benson. Hello, Chairman Lynch, Representative Hill, and
+members of the task force. We are in the midst of a once-in-a-
+generation shift in how payment systems work. The United States
+is joining countries around the world in bringing to its people
+a new class of payment systems. These systems work just the way
+you would want them to work, just the way you think they should
+work: You tell your bank you want to make a payment, and the
+money shows up in the receiver's account.
+My firm, Glenbrook Partners, is working with the payments
+industry, both here and around the world, on the introduction
+of these new systems. Some countries are introducing these
+systems to improve efficiency and user experience. Others are
+primarily concerned with financial inclusion, ensuring that
+underbanked and unbanked people can use financial products. The
+same real-time payment systems support both goals.
+Our objective, I believe, is to ensure that these systems
+are accessible, affordable, and secure. These are universal
+goals for such systems. But a real-time payment system must
+also be ubiquitous, that is, it must allow someone to pay
+anyone and be paid by anyone, regardless of where their funds
+are being held--a credit union, a community bank, a large
+national bank, or some other licensed financial services
+provider. This ubiquity is key to the vision put forth by the
+Faster Payments Task Force.
+When we look around the world, most countries are meeting
+this goal by having a single, national faster payments
+platform, which all banks access. With the announcement of
+FedNow, it is clear that the United States is choosing a
+different model, with two or more providers of real-time
+payment systems. This mirrors our ACH system, which has two
+operators.
+To achieve the goal of ubiquity in a multiple network
+model, these systems must connect. In the terminology of our
+industry, they must interoperate. That is what our ACH system
+does. That means that I can send you money even if my bank and
+your bank are using different systems. The only alternative is
+to have each financial institution implement every system, a
+daunting concept.
+Let me be clear that there is no real technical challenge
+to interoperability; rather, it is a question of governance.
+The various systems should live underneath a common rule set,
+as is the case with our ACH. A common governance structure
+would also help to ensure that the industry works together,
+rather than in separate and fractious groups, on issues such as
+transaction security, payments addressing, and the ability to
+eventually connect to other countries.
+Payments addressing is important. Today, when you use a
+debit card or write a check, you are giving your account
+information to someone who uses that to pull funds out of your
+account. We all know how that can go wrong. Faster payment
+systems, in contrast, can be designed so that an alias, a
+payment address, your mobile phone number, or ``Carol 123'',
+can be used to push money into your account. This address can
+never be used to pull funds from your account. That is a huge
+security benefit. The directory of these aliases, which is a
+critical piece of infrastructure, needs, in my opinion, to be a
+central utility, not separate directories for every service.
+Australia has moved in this direction with the establishment of
+what they call PayID. India is doing the same thing.
+The industry's establishment of the U.S. Faster Payments
+Council is a good move in this direction, but the imperative is
+interoperability. Cooperation without that will be of little
+utility.
+Last week, Glenbrook Partners launched an online survey
+with the Faster Payments Council to gain further insight from
+the industry on this. Findings of that will be available in
+November.
+Other countries are already ahead of us on this journey. We
+have a large economy and a sophisticated infrastructure. I hope
+that we can cooperate and connect going forward.
+Thank you.
+[The prepared statement of Ms. Benson can be found on page
+30 of the appendix.]
+Chairman Lynch. Thank you, Ms. Benson.
+I now yield myself 5 minutes for questions.
+President George, I think everyone was encouraged when we
+heard that the Fed was going to move to a real-time payment
+system. I know that the initial announcement, which only came
+recently, laid out a timeframe of perhaps late 2023 or 2024.
+With the velocity of change that we see in technology around
+the globe, can we wait that long? And is that something that--
+do you think that timeframe works or is there some way we could
+expedite that?
+Ms. George. We are now beginning the process of getting the
+input for the design and features of this system which we think
+are critical to laying the foundation for that system. It was
+important to me that we have the dates and the Federal Register
+notice as a way to set expectations to talk about what the
+timeline might be. But I think we are very interested in moving
+as quickly as possible, and I believe we have the right team to
+be able to do that.
+Chairman Lynch. Okay. Now, do we have--obviously, we have
+outside help, we have our contractors involved on that. I know
+that The Clearing House is already involved in a parallel
+system. Are we learning from other countries in terms of how
+they have proceeded? Are we using the best practices that are
+out there?
+Ms. George. Yes, Chairman Lynch. This was a very important
+part of our effort the last few years through the Faster
+Payments Task Force, was to bring together a broad range of
+stakeholders in that payment system that include innovators,
+the FinTech, all the way through the banking system. We looked
+carefully at what other countries were doing to inform the work
+that we will be undertaking now. So, we have looked broadly,
+and I feel good that those inputs will position us to be able
+to move forward with a design that we can serve as a foundation
+to the country for.
+Chairman Lynch. Great, thank you.
+Mr. Sinha, when the U.K. adopted their system, at least
+initially, we did see a spike in fraud; it jumped about 132
+percent. Since then, though, it has modulated, it has come
+down. What were some of the reasons for that, and is there some
+way we could avoid the same occurrence?
+Mr. Sinha. Yes. I think we can learn a lot from the
+implementation that was done in the U.K. around security
+measures. Over time, the U.K. system and the banks who give
+access to customer funds implemented more checks and balances
+to confirm you are who you say you are, and that means not just
+having you sign into your online banking account with a user
+name and password, because we know customers, we use passwords
+all over the place, but actually requiring a unique code being
+sent either to your mobile device or your email to authenticate
+that you have the device and sanctioned the payment. That, I
+think, reduced fraud a lot.
+And then from there, they have gone on to put in a
+regulation which recently came into effect on September 15th,
+which was called the Secure Customer Authentication regulation.
+And I think that is a step change which requires customers to
+verify themselves before initiating any payments. I think that
+is a very important part of the implementation in the United
+States that we can learn from other countries.
+Instant payments and security go hand-in-hand, but the
+security should be moved into verifying the customer before the
+payment is initiated.
+Chairman Lynch. Great, thank you.
+Mr. Steen, as a community banker, there are some of your
+colleagues from around the country who are a bit concerned
+about how competition for customers might occur where you have
+a traditional banking system with the rule of law and a whole
+menu of regulation competing with a stripped down, bare-bones
+operation that might not even have a storefront in terms of
+competing for banking business. Do you feel comfortable that at
+least with FedNow, it would help you to compete in that world?
+Mr. Steen. Yes, Chairman. It gives us a chance to be
+relevant in the payment space. What you described is a battle
+we are fighting as we speak. A number of nonbank payments
+systems are being used by my customers. They believe they are
+real-time. They are not. But as long as they have the money
+when they want it, it seems real-time to them. There is credit
+risks in those circumstances, and I think that we can solve a
+lot of those problems for our own industry, plus our consumers,
+with FedNow.
+Chairman Lynch. All right. Very good, thank you.
+I now yield to the ranking member, Mr. Hill, for 5 minutes.
+Mr. Hill. Thank you, Mr. Chairman. It was a great panel,
+and I thank everybody for being here today.
+Mr. Williams, I really enjoyed your discussion about your
+family cash management issues growing up, and that is so
+important as a part of this. If we have the privacy, if we have
+authentication and security, both businesses and families will
+have more control over that cash management situation at a
+lower cost, ultimately. There are a lot of building blocks to
+get there, but I thought you made some very good points, and
+you can envision a world with no accounts payable and no
+accounts receivable, and that is going to affect bank lending
+to some degree, but lowering those agency costs for both small
+businesses and for families is an ultimate objective of
+FinTech, in my view.
+I am interested, Ms. Benson, you mentioned this famous buzz
+word of all the testimony I have read: interoperability. And in
+The Clearing House letter that they have submitted here for the
+record, they really talk specifically about not just rules as
+being the key to that, so really the definitions of it, and it
+is not really bound by technology. Do you agree with that
+assessment?
+Not to say that it is not technological, but the
+interoperability is more about definitions, rules of the road,
+than it is purely a technical issue. How do you feel about
+that?
+Ms. Benson. Yes, Mr. Hill. I agree that they are separate
+things. I am not sure I would say one is more important than
+the other, that technical interoperability is relatively
+simple, switch kind of mechanism exists in payment systems
+around the world. Frankly, the the role that the National
+Automated Clearing House Association (NACHA) plays, of having
+one rule umbrella over different operators is more challenging
+to put in place. And where we have seen situations where that
+doesn't happen--and I would note that the bill payment process
+in the United States is like that--there is no coordinated way
+in which that happens.
+Mr. Hill. Right. It just flows haphazardly through the ACH
+system.
+Ms. Benson. And you look at another country that has put
+the rules in place for that, and it all works very--
+Mr. Hill. Yes, thank you for that.
+President George, the Fed has certainly been, for a hundred
+years, engaged in the payments process, no doubt. And in all
+the principal payment arenas, both wholesale and retail, the
+Fed is a player in some way. We have talked about ACH and we
+have talked about Fedwire. But I noticed in a 2015 study that
+there were recommendations made that both the National
+Settlement System and Fedwire stay open longer and make it more
+convenient for innovators and for banks, and yet you really
+haven't done that.
+And yet, we are now looking to you to very quickly--you say
+in 5 years, I agree with my chairman, that seems like a
+lifetime in this business--have real-time payments. What is the
+Fed doing to extend customer service now with the products that
+you have now and Fedwire and the National Settlement System?
+Ms. George. Across all of our current payment services, we
+are focused on improvements that would help with speed and
+security. In the most recent Federal Register notice, even as
+we are going out to look for the features of the FedNow system,
+we have agreed to explore how extending Fedwire hours can help
+facilitate private sector operations in this space.
+Mr. Hill. I think that is important, whether you are in Mr.
+Steen's bank or over in London doing a transaction. We are the
+biggest economy in the world, and it seems like we are all
+bragging that we are faster and better and it's going to be
+wonderful in 5 years, when we have fantastic systems now, that
+if you were just open on the weekends and Federal holidays, it
+would be pretty nice for everybody, in my life. So, I encourage
+you to do that. And I hope you will make that a priority for
+the Fed.
+Mr. Steen, in your testimony, on page 3, you talk at length
+about the Fed having fair, flat prices, but President George,
+doesn't the Fed, because of the Monetary Control Act, actually
+require to earn a return on all Fed investments and
+infrastructure, and, therefore, you do offer volume discounts
+and differential pricing for your products, don't you?
+Ms. George. With our ACH, the law requires us to recover
+our costs, and so, yes, we have aligned our pricing relative to
+market practices. We have made that transparent as a way to,
+not only recover our costs, but to lower the cost overall for--
+Mr. Hill. Sure, no, I think it makes sense to me. I am not
+complaining about it, as someone who looks out around here
+occasionally for the taxpayers. I think it is a good idea.
+Would this FedNow process also be subject to that Monetary
+Control Act issue?
+Ms. George. Absolutely.
+Mr. Hill. Yes, I think that is good.
+Well, I just want to make it clear to all of our listeners
+here that the Fed too recaptures its cost of capital and
+attempts to design systems that compete fairly in the private
+sector and that there is not some free lunch in Fed systems
+compared to a system run by one of the private competitors,
+whether it be ACH, or what I understand is proposed from The
+Clearing House, to talk about what they are proposing. They are
+not here today to answer questions about it, so I don't know
+that I can turn to that.
+I yield back, Mr. Chairman. And thank you for the panel.
+Chairman Lynch. The gentleman yields back.
+The Chair now recognizes the gentleman from Georgia, who
+has been a long-time Member with a keen interest in FinTech,
+and is a great member of this task force. The gentleman from
+Georgia, Mr. Scott, is now recognized for 5 minutes.
+Mr. Scott. Thank you very much, Chairman Lynch. And, Mr.
+Chairman, let me also commend you for the outstanding
+leadership that you are providing on FinTechs. As you know, our
+FinTech industry is the new frontier of our great financial
+services industry, and you are certainly providing great
+leadership on it. And also, I am very excited about working
+with you on our FINTECH Act, where we will be dealing with
+harmonization of regulatory agencies as well as privacy, and I
+might mention also, with Ranking Member French Hill. And so we
+are all a team ready to go here, and I am really just proud to
+be a part of this great team. I'm very excited about it.
+Let me just start out by making this very brief statement.
+The development of our faster payments framework in the United
+States, that indeed holds incredible potential for our payment
+system, advanced technological developments in our payment
+space, readily improves access to funds for consumers, and
+increases the convenience of availability of payment process.
+And, of course, this is very important to my State of Georgia.
+Georgia leads the nation: We produce and provide 70 percent of
+all of the electronic transaction payments. We have great
+companies down there like TSYS, Kabbage, and NCR, and we are
+very excited about the role we play in the nation.
+But first I would like to discuss the mechanics of any
+faster payment system. As exciting as this new technological
+development is, it is also increasingly complex. For example,
+under the current payments infrastructure, payments can be
+either initiated by a sender, which is the push payment, or
+required by the recipient, which is the pull payment.
+Now, this flexibility also includes certain protections
+under Reg E to ensure that consumers have some ability to
+recoup funds that were sent out without their authorization. A
+real-time payment system, however, is primarily a push payment
+system, meaning that once I hand over my money, it is going to
+be very difficult to get it back. Now, this is fine when
+considering correctly authorized payments. But as you all know,
+we live in a world where consumers must constantly be guarding
+against fraud and against cyber attacks.
+So, President George, do you see any advantage or
+disadvantage that a real-time payment system may bring with
+regard to a consumer's ability to recoup funds that were
+initiated without authorization?
+Ms. George. You have raised a very important question,
+because consumers will be initiating and the payment will go in
+real time. And this will be an area, as we work with the
+industry, on how education will work. Banks work closely with
+their customers on making sure they understand how their
+systems work, and I expect that will continue. We, of course,
+will be working with the industry more generally on other kinds
+of fraud mitigation standards and things that may help the
+system as a whole.
+I concur with your concern about consumer protection, and
+we will continue to keep that in the forefront as we do the--
+Mr. Scott. Tell me, Madam President, what about payments
+that were sent erroneously, perhaps incorrectly spelling the
+recipient's name, for example?
+Ms. George. We have not designed the features of our
+system. Banks are dealing with this issue today and are
+operating within the legal structures to serve their customers,
+including with their own agreements with those deposit
+accounts. So I agree with you, it is an important issue, and
+one, as we provide the foundation here, we will engage with the
+industry on.
+Mr. Scott. Mr. Sinha, very quickly, how are consumers and
+recipients notified of a real-time fraudulent payment, and what
+is the dispute process like for such a payment?
+Mr. Sinha. Congressman, there are multiple ways we can
+notify the consumer. One is when they initiate the payment,
+they should be authorizing the payment with a separate code
+that only belongs to them. And that is done--sent to them in
+real time once, for one-time use. The second one is, in some
+faster payments networks now, we are seeing the regulation
+coming in to check for beneficiary name, confirmation of pay to
+be matching the actual name of the payment recipient with the
+name of the account.
+And then, I think as President George said, there is quite
+a bit of work that still needs to be done in this space, but I
+think the crucial part is to make sure we give the control to
+the consumer and make them understand and educate them that
+they should authorize the payment, and once payments are sent,
+they are final.
+Mr. Scott. Thank you very much.
+And thank you, Mr. Chairman, for that extra time. Thank
+you.
+Chairman Lynch. The gentleman yields back.
+The gentleman from Ohio, Mr. Davidson, is now recognized
+for 5 minutes.
+Mr. Davidson. Thank you, Mr. Chairman.
+Witnesses, thank you for being here and for talking about
+an incredibly important feature of America's economy.
+Ms. George, initially, the Federal Reserve had signaled to
+the market that the Fed wasn't going to take this payment
+system over as they have in a number of other things. So, there
+was all this investment in R&D in the space, and then the Fed
+decided that they wanted a do-over and they were going to take
+it over. What do you say to them about all the billions of
+dollars they invested in the space only to have you guys
+capitalize on it with somewhat less investment?
+Ms. George. The Federal Reserve has a history of working
+alongside the private sector. Every payment system we have
+today, the Fed is involved, alongside a private sector
+operator. Since the start of our work in this area, we have
+supported the private sector solution, first by providing an
+account, a special account at the Fed, where they would be able
+to set up their particular real-time solution. The next step in
+that process is for the Board of Governors to determine whether
+a single private sector operator is able to achieve the public
+policy goals of having broad access in the United States of an
+efficient payment system and--
+Mr. Davidson. Why would we want a single operator? Why
+wouldn't we want multiple operators to be able to use whatever
+you want to use as a system?
+Ms. George. Multiple operators, I think, are desirable, and
+the competition that comes from having the Fed move into an
+operator role is one of the objectives.
+Mr. Davidson. When you can come in and take over a market,
+is that partially because you serve as regulator, the
+dominant--I mean, you pay out the interest rate on excess
+reserves (IOER) and all kinds of other things. So, if you
+choose to be in a space, does anyone have a vote? You guys just
+decide. It is not really optional, is it?
+Ms. George. Under the authorities of Congress, we are
+required to be very transparent--
+Mr. Davidson. Of course, Congress could tell you that you
+are not going to do it. That could potentially happen. But
+short of that, the market isn't going to tell you that you
+can't do it, right?
+Ms. George. Actually, in working with the market through
+our Faster Payments Task Force, we were looking for the private
+sector to step up and respond. This is a business of
+considerable scale and network effects.
+Mr. Davidson. Of course. Why it is a big deal, why the Fed
+takes it over and continues to serve as regulator. One of the
+criteria that the Fed has to meet is to recover their cost in
+the long run.
+During your testimony yesterday at the Senate Banking
+Committee hearing, you stated that the Fed has historically
+done this, and you expect it to continue to be the case under
+the FedNow proposal. By ``historically done this,'' I assume
+that you mean such as Fedwire and the Fed's automated clearing
+services, correct?
+Ms. George. Yes, sir.
+Mr. Davidson. And these fees associated with these
+services, are they based on volume, or do you have effectively
+high volume discounts where you pay a lower price if you
+deliver a lot of volume and a higher price if you have less
+volume?
+Ms. George. We publish our pricing schedules each year so
+that customers can see, and those prices are set to allow us to
+recover fully our costs.
+Mr. Davidson. But they are based--there is a different
+schedule based on your volume, correct?
+Ms. George. Those are priced--there are fee structures per
+item charges, there may be volumes, discounts involved in--
+Mr. Davidson. Right. But fundamentally, JPMorgan Chase is
+paying lower per transaction than, say, Osgood Bank in Osgood,
+Ohio?
+Ms. George. Actually, our smallest banks are benefiting
+from the volumes that come through the Federal Reserve--
+Mr. Davidson. Because they couldn't set it up on their own;
+I got it. So, why does the Fed charge the--I guess, in the
+assumption that you make that the FedNow takeover of the
+private capital invested here, do you assume that you pay for
+that based off being able to do volume discounts?
+Ms. George. We have not set our pricing yet, but as soon
+as--
+Mr. Davidson. Well, you haven't set the pricing, but you
+had to model it, right? You are saying it is going to break
+even. Is that just, you are hoping it is going to break even,
+or you are confident that you can charge whatever you want
+because the market doesn't really have a vote in it?
+Ms. George. No, sir. Our pricing requires us to recover our
+costs, which means we have to compete with the private sector
+to do so. Sso in a FedNow Service, we will be required to
+demonstrate what those costs will be, and as soon as the system
+is designed, before it is launched, the Board of Governors will
+go out with public comment showing that--
+Mr. Davidson. In the dialogue, I would like to associate
+myself with Mr. Quarles' public remarks in your hearing, which
+is skeptical. You are crowding out private investment. In the
+meantime, frankly, the fact that you can't launch this anytime
+soon, is killing the market. And when you talk about people
+being able to pay right now, Uber is paying their drivers up to
+5 times a day in the current payment system. This, to me, seems
+like a step back, and it is crowding out, in a monopolistic
+way, private capital that has already been invested.
+I wish I had more time to get to Mr. Williams, and
+hopefully you will come back to Cincinnati. I would love to see
+you there, come back home from L.A., and it's just great to see
+a local company doing well. So, thanks for that.
+I yield back.
+Chairman Lynch. The gentleman yields back.
+The Chair now recognizes the gentleman from Florida, Mr.
+Lawson, for 5 minutes.
+Mr. Lawson. Thank you, Mr. Chairman. And witnesses, welcome
+to the task force.
+I am trying to understand the consumer aspect of this.
+There are many issues that are important in the payment space,
+but I would like to focus in on the consumer aspect. Can you
+all speak to what challenges you have seen in the payment space
+with regards to access to immediate funds by those who are
+underbanked, those in an emergency situation?
+Howard University said that they were doing a 6-week course
+on how to use FinTechs. What happens if there is no money? How
+does this affect the consumer when they are trying to go
+through, when things are recorded in their account at a later
+date? What do you do? What do they do? Anyone can respond to
+that.
+Ms. George. I will start by saying the Federal Reserve has
+looked carefully at the issues affecting the underbanked and
+unbanked in this country and through some of our community
+development work have raised these issues.
+In the case of real-time payments, we see that having the
+ability to manage your money more directly is a benefit that
+will benefit the country. Economically, it certainly benefits
+individuals in being able to have the flexibility to control
+their finances. So, we see it as a positive move forward for
+those individuals who most need this kind of finance
+flexibility.
+Mr. Lawson. Go ahead, Mr. Sinha.
+Mr. Sinha. Congressman, I think one of the big things that
+we see with slower payment systems and when things are delayed
+is people who are underbanked, they have the biggest impact on
+access to funds and they end up going to more expensive
+options, like check cashing or having to go into overdraft,
+which are very high-cost services. I think having real-time
+payments where you know when your payroll is going to hit your
+account and then you can set up that, if your pay hits on
+Friday morning, you know it is going to come Friday afternoon,
+you pay your bills, and you know it is going to get shipped so
+that it will be there and hit the utility bill so the
+electricity is not being turned off on the weekend.
+I think that is imperative. It is very, very important to
+remove that doubt of whether my money will make it from one
+place to the other. So, I think that is a very big advantage
+for real-time payments.
+Mr. Lawson. Mr. Steen?
+Mr. Steen. I would use a couple of examples. In our case,
+we are a small bank. We are working with several different
+FinTechs trying to deliver payments faster. We are still
+dealing with the current infrastructure.
+In the example of the Uber drivers able to get their
+payment 5 times a day, they actually pay for each one of those,
+and the employer is actually providing them availability of
+funds they don't yet have and so, hopefully, with immediate
+settlement, they can bring that cost down for those Uber
+drivers. That would be one example.
+Mr. Lawson. Mr. Williams?
+Mr. Williams. One example, Congressman, is a company called
+SoLo Funds, of which I am a co-founder. The premise of it was
+to actually provide cash in real time to individuals in need.
+In building that product, we had to work around and through so
+many different infrastructure challenges. But what I want to
+say is, what we have allowed is individuals to actually lend to
+other individuals in real time, and the individuals actually
+received the benefit, providing the capital, while the person
+in need gets the capital immediately. That is called SoLo
+Funds, but that is how we are addressing that issue.
+Mr. Lawson. Okay. Ms. Benson?
+Ms. Benson. I would like to address two parts of this and
+say that in emerging economies in Asia and Africa, there is
+overwhelming evidence that the availability of real-time mobile
+payments is bringing people into the formal financial
+ecosystem. They are opening bank accounts and other forms of
+transaction accounts and are able to participate in digital
+commerce and things like that as a result. So, that is a good
+thing.
+I would also say that, although I think these faster
+payments are immune to certain types of fraud that exist, say,
+in our card payment systems, there are other kinds of fraud
+that will rear their heads. And, again, I would like just to
+emphasize how important it is that we take a collective view on
+managing these frauds and not have every little system and
+company doing it separately.
+Mr. Lawson. Okay. My time has run out.
+Mr. Chairman, I yield back.
+Chairman Lynch. The gentleman yields back.
+The Chair now recognizes the gentleman from Wisconsin, Mr.
+Steil, for 5 minutes.
+Mr. Steil. Thank you very much. I appreciate that.
+President George, we have had a lot of conversation today
+about the pricing. I know you discussed that yesterday,
+particularly with Senator Toomey asking you about some of that.
+So, I want to part that conversation a little bit because I
+think we have heard kind of the broad picture of how you are
+looking at it.
+I want to dive in, if I can, Mr. Steen, and get the
+perspective of local banks, your bank in particular, or other
+community banks, what the impact of that pricing would be if
+the Fed deviated away from a flat fee structure.
+Mr. Steen. Well, currently, we are not in a flat fee
+structure and so, for example, our bank was very early in check
+imaging and as soon as we started implementing that, our costs
+of check clearing went down 60 percent.
+Mr. Steil. When you implemented what?
+Mr. Steen. Check imaging.
+Mr. Steil. Okay.
+Mr. Steen. For the Check 21 Act, we were very early. And so
+our check for Check 21 or check clearing went down 60 percent.
+Our ACH transaction is--it is true. Others probably get it less
+than we do, but it is a quarter of a cent, and I can manage
+that. So, I think they bring my costs down as much as they can,
+and we see through with technology advances. I am good with the
+pricing structure that I am living with.
+Mr. Steil. And where you are good is, do you see that also
+with your colleagues across community banks, comfort with the
+Fed's pricing structure? Do you see in that a bit of a
+dialogue? Can you provide flavor to that?
+Mr. Steen. Well, many of my peers deal indirectly with the
+Fed through banker's banks and corporate credit unions, but
+everybody is working off the same base pricing. And so, I don't
+hear a lot of criticism or complaining about the pricing
+structure of payments in the rails that we work with, that
+being Check 21 and ACH.
+Wire, they brought the price of a wire down, since we can
+connect directly to FedLine Advantage. But internally--it would
+be just for security purposes--in our small bank, we have three
+people involved in every wire. So, there are some internal
+costs, but the cost that the Fed is charging me for wire is the
+least of my concerns.
+Mr. Steil. Thank you. I appreciate your insight.
+I want to shift gears a little bit, but go back to you,
+President George. We have discussed a lot of the international
+comparisons in the real-time networking area; I assume you
+spent some time looking at these. Are there examples of
+government-run systems operating parallel to the private sector
+that you have seen internationally? And, if so, are they
+interoperable?
+Ms. George. As Ms. Benson noted earlier, many of these
+countries operate with a single provider. It has long been the
+case in the U.S. that for competition and safety and
+accessibility, we have had dual operators to achieve the
+outcomes we want for the public. The European Central Bank
+(ECB) is a system that is dealing with multiple providers, and
+we have looked closely at how they have developed their real-
+time payment system and talked about interoperability.
+Mr. Steil. Thank you very much. I appreciate you all being
+here today.
+I yield back.
+Chairman Lynch. The gentleman yields back.
+The Chair now recognizes the gentlewoman from Iowa, Mrs.
+Axne, for 5 minutes.
+Mrs. Axne. Thank you, Mr. Chairman. And thank you to the
+witnesses for being here.
+Mr. Steen, it's always good to see you. Thank you so much
+for being here from Iowa today.
+I would like to start by asking you, what do you think are
+some examples of how Iowans back home could benefit from a
+real-time payment system?
+Mr. Steen. Well, I think the people, our customers, many of
+whom are making what they believe are real-time payments--I
+addressed that a little earlier--but I think that the idea of
+being able to pay somebody in real time, particularly in a late
+payment or a late-immediate payment circumstance is really key,
+and that happens all the time. People forget things. And we
+have seen from experience the value of same-day ACH and missed
+payroll files. It was a nightmare if you missed a payroll file
+prior to the same-day ACH. Today, we may not get it as early in
+the day as they are used to, but we can get them paid, and it
+is huge advance in payments.
+Mrs. Axne. Absolutely. Thank you. We want to make sure that
+we pay people as expeditiously as possible.
+What you just mentioned, those situations are why I was
+happy to cosponsor Representative Pressley's Payments
+Modernization Act, H.R. 3951, and I want to thank her for her
+leadership on this issue. An updated version of the bill, which
+we are considering today, would require the Fed to complete
+that system within 3 years and would require banks to make
+deposits available more quickly.
+I did hear some feedback that the limited hours for the
+National Settlement Service and the Fedwire could cause some
+problems with doing this.
+Ms. George, I know the Fed is considering extending those
+hours. Is that something that could be done faster than the
+currently proposed 4-year timeline for FedNow?
+Ms. George. Our commitment to explore this issue will be
+handled separately from the timeframe that we have designated
+to build a FedNow Service. The issue about extending our funds
+transfer system is one that will require the Board to do some
+analysis, because this is a system whose operational
+characteristics will require us to engage with the industry to
+understand what the implications are. But the Federal Register
+notice that we issued last month does indicate in there that
+the Board will explore extending those hours.
+Mrs. Axne. Thank you.
+I have spoken to Representative Pressley, and we have
+agreed that expanding NSS and Fedwire hours will also be
+included in the bill. So, thank you for your work on that.
+I want to change topics here a little bit. As I understand
+it, there is some question of if FedNow is going to be
+interoperable with The Clearing House's system or others. We
+have been talking about that throughout the day. Considering
+that the system hasn't even been built yet, claims that these
+systems can't fully work together, to me, seems very premature.
+My husband and I own and run a digital design firm. We deal
+with The Clearing House. We deal with wire payments
+internationally. We are very familiar with setting up payment
+systems for our customers. This is not something that I have
+never used. I am familiar with this to some degree.
+And I certainly recognize the challenge of getting
+different systems to work. We deal with that all the time. But
+solutions, quite honestly, can almost be found almost all the
+time. And so, I really think that shouldn't be anything that
+should be considered to be an obstacle in this.
+Mr. Steen, we know that Iowa has far more small banks than
+most other States per capita, and that those community banks,
+in many cases, are the only banks in our rural communities. Can
+you explain for us how important it is for smaller banks like
+yours that those systems be operable? You touched a little bit
+on it earlier, but especially, I would like to hear about the
+terms of reduced cost in connecting to all of these systems.
+Mr. Steen. Well, the connecting systems is always the
+friction, but I would tell you that it is essential if we are
+going to have a legitimate real-time payment system in the
+United States that extends beyond our borders, that we simply
+have to be interoperable with each other.
+It is challenging because our friends at The Clearing House
+have said that theirs is not interoperable and it is going to
+be very difficult for them. But one of the key desired outcomes
+of the 2015 study was collaboration. We went through that 4-
+year task force, and it turns out that there was an
+interoperable system being built.
+Mrs. Axne. Do you think if we are not able to make this
+interoperable, it is really going to limit your ability to
+provide good services for your customers moving forward?
+Mr. Steen. That would be very difficult, but I am operating
+under the belief that the market will force interoperability.
+Mrs. Axne. All right. Thank you so much.
+I yield back.
+Chairman Lynch. The gentlewoman yields back.
+The Chair now recognizes the gentleman from Virginia, Mr.
+Riggleman, for 5 minutes.
+Mr. Riggleman. Thank you, Mr. Chairman, for calling this
+hearing today and for allowing me to participate. I appreciate
+it.
+And I thank all of you for being here today.
+While I am appreciative that you allowed me to join this
+hearing with this esteemed panel, I just heard some things, and
+I have one little gripe. I could not help but notice we do not
+have a representative from The Clearing House Association here
+today, the only institution that has successfully developed a
+real-time payment system in the U.S., and I wanted to ask them
+some questions. Since they are unable to answer questions and
+provide input today, I would like unanimous consent to submit
+into the record a statement from them.
+Chairman Lynch. Without objection, it is so ordered.
+Mr. Riggleman. Thank you.
+Mr. Chairman, I also saw the legislation that was noticed
+with this hearing as Congresswoman Pressley's Payments
+Modernization Act. I also am going to introduce legislation on
+this issue, H.R. 3928, the Federal Reserve Accountability and
+Justification Act. So, my questions will focus on these pieces
+of legislation as well as some other topics.
+I do wish we had more people here. My background was
+interoperability with massive datasets, data sources, and also
+governance. So, I am excited to have some questions here today.
+President George, if Congress passed the Payments
+Modernization Act and the President signed it into law, how
+would the Federal Reserve accomplish real-time settlement today
+as that legislation requires?
+Ms. George. We are proceeding today under the authorities
+that we have under the Federal Reserve Act to begin to design a
+system that will deliver real-time payments as another provider
+here in the United States.
+Mr. Riggleman. Thank you.
+And given that the Board recently announced its FedNow
+system would not be operational until 2023 at the earliest, I
+could take that as an indicator that the Payments Modernization
+Act could be a complete disaster for the United States payment
+system based on the amount of time and cost.
+Ms. Benson, based on what we learned from yesterday's
+Senate Banking Committee hearing, as well as the information in
+the Board's August proposal, not only has the Fed not
+determined how their system will be interoperable with the
+private sector, but apparently, there isn't even an agreed-upon
+definition of ``interoperability.''
+When Chair Powell was testifying before this committee in
+July, I asked him about interoperability, and he admitted it
+was a complex and currently unsolved issue. Your testimony
+addresses this topic and said that interoperability is not a
+technical issue but one of governance. Given that the Fed has
+not yet defined interoperability, what steps should they take
+to address this?
+Ms. Benson. That is a good question. I think that it is a
+matter of working with The Clearing House. And I would also
+like to acknowledge what Mr. Hill said earlier, that there are
+other networks like Visa and Mastercard who have real-time
+payment systems in place today. And how we get to the place of
+having a governance umbrella over these systems, I don't know
+exactly what the path to that is, but I think we did do that
+with the ACH, and with the right will, we should be able to
+accomplish it.
+Mr. Riggleman. What I was interested about when you talked
+about governance, as you know, sometimes governance determines
+the exact data element needs based on what the releasability of
+that data is or who can see that data or even how you target or
+track the data elements in that specific data. That is why I
+was so interested in it.
+But if it is about just governance, which I hope it is,
+and, President George, if the issue of interoperability is
+simply a governance issue, why did the Fed not address it prior
+to the August notice?
+Ms. George. As part of our work with the Faster Payments
+Task Force, that group did conclude that governance would be
+important, and put together a Faster Payments Council. It is
+just coming together, and we are watching that carefully to see
+whether that will be an effective way to go about the
+governance process here.
+Mr. Riggleman. And the reason I am asking this, and I think
+some people might be curious about it, is that governance also
+determines cost. When I was looking at TCH and looking at what
+they talked about cost, they were talking about close to a
+billion dollars. I know that governance and the complexity of
+that governance could actually affect the cost based on data,
+specifically in the sharing and interoperability of that data.
+So, that is why I am asking some of these questions.
+And, Mr. Steen, my district is very rural, and the
+financial institutions that serve many of your constituents are
+small banks and credit unions. I agree with your sentiment and
+your testimony that institutions such as yours provides a very
+critical service to the economy and payments are a vital
+component to that.
+When I talk with my bankers, their number one concern on
+this topic is not who offers the faster payment service, but
+that they are getting a fair deal. My legislation would simply
+codify the Fed's own policy statement into a formal rulemaking
+so that Congress and small banks are given absolutely clarity
+regarding cost recovery which is related to pricing.
+The TCH has committed to a flat fee structure, whereas the
+Fed has not, and the Fed has also announced that cost recovery
+will likely take longer than 10 years. As you support the Fed's
+decision, would you also support transparency, especially on
+pricing and cost recovery, and are you prepared to wait what
+could be 5 to 10 years for the FedNow system to become
+operational?
+Mr. Steen. In my role in the Faster Payments Task Force
+from the beginning, the steering committee, et cetera, I have
+been pounding the table as much as I can for the Fed to move
+faster. So, we all agree on that.
+I think that the pricing is transparent. I think they give
+us a pricing list. We get to make our decisions. But it is
+never fast enough, and I remind them I am old and I want to see
+this happen. So, we have to keep moving. But I am very
+confident that they can move this forward on a timeline, and
+governance evolves. I don't know that we will know exactly
+every rule we need when we start, and I would just suggest that
+we need to launch this. We have an industry that can work
+together when we have to, and we will do that.
+Mr. Riggleman. Sir, I thank you kindly.
+And I thank you all kindly.
+And I yield back the balance of my time.
+Chairman Lynch. The gentleman yields back.
+I thank the gentleman from Virginia for his remarks. And I
+did hear yesterday that the Minority wanted to ask The Clearing
+House to come on in. If I had known in advance--the Minority
+did have an opportunity to pick them as their witness. I think
+they would be a wonderful witness. I think you also chose
+wisely, though, in Ms. Benson, in having her as the Minority
+witness. But I would certainly leave it wide open to having The
+Clearing House in at a later time.
+Mr. Riggleman. Ms. Benson is very capable and intelligent.
+And thank you, sir. I wasn't blaming you, I promise.
+Chairman Lynch. Okay. Thank you.
+The Chair now recognizes the gentlelady from Massachusetts,
+Ms. Pressley, for 5 minutes.
+Ms. Pressley. Thank you, Chairman Lynch. I appreciate the
+opportunity to be able to participate in this hearing,
+especially given the issue.
+Working families should not have to wait days at a time
+just to access their own hard-earned money. As I said to
+Chairman Powell a few months ago, when you are living paycheck
+to paycheck and rent is due the first of the month, there can
+be no room for error.
+After the Federal Reserve's August announcement, this is no
+longer a question of if, but when and how fast--how this faster
+payment system will develop. Unfortunately, the longer it takes
+to build this system, the more families and small businesses
+will suffer. That is why I was proud to introduce the Payments
+Modernization Act in partnership with Representative Chuy
+Garcia and Senators Warren and Van Hollen.
+This is the only legislation that holds the Fed accountable
+for developing a faster payment system that prioritizes
+consumer protection, fraud prevention, and equal access in a
+more reasonable timeframe. My bill requires the Fed to build
+this system in 3 years, allowing the U.S. to remain competitive
+and to not fall further behind in the global payment space.
+There is still more work necessary to ensure a smooth
+payments modernization process. That is why my bill requires a
+GAO study on the U.S. payment system and what regulatory and
+legislative changes are necessary in order to promote consumer
+protection, reduce fraud, and to promote stronger cybersecurity
+practices.
+Now, there are some who believe that this pressing need can
+somehow be met by the private sector alone. However, the
+existence of both ACH and The Clearing House's private
+settlement service suggests otherwise.
+I want to ask each of you a simple yes-or-no question. Can
+The Clearing House alone reach all of the nation's almost
+11,000 financial institutions? We can just start with President
+George and go all the way down the line.
+Ms. George. The Board's analysis concluded that they would
+have significant challenges in doing so.
+Ms. Pressley. Yes or no?
+Mr. Sinha. No.
+Mr. Steen. No.
+Mr. Williams. No.
+Ms. Benson. Not in the timeframe you are indicating, no.
+Ms. Pressley. It is clear that the current system is
+insufficient. Small and local banks and small businesses alike
+do stand to benefit from this proposal.
+Mr. Steen, how does your bank plan to use real-time
+payments, and how will this benefit your customers,
+particularly small businesses and low-income people?
+Mr. Steen. We are currently working with some partners,
+otherwise known as FinTechs, targeting underbanked, underserved
+customers. We structured a virtual branch. We are creating bank
+accounts for these folks. There is a debit card associated with
+it, and we believe that we can bring these folks into the
+system. And we are working with a group, targeting Latino
+churches and Latino church associations.
+But even in our core customer base, which is a rural
+community and we know most of our customers, virtually all of
+our customers, we know they have needs, and many of them live
+paycheck to paycheck. And we have improved things with online
+banking. They can see their account much more readily. We know
+from our own experience that overdraft volume is going down
+significantly year over year. We think that is a good thing. We
+are not trying to make money on overdraft fees. Our overdraft
+fees are relatively low. We don't charge on continual fees. We
+cap overdraft fees. We do everything we can because we know how
+much of an impact that makes.
+Ms. Pressley. Thank you, Mr. Steen.
+And, Mr. Williams, how will the added transparency and
+quicker access to funds protect working people from otherwise
+predatory products such as payday loans or punitive measures
+like overdraft fees?
+Mr. Williams. I think when there is a need for capital and
+it is a gap between what a family or someone needs today versus
+next week, there also needs to be safe resources for that
+capital. But I think that is one part of it. I think the other
+part of it is that if there is transparency and when funds will
+be readily available, families and this group of Americans will
+have a better chance at planning properly. What is causing the
+biggest concern is the emergency. It is the things that were
+unplanned.
+Ms. Pressley. Thank you, Mr. Williams.
+Mr. Chairman, I ask for unanimous consent to submit into
+the record a letter of support for our legislation from the
+Main Street Alliance, a leading voice for small businesses.
+And I just want to thank Representatives Axne and Tlaib,
+and Chairman Meeks, for their support of this effort, and I
+urge the remainder of my colleagues to do the same.
+Thank you, and I yield back.
+Chairman Lynch. The gentlelady yields back.
+And without objection, the letter will be made a part of
+the record.
+Without any further Members, I would like to thank our
+witnesses for their testimony today.
+And without objection, letters from the following
+organizations will be submitted for the record: Consumer
+Reports; the American Bankers Association; Americans for
+Financial Reform; Financial Innovation Now; the Food Marketing
+Institute; NACHA, which is the National Automated Clearing
+House Association; the National Association of Federal Credit
+Unions; and the Retail Industry Leaders Association.
+The Chair notes that some Members may have additional
+questions for this panel, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+This hearing is now adjourned. Thank you.
+[Whereupon, at 3:29 p.m., the hearing was adjourned.]
+A P P E N D I X
+September 26, 2019
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

@@ -1,0 +1,2293 @@
+- BIG DATA CHALLENGES AND ADVANCED COMPUTING SOLUTIONS
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+BIG DATA CHALLENGES AND
+ADVANCED COMPUTING SOLUTIONS
+=======================================================================
+JOINT HEARING
+BEFORE THE
+SUBCOMMITTEE ON ENERGY &
+SUBCOMMITTEE ON RESEARCH AND TECHNOLOGY
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+JULY 12, 2018
+__________
+Serial No. 115-69
+__________
+Printed for the use of the Committee on Science, Space, and Technology
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://science.house.gov
+_________
+U.S. GOVERNMENT PUBLISHING OFFICE
+30-879 PDF
+WASHINGTON : 2018
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HON. LAMAR S. SMITH, Texas, Chair
+FRANK D. LUCAS, Oklahoma
+EDDIE BERNICE JOHNSON, Texas
+DANA ROHRABACHER, California
+ZOE LOFGREN, California
+MO BROOKS, Alabama
+DANIEL LIPINSKI, Illinois
+RANDY HULTGREN, Illinois
+SUZANNE BONAMICI, Oregon
+BILL POSEY, Florida
+AMI BERA, California
+THOMAS MASSIE, Kentucky
+ELIZABETH H. ESTY, Connecticut
+RANDY K. WEBER, Texas
+MARC A. VEASEY, Texas
+STEPHEN KNIGHT, California
+DONALD S. BEYER, JR., Virginia
+BRIAN BABIN, Texas
+JACKY ROSEN, Nevada
+BARBARA COMSTOCK, Virginia
+CONOR LAMB, Pennsylvania
+BARRY LOUDERMILK, Georgia
+JERRY McNERNEY, California
+RALPH LEE ABRAHAM, Louisiana
+ED PERLMUTTER, Colorado
+GARY PALMER, Alabama
+PAUL TONKO, New York
+DANIEL WEBSTER, Florida
+BILL FOSTER, Illinois
+ANDY BIGGS, Arizona
+MARK TAKANO, California
+ROGER W. MARSHALL, Kansas
+COLLEEN HANABUSA, Hawaii
+NEAL P. DUNN, Florida
+CHARLIE CRIST, Florida
+CLAY HIGGINS, Louisiana
+RALPH NORMAN, South Carolina
+DEBBIE LESKO, Arizona
+------
+Subcommittee on Energy
+HON. RANDY K. WEBER, Texas, Chair
+DANA ROHRABACHER, California
+MARC A. VEASEY, Texas, Ranking
+FRANK D. LUCAS, Oklahoma
+Member
+MO BROOKS, Alabama
+ZOE LOFGREN, California
+RANDY HULTGREN, Illinois
+DANIEL LIPINSKI, Illinois
+THOMAS MASSIE, Kentucky
+JACKY ROSEN, Nevada
+STEPHEN KNIGHT, California
+JERRY McNERNEY, California
+GARY PALMER, Alabama
+PAUL TONKO, New York
+DANIEL WEBSTER, Florida
+BILL FOSTER, Illinois
+NEAL P. DUNN, Florida
+MARK TAKANO, California
+RALPH NORMAN, South Carolina
+EDDIE BERNICE JOHNSON, Texas
+LAMAR S. SMITH, Texas
+------
+Subcommittee on Research and Technology
+HON. BARBARA COMSTOCK, Virginia, Chair
+FRANK D. LUCAS, Oklahoma
+DANIEL LIPINSKI, Illinois, Ranking
+RANDY HULTGREN, Illinois
+Member
+STEPHEN KNIGHT, California
+ELIZABETH H. ESTY, Connecticut
+BARRY LOUDERMILK, Georgia
+JACKY ROSEN, Nevada
+DANIEL WEBSTER, Florida
+SUZANNE BONAMICI, Oregon
+ROGER W. MARSHALL, Kansas
+AMI BERA, California
+DEBBIE LESKO, Arizona
+DONALD S. BEYER, JR., Virginia
+LAMAR S. SMITH, Texas
+EDDIE BERNICE JOHNSON, Texas
+C O N T E N T S
+July 12, 2018
+Page
+Witness List.....................................................
+2
+Hearing Charter..................................................
+3
+Opening Statements
+Statement by Representative Randy K. Weber, Chairman,
+Subcommittee on Energy, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+4
+Written Statement............................................
+6
+Statement by Representative Marc A. Veasey, Ranking Member,
+Subcommittee on Energy, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+8
+Written Statement............................................
+9
+Statement by Representative Barbara Comstock, Chairwoman,
+Subcommittee on Research and Technology, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........
+10
+Written Statement............................................
+11
+Statement by Representative Lamar Smith, Chairman, Committee on
+Science, Space, and Technology, U.S. House of Representatives..
+12
+Written Statement............................................
+13
+Written Statement by Representative Eddie Bernice Johnson,
+Ranking Member, Committee on Science, Space, and Technology,
+U.S. House of Representatives..................................
+15
+Written Statement by Representative Daniel Lipinski. Ranking
+Member, Subcommittee on Research and Technology, Committee on
+Science, Space, and Technology, U.S. House of Representatives..
+17
+Witnesses:
+Dr. Bobby Kasthuri, Researcher, Argonne National Laboratory;
+Assistant Professor, The University of Chicago
+Oral Statement...............................................
+19
+Written Statement............................................
+22
+Dr. Katherine Yelick, Associate Laboratory Director for Computing
+Sciences, Lawrence Berkeley National Laboratory; Professor, The
+University of California, Berkeley
+Oral Statement...............................................
+31
+Written Statement............................................
+34
+Dr. Matthew Nielsen, Principal Scientist, Industrial Outcomes
+Optimization, GE Global Research
+Oral Statement...............................................
+47
+Written Statement............................................
+49
+Dr. Anthony Rollett, U.S. Steel Professor of Materials Science
+and Engineering, Carnegie Mellon University
+Oral Statement...............................................
+57
+Written Statement............................................
+59
+Discussion.......................................................
+66
+Appendix I: Answers to Post-Hearing Questions
+Dr. Bobby Kasthuri, Researcher, Argonne National Laboratory;
+Assistant Professor, The University of Chicago.................
+92
+Dr. Katherine Yelick, Associate Laboratory Director for Computing
+Sciences, Lawrence Berkeley National Laboratory; Professor, The
+University of California, Berkeley.............................
+97
+Dr. Matthew Nielsen, Principal Scientist, Industrial Outcomes
+Optimization, GE Global Research...............................
+104
+Dr. Anthony Rollett, U.S. Steel Professor of Materials Science
+and Engineering, Carnegie Mellon University....................
+113
+Appendix II: Additional Material for the Record
+Document submitted by Representative Neal P. Dunn, Committee on
+Science, Space, and Technology, U.S. House of Representatives..
+120
+BIG DATA CHALLENGES
+AND ADVANCED COMPUTING SOLUTIONS
+----------
+THURSDAY, JULY 12, 2018
+House of Representatives,
+Subcommittee on Energy and
+Subcommittee on Research and Technology,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+The Subcommittees met, pursuant to call, at 10:15 a.m., in
+Room 2318, Rayburn House Office Building, Hon. Randy Weber
+[Chairman of the Subcommittee on Energy] presiding.
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. The Committee on Science, Space, and
+Technology will come to order.
+Without objection, the Chair is authorized to declare
+recess of the Subcommittees at any time.
+Good morning, and welcome to today's hearing entitled ``Big
+Data Challenges and Advanced Computing Solutions.'' I now
+recognize myself for five minutes for an opening statement.
+Today, we will explore the application of machine-learning-
+based algorithms to big-data science challenges. Born from the
+artificial intelligence--AI--movement that began in the 1950s,
+machine learning is a data-analysis technique that gives
+computers the ability to learn directly from data without being
+explicitly programmed.
+Generally speaking--and don't worry; I'll save the detailed
+description for you all, our expert witnesses--machine learning
+is used when computers are trained--more than husbands are
+trained, right, ladies--on large data sets to recognize
+patterns in that data and learn to make future decisions based
+on these observations.
+Today, specialized algorithms termed ``deep learning'' are
+leading the field of machine-learning-based approaches. These
+algorithms are able to train computers to perform certain tasks
+at levels that can exceed human ability. Machine learning also
+has the potential to improve computational science methods for
+many big-data problems.
+As the Nation's largest federal sponsor of basic research
+in the physical sciences with expertise in big-data science,
+advanced algorithms, data analytics, and high-performance
+computing, the Department of Energy is uniquely equipped to
+fund robust fundamental research in machine learning. The
+Department also manages the 17 DOE national labs and 27 world-
+leading scientific user facilities, which are instrumental to
+connecting basic science and advanced computing.
+Machine learning and other advanced computing processes
+have broad applications in the DOE mission space from high
+energy physics to fusion energy sciences to nuclear weapons
+development. Machine learning also has important applications
+in academia and industry. In industry, common examples of
+machine-learning techniques are in automated driving, facial
+recognition, and automated speech recognition.
+At Rice University near my home district, researchers seek
+to utilize machine-learning approaches to address challenges in
+geological sciences. In addition, the University of Houston's
+Solutions Lab supports research that will use machine learning
+to predict the behavior of flooding events and aid in
+evacuation planning. This would be incredibly beneficial for my
+district and all areas that are prone to hurricanes and to
+flooding. In fact, in Texas we're still recovering from
+Hurricane Harvey, the wettest storm in United States history.
+The future of scientific discovery includes the
+incorporation of advanced data analysis techniques like machine
+learning. With the next generation of supercomputers, including
+the exascale computing systems that DOE is expected to field by
+2021, American researchers utilizing these technologies will be
+able to explore even bigger challenges. With the immense
+potential for machine-learning technologies to answer
+fundamental scientific questions, provide the foundation for
+high-performance computing capabilities, and to drive future
+technological development, it's clear that we should prioritize
+this research.
+I want to thank our accomplished panel of witnesses for
+their testimony today, and I look forward to hearing what role
+Congress should play in advancing this critical area of
+research.
+[The prepared statement of Chairman Weber follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. I now recognize the Ranking Member for an
+opening statement.
+Mr. Veasey. Thank you, Chairman Weber. Thank you,
+Chairwoman Comstock, and also, thank you to the distinguished
+panel for being here this morning.
+As you know, there are a growing number of industries today
+that are relying on generating and interpreting large amounts
+of data to overcome new challenges. The new--the energy sector
+in particular is making strides in leveraging these new
+technologies and techniques. Today, we're going to hear more
+about the advancements that we're going to see in the upcoming
+years.
+Sensor-equipped aircraft engines, locomotive, gas, and wind
+turbines are now able to track production efficiency and the
+wear and tear on vital machinery. This enables significant
+reductions in fuel consumption, as well as carbon emissions.
+The technologies are also significantly improving our ability
+to detect failures before they occur and prevent disasters, and
+by doing so will save money, will save time, and lives. And by
+using analytics, sensors, and operational data, we can manage
+and optimize systems ranging from energy storage components to
+power plants and to the electric grid.
+As digital technologies revolutionize the energy sector, we
+also must ensure the safe and responsible use of these
+processes. With our electric grid always in under persistent
+threats from everything from cyber to other modes of
+subterfuge, the security of these connected systems is of the
+utmost importance. Nevertheless, I'm excited to learn more
+about the value and benefits that these technologies may be
+able to provide for our economy and our environment alike.
+I'm looking forward to hearing what we can do in Congress
+to help guide and support the responsible development of these
+new data-driven approaches to the management of these evermore
+complex systems that our society is very dependent on.
+Thank you, and, Mr. Chairman, I yield back the balance of
+my time.
+[The prepared statement of Mr. Veasey follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, Mr. Veasey.
+I now recognize the Chairwoman of the Research and
+Technology Subcommittee, the gentlewoman from Virginia, Mrs.
+Comstock, for an opening statement.
+Mrs. Comstock. Thank you, Chairman Weber.
+A couple of weeks ago, our two Subcommittees joined
+together on a hearing to examine the state of artificial
+intelligence and the types of research being conducted to
+advance this technology. The Committee learned about the
+nuances of the term artificial intelligence, such as the
+difference between narrow and general AI and implications for a
+world in which AI is ubiquitous.
+Today, we delve deeper into disciplines originating from
+the AI movement of the 1950s that include machine learning,
+deep learning, and neural networks. Until recently, machine
+learning and especially deep-learning technologies were only
+theoretical because deep-learning models require massive
+amounts of data and computing power. But advances in high-
+performance graphics, processing units, cloud computing, and
+data storage have made these techniques possible.
+Machine learning is pervasive in our day-to-day lives from
+tagging photos on Facebook to protecting emails with spam
+filters to using a virtual assistant like Siri or Alexa for
+information. Machine-learning-based algorithms have powerful
+applications that ultimately help make our lives more fun,
+safe, and informative.
+In the federal government, the Department of Energy stands
+out for its work in high-performance computing and approaches
+to big-data science challenges. The Energy Department
+researchers are using machine-learning approaches to study
+protein behavior, to understand the trajectories of patient
+health outcomes, and to predict biological drug responses. At
+Argonne National Laboratory, for example, researchers are using
+intensive machine-learning-based algorithms to attempt to map
+the human brain.
+A program of particular interest to me involves a DOE and
+Department of Veterans Affairs venture known as the MVP-
+CHAMPION program. This joint collaboration will leverage DOE's
+high-performance computing and machine-learning capabilities to
+analyze health records of more than 20 million veterans
+maintained by the VA. The goal of this partnership is to arm
+the VA with data it can use to potentially improve health care
+offered to our veterans by developing new treatments and
+preventive strategies and best practices.
+The potential for AI to help humans and further scientific
+discoveries is obviously immense. I look forward to what our
+witnesses will testify to today about their work and--which may
+give us a glimpse into the revolutionary technologies of
+tomorrow that we're here to discuss.
+So I thank you, Mr. Chairman, and I yield back.
+[The prepared statement of Mrs. Comstock follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. I thank the gentlelady.
+And let me introduce our witnesses. Our first witness is
+Dr. Bobby--Mr. Chairman, are you going to----
+Chairman Smith. Mr. Chairman, thank you. In the interest of
+time, I just ask unanimous consent to put my opening statement
+in the record.
+Chairman Weber. Without objection.
+[The prepared statement of Chairman Smith follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[The prepared statement of Ranking Member Johnson follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[The prepared statement of Mr. Lipinski follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you. I appreciate that.
+Now, I will introduce the witnesses. Our first witness is
+Dr. Bobby Kasthuri, the first neuroscience researcher at
+Argonne National Lab and an Assistant Professor in the
+Department of Neurobiology at the University of Chicago. You're
+busy. Dr. Kasthuri's current research focuses on innovation and
+new approaches to brain mapping, including the use of high-
+energy x-rays from synchrotron sources for mapping brains in
+their entirety.
+He holds a Bachelor of Science from Princeton University,
+an M.D. from Washington University School of Medicine, and a
+Ph.D. from Oxford University where he studied as a Rhodes
+scholar. Welcome, Doctor.
+Our second witness today is Dr. Katherine Yelick, a
+Professor of Electrical Engineering and Computer Sciences at
+the University of California, Berkeley, and the Associate
+Laboratory Director for Computing at Lawrence Berkeley National
+Laboratory. Her research is in high-performance computing,
+programming languages, compilers, parallel algorithms, and
+automatic performance tuning.
+Dr. Yelick received her Bachelor of Science, Master of
+Science, and Ph.D. all in computer science at the Massachusetts
+Institute of Technology. Welcome, Dr. Yelick.
+Our next witness is Dr. Matthew Nielsen, Principal
+Scientist at the GE Global Research Center. Dr. Nielsen's
+current research focuses on digital twin and computer modeling
+and simulation of physical assets using first-principle physics
+and machine-learning methods.
+He received a Bachelor of Science in physics at Alma
+College in Alma, Michigan, and a Ph.D. in applied physics from
+Rensselaer.
+Dr. Nielsen. Rensselaer.
+Chairman Weber. Rensselaer, okay, Polytechnic Institute in
+Troy, New York. Welcome, Dr. Nielsen.
+And our final witness today is Dr. Anthony Rollett, the
+U.S. Steel Professor of Metallurgical Engineering and Materials
+Science at Carnegie Mellon University, a.k.a. CMU. Dr. Rollett
+has been a Professor of Materials Science Engineering at CMU
+for over 20 years and is the Co-Director of CMU's
+NextManufacturing Center. Dr. Rollett's research focuses on
+microstructural evolution and microstructure property
+relationships in 3-D.
+He received a Master of Arts in metallurgy and materials
+science from Cambridge University and a Ph.D. in materials
+engineering from Drexel University. Welcome, Dr. Rollett.
+I now recognize Dr. Kasthuri for five minutes to present
+his testimony. Doctor?
+TESTIMONY OF DR. BOBBY KASTHURI, RESEARCHER,
+ARGONNE NATIONAL LABORATORY;
+ASSISTANT PROFESSOR,
+THE UNIVERSITY OF CHICAGO
+Dr. Kasthuri. Thank you. Chairman Smith, Chairman Weber,
+Chairwoman Comstock, Ranking Members Veasey and Lipinski, and
+Members of the Subcommittees, thank you for this opportunity to
+talk and appear before you. My name is Bobby Kasthuri. I'm a
+Neuroscientist at Argonne National Labs and an Assistant
+Professor in the Department of Neurobiology at the University
+of Chicago.
+And the reason I'm here talking to you today is because I
+think we are at a pivotal moment in our decades-long quest to
+understand the brain. And the reason we're at this pivotal
+moment is that we're actually witnessing in real time is the
+collision of two different disciplines, two different worlds,
+the worlds of computer science and neuroscience. And if we can
+nurture and develop this union, it could fundamentally change
+many things about our society.
+First, it could fundamentally change how we think about
+understanding the brain. It could change and revolutionize how
+we treat mental illness, and perhaps even more significantly,
+it can change how we think and imagine and build our future
+computers and our future robots based on how brains solve
+problems.
+The major obstacle between us and realizing this vision is
+that, for many neuroscientists, modern neuroscience is
+extremely expensive and extremely resource-intensive. To give
+you an idea of the scale, I thought it might help to give you
+an example of the enormity of the problem that we're trying to
+do.
+The human brain, your brains, probably contain on order 100
+billion brain cells or neurons, and the main thing that neurons
+do is connect with each other. And so in your brain there's
+probably--each neuron connects on average 10,000 times with
+10,000 other neurons. That means in your brain there are orders
+of magnitude more connections between neurons than stars in the
+Milky Way galaxy. And what's even more important for
+neuroscientists is that we believe that this map, this map of
+you, this map of connections contains all of the things that
+make us human. Our creativity, our ability to think critically,
+our fears, our dreams are all contained in that map.
+But unfortunately, that map, if we were to do it, wouldn't
+be one gigabyte of data; it wouldn't be 100 gigabytes of data.
+It could be on order a billion gigabytes of data, perhaps the
+largest data set about anything ever collected in the history
+of humanity. The problem is that for many neuroscientists even
+analyzing a fraction of this map is beyond their resources, the
+resources of their laboratory, the resources of the
+universities, and perhaps the resources of even large
+institutions. And if we don't address this gap, then what will
+happen is that only the richest neuroscientists will be able to
+answer their questions, and we would like every neuroscientist
+to have access to answer the most important questions about
+brains and ultimately promote this fusion of computer science
+and neuroscience.
+Luckily, there is a potential solution, and the potential
+solution is the Department of Energy and the national lab
+system, which is part of the Department of Energy. As stewards
+of our scientific architecture, as stewards of some of the most
+advanced technological and computing capabilities available,
+the Department of Energy and the national labs can address this
+gap, and in fact, they do address this gap in many different
+sciences.
+If I was a young astrophysicist or a young materials
+scientist, no one would expect me to get money and build my own
+space telescope. Instead, I would leverage the amazing
+resources of the national lab system to answer my fundamental
+questions. And although many fields of science have learned how
+to leverage the expertise and the resources available in the
+national lab system, neuroscientists have not.
+A national center for brain mapping situated within the DOE
+lab system could actually be a sophisticated clearinghouse to
+ensure that the correct physics and engineering and computer
+science tools are vetted and accessible for measuring brain
+structure and brain function. Since the national labs are also
+the stewards of our advanced computing infrastructure, they're
+ideally suited to incubate these revolutions in computer and
+neurosciences.
+Decades earlier, as a biologist, I just recently learned
+that the DOE and the national labs helped usher in humanity's
+perhaps greatest scientific achievement of the 20th century,
+the mapping of the human genome and the understanding of the
+genetic basis of life. We believe that the DOE and the national
+lab system can make a similar contribution to understanding the
+human brain.
+Other countries like Japan, South Korea, and China,
+cognizant of the remarkable benefits to economic and national
+security that understanding brains and using them to make
+computer science better have already invested in national
+efforts in artificial intelligence and national efforts to
+understand the brain. The United States has not yet, and I
+think it's important at the end of my statement for everyone to
+remember that we are the ones who went to the moon, we are the
+ones who harnessed the power of nuclear energy, and we are the
+ones that led the genomic revolution. And I suspect it's the
+moment now for the United States to lead again, to map and help
+reverse engineer the physical substrates of human thought,
+arguably the most challenging quest of the 21st century and
+perhaps the last great scientific frontier.
+Thank you for your time and attention today. I welcome any
+questions you might have.
+[The prepared statement of Dr. Kasthuri follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, Doctor.
+Dr. Yelick, you're recognized for five minutes.
+TESTIMONY OF DR. KATHERINE YELICK,
+ASSOCIATE LABORATORY DIRECTOR
+FOR COMPUTING SCIENCES,
+LAWRENCE BERKELEY NATIONAL LABORATORY;
+PROFESSOR, THE UNIVERSITY OF CALIFORNIA, BERKELEY
+Dr. Yelick. Chairman Smith, Chairman Weber, Chairwoman
+Comstock, Ranking Members Veasey and Lipinski, distinguished
+Members of the Committee, thank you for holding this hearing
+and for the Committee's support for science. And thank you for
+inviting me to testify.
+My name is Kathy Yelick and I'm the Associate Laboratory
+Director for Computing Sciences at Lawrence Berkeley National
+Laboratory, a DOE Office of Science laboratory managed by the
+University of California. I'm also Professor of Electrical
+Engineering and Computer Sciences at the University of
+California, Berkeley.
+Berkeley Lab is home to five national scientific user
+facilities serving over 10,000 researchers covering all 50
+States. The combination of experimental, computational, and
+networking facilities puts Berkeley Lab on the cutting edge of
+data-intensive science.
+In my testimony today, I plan to do four things: first,
+describe some of the large-scale data challenges in the DOE
+Office of Science; second, examine the emerging role of machine
+learning; third, discuss some of the incredible opportunities
+for machine learning in science, which leverage DOE's role as a
+leader in high-performance computing, applied mathematics,
+experimental facilities, and team-based science; and fourth,
+explore some of the challenges of machine learning and data-
+intensive science.
+Big-data challenges are often characterized by the four
+``V's,'' the volume, that is the total size of data; the
+velocity, the rate at which the data is being produced;
+variability, the diversity of different types of data; and
+veracity, the noise, errors, and the other quality issues in
+the data. Scientific data has all of these.
+Genomic data, for example, has grown by over a factor of
+1,000 in the last decade, but the most abundant form of life,
+microbes, are not well-understood. Microbes can fix nitrogen,
+break down biomass for fuels, or fight algal blooms. DOE's
+Joint Genome Institute has over 12 trillion bases--that is DNA
+characters A, C, T, and G--of microbial DNA, enough to fill the
+Library of Congress if you printed them in very boring books
+that only contain those four characters.
+But genome sequencers produce only fragments with errors,
+and the DNA of the entire microbial community is all mixed
+together. So it's like taking the Library of Congress,
+shredding all of the books, throwing in some junk, and then
+asking somebody to reconstruct the books from them. We use
+supercomputers to do this, to assemble the pieces, to find the
+related genes, and to compare the communities.
+DOE's innovations are actually helping to create some of
+these data challenges. The detectors used in electron
+microscopes, which were developed at Berkeley Lab and since
+commercialized, have produced data that's almost 10,000 times
+faster than just ten years ago.
+Machine learning is an amazingly powerful strategy for
+analyzing data. Perhaps the most well-known example is
+identifying images such as cats on the internet. A machine-
+learning algorithm is fed a large set of, say, ten million
+images of which some of them are labeled as having cats, and
+the algorithm uses those images to build a model, sort of a
+probability of which images are likely to contain cats. Now, in
+science we're not looking for cats, but images arise in many
+different scientific disciplines from electron microscopes to
+light sources to telescopes.
+Nobel laureate Saul Perlmutter used images of supernovae--
+exploding stars--to measure the accelerating expansion of the
+universe. The number of images produced each night from
+telescopes has grown from tens per night to tens of millions
+per night over the last 30 years. They used to be analyzed
+manually by scientific experts, and now, much of that work has
+been replaced by machine-learning algorithms. The upcoming LSST
+telescope will produce 15 terabytes of data every night. If you
+watch that, one night's worth of data as a movie, it would take
+over ten years, so you can imagine why scientists are
+interested in using machine learning to help them analyze that
+data.
+Machine learning can be used to find patterns that cluster
+similar items or approximate complicated experiments. A recent
+survey at Berkeley lab found over 100 projects that are using
+some form of machine learning. They use it to track subatomic
+particles, analyze light source data, search for new materials
+for better batteries, improve crop yield, and identify abnormal
+behavior on the power grid.
+Machine learning, it does not replace the need for high-
+performance computing simulations but adds a complementary tool
+for science. Recent earthquake simulations of the bay area show
+that just a 3-mile difference in location of an identical
+building makes a significant difference in the safety of that
+building. It really is all about location, location, location.
+And the team that did this work is looking at taking data from
+embedded sensors and eventually even from smart meters to give
+even more detailed location-specific results.
+There is tremendous enthusiasm for machine learning in
+science but some cautionary notes as well. Machine-learning
+results are often lacking in explanations, interpretations, or
+error bars, a frustration for scientists. And scientific data
+is complicated and often incomplete. The algorithms are known
+to be biased by the data that they see. A self-driving car may
+not recognize voices from Texas if it's only seen data from the
+Midwest.
+Chairman Weber. Hey, hey.
+Dr. Yelick. Or we may miss a cosmic event in the southern
+hemisphere if they've only seen data from telescopes in the
+northern hemisphere. Foundational research in machine learning
+is needed, along with the network to move the data to the
+computers and share it with the community and make it as easy
+to search for scientific data as it is to find a used car
+online.
+Machine learning has revolutionized the field of artificial
+intelligence and it requires three things: large amounts of
+data, fast computers, and good algorithms. DOE has all of
+these. Scientific instruments are the eyes, ears, and hands of
+science, but unlike artificial intelligence, the goal is not to
+replicate human behavior but to augment it with superhuman
+measurement control and analysis capabilities, empowering
+scientists to handle data at unprecedented scales, provide new
+scientific insights, and solve important societal challenges.
+Thank you.
+[The prepared statement of Dr. Yelick follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, Doctor.
+Dr. Nielsen, you're recognized for five minutes.
+TESTIMONY OF DR. MATTHEW NIELSEN,
+PRINCIPAL SCIENTIST,
+INDUSTRIAL OUTCOMES OPTIMIZATION,
+GE GLOBAL RESEARCH
+Dr. Nielsen. Chairman Smith, Chairman Weber, and Chairwoman
+Comstock, Ranking Members Veasey and Lipinski, and Members of
+the Subcommittee, it is an honor to share General Electric's
+perspective on innovative machine-learning-based approaches to
+big-data science challenges that promote a more resilient,
+efficient, and sustainable energy infrastructure. I am Matt
+Nielsen, a Principal Scientist at GE's Global Research Center
+in upstate New York.
+The installed asset base of GE's power and renewable
+businesses generates roughly 1/3 of the planet's power, and 40
+percent of the world's electricity is managed by our software.
+GE Energy's assets include everything from gas and steam power,
+nuclear, grid solutions, energy storage, onshore and offshore
+wind, and hydropower.
+The nexus of physical and digital technologies is
+revolutionizing what industrial assets can do and how they are
+managed. One of the single most important questions industrial
+companies such as GE are grappling with is how to most
+effectively integrate the use of AI and machine learning into
+their business operations to differentiate the products and
+services they offer. GE has been on this journey for more than
+a decade.
+A key learning for us--and I can attest to this as being a
+physicist--has been the importance of tying our digital
+solutions to the physics of our machines and to the extensive
+knowledge on how they are controlled. I'll now highlight a few
+industrial applications of AI machine learning where GE is
+collaborating with our customers and federal agencies like the
+U.S. Department of Energy.
+At GE, digital twins are a chief application of AI and
+machine learning. Digital twins are living digital models of
+industrial assets, processes, and systems that use machine
+learning to see, think, and act on big data. Digital twins
+learn from a variety of sources, including sensor data from the
+physical machines or processes, fleet data, and industrial-
+domain expertise. These computer models continuously update as
+new data becomes available, enabling a near-real-time view of
+the condition of the asset.
+To date, GE scientists and engineers have created nearly
+1.2 million digital twins. Many of the digital twins are
+created using machine-learning techniques such as neural
+networks. The application of digital twins in the energy sector
+is enabling GE to revolutionize the operation and maintenance
+of our assets and to drive new innovative approaches in
+critical areas such as services and cybersecurity.
+Now onto digital ghosts. Cyber threats to industrial
+control systems that manage our critical infrastructure such as
+power plants are growing at an alarming rate. GE is working
+with the Department of Energy on a cost-shared program to build
+the world's first industrial immune system for electric power
+plants. It cannot only detect and localize cyber threats but
+also automatically act to neutralize them, allowing the system
+to continue to operate safely.
+This effort engages a cross disciplinary team of engineers
+from the global research and our power business. They are
+pairing the digital twins that I mentioned of the power plants
+machines, industrial controls knowledge, and machine learning.
+The key again for this industrial immune system is the
+combination of advanced machine learning with a deep
+understanding of the machines' thermodynamics and physics.
+We have demonstrated to date the ability to rapidly and
+accurately detect and even localize simulated cyber threats
+with nearly 99 percent accuracy using our digital ghost
+techniques. We're also making significant progress now in
+automatically neutralizing these threats. It is a great example
+of how public-private research partnerships can advance
+technically risky but universally needed technologies.
+Along with improving cyber resiliency, AI and machine-
+learning technologies are enabling us to improve GE's energy
+services portfolio, helping our customers optimize and reduce
+unplanned downtime for their assets. Through GE's asset
+performance management platform, we help our customers avoid
+disruptions by providing deep, real-time data insights on the
+condition and operation of their assets. Using AI, machine
+learning, and digital twins, we can better predict when
+critical assets require repair or have a physical fault. This
+allows our customers to move from a schedule-based maintenance
+system to a condition-based maintenance system.
+The examples I have shared and GE's extensive developments
+with AI and machine learning have given us a first-hand
+experience into what it takes to successfully apply these
+technologies into our Nation's energy infrastructure. My full
+recommendations are in my written testimony, and I'll only
+summarize them here.
+Number one, continue to fund opportunities for public-
+private partnerships to expand the application and benefits of
+AI and machine learning across the energy sector.
+Two, encourage the collaboration between AI, machine
+learning, and subject matter experts, engineers, and
+scientists.
+And number three, continue to invest in the Nation's high-
+performance computing assets and expand opportunities for
+private industry to work with the national labs.
+I appreciate the opportunity to offer our perspective on
+how the development of AI and machine-learning technologies can
+meet the shared goals of creating a more efficient and
+resilient energy infrastructure.
+One final thought is to reinforce a theme that I've
+emphasized throughout my testimony, and that is the importance
+of having teams of physical and digital experts involved in
+driving the future of AI and machine-learning solutions.
+Thank you, and I look forward to answering any questions.
+[The prepared statement of Dr. Nielsen follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, Dr. Nielsen.
+Dr. Rollett, you're recognized for five minutes.
+TESTIMONY OF DR. ANTHONY ROLLETT,
+U.S. STEEL PROFESSOR OF
+MATERIALS SCIENCE AND ENGINEERING,
+CARNEGIE MELLON UNIVERSITY
+Dr. Rollett. So my thanks to Chairman Weber, Chairman
+Smith, Chairwoman Comstock, Ranking Members Veasey and
+Lipinski, and all the Members for your interest.
+Speaking as a metallurgist, it's my pleasure and privilege
+to testify before you because I've found big data and machine
+learning, which depend on advanced computing, to be a never-
+ending source of insight for my research, be it on additive
+manufacturing or in developing new methods of research on
+structural materials.
+My bottom line is that there are pervasive opportunities,
+as you've heard, to benefit from big data and machine learning.
+Nevertheless, there are many challenges to be addressed in
+terms of algorithm development, learning how to apply the
+methods to new areas, transforming data into information,
+upgrading curricula, and developing regulatory frameworks.
+New and exciting manufacturing technologies such as 3-D
+printing are coming on stream that generate big data, but they
+need further development, especially for qualification, in
+other words, the science that underpins the processes and
+materials needed to satisfy requirements.
+So consider that printing a part with a powder bed machine,
+standard machine, requires 1,000-fold repetition of spreading a
+hair's-breadth layer of powder, writing that desired shape in
+each layer, shifting the part by that same hair's breadth, and
+repeating. So if you think about taking a part and dividing the
+dimension of that part by a hair's breadth, multiplied by yards
+of laser-melting track, you can easily estimate that each part
+contains miles and miles of tracks, hence, the big data.
+The recent successes with machine learning have used data
+that is already information-rich, as you've heard, cats, dogs,
+and so on. And so to advanced manufacturing and basic science,
+however, we have to find better ways to transform the data,
+stream into a big information stream.
+Another very important context is that education in all
+STEM subjects needs to include the use of advanced computing
+for data analysis and machine learning. And I know that this
+Committee has focused on expanding computer science education,
+so thank you for that.
+So for printing, please understand that the machines are
+highly functional and produce excellent results. Nevertheless,
+if we're going to be able to qualify these machines to produce
+reliable parts that can be used in, for example, commercial
+aviation, we've got some work to do.
+If I might ask for the video, Daniel, if you can manage to
+get that to play. So I'd like to illustrate the challenges in
+my own research.
+[Video shown.]
+Dr. Rollett. I often used the light sources, in other
+words, x-rays from synchrotrons, most of which are curated by
+the Department of Energy. I use several modes of
+experimentation such as computer topography, diffraction
+microscopy, and dynamic x-ray radiography. So this DXR
+technique produces movies of the melting of the powder layers
+exactly as it occurs in 3-D printing with the laser. And again,
+at the micrometer scale you can see about a millimeter there.
+And you can also see that the dynamic nature of the process
+means that one must capture this at the same rate as, say, the
+more familiar case of a bullet going through armor.
+Over the last couple of years, we've gotten many deep
+insights as to how the process works, but again, for the big-
+data aspect, each of these experiments lasts about a
+millisecond. That's about 500 times faster than you can blink.
+And it provides gigabytes of images, hence, the big data.
+Storing and transmitting such large amounts of data, which are
+arriving at ever-increasing rates, is a challenge for this
+vital public resource. I should say that the light sources
+themselves are well aware of this challenge. Giving more
+serious attention to such challenges requires funding agencies
+to adopt the right vision in terms of recognizing the need for
+fusion of data science with the specific applications.
+I also want to say that cybersecurity is widely understood
+to be an important problem with almost weekly stories about
+data leaks and hacking efforts. What's not quite so well
+understood is exactly how we're going to interface
+manufacturing with cybersecurity.
+So, in summary, I suggest that there are three areas of
+opportunity. First, federal agencies should continue to support
+the application of machine learning to advanced manufacturing,
+particularly for the qualification of new technologies and
+materials. I thank and commend all of my funders for supporting
+these advances and particularly want to call out the FAA for
+providing strong motivation here.
+In the future, research initiatives should also seize the
+potential for moonshot efforts on objectives such as
+integrating artificial intelligence capabilities directly into
+advanced manufacturing machines and advancing synergy between
+technologies such as additive manufacturing and robotics.
+Second, we need to continue to energize and revitalize STEM
+education at all levels to reflect the importance of the data
+in learning and computing with a focus on manufacturing. I
+myself have had to learn these things as I've gone along.
+Third, based on the evidence that machine learning is being
+successfully applied in many areas, we should encourage
+agencies to seek programs in areas where it's not so obvious
+how to apply the new tools and to instantiate programs in
+communities where data, machine learning, and advanced
+computing are not yet prevalent.
+Having traveled abroad extensively, I can assure you that
+the competition is serious. Countries that we used to dismiss
+out of hand, they're publishing more than we are and securing
+more patents than we do.
+Again, I thank you for the opportunity to testify and share
+my views on this vital subject. I know that we will all be glad
+to answer your questions.
+[The prepared statement of Dr. Rollett follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, Doctor. I now recognize myself
+for five minutes.
+This question is for all the witnesses. You've all used
+similar terminology in your testimonies like artificial
+intelligence, machine learning, and deep learning. So that we
+can all start off on the same page, I'll start with Dr.
+Kasthuri. But could you explain what these terms mean and how
+they relate to each other?
+In the interest of time, I'm going to divvy these up. Dr.
+Kasthuri, you take artificial intelligence. Dr. Yelick, you
+take machine learning. Dr. Nielsen, you take deep learning. All
+right? Doctor, you're up.
+Dr. Kasthuri. Thank you, Chairman Weber. That's an
+excellent question. In the interest of time I'm not going to
+speak about artificial intelligence. There are clearly experts
+sitting next to me. I'm interested in the idea of finding
+natural intelligence wherever we can, and I would say that the
+confusion that exists in these terminologies also exist when we
+think about intelligence beyond the artificial space. And I'm
+happy to--maybe perhaps after I let the other scientists speak
+to talk about how we define natural intelligence different
+ways, which might help elucidate the ways we define artificial
+intelligence.
+Chairman Weber. All right. Fair enough. Dr. Yelick, do you
+feel that monkey on your back?
+Dr. Yelick. Yes. Thank you very much for the question. So
+let me try to cover a little bit of all three. So artificial
+intelligence is a very long-standing subfield of computer
+science looking at how to make computers behave with humanlike
+behavior. And one of the most powerful techniques for some of
+the subproblems in artificial intelligence such as computer
+vision and speech processing are machine-learning algorithms.
+These algorithms have been around for a long time, but the
+availability of large amounts of labeled data and large amounts
+of computing have really made them take off in terms of being
+able to solve those artificial intelligence problems in certain
+ways.
+The specific type of machine learning is a broad class of
+algorithms that come from statistics and computer science, but
+the specific classes called deep learning algorithms, and I
+won't go into the details. I will defer that if somebody else
+wants to try to explain deep learning algorithms, but they are
+used for these particular breakthroughs in artificial
+intelligence.
+I would say that the popular press often equates the word
+artificial intelligence with the term deep learning because the
+algorithms have been so powerful, and so that can create some
+confusion.
+Chairman Weber. All right. Thank you. Dr. Nielsen?
+Dr. Nielsen. Yes, I'm not an expert in deep learning, but
+we are practitioners of deep learning at GE. And really it's
+taken off in, I would say, the last several years as we've seen
+a rise in big data. So we have nearly 300,000 assets spread
+globally and each one generating gigabytes of data. Now,
+processing that gigabytes of data and trying to make sense of
+it we're using deep learning techniques. It's a subfield, as
+you mentioned, of machine-learning algorithms but allows us to
+extract more information, more relationships if you will.
+So, for example, we use deep learning to help us build a
+computer model of a combined-cycle power plant, very complex
+system, very complex thermodynamics. And it's only because we
+have been able to collect now years and years of historical
+data and then process it through a deep-learning algorithm. So,
+for us, deep learning is a breakthrough enabled by advances in
+computing technology, advances in big-data science, and it's
+allowing us to build what we think is more complex models of
+not only our assets but the processes that they perform.
+Chairman Weber. And, Dr. Rollett, before you answer, you
+issued a warning quite frankly in your statement that there's
+been more patents filed by some of the foreign countries than
+we are. Do you attribute that to what we're talking about here?
+Go ahead.
+Dr. Rollett. In very simple terms, I think what I'm calling
+attention to is investment level in the science that underpins
+all kinds of things, so whether it be the biology of the brain,
+the functioning of the brain or how you make machines work, how
+you construct machines, control algorithms, so on, and so
+forth. That's really what I'm trying to get at.
+Chairman Weber. Okay.
+Dr. Rollett. And I'm trying to give you some support, some
+ammunition that what you're doing as a committee, set of
+Subcommittees is really worthwhile.
+Chairman Weber. Yes, well, thank you. I appreciate that.
+I'm going to move on to the second question. Several of you
+mentioned your reliance on DOE facilities, which is, again,
+what you're talking about, particularly light sources and
+supercomputing which we are focused on, have been to a couple
+of those for the types of big-data research that you all
+perform and my question is how necessary is it for the United
+States to keep up to date? You've already address that with the
+patents statement, a warning that you issued, but what I want
+to know is have any of you all--would you opine on who the
+nearest competitor is? And have you interfaced with any
+scientists or individuals from those companies? And if so, in
+what field and in what way? Doctor?
+Dr. Kasthuri. I would say that, internationally, sort of
+the nearest two competitors to us are Germany and China. And in
+general in the scientific world there is a tension between
+collaboration and competition independent of whether the
+scientist lives in America or doesn't live in America.
+I think the good news is that for us at least in
+neuroscience we realize that the scale of the problem is so
+enormous and has so much opportunity, there's plenty of food
+for everyone to eat. So right now, we live at the world of
+cooperation between individual scientists where we share data,
+share problems, and share solutions back and forth unless of
+course familiar with what happens at levels much higher than
+that.
+Chairman Weber. Thank you. Dr. Yelick?
+Dr. Yelick. Yes, in the area of high-performance computing
+I would say the closest competitor at this point is China. And
+in science we also like to look at derivatives, so what we
+really see is that China is growing very, very rapidly in terms
+of their leadership. At this point we do have the fastest
+computer and the top-500 list in the United States, but of
+course until recently that was the top two--the number-one and
+-three machines were from China. But perhaps more importantly
+than that there are actually more machines manufactured in
+China on that list than there are machines that are fractured
+in the United States, so there is a huge and growing interest,
+and certainly a lot of research, a lot of funding in China for
+artificial intelligence, machine learning, and all of that
+applied to science and other problems.
+Chairman Weber. Have you met with anybody from over in
+China involved in the field?
+Dr. Yelick. Yes. Last summer, I actually did a tour of all
+of the major supercomputing facilities in China, so I got to
+see what were the number-one and number-three machines at that
+time--and was very impressed by the scientists. I think one of
+the things that you see--and a lot of, by the way, very junior
+scientists, the students that they are training in these areas,
+they use these machines to also draw talent back to China from
+the United States or to keep talent that was trained in China
+in the United States. And they have very impressive people in
+terms of the computer scientists and computational scientists.
+Chairman Weber. And, Dr. Nielsen, very quickly because I'm
+out of time.
+Dr. Nielsen. Yes, I would just like to echo that, like Dr.
+Rollett, we follow publications and patents, and we're seeing a
+growing number from China, so I'd like to echo that just from
+that statement. We're seeing growing interest in the use of
+high-performance computing to go look at things like
+cybersecurity from China, so obviously, that's the number-one
+location we're looking at.
+Chairman Weber. Good. Thank you, Dr. Rollett. I'm happy to
+move on now. So I'm now going to recognize the gentlelady from
+Oregon for five minutes.
+Ms. Bonamici. Thank you very much, Mr. Chairman.
+What an impressive panel and what a great conversation and
+an important one.
+I represent northwest Oregon where Intel is developing the
+foundation for the first exascale machines. We know the
+potential of high-performance computing and all energy
+exploration, predicting climate weather, predictive and
+preventive medicine, emergency response, just a tremendous
+amount of potential. And we certainly recognize on this
+Committee that investment in exascale systems and high-
+performance computing is important for our economic
+competitiveness, national security, and many reasons.
+And we know--I also serve on the Education Committee, and I
+know that our country has some of the best scientists and
+programmers and engineers, but what really sets our country
+apart is entrepreneurs and innovation. And those
+characteristics require creative and critical thinking, which
+is fostered through a well-rounded education, including the
+arts.
+I don't think anyone on this Committee is going to be
+surprised to hear me mention the STEAM Caucus, which is--I'm
+cochairing with Representative Stefanik from New York, working
+on integrating arts and design into STEM, learning to educate
+innovators. We have out in Oregon this wonderful organization
+called Northwest Noggin, which is a collaboration of our
+medical school, Oregon Health Sciences University, Portland
+State University, Pacific Northwest College of Art, and the
+Regional Arts and Culture Council. And they go around exciting
+the public about ongoing taxpayer-supported neuroscience
+research. And they're doing great work and expanding the number
+of people who are interested in science and also communicating
+with all generations and all people about the benefits of
+science.
+So, Dr. Rollett, in your testimony you talked about the
+role of data analytics across manufacturing--the manufacturing
+sector. And you noted that it's not necessarily going to be
+important for all data analytic workers to have a computer
+science degree, so what skills are most important for
+addressing the opportunities? You did say in your testimony
+that technology forces us to think differently about how to
+make things, so talk about the next manufacturing center at
+Carnegie Mellon and what you're doing to prepare students for
+evolving fields? And we know as technology changes we need
+intellectual flexibility as well, so how do you educate people
+for that kind of work?
+Dr. Rollett. So thank you for the opportunity to address
+that. The way that we're approaching that is telling our
+students don't be afraid of these new techniques. Jump in, try
+them, and lo and behold, almost every time they're trying it--
+sometimes it's a struggle, but almost every time that they try
+it they're discovering, oh, this actually works. Even if it's
+not big data in quite the sense that, say, Kathy would tell us,
+even small data works.
+So, for example, in these powder bed machines you spread a
+layer. Well, if you just take a picture of that layer and then
+another picture and you keep analyzing it and you use these
+computer vision techniques, which are sort of a subset of
+machine learning, lo and behold, you can figure out whether
+your part is building properly or not. That's the kind of thing
+that we've got to transmit to all of our students to say it's
+not that bad, jump in and try it and little by little, you'll
+get there.
+Ms. Bonamici. I think over the years many students have
+been very risk-averse and they don't want to risk taking
+something where they might not get the best grade possible, so
+we have to work on overcoming that because there's so much
+potential out there until students have the opportunity to get
+in and have some of that hands-on learning.
+Dr. Yelick, I'm in the Northwest and it's not a question of
+if but when we have an earthquake off the Northwest coast, and
+a tsunami could be triggered of course by that earthquake along
+the Cascadia subduction zone. So in your testimony you discuss
+the research at Berkeley Lab to simulate a large magnitude
+earthquake, and I listened very carefully because you were
+talking about the effects on an identical building in different
+areas. This data could be really crucial as we are assessing
+the need for more resilient infrastructure not only in Oregon
+but across the country. So what technical challenges are you
+facing and sort of curating, sharing, and labeling and
+searching that data? And what support can the federal
+government provide to accelerate a resolution of these issues?
+Dr. Yelick. Well, thank you very much for the question.
+Yes, this is very exciting work that's going on, and simulating
+earthquakes is currently at a regional scale. There are
+technology challenges to trying to even get that to larger-
+scale simulations, but I think even more importantly the work
+that I talked about is trying to use information about the
+geology to try to give you much more precise information about
+the safety of a particular location.
+And the challenge is to try to collect this data and then
+to actually invert it, that is turn it into a model so you
+collect the data and then in some sense you're trying to
+develop a set of equations that say how that area--based on the
+data that's been collected from little tiny seismic events,
+it'll tell you something about how that particular subregion,
+even a yard or a city block or something like that, how that
+city block is going to behave in an earthquake. And you can use
+the information from tiny seismic events and then to infer how
+it will behave in a large significant earthquake. And so
+there's technical challenge, mathematical challenges of doing
+that, as well as the scale of computing for both doing the
+data, inverting the data but also then doing the simulation.
+And I think you bring up a very good point about the
+community needs for these community data sets because you
+really want to make it possible for many groups of people, not
+just, for example, a power company that has smart meter data
+but for other people to access that kind of data.
+Ms. Bonamici. Thank you. And I want to follow up with that.
+I'm running out of time, but as we talk about infrastructure
+and investment in infrastructure, we know that by making better
+decisions at the outset we can save lives and save property, so
+the more information we have about where we're building and how
+we're building is going to be a benefit to people across this
+country, as well as in northwest Oregon. So thank you again to
+this distinguished panel. I yield back.
+Chairman Weber. Thank you, ma'am.
+The gentlelady from Virginia, Mrs. Comstock, is recognized.
+Mrs. Comstock. Thank you, Mr. Chairman, and thank all of
+you here. This has been very interesting once again.
+Now, I guess I'd ask to all of you, what are the unexamined
+big-data challenges that could benefit from machine learning?
+And what are the consequences for the United States for not
+being the world leader in that if we aren't going forward in
+the future? Maybe, Dr. Rollett, if you'd like to start. You
+look like you had an answer ready to go, so----
+Dr. Rollett. I'll give you a small example from my own
+field. So when we deal with materials, then we have to look
+inside the materials. So we typically take a piece of steel and
+we cut it and we polish it and we take pictures of it. So
+traditionally, what we've done is play the expert witness as it
+were. You look at these pictures, which I often say resemble
+more of a Jackson Pollock painting than anything that remotely
+as a simple as a cat, and so the excitement in our field is
+that we now have the tools that we can start to tease things
+out of these pictures, that we go from something where we are
+completely dependent on sort of gray-bearded experts to let the
+computer do a lot of the job for you. And that speeds things up
+and it automates them and it allows companies to detect
+problems that they're running across. So it's just one example.
+Dr. Kasthuri. Congresswoman Comstock, thank you for the
+question. I have two sort of answers specifically to thinking
+about brains and then to thinking about education. I think
+these are the potential things that we can lose. One of the
+things that I find fascinating about how our brains work is
+that whether you are Einstein thinking up relativity or Mozart
+making a concerto or you're just at home watching reality TV,
+all brains operate at about 20 watts of energy. These light
+bulbs in this room are probably at 60 watts of energy. And
+although you might already think some of your colleagues are
+dim bulbs, in this sense, what's amazing about the things that
+they can accomplishes that they accomplish them at energy
+efficiencies that are currently unheard of for any type of
+algorithm.
+So I feel like if we can leverage machine learning, deep
+analytics, and understand how the brain passes information and
+processes information for energies that are really energy
+efficiencies unheard of in our current algorithms and robots,
+that's a huge benefit to both the national and economic
+securities of our country. That's the first.
+And the second thing I'd like to add, the other reason that
+it's important for us to lead now--and I'll do it by example--
+is that in 1962 at Rice University John F. Kennedy announced
+that we were going to the moon. And he announced it and in his
+speech he said we're going to go to the moon--and I
+paraphrase--not because it's easy but because it's hard and
+because hard things test our mettle and test our capabilities.
+The other interesting fact about that is that in 1969 when
+we landed on the moon, the average age of a NASA scientist was
+29 years old, so quick math suggests that when Kennedy
+announced the moonshot, many of these people were in college.
+They were students. And there was something inspirational about
+positing something difficult, positing something visionary. And
+I suspect that this has benefited us--in recruiting this
+generation of scientists to the moonshot has benefited this
+country in ways that we yet haven't calculated. And I suspect
+that if we don't move now, we lose both of these opportunities,
+among many others.
+Mrs. Comstock. So it's really a matter of getting that
+focus and attention and commitment so that you have that next
+generation understanding this is really a long-term investment,
+and we have a passion for it, so they will.
+Dr. Kasthuri. Exactly.
+Dr. Yelick. I'll just add briefly that I think we really
+want to--in terms of the threat associated with this is really
+about continuing to be a leader in computing but also about the
+control and use of information. And you can see the kinds of
+examples we've given are really important, and you hear about
+it in the news about the control and use of information. We
+need leaders in understanding how to do that and make sure that
+information is used wisely.
+We teach our freshmen at Berkeley a course in data science,
+so whether they're going to go off and become English majors or
+art majors or engineers, we think it's really important for
+people to understand data.
+Dr. Nielsen. And just real briefly, I'd like to build a
+little bit on Dr. Rollett's comments. For us, we're seeing
+tremendous benefit in big data for things like trying to better
+predict when an aircraft engine part has to be repaired, when
+it needs to be inspected, very critical for the safety of that
+engine. For gas turbines, same thing. Wind parts need to be
+inspected and repaired.
+So where does big data come in? It comes in with
+computational fluid dynamics, which we leverage--actually, the
+high-performance computing infrastructure of the United States
+materials science, material knowledge, trying to understand
+grain structure, et cetera. So for us, that nexus of the
+digital technologies with the physics, understanding the
+thermodynamics of our assets are leading us into what I think
+is just a better place to be from maintenance scheduling,
+safety, resiliency, et cetera.
+Mrs. Comstock. Thank you. I really appreciate all of your
+answers.
+I yield back, Mr. Chairman.
+Chairman Weber. The gentleman from Virginia, Mr. Beyer, is
+recognized for five minutes.
+Mr. Beyer. Mr. Chairman, thank you very much, and thank you
+all very much for doing this.
+Dr. Kasthuri, so on the BRAIN Initiative I think obviously
+the most--maybe the most exciting thing happening in the world
+today, I was fascinated by this whole notion of the Connectome,
+1 billion neurons with 1 quadrillion connections, you talk
+about it being if you took--of all the written material in the
+world into one data set, it'd just be a small fraction of the
+size of this brain map. Is it possible that it's simpler than
+that, that it sort of strains my understanding that there are
+few things in nature that are as complex as that. Why in
+evolution have we developed something that--and every human
+being on the planet has a brain that's already--contains more
+connections than every bit of written material?
+Dr. Kasthuri. Congressman Beyer, that's a great question,
+and like most scientists I'm going to do a little bit of
+handwaving and a little bit of conjecture because the question
+that you're asking is the question that we are trying to
+accomplish. We know reasonably well that there are, as you
+said, 100 billion brain cells, neurons, that make on order 1
+quadrillion connections in the brain. Now, that--when I say the
+data of that, I'm really talking about the raw image data. What
+will it take to take a picture of every part of the brain and
+if you added up all the data of all those pictures together, it
+would be the largest data set ever collected.
+Now, I suspect we have to do that at least once and then it
+might be possible that there are patterns within that data that
+then simplify the next time that we have to map your brain. One
+way to think about this is that before we had a map of DNA, we
+didn't realize that there was a pattern within DNA, meaning
+every three nucleotides--A, C, T, et cetera--codes for a
+protein. And that essentially simplifies the data structure to,
+let's say, 1/3. I don't need to know, I just need to know that
+these three things are an internal pattern that then gets
+repeated again and again and again. And that was a fundamental
+insight. We have no similar insight into the brain. Is there a
+repetitive pattern that would actually reduce the amount of
+data that we had to collect?
+So, you're right, it might be that the second brain or the
+third brain isn't going to be that much data, but now let me
+give you the counter because as a scientist I have to do both
+sides or all sides. The other thing we know is that each human
+brain is unique, very much like a snowflake. Your brain, the
+connectivity, the connections in your brain at some level have
+to represent your life history, what your brain has
+experienced.
+And so the question for me--and I think it's really one of
+the most important questions--is even within the snowflake
+there are things that are unique to snowflakes but they're the
+same. They either have seven arms are eight arms or six arms. I
+get them confused with spiders, but it's one of those is the
+answer. So there's regularity in a snowflake at the level of
+the arms, but there is uniqueness at the level of the things
+that jut out of the seven arms of the snowflake. And the
+fundamental question is what is unique, what is the part that
+makes each of us a neurological snowflake and what is common
+between all of us? And that would be one of the very first
+goals of doing a map is to discover the answer to your
+question.
+Mr. Beyer. Yes, well, thank you for a very thoughtful
+answer. And I keep coming back to the Einstein notion that
+always looking for the simplest answers, things that unify it
+altogether. So here's another simple question. You talked in
+your very first paragraph about reverse engineering human
+cognition into our computers, good idea? At our most recent AI
+hearing here a lot of the controversy was, you know, dealing
+with Elon Musk and others and their concerns about what happens
+when consciousness emerges in machines.
+Dr. Kasthuri. Again, a fantastic question. Here's my
+version of an answer. We deal with smarter things every day.
+Many of our children, especially mine, wind up getting
+consciousness and being smarter than us, certainly smarter than
+me, but yet we don't worry about the fact that this next
+generation of children, forever the next generation of children
+will always be smarter than us because we've developed ways as
+a society to instill in them the value systems that we have.
+And there are multiple avenues for how we can instill in our
+children the value systems that we have.
+I suspect we might use the same things when we make smart
+algorithms, the same way we make smart children. We won't just
+produce smart algorithms but we'll instill in them the values
+that we have the same way that we instill our values in our
+children.
+Now, that didn't answer your question of whether reverse
+engineering the brain is a specific good idea for AI or not.
+The only thing I would say is that no matter what we can
+imagine AI--artificial intelligence doing, there is a
+biological system that does that at more energy efficiency and
+its speed for which that AI physical silicon system does not.
+But I suspect these answers are probably best debated amongst
+you and then you could tell us.
+Mr. Beyer. Well, that was a very optimistic thing. I want
+to say one of the things we do is we keep the car keys in those
+circumstances.
+Mr. Chairman, I yield back.
+Chairman Weber. Thank you. The gentleman from Kansas is
+recognized for five minutes.
+Mr. Marshall. Well, thank you, Mr. Chairman.
+Speaking of Kansas, I'm sure you all remember President
+Eisenhower is the one who started NASA in 1958, but it was
+President Kennedy, as several of you have stated, that, you
+know, gave us the definitive goal to get to the moon. And as a
+young boy I saw that before my eyes, the whole country wrapped
+around that.
+Each of you get one minute. What's your big, hairy,
+audacious goal, your idea, it took 11 years, '58 to '69 to get
+to the Moon. Where are we going to be in 11 years? Dr. Rollett,
+we'll start with you and you each get one minute.
+Dr. Rollett. I think we're going to see that manufacturing
+is a much more clever operation. It understands the materials.
+It understands how things are going to last, and it draws in a
+much wider set of disciplines than it currently does. I have to
+admit I don't exactly have an analogy to going to the moon, but
+that's a very good challenge.
+Mr. Marshall. What I like about your idea is that's going
+to add to the GDP. Our GDP grows when we become more efficient,
+not when federal government sends dollars to States for social
+projects, so I love adding to GDP.
+Dr. Nielsen, I guess you're next.
+Dr. Nielsen. So I would love it if every one of our
+assets--and I mentioned there are about 300,000 globally--had
+their own digital twin, so every aircraft engine had its own
+digital twin. A digital twin is a computer model that when the
+asset is operating, we're collecting data. So imagine an
+aircraft engine taking off. As soon as that aircraft engine
+takes off, we pull the data back from the aircraft engine and
+we update the computer model. That computer model becomes a
+digital twin of the physical asset. If every one of our
+300,000-plus assets had a digital twin, we'd be able to know
+with very good precision when it needed to be maintained, when
+it needed to be pulled off wing, what kind of repairs when it
+went to a repair shop, what kind of repairs need to occur.
+Mr. Marshall. You can do that with satellites and a whole
+bunch of things.
+Dr. Nielsen. We can pull back data from a whole variety of
+different pathways. It's then utilizing that data in the most
+efficient way, which we use machine learning and AI-type
+technologies----
+Mr. Marshall. Maybe get internet to rural places by doing
+that, right?
+Dr. Nielsen. Yes.
+Mr. Marshall. Okay. We better go on. Dr. Yelick?
+Dr. Yelick. So I think one of the biggest challenges is
+understanding the microbiome and being able to use that
+information about the microbiome in both health applications
+and agriculture, in engineering, materials, and other areas.
+So I think that we already know that your microbiome, your
+own personal microbiome is associated with things like obesity,
+diabetes, cardiovascular disease, and many other disorders. We
+don't understand it as well in agriculture, but we're looking
+at things like taking images of fields, putting biosensors into
+the fields and putting all this information together to
+understand how to make--to improve the microbiome to improve
+crop yield and reduce other problems. So I think it's about
+both understanding and controlling the microbiome, which is a
+huge computational problem.
+Mr. Marshall. Okay. Dr. Kasthuri?
+Dr. Kasthuri. The thing I would really like to have done in
+11 years is understand how brains learn. And actually it
+reminds me of something that I should've said earlier about the
+differences between artificial intelligence, machine learning,
+deep learning, and how brains learn. The main difference is
+that for many of these algorithms you have to provide them
+thousands of examples, millions of examples, billions of
+examples before they can then produce inferences or predictions
+that are based on those examples.
+For those of you with children, you know that that's not
+the way children learn. They can learn in one example. They can
+learn in half an example. Sometimes I don't even know where
+they're learning these things. And when they learn something,
+they learn not only the very specific details of that thing,
+they can immediately abstract it to a bunch of other examples.
+For me, this happened with my son the first time he learned
+what a tiger was. An image of a tiger he could see, and then as
+soon as he learned that, he could see a cartoon of a tiger, he
+could see a tiger upside down, he could see the back of a tiger
+or the side of a tiger, and from the first example be able to
+infer, learn all of these other general applications.
+If in 11 years we could understand how the brain does that
+and then reverse engineer that into our algorithms and our
+computers and robots, I suspect that will influence our GDP in
+ways that we hadn't yet imagined.
+Mr. Marshall. Okay. Thank you so much. I yield back.
+Chairman Weber. I thank the gentleman.
+The gentleman from the great State of Texas is recognized.
+Mr. Veasey. Thank you, Mr. Chairman.
+Dr. Rollett, am I pronouncing that right?
+Dr. Rollett. It'll do.
+Mr. Veasey. Okay. In your testimony you talk about the huge
+amounts of data that are generated by experiments using light
+sources to examine the processes involved in additive
+manufacturing. You also highlight the need for more advanced
+computing algorithms to help researchers extract information
+from this data. And you state that we are essentially building
+the infrastructure for digital engineering and manufacturing. I
+was hoping that you'd be able to expand on that a little bit
+and tell us also what are the necessary components of such
+infrastructure.
+Dr. Rollett. Right. So one of the things that I didn't have
+time to talk about is where does the data go? And so, you know,
+one's generating terabytes, the standard story is you go to a
+light source, you do an experiment, all of that data has to go
+on disk drives, and then you literally carry the disk drives
+back home. So despite the substantial investments in the
+internet and the data pipe so to speak, from the perspective of
+an experiment, it's still somewhat clumsy. So even that
+infrastructure could do with some attention.
+It's also the case that the algorithms that exist have been
+developed for a fairly specialized set of applications. So, you
+know, the deep-learning methods, they exist, and what we're
+doing at the moment is basically borrowing them and applying
+them everywhere that we can. But, in other words, we haven't
+gone very far with developing the specialized techniques or the
+specialized applications.
+So even that little movie that I showed, to be honest, I
+mean, the furthest that we've got is doing very basic analysis
+so far, and we actually need cleverer, more sophisticated
+algorithms to analyze all of that information that's latent in
+those images. I know that sounds like I'm not doing my job,
+but, I'm just trying to get some idea across of the challenges
+of taking techniques that have been worked up and then taking
+them to a completely different domain and doing something
+worthwhile.
+Mr. Veasey. I was also hoping that you'd be able to
+describe the progress your group has made in teaching computers
+to recognize different kinds of metal power--powders using----
+Dr. Rollett. Powders.
+Mr. Veasey. --additive manufacturing. I think that you----
+Dr. Rollett. Right.
+Mr. Veasey. --go on to say that these successes have the
+potential to impact improvements to materials, as well as the
+generation of new materials. And I hope--was hoping you could
+talk about that a little bit more and for the ability of a
+computer to recognize different types of metal and improvements
+to materials and how that can impact the development of new
+materials.
+Dr. Rollett. So thank you for the question. So I was trying
+to think of a powder--I mean, think of talcum powder or
+something like that. You spread some on a piece of paper and
+you look at it and you think, well, that powder looks much like
+any other powder. It looks like something you would use in the
+garden or whatever. So the point I'm trying to get across is
+that when you take these pictures of these materials, one
+material looks much like another. However, when you take
+pictures with enough resolution and you allow these machine-
+learning algorithms to work on them, then what you discover is
+they can see differences that no human can see.
+So it turns out that you can use the computer to
+distinguish powders from different sources, different
+materials, so on and so forth. And that's pretty magic. That
+means that you can again, if you're a company and you're using
+these powders, you can detect whether you've got--you know, if
+somebody's giving you what's supposed to be the same powder,
+you can analyze it and say, no, it's not the same powder after
+all. So there's considerable power in that.
+Another example is things break, they fracture, and you
+might be surprised, but there's quite a substantial business in
+analyzing failures. You know, bicycles break and somebody has
+to absorb the liability. Bridges crack; somebody has to deal
+with that. Well, that's another case where the people involved
+look at pictures of these fracture surfaces and they make
+expert judgments.
+So one of the things we're discovering is that we can
+actually, again, use some of the computer vision techniques to
+figure out if this fracture is a different kind of fracture or
+this is a different fatigue failure that's occurred. Again,
+it's magic. It opens up--not eliminating the expert, not at
+all. The analogy is with radiography on cancers. It's helping
+the experts to do a better job, to do a faster job, to be able
+to help the people that they're working for.
+Mr. Veasey. Thank you very much. I appreciate that.
+And, Mr. Chairman, I yield back.
+Chairman Weber. Thank you, sir.
+The gentlelady from Arizona is now recognized.
+Mrs. Lesko. Thank you, Mr. Chairman.
+I have to say this Committee is really interesting. I learn
+about all types of things and people studying the brains. I
+think we're going to hear about flying cars sometime soon,
+which is exciting. I'm from Arizona, and the issues that are
+really big in my district, which are the suburbs of Phoenix
+mostly, are actually national security and border security. And
+we have two border ports of entry connecting Mexico and
+Arizona, and I have the Luke Air Force Base in my Congressional
+district. And so I was wondering if you had any ideas how
+machine learning, artificial intelligence are being used in
+border security and national security. If you have any
+thoughts?
+Dr. Yelick. Well, I can say generally speaking that in
+national security, like in science, you're often looking for
+some signal, some pattern in very noisy data. So whether you're
+looking at telephones or you're looking at some other kind of
+collected information, you are looking for patterns. And
+machine learning is certainly used in that.
+I'm not aware in border security of the current
+applications of machine learning. I would think that things
+like face-recognition software would probably be useful there,
+and I just don't know of the current applications.
+Dr. Nielsen. So I know some of the colleagues at our
+research center are exploring things like security, using
+facial recognition but trying to take it a step further, so
+using principles of machine learning, et cetera, trying to
+detect the intent of a person. So they'll use computer vision,
+they'll watch a group of individuals but try to infer, make
+inferences about the intent of what that group is doing. Is
+there something going to happen? Who is in charge of this
+group? What are they trying to do?
+And they're working with the Department of Defense on many
+of these applications. And I think there's going to be
+tremendous breakthroughs where artificial intelligence and
+machine learning are going to help us not only recognize people
+but also trying now to recognize the intent of what that person
+is trying to do.
+Dr. Rollett. And you mentioned an Air Force Base, so
+something that maybe not everybody's aware of is that the
+military operates very old vehicles, and they have to repair
+and replace a lot. And that means that manufacturing is not
+just a matter of delivering a new aircraft; it's also a matter
+of how you keep old aircraft going. I mean, think of the B-52s
+and how old they are.
+And so there are very important defense applications for
+machine learning, for manufacturing, and manufacturing in the
+repair-and-replace sense. And again, when you're running old
+vehicles, you're very concerned about outliers, which hasn't
+come up very much so far today, but taking data and recognizing
+where you've got a case that's just not in the cloud, it's not
+in with everybody else and figuring out what that means and how
+you're going to deal with it.
+Mrs. Lesko. Anyone else? There's one person left.
+Dr. Kasthuri. Of course, yes. It's me. So of course my work
+doesn't deal directly with either border security or national
+security, but just to echo one other sentiment, one of the
+things I'm interested in is that, as our cameras get faster,
+instead of taking 30 shots per second, we can now take 60 shots
+per second, 90 shots per second, 120 frames per second usually,
+and you start watching people's facial features as they are
+just engaging in normal life. It turns out that we produce a
+lot of microfacial features that happen so fast and so quick
+that they often aren't detected consciously by each other but
+convey a tremendous amount of information about things like
+intent and et cetera.
+I suspect that, as our technology, as our cameras get
+better and of course if you take 120 pictures in a second
+versus 30 pictures in a second, that's already four times more
+data that you're collecting per second. If we can deal with the
+data and get better cameras, we will actually be making
+inferences about intentions sooner rather than later.
+Mrs. Lesko. Very interesting. I'm glad that you all work in
+these different fields.
+And I yield back my time, Mr. Chairman.
+Chairman Weber. Thank you, ma'am.
+The gentleman from Illinois, Mr. Foster, is recognized.
+Mr. Foster. Thank you, Mr. Chairman. And thank you to our
+witnesses.
+And, let's see, I guess I'll start with some hometown
+cheerleading for Argonne National Lab, which--and I find it
+quite remarkable. Argonne lab has been--they've come out to
+events that we've had in my district dealing with the opioid
+crisis, I find it incredible that one single laboratory--we
+have everything from using the advanced photon source and its
+upgrades to directly image what are called G-coupled protein
+receptors at the very heart of the chemical interaction with
+the brain all the way up through modeling the high-level
+function of the brain, the Connectome, and everything in
+between. And it's really one of the magic things that happens
+at Argonne and at all of the--particularly the multipurpose
+laboratories, which are really gems of our country.
+Now, one thing I'd like to talk about--and it relates to
+big data and superconducting--is that you have to make a bunch
+of technological bets in a situation where the technology is
+changing really, really rapidly. You know, for example, you
+have the choice of--for the data pipes, you can do
+conventional, very wide floating point things for partial
+differential equations and equations of state, things like
+that, the way supercomputing has been done for years, and yet
+there's a lot of movement for artificial intelligence toward
+much narrower data paths, you know, 8 bits or even less or 1
+bit if you're talking about simulating the brain firing or not.
+You know, you have questions on the storage where you can
+have--classically, we have huge external data sets, you know,
+like the full geometry of the brain that you will then use
+supercomputing to extract the Connectome. Or now we're seeing
+more and more internally generated data sets like these are
+games playing each other where you just generate the data,
+throw it away. You don't care about storage at all. Or
+simulation of billions of miles of driving where that data
+never has to be stored at all, and so that really affects the
+high-level design of these machines.
+In Congress, we have to commit to projects, you know, on a
+sort of five-year time cycle when every six months there are
+new disruptive things. We have to decide are these largely
+going to be front ends to quantum computing or not? And so how
+do you deal with that sort of, you know, internally in your
+planning? And should we move more toward the commercial model
+of move fast, take risks, and break things, or do we have--are
+our projects that we have to approve in Congress things that
+have to have no chance of failing? And do you think Congress is
+too far on one side or the other of that tradeoff?
+Dr. Yelick. I guess as a computer scientist maybe I'll
+start here and I would say that you've asked a very good
+question. I think this issue of risk and technology is very
+important, and we do need to take lots of risks and try lots of
+things, especially right now as not only are processors not
+getting any faster because of the end of Dennard scaling, but
+we're facing the end of Moore's law, which is the end of
+transistors getting denser on a chip. And we really need to try
+a number of different things, including quantum, neuromorphic
+computing, and others.
+The issue of even the design of computers, if we look at
+the exascale computing program, very important. Of course, the
+first machine targeted for Argonne National Lab is in 2021, and
+the process that is really fundamental to the exascale project
+is this idea of codesign, that is, bringing together people who
+understand the applications like Tony and with the people that
+understand the applied mathematics, and people that understand
+the computer architecture design.
+And the exascale program is looking at both applying
+machine-learning algorithms for things like the Cancer
+Initiative, as well as the microbiome where you also have these
+very tiny datatypes, only four characters that you can store in
+maybe two bits, and putting all of that together. So those
+machines are being codesigned to try to understand all those
+different applications and work well on the traditional high-
+performance simulation applications, as well as some of these
+new data-analysis problems.
+To answer your question directly, I think that, if
+anything, that project is very focused on that goal of 2021,
+and some other machines will come after that in '22 and '23.
+And the application--so it's not just about delivering the
+machines; it's about delivering 25 applications that are all
+being developed at the same time to run on those machines.
+It is a very exciting project. I actually lead the
+microbiome project in exascale, and I think it's a great amount
+of fun. But it is a project that doesn't have much room for
+risk or basic research, and so I do think it's very important
+to rebuild the fundamental research program, for example, the
+Department of Energy to make sure that ten years from now we
+could have some other kind of future program that we would have
+the people that are trained in order to answer those basic
+questions and figure out how to build another computing device
+of some kind.
+Mr. Foster. Well, yes, thank you. That was a very
+comprehensive answer. But if you could just in my last one
+second here just sort of--do you think Congress is being too
+risk-averse in our expectations or, you know, should we be more
+risk-tolerant that allow you occasionally to fail because you
+made a technological bet that is--you know, that has not come
+through?
+Dr. Yelick. You know, I think I'll answer that from the
+science perspective. As a scientist, I absolutely want to be
+able to take risks and I want to be able to fail. I think the
+Congressional question I will leave to you to debate.
+Mr. Foster. Thank you. I yield back.
+Chairman Weber. Thank you.
+The gentleman from California, Mr. Rohrabacher, is
+recognized.
+Mr. Rohrabacher. Thank you very much, Mr. Chairman.
+I wanted to get into some basics here. This is for the
+whole panel. Who's going to be put out of work because of the
+changes that you see coming as we do what's necessary to fully
+understand what you're doing scientifically? Who's going to be
+put out of work?
+Dr. Rollett. I hope very much that nobody's going to be put
+out of work.
+Mr. Rohrabacher. Oh, you've got to be kidding. I mean,
+whenever there's a change for the better, I mean, otherwise,
+we'd have people working in----
+Buggy whips would still be----
+Dr. Rollett. Yes. I think the point here is to sustain
+American industry at its most sophisticated and competitive
+level.
+Mr. Rohrabacher. What professions are going to be losing
+jobs? You're making me--I mean, everybody's afraid to say that.
+Come on, you know?
+Dr. Rollett. I would say they've mostly been lost. I mean,
+if you look at steel mills, we have steel mills. They used to
+run with 30,000 people.
+Mr. Rohrabacher. Right.
+Dr. Rollett. That's why the population of Pittsburgh was so
+large years ago, right? It's decreased enormously----
+Mr. Rohrabacher. Okay. Well, where can we expect that in
+the future from this new technology or this new understanding
+of technology? Anybody want to tell me?
+Dr. Kasthuri. I have a very quick----
+Mr. Rohrabacher. Don't be afraid now.
+Dr. Kasthuri. I have a very quick answer. Historically, a
+lot of science is done on getting relatively cheap labor to
+produce data and to analyze data, by that I mean graduate
+students, postdoctoral fellows, young assistant professors, et
+cetera. I suspect----
+Mr. Rohrabacher. So they're not going to be needed
+probably?
+Dr. Kasthuri. Well, I suspect that they should still be
+trained but then perhaps that they won't be used specifically
+in just laboriously collecting data and analyzing data.
+Mr. Rohrabacher. Okay. So let's go through that. Where are
+the new jobs going to be created? What new jobs will be created
+by the advances that you're advocating and want us to focus
+some resources on?
+Dr. Kasthuri. I'm hoping that when the people who are
+trained in science no longer have to do all of that work, they
+do--they then expand into other fields that could use
+scientific education like the legal system or Congress.
+Mr. Rohrabacher. But what specifically can we look at, say,
+that will remind Congressmen always to turn off the ringer even
+when it's their wife? Now, I'm in big trouble, okay? Tell me--
+so, what jobs are going to be created? What can we expect from
+what your research is in the future? Do you have a specific job
+that you can say this--we're going to be able to do this, and
+thus, people will have a job doing it?
+Dr. Yelick. Well, I think there will be a lot more jobs in
+big data and data analysis and things like that and more
+interesting jobs I think going along with what was already
+said, that it's really about replacing--so if we replace taxi
+drivers with self-driving cars that eliminates a certain class
+of jobs but it'll----
+Mr. Rohrabacher. Okay. Well, there you go.
+Dr. Yelick. Right, but it allows people to then spend their
+time doing something more interesting such as perhaps analyzing
+the future of the transportation system and things like that.
+Mr. Rohrabacher. Well, but taxicab driver--finally, I got
+somebody to admit somebody's going to be hurt and going to have
+to change their life. And let me just note that happens with
+every bit of progress. Some people are left out and they have
+to form new type of lifestyles, and we need to understand that.
+Maybe we need to prepare for it as we move forward.
+What diseases do you think that--especially when we're
+talking about controlling things that are going on in the human
+mind, what diseases do you think that we can bring under
+control that are out of control now? Diabetes, obviously has
+something to do with the brain is telling the body what to do,
+different--maybe even cancer? What diseases do you think that
+we can have a chance of curing with this?
+Dr. Kasthuri. I think there's a range of neurological
+diseases that obviously we'll be able to do a better job curing
+or ameliorating once we understand the brain. These range from
+neurodegenerative diseases like Alzheimer's and Parkinson's to
+more mental illness, psychiatric illnesses and to even early
+developmental diseases like autism. I think all of these will
+absolutely be benefited by a better understanding----
+Mr. Rohrabacher. Then if we can control the way the brain
+is functioning, the maladies that you're suffering like I say
+diabetes and et cetera, that maybe we can tell the brain not to
+do that and once we have that deeper understanding.
+One last question. I got just a couple seconds. I remember
+2001 Hal got out of control and tried to kill these people. And
+Elon Musk is warning us. I understand somebody's already
+brought that up. But if we do end up with very independent-
+minded robots, which is what I think we're talking about here,
+why shouldn't we think of that as a potential danger, as well
+as a potential asset? I mean, Elon Musk is right in that.
+Dr. Rollett. Well, I was going to throw in that I think one
+opportunity would be in health care and for example, the use of
+robots as assistants, so not replacing people but having robots
+help them. Well, those robots have to be programmed, they have
+to be built.
+Mr. Rohrabacher. Right.
+Dr. Rollett. I mean, there's a huge infrastructure that we
+don't have.
+Mr. Rohrabacher. Yes, but if you were building robots that
+can think independently, who knows--you know, and they're
+helping us in the hospitals or wherever it is, what if Hal gets
+out of control?
+Dr. Rollett. Right, right. So I think AI is being discussed
+mostly in the context of how do you do something? How do you
+make something work? When it comes to what these machines
+actually do, you also need supervision. And what I think we
+have to do is to build in AI that addresses control and
+evaluation, you know, the equivalent of the little guy on your
+shoulder saying don't do that; you're going to get into
+trouble. So you need something like that, which I haven't heard
+people talk about much.
+Mr. Rohrabacher. Okay. Well, thank you very much, Mr.
+Chairman. I yield back.
+Chairman Weber. You've been watching too many
+Schwarzenegger films.
+Mr. Rohrabacher. That's true.
+Chairman Weber. The gentleman yields back and, Mr.
+McNerney, you're recognized for five minutes.
+Mr. McNerney. I thank the Chairman. And I apologize to the
+panel for having to step in and out in the hearing so far.
+Mr. Nielsen, I'm a former wind engineer. I spent about 20
+years in the business. And I understand that the digital twin
+technology has allowed GE to produce--to increase production by
+about 20 percent. Is that right?
+Dr. Nielsen. About five percent on an average wind turbine,
+yes.
+Mr. McNerney. Five percent?
+Dr. Nielsen. Five percent, which is pretty amazing when you
+think we're not switching any of the hardware. It's just making
+that control system on a wind turbine much smarter using a----
+Mr. McNerney. And five percent is believable.
+Dr. Nielsen. Five percent----
+Mr. McNerney. Twenty percent for the wind farm----
+Dr. Nielsen. No--yes, it's five percent for----
+Mr. McNerney. Okay. Okay. I can believe that. As Chair of
+the Grid Innovation Caucus, I'm particularly interested in
+using new technology to create a smarter grid. We have things
+like the duck curve that are affecting the grid. How can all
+this technology improve grid stability and reliability and
+efficiency and so on?
+Dr. Nielsen. Yes, so we're now embarking on research for
+understanding how to better integrate disparate power sources
+together in regional, so imagine us trying to use AI machine
+learning, say, okay, I have a single combined-cycle power
+plant. How do I better optimize the efficiency of it, produce
+less emissions, use less fuel, allow more profit from it? But
+we're taking that now a step further and saying how do I then
+look regionally and integrating not only that combined-cycle
+power plant but the solar farm, the wind farm, et cetera? How
+do I balance that and optimize at a grid-scale level versus
+just a microscale level?
+So that's some of the research that's ongoing now. We're
+continuing to work on it. But that's our plan is to better
+figure out that macroscale optimization problem.
+Mr. McNerney. So, I mean, once you get that figured out,
+then you need to have some sort of a SCADA or control system
+that can dispatch and----
+Dr. Nielsen. Yes, correct.
+Mr. McNerney. Okay. So that's another product for GE or for
+the other----
+Dr. Nielsen. Yes. Correct.
+Mr. McNerney. Okay.
+Dr. Nielsen. We're figuring out how to not only build those
+optimization routines but how to then put them in what we call
+edge devices, the SCADA systems, the----
+Mr. McNerney. Sure.
+Dr. Nielsen. --unit control systems, et cetera. So it's not
+only trying to figure out the algorithm but making sure that
+algorithm can execute in a timescale that can be put into some
+of these, as you mentioned, SCADA systems and control systems.
+Mr. McNerney. Okay. Well, with the digital ghost, the--a
+power plant can replicate an industrial system and the
+component parts for cyber vulnerability. Is that right?
+Dr. Nielsen. So we use digital ghost at what we call the
+cyber physical layer. So imagine having a digital twin of a gas
+turbine. So that digital twin tells us how that gas turbine is
+behaving and should behave. We then compare to what signal is
+being generated, what sensors are being--signal's been
+generated, and we compare that behavior and say that behavior
+doesn't look right. Our digital twin says something's not
+correct. The thermodynamics aren't correct.
+Mr. McNerney. Well, I mean, I can see that for mechanical--
+--
+Dr. Nielsen. Yes.
+Mr. McNerney. --systems. What about cyber?
+Dr. Nielsen. So what we're doing is we're not applying it
+at sort of the network layer. We're not watching network
+traffic. We're actually looking at the machine level and
+understanding if the machine is behaving as it should be given
+the inputs, the control signals, as well as the outputs, the
+sensors, et cetera. Some recent attacks look at replicating
+sensors----
+Mr. McNerney. So the same sort of behavior characteristics
+are going to be monitored--can tell you whether or not there's
+a cyber issue or some other sort of mechanical failure----
+Dr. Nielsen. Yes.
+Mr. McNerney. --impending?
+Dr. Nielsen. Perfect. It's a----
+Mr. McNerney. Very good.
+Dr. Nielsen. It's an anomaly detection scheme, yes.
+Mr. McNerney. Dr. Yelick, thank you for coming. And I
+visited your lab a number of times. It's always a pleasure to
+do so. I think you guys are doing some really good work out
+there.
+One of the things that was striking was the work you did on
+exascale computing, simulating a San Francisco earthquake and
+how striking that is. Do you think we have the collective use--
+have we collectively used this information to harden our
+systems, to harden our communities against an earthquake, or is
+that something that is yet to happen?
+Dr. Yelick. That's something that is yet to happen. We're
+just starting to see some of this very detailed information
+coming from the simulations. And as I mentioned earlier, even
+bringing in more detailed data into the simulations to give you
+better geological information about the stability of a certain
+region or even a certain local area, a city block or whatever,
+and using that information is not something that is happening
+yet but obviously should be.
+Mr. McNerney. This is sort of a rhetorical question but
+somebody can answer it if you feel like. I know we hear about
+the social challenges of digital technology and AI and big
+data, you know, in terms of job displacement. Does AI tell us
+anything about that, about how we should respond to this
+crisis?
+Dr. Yelick. I don't know of any studies that have used AI
+to do that. People do use AI to understand the market,
+economics, and things like that, and I'm sure that people are
+using large-scale data analytics of various kinds, and they
+certainly are to understand changes in jobs and what will
+happen with them.
+It is, by the way, a very active area of discussion within
+the computer science community about both the ethics, which you
+heard about I think at previous hearing of AI, but also the
+issues of replacing jobs.
+Mr. McNerney. Sure. Dr. Rollett?
+Dr. Rollett. If I might jump in, I would encourage you to
+think about supporting research in policy and even social
+science to address that issue because AI displacing people is
+about education, it's about retraining, it's about how people
+behave. So we scientists are really at sort of the front end of
+this, but there's a lot of implications that are much broader
+than what we've talked about this morning.
+Mr. McNerney. All right. Thank you. Mr. Chairman, I yield
+back.
+Chairman Weber. Thank you, sir.
+The gentleman from Florida, Dr. Dunn, is recognized.
+Mr. Dunn. Thank you very much, Chairman Weber.
+And I want to add my thank you to the panel and underscore
+my personal belief in how important all of your work is. I've
+visited Dr. Bobby Kasthuri's lab, a great fan of your work and
+your energy level. Dr. Yelick, we'll be visiting you in the
+near future, so that'll be fun, too.
+I want to focus on the niche in big computing, which is
+artificial intelligence, and I apologize I missed that hearing
+earlier, but it was near and dear to my heart.
+I think we all see many potential benefits of artificial
+intelligence, but there are some potential problems, and I
+think it serves us to face those as we're having this virtual
+lovefest for artificial intelligence. You know, and we've known
+this since at least the '60s. I mean, the Isaac Asimov robotic
+novels and the robotic laws, the Three Laws of Robotics, which
+I have in my printout, the copies of in case anybody doesn't
+remember them. I bet this group does.
+But what I want to do is--I also, by the way, was looking
+for guides for artificial intelligence and I came up with the
+12 Boy Scout laws, too, so I don't know how that--so I want to
+offer some quotes and then get some thoughts from you, and
+these are quotes from people who are recognizably smart people.
+Stephen Hawking said, ``I think the development of artificial
+intelligence could spell the end of the human race.'' Elon
+Musk, quoted several times here, said, ``I think we should be
+very careful about artificial intelligence. If I were to guess
+what our biggest existential threat is, it's probably that.''
+Bill Gates responded, ``I agree with Elon Musk and I don't
+understand why people are concerned.''
+And then finally, Jaan Tallinn, one of the inventors of
+Skype, said with ``strong and artificial intelligence, planning
+ahead is a better strategy than learning from mistakes.'' And
+went on to say, ``It really sucks to be the number-two
+intelligent species on the planet; just ask the gorillas.''
+So in everybody's handout you have a very brief summary of
+a series of experiments run at MIT on artificial intelligence.
+The first one was named Norman, which was an artificial
+intelligence educated on biased data, not false data but biased
+data and turned into a deeply sociopathic intelligence. There
+was another one Tay, which was really just an artificial
+intelligence Twitterbot, which they turned loose into the
+internet, and I think it wasn't the intention of the MIT
+researchers, but people engaged with Tay and tried to provoke
+it to say racist and inappropriate things, which it did. And
+there are some other experiments from MIT as well.
+So I want to note, like Dr. Kasthuri, I have sons that are
+more clever than I, but they are not virtual supermen, nor do
+they operate at the speed of light, so, you know, there's ways
+of working with them. I'm not so sure about that with
+artificial intelligence.
+My question first, what are the implications of a future
+where black-box machine learning, the process can't even be
+interpreted? You know, once it gets several layers in, we can't
+interpret it. What's the implications today on that to you, Dr.
+Kasthuri and Dr. Yelick, if I could?
+Dr. Kasthuri. Congressman Dunn, thank you for the kind
+words to start. And I actually suspect there is a reasonable
+concern that the things that we develop in artificial
+intelligence are different than the other things like our
+children because their ability to change is at the speed of
+computers as opposed to the speed of our own. So I agree that
+there's legitimate cause for concern.
+I suspect that we will have to come up with lessons and
+safeguards the same way that we've done with every existential
+crisis: the discovery of nuclear energy, the application to
+nuclear weapons. As humans, we do have some history of living
+on the edge and figuring out how to get the benefit of
+something and keep the risk at bay.
+You're right that if algorithms can change faster than we
+can think, our existing previous historical safeguards might
+not work.
+To the specific question that you asked about the non-
+interpretability, for me, without knowing what the algorithm is
+producing, how do you innovate? If you don't know the
+fundamental nature of what the algorithm is--its principles for
+how it comes to a conclusion, I worry that we won't be able to
+innovate on those results.
+And this is interestingly perhaps as a thought exercise:
+What if a machine-learning algorithm could tell me--could
+make--could collect enough data to make a prediction about a
+brain, about your brain or someone else's brain that was
+incredibly accurate? Would we at that moment care how that
+machine-learning algorithm arrived at its conclusion? Or would
+we at that moment take the results that the algorithm produces
+and just go on with it, in which case there could be a missed
+opportunity for learning something deeply fundamental and
+principled about the brain.
+Mr. Dunn. And very quickly, Dr. Yelick.
+Dr. Yelick. Well, I agree with that. I think that these
+deep learning algorithms which have these multiple layers,
+which is why they're deep, they have millions perhaps of
+parameters inside of them. And we don't really understand when
+you get an answer out why all these parameters put together
+tell you that that's a cat and this one's not a cat. And so
+that may be okay if we're trying to figure out where to place
+ads as long as we give it unbiased data about where the place
+the ads so the right--so----
+Mr. Dunn. But it might be more problem if it was flying a
+drone swarm on attack some place?
+Dr. Yelick. Well, where it's a problem is if I'm a
+scientist, I want to understand why. It's not enough to say
+there's a correlation between these two things. And if the, you
+know, drone is flying in the right place, that's really
+probably the most important thing about some kind of a
+controlled vehicle. But in science, you want to----
+Mr. Dunn. We're dangerously close to being way, way, way
+over time, so I better yield back here, Mr.--thank you very
+much, though. I appreciate the chance.
+Chairman Weber. All right. The gentlelady from Nevada, Ms.
+Rosen, is recognized.
+Ms. Rosen. Thank you. I want to thank you for one of the
+most interesting, informative, and I want to say this is on the
+bleeding edge of everything that we need to worry about for
+sure.
+But one thing we haven't talked about is data storage. And
+data storage specifically is critical infrastructure in this
+country, right, because we have tons and tons of data
+everywhere, and where it goes and how we keep it is going to be
+of utmost importance.
+And so I know that we're trying to focus on that in the
+future, and in my district in Nevada we have a major data
+storage company. It has state-of-the-art reliability. We have
+lots of quality standards to ensure its data is secure, but
+like I said, we don't consider it critical infrastructure.
+So right now in this era of unprecedented data breaches,
+data hacks, every moment they are just pounding on us, in your
+view what are--the data storage centers that house the
+government and private sector, where are their vulnerabilities
+and what are the implications? How should we be sure that we
+classify them as critical infrastructure?
+Dr. Yelick. So, clearly, those data centers are storing
+very important information that should be protected. And, as
+you said, even at the computing centers that we run in the
+labs, there's a constant barrage of attacks, although we store
+at NERSC the center at Berkeley lab only scientific data, so it
+is not really critical data. I think that using these kinds of
+machine-learning techniques to look for patterns is one of the
+best mechanisms we have to prevent attack, and they do have to
+learn from these patterns in order to figure out what is--and--
+what is abnormal behavior. And we're looking at--as we build
+out the next network, even kind of embedding that information
+into the network so that you can see patterns of attack even
+before they get to a particular data set or a particular
+computer system.
+Ms. Rosen. Thank you. I have one other question. And you
+were talking about using predictive analytics with a digital
+twin to talk about fatigue in planes. But how can we use that
+to discuss infrastructure fatigue as we talk about the
+infrastructure failures around this country in bridges, roads,
+ports, et cetera, et cetera? So----
+Dr. Rollett. That's I think a question of recognizing the
+need and talking to the agencies and finding out whether you
+consider there are adequate programs to do that. I'm going to
+guess that there is not a huge amount of activity, but I don't
+know, so that's why I'm being very cautious in my answer.
+But I suspect it's one of the opportunity areas. It's an
+area where there is data. It's often rather incomplete, but it
+would definitely benefit from having the techniques applied,
+the machine-learning techniques to try to find the patterns, to
+try to identify outliers, particularly trends that are not
+good.
+Ms. Rosen. Thank you.
+Dr. Nielsen. I would just----
+Ms. Rosen. Oh, please, yes. Yes.
+Dr. Nielsen. Oh, I'm sorry. I would just second the
+comments made. I mean, at GE we obviously focus a lot of our
+attention on the commercial assets that we build, but there's
+no reason the technologies, the ideas that are being applied
+there could be applied to bridges and infrastructure and all
+that.
+Ms. Rosen. Right.
+Dr. Nielsen. It's just, I think, a matter of will and
+policy to do that, right?
+Ms. Rosen. So I--do you think that would be well worth our
+time here in this Committee to promote those kinds of policies
+or research for you all or someone to do the--use the
+predictive analytics? Congresswoman Esty and I sit on some
+infrastructure committees, and really important that we try to
+find out points of failure before they fail, right?
+Dr. Rollett. Absolutely. And I would encourage you to bring
+state and local government into that discussion because they
+often own a lot of those assets.
+Ms. Rosen. Yes. Thank you. I yield back my time.
+Chairman Weber. The gentlelady yields back.
+The gentlelady from Connecticut is recognized.
+Ms. Esty. Thank you so much. And this is tremendously
+important for this Committee and for the U.S. Congress to be
+dealing with, and we really appreciate you taking the time with
+us today.
+All of you have mentioned somewhat in passing this critical
+importance of how are the algorithms structured and how are we
+going to embed the values if we have AI moving much faster than
+our brains can function or at least on multiple levels
+simultaneously?
+So we did have a hearing last month in talking about this,
+and one of the issues that came up that everyone supported--and
+I'd like your thoughts on that--is the critical importance of a
+diverse workforce in doing that. If you're going to try to
+train AI, it needs to represent the diversity of human
+experience, and therefore, it can't be like my son who did
+computer science in astrophysics. If they all look like that,
+if those are--the algorithms are all being developed by, you
+know, 26-year-olds like my son Thomas, we're not going to have
+the diversity of life experience.
+So, first, if you can quickly--because I've got a couple of
+questions--thoughts on how do we ensure that? Because we're
+looking at that issue. We talk about that diverse workforce all
+the time, but when we're looking at AI and algorithms, it
+becomes vitally important that we do this. It's not about
+checking the box to say the Department of Labor that we've got
+a diverse workforce. This is actually vital to what we need to
+do.
+Dr. Yelick. So if I can just comment on that. Yesterday,
+before I left UC Berkeley, I gave a lecture to the freshman
+summer class introductory computing class. My title was rather
+ostentatious as ``How to Save the World with Computing.'' What
+I find is that when you talk about the applications of
+computing and including data analytics and machine learning and
+real problems that are societal problems, you tend to bring in
+a much more diverse workforce. That class in particular has had
+over 50 percent women and a very good representation at least
+relative to the norm of underrepresented minorities as well.
+Ms. Esty. Anyone else who--I mean it--MIT has found that
+when they change the title of some of their computer science
+classes to again be applied in sort of more political and
+social realms, they had a dramatic change in terms of
+composition of classes.
+Dr. Nielsen. Yes, I would just quickly build upon that,
+too. I think to me when you look at AI and machine learning,
+you have to have a critical eye. You have to always be looking
+at it. And I think a diverse workforce and diverse experience
+can help just bring more perspectives to help critically
+question why are those algorithms doing what they're doing?
+What is the outcomes? How can we improve that? So I would
+support that supposition, yes.
+Dr. Yelick. I'll just mention that the name of the course--
+which I was not teaching, by the way, I was giving a guest
+lecture--is ``The Beauty and Joy of Computing,'' so maybe that
+helps.
+Ms. Esty. Well, that helps. And if I could have you turn
+again--and some of you have mentioned the important role of
+federal research. I mean that's what this Committee is looking
+at, what is uniquely the federal role. As you see across the
+board, there's more and more effort and being engaged and we
+see it in space research and other places to move into the
+private sector with the notion the federal government is not
+very good at picking winners and losers. So if you can all talk
+about what you think are the most critical tasks for federal
+investment in, say, foundational and basic research that then
+will be developed by the GE's and others and companies not yet
+formed or conceived of because, again, that's part of our job
+is to figure out--I see it as our job to defend putting those
+basic research dollars in because we don't know where they're
+going to go but we do know they're vital to keep us, whether
+it's competitive or frankly just have better research and more
+care.
+Dr. Kasthuri. So perhaps I can go really quick. I suspect
+that there is a model of funding scientific research that's
+this idea that if you plant a million seeds in the ground, a
+few flowers will grow, where individual labs and individual
+scientists have the freedom to judge what is the next important
+question to address.
+And I can see why having the federal government decide the
+next important question to address might not be the most
+efficient way to push science forward. But where I do see the
+federal government really playing a role is in the level of
+facilities and resources, that what I imagine is that the
+federal government establishes large-scale resources and
+facilities like the national lab system and then allow
+individual scientists to promote their individual ideas but
+leveraging the federal resources. And I wonder if this is a
+compromise between allowing these seeds to grow but the federal
+government--maybe this is appropriate but maybe not--providing
+the fertilizer for those seeds.
+Ms. Esty. They think we generate a lot of it at least in
+this place.
+Dr. Yelick. So I would just add I think the importance of
+fundamental research, as well as the facilities and
+infrastructure and the applied mathematics, the computer
+science, statistics, very important in machine learning. And,
+as we said, these machine-learning algorithms have been used a
+lot in nonscientific domains. There's a lot of interest in
+applying them in scientific domains. I think the peer-review
+process in science will make machine learning better for
+everybody if we really put a lot of scrutiny on it.
+Dr. Rollett. And very quickly, I wanted to add that I think
+it's important that program managers in the federal government
+have some discretion over what they fund and take risks. And
+it's also important that the agencies have effective means of
+getting community input. And I don't want to name names, but
+some agencies have far more effective mechanisms for that than
+others.
+Ms. Esty. Well, we might want to follow up with that last
+point.
+And I wanted to just put out for you to help us with--and
+you mentioned it, Dr. Yelick, with--on peer review, this
+systematic--because of pressures to publish or perish and show
+success is we are not sharing the failures, which are
+absolutely essential for science to make progress. It's one of
+the issues we've touched on a lot in this Committee. We don't
+have any good answers, and it's gotten worse because of the
+pressures to do--to get grant money and to show progress. But I
+am deeply concerned about those pressures both from the private
+sector and the public sector making it harder for us--people
+hoard the, quote, ``bad results,'' but they're absolutely
+essential for us to learn from them.
+And so I don't know how we change that dynamic, but I think
+that is something that we could really use your thoughts on
+that because whether it's--AI can maybe help us with disclosing
+the dead ends and we learn from the dead ends and we move
+forward. But it is something that we have a big issue with in
+how we deal with the sharing of the not-useful results, which
+may turn out to be very useful down the line.
+Dr. Yelick. I completely agree with that. I think the first
+step in that is sharing the scientific data and allowing people
+to reproduce the successful results but also, as you said,
+examine the supposed failures to see--there are many examples
+of this in physics and other disciplines where people go back
+to data that may be 10 or 20 years old and find some new
+discovery in it.
+Ms. Esty. Thank you very much. I really appreciate your
+indulgence to keep us here to the bitter end. Thank you. Not
+the bitter, not you, just the fact that the bell has rung, and
+we had a lot of questions for you. We appreciate it. Thank you
+so much.
+Chairman Weber. After failing 1,000 times for the
+lightbulb, Dr. Edison, his staffer said doesn't that frustrate
+you? He goes, what are you talking about? We're 1,000 ways
+closer to success.
+So I thank the witnesses for their testimony and the
+Members for their questions. The record will remain open for
+two weeks for additional written comments and written questions
+from the Members.
+This hearing is adjourned.
+[Whereupon, at 12:08 p.m., the Subcommittees were
+adjourned.]
+Appendix I
+----------
+Answers to Post-Hearing Questions
+Answers to Post-Hearing Questions
+Responses by Dr. Bobby Kasthuri
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Responses by Dr. Katherine Yelick
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Responses by Dr. Matthew Nielsen
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Responses by Dr. Anthony Rollett
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Appendix II
+----------
+Additional Material for the Record
+Documents submitted by Representative Neal Dunn
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

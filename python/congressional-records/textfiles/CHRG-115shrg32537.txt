@@ -1,0 +1,2235 @@
+- AN EXAMINATION OF BLACKSTART, THE PROCESS FOR RETURNING ENERGY TO THE POWER GRID AFTER A SYSTEM-WIDE BLACKOUT, AND OTHER SYSTEM RESTORATION PLANS IN THE ELECTRIC UTILITY INDUSTRY
+[Senate Hearing 115-531]
+[From the U.S. Government Publishing Office]
+S. Hrg. 115-531
+AN EXAMINATION OF BLACKSTART, THE PROCESS FOR RETURNING ENERGY TO THE
+POWER GRID AFTER A SYSTEM-WIDE BLACKOUT, AND OTHER SYSTEM RESTORATION
+PLANS IN THE ELECTRIC UTILITY INDUSTRY
+=======================================================================
+HEARING
+BEFORE THE
+COMMITTEE ON
+ENERGY AND NATURAL RESOURCES
+UNITED STATES SENATE
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+OCTOBER 11, 2018
+__________
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Printed for the use of the
+Committee on Energy and Natural Resources
+Available via the World Wide Web: http://www.govinfo.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+32-537
+WASHINGTON : 2020
+COMMITTEE ON ENERGY AND NATURAL RESOURCES
+LISA MURKOWSKI, Alaska, Chairman
+JOHN BARRASSO, Wyoming
+MARIA CANTWELL, Washington
+JAMES E. RISCH, Idaho
+RON WYDEN, Oregon
+MIKE LEE, Utah
+BERNARD SANDERS, Vermont
+JEFF FLAKE, Arizona
+DEBBIE STABENOW, Michigan
+STEVE DAINES, Montana
+JOE MANCHIN III, West Virginia
+CORY GARDNER, Colorado
+MARTIN HEINRICH, New Mexico
+LAMAR ALEXANDER, Tennessee
+MAZIE K. HIRONO, Hawaii
+JOHN HOEVEN, North Dakota
+ANGUS S. KING, JR., Maine
+BILL CASSIDY, Louisiana
+TAMMY DUCKWORTH, Illinois
+ROB PORTMAN, Ohio
+CATHERINE CORTEZ MASTO, Nevada
+SHELLEY MOORE CAPITO, West Virginia
+TINA SMITH, Minnesota
+Brian Hughes, Staff Director
+Kellie Donnelly, Deputy Chief Counsel
+Isaac Edwards, Special Counsel
+Jed Dearborn, Counsel
+Robert Ivanauskas, FERC Detailee
+Mary Louise Wagner, Democratic Staff Director
+Sam E. Fowler, Democratic Chief Counsel
+John Richards, Democratic General Counsel
+Elisabeth Olson, Democratic FERC Detailee
+C O N T E N T S
+----------
+OPENING STATEMENTS
+Page
+Murkowski, Hon. Lisa, Chairman and a U.S. Senator from Alaska....
+1
+Cantwell, Hon. Maria, Ranking Member and a U.S. Senator from
+Washington.....................................................
+2
+WITNESSES
+Ortiz, Dr. David S., Acting Director, Office of Electric
+Reliability, Federal Energy Regulatory Commission..............
+4
+Ott, Andrew L., President & CEO, PJM Interconnection, L.L.C......
+11
+Torres, Juan, Associate Laboratory Director for Energy Systems
+Integration, National Renewable Energy Laboratory..............
+27
+Ditto, Joy, President and CEO, Utilities Technology Council......
+36
+Galloway, Sr., Thomas J., President and CEO, North American
+Transmission Forum.............................................
+73
+Yardley, Timothy M., Senior Associate Director of Technology and
+Workforce Development, Information Trust Institute, University
+of Illinois at Urbana-Champaign................................
+97
+ALPHABETICAL LISTING AND APPENDIX MATERIAL SUBMITTED
+Cantwell, Hon. Maria:
+Opening Statement............................................
+2
+Diesel Technology Forum:
+Statement for the Record.....................................
+147
+Ditto, Joy:
+Opening Statement............................................
+36
+Written Testimony............................................
+38
+Response to Question from Senator Hoeven.....................
+114
+Galloway, Sr., Thomas J.:
+Opening Statement............................................
+73
+Written Testimony............................................
+75
+Responses to Questions for the Record........................
+138
+Grid Assurance, LLC:
+Statement for the Record.....................................
+149
+Murkowski, Hon. Lisa:
+Opening Statement............................................
+1
+Ortiz, Dr. David S.:
+Opening Statement............................................
+4
+Written Testimony............................................
+6
+Responses to Questions for the Record........................
+131
+Ott, Andrew L.:
+Opening Statement............................................
+11
+Written Testimony............................................
+13
+Responses to Questions for the Record........................
+133
+Torres, Juan:
+Opening Statement............................................
+27
+Written Testimony............................................
+29
+Responses to Questions for the Record........................
+135
+Yardley, Timothy M.:
+Opening Statement............................................
+97
+Written Testimony............................................
+99
+Responses to Questions for the Record........................
+141
+AN EXAMINATION OF BLACKSTART, THE PROCESS FOR RETURNING ENERGY TO
+THE POWER GRID AFTER A SYSTEM-WIDE BLACKOUT, AND OTHER SYSTEM
+RESTORATION PLANS IN THE ELECTRIC UTILITY INDUSTRY
+----------
+THURSDAY, OCTOBER 11, 2018
+U.S. Senate,
+Committee on Energy and Natural Resources,
+Washington, DC.
+The Committee met, pursuant to notice, at 10:06 a.m. in
+Room SD-366, Dirksen Senate Office Building, Hon. Lisa
+Murkowski, Chairman of the Committee, presiding.
+OPENING STATEMENT OF HON. LISA MURKOWSKI,
+U.S. SENATOR FROM ALASKA
+The Chairman. Good morning, the Committee will come to
+order.
+We are here this morning to have a discussion on
+blackstart, which is the process for returning energy to the
+power grid after a system-wide blackout.
+You do not want to imagine it, but there are probably
+enough movies that are out there that we do not need to imagine
+anymore. But just imagine a scenario where everyone living
+within an interconnected electrical grid system loses power.
+Here on the East Coast, that would effectively mean a blackout
+that spans from Maine to Florida, all the way to Minnesota,
+back to Louisiana. Hundreds of millions of people could be left
+in the dark, power lines no longer energized, and generating
+stations would be off.
+More practically, it means that your lights would be off,
+but also your air conditioning is out, kind of a miserable,
+ugly morning out there and you are going to notice something
+like that. Appliances like your oven, your refrigerator, your
+ability to charge your cell phone, no longer working.
+A system-wide blackout is mostly the stuff of nightmares
+and Hollywood thrillers, but it is also a high-consequence
+threat that our nation must be prepared to respond to. The
+United States has never seen a blackout of this kind, that I
+have described of this scope and that is very fortunate, but
+the increasing risks presented by cyberattacks and the threats
+of electromagnetic pulse and solar storms make it more
+important that we be prepared.
+The question we have to be able to answer is, should all of
+the grid go down, how will we restart our generating stations,
+repower the lines, and safely deliver electricity to homes and
+businesses? The process for returning energy to the power grid
+after a system-wide blackout is known as blackstart. The nuts
+and bolts of this process are and should be closely held, but
+we certainly can discuss the theory and the necessity of
+blackstart in an open setting as we are doing here this
+morning.
+America cannot operate without electricity service, and we
+must have plans in place to restore power to our grid. A
+system-wide blackout is a low probability event, but similar to
+a cyber or nuclear attack, the electric utility industry has to
+be prepared. There are a variety of everyday threats to the
+grid that could cause it, like what happened on August 14th in
+2003 when we saw a tree that had grown too near a power line
+and it started this ``cascading'' blackout, which caused
+widespread power outages for some 50 million people across the
+Midwest, the Northeast, and the Canadian province of Ontario.
+A cascading blackout occurs when the failure of one
+interconnected part of the system triggers the failure of
+successive parts, the domino effect of power transmission
+failure. Thankfully, the cascading event in August of '03 did
+not involve the entire interconnection and force us to engage
+in a real-world test of blackstart procedures, but it could.
+I certainly hope our nation never faces a situation where a
+total restart of the electric system is required, but it is
+critical and I think we would acknowledge that there has to be
+a plan in place should the worst happen.
+The panel that we have this morning, an impressive group of
+experts, have all spent time thinking about this, working on
+these issues. I thank you for making yourselves available this
+morning. We had to reschedule this hearing from an earlier
+time, so I appreciate your flexibility. Again, thank you for
+being here to have this important discussion.
+With that, I turn to my colleague, Senator Cantwell.
+STATEMENT OF HON. MARIA CANTWELL,
+U.S. SENATOR FROM WASHINGTON
+Senator Cantwell. Thank you, Madam Chair. Thanks for
+scheduling this important hearing and talking about these
+important issues of preparation and ability to restore our
+electric grid in the case of a catastrophic system disruption
+or widespread blackout.
+I would also like to commend you, in general, for your
+continued leadership in this changing energy space. I
+appreciate the attention the Committee has given to recent
+hearings, including today's topic of moving forward on
+reliability.
+This is such an important topic because we take for granted
+that the lights always come on when we flip the switch, but our
+electric system is increasingly being tested and stressed and
+there are daily cyber threats to our electricity
+infrastructure.
+In July, the DNI Director spoke to the increase in
+malicious cyber activities, importantly noting, ``the warning
+lights are blinking red.'' So I continue to be concerned that
+there are sophisticated attacks that may result in widespread
+blackouts.
+Unfortunately, cyber threats are not the only concern for
+the grid. Climate change is resulting in an increased frequency
+and severity of extreme storm events and natural disasters.
+With Hurricane Florence hitting the Carolinas, we saw nearly
+one million customers in the storm path lose power, and
+widespread flooding that has not yet fully subsided. As we
+speak, Florida is weathering Hurricane Michael. And, of course,
+a year ago, the devastation from Hurricane Maria in Puerto Rico
+still has the island lacking the transmission resiliency in
+distribution that we would like to see.
+On a positive note, I know that the CEO of the North
+American Electric Reliability Corporation, NERC, has reiterated
+that it is very unlikely that we would see a foreign entity
+attack our system, resulting in a catastrophic outage. We know
+that NERC, FERC and DOE are all working together with our
+national labs on electricity reliability and continue to move
+forward on innovative fronts.
+But R&D cannot eliminate all the risks. Technologies
+sometimes fail and, obviously, Mother Nature doesn't always
+play nice. We must be prepared for major blackout events, and
+that brings us to this rarely discussed but important topic
+today, blackstart.
+As Congress and regulators of the electricity sector look
+at grid resiliency, we should consider what we actually have to
+do to have restoration plans. At the heart of these recovery
+and restoration plans are generation resources which provide
+blackstart capability--the ability to restart without drawing
+on the power grid, which is how generators usually start.
+Instead, generating units with blackstart capability have the
+same onsite ability to kick-start the grid. It is important
+that grid operators and blackstart generators have access to
+uninterrupted communication as they bring the system back
+online in a coordinated manner.
+I am also encouraged by the innovation in this area of
+system restoration from blackstart generators. In 2018, the
+NERC and FERC regional entity joint review of restoration
+recovery plans found that across all regions of the country,
+despite an evolving mix of utilities, there is significant
+reliance on the bulk power system, but they have sufficient
+blackstart capabilities for their system restoration plans. So
+that is good. This shows that the changing system can still be
+resilient.
+As an example from last year, Imperial Irrigation District
+in California successfully demonstrated the use of battery
+storage energy to fire up a combined-cycle gas turbine from an
+idle start. And in Pullman, Washington, where we are so proud
+of Schweitzer Engineering, they tout an island blackstart as a
+key offering of their comprehensive microgrid system. So I love
+that; it is so important.
+To our friends in the White House and DOE who are
+continually arguing that only a coal-based system is secure, I
+would offer two facts: one, without blackstart capability,
+onsite fuel will not matter when a system is down; and two,
+clean energy resources can provide resilience, including
+blackstart, capability. I would point to my home State of
+Washington, which is blessed with abundant hydropower. The
+second installment of the Quadrennial Energy Review found that,
+``hydropower provides a variety of essential reliability
+services that are beneficial to the electricity system,
+including blackstart capability.''
+So again, thank you, Madam Chair, for having this hearing.
+I appreciate the expert panel that is before us and look
+forward to hearing their comments on how we continue to move
+forward on this innovation and security for our nation.
+The Chairman. Thank you, Senator Cantwell.
+We will now turn to our panel. Again, welcome to each of
+you.
+The panel this morning will be led off by Dr. David Ortiz.
+Dr. Ortiz is the Acting Director for the Office of Electric
+Reliability over at the Federal Energy Regulatory Commission
+(FERC). We welcome you this morning.
+Mr. Andrew Ott is with us. He is the President and CEO for
+PJM Interconnection. Thank you for joining us.
+Mr. Juan Torres is the Associate Laboratory Director for
+Energy Systems Integration at NREL, our National Renewable
+Energy Laboratory. I know that Senator Gardner certainly has an
+interest in NREL. We are pleased to have you with us, Mr.
+Torres.
+Ms. Joy Ditto is the President and CEO of the Utilities
+Technology Council (UTC). Welcome.
+Mr. Thomas Galloway is the President and CEO for the North
+American Transmission Forum (NATF). We thank you.
+And the panel will be rounded off by Mr. Timothy Yardley,
+who is the Senior Associate Director of Technology and
+Workforce Development at the University of Illinois at Urbana-
+Champaign.
+We have a great panel here this morning and are pleased to
+hear your contribution to this important subject.
+Mr. Ortiz, if you would like to lead off. We ask that you
+try to limit your comments to about five minutes. Your full
+statements will be incorporated as part of the record.
+STATEMENT OF DR. DAVID S. ORTIZ, ACTING DIRECTOR,
+OFFICE OF ELECTRIC RELIABILITY, FEDERAL ENERGY
+REGULATORY COMMISSION
+Dr. Ortiz. Thank you, Madam Chairman.
+Chairman Murkowski, Ranking Member Cantwell, members of the
+Committee, thank you for the opportunity to testify today.
+My name is David Ortiz. I am the Acting Director of the
+Office of Electric Reliability at the Federal Energy Regulatory
+Commission. I'm here today as a Commission staff witness and my
+remarks do not necessarily reflect those--do not necessarily
+reflect the views of the Commission nor any individual
+commissioner.
+Congress gave the Commission the authority in the Energy
+Policy Act of 2005 to oversee the development and enforcement
+of mandatory reliability standards for the bulk power system.
+The authority pertains to the interconnected electric
+reliability, electric system in the United States and excludes
+Alaska, Hawaii, and local distribution systems.
+Section 215 of the Federal Power Act requires FERC to
+designate an electric reliability organization to develop, with
+industry, standards to ensure reliable operation of the grid
+which it proposes to the Commission for approval. NERC is the
+Commission-certified electric reliability organization.
+The subject of today's hearing is blackstart, which is the
+process of restarting the grid after a blackout. When there is
+a widespread outage and offsite power is not available,
+resources that are capable of starting without a connection to
+the grid are called on to start the process of restoring the
+grid. These resources are called blackstart resources and are
+typically small diesel generators or gas-fired generating units
+which can be started without power from the grid. Larger
+hydroelectric units can also be used for blackstart because
+they require very little initial power to start and can provide
+a large amount of power quickly.
+Reliability standard EOP-005 Version 2, aptly titled
+``System Restoration from Blackstart Resources,'' requires
+responsible entities to have a system restoration plan which
+includes identifying specific blackstart units to verify the
+effectiveness of the restoration plan through testing,
+simulation and analysis of actual events, to keep the
+restoration plan up-to-date, and to ensure up-to-date system
+restoration training for operating personnel.
+Beginning in September 2014, Commission staff has been
+collaborating with NERC, the regional entities, utilities and
+grid operators on a series of studies and reports regarding
+restoring the grid after a widespread blackout.
+In May 2018, staff released the FERC-NERC-Regional Entity
+Joint Review of blackstart resource availability. The joint
+team is grateful for the participation of nine anonymous
+utilities from across the United States for their participation
+in this study. The study concluded that although some
+participants have experienced a decrease in the availability of
+blackstart resources due to the retirement of blackstart
+capable units over the past decade, the participants have
+verified that they currently have sufficient blackstart units
+and resources in their system restoration plans, as well as
+comprehensive strategies for mitigating against the loss of any
+additional blackstart resources going forward.
+The study recommended that utilities perform expanded
+testing of the blackstart process when feasible. Doing this
+requires a utility to take advantage of maintenance outages and
+other events to test certain aspects of the restoration plan so
+that real world experiences can supplement the computer
+simulations that assist in developing such plans. Additionally,
+the study recommended that utilities assess whether they rely
+on a single fuel for blackstart and mitigate their reliance on
+it, if feasible. Further detail is available in my submitted
+testimony and in the joint study.
+I thank the Committee for the opportunity to participate in
+this hearing and look forward to hearing from the other
+witnesses and answering your questions.
+[The prepared statement of Dr. Ortiz follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Dr. Ortiz.
+Mr. Ott.
+STATEMENT OF ANDREW L. OTT, PRESIDENT & CEO,
+PJM INTERCONNECTION, L.L.C.
+Mr. Ott. Chairman Murkowski, Ranking Member Cantwell and
+members of the Committee, thank you so much for having me back
+again. I was here in January talking about cold weather
+operations, and I'm really honored to be here today to talk
+about the important topic of blackstart.
+But before I begin, I would like to acknowledge the hard
+work of our utility partners in Florida, the Carolinas, and
+Northern, excuse me, Southern Virginia, to restore power in the
+aftermath of the hurricanes, not only the current one, Michael,
+but Florence just a few weeks ago. Again, the power industry
+has been the model of cooperation and collaboration and,
+frankly, they have all of our appreciation for the types of
+good work they do.
+PJM operates the largest power grid in the nation. We serve
+almost a quarter of the electricity consumed within the United
+States, population of 65 million people, 13 states and the
+District of Columbia. Our role is three-fold: we essentially
+ensure the operation and reliability of the bulk power grid; we
+operate the competitive wholesale markets; we also coordinate
+regional planning for the future evolution of the grid.
+I want to underscore today for you a couple key points
+related to the topic of blackstart. First, reliability and
+effective restoration of service are key and top priorities for
+organizations like PJM and utilities. We work with our members
+as well as state and local governments. We take this task very
+seriously. We plan, we drill, and the location of blackstart
+resources is well known in advance. We also work with, of
+course, the federal regulator and FERC and NERC. The second is,
+restoration of service is a shared responsibility. The local
+utility, organizations like PJM which are regional transmission
+organizations, of course end-use customers themselves, federal
+and local and state authorities.
+Three key parts to this responsibility. One is restoration
+of critical resources, known as blackstart resources. So those
+blackstart resources are contracted by us in advance to provide
+such services. I do want to clear up some misconceptions about
+blackstart resources. Coal and nuclear generators are generally
+not blackstart. Blackstart resources tend to be more flexible,
+smaller units like gas units or, as Ranking Member Cantwell
+indicated, hydro resources. The priority restoration of
+facilities, end-use facilities, those that would be restored
+first, is also something we do in advance to look at how do we,
+what's the plan, if you will, once we re-enable the grid with
+blackstart resources to bring back customers in an orderly
+manner. And the last is, of course, coordination of individual
+customer backup generation and how they integrate into the
+grid.
+Our role as an RTO, again, is one of coordination and, in
+these types of events, we coordinate the start of reenergizing
+the system and work with all parties, including utilities. The
+utilities, of course, and state and local government agencies,
+again, are critical to this restoration effort because they
+have the physical energization of the grid.
+A couple things about the system. We get that the risks are
+changing. What--as you mentioned, cyberattacks, potential
+sabotage, other types of things that we really didn't dream of
+some years ago. From our perspective at PJM, the way we look at
+that, one of our main control systems, the EMS system, we
+actually have a copy of that. We have more than one copy, of
+course, we probably have four or five different--and one of
+them is air-gapped. It sits in a dark room. Should our systems
+become compromised by a cyberattack, we can jettison that whole
+system, bring up a fresh one and reconnect within a very quick,
+I can't say what it is, but a very quick time.
+One effort, too, is resilience for the grid. We look at
+how--what are the dependencies? PJM is essentially looking at,
+if you will, as resilience, the dependency--people have a
+legitimate question as we get more and more dependent upon
+natural gas resources, you'll see retirement of coal and
+nuclear.
+The question is being asked, are we vulnerable? And I think
+it's an absolutely legitimate question. We're taking that on.
+On November 1st, PJM will issue a fuel security study, looking
+out into 2023 to say, are we vulnerable? What are the pinch
+points? It's an analytical approach, and we will be, obviously,
+sharing that information with, not only yourselves, but others.
+One thing, role, you could play, as I look at things we
+need, as we look at resilience in these types of paying
+resources for the characteristics and attributes they provide.
+We've put in quite a few suggestions to FERC. Realizing they're
+a busy organization, we really need to move forward with some
+of these issues about paying resources for their reserve
+characteristics, paying resources for their fuel security
+characteristics. We really need to move on with that.
+I really thank you for your attention today, and I am ready
+for questions once we're through the initial dialogue.
+Thank you very much.
+[The prepared statement of Mr. Ott follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Mr. Ott, thank you and thank you for the
+reminder that as we speak we have some truly, everyday heroes
+that are down in the southern part of the country, in Florida
+and in Georgia and the Carolinas and all that region,
+Louisiana, that are working very hard and very diligently to
+keep power on. I don't think those men and women who are in the
+thick of the disaster--their homes are in jeopardy, their
+families are in fear, and they are out working to ensure that
+there is that support there. So thank you for recognition, and
+I think we all share that appreciation.
+Mr. Torres, welcome to the Committee.
+STATEMENT OF JUAN TORRES, ASSOCIATE LABORATORY DIRECTOR FOR
+ENERGY SYSTEMS INTEGRATION, NATIONAL RENEWABLE ENERGY
+LABORATORY
+Mr. Torres. Thank you.
+Chairman Murkowski, Ranking Member Cantwell, members of the
+Committee, I want to thank you for this opportunity to discuss
+the importance of blackstart and the significant role it plays
+in ensuring that our power system continues to be safe,
+reliable and resilient.
+I'm Juan Torres, and I serve as the Associate Laboratory
+Director for Energy Systems Integration at the U.S. Department
+of Energy's National Renewable Energy Laboratory, or NREL, in
+Golden, Colorado.
+I've been affiliated with federal research in our national
+laboratory system for more than 28 years. In my current
+position, I direct NREL's efforts to strengthen the security,
+resilience and sustainability of our nation's electric grid.
+In addition, I'm Vice Chair of the Department of Energy's
+Grid Modernization Laboratory Consortium, or GMLC, and I'm also
+team lead for the Consortium's Security and Resilience
+Technical Area.
+I commend the Committee for this timely discussion for what
+I know to be a critical and central issue facing our national
+utility infrastructure. It's a critical concern because the
+economic and social impacts of a major system outage can be
+catastrophic.
+In 2003, I oversaw a research team that investigated what
+came to be known as the Northeast Blackout which you mentioned
+in your introduction.
+Simply put, blackstart is a process of restarting the power
+system after a system-wide blackout; however, the blackstart
+process is not so simple. It relies upon established procedures
+and trained personnel for coordinating restart of specifically
+designated resources to energize the transmission system, bring
+on other generators and get the entire system back up and
+running.
+Restoration of the bulk power system from a blackout can be
+an intricate and multifaceted endeavor fraught with potential
+unforeseen technical challenges that are unique to each
+specific outage scenario. For example, history has shown that
+severe weather or other events may cause a simultaneous loss of
+more than one major grid element such as a power plant or
+transmission lines. Grid operators must assess each situation
+so that they are fully confident the set procedures will work
+as planned and the power system will be restored as quickly as
+possible.
+While the concept of blackstart is well established, we
+need assurance that blackstart functionality is appropriately
+considered as the grid architecture, technology, operations and
+generation portfolio continue to evolve.
+The DOE has taken a forward-looking approach, in
+partnership with utilities, to research how we can avoid
+catastrophic outage, as well as explore how new grid
+modernization technology investments might be used to provide
+blackstart capability. Let me provide some examples.
+Under the Solar Energy Innovation Network, funded by the
+DOE's Solar Energy Technologies Office, NREL is working with
+PJM, the National Association of Regulatory Utility
+Commissioners and nine teams to explore blackstart applications
+for solar energy generation with storage. We've also--several
+GMLC-funded projects with relevant research. One particular
+project led by NREL, called Grid Frequency Support from
+Distributed Inverter-Based Resources in Hawaii, explored how
+distributed energy resources can help restore grid stability
+following major events such as a loss of a major power plant or
+transmission line. Another project led by Los Alamos National
+Laboratory, titled Extreme Event Modeling, is quantifying the
+risk of extreme events prior to an occurrence. A project led by
+Lawrence Livermore National Laboratory, called CleanstartDERMS,
+is developing a distributed energy management system that will
+demonstrate the start of a microgrid following an outage. More
+research like this is needed so we can better understand the
+potential for using these technologies for broader blackstart
+applications.
+Because there are cyber threats to our power system, it is
+also important to consider the effects that a major cyberattack
+may have on system restoration. Additionally, the topic of
+blackstart from a cyber-induced outage is an opportune area for
+research by our national laboratories. Cybersecurity must be
+incorporated into every aspect of blackstart planning and
+execution.
+Our ability to bounce back from a widespread power outage
+depends on what must be a broadly coordinated effort in
+partnership with all relevant stakeholders. As our power grid
+continues to evolve, it will be critically important to assure
+that our blackstart procedures remain congruent with the grid
+modernization investments and that they are exercised in
+context of the evolving spectrum of threats.
+Thank you for the privilege to address this Committee.
+[The prepared statement of Mr. Torres follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Mr. Torres.
+Ms. Ditto, welcome.
+STATEMENT OF JOY DITTO, PRESIDENT AND CEO,
+UTILITIES TECHNOLOGY COUNCIL
+Ms. Ditto. Chairman Murkowski, Ranking Member Cantwell and
+members of the Committee, I would also echo the sentiments
+expressed already about Hurricanes Michael and Florence and the
+crews there as well as the people affected by that storm, and
+we wish them Godspeed.
+I'm extremely honored to testify today. I would like to
+begin by asking a few rhetorical questions. How many people
+know that utilities operate their own sophisticated
+telecommunications networks and have done so for over 70 years?
+And how many know that these networks are integral to the
+reliability and resilience of the electric grid, including the
+careful and delicate process of restoring power after a
+widespread outage? Finally, how many people know that policies
+made by an agency, the Federal Communications Commission,
+seemingly unrelated to the oversight of the electric grid, can,
+in fact, impact its reliability and resilience?
+Even having represented electric utilities for 15 years at
+the time I became UTC's CEO, I didn't fully appreciate the key
+nature of communications to grid performance. It's become clear
+that many regulators, government agencies and stakeholders lack
+the understanding of both the communications networks deployed
+by utilities and the policies undermining their ability to
+maintain reliability. The need for such understanding is
+greater than ever as the industry faces numerous threats, both
+natural and manmade.
+The cybersecurity threat is increasing at the same time the
+government and the public require greater levels of reliability
+and flexibility from an electric grid that underpins our modern
+way of life. The government-electric sector partnership that
+has emerged to combat these threats has already improved
+recovery and response efforts. This special relationship
+between the electric industry and the Federal Government to
+prepare, plan for and respond to disasters is only mirrored in
+a few other critical infrastructure sectors.
+Yet, the FCC equates the electric sector with any other
+commercial enterprise. This disconnect must be rectified. UTC
+believes that it can be through greater education and
+collaboration among regulatory agencies such as the FCC and the
+Federal Energy Regulatory Commission.
+UTC has a 70-year-old history representing utilities on
+their deployment of reliable and resilient communication
+systems. Most of our 200 core utility members are electric
+utilities of various sizes, including investor-owned, publicly-
+owned, cooperatively-owned and even federally-owned. All our
+members either own, maintain and/or operate extensive internal
+communication systems to help ensure the safe, reliable and
+secure delivery of their essential services.
+Such communications networks also enable the higher levels
+of granularity needed to balance the electric grid as variable
+energy resources and other cutting-edge technologies have
+emerged. Utilities' private telecommunications networks are a
+combination of both wired and wireless technologies. Since the
+'80s, utilities have also used SCADA, a type of industrial
+control system that transmits data over utility networks from
+the field into a control center. Utilities have more recently
+deployed a variety of new technologies on their systems to
+enhance situational awareness and improve efficiency,
+reliability and safety.
+As FERC and NERC's recent reports on grid resilience have
+illustrated, utility communications are key to their ability to
+return energy to the grid after a system-wide blackout. UTC
+agrees with the finding in these reports.
+They also highlight the investments utilities have made to
+ensure reliable communications during system-wide blackouts.
+For example, utilities prepare for the possibility of losing
+SCADA or other critical data communications. In such cases,
+they can default to voice communications. Typically deployed
+via push-to-talk radios, like those used by firefighters and
+police officers, these more basic systems can help enable the
+carefully coordinated blackstart processes.
+Like any wireless network or device, utilities' wireless
+systems need radio frequency spectrum to function.
+Interference, which is caused by too much wireless traffic in a
+band, can disrupt signals, potentially disabling a critical
+wireless transmission. Therefore, access to adequate and
+interference-free spectrum is essential.
+Spectrum policy resides at the FCC, the oversight of which,
+I realize, is outside of this Committee's jurisdiction.
+However, utilities' access to interference-free spectrum is
+integral to the provision of reliable electric service.
+Unfortunately, several proceedings are pending at the FCC that
+threaten electric reliability and resilience; one would open
+the 6 GHz spectrum band to unlicensed mobile users subjecting
+utilities, railroads and public safety to potentially harmful
+interference.
+It's time for the FERC and the FCC to hold discussions
+about the growing interdependencies between the energy and
+telecommunications industries. Such meetings will build
+understanding between the two agencies and the industries they
+regulate. UTC urges this Committee to take a leading role in
+initiating such a dialogue.
+Thank you for this opportunity to testify and I look
+forward to answering any questions you may have.
+[The prepared statement of Ms. Ditto follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Ms. Ditto.
+Mr. Galloway, welcome to the Committee.
+STATEMENT OF THOMAS J. GALLOWAY, SR., PRESIDENT AND CEO, NORTH
+AMERICAN TRANSMISSION FORUM
+Mr. Galloway. Chair Murkowski, Ranking Member Cantwell and
+members of the Committee, thank you for inviting me to testify
+today.
+My name is Tom Galloway, and I'm the CEO of the North
+American Transmission Forum. The Forum is a voluntary
+membership of transmission owners and operators with a mission
+to promote excellence in reliable, secure and resilient
+operation of North America's electric transmission system. We
+believe that timely sharing of information among Forum members,
+such as best practices and operating experience, is key to
+advancing performance beyond mandatory levels. Our 89 members
+of various types and sizes, together, represent over 80 percent
+of the peak electrical load in the U.S. and Canada.
+I'll focus primarily on resiliency which deals with high-
+impact, low-frequency events, sometimes called Black Sky
+events, that could cause a system-wide outage. Black Sky events
+require cross-sector collaboration, alignment of restoration
+priorities, mutual aid and robust communications. Given the
+importance of these topics, we've made several of our internal
+documents public and I've attached those as part of my written
+testimony, including a summary of backup capabilities and how
+to cope with the loss of some standard operator tools.
+I'll cover five main points in my oral testimony.
+First, the restoration varies extensively based on the
+outage specifics, including the scope, duration, equipment
+damage and access to restoration areas. There are many
+commonalities to be sure, but no two outages are exactly alike.
+And the industry needs and has well thought out, prioritized,
+and tested restoration plans, but they also need agile
+decision-making that can navigate the complex and unpresuming
+circumstances. Blackstart resources are rarely used but are
+critical when portions of the system cannot be reenergized by
+connecting to adjacent energized systems.
+Point two, severe weather has caused the majority of recent
+significant events. And while those impacts have been profound,
+such as those being observed in the Hurricane Michael
+currently, there are several positives. The industry has
+applied lessons learned and improved comparatively in a number
+of cases. So, for example, Florida Power implemented a number
+of significant upgrades following hurricanes in the 2004-2005
+season. As a result, their performance was demonstratively
+better in 2017 with customer outage times essentially cut in
+half from a much more severe hurricane Irma.
+Point number three, the scope and pace of industry change
+is unprecedented. And while some of these changes add
+significant reliability and economic benefits, they do add
+complexity to both operate the system and restore from outages.
+These changes include generation of fuel mix, increased use of
+interconnected digital technologies at both physical and cyber
+threats. Areas of continued focus related to these topics
+include interoperability issues between sectors and the
+security of an increasingly interconnected digital grid.
+Point four, there are a number of beneficial no-regrets
+actions that are underway having to do with equipment spares,
+testing, mutual aid and drills. For example, Con Edison has
+developed, tested and deployed resiliency transformers which
+are smaller modular devices that could be installed quickly in
+a variety of system locations if their primarily used
+transformers are damaged for some reason. Likewise, Con Ed is
+testing feasibility of blackstart recovery in the midst of an
+ongoing cyberattack.
+The mutual aid process in the industry is well established
+and evolving. In Hurricane Irma, that I mentioned earlier,
+Florida Power imported over 11,000 linemen from across the
+company--from across the country as far away as California--to
+help aid in that restoration, and mutual aid efforts are now
+being evolved to include specialized expertise such as
+cybersecurity.
+The industry is also conducting increasingly sophisticated
+drills such as last week's Southern California Edison conducted
+their fifth annual resilient grid exercise. This simulated a
+combined physical and cyber attack that impacted Southern
+California Edison and some of their adjacent systems. They also
+introduced losses of normal communication and some of the
+normal operative tools to further complicate the scenarios. The
+after-action discussions were very robust, including
+representation of cross-sector and governmental representatives
+that focused on the need to align our priorities and effective
+educations.
+I'll summarize very quickly. In terms of going forward, I
+believe that industry and regulators should align on resiliency
+priorities, focus on no-regrets actions that are applicable to
+multiple hazards that promote recovery for prudent investments.
+And I think there's a strong focus needed on communications
+capabilities, referred to by Ms. Ditto, both in terms of
+technologies, redundancy, diversity and also communication
+protocols.
+Thank you for the opportunity.
+[The prepared statement of Mr. Galloway follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Mr. Galloway.
+Mr. Yardley, welcome.
+STATEMENT OF TIMOTHY M. YARDLEY, SENIOR ASSOCIATE DIRECTOR OF
+TECHNOLOGY AND WORKFORCE DEVELOPMENT, INFORMATION TRUST
+INSTITUTE, UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN
+Mr. Yardley. Good morning, Chairwoman Murkowski, Ranking
+Member Cantwell and distinguished members of the Committee.
+Thank you for the opportunity to speak today.
+My name is Tim Yardley, and I'm a Senior Researcher and
+Associate Director at the Information Trust Institute at the
+University of Illinois, Urbana-Champaign. My research focuses
+on cyber resiliency and critical infrastructure.
+Let me start by saying the cyber threat to the grid is real
+and the threat of potential blackstart is here. The time to act
+is now.
+It is critical that the Committee understands the
+following. Much existing work has already been done and that
+work is tremendously important; however, we need to think
+broader about what it means to be cyber resilient. We need to
+focus on increasing the skills and capabilities of our people
+as much, if not more, than we focus on the technology, and we
+need directed funding and test beds to realize that. We need to
+think through the policies, procedures, people, skills, tools
+and the requirements necessary for those items to function
+before they are called to action. And lastly, these
+capabilities can be achieved only if academia, industry and
+government work closely together in focused research,
+development and education programs and funding should increase
+to support past successes, like those at the University of
+Illinois, and to create new ones elsewhere.
+With that in mind, even if there remains work to be done, I
+rest assured that our nation is relatively prepared to address
+the logistics of a traditional blackstart scenario. The
+dedicated commitment of all of the first responders, echoed in
+the rest of the panel today, to pull together is second to
+none. I fear, though, that we are still not prepared to do so
+in the face of a cyberattack that eliminates our ability to
+trust the systems that we use to operate and restore our grid.
+There is urgency necessary in closing that gap. The risk is
+growing and all of us involved know it. But we must put our
+best minds on solving it.
+As you have heard in prior testimony, cyber resiliency aims
+to protect through established cybersecurity techniques but
+acknowledges that such protections will eventually fail. For
+over a decade now, much attention and funding has been placed
+on cybersecurity for the grid, but cyber resiliency is much
+more than just cybersecurity and it's only recently gaining
+real focus. The prior investment in cybersecurity has been well
+spent and there is continued need, but we must go further. We
+must understand what happens when those protections fail us.
+One of my most relevant research efforts falls under the
+DARPA RADICS program, which stands for Rapid Attack Detection,
+Isolation and Characterization Systems. The goal of that
+program is to enable blackstart recovery of the power grid
+amidst a cyberattack.
+RADICS research is developing technology that cybersecurity
+personnel, power engineers and first responders, such as the
+National Guard, can utilize to accelerate restoration of cyber-
+impacted electrical systems. This is not a tabletop. This is
+real technology being tested in the field.
+One of the key tenants in this program, and part of my
+role, is the development of test bed environments that enable
+exactly that and aiding in the creation of the exercise format
+that enables the evaluation and improvement of those
+technologies as they are developed before they are called to
+action.
+By creating these environments and developing scenarios
+that allow practitioners to put these tools to work, great
+progress can be made on preparedness as we continue to invest
+in cyber resiliency. This effort, along with years of prior
+work funded by DOE OE CEDS, provides me with direct experience
+in understanding where the tools that we have built succeed,
+and where they fail us.
+I look at test beds and many look at test bed environments
+as a piece of a bigger puzzle but as an area of focus on their
+own. That needs to change. And the full potential of test beds
+and their capabilities need to be realized to advance our state
+of security.
+Imagine a facility that allows for testing our systems in
+unprecedented ways, that enables innovative training for our
+current and future workforce, that exposes our system to
+sophisticated attacks and allows us to understand what they
+look like and how to address them in practice, that puts our
+policies and procedures to task and does all of this repeatedly
+in days or weeks, rather than months, years or decades.
+This system also needs to be flexible. It needs to adapt to
+the needs, the system's understudy and the adversarial threat
+landscape as it evolves.
+We must be prepared and test beds can help us do that, but
+such a facility does not fully exist today. Great strides have
+been made in academia and national labs, and with the right
+combination of funding and people it can be fully realized.
+We are only as strong as our weakest link and when put into
+the context of cyber resiliency for the grid, that weakest link
+is likely our staffing. Many organizations have cybersecurity-
+focused staff on hand, as well as third party entities
+contracted to full response actions. In the end, however, we
+simply do not have enough people to deal with a large-scale
+attack. Even if we put our best people on the ground, without
+the right tools and practiced skills of using those tools, they
+will be inefficient at best in the face of a determined and
+sophisticated adversary.
+We can and should put money into technology, but without
+the people to leverage it appropriately, we are still at a
+loss. We must invest more in our people. We have to think
+outside the box and we have to innovate in how we train people.
+Staffing in a large-scale emergency response is often one of
+the most difficult undertakings, so we need to address it
+proactively and increase the breadth of resources now. Only
+together can we solve these problems.
+Thank you.
+[The prepared statement of Mr. Yardley follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Mr. Yardley.
+A very important reminder at the end that with all the
+technologies, it is still the human beings that we need to have
+on the ground working through so many of these. I appreciate
+that.
+This has been a great discussion, really. I thank you all.
+You clearly have identified where these vulnerabilities are
+when, if we were to have a significant crisis and this whole
+issue of blackstart, where is the vulnerability? Are you able
+to test as you need? Are you able to communicate during the
+time of the disaster? The vulnerability of being reliant on a
+single fuel source. The cost, the people, the trained
+individuals. So again, very good conversation.
+I want to start my questions off about the reliance on a
+single fuel source for blackstart. The joint NERC and FERC
+report that many of you have cited cautions us against reliance
+on a single fuel for blackstart capabilities. But do we have a
+sense as to how many blackstart power plants actually rely on a
+single fuel source? And if we can identify that, what progress
+are we making then toward diversification for multiple fuel
+sources? Dr. Ortiz, since you raised it, and Mr. Ott, you have
+been very involved with it, if you could speak to that.
+Also, I am curious to know more how hydropower can play
+into this fuel source as that alternative. As Senator Cantwell
+has mentioned, she is blessed with extraordinary hydro
+resources, but when you think about a fuel source, a ready fuel
+source that is just sitting there with a level of availability
+that, perhaps, you don't see with outside fuel sources like
+storage of diesel or gas. So if you could speak to that, both
+of you.
+Go ahead, Dr. Ortiz.
+Dr. Ortiz. Yeah, thank you very much, Madam Chairman.
+By way of introduction, let me note that in our study, one
+of the key recommendations was that an entity identify areas
+where its blackstart generators depend on a single fuel
+source----
+The Chairman. Okay.
+Dr. Ortiz. ----and look toward options for mitigating the
+potential risk of that fuel source not being available. There
+are a number of ways in which to do this. They could include
+firm contracts with alternative fuel sources, as well as
+working with local regulators to ensure appropriate air permits
+for, say, diesel or other fuels to be used.
+Unfortunately, with respect to specific resources and
+specific plans, given that our study drew upon the anonymous
+participation of a number of utilities, I can't speak to any
+specific cases. However, in general, the study team, in looking
+at some of the best practices at the participating utilities,
+saw that those that had sought, that those that had identified
+this risk, had been able to identify means in which to mitigate
+it.
+The Chairman. Mr. Ott.
+Mr. Ott. Thank you, Senator Murkowski.
+The issue--we have raised the issue and, certainly, talking
+about the issue of single fuel dependence, it's not only on
+blackstart but more globally, I think. So what we've addressed
+is we've started a process to have a discussion with our
+stakeholders. I don't think it's a widespread issue, meaning 50
+percent, but there is some vulnerability there.
+So we are addressing it through our request for proposals
+that we issue for blackstart services. We are addressing it
+through discussions with stakeholders. The reality check is it
+becomes more expensive when you ask for more fuel diversity.
+But certainly units like hydro and other diverse units, whether
+it be the combination of solar and battery that's still
+experimental, but it's those types of things that will help
+reduce the cost and similarly with other types of fuel security
+questions. As long as you identify the service and don't fall
+into the trap of saying I want a specific technology and I want
+to save a specific type of plant, then it becomes a little less
+expensive. But certainly, we're on it. I would say, certainly
+it is a vulnerability, but it's not a widespread vulnerability.
+The Chairman. But it is a vulnerability that you are
+highlighting and not directing these are your preferred
+alternatives. It is what works for you within the region for
+that particular utility.
+Mr. Ott. And what's key is we're stating the requirement is
+fuel security and a diverse, you know, no dependency, no single
+point of failure. So the requirement is not you have to be oil,
+or you have to be gas, or you have to be hydro, and I think
+that helps lower the expense because you're allowing more
+diverse resources to come in and provide the service and the
+service is security of supply, essentially.
+And for blackstart, you know, we don't want to have a
+single point--I mean, if the system is going down and you have
+very few options, you don't want that single point of failure
+to rear its head in a surprise and, certainly, we are on that
+and we are taking action.
+The Chairman. I appreciate that.
+Senator Cantwell.
+Senator Cantwell. Thank you, Madam Chair, and I thank the
+witnesses. You have all provided--I think I could ask a
+thousand questions--but I will try to be focused.
+You brought up some really good points, and I would say
+just from my own experiences in the State of Washington, we had
+a horrific slide that killed 40 people, called ``the Oso,''
+that basically cut our community and response in half.
+Literally, we did not have broadband communication nor the
+ability to get to the community because the slide isolated
+everybody. You literally had to drive around three hours to
+just communicate with the individuals. It made the response and
+the recovery so challenging, and we have had other natural
+disasters in our state that just bring up this entire
+communication element of the response.
+Ms. Ditto, you mentioned that, and Mr. Yardley, you
+mentioned it. Mr. Galloway, you mentioned it too. What do we
+need to do on the communication side to make sure that the work
+on the restart is coordinated as well? Because I think this is
+something--I know that movie Blackhat. I mean, they literally
+were--or wait a minute, not Blackhat. I think it was the Bruce
+Willis movie, Live, whatever it was called, something Live
+Free, Die Hard.
+[Laughter.]
+But he--I have watched many of these cyber--but anyway that
+was----
+Senator Gardner. Stapleton Airport, just for----
+Senator Cantwell. ----that was a fire sale issue.
+But the point was that they had to go to the ham radio
+operators, like the only people left to communicate were the
+ham radio operators.
+What do we need to do on the communication side here?
+Ms. Ditto. Thank you, Senator, for that question. I can
+lead off, if that's okay?
+So, first of all, I'll just say, just, sort of, state the
+obvious. Digital communications is why we have a cyber
+vulnerability in the first place. But those same digital
+communications enable a much greater efficiency in our grid
+that enables variable energy resources and other types of
+resources that we all care about and want, including battery
+storage and solar rooftop and some of the things on the edge of
+the grid.
+So there are some really positives about communication, but
+they also create vulnerabilities that we have to manage that
+risk over time, including doing some of the research that was
+suggested by Mr. Yardley.
+But when it comes to this idea of a real Black Sky event or
+a blackstart restoration event, as I mentioned in my testimony,
+utilities themselves own and operate their own networks, in
+most cases, because the traditional communication carriers just
+aren't willing or able to provide the level of reliability
+that's needed by utilities in these situations.
+So if digital communications are lost because of a
+cyberattack or because of some other situation where your fiber
+lines are cut or something like that, we still can default in
+most cases to voice communications over radios, kind of like
+you were mentioning with the ham radio situation. We have
+microwave-based systems that we've built and maintain and we
+have backup power for them because communication systems
+require electricity to operate. So we have backup power
+generation and fuel onsite. Some utilities have fuel onsite for
+those backup power generation--backup power generators for
+their communication systems of 6-10 days. And that's part of a
+standard that the utility has developed, the fuel onsite for
+those backup generators, for communications only.
+There are things we're doing already, but some of these
+policy areas could be addressed.
+Senator Cantwell. Well, I wish, and I want to hear from Mr.
+Yardley, but I wish we would address these because we have real
+life examples now. We can go back to our Carlton Complex fire
+where the Okanagan Valley was basically on fire. The
+communication lines burned up, and you could not even
+communicate with individuals.
+I think we have some test beds, but I want to hear from Mr.
+Yardley about your thoughts.
+Mr. Yardley. I think there's really two key issues.
+One is the physical attack on the communications, blocking
+spectrum, radios not being available, lines being down, et
+cetera, due to issues from that perspective. But there's also
+the cyber. What if they're all there, but you can't use them
+because you can't trust them? They've been attacked themselves.
+So what do you do then? And further, how do you--it's one thing
+to support the normal operations, but how do you support the
+forensic response as well? How do you enable that channel of
+communication which may be completely different than
+traditional operations and at the same time, your number one
+priority is to support the normal operations, but you have to
+weigh that against the ability of forensically communicating to
+be able to support that operation and enable it in the first
+place?
+The second aspect is that with comms under attack
+themselves, we're good at defending our communications
+networks, right? The internet is defended everyday from attack
+and subversion, but we see it happen still. So what's to say
+that an adversary would not do that when they were attacking
+the grid, that they wouldn't have a multipronged attack that
+attacks not just the grid, but also attacks the communications
+as well?
+So we have to think about it broader, not just in the
+aspect of are comms available, but can we trust those comms? Is
+the adversary listening? Is the adversary manipulating those
+communications while we go?
+Senator Cantwell. Do we have enough resources here? How do
+we get a full understanding of the resources needed? I mean,
+you are coming to us, you know, the home of mosaic and
+producing, really, what translated the DARPA information into a
+browser. What else do we need to do to give institutions like
+you and others the resources?
+Mr. Yardley. Well, I think that's a difficult thing, right?
+There are people that are needed, right? The people that can
+train the material that they need to train about and adapting
+that. But there's also gaining the interest. The aging
+workforce has been reluctant, in some ways, to engage in some
+of the more modern technologies and you're seeing that
+adaptation come in with the younger workforce coming to market.
+But they don't have the background that the existing workforce
+does on the rest of the systems.
+And how do you marry those two together, where you have
+people that are trained on the physical aspects of the system
+but that are also as well versed on the cyber aspects of the
+system? How do you create that hybrid? We've been trying to do
+that for years at the University of Illinois in collaboration
+with a lot of other academics, but it's a very difficult
+problem to solve.
+And I think test beds are a way that you can help do that,
+by getting people hands-on experience with these types of stuff
+so that they can actually say, alright, look, I am doing my
+physical function that I have, but I have these cyber
+operations that I have to deal with and understand and address
+at the same time.
+Senator Cantwell. Well, I know I am way over time but,
+Madam Chair, I think we should have a WPPA program for
+cybersecurity. We should just say, calling all Americans, we
+will help you get educated in this area if you help us. I think
+there are a lot of young people in the Northwest, if they heard
+that call, who would respond to it. I mean, we get cheap hydro,
+we get cyber, we get the internet. But we need to sharpen our
+call that we need them and we need them to respond to this. We
+need thousands, hundreds of thousands of people in this
+infrastructure call. So I hope we can figure out a way to
+promote that.
+The Chairman. Thank you, Senator.
+Senator Gardner.
+Senator Gardner. Thank you, Madam Chair. Thank you to all
+the witnesses for your testimony today and your great work in
+this field.
+I am particularly pleased to have Mr. Torres joining us
+today from the National Renewable Energy Laboratory and also
+particularly pleased to have him here because of his hometown,
+La Junta, Colorado, a small town in Eastern Colorado. To see a
+small-town Colorado kid of the Eastern Plains grow up and run a
+laboratory with world-renowned scientists is pretty doggone
+exciting and says something great about this country. So thank
+you very much for your leadership and for being here.
+I will start with you and the questions that I have.
+We had a chance to visit both at NREL when Secretary Perry
+made the visit a couple of months ago to Golden and, obviously,
+in the office this morning, we had a chance to talk. We talked
+about resiliency. We talked about our electric grid. Your
+understanding of the grid and the potential we face for
+significant blackouts and, you know, we had some power outages
+just this past weekend. It started snowing in Colorado, so the
+ski slopes will be open. We are preparing for that. Get your
+tickets now. Everybody can reserve those hotel rooms. But we
+are starting to see--we had some blackouts, right, because we
+had tree branches falling on the power lines and some of that
+first snow. We are talking about events that could be
+catastrophic, not just a neighborhood that is out, and what
+that could mean long-term.
+What areas of research do you see as most vital to our
+nation to avoid risks of these blackouts, catastrophic-style
+blackouts? What area is most vital for our nation to avoid
+these risks? How do we quickly and effectively recover from
+these types of occurrences?
+Mr. Torres. I think there's opportunities in some
+technologies, in distributed generation. Energy storage, I
+think, is a big area, especially coupled with some of the new
+renewable sources that actually are becoming more abundant,
+like solar and wind, specifically.
+I think there's a need for more research around inverter
+controls and how you actually network some of these various
+devices in a consistent way, replicable way.
+I think there is opportunity to see how we can better get
+inverter-based technologies to interact with the traditional
+inertia-based generators as well.
+And, of course, the cybersecurity aspect, I think, is still
+really important. We need to understand that much better. As we
+bring in some of these technologies that have not traditionally
+been used for blackstart, we may need to--we need to start
+looking at supply chain challenges there because they have not
+been on the list for that. So----
+Senator Gardner. Supply chain challenges in terms of
+cybersecurity? Where those products are----
+Mr. Torres. Exactly.
+Senator Gardner. ----and other things?
+Mr. Torres. Absolutely.
+I think there--because the focus has been on a lot of the
+technologies that have traditionally been part of blackstart.
+As we start to incorporate some of these new technologies, that
+has to be on the list as well and understanding the life cycle
+supply chain.
+Senator Gardner. Thank you.
+Senator Murkowski, I think, talked a little bit about
+hydropower and the application for hydropower in this scenario.
+If hydropower is going to be an effective tool in such an
+incident, are we talking about the applicability of micro
+hydro, small hydropower projects? Are we talking about
+significant-sized, pump-backed projects like we have at Twin
+Lakes in Colorado?
+Mr. Torres. Right. So I think hydropower can play an
+important role in blackstart. It's one of the most economically
+effective and efficient generation sources for blackstart
+because it does not need a lot of power to get its turbines
+running as you might need for some of these other generation
+types. I think where it is an abundant resource, where water is
+an abundant resource, it makes tremendous sense. We don't have
+that everywhere, but I think there's opportunity at different
+sizes.
+Senator Gardner. At different sizes, so a smaller project
+works just as well as a bigger project?
+Mr. Torres. They could potentially support at smaller sizes
+as well, absolutely.
+Senator Gardner. Very good. Thank you. Thank you for that.
+Dr. Ortiz, I was interested in the studies that you
+mentioned and your study that you talked about, the joint
+study. A team recommended utilities prepare for widespread
+blackouts by talking about the vulnerability of backup power,
+adequacy of communications, personnel requirements, perform
+manual restoration activities without EMS or SCADA. Have the
+utilities completed those assessments? Are there any early
+results that you can share?
+Dr. Ortiz. Thank you for the question, Senator.
+I should note that the study made these recommendations to
+the utility industry based upon our review of their restoration
+plans, looking specifically at their ability to restore their
+systems without access to SCADA, EMS or other communication
+means or traditional communication means.
+I thank the eight utilities that participated with us.
+However, this was not a compliance exercise, nor a specific
+compliance, set of compliance guidance, but rather just a set
+of recommendations. So, in particular, the staff has not
+followed up with the general industry on these topics. If you'd
+like I can go back to the team leaders, as well as our partners
+at NERC and the regional entities to see if they have learned
+anything in addition.
+Senator Gardner. Thank you very much, Dr. Ortiz.
+Ms. Ditto, the comment you made, I believe, talking about
+FCC and FERC, and I'm out of time, so quickly. There is some
+communication or is there none?
+Ms. Ditto. You know, that's actually a better question to
+FERC, but I don't think there is any kind of formal
+communication between the two agencies right now.
+So we would ask that to be formalized in some way, whether
+through an MOU or a less formal process like they undertake
+with the NRC. There are some precedents for that because they
+really do need to understand each other, and we're not sure
+that that situational awareness is occurring from either agency
+right now.
+Senator Gardner. Great. Thank you.
+The Chairman. Thank you, Senator Gardner.
+Senator Manchin.
+Senator Manchin. Thank you, Madam Chair, and thank you all
+for being here.
+My first question is going to be about blackstart itself.
+How many megawatts of blackstart capacity do we have in the
+United States? If anyone can answer that? And then, how many
+megawatts of blackstart capacity do we have in PJM?
+Mr. Ott.
+Mr. Ott. Thank you, Senator Manchin.
+Again, blackstart is a very unique service.
+Senator Manchin. Sure.
+Mr. Ott. And so, as far as the total megawatts, it's much,
+much smaller.
+Senator Manchin. Sure.
+Mr. Ott. We're in the hundreds of megawatts type of----
+Senator Manchin. Maybe I can ask the question a little bit
+differently.
+Mr. Ott. Okay.
+Senator Manchin. How many megawatts does it take to start
+up a plant? So let's use a 900-megawatt coal-fired plant. It
+goes down completely. The whole system collapses. How many
+megawatts?
+Mr. Ott. Right. Generally speaking in a plant that size,
+you're probably looking at between 10 and 20 megawatts to get
+everything running.
+Senator Manchin. To get it back up and running?
+Mr. Ott. To get it moving.
+But the point is, is there's other, you have to connect to
+it. You have to connect through the transmission to it.
+Senator Manchin. Sure.
+Mr. Ott. So there's some extra stuff there.
+But you're in the hundreds of megawatts type for the
+system. But nuclear plants, of course, require a little bit
+more blackstart.
+Senator Manchin. I am understanding that hydroelectric is
+the best backup system we have for blackstarts?
+Mr. Ott. It certainly is a capable resource but my opinion
+is as, obviously, a very conservative power operator, I want
+diverse sets of resources. I want some hydro, some small gas,
+some small oil. I want some stuff spread around because you
+only have hydro in certain spots.
+Senator Manchin. Anybody else on how much blackstart
+capability we have? Nobody? If anybody could find that out, I
+would appreciate it because I want to know how vulnerable we
+are.
+We are talking about this and it has not happened, but we
+have had some historic blackouts and challenges over the years,
+and we could be in a very dire situation. I am concerned about
+the reliability of the grid.
+Yes, sir, Mr. Ott.
+Mr. Ott. I can just give you a little bit more information.
+So we actually contract, PJM contracts on behalf of the
+region--remember we're about 25 percent of the U.S. So, we
+actually look at the plan, say how much do we need and we
+actually issue long-term or yearly or multi-year contracts to
+secure it.
+I can tell you for PJM, we've secured what we think we need
+based on the blackstart plan. And again, not to say that we are
+done, there's more to do.
+I think fuel diversity is an issue, meaning that we have an
+overdependence on one type. But I will tell you, we do, we've
+contracted----
+Senator Manchin. Since I am in your system, PJM basically
+takes care of my State of West Virginia. We have put an awful
+lot of power into the PJM system.
+A couple of things I wanted to address is, first of all, in
+2009, the national average price of electricity was $0.0982 per
+kilowatt-hour. In West Virginia, it was $0.0784 per kilowatt-
+hour. Today, the national average is $0.1312 per kilowatt-hour.
+In West Virginia it is $0.1142 per kilowatt-hour, and we have
+more energy than we have ever had.
+So something is causing the people who are struggling day-
+to-day, month-to-month, to pay a much higher price, and it
+doesn't make any sense to me whatsoever.
+Also, at PJM you have a total of 4,266 megawatts that you
+are going to retire, 2018 through 2020. The average age of the
+retiring units is 43 years. The size is an average of 249
+megawatts. Nine of those units, totaling 3,600 megawatts, are
+large enough that I would think at least some of these were
+probably relied upon during the bomb cyclone or all the other
+cyclones. What are you going to do when they go down? We have
+had this conversation before.
+Mr. Ott. Yeah, so essentially for the units that are
+retiring, we've done a study and actually released that study
+to say that for our reliability criteria, the NERC reliability
+criteria, they can retire on schedule and not violate any of
+the criteria. However, one thing that I think is a very
+legitimate concern and question that's been asked by yourself
+and others is at what point, as we have coal and nuclear
+retiring and more and more dependence on gas, at what point
+would we, in fact, have what I would call a fuel security or an
+overdependency problem on a grid the size of PJM which would be
+a significant risk.
+We will release a study on that very question,
+incorporating these retirements into that on November 1st. We
+will actually issue and say we've actually looked at this
+analytically, looked into the future, looked at even more
+retirements.
+Senator Manchin. Let me just say, if I can----
+Mr. Ott. So we are addressing the question.
+Senator Manchin. My time is running, and anybody can answer
+this question here because we have been working on, and I am
+concerned about, the reliability. We have an awful lot of coal,
+natural gas, we have hydro, we have wind. We have been very
+blessed in West Virginia. We are, as you know, a big net
+exporter of power, and we do the heavy lifting. We don't
+complain about that.
+But we worry about the resilience of our system. With that
+being said, I have been a big supporter of, basically, the
+Defense Act that makes sure that we keep the best of the best,
+as far as in coal-fired plants and nuclear plants that are up
+to specs and have the latest technology in operation, for at
+least two years until you can get through this because a lot of
+analytics are going on right now. If this all comes down and
+these retirements go into an accelerated rate, I believe that
+the grid is going to be jeopardized, the security of our nation
+is going to be jeopardized.
+What is you all's feeling as far as the Defense Act giving
+us the ability, at least a 24-month ability, to find out what
+direction we are going to go and how we get there? Anybody want
+to talk on that one?
+Mr. Ott. I can certainly offer a comment.
+I think the retirements in question have been announced.
+They're for 2021-2022 timeframe. Our analytics are looking at
+those timeframes and, certainly, I think we do have time,
+should we find a problem, to take action within our systems.
+So by offering we would be, instead of the Federal
+Government stepping in, allow us to complete our analysis in
+the time given. But at this point--I'll yield back because it's
+time.
+Senator Manchin. But my thing is, this basically makes no
+sense to West Virginians at all to produce as much power as we
+produce, to be paying higher prices that are unnecessary and
+having plants come offline that are basically gouging West
+Virginians. This is what they cannot understand. We have lower
+gas prices than we have had for the last 20 years. We are
+pumping more gas out of our state than ever before, and our
+people are paying higher prices. It makes no sense, sir. We are
+getting screwed.
+Thank you.
+The Chairman. Thank you, Senator.
+Senator Hoeven.
+Senator Hoeven. Dr. Ortiz, how frequently do utilities have
+to test blackstart units to ensure they can function in the
+event of a system-wide blackout?
+Dr. Ortiz. I'm reading, actually, directly from the
+reliability standard. That's EOP-005, Version 2, Requirement 9
+says, ``Each transmission operator shall have blackstart
+resource testing requirements to verify that each blackstart
+resource is capable of meeting the requirements of its plan.''
+These resources--``The frequency of testing such that each
+blackstart resource is tested at least once every three
+calendar years.''
+Senator Hoeven. Is that enough?
+Dr. Ortiz. It is what the reliability standards--the way
+that they are developed is through a consensus process
+developed by NERC through industry with industry experts
+participating in the panel and with FERC staff members
+observing. Then the Commission takes the filing from NERC and
+then approves or directs changes.
+This particular standard has been approved and is in
+effect. And, in fact, in January a new version of this standard
+has been approved and will become effective shortly. So from
+the standpoint of industry, as well as the experts at NERC and
+our staff review and the recommendations to the Commission and
+the Commission's determination, yes, it is enough.
+Senator Hoeven. Mr. Ott.
+Mr. Ott. Yes, the requirements, certainly, I agree with Mr.
+Ortiz, is three years, but at PJM we test every year because we
+feel going above the standard is prudent in this particular
+case. At least in our region, we would test every year--or we
+do test every year.
+Senator Hoeven. Are you typical or atypical?
+Mr. Ott. I'm not sure. I'd have to get back to you on that.
+I think my experience with the industry is people tend to
+exceed the standard. So I would think we're not alone.
+Senator Hoeven. Are there regulations that are an
+impediment or things that Congress could do that would be
+helpful in regard to this issue?
+Mr. Ott. I think, in general, the blackstart, the
+controversy over blackstart is the expense, the cost of it. And
+there's been some controversy over the cost.
+One other issue with blackstart is some of the emission
+rules in the emergency situation, getting relief from emission
+characteristics and rules is also something that we have to
+make sure we can streamline.
+Senator Hoeven. Ms. Ditto, you mentioned in your testimony
+that a Black Sky event, or a blackstart situation, would
+include the failure of not only our electric utilities but also
+our information and communication technology networks. Can you
+speak further about the importance of the communications aspect
+and how you deal with it?
+Ms. Ditto. Yes, thank you, Senator, for the question.
+As I mentioned in my testimony, utilities provide their own
+information and communications technology networks for the very
+reason that they need high levels of reliability. They need
+those communications networks to be available to them in
+restoration.
+In a Black Sky, very serious situation, where we have a
+blackstart scenario, there could have been a cybersecurity
+event precipitating that. So utilities also have redundancy in
+their system to go to voice communications, as I mentioned
+earlier, and that's typically radio-based.
+So they do have redundancy in their systems to deal with a
+cybersecurity attack. Will that get them everything that they
+need? Perhaps not, particularly given that there are policies
+being undertaken at the Federal Communications Commission
+around provision of those radio systems. You need radio
+spectrum to operate them and if you have interference during a
+restoration or a blackstart, you're not going to have the level
+of communications you need to enable those blackstart
+operations.
+But we do maintain and manage our communications systems
+very well and we test them, and we also have fuel backup onsite
+for our communications systems, specifically.
+Senator Hoeven. That is tested at least once every three
+years?
+Ms. Ditto. I'll have to get back to you for the record on
+how often we test our communications fuel backup systems, but
+we are vigilant in keeping those ready.
+[The information referred to follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Ms. Ditto. I'll give you an anecdote. After Hurricane
+Matthew a couple of years ago, we did ask our members if their
+communications systems stayed online and they did. We had
+electricity outages, but we did not have communications system
+outages for our own internal communications. The communications
+carriers were out. The telecommunications carriers were out of
+service. We stayed up. We did have to deploy backup power in
+some cases to our communications systems, but we were able to
+do that and they remained online.
+Senator Hoeven. But you would advocate that should be part
+of the test?
+Ms. Ditto. Yes, I think we should have testing.
+Senator Hoeven. Mr. Galloway, in our state we are doing a
+lot with unmanned aerial systems, UAS, or drone development. We
+have a test site and a lot of other things and we have used
+them in situations where we have had storms, floods, various
+things. Talk about the role of UAS in terms of responding to a
+blackstart situation.
+Mr. Galloway. I think the role, the use of drones, is
+increasing very rapidly. It's turned out to be a very useful
+tool for normal operations like, kind of, overseeing rights-of-
+way in terms of vegetation management but increasingly in
+damage assessment.
+Senator Hoeven. Right.
+Mr. Galloway. So some of the incidents that I mentioned in
+terms of, like, restoration from Hurricane Irma, extensive use
+of drones, likewise Hurricane Harvey in the Houston area,
+extensive use of drones.
+I do think that one of the issues that we need to look at
+is for any new technology like that, you have to protect that,
+again, from the cybersecurity standpoint, make sure that
+there's no issues.
+And then lastly, I know that kind of coordination in terms
+of access to airspace post-event is an issue. Under Hurricane
+Florence, my understanding is there was a delay of restoration
+of up to a day just, kind of, coordinating access to airspace
+with first responders.
+Senator Hoeven. That is exactly right, and that is why
+utilities in our area are working with our UAS development
+efforts for some of those very reasons.
+Thank you.
+The Chairman. Thank you, Senator Hoeven.
+Senator Smith.
+Senator Smith. Thank you, Madam Chair and Ranking Member
+Cantwell. I must be turning into even more of an energy nerd
+than I was before I got here because this is absolutely--it is
+really, really interesting. And thinking about all the
+different aspects of what we have to be addressing here in
+terms of workforce and startup energy sources and planning and
+testing and communications and also the research that we need.
+I mean, I think this is a very rich conversation.
+I would like to focus in on the question of startup energy
+and, especially, how batteries could be helpful to this. This
+is something that I am quite interested in.
+I introduced a bill last month that would fund energy
+storage capacity at the Department of Energy. This seems to me
+to be something that we can either be leading on in this
+country or following on, and I would rather have us be leading
+on it.
+Mr. Torres, I might start with you and ask you a little bit
+about how you see battery storage as being an important
+component in the energy fuel source? I also have to say, I have
+been to La Junta and brought an ATV there with my dad. So it is
+a great community.
+[Laughter.]
+Mr. Torres. Thank you for visiting.
+[Laughter.]
+Senator Smith. You are welcome.
+Mr. Torres. So thank you for the question.
+Energy storage, I think, can provide a bigger role, not
+just in blackstart, for the grid to increase resiliency
+overall. It can potentially provide a resource, maybe to help
+power up some of the smaller generators, to get those kick-
+started.
+Senator Smith. Right.
+Mr. Torres. It can also help with, you know, even smoothing
+some of that transition as we bring some of the various
+resources on. So there's a lot of opportunity in that
+particular space.
+I think where some of the challenge is, is looking at how
+those systems work in conjunction, where energy storage works
+in conjunction with the various other technologies right now.
+Senator Smith. Is that an issue of having a coordinated
+response and making sure that the things are coordinated as
+they come back on?
+Mr. Torres. Absolutely, that's a big part of it. I think
+within blackstart, coordination is very, very important.
+Senator Smith. Yes.
+Well, in Minnesota we get about 25 percent of our energy
+from wind and solar, and that is growing, not declining, so
+there are lots of reasons for us to care about battery research
+and advancing battery storage. This is an area where learning
+about how batteries could be helpful here strikes me as very
+important.
+Would others on the panel like to comment about this?
+Dr. Ortiz, I think in your testimony you talked about a
+utility in Southern California that was able to use battery
+storage to provide blackstart service.
+Dr. Ortiz. Yeah, as part of our review of the blackstart
+restoration plans with the participating utilities, staff
+identified one utility that had successfully used a battery
+for, in its blackstart procedures. And the reason for that is
+that a battery, of a certain size, is able to then provide the
+power that is required to startup a larger facility.
+The process of blackstart is one of starting small and
+growing with a sequential pickup of both generation and load at
+the same time. So smaller scale resources that are more
+flexible tend to be those that are preferred for blackstart
+services. Batteries would fit into that category.
+Senator Smith. Would others like to comment on this?
+Ms. Ditto. I would just say for, sort of, future facing,
+beyond blackstart, really when we're talking about a more
+modern grid and we're talking about edge of the grid issues,
+you need a high level of granularity for those storage
+facilities and for other variable resources to work, needing
+storage, but also to interface with the electric grid for
+backup power. You need a high level of interaction and
+granularity to enable that because of the delicate balance
+between supply and demand on distribution grids.
+So that's going to require even more communications
+technology to be overlaid.
+Senator Smith. Right.
+Ms. Ditto. Which is going to pose some cybersecurity
+challenges and other challenges, but I think that's a key
+component to enabling these types of resources is the
+communications technology piece.
+Senator Smith. Very good.
+Yes?
+Mr. Galloway. And then I would add to the extent that we
+are introducing more and more variable resources into the grid
+in terms of generation, that really does call for utility scale
+battery storage as part of the solution there.
+Senator Smith. Right.
+It could be--just say a little bit more about that, what
+that would look like.
+Mr. Galloway. Well, I think we're talking today in the
+context of blackstart as Dr. Ortiz indicated when you start
+small and kind of grow but, you know, just the operating
+characteristics of a lot of the renewables are intermittent,
+right? And that introduces some added operational complexities.
+So there's tremendous merit in being able to store that
+energy and bring it back online----
+Senator Smith. Right, right.
+Mr. Galloway. ----as necessary to, kind of, smooth out that
+intermittency.
+Senator Smith. So I would say that additional research and
+development around battery storage is useful in a variety of
+ways. It also could be very useful as we think about how to
+address blackstart challenges.
+Mr. Galloway. Correct.
+Senator Smith. Right. Great. Thank you very much.
+The Chairman. Thank you.
+Senator Hirono.
+Senator Hirono. Thank you, Madam Chair.
+The advancements in battery storage are also very important
+for Hawaii, because I think we have the most ambitious
+sustainable energy goals--100 percent reliance on renewables by
+2045. So battery storage is really important.
+Ms. Ditto, first I would like to join you in commending the
+workers in the utility industry who do so much to restore power
+during and after a storm. We have so many storms these days.
+Right now, utility workers from across the nation are heading
+to Florida and other states affected by Hurricane Michael as
+part of the mutual agreements pre-established by utilities to
+help each other out after a disaster. I know that Hawaii
+utilities are grateful for the mutual aid agreements they have
+in place with their mainland counterparts, and they are just an
+example of the bonds that tie all Americans together.
+Second, you noted the importance of electric utilities'
+private communications networks to ensuring recovery of the
+power system. As you no doubt remember, there were tragic
+instances of police and other first responders not being able
+to communicate with each other during the 9/11 attacks.
+How well do different utilities' private communications
+systems operate with one another so that a utility crew from
+one company is able to communicate with utility workers say, in
+Hawaii or any other state recovering from a disaster? I am
+assuming, of course, that this kind of interoperability is
+really important for recovery efforts.
+Ms. Ditto. Senator, thank you so much.
+I just want to mention that I spent seventh grade through
+twelfth grade in Hawaii. I went to Punahou. So----
+Senator Hirono. Oh.
+Ms. Ditto. I'm very familiar with the island and my family
+is still there so, yes, I just wanted to mention that. I miss
+being there sometimes.
+I will say that that's a really great question, because
+this goes back to this idea of utility networks and utilities'
+reliance on wireless networks. In the case of radio spectrum,
+the available radio spectrum has not been dedicated to utility
+needs. So when you're in different spectrum bands you need to
+use different equipment and network devices. If you're in
+multiple bands, you cannot interoperate with each other. In
+some cases utilities in a geographic proximity to each other
+will share a band, but that is rare because of this lack of,
+sort of, dedicated spectrum. We're not necessarily asking for
+dedicated spectrum now because that ship has, kind of, sailed,
+but it does speak to the lack of being able to communicate.
+I will say that in rare situations, we do share spectrum
+with first responders. That is something that could be
+excellent in the future. But again, the way policy has
+developed at the FCC has been not--there hasn't been a focus on
+critical infrastructure sectors. There's been more of a focus
+on commercial provision and telecommunication services. So this
+is an area that we'd like to, again, get the FERC and the FCC
+together around, but that interoperability does not exist
+today.
+Senator Hirono. Do you think it is important going forward
+for us to figure out how to do that?
+Ms. Ditto. I think it would be incredibly important. I
+think the first step, again, is greater education about--radio
+spectrum, to be clear, is a finite resource and there are lots
+of demands on it.
+Video streaming, I mean, all that we do at home, Netflix,
+all of that requires spectrum. So there are challenges, but we
+have to remind ourselves what is the priority. We all need
+electricity to exist in this modern world.
+So, yes, we would like to see some changes in the future,
+but starting with some education of agencies would be great.
+Senator Hirono. Well, all these years after 9/11, I don't
+know if the interoperability issue has been resolved with
+regard to first responders. I did some work along those lines
+back then and my hope is that we're moving along, but you know,
+this situation creates yet another circumstance where we have
+to address those issues.
+Mr. Torres, in May I was able to attend the opening of a
+biodiesel fuel power plant at the Schofield Army Barracks. This
+plant is the only blackstart-capable generator outside of the
+tsunami strike zone on Oahu and it was, kind of, astounding
+that a lot of these power plants are located close to where
+their fuel sources are, so they often are in tsunami zones. So
+they finally figured out that is not a good place to put power
+plants.
+[Laughter.]
+The 50-megawatt plant is owned and operated by Hawaiian
+Electric on land leased from the Army. In an emergency the Army
+can use the plant as part of a microgrid to provide secure
+emergency power to the Army Schofield Barracks' fuel stations,
+Kunia and Wheeler Army Airfield. This project can serve as an
+example to other military installations in need of a secure
+source of power.
+I want to ask you, what opportunities and challenges do you
+see for broader use of microgrids for ensuring resilient power
+when the larger grid fails?
+Mr. Torres. That's a great question.
+Microgrids are still maturing with regards to technology,
+with regards to procedures, with regards to standards but I
+think there is a tremendous opportunity, especially when you
+lose a transmission line where you may not be able to provide
+power from the bulk grid.
+Especially when you have critical loads like a military
+installation or hospital or other government installations, you
+may want to add some resiliency with distributed resources at a
+microgrid level.
+I think there's opportunity, as well, to explore how
+microgrids could provide blackstart capability to help start up
+the bigger grid. There's a lot of work that would still need to
+be done in that space from the regulatory perspective as well
+because, I believe, most of the regulatory guidelines for
+blackstart assume utilities are the ones that are actually
+putting the power on the grid and when you're talking about
+microgrids, you could have a whole spectrum, you know. In that
+case, you might have a military installation, essentially,
+operating from that perspective and putting power on the grid.
+So it would have to be very closely managed and controlled by a
+utility.
+Senator Hirono. If I may, Madam Chair?
+Does the rest of the panel also agree that microgrids are
+an opportunity for us and we should be looking at how we can
+enable more microgrids?
+Mr. Ott. Yes. In fact, we have seen microgrids actually
+provide restoration. For example, remember Hurricane Sandy and
+there were points of light in New Jersey that were microgrids
+and having them, actually, then look at a way to be a viable
+part of the picture in restoration. The real issue is
+coordination, visibility to operators like us.
+So it's really--to work out those types of details, as the
+technology itself, we think, is probably a viable technology
+for blackstart. There's certainly promise there. We just need
+to do more.
+The other issue is compensation. How are people going to be
+paid to help their neighbors? Because you can only depend on
+good neighbors so long, and then you need to systematically pay
+for it.
+Senator Hirono. Thank you.
+Thank you, Madam Chair.
+The Chairman. Thank you, Senator Hirono.
+Senator Cortez Masto.
+Senator Cortez Masto. Thank you. Thank you, Madam Chair,
+and I appreciate the conversation.
+I want to go back to what Senator Hirono was talking about,
+the interoperability. This, to me, is a big concern, not just
+because of being here in 2001, 9/11 happened, I was in
+Washington, DC. You could not use a cell phone.
+After our horrific, horrific massacre, October 1, a year
+ago, my concern was the interoperability of our first
+responders and their access to the necessary communication and
+needs for public safety. I cannot stress enough that this is so
+important when we are addressing this issue, when we have a
+blackstart situation.
+Ms. Ditto, you talked a little bit about the need to
+educate agencies. What do you mean by that?
+Ms. Ditto. Yeah, so right now, I mean, the regulatory
+authority for radio spectrum resides primarily at the Federal
+Communications Commission which is outside of this Committee's
+jurisdiction. But because they have control over that radio
+spectrum, utilities weigh in with the FCC on their needs in
+this regard. But there's not a lot of understanding there.
+Senator Cortez Masto. Amongst the utilities?
+Ms. Ditto. Amongst the FCC folks----
+Senator Cortez Masto. Okay.
+Ms. Ditto. ----about energy needs and utility needs. And I
+would say that's true of other critical infrastructure
+providers as well. It's not their reason for being.
+So our idea is let's get FERC and the FCC, because FERC has
+the jurisdiction over the bulk power system, get them together,
+get them learning from each other like FERC does with the
+Nuclear Regulatory Commission and then from FERC. And that
+could be a good place to start to have some of these more
+serious discussions about interoperability. But as we know,
+when you don't understand each other's perspective at all----
+Senator Cortez Masto. Right.
+Ms. Ditto. ----especially in these very complex, I mean,
+these are very complex industries and I think having that,
+having technical conferences, having meetings, joint technical
+conferences, could be another thing that they do to educate
+each other or to educate the general public. There are a number
+of things that could be done to provide that education.
+We could also, you could bring them up here and we could
+have briefings with Congressional staff and with members of the
+Senate and members of the House as well. There are a number of
+areas we could have this conversation, but I think before going
+to policy changes, that needs to be, we need to have that.
+Senator Cortez Masto. To have the conversation?
+Ms. Ditto. Correct.
+Senator Cortez Masto. Mr. Ortiz, where is FERC with respect
+to this issue, and what are you looking to do after hearing the
+panelists and this discussion today?
+Dr. Ortiz. So FERC has engaged with other agencies in areas
+of mutual interest. Let me give you two examples.
+The first is periodic meetings with both the FERC
+commissioners as well as the NRC commissioners on topics of
+mutual interest. The last meeting took place in June and
+covered the topics of resource adequacy and security.
+And we just, the Commission, just recently signed and
+highlighted at our last Commission meeting a memorandum of
+understanding with the Pipeline and Hazardous Materials Safety
+Administration in order to further our mutual interest in that
+area.
+I acknowledge that there are mutual interests here as well;
+however, as a FERC staff witness rather than a commissioner, I
+cannot speak on behalf of the Commission but I'd be happy to
+discuss this with the Chairman and then report back to the
+Committee.
+Senator Cortez Masto. I appreciate that and the need to
+engage the FCC. I mean, that is what I am hearing here. And it
+does not sound like that is happening yet----
+Dr. Ortiz. I can't say. The purview of my office is
+electric reliability, focused primarily on the development,
+implementation and enforcement of mandatory reliability
+standards.
+There are some aspects, with respect to communications
+within our cybersecurity standards, but none at the level with
+respect to the actual provision of spectrum or appropriate
+bandwidth in order to facilitate such communications.
+Senator Cortez Masto. Thank you.
+Mr. Ott, did you have anything to add to this? I just
+noticed you are shaking your head----
+Mr. Ott. Well, yeah, the key is the electric sector, and I
+happen to chair on behalf of the Electric Sector Coordinating
+Council, the R&D Committee. One of those, one of the--in fact,
+the highest priority effort we have right now for 2018 and '19
+is redundant communication and actually looking at technologies
+that would allow us to essentially, in a Black Sky scenario,
+stitch together whatever kinds of communications are available
+into a network that we could actually utilize.
+And so, certainly from a utility perspective, we're not
+waiting for agencies to tell us what to do. We're actually
+trying to take action. I just thought that that might help with
+the conversation.
+Senator Cortez Masto. Okay, thank you. I appreciate that.
+Actually, my time is up. Thank you so much for the
+discussion.
+Thank you, Madam Chair.
+The Chairman. Thank you, Senator.
+Senator King.
+Senator King. Thank you, Madam Chair.
+I apologize to the witnesses for being late. There is no
+effort made whatsoever to coordinate schedules of hearings
+around here. I spent the morning in an Armed Services
+classified briefing which, believe me, you did not want to be
+in.
+New England is enormously dependent on natural gas. I just
+looked at my little app from the ISO--74 percent of the power
+in New England right now is coming from natural gas.
+In a polar vortex event or a pipeline disruption, a couple
+of questions: How would we fill in all of that power? And the
+second question is, I guess to the point of the hearing, can a
+gas plant blackstart? Does it have the technical capability to
+restart and put power into the grid?
+Mr. Ott.
+Mr. Ott. Thank you, Senator King.
+Yes, in fact, to answer your second question first, a gas
+unit can be blackstart. The key though is, obviously, if it
+can't get fuel----
+Senator King. Right.
+Mr. Ott. Then we've got a problem----
+Senator King. Assuming it is a problem not of gas supply,
+but it is a problem somewhere on the----
+Mr. Ott. Well, when you have a blackstart resource that has
+a single point of failure, meaning it could have an
+interruption of its fuel source and that would be a single
+point of failure, that's not a very robust blackstart resource
+because you want that blackstart resource to be there at all
+times.
+Senator King. Hydro could be though, couldn't it?
+Mr. Ott. There we go, exactly. And that's the whole point,
+is diversity of supply. That same gas unit, by the way, could
+have liquid fuel backup onsite and certainly could then be more
+dependable.
+But to answer your first question and this issue of--and
+certainly I'll talk to my colleagues in New England, Mr. Van
+Wheelie and others in New York, to try to coordinate our
+operations and our efforts, if you will, on resilience.
+I think the key here, and we're about to put a study out on
+this issue of fuel security and what is the plan, if you will,
+if we become over-dependent upon gas.
+In the PJM region, we're not quite as over-dependent as
+they are in New England, but the key is, what is the backup
+plan? How are we going to pay for liquid fuel, you know,
+delivery alternatives, when you have a gas infrastructure? In
+New England's case, what's the plan for depending on imports,
+other things like this? Those types of discussions on
+resilience are in the forefront right now. I think, certainly,
+our study will help.
+Senator King. I think you just answered my second question
+which is, should blackstart capability be part of any overall
+resource planning?
+Mr. Ott. Yes.
+Senator King. A plan, and the answer is yes?
+Mr. Ott. Yes.
+Senator King. I have to share a funny story. I was in
+college during the 1965 blackout. And in our college, we were
+all told never, ever plug in a hot plate. A fellow in one of
+our dorms plugged in a hot plate. The very moment he plugged it
+in, the lights went out.
+[Laughter.]
+He said, oh no, I've brought down the dorm. He walked
+outside. Somebody said the lights are out all over town. He
+said, oh no.
+[Laughter.]
+Then somebody drove by and said the lights are out all over
+the Northeast. And he said, now wait a damn minute.
+[Laughter.]
+So that is my 1965 blackout story.
+How likely is this to happen? I mean, we have not had a
+major blackout of that nature for 50 years. Is this a realistic
+risk? Is it something that should be on the top of our list or
+is this not as high a priority as, perhaps, other parts of grid
+security? Thoughts?
+Mr. Galloway. Well, we've been, in the transmission forum,
+spending a lot of time on the issue of resiliency under the
+assumption that however unlikely something of this scale could
+happen. And so, our planning has been, kind of, getting beyond
+design basis and assuming that the worst has happened for any
+number of different reasons and how would you, kind of, work
+back from that.
+So----
+Senator King. What are the reasons? Would this be a
+cyberattack or an explosion on a transmission system basis?
+What are we worried about here?
+Mr. Galloway. Well, we're looking at a couple of different
+things. One would be, as we're seeing in Hurricane Michael
+right now, there's natural effects, right? But you see an
+uptick in the number of, kind of, cyber phishing events, almost
+coincident with every type of natural occurrence like that.
+Senator King. Certainly, a cyberattack on the grid is a
+very serious concern.
+Mr. Galloway. That's probably the most serious concern
+right now and that in conjunction with some other kind of
+coordinated action or some natural event.
+Senator King. Thank you.
+Mr. Ott. If I may, Senator.
+The key is these very high-impact, low-probability events.
+I think we all, as a nation, are seeing these risks and risks
+that we haven't seen before. It used to be weather, you know,
+equipment failure. Now it's that plus intentional attack,
+cyberattack, et cetera.
+The infrastructure of the nation, I think, the way we have
+to approach it though, by the way, this needs to be addressed.
+And I think the way we have to approach it is economically. We
+have to say yes, okay, let's take action, but let's take action
+that is well thought out, looks at all alternatives, doesn't
+focus on one answer, looks at diversity. I think the way the
+industry is approaching it, certainly the way PJM is
+approaching this, is to say, it is a realistic threat.
+Certainly we haven't seen it in the past, but the way to
+approach it is with thoughtful analytics, not panic.
+I think you're seeing that. And I think, certainly from our
+perspective, we have and will propose to the regulators, here's
+a path forward that we think will work for everyone and
+certainly respect the fact that cost is, you know, you can't
+have unlimited expenditures here.
+Senator King. Right.
+Mr. Galloway. If I could, kind of, tag on to that very
+briefly? I echo everything Mr. Ott just said. So the term we
+use is, kind of, no regrets actions. We're really, we push on
+the concept really hard of taking a holistic approach and when
+you are working on resiliency issues, don't treat issues in
+isolation, right? Because economics is important and really,
+kind of, doing those things that would help you across a
+spectrum of a type of hazards would naturally be prioritized up
+on our list.
+Senator King. Madam, can I ask one more question?
+The Northeast blacked out in 1965. The grid is much more
+integrated today than it was then in a lot of different ways.
+Is there a danger that what happened in 1965, which was not a
+cyberattack but it was a series of successive failures, could
+spread nationwide, or are there gaps, are there protections?
+Mr. Ott. Generally speaking, when you have one side of the
+system go down, you'll see a separation and you saw that in
+2003 where we had some problems in Northern Ohio that took out
+New York into parts across there, but PJM system was able to
+stay up because of some strength of the transmission.
+So it's likely that type of event is not going to take the
+system down globally. It's more, the global thing is more, in
+my opinion, more of an intentional attack type scenario and I
+think that's different. So, yes, for what it's worth, I believe
+the grid itself has some protections to stop blackouts from
+spreading too far.
+Senator King. Thank you.
+Ms. Ditto. Well, also, there are three interconnections on
+the mainland U.S. and then, obviously, you have Alaska and
+Hawaii that have their own grids. But these interconnections
+are essentially islanded so, from a nationwide standpoint, it
+would be difficult to do. You'd have to have concerted,
+physical attacks in multiple locations throughout the U.S. and
+cyberattacks at the same time; otherwise, you could at least
+contain via interconnection, eastern, western or Texas.
+Senator King. Thank you.
+I am delighted to hear that. I appreciate it.
+Thank you, Madam Chair.
+The Chairman. Thank you, Senator King.
+This is one of those reminders that sometimes your
+geographic distance provides you a little bit of insulation.
+Oftentimes we feel very vulnerable and on our own with no
+neighbors to rely on, but when you do have a threat that could
+cross multiple systems, it is something where you say, okay,
+the attributes that whether it is microgrid, like Senator
+Hirono was talking about, or these very small grids that we
+would have, more independent grids that we have in Alaska,
+where you have almost greater resiliency because of how you are
+situated.
+Senator Risch, do you want to hop in here?
+Senator Risch. I am going to pass, I have been chairing the
+Foreign Relations Committee.
+The Chairman. I am sorry, sir.
+We have had a fabulous discussion here this morning. So
+welcome.
+Senator Risch. Thank you.
+The Chairman. The whole issue of no regrets and a policy,
+no regrets action, I think, is important and in your testimony
+you also, kind of, referred to this as a spare tire. You hope
+you never get that flat, but if you do, you have it in the car
+and you know how to use it. You have tested it or you have
+checked to make sure that there is at least air in it and you
+have a jack in there. So you are ready to go.
+You are moving to this place where you do have greater
+comfort, in the sense that there is a diversification of fuel
+sources. You are doing more when it comes to the testing, the
+training, which is all important. But it seems to me, pretty
+clearly, the threats that are out there, as you said, Mr.
+Yardley, they are here, they are now.
+I wonder if we are at that place where we need to help
+expedite this no regrets action plan a little bit more quickly.
+The question to you, Mr. Galloway, is this a carrot or a
+stick? Is this something where FERC should look to imposing
+some standards or offer incentives to, kind of, move the
+utilities more quickly in improving their technology? I am
+curious about that. I also want to better understand when we
+are talking about the cost to the utilities, to the owners of
+these blackstart resources, we have talked a little bit about
+the cost, the carrying cost if you will, to have this standby
+service available.
+Are these blackstart units, and I guess I will ask you, Mr.
+Ott, within PJM, are they adequately compensated? And what
+really is the cost of keeping this on, kind of, a hot standby,
+if you will, because you have a situation where you may need to
+be holding extra fuel. Is that the cost or is it the cost of
+installing better technology, better equipment?
+Since we are, kind of, coming to the end of the discussion
+here today, I throw it out to you. I am curious to hear from
+you, Mr. Galloway, on what more needs to be done to get us to
+that better state of readiness and then the cost to do that.
+Mr. Galloway. So, if you look at, kind of, cyber threats as
+one of the primary challenges here, and I think we've, kind of,
+talked about that a number of different times, I'm not sure
+that more mandatory standards is the answer there.
+The Chairman. Okay.
+Mr. Galloway. We're on version five of the Critical
+Infrastructure Protection Standards. That's a fairly heavy lift
+for a lot of the companies and may actually be a disincentive
+for folks declaring certain assets that are blackstart capable,
+as formal blackstart units, right, because of the carrying cost
+associated with the compliance. And then the other issues that
+you spoke to in observance of duel fuel capability and so
+forth.
+So I think to Mr. Ott's earlier comments, if we see the
+need for, kind of, redundant, diverse, multiple fuel source,
+blackstart units, we want to make sure that there's a market
+incentive toward that, right? And that we approach it from a
+holistic, kind of, big picture view of are they appropriately,
+geographically distributed, right, from both a physical and an
+electrical perspective so that they plug into the system. I
+think PJM and others have done a lot of good analytical work on
+that, kind of looking at the sensitivity of moving to one fuel
+source.
+So, perhaps, Mr. Ott would care to----
+Mr. Ott. Yeah, and again, I didn't have this answer when
+Senator Manchin was here, but we do have actually 8,000
+megawatts of blackstart in PJM, so it's probably even bigger
+than I thought.
+But to answer your direct question, we have had several,
+and I say controversial, discussions with folks on both sides
+of the discussion on cost of blackstart. My opinion is we
+haven't done enough to make sure those resources are properly
+compensated. And certainly we are still, we are engaged in
+discussions to say the cost of having no single point of
+failure is not a small cost. It is a small number relative to
+the cost of electricity. It's probably less than one percent,
+probably even less than half a percent of the total.
+But the point is it's an important contract if you want an
+important, I'll say guarantee, if you will, to the company to
+say, get rid of those single points of failure, spend some
+money to do it. It's money well spent, in my opinion. I think
+that it will be, this notion of resilience, if you will. To me,
+what resilience means as a system operator is I have degrees of
+freedom. I have margin for error. I have alternatives. And you
+never know, again, what situation you're going to be in, in
+these types of scenarios and having those degrees of freedom is
+invaluable. You can't go back and get it later after the events
+happen.
+But I will say, frankly, what we really need, I think, is
+leadership from--I think we know what to do. Policy guidance
+from FERC, the FERC had put out a resilience NOPR some time
+ago, but there's been nothing since. Moving this policy
+guidance forward to say, let's engage in resilience, whether it
+be from a fuel security perspective or a system restoration. If
+you think about the pillars of resilience, the way I think
+about it, it's the power grid itself and making that as robust
+as possible and looking at these types of single point of
+failures.
+There's the dependent systems like the natural gas
+infrastructure in looking at fuel security, and there's
+restoration and how you bring the system back should the other
+two not be sufficient. So, it's all those dimensions we need to
+address.
+And really, this notion of resilience and bringing to the
+Floor, if you will, policy guidance from the regulator, is
+really what we need to get started on because it's been, we've
+been talking a little bit too long. We need some action on some
+of those things, especially this issue of fuel security and
+some other things we'll engage in conversation very soon on.
+Ms. Ditto. I would just add that I think we're really at a
+crossroads in our sector. We have, as I think I mentioned in my
+testimony, expectations from our customers and from
+policymakers that we have a smart grid. We have a grid that's
+very efficient, that's flexible, that integrates intermittent
+resources, battery storage, other types of new technologies
+that are positive--electric vehicles. At the same time, those
+technologies, those communications technologies needed to
+enable those types of future facing grids leave us vulnerable
+on cybersecurity, right? So we have, I mean, we could go back
+to the dark ages and say, you know what, we don't want, we
+don't accept that risk. We don't want any cybersecurity risks,
+but I don't think we can put that genie back in the bottle, nor
+do I think we want to.
+I think going forward what Andy mentioned about leadership,
+I think the leadership that you all could provide here is a
+better understanding from the technology side as well as from
+the communications side and the electric side, what our
+interdependencies are, where we don't have interdependencies,
+what policy issues, maybe, need to be addressed to enable us to
+provision these technologies and limit our cybersecurity risks.
+And also, from a workforce standpoint, I would echo what
+Mr. Yardley said earlier, perhaps some additional funding,
+additional brainstorming around what we could do to encourage
+our workforce to get into these fields in the utility side as
+well as in the technology side.
+So I think there are some things we could do to convene to
+really decrease stovepipes across industries, across the
+Federal Government so we can understand these vulnerabilities
+better. I think it is a good place to start in this crossroads
+time.
+The Chairman. You had suggested earlier that you believe
+that the FERC and the FCC need to come together for these
+discussions. Does anybody know if that has ever happened?
+Ms. Ditto. Again, I think maybe there's informal
+discussions that occur between the two agencies but to my
+knowledge, there's no formal venue for those discussions, at
+least in recent memory.
+Mr. Yardley. Senator Murkowski, if I may?
+The Chairman. Yes.
+Mr. Yardley. Pulling on the thread of resiliency, we've
+talked a lot about fuel security, but echoing my statements
+earlier, cybersecurity is only one aspect of cyber resiliency.
+In our blackstart plans we have that same issue. Even if you
+have multiple fuel sources that are able to provide fuel to a
+given generation, you have that fuel security. You can't
+operate those generators unless you (a) have the people that
+are skilled to operate it, and (b) can rely on the technology,
+the control systems that are operating that grid, to function
+the way that they're supposed to, to run that generator to
+deliver that power where it needs to go, et cetera.
+And that's also on the other side of it too. One thing that
+we have not touched on in blackstart is the delicate balance
+between the amount of power you generate and where that power
+goes. So you have to have loads that balance out the amount of
+generation. And that's also another attack factor. If somebody
+takes out large amounts of loads that are there, that throws
+that out of balance and you can have your crank path collapse.
+The Chairman. Colleagues, any further questions or
+comments?
+Well, I thank you all. This has been very informative and
+very worthwhile. I so value the expertise that we have
+assembled here.
+I might close with just a little bit of a shout out to
+Alaska. Senator King just mentioned, who would have thought
+that it would actually be an advantage not to be on the broader
+grid? But it does require a level of innovation in a place like
+Alaska. We were quite pleased in May to be able to host
+National Lab Day up at the University of Alaska, Fairbanks. We
+had every one of our national labs represented there, so many
+of the directors. But it was great in the sense that we had all
+of these very learned people figuring that they were going to
+come and share with Alaskans all the great things that are
+happening and they learned so much from us because we just have
+to figure it out because when your grid is supplying,
+basically, a village of 350 people and you might be tied into
+another village a few miles separated by land, but not
+connected by road--pretty small, pretty high cost, how are you
+going to make this work? A lot of duct tape, a lot of
+ingenuity. I think it is important that we all recognize that
+we can learn so much from the way that we are situated
+differently around the country.
+So we have our own fair share of experts up there and would
+certainly welcome those who want to come together to
+collaborate.
+A very important issue this morning and just some good
+resources. I am intrigued by what you have stated, Ms. Ditto,
+that we need to be breaking down more of these silos within
+these agencies and within those who are working on these very
+important issues and make sure that there is better
+communication, better understanding and a more unified strategy
+going forward because, as you point out, Mr. Yardley, we are
+here, it is happening now.
+With that, the Committee stands adjourned.
+[Whereupon, at 11:59 a.m. the hearing was adjourned.]
+APPENDIX MATERIAL SUBMITTED
+----------

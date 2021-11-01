@@ -1,0 +1,2062 @@
+- THE CYBERSECURITY RESPONSIBILITIES OF THE DEFENSE INDUSTRIAL BASE
+[Senate Hearing 116-260]
+[From the U.S. Government Publishing Office]
+S. Hrg. 116-260
+THE CYBERSECURITY RESPONSIBILITIES OF THE DEFENSE INDUSTRIAL BASE
+=======================================================================
+HEARING
+before the
+SUBCOMMITTEE ON
+CYBERSECURITY
+of the
+COMMITTEE ON ARMED SERVICES
+UNITED STATES SENATE
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+MARCH 26, 2019
+__________
+Printed for the use of the Committee on Armed Services
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Available via http://www.govinfo.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+41-313 PDF
+WASHINGTON : 2020
+COMMITTEE ON ARMED SERVICES
+JAMES M. INHOFE, Oklahoma,
+Chairman
+ROGER F. WICKER, Mississippi
+JACK REED, Rhode Island
+DEB FISCHER, Nebraska
+JEANNE SHAHEEN, New Hampshire
+TOM COTTON, Arkansas
+KIRSTEN E. GILLIBRAND, New York
+MIKE ROUNDS, South Dakota
+RICHARD BLUMENTHAL, Connecticut
+JONI ERNST, Iowa
+MAZIE K. HIRONO, Hawaii
+THOM TILLIS, North Carolina
+TIM KAINE, Virginia
+DAN SULLIVAN, Alaska
+ANGUS S. KING, Jr., Maine
+DAVID PERDUE, Georgia
+MARTIN HEINRICH, New Mexico
+KEVIN CRAMER, North Dakota
+ELIZABETH WARREN, Massachusetts
+MARTHA McSALLY, Arizona
+GARY C. PETERS, Michigan
+RICK SCOTT, Florida
+JOE MANCHIN, West Virginia
+MARSHA BLACKBURN, Tennessee
+TAMMY DUCKWORTH, Illinois
+JOSH HAWLEY, Missouri
+DOUG JONES, Alabama
+John Bonsell, Staff Director
+Elizabeth L. King, Minority Staff
+Director
+Subcommittee on Cybersecurity
+MIKE ROUNDS, South Dakota,
+Chairman
+ROGER F. WICKER, Mississippi
+JOE MANCHIN, West Virginia
+DAVID PERDUE, Georgia
+KIRSTEN E. GILLIBRAND, New York
+RICK SCOTT, Florida
+RICHARD BLUMENTHAL, Connecticut
+MARSHA BLACKBURN, Tennessee
+MARTIN HEINRICH, New Mexico
+(ii)
+C O N T E N T S
+March 26, 2019
+Page
+The Cybersecurity Responsibilities of the Defense Industrial Base
+1
+LaPlante, Honorable William A., Senior Vice President and General
+3
+Manager, Mitre National Security Sector.
+Luddy, John, Vice President for National Security Policy,
+8
+Aerospace Industries Association.
+Peters, Christopher, Chief Executive Officer, The Lucrum Group...
+14
+MacKay, Michael P., Chief Technology Officer, Progeny Systems
+18
+Corporation.
+(iii)
+THE CYBERSECURITY RESPONSIBILITIES OF THE DEFENSE INDUSTRIAL BASE
+----------
+TUESDAY, MARCH 26, 2019
+United States Senate,
+Subcommittee on Cybersecurity,
+Committee on Armed Services,
+Washington, DC.
+The subcommittee met, pursuant to notice, at 2:31 p.m. in
+Room SR-232A, Russell Senate Office Building, Senator Mike
+Rounds (chairman of the subcommittee) presiding.
+Subcommittee Members present: Senators Rounds, Scott,
+Manchin, and Gillibrand.
+OPENING STATEMENT OF SENATOR MIKE ROUNDS
+Senator Rounds. The Cybersecurity Subcommittee meets this
+afternoon to discuss an issue of great concern to me and the
+Department of Defense (DOD): the cybersecurity of the defense
+industrial base (DIB).
+Since the reporting of the breach of a contractor for the
+Naval Undersea Warfare Center last June, the Department has
+been shocked into action. The truth is, however, that
+adversaries have been breaching our contractors for a much
+longer time, stealing our design information and intellectual
+property not by targeting the Department itself, but through
+its vulnerable contractor base.
+This espionage will never be stopped in its entirety, and
+it is unlikely that it can be negotiated away or deterred. It
+must, however, be made more difficult. The Department cannot
+afford to continue leaking critical design secrets to China and
+Russia effectively subsidizing their own defense developments.
+It is incredibly clear that the status quo is not working.
+So far, the Department's efforts in this space have been
+disjointed and have mostly been a reemphasis of the current
+policies.
+The Navy has taken additional steps to start to audit its
+contractors for compliance with their cybersecurity
+requirements. This month, the Navy released its cybersecurity
+readiness review, which includes several recommendations for
+improved collaboration and communication between the Navy and
+its contractors to mitigate cyber threats. I am encouraged that
+the Secretary of the Navy has taken the first step to improving
+their cybersecurity by completing this detailed review, and I
+look forward to understanding how they plan to implement the
+recommendations.
+The Office of the Secretary of Defense has also
+reemphasized the importance of the current National Institute
+of Standards and Technology, or NIST, cybersecurity standard.
+The Department has also stood up the Protecting Critical
+Technologies Task Force headed by Major General Murphy. The
+task force is taking a wide-reaching approach to the problem,
+contemplating the policy, technological and operational changes
+that could improve contractors' cybersecurity.
+While I expect the Department will come up with measured
+policies to make improvements in this area, I hope that it
+takes seriously the concerns of the defense industrial base.
+The Department cannot simply apply increasingly stringent
+cybersecurity requirements on its contractors. Doing so without
+subsidy or assistance is unlikely to particularly improve the
+cybersecurity of the defense industrial base and will likely
+drive the most innovative small businesses out of its supply
+chain.
+I am also somewhat apprehensive about an approach centered
+on cybersecurity checklists. While there are benefits to the
+NIST-based framework, I am concerned that approaches based on
+compliance to that framework do little to help businesses meet
+these standards, do not account for the particulars of the
+threat, and do not help businesses prioritize investments or
+personnel. Instead, these approaches establish baseline for
+capability which may or may not form the basis for an effective
+cybersecurity architecture.
+I hope the Department can formulate policies that
+prioritize the lowest-hanging fruit and emphasize the best
+return on investment for contractors that often struggle within
+thin margins.
+I also hope that the Department's policies take a
+considered approach to partitioning cybersecurity
+responsibility among itself, its prime contractors, and their
+subcontractors. No one entity can shoulder the entire burden of
+this effort.
+We have invited witnesses from the defense industrial base
+to assess how the Department's policies and regulations have
+affected their cybersecurity, which is a viewpoint that we
+cannot afford to ignore in these conversations.
+Today, we will hear from: the Honorable William A.
+LaPlante, Senior Vice President and General Manager, MITRE
+National Security Sector, heavily involved in the MITRE
+strategy entitled ``Deliver Uncompromised;'' Mr. John Luddy,
+Vice President for National Security Policy, Aerospace
+Industries Association (AIA); Mr. Christopher Peters, Chief
+Executive Officer of The Lucrum Group, heavily involved with
+the National Defense Industrial Association's work on defense
+industrial base cybersecurity; and Mr. Michael P. MacKay, Chief
+Technology Officer, Progeny Systems Corporation, a small
+defense contractor based in Manassas, Virginia. Thank you for
+your willingness to testify today. I look forward to our
+conversation this afternoon.
+Senator Manchin?
+STATEMENT OF SENATOR JOE MANCHIN III
+Senator Manchin. Mr. Chairman, thank you so much.
+I want to thank each and every one of you all for being our
+witnesses today testifying on a critical national security
+problem, namely the hemorrhaging of technology and know-how
+from the U.S. industry and academia to adversaries, chiefly
+China, which enables the rapid progression of their military
+capabilities. I have had the opportunity of both serving on the
+Armed Services Committee and the Intelligence Committee. So I
+know exactly where you all hopefully will be coming from.
+We know that China is using cyber hacking and coercing
+technology transfers from U.S. companies to acquire U.S.
+intellectual property, which undermines our economy and
+ultimately erodes national security because it remains easier
+for cyber hackers to penetrate networks than for defenders to
+stop them. There are no simple solutions to these problems.
+But I am encouraged to see Congress, DOD, and the private
+sector finally addressing the fundamental issues that we all
+face.
+One of these pressing issues is the imperative of improving
+security in the smaller defense industrial base companies.
+These companies are vital components of our supply chains and
+sources of our innovation. But many of these small companies
+currently lack the resources and expertise to defend themselves
+and the DOD data and technology that they hold against national
+state attacks.
+We must find ways to correct this situation. Our witnesses
+today--you all come from and you represent or you have studied
+these industrial base partners who are threatened every day
+with cyber attacks from our principal adversaries. So I look
+forward to your insights and advice on how we correct this.
+Thank you, Mr. Chairman.
+Senator Rounds. Thanks, Senator Manchin.
+Let us just begin with opening statements, if you would
+like, and Dr. LaPlante, I will start with you.
+STATEMENT OF HONORABLE WILLIAM A. LaPLANTE, SENIOR VICE
+PRESIDENT AND GENERAL MANAGER, MITRE
+NATIONAL SECURITY SECTOR
+Dr. LaPlante. Yes, thank you, Chairman Rounds. Thank you,
+Ranking Member Manchin. Thank you, Senator Scott and the other
+members of this committee.
+Of course, having this hearing and your opening statements
+both identified the challenge on the threat side, but also
+making sure that every solution we put in will not be actually
+worse than the problem we are trying to solve. So you
+understand that.
+As you said, I am Senior Vice President (VP) at MITRE. We
+are a not-for-profit that operates seven Federally Funded
+Research and Development Centers (FFRDCs), one for the DOD and
+the Intelligence Community (IC), but another one, importantly,
+is the standards of cybersecurity for NIST. So I have a few
+things to say about that.
+Before that, I was the Secretary of the Air Force for
+Acquisition.
+As you all know, just like our warfighters are under attack
+or threatened under attack, we now pretty well know that our
+defense industrial base has been under attack for 10-15 years.
+Most of us who have worked in the industrial base have known
+this. It has been a while. For a while, we could not talk much
+about it, which has been part of the problem.
+And, yes, we still have an education issue, as I think some
+of my colleagues are going to say.
+It is not just the loss of Intellectual Property (IP). We
+have all had this experience. My experience while Assistant
+Secretary I think was at the Dubai air show walking over to the
+China part of the air show and looking at the J-31 and saying
+other than that second engine, that is the F-35, and then going
+over and getting the brochure for what was a dead-on copy of
+the MQ-9, which is our Reaper unmanned aerial vehicle.
+Now, am I saying the insides are the same and they operate
+the same? No, maybe not, but they will get there. So, yes, it
+is real.
+But it is not just the IP. It is also how we train. It is
+our manuals. People in my business--we write lots of stuff. We
+write lots of technical memos. A lot of that stuff has not been
+classified. So you can understand how we train. You can
+understand tactics, techniques and procedures, Concept of
+Operations (CONOPs). So it is all together.
+Now, does that mean that they are going to be just as good
+as us by having it? Not necessarily so, but it sure helps. It
+sure helps them.
+So this is about our technological superiority.
+Now, inclusion is needed. At the same time we are saying
+all this, of course, we do not want to scare away our friends
+in industry. We want the small businesses. We want the
+innovative firms. We get that.
+So this is complex, but we can solve it. We have to
+educate.
+Now, the Department gets knocked for this a lot, and I
+think we have all kept pressure on the Department. I have been
+on the other side of this boat too. But they have done a bit.
+You referred to the Navy. The Navy has been really active over
+the last year and a half partially out of real reason. I would
+also say that putting the standard out there, 800-171, is not a
+panacea. You are exactly right, Mr. Chairman. Compliance by
+itself is limited in what it can do. It can do things. What we
+used to call it on the Defense Science Board (DSB) is that it
+can raise cyber hygiene. That is good. It is like the broken
+window theory of crime. It does make the neighborhood a little
+better, but it is not going to solve it because you have an
+adversary. It is not just quality that you are trying to build
+a better airplane. You have an adversary.
+But it has over 100 controls. We still have multiple
+standards.
+But here is what we are missing, and we are all trying to
+work this. The insurance industry is going in this direction.
+The Deliver Uncompromised paper you referenced was trying to go
+there, trying to figure out how to monetize, how to turn
+security of cyber into something real that you can actually
+measure as an outcome. Compliance is an input. It is not an
+output. You really want to know if I did this, what percentage
+more secure am I. I can measure costs. If I have a radar, I can
+measure its performance. I can measure its schedule. I may not
+like the schedule, but I can measure it. I do not know how to
+measure cybersecurity. We have got to figure that out. Once we
+figure that out--and the insurance business is going there
+because that is what they are in--where we can start putting
+real objective metrics against this, then we will get there. So
+I am actually optimistic. In the next couple years, I think we
+will get there as a community. That is where we need to go.
+So there are other things we can do. We need a threat
+sharing center, not unlike the NCTC, the National
+Counterterrorism Center, where you got Federal Bureau of
+Investigation (FBI) sitting next to intel, sitting next to
+industry that can rapidly see what is happening. A company gets
+bought overnight. It was good. Now it is bad. We got to get
+that information out. Oh, by the way, the people that you got
+to get the information to do not have clearances. So we got to
+figure that out. But we got to go into a much more of an active
+model like that.
+There is experimentation going on, great ideas, of bringing
+secure cloud environments and making them available to the
+industrial base so they can develop inside a secure cloud. It
+is already being done in parts of the government right now.
+That is a great idea.
+There are other ideas we will talk about later.
+Again, thank you for having the hearing. I look forward to
+your questions.
+[The prepared statement of Dr. LaPlante follows:]
+Prepared Statement by Dr. William LaPlante
+Chairman Rounds, Ranking Member Manchin, and distinguished Members
+of the Subcommittee on Cybersecurity, thank you for the opportunity to
+testify before you today on matters relating to the cybersecurity of
+America's defense industrial base. This is a critically important issue
+and one about which I very much appreciate being asked to offer some
+thoughts.
+For those who don't know MITRE, we are a not-for-profit corporation
+that operates seven federally-funded research and development centers,
+or FFRDCs, for eight primary government sponsors. The largest of the
+FFRDCs we operate, the National Security Engineering Center, is
+sponsored by the Department of Defense. We also operate the National
+Cybersecurity FFRDC on behalf of the National Cybersecurity Center of
+Excellence, which is a component of the National Institute of Standards
+and Technology, or NIST. Of MITRE's roughly 8,500 employees, some 1,000
+are cybersecurity experts who support a very broad range of work on
+behalf of federal requirements. Our vantage point, which gives us the
+benefit of being able to look across multiple agencies at a wide array
+of threat vectors and challenges, is critical to our understanding of
+this problem set and greatly informs the advice we are able to provide
+to our sponsors.
+If I may, I would like to take a moment to congratulate the
+leadership of this Committee for having the foresight to establish this
+panel in the 115th Congress and for continuing it into the current
+Congress. There is no question but that the cyber domain is a critical
+warfighting domain today. This is unequivocally true, as you are all
+aware, for those who wear the uniform of our military and who are
+charged with defending against hostile cyber operations directed
+against our forces literally every day. But it is no less true for the
+thousands of companies that make up the nation's defense industrial
+base--companies that support our national security through the delivery
+of vital goods and services under contract to the Department of Defense
+and its components, and without whose support our forces would be all
+but ineffective. The men and women of our defense industrial base do
+not wear the uniform, but they are no less a target in this age of
+cyber warfare.
+Indeed, as the Members of this Committee well know, both from the
+near endless stream of media reporting we all see and the information
+you receive from both the Department and the many companies that
+comprise the managed cybersecurity services industry, our defense
+industrial base has been and remains under siege from hostile actors.
+The loss of intellectual property in recent years has been enormous,
+and it has allowed our adversaries to rapidly and dramatically advance
+the state of their warfighting and enabling technologies by leveraging
+our substantial investments in research and development. Our
+technological edge--which along with the quality of our men and women
+who serve, and the strength of our alliances with key partners, has for
+decades given us a vital advantage--has in many areas been compromised.
+While even the largest defense contractors have been victimized by
+the predatory cyber operations of our adversaries, the problem has been
+most acutely realized at the lower tiers of the defense industrial
+base, typically comprised of small- to medium-sized companies. These
+companies often serve as the sub-contractors and sub-sub-contractors to
+the primes. In many instances, they are start-ups or just barely
+removed from such status. They are often where some of the greatest
+innovations occur--the kinds of innovation that are, rightly, being
+pursued by the Department for integration into our most advanced
+warfighting capabilities.
+As the 2018 National Defense Strategy (NDS) noted,'' the
+Department's technological advantage depends on a healthy and secure
+national security innovation base.'' It also observed that the
+Department must streamline processes so more ``small-scale vendors''
+can provide the Joint Force with those cutting-edge technologies needed
+to maintain our military advantage. I believe we can, and in fact we
+must, do both of these things--maintain a secure innovation base, and
+yet not overly burden smaller companies with such onerous and costly
+compliance mandates that it drives them away from doing business with
+DOD.
+The fact of the matter is, this is an extraordinarily difficult
+problem set. Many have decried the insufficiency of efforts to protect
+the defense industrial base, blame for which often falls on the
+Department of Defense. I have heard many who have suggested that the
+Department ``hasn't done enough'' to address this major challenge.
+From my perspective, I think the Department has actually done quite
+a lot. Most recently, it has adopted the NIST 800-171 standards for
+cybersecurity and integrated related requirements into the Defense
+Federal Acquisition Regulation Supplement (DFARS), with additional work
+underway on revisions to these standards. One of the questions that the
+Subcommittee posed in inviting me to testify today asked about my
+thoughts on the potential need for contractors to meet security
+standards beyond the NIST 800-171. The 800-171 specifies that defense
+contractors handling controlled unclassified information execute over a
+hundred separate controls on their systems. Achieving full compliance
+requires implementing all of the controls or equivalents. I will tell
+you that MITRE, with some 1,000 of what I would consider some of the
+world's best experts on cybersecurity, had an enormous challenge
+meeting the requirements of the 800-171. For companies that are much
+smaller than MITRE, with far fewer resources and far less cybersecurity
+expertise available, one can only imagine that additional requirements
+beyond the 800-171 will be incredibly burdensome. Complicating this is
+the fact that while DOD requires compliance with 800-171, other federal
+agencies utilize a different security standard. So if a contractor
+wants to do business with both DOD and, say, the Department of Homeland
+Security, it has to either operate under two different sets of
+requirements, or ratchet controls up to the highest instance.
+I would further make the observation that there is no measure or
+target for outcomes associated with implementation of the 800-171
+standard--for instance, was less data lost? While standards may have
+the potential to improve performance above a baseline level, they
+quickly lag behind evolving operating environments and emerging
+technologies. Most importantly, they quickly become the target of our
+adversaries, who familiarize themselves with our standards and look for
+seams they can compromise. We cannot lose sight of the fact that this
+threat is extremely dynamic.
+My point in highlighting this is to caution against an urge to levy
+even more security standards on contractors beyond those already being
+contemplated in the update of the 800-171 when the Committee sits down
+to draft this year's authorization bill. The danger is that you will
+either put contractors in a situation in which they will continue their
+efforts to support DOD but will ignore these requirements, or they will
+simply reject the idea of doing business with the Department or the
+Tier 1 contractors because the burdens are too great.
+On this score, I would suggest there is a real need to encourage
+the contractor community to consider implementing threat-informed
+defenses. Clearly, there are basic security standards--essentially,
+compliance-oriented requirements--that need to be met. But there is no
+substitute for understanding the nature of the threat vectors most
+commonly used by our adversaries--their specific tactics, techniques,
+and procedures, or TTPs--and using that awareness to inform where
+network defenses need to be beefed up to thwart the most likely or
+consequential cyber threats. MITRE has done a considerable amount of
+work in this area, and we make our ATT&CK framework--basically, an
+encyclopedia of adversary cyber TTPs that can assist security
+practitioners to best determine how to position their defenses, and
+where to invest limited resources to get the biggest bang for the
+buck--available at no cost, in keeping with MITRE's service in the
+public interest.
+With that said, let me offer some thoughts about some areas in
+which there might be some useful progress in this area, recognizing
+that there is no silver bullet and that none of these is going to be a
+panacea.
+Critical to a successful path forward, I believe, is the need to
+bend the cost curve on cybersecurity. We need to find ways to make
+cybersecurity architectures less expensive for the defense industrial
+base to implement.
+For example, I think there could be some value in encouraging DOD
+to work with the National Institute of Standards and Technology to
+recognize the defense industrial base as a key industry vertical. Such
+recognition would result in the development of practice guides and
+reference architectures tailored to the requirements of this community
+of interest. Again, I am not going to tell you this is a panacea. But
+such products could be used by some contractors--probably some of the
+medium-sized ones, at least--to model enhanced security postures.
+Clearly, there will be some who will find themselves unable to leverage
+such products or who have specialized requirements that may not be met
+by them. But NIST has generated other guidance--for example for use by
+the health care and energy sectors--that have certainly had utility.
+Another option that has been discussed--and was among the questions
+posed by the Subcommittee in its invitation--relates to making the
+kinds of Continuous Diagnostic and Mitigation (CDM) products that the
+``Dot Gov'' agencies are required by DHS to employ, also available to
+the defense industrial base. CDM is essentially a suite of commercial
+products that help federal agencies understand the details of their
+networks and systems and better monitor activities occurring on them.
+These tools can aid in identifying the inventory of connected devices
+on a network and help identify patching deficiencies or other security
+problems. Again, I would say there could be value in such an offering,
+but this, too, is no silver bullet. Performing timely patching and
+assuring basic network and system hygiene are a necessity, but this
+approach alone is insufficient to assure security. In today's computing
+environments, there is too often just no way to have full knowledge of
+what's on a network or a perfect ability to patch. A vulnerability scan
+one day may reveal a range of unknowns that may differ just a few days
+later. So again, not an end-all, be-all, by any means, but one
+potential set of tools that could help.
+One concept that I think has particular promise, which Under
+Secretary of Defense for Acquisition and Sustainment Ellen Lord in fact
+has advocated exploring, is the idea of one or more cloud environments,
+operated under auspices of DOD, that would be specifically tailored to
+the needs of the defense industrial base. Such DOD-sponsored cloud
+offerings would be fully compliant with the latest 800-171 or successor
+security standards, potentially relieving the contractor community of
+many of the burdens of managing their own architecture and security
+requirements. Such an infrastructure would allow the contractor
+community to access compute, storage, managed security, software
+development, and other services from one or more DOD-sponsored service
+providers. There are a lot of unanswered questions about this approach,
+not the least of which relates to the ultimate cost a contractor would
+have to bear to leverage these services. Presumably there are economies
+of scale that would be realized in such an instantiation that could be
+passed on to contractors. Moreover, if more than one such offering were
+made available, such an arrangement could generate additional
+competitive pressures that could help drive costs down. Certainly,
+there are other important questions that would need to be asked--for
+instance, would such an arrangement also address back office
+requirements like finance, human resources, and the like? What about
+specialized capabilities, like the computing requirements associated
+with, say, a laser cutting machine? Another important question: What
+would compel or incentivize contractors to avail themselves of such an
+offering? My own view on this is that an award from the government
+would be contingent on contractors--including any lower tier sub-
+contractors who wish to be involved--meeting all specified security
+requirements.
+One additional thing I would emphasize here is the need for the
+Committee to look beyond just cybersecurity to also consider the
+broader challenges associated with the nation's supply chain. I realize
+this may extend the discussion beyond the writ of this Subcommittee.
+MITRE has developed a strategy we have called ``Deliver
+Uncompromised,'' designed to help DOD address the broader question of
+critical dependencies and other weaknesses in our supply chain. There
+are many aspects to this strategy, but one important recommendation
+calls for the formation of a whole of government National Supply Chain
+Intelligence Center (NSIC) to aggregate all-source data, both
+classified and unclassified, to share with at-risk operators and
+industry partners. The NSIC would operate as a shared national resource
+to develop and operate technologies for threat detection, artificial
+intelligence, and data analytics, enabling analysts to ``connect the
+dots'' among disparate data from a multitude of sources. While not
+nearly as large, it would be modeled on the National Counterterrorism
+Center, and would be populated with representatives from the
+intelligence, program, and systems engineering communities and have a
+broad range of authorities. It would serve as the center of excellence
+for supply chain strategic warning and risk assessment, including
+responsibility, for example, for determining the provenance of software
+destined for DOD, which often includes elements that originated
+overseas.
+Today, threat warnings to industry--if they occur at all--are too
+slow and cumbersome, leaving the majority of companies in the
+innovation base uninformed and exposed. Methods must be established to
+share threat information and recommendations with companies that are
+not cleared contractors. It is difficult to translate from classified
+threat data into unclassified warning, but this is a responsibility
+that should be assigned to the NSIC.
+With that, let me conclude by thanking the Subcommittee once again
+for offering me the opportunity to testify today. I will be pleased to
+respond to your questions.
+Senator Rounds. Thank you, Dr. LaPlante.
+Mr. Luddy?
+STATEMENT OF JOHN LUDDY, VICE PRESIDENT FOR NATIONAL SECURITY
+POLICY, AEROSPACE INDUSTRIES ASSOCIATION
+Mr. Luddy. Chairman Rounds, Ranking Member Manchin, Senator
+Scott, members of the subcommittee, thank you for your efforts
+to highlight the importance of a secure supply chain and for
+inviting me to contribute to today's discussion.
+The Aerospace Industries Association represents nearly 340
+manufacturers, suppliers, and service providers across every
+sector and tier of the aerospace and defense industry. Our 2.4
+million people are the backbone of the American economy and are
+crucial partners in protecting our national security.
+Our industry is fully committed to partnering with the U.S.
+Government to stay ahead of cyber threats and ensure resilience
+throughout the industrial base. AIA has just issued a report
+called ``What's Next for Aerospace and Defense: A Vision for
+2050.'' The report paints a picture of the technologies and
+innovations that experts in our industry believe will be
+driving the way we move, connect, explore, and defend our
+interests 30 years from now. The future we envision is
+exciting, and it depends entirely on robust and reliable
+cybersecurity. So we share concerns raised by senior Department
+of Defense leaders about the cybersecurity of U.S. military
+systems and of our entire acquisition process.
+I also want to emphasize that we at AIA are pleased with
+the level and quality of dialogue we are having on this topic
+with DOD. Cybersecurity is discussed prominently at quarterly
+meetings of our chief executive officers (CEOs) with Under
+Secretary of Defense for Acquisition and Sustainment Ellen Lord
+and her senior staff. I also convene quarterly engagements with
+Vice Admiral David Lewis, Director of the Defense Contract
+Management Agency, and other DOD officials. We held the fourth
+of these meetings last week and have now institutionalized them
+as a forum to iron out the specifics of cybersecurity policy
+and implementation.
+This afternoon, I will focus on three areas: first, on the
+way DOD defines the information that contractors must protect;
+second, on the need for cybersecurity policy to be clear,
+consistent, adaptive, and scalable, both across DOD and with
+industry; and finally, I will highlight AIA's National
+Aerospace Standard 9933, ``Critical Security Controls for
+Effective Capability in Cyber Defense,'' which we are now
+seeking to improve and bring into wider industry use in
+collaboration with DOD.
+My first point is fundamental: the initial step in gauging
+appropriate cybersecurity is understanding what information
+needs to be secured. Obviously, classified information is
+clearly marked and handled through separate and secure
+channels. But DOD and industry also handle an enormous amount
+of controlled unclassified information, or CUI, some of which
+is further designated as covered defense information, or CDI.
+This CDI is the focus of our ongoing shared cybersecurity
+efforts.
+In August of 2015, DOD implemented a Defense Federal
+Acquisition Regulation Supplement (DFARS) cybersecurity clause
+that significantly increased the range of information that
+could be defined as CDI and thus needing protection to nearly
+everything that a major defense contractor uses to perform
+contracts for DOD. As a result, as specific DOD customers, the
+Army or Air Force, for example, determine and identify which
+unclassified information must be protected on contractor
+networks and in communications between the DOD and the industry
+supply chain, there has been a tendency to overprotect mundane
+or basic information with complicated marking requirements.
+There are over 100 categories of CUI in the National Archives
+Records and Administration CUI registry, and the guide to
+marking CUI is 41 pages long. DOD and industry must work
+cooperatively to identify the unclassified information that is
+truly important to our national security interests. The current
+definition of CDI must be refined so that our limited resources
+can be applied to the most sensitive elements of our
+unclassified information. With limited resources, if we try to
+protect everything that is currently considered CDI, we may
+under-protect the really important things.
+My second concern stems from the absence of a unified DOD
+approach to cybersecurity policy, which has led to different
+customers within DOD adding requirements beyond the current
+baseline requirement embodied in NIST Special Publication 800-
+171. This too often occurs without any engagement with industry
+regarding the feasibility and costs associated with enhanced
+agency-specific measures. This lack of uniformity complicates
+the landscape and adds significant ambiguity as companies are
+expected to comply with a burgeoning list of service-unique
+requirements, resulting in segmented infrastructure, limited
+visibility, and duplication of resources within contractor
+networks.
+Further, industry strongly believes that the customary
+regulatory process should be followed for these new
+requirements, with industry feedback leading to a more
+coordinated and informed rule instead of the ad hoc service-by-
+service approach that is occurring now.
+It is not practical, affordable, or safe for the government
+and industry to implement service-unique cybersecurity
+requirements and evaluation criteria because our adversaries
+will exploit the gaps this creates. We must have a unified
+approach to apply mass and strength to our solutions. Recently,
+to align the efforts of several DOD organizations, Under
+Secretary Lord issued two memos directing Vice Admiral Lewis to
+perform specific actions for contracts overseen by Defense
+Contract Management Agency (DCMA). We commend Ms. Lord for her
+efforts to bring clarity and urgency to DOD cybersecurity
+efforts. Her memoranda raise complex and important legal and
+policy issues, however, and it is essential that these be
+carefully and collaboratively assessed if we are to promote our
+shared objective of enhanced cybersecurity for DOD programs and
+the defense industrial base.
+I will close by discussing AIA's most recent tangible
+response to the cybersecurity challenge. In an effort to
+advance industry's partnership with the DOD, late last year AIA
+released National Aerospace Standard (NAS) 9933 to provide a
+better way for our companies to assess their vulnerability to
+the dynamic cyber threats we face daily. I provided a copy of
+the paper describing the standard to the subcommittee. It was
+developed to address two realities facing our industry.
+First, while we support having standards and reporting
+breaches, we have maintained that the DOD's implementation of
+NIST 800-171 constitutes a static solution to a dynamic
+problem. Adversaries are constantly evolving their tactics and
+consequently there are no silver bullets or one-time solutions
+that will address the challenges we face.
+Second, the dynamic nature of cybersecurity today makes it
+extremely difficult for small to mid-sized suppliers to create
+self-sustaining security programs capable of managing the risk
+posed by advancing adversaries.
+To set a viable cybersecurity baseline for the aerospace
+and defense industry, AIA developed NAS9933, which is built
+upon the Exostar Cyber Security Questionnaire and information
+published by the Center for Internet Security. The standard
+contains five capability levels. Instead of a one-size-fits-all
+checklist for compliance, this format establishes capability
+level 3 as a minimum performance level, with levels 4 and 5 as
+higher-level objectives.
+Let me briefly illustrate the different levels.
+A company that achieves capability level 3 has a solid
+performing cybersecurity risk management program and strong
+technical network protections in place to protect critical
+information, which make it harder for an adversary to penetrate
+the company's systems. This company has demonstrated that it
+understands the nature of advanced threats and is taking steps
+to address these threats.
+At level 4, a company can detect, protect against, and
+respond to advanced threats, for example, by using virtual
+machines and air-gapped systems to isolate and run
+applications.
+A company at level 5 has optimized network protection based
+on the changing nature of the threat, for example, by requiring
+multi-factor authentication for accounts that have access to
+sensitive data or systems.
+We intend for NAS9933 to establish the cybersecurity
+baseline in the aerospace and defense industry and to support
+government leaders' efforts to align with industry and move
+beyond minimal compliance toward greater risk- or threat-based
+security. As with all standards, NAS9933 is a starting point,
+and we look forward to developing it further to best aid our
+industry partners.
+To be clear, our standard is designed to serve as a
+maturity model of best practices for helping companies improve
+their cybersecurity programs. It is not intended to replace or
+supersede the government's mandated controls, nor should it be
+used as an evaluation tool to score companies and assign
+ratings. As I have stated, enduring DOD and industry
+partnerships need to be established and leveraged to
+continually evolve our collective approach to this problem. The
+DOD and industry bring unique perspectives, experiences, and
+equities to the table to address these challenges. Only by
+working together will we be successful.
+Senator Rounds. Mr. Luddy, I am going to have to ask you to
+wrap it up.
+Mr. Luddy. Yes, sir.
+In closing, AIA recognizes the national economic security
+threats from cybersecurity vulnerabilities and shares DOD's
+commitment to strengthening our cyber defenses. This issue is
+simply too important to be handled in a piecemeal approach
+without an enterprise-wide coordinated strategy. We also need
+more clarity on definitions so everyone knows what to protect
+and how. As we continue to work with DOD, Congress, and other
+stakeholders to address this threat, I hope that we can
+continue to progress toward a more unified approach across the
+Department, while also providing DOD contractors the
+opportunity to provide inputs on proposed approaches and
+facilitate the most effective, efficient allocation of
+resources to accomplish the common goal of greater
+cybersecurity.
+Again, thank you for the opportunity to meet today and
+discuss these issues, and I look forward to your questions.
+[The prepared statement of Mr. Luddy follows:]
+Prepared Statement by John Luddy
+Chairman Rounds, Ranking Member Manchin, and Members of the
+Subcommittee:
+Thank you for your efforts to highlight the importance of a secure
+supply chain and for inviting me to contribute to today's discussion.
+The Aerospace Industries Association (AIA) represents nearly 340
+manufacturers, suppliers, and service providers across every sector and
+tier of the aerospace and defense industry; our 2.4 million people are
+the backbone of the American economy, and crucial partners in
+protecting our national security.
+Our industry is fully committed to partnering with the U.S.
+Government to stay ahead of cyber threats and ensure resilience
+throughout our industrial base. AIA has just issued a report called
+``What's Next for Aerospace and Defense: A Vision for 2050.'' The
+report paints a picture of the technologies and innovations that
+experts in our industry believe will be driving the way we move,
+connect, explore, and defend our interests thirty years from now. The
+future we envision is exciting--and it depends entirely on robust and
+reliable cybersecurity. So we share concerns raised by senior
+Department of Defense leaders about the cybersecurity of U.S. military
+systems, and of our entire acquisition process.
+I also want to emphasize that we at AIA are pleased with the level
+and quality of dialogue we are having with DOD on cybersecurity and
+other matters. Cybersecurity is a prominent topic at quarterly meetings
+of our CEOs with Under Secretary of Defense for Acquisition and
+Sustainment, Ellen Lord and her senior staff. I also convene quarterly
+engagements with Vice Admiral David Lewis, Director of the Defense
+Contract Management Agency (DCMA), and other DOD officials; we held the
+fourth of these meetings last week and have now institutionalized them
+as a forum to iron out the specifics of cybersecurity policy and
+implementation.
+This afternoon, I will focus on three areas: first, on the way DOD
+defines the information that contractors must protect; second, on the
+need for cybersecurity policy to be clear, consistent, adaptive, and
+scalable--both across DOD and with industry; and finally, I'll
+highlight AIA's National Aerospace Standard 9933, ``Critical Security
+Controls for Effective Capability in Cyber Defense,'' which we are now
+working to improve and bring into wider industry use in collaboration
+with DOD.
+defining what needs to be protected
+My first point is fundamental: the initial step in gauging
+appropriate cybersecurity is understanding what information needs to be
+secured. Obviously, classified information is clearly marked, and
+handled through separate and secure channels. But DOD and industry also
+handle an enormous amount of Controlled Unclassified Information, or
+CUI, some of which is further designated as Covered Defense
+Information, or CDI. This CDI is the focus of our ongoing shared
+cybersecurity efforts.
+In August 2015, DOD implemented Defense Federal Acquisition
+Regulation Supplement (DFARS) cybersecurity clause 252.204-7012,
+``Safeguarding Covered Defense Information and Cyber Incident
+Reporting.'' This clause defines CDI as:
+`` . . . unclassified controlled technical information or other
+information, as described in the Controlled Unclassified
+Information (CUI) Registry, as maintained by the National
+Archives and Records Administration, that requires safeguarding
+or dissemination controls pursuant to and consistent with law,
+regulations, and Governmentwide policies, and is----
+(1) Marked or otherwise identified in the contract, task
+order, or delivery order and provided to the contractor by or
+on behalf of DOD in support of the performance of the contract;
+or
+(2) Collected, developed, received, transmitted, used, or
+stored by or on behalf of the contractor in support of the
+performance of the contract.
+With this rule, DOD significantly increased the range of
+information that could be defined as CDI--and thus needing protection--
+to nearly everything that a major defense contractor uses to perform
+contracts for DOD. As a result, as specific DOD customers--the Army or
+Air Force, for example--determine and identify which unclassified
+information must be protected on contractor networks and in
+communications between the DOD and the industry supply chain, there has
+been a tendency to over-protect mundane or basic information with
+complicated marking requirements--there are over 100 categories of CUI
+in the National Archives Records and Administration (NARA) CUI
+Registry, and the guide to marking CUI is 41 pages long. DOD and
+industry must work cooperatively to identify the unclassified
+information that is truly important to our national security interests.
+The current definition of CDI must be refined so that our limited
+resources can be applied to the most sensitive elements of our
+unclassified information. If we drive resources to protect everything
+currently considered CDI, we will protect nothing.
+clear dod policy
+My second concern stems from the absence of a unified DOD approach
+to cybersecurity policy, which has led to different customers within
+DOD adding requirements beyond the Defense Federal Acquisition
+Supplement (DFARS) requirement for contract compliance, the National
+Institute for Standards and Technology (NIST) Special Publication 800-
+171, ``Protecting Controlled Unclassified Information in Nonfederal
+Systems and Organizations.'' This too often occurs without any
+engagement with industry regarding the feasibility and costs associated
+with enhanced, agency-specific measures. This lack of uniformity
+complicates the landscape and adds significant ambiguity as companies
+are expected to comply with a burgeoning list of service-unique
+requirements, resulting in segmented infrastructure, limited visibility
+and duplication of resources within contractor networks. Further,
+industry strongly believes that the customary regulatory process should
+be followed for these new requirements, with industry feedback leading
+to a more coordinated and informed rule, instead of the ad hoc,
+Service-by-Service approach that is occurring now.
+It is not practical, affordable or safe for the government and
+industry to implement Service-by-Service cybersecurity requirements and
+evaluation criteria because our adversaries will exploit the gaps this
+creates. We must have a unified approach to apply mass and strength to
+our solutions. Recently, to align the efforts of several DOD
+organizations, Under Secretary Lord issued two memos directing Vice
+Admiral Lewis to perform specific actions for contracts overseen by
+DCMA. We commend Ms. Lord for her efforts to bring clarity and urgency
+to DOD cybersecurity efforts. Her memoranda raise complex and important
+legal and policy issues, however, and it is essential that these be
+carefully and collaboratively assessed if we are to promote our shared
+objective of enhanced cybersecurity for DOD programs and the Defense
+Industrial Base. Accordingly, we have asked to engage with her staff to
+discuss ways to effectively and efficiently achieve these goals.
+national aerospace standard 9933
+I will close by discussing AIA's most recent, tangible response to
+the cybersecurity challenge. In an effort to advance industry's
+partnership with the DOD, late last year AIA released National
+Aerospace Standard 9933, ``Critical Security Controls for Effective
+Capability in Cyber Defense,'' to provide a better way for our
+companies to assess their vulnerability to the dynamic cyber threats
+they face daily. It was developed to address two realities facing our
+industry.
+First, while we support having standards and reporting breaches, we
+have maintained that the DOD's implementation of NIST SP 800-171
+constitutes a static solution to a dynamic problem. Adversaries are
+constantly evolving their tactics and consequently there are no silver
+bullets and/or one-time solutions that will address the challenges we
+face. Second, the dynamic nature of cyber security today makes it
+extremely difficult for small to mid-size suppliers to create self-
+sustaining cyber security programs capable of managing the risk posed
+by advanced adversaries.
+There is strong precedent for using this standards-based approach.
+AIA's National Aerospace Standards (NAS) program began in 1941.
+Standards reduce cost, increase safety, provide commonality, are
+recognized throughout industry, and are used by private, public,
+corporate, and government entities. National Aerospace Standards are
+voluntary and developed through a consensus-based process by the
+aerospace industry. Subject matter experts from AIA member companies
+participate in committees and working groups to develop and maintain
+the NAS library, which currently contains over 1,400 active standards.
+To set a viable cybersecurity baseline for the aerospace and
+defense industry, AIA developed NAS9933, which is built upon the
+Exostar Cyber Security Questionnaire and information published by the
+Center for Internet Security (CIS). \1\ The standard contains five
+capability levels. Instead of a one-size-fits-all checklist for
+compliance, this format establishes Capability Level 3 as a minimum
+performance level, with Levels 4 and 5 as higher-level objectives.
+---------------------------------------------------------------------------
+\1\ Exostar is a cloud-platform company initially founded via a
+partnership with the major defense prime contractors and offers cloud-
+based secure business collaboration solutions.
+---------------------------------------------------------------------------
+To illustrate: a company that achieves Capability Level 3 has a
+solid performing cybersecurity risk management program and strong
+technical network protections in place to protect critical information,
+which make it harder for an adversary to penetrate the company's
+systems; the company has demonstrated they understand the nature of
+advanced threats and are taking steps to address these threats. At
+Level 4, a company can detect, protect against, and respond to advanced
+threats--for example, by using virtual machines and air-gapped systems
+to isolate and run applications; a company at Level 5 has optimized
+network protection based on the changing nature of the threat--for
+example, by requiring multi-factor authentication for accounts that
+have access to sensitive data or systems.
+We intend for NAS9933 to establish the cybersecurity baseline in
+the aerospace and defense industry, and to support government leaders'
+efforts to align with industry and move beyond minimal compliance
+toward greater risk- or threat-based security. As with all standards,
+there is always room for improvement. We view NAS9933 as just a
+starting point and look forward to developing it further to best aid
+our industry partners.
+To be clear, our standard is designed to serve as a maturity model
+of best practices for helping companies improve their cybersecurity
+programs. It is not intended to replace or supersede the government's
+mandated controls, nor should it be used as an evaluation tool to score
+companies and assign ratings. As I have stated, enduring DOD and
+industry partnerships need to be established and leveraged to
+continually evolve our collective approach to this problem. The DOD and
+industry bring unique perspectives, experiences and equities to the
+table to address these challenges--only by working together will we be
+successful.
+We have reason to believe that the Department of Defense supports
+our approach. Since we published NAS9933 last fall, several DOD leaders
+have praised the work and have begun to work with us to use it as the
+baseline for an enhanced standard for both industry and DOD
+cybersecurity activity. We welcome this next step and look forward to
+working together to improve protections across the cybersecurity
+domain.
+AIA recognizes the national and economic security threats from
+cybersecurity vulnerabilities and shares DOD's commitment to
+strengthening our cyber defenses. This issue is simply too important to
+be handled in a piecemeal approach without an enterprise wide
+coordinated strategy. We also need more clarity on definitions, so
+everyone knows what to protect and how. As we continue to work with
+DOD, Congress and other stakeholders to address this threat I hope that
+we can continue to progress towards a more unified approach across the
+Department while also providing DOD contractors the opportunity to
+provide inputs on proposed approaches and facilitate the most
+effective, efficient allocation of resources to accomplish the common
+goal of greater cybersecurity.
+Again, thank you for the opportunity to meet today and discuss
+these issues of vital importance to our nation's warfighters and
+industry. I look forward to your questions.
+Senator Rounds. Thank you, Mr. Luddy.
+Mr. Peters?
+STATEMENT OF CHRISTOPHER PETERS, CHIEF EXECUTIVE OFFICER, THE
+LUCRUM GROUP
+Mr. Peters. Chairman Rounds, Ranking Member Manchin,
+Senator Scott, Senator Gillibrand, members of the committee, I
+appreciate the opportunity to be here today.
+Over the last 2 years, I visited more than 200 small to
+medium-sized manufacturers, or SMMs, in the defense industrial
+base through work on various DOD-funded projects. I helped
+develop and analyze cybersecurity surveys that reached hundreds
+more. I have also been involved in the National Defense
+Industrial Association projects that looked at cybersecurity in
+the DOD supply chains.
+Before I talk about the findings from some of that
+research, I want to provide an important distinction between
+information technology, or IT, and operations technology, or
+OT.
+IT consists of business applications and equipment, such as
+financial resource planning or enterprise resource planning
+software. OT includes industrial control systems and software
+that run machinery on the shop or plant floor.
+IT typically uses modern operating systems and applications
+that are regularly patched and maintained. OT systems often
+consist of custom applications running on old operating
+systems, including Windows NT and even disk operating systems
+(DOS). They cannot be easily patched or upgraded, as they may
+impact production.
+In short, the cybersecurity vulnerabilities are
+considerably greater in OT than in IT. They are easily
+exploited portals to steal or alter information or even shut
+down production. One example is Lubrizol where hackers stole
+intellectual property through the industrial control systems
+and caused significant financial damage. Another example is a
+German steel mill where hackers got access to the industrial
+control systems and prevented the blast furnace from shutting
+down, causing significant physical damage.
+The distinction between IT and OT is important because it
+represents a significant risk to the industrial base.
+So through my work, there are three key findings I would
+like to highlight.
+Number one, the defense industrial base is at considerable
+risk. My written testimony has quantitative data that
+demonstrate the lack of awareness and understanding of the
+DFARS requirements and implementation of the NIST 800-171.
+The research shows that SMMs have a poor understanding of
+cybersecurity in general. They often do not understand the
+threats much less what to do about them.
+This overall lack of awareness and preparedness should be
+alarming. Large manufacturers typically have very robust
+security measures for both their business and operating
+systems. That makes the less knowledgeable and poorly defended
+SMMs in the supply chain a greater target for cyber attacks
+particularly since they often handle much of the technical data
+sent from those larger contractors. Whether the attack is to
+steal intellectual property, introduce defects into weapon
+systems, or to shut down entire operations, the SMMs are prime
+targets.
+Finding number two is that SMMs have been quitting defense
+work because of the new cybersecurity requirements. Rather than
+recognizing that these cybersecurity precautions are something
+that they should take regardless, they perceive the new DFARS
+requirements as just one more burden that the DOD is imposing.
+Finding number three, manufacturers are increasingly
+frustrated by uneven enforcement. The lack of established
+metrics against which to measure the level of compliance is
+viewed by many manufacturers as a weakness that other suppliers
+will exploit. That perception of inequality or lack of fairness
+is often a barrier to adoption of costly cybersecurity
+practices and solutions.
+I will highlight three of the recommendations from my
+written testimony.
+Recommendation number one, increase the emphasis on
+resilience to withstand attacks. One of the most important
+aspects of this situation is that the threat vectors are always
+changing, and attacks will happen. Yet, there has been very
+little discussion about resiliency. SMMs need help
+understanding how to design resilient OT systems, detect when
+an attack does occur, and then respond and recover.
+Recommendation number two is fuel the rapid development of
+OT cybersecurity solutions. The DOD should explore innovative
+means, such as grand challenges, to quickly raise awareness and
+spur development of OT-specific cybersecurity solutions.
+Recommendation number three is develop a means to measure
+and certify cybersecurity compliance, similar to what you heard
+before. Manufacturers have to have confidence that their
+investments in cybersecurity are going to meet DOD
+requirements. Large manufacturers also need a means to quickly
+and cost effectively assess the cybersecurity readiness of each
+manufacturer in their supply chains. That requires the
+establishment of meaningful metrics that can be readily
+certified, whether by a customer, the government, or an
+independent third party.
+In summary, the defense industrial base risks are great and
+much work is needed to mitigate these risks, particularly for
+industrial control systems. The SMMs do not have the resources
+to tackle these issues on their own. They need help if we are
+to rely on their capabilities.
+Thank you for your time, and I welcome your questions.
+[The prepared statement of Mr. Peters follows:]
+Prepared Statement by Christopher Peters
+introduction
+Chairman Rounds, Ranking Member Manchin and distinguished members
+of the subcommittee. Over the past two years, I visited more than 200
+small- to medium-sized manufacturers (SMMs) in the Defense Industrial
+Base (DIB) through work on various DOD-funded projects. I helped
+develop and analyze surveys that reached out to hundreds more. One of
+the primary topics in my research was manufacturing cybersecurity in
+the defense industrial base. Through my involvement with the National
+Defense Industrial Association (NDIA), I was a senior advisor to the
+Cybersecurity for Advanced Manufacturing Joint Working Group,
+consisting of participants from industry, the Pentagon and other
+government agencies. I am also a co-author on the NDIA paper,
+``Implementing Cybersecurity in DOD Supply Chains.'' \1\
+---------------------------------------------------------------------------
+\1\ NDIA, ``Implementing Cybersecurity in DOD Supply Chains,'' July
+2018. http://www.ndia. org/ - / media / sites / ndia / divisions /
+manufacturing / documents / cybersecurity - in - dod-supply-
+chains.ashx?la=en
+---------------------------------------------------------------------------
+background
+Before I discuss some of the key findings from that research, I'd
+like to make an important distinction between information technology
+(IT) and operations technology (OT). IT consists of business
+applications and equipment, such as financial systems or enterprise
+resource planning software. OT includes industrial control systems and
+software that run machinery on the shop or plant floor.
+The priorities for protection of IT are confidentiality, integrity
+and availability. The priorities for OT are reversed, with availability
+being the most important. As an example, it's not uncommon to find
+plant floor computers with the password taped to the machine so that if
+there is a production problem, someone can log in and quickly correct
+the issue.
+IT typically uses modern operating systems and applications that
+are regularly patched and maintained. OT systems often consist of
+custom applications running on old operating systems, such as Windows
+NT or DOS. These systems cannot be easily patched or upgraded, as it
+may negatively impact production. Anti-virus software and firewalls
+cannot easily be added to OT environments, as they also may impact
+production.
+In short, cybersecurity vulnerabilities are considerably greater in
+OT than in IT. These are easily exploited portals to steal or alter
+information or even shut down production. One example of an OT breech
+is Lubrizol, where hackers stole intellectual property through the
+industrial control systems, causing significant financial damage.
+Another example is a German steel mill, where hackers took over the
+production control systems and caused significant physical damage.
+This distinction between IT and OT is important, because it means
+the cybersecurity threats to the DIB are even greater than most
+realize.
+key findings
+Through my work, there are three key findings that I would like to
+present to this committee.
+#1 The defense industrial base is at considerable risk
+Most of the SMMs surveyed rate the importance of cybersecurity on
+the plant floor a lower priority than IT and intellectual property,
+even though OT represents the greatest risk. Sixty percent of the
+respondents to the NDIA survey have not read the DFARS documentation,
+and 46 percent of those who did said that they found it difficult to
+understand. Forty-five percent of the respondents had not read the NIST
+800-171 publication, and only 40 percent of those who did felt that the
+document was clear and easy to understand.
+What the research found was that SMMs have a poor understanding of
+cybersecurity in general. They often don't understand the threats, much
+less what action should be taken. The educational information that does
+exist, such as the 170-page document titled ``NIST MEP Cybersecurity
+Self-assessment Handbook for Assessing NIST SP 800-171 Security
+Requirements in Response to DFARS Cybersecurity Requirements,'' is
+confusing and not written for SMMs, which often have little technical
+support.
+For companies that do understand the threats and want to act, the
+lack of viable solutions that do not negatively impact operations is a
+barrier to adoption. We found those companies that did begin adopting
+cybersecurity solutions tend to underestimate the cost of
+implementation by as much as a factor of 10.
+The overall lack of awareness and preparedness by the SMMs in the
+DIB should be alarming for a variety of reasons. The large
+manufacturers in the DIB typically have very robust security measures
+for both their business and operations systems. That makes the less
+knowledgeable and poorly defended SMMs a greater target for
+cyberattacks, particularly since they often handle much of the
+technical data sent from the larger contractors. Whether the attack is
+to steal intellectual property, introduce defects into military
+products or shut down entire operations, the SMMs are prime targets.
+#2 Manufacturers are quitting defense work
+SMMs have quit defense work because of the new DFARS cybersecurity
+requirements. Rather than recognizing that these cybersecurity
+precautions are something they should take regardless, they perceive
+the new DFARS requirements as just one more burden the DOD is imposing.
+There are several factors that contribute to this situation. One is
+that the SMMs were not educated on the cyberattack threats and
+potential impact on their businesses, whether commercial or defense.
+Our findings have shown that there is an uneven awareness of
+cybersecurity risks and prevention, particularly for operations
+technologies.
+Compounding the challenges facing manufacturers is that the DFARS
+requirements were written largely for IT systems, and many of the
+controls cannot be easily implemented in manufacturing environments
+without causing harm.
+Finally, SMMs leaving the DIB cited a lack of clarity by the DOD on
+requirements, timing and enforcement. That lack of clarity is
+exacerbated by the confusing messages from many consultants, some even
+offering to help SMMs become ``DFARS Certified.'' There is no such
+thing as ``DFARS Certified.'' Many of these consultants have gouged the
+SMMs.
+#3 Manufacturers are increasingly frustrated by uneven enforcement
+Manufacturers are increasingly frustrated by uneven enforcement of
+the DFARS cybersecurity regulations. Some companies have incurred
+significant overhead expense to become DFARS compliant, while
+competitors that have not acted or have simply lied about compliance
+are still winning DOD business.
+The lack of established metrics against which to measure the level
+of compliance is viewed by many manufacturers as a weakness that other
+suppliers will exploit. That perception of inequality or a lack of
+fairness is often a barrier to adoption of costly cybersecurity
+practices and solutions.
+recommendations
+#1 Better educate the SMMs
+Awareness is the first step in driving adoption, yet most SMMs in
+the DIB have not been made aware of the cybersecurity threats to their
+businesses. A coordinated government campaign should be targeted to the
+SMMs to raise awareness of the threats and the steps necessary to
+protect their businesses. Much like the ``Loose Lips Sink Ships''
+campaigns of World War II, awareness campaigns are a cost-effective
+means to quickly spur the desired action throughout the entire U.S
+industrial base.
+#2 Address the unique needs of operations technology
+A key recommendation in the NDIA ``Cybersecurity for Advanced
+Manufacturing'' white paper is ``Work with DOD stakeholders in
+cybersecurity policy, acquisition policy, sustainment policy, and
+procurement policy to ensure manufacturing requirements are adequately
+addressed in policy documents and implementation reviews; and develop
+separate guidance to protect OT networks where needed.'' \2\
+---------------------------------------------------------------------------
+\2\ NDIA, ``Cybersecurity for Manufacturing Networks,'' October
+2017. P12 https://www. ndia. org/-/media/sites/ndia/divisions/working-
+groups/cfam/ndia-cfam-2017-white-paper-20171023. ashx?la=en
+---------------------------------------------------------------------------
+#3 Increase emphasis on resilience to withstand attacks
+One of the most important yet overlooked aspects of this situation
+is that threat vectors are always changing and attacks will happen, yet
+there has been very little discussion about resiliency. SMMs need help
+in understanding how to design resilient OT systems, detect when an
+attack does occur and then respond and recover.
+#4 Aggregate disparate manufacturing cybersecurity activities
+There are currently at least four organizations just within the
+Office of the Secretary of Defense addressing cybersecurity for
+industrial control systems. The NDIA ``Cybersecurity for Advanced
+Manufacturing'' paper recommends that the DOD ``Establish, and
+adequately fund, a new program for Manufacturing Cybersecurity
+Capabilities in the Industrial Base, with a DASD-level Champion and
+participation from the DHS.'' A concerted government message and effort
+are needed to achieve the desired results.
+#5 Fuel the rapid development of OT cybersecurity solutions
+The DOD should explore innovative means, such as grand challenges,
+to quickly raise awareness and spur development of OT cybersecurity
+solutions. Such solutions should be designed to not only prevent
+attacks, but detect them as well.
+#6 Develop a means to measure and certify cybersecurity compliance
+Manufacturers in the DIB must have confidence that their
+investments in cybersecurity meet DOD requirements. Large manufacturers
+also need a means to quickly and cost-effectively assess the
+cybersecurity readiness of each manufacturer in the supply chain. This
+requires the establishment of meaningful metrics that can be readily
+certified, whether by a customer, government agency or an independent
+third party.
+summary
+In summary, the DIB risks are greater than many realize, and much
+work is needed to mitigate those risks, particularly for industrial
+control systems. The SMMs do not have the resources to tackle these
+issues on their own--they need help if we are to rely on their
+capabilities. Consider the following scenario.
+An adversary wants to disable production of weapon system parts
+or components. DOD procurement data are publicly available and
+provide a blueprint of the SMMs to target. By gaining access
+through the industrial control systems at manufacturers
+producing those parts, an adversary could plant undetected
+malware that can disable the manufacturing equipment at a
+predetermined time or when signaled. The adversary can then
+disable tens, hundreds or even thousands of manufacturers on
+command. Or, perhaps they just target two critical suppliers of
+missile components. Such an event could have a profound impact
+on the ability to produce and support any or all weapon
+systems. This is not just a scenario for the future--it may
+have already happened.
+Senator Rounds. Thank you, Mr. Peters.
+Mr. MacKay?
+STATEMENT OF MICHAEL P. MacKAY, CHIEF TECHNOLOGY OFFICER,
+PROGENY SYSTEMS CORPORATION
+Mr. MacKay. Chairman Rounds, Ranking Member Manchin, and
+members of the subcommittee, I would like to thank you for
+inviting me to testify this afternoon.
+Progeny Systems is a privately held defense contractor
+headquartered in Virginia that has just under 500 employees.
+Progeny is in the category of small large government contractor
+or perhaps large small government contractor and is a
+significant target for cyber attacks due to the highly
+classified nature of our work, as well as the number and types
+of our contracts. We know that attempts have been made to
+penetrate our network defenses, and we are fully dedicated to
+the implementation of the government's recommended policies,
+procedures, and controls as detailed in 800-171.
+As the Chief Technology Officer of our company, I can tell
+you that cyber defense is a top corporate priority. It is a
+priority because of the responsibility we have to our
+customers, and we fully understand that as a small company, our
+very survival is at stake. We are not a large prime contractor
+that is, as they say, too big to fail and too big to punish and
+that our first breach could be the last one.
+Most importantly, though, cyber defense is a priority in my
+company because all of our employees understand as Americans
+the threat that adversaries pose. Our overriding goal as a
+company is providing our warfighters with a competitive
+advantage no matter the battlespace. We cannot let our nation's
+adversaries steal technology that diminishes this advantage,
+and we have invested heavily in equipment, tools, and manpower
+to ensure that the NIST specifications are not only met but
+exceeded.
+Thus far, we have only been reviewed by one program office,
+Team Sub from the Department of the Navy, for compliance with
+the NIST requirements. We do not, however, have only one
+program office as a customer. We work for dozens of programs,
+each of which may have a slightly different interpretation of
+the NIST requirements. Smaller companies will find it
+impossible to be rated favorably if they are pursuing two or
+more differing interpretations of the controls and what is to
+be considered adequate or complete.
+As the committee considers this issue, I would strongly
+urge you to have one standard interpretation of the NIST
+requirements. In other words, set the bar high but set it once
+and hold everyone accountable to that single standard so that
+we are spared not only the additional cost, but also the need
+to adjudicate between differing and potentially conflicting
+direction.
+We view the NIST requirements as essentially putting locks
+on the doors and windows of your house and installing a
+security system. It is the baseline. It is what you would
+normally do. These measures are effective in keeping people out
+of your house who should not be there and letting you know if
+someone tries to break in. It is a starting point. They are
+useless, however, if you open the door to a stranger who wants
+to rob you. And this is where the private sector really needs a
+lot of help in the human factors area.
+We need to raise awareness and to train our own personnel
+to think of good cybersecurity hygiene as a natural part of
+their daily work lives. For technology developers who crave
+connectivity and collaboration, this is a huge paradigm shift.
+This is especially the case with the younger technology
+developers who, unlike us, grew up online and are more
+susceptible to phishing attacks and the other attacks that come
+directly from the Web.
+The guidance provided to date to us has been to seek out
+peers and share lessons learned. Although we are doing this and
+it is quite effective, we need to be more effectively
+confronting the threat. The Department of Defense must take a
+leadership role, and we need evidence-based best practices,
+curriculum, and effective training materials to educate our
+employees to help us train our employees. Cyber defense
+requires both tools and training to accomplish the mission.
+As a small company with limited resources, we feel there is
+merit to adapting the requirements based on each contractor's
+situation, size, and budget included. However, we must protect
+the technology according to its importance and find ways to
+help that industry partner, small or large, to protect it.
+Often the smaller companies like my own who have limited
+resources also have significant innovations. So we can have the
+best of both situations if we help those innovators continue to
+safely protect and pursue their work.
+Now, a major tenet of our development community is that no
+one has all the answers. That is a Team Sub tenet. Progeny
+Systems received help from the Navy in the form of a 2-day
+exercise with industry experts in a mock audit of our
+practices, and it was not just going through the checklist. It
+was the practical application reviewing our compliance. And the
+event was eye-opening and invaluable. A standardized,
+consistent, and regular consultation with experts and red teams
+like this would probably be the single most beneficial approach
+that could be offered by DOD to its contractors.
+We wholeheartedly agree that providing approved products to
+the community by the government based on a best of breed
+selection would be an excellent way to help the community,
+especially in the case of small businesses if the companies
+find themselves unable to acquire or develop the right controls
+themselves.
+In closing, I would like to thank the subcommittee once
+again for having the privilege to testify before you today, and
+I would be happy to answer any questions you might have.
+[The prepared statement of Mr. MacKay follows:]
+Prepared Statement by Michael MacKay
+introduction
+Chairman Rounds, Ranking Member Manchin, and Members of the
+Subcommittee, I would like to thank you for inviting me to testify this
+afternoon. My name is Mike MacKay and I am the Chief Technology Officer
+of Progeny Systems Corporation.
+Progeny Systems is a privately held defense contractor
+headquartered in Virginia that has just under 500 employees. Progeny
+Systems is in the category of ``small large Government contractor'' and
+is a significant target for cyberattacks, due to both the highly
+classified nature of our work and the number and types of our
+contracts. We know that attempts have been made to penetrate our
+network defenses and we are fully dedicated to the implementation of
+the Government's recommended policies, procedures, and controls as
+detailed in the NIST Special Publication 800-171 (NIST).
+As the Chief Technology Officer of our company I can tell you that
+cyber defense is a top corporate priority. It is a priority because of
+the responsibility we have to our customers, and we fully understand
+that, as a small company, our very survival is at stake. We are not a
+large prime contractor that is ``too big to fail and too big to
+punish'' and that the first breach could be the last one.
+Most importantly, cyber defense is a priority because all of our
+employees understand as Americans the threat our adversaries pose. Our
+overriding goal as a company is providing our warfighters with a
+competitive advantage no matter the battlespace. We cannot let our
+nation's adversaries steal technology that diminishes this advantage,
+and we have invested heavily in equipment, tools, and manpower to
+ensure that the NIST specifications are not only met but exceeded.
+one standard
+Thus far, we have been reviewed by only one program office for
+compliance with NIST's requirements. We do not, however, have only one
+program office as a customer. We work for dozens of programs who each
+may have a slightly different interpretation of the NIST's
+requirements. Smaller companies will find it impossible to be rated
+favorably if they are pursuing two or more different interpretations of
+the controls and what is to be considered adequate or complete. As the
+Committee considers this issue, I would strongly urge you to have one
+standard interpretation of NIST's requirements. Set the bar high, but
+set it once and hold everyone accountable to that single standard, so
+that we are not only spared the additional cost, but also spared the
+need to adjudicate between differing and potentially conflicting
+direction.
+importance of human factors
+We view the NIST requirements as essentially putting locks on your
+doors and windows and installing a security system. These measures are
+effective in keeping people out of your house and letting you know if
+someone tries to break in. They are useless, however, if you open the
+door to a stranger who wants to rob you. This where private sector
+defense contractors need the most help--in the human factors.
+We need to raise awareness and to train our personnel to think of
+good cyber security hygiene as a natural part of their daily work
+lives. For technology developers who crave connectivity and
+collaboration, this is a huge paradigm shift. This is especially the
+case with younger technology developers who, unlike us, grew up online
+and are more susceptible to Phishing attacks.
+The guidance provided to date for training has been to seek out
+peers and share lessons learned. Although we are doing this, we need to
+more effectively confronting this threat. The Department of Defense
+must take a leadership role, and we need evidence based best practices,
+curriculum, and effective training materials to educate our employees.
+Cyber defense requires both tools and training to accomplish the
+mission.
+adapting cybersecurity requirements based on contractor size and
+ability to pay
+As a smaller company with limited resources, we feel that there is
+merit to adapting the Cybersecurity requirements based on each
+contractor's particular situation, size and budget included. However,
+we must protect the technology according to its importance, and find
+ways to help that industry partner, small or large, to protect it.
+Often, the smaller companies, who have limited resources, are also
+those with significant innovations. We can have the best of both
+situations if we help those innovators continue to safely pursue their
+work.
+offer cybersecurity expertise and red-teaming to contractors
+A major tenet of our development community is that ``No one has all
+the answers''. Progeny Systems received help from one of our Program
+Offices, in the form of a two day exercise with industry experts in a
+``mock audit'' of our practices in January of this year, to review our
+status for 800-171 compliance, and the event was eye-opening and
+invaluable. A standardized, consistent, and regular consultation with
+experts and Red Teams would probably be the single most beneficial
+approach that could be offered by the DOD to its contractors.
+provide ``off-the-shelf'' architectures and products
+We wholeheartedly agree that providing ``approved'' products to the
+community by the Government, based on a ``best of breed'' selection
+process will be an excellent way to help the community protect
+themselves, especially if, as in the case of smaller companies, there
+are resource issues with acquiring or developing the correct controls
+and protections themselves.
+closing
+I want to thank the Subcommittee once again for having the
+privilege to testify before you today and would be happy to answer any
+questions that you might have.
+Senator Rounds. Thank you, gentlemen. I most certainly
+appreciated all of your comments.
+Normally our tradition here is that we will work our way
+around the committee, and we will try to stick to 5 minutes
+within our assigned times. I will begin my questioning at this
+time.
+Gentlemen, section 1644 of last year's NDAA, National
+Defense Authorization Act, required the Secretary to promote
+the transfer of appropriate technology, threat information, and
+cybersecurity techniques developed in the Department of Defense
+to small manufacturers and universities and then to establish a
+cyber counseling certification program and to develop a regime
+of voluntary self-assessments.
+I would like to know if each of you--number one, are aware
+of the program. Second of all, how could this program be
+strengthened if you are aware of it? And finally, how should
+this program be expanded and shaped if it is successful? Dr.
+LaPlante, would you like to begin?
+Dr. LaPlante. Yes, I have heard of the program. I think it
+is a great idea.
+I think the central thesis here is we really have education
+to do. It is a lot about education. A lot of us believe the
+best ideas will come from the small businesses once they
+understand it.
+As an example of what is happening right now, there is
+something called an adversarial, for lack of a better word,
+attack vector. It is not unlike a criminal casing out your
+house. There is a series of things that an adversary in cyber
+does to look at you, to do reconnaissance, then to penetrate,
+get in, and then do whatever they are going to do, either put
+something in there, do damage, or take something. Believe it or
+not, there are about 150 steps that people have outlined of how
+this is done, and it changes about every week.
+What MITRE has done--and other companies have done the same
+thing--is we made those steps publicly available. So if you
+want to know how to prevent the guy from getting in your
+network, this is how he does it. This is what the criminal does
+next, then that. Oh, now if you plug this, he is going to go
+over here. And what is good about that is that you start
+getting the defenders to be very sophisticated.
+People say, well, gee, publishing that is bad. People will
+learn how to do cyber. Well, the people doing it on cyber know
+how to do it. Our rule of thumb in making it an open source, if
+it is an open source already and published about a threat
+vector, we will publish it. So there are things like that that
+if you go to the programs, Senator, that you described and we
+can get people to understand this is how the threat thinks,
+then you can do things that makes his job hard.
+Senator Rounds. Mr. MacKay, same question.
+Mr. MacKay. I completely agree with the doctor's comments.
+The first thing that I want point out is that we are in a
+situation where you are not paranoid if somebody is actually
+out to get you. We need to start thinking about the fact that
+we should be paranoid. We should be paranoid in a constructive
+way.
+We have been on the receiving end of a great deal of this
+kind of information, some of which has been provided in a
+classified setting, and the more information that can be
+sanitized out of that kind of a report and put into a format
+that can be published company-wide as open source, as
+completely open to our employees so they understand the
+techniques and the methods, the better for us because we cannot
+get classified meetings put together that easily or that
+quickly.
+Senator Rounds. Thank you.
+Mr. Peters?
+Mr. Peters. I am not aware of that program directly, and
+none of the suppliers that I have talked to have ever mentioned
+that program. If an element of that program is to promote
+education, disseminate information to the defense industrial
+base, that is certainly a positive thing.
+My one recommendation would be that it needs to be done
+directly to the small to medium-sized, not just through the
+Original Equipment Manufacturers (OEMs) or prime contractors.
+Senator Rounds. Thank you.
+Mr. Luddy?
+Mr. Luddy. I am not familiar with that program by name
+either, Senator, but I do know that Under Secretary Lord has
+taken a pretty aggressive look at how, together with the large
+primes, we can work to support the middle and lower tiers of
+the industrial supply chain to be secure. We recognized this
+early on when the NIST standard was initially promulgated that
+while the big companies were essentially almost entirely
+compliant immediately, that the middle and lower tiers were
+going to have a more challenging time. Now, to a large extent,
+our prime contractors work very hard with their supply chains
+to do that.
+One of the good ideas I think that the Department is
+looking at is the prospect of actually providing people and
+cloud-based capability to the middle and lower tier companies
+to help them understand the threats and meet the requirements
+of security that are out there. So we support that very much.
+Senator Rounds. Great. Well, I think the Achilles heel in
+this whole process is that we want to use lots of different
+subcontractors. In many cases, some of our most innovative
+contractors are those subcontractors that are small. We do not
+want to lose their capabilities and what they have to offer.
+And yet, we have to have a program in place that allows them to
+assure us of the best types of protections that we can possibly
+get with regard to cybersecurity so that there is a standard of
+acceptance and a standard of capability that is there
+regardless of the size, and how we go about getting there is
+part of our challenge today.
+Senator Manchin?
+Senator Manchin. Thank you, Mr. Chairman.
+Maybe you can break this down for me. Basically most of the
+contracts that go from DOD are given to larger contractors.
+Correct? So the smaller subcontractor, no matter how great its
+idea, innovation, or creation may be, very seldom ever directly
+gets a contract from DOD.
+Mr. MacKay. If I could offer a differing perspective,
+Senator. Progeny Systems is a prime contractor to the Navy for
+a number of very important programs, including the
+cybersecurity controls for the submarine.
+Senator Manchin. So you have a direct contract.
+Mr. MacKay. We have a direct contract.
+Senator Manchin. So I would say you have to meet certain
+security guidelines and have people that have received security
+clearances. Right?
+Mr. MacKay. Yes, sir.
+Senator Manchin. Are you having problems getting your
+clearances?
+Mr. MacKay. No, sir, we are not.
+Senator Manchin. I understand there is a backlog of
+security clearances.
+Mr. MacKay. There is.
+Our biggest effort, though, is we have to do the same
+controls and we have to be just as careful as the large
+companies on a small company budget.
+Senator Manchin. Well, I am saying that everyone should
+meet the same standards you are meeting. I do not understand
+why we let the small contractors get by just because they are
+small. I do not know why we do not hold the larger contractors,
+who are responsible for the contract, accountable to make sure
+the subcontractors they are hiring have protections.
+Mr. MacKay. Yes, sir.
+Dr. LaPlante. In my experience, Senator, when I was an
+acquisition executive, the knowledge a lot of the primes had of
+their detailed supply chain was very mixed, surprisingly so.
+And some of that is on the Government.
+Senator Manchin. Was very what now?
+Dr. LaPlante. Surprisingly uneven, even knowledgeable of
+who is a sub to whom and what contracts they have.
+Senator Manchin. Who hires the subs?
+Dr. LaPlante. Usually the prime.
+Senator Manchin. The prime is hiring people. They do not
+know who they are?
+Dr. LaPlante. No. The primes hire people who they know, but
+sometimes when you look at the contract between the prime and
+the subs--the Government may not have access to it--you find
+out the contract may not have the requirements in it for
+quality or something else.
+Senator Manchin. Is that the way that the contracts are
+written?
+Dr. LaPlante. They can be. They can be. It depends on the
+contract.
+Senator Manchin. So basically a contract from the Navy or
+Air Force----
+Dr. LaPlante. No. What I am talking about--I am sorry,
+Senator. This is a contract between a prime and a
+subcontractor, not between the Navy and the prime.
+Senator Manchin. No. I am saying, first of all, if I put
+out criteria that I want every contractor to meet if they bid
+and they were successful, I do not care who does the work. They
+have to meet this criteria.
+Dr. LaPlante. You absolutely could do that.
+Senator Manchin. But we are not doing that now.
+Dr. LaPlante. I am saying it is uneven. But I defer to my
+colleagues. But I was surprised at how uneven the----
+Senator Manchin. Just trying to get a handle on this.
+Okay, go ahead, Mr. Peters.
+Mr. Peters. Senator, so there are two challenges. First of
+all, there are a lot of companies that I know of, small machine
+shops, that have multimillion dollar contracts directly with
+the government that are not cleared, but they are producing
+things that help keep airplanes flying and tanks----
+Senator Manchin. Are those all confidential?
+Mr. Peters. No. They are still critical. You still have
+critical----
+Senator Manchin. Yes, but I mean, everybody knows what the
+part is and who is making it.
+Mr. Peters. Right.
+But the issue with the contractors--one of the challenges
+is that if I have got a supply chain--there are 23 different
+contractors that make the primary shaft for the Chinook
+helicopter. 23 and that is just for the primary shaft.
+Senator Manchin. Just the shaft.
+Mr. Peters. So the problem is that the prime contractor
+knows who its immediate supplier is. They do not know who is
+beyond them, third, fourth, fifth tier and so on. You have
+flow-down requirements.
+Senator Manchin. Why would they not?
+Mr. Peters. Because the contractors, especially the prime
+contractors, consider that to be their private information. If
+I let you know who my contractors are and who my supply chain
+is----
+Senator Manchin. That is the person you will bid against
+the next time.
+Mr. Peters. Exactly.
+Senator Manchin. I really do not care.
+Mr. Peters. I agree.
+Dr. LaPlante. Your points are well taken. We are just
+describing how it is.
+Senator Manchin. We can change that.
+Dr. LaPlante. You can change it. That is right.
+Senator Manchin. We are all on committees that can change
+contracts.
+Dr. LaPlante. That is right. But the knowledge of the
+primes, to the point, of the sub to the sub to the sub is
+uneven.
+Senator Manchin. That is awful. That is absolutely
+unbelievable.
+Mr. Luddy, do you have anything to add?
+Mr. Luddy. I was just going to add, Senator, that I believe
+the legal concept here is of contract privity. And a contractor
+has privity with its immediate subcontractors, but not with
+that subcontractor's subcontractor.
+Senator Manchin. Somebody has to be held accountable.
+Mr. Luddy. These are the kinds of things that I think we
+are trying to work through, and DOD is trying to work through.
+Senator Manchin. Would you all be objectionable if we wrote
+the standard of how contracts are left to the prime?
+Mr. Luddy. I think we are concerned about anything that
+will inhibit good information sharing about the----
+Senator Manchin. Right now, there is no information
+sharing. If you are a prime, you do not know who the subprime
+is or the subprime to the subprime.
+Dr. LaPlante. Senator, I think what you are getting at is
+the following, and I think this would help tremendously.
+Holding more accountability to their supply chain and knowledge
+for the primes, however we do it and dealing with the legal
+issues, that would be greatly helpful.
+Senator Manchin. It is mind-boggling.
+The private sector does not work this way. Does it? The
+private sector does not work this way that I know of. I have
+been in business a long time. I have never seen private
+contracts working this way. Someone is held accountable and
+responsible all the way from the top to the bottom. Right here
+you can pass the buck all day long.
+You take a shot at this.
+[Laughter.]
+Senator Rounds. Okay. Let me offer an alternative. If
+anybody who was providing anything to a contractor or a
+subcontractor or, for that matter, anything down the line, was
+simply identified as being responsible to a certain standard or
+who was subject to audit so that it was not necessarily
+knowledgeable to the other subcontractors or other contractors
+that this was their supply chain, but rather that they were a
+licensee to perhaps the Department of Defense to where there
+was a standard that they had to meet, would something like that
+be an alternative so that you had an entire base of perhaps
+thousands of subcontractors who had met a particular criterion
+that would then be allowed to be within the chain? Is something
+like that available, or has that been tried to the best of your
+knowledgeable?
+Mr. Luddy. Senator, one of the objectives of our standard
+is to try to have within industry a self-regulating effort to
+set levels of cybersecurity so that a prime will know going
+from one subcontractor to another that these companies have met
+levels of security. In the case of the NIST standard now, which
+requires system security plans and programs to remediate any
+security flaws, those can be audited. That presents a resource
+problem for the Department of Defense, which has a limited
+number of resources and people to apply to auditing, but that
+is a possibility.
+We are concerned about the prospect of the system security
+plans (SSPs) and Plans of Action and Milestones (POA&Ms), as
+they are called, being automatically provided or provided just
+on a widespread basis because they contain, frankly, sensitive
+information about a company's economic viability, security
+viability, and so forth. They can have real implications in the
+business sense for what our companies need.
+Obviously, there is always the option of an audit, but it
+is a resource challenge for the Department.
+Dr. LaPlante. Mr. Chairman, I would add to what my
+colleague said this following concept. Once you have such a
+list that you described, then it is really important to have
+this active like a counterterrorism center to watch the list,
+watch what changes. We found in similar things some of the
+worst problems happened when overnight somebody on the list
+that had been approved gets bought by somebody else. So you got
+to be very active in watching it, but it could work.
+Senator Rounds. Mr. MacKay, I have a question for you. You
+are a small contractor.
+Mr. MacKay. Yes, sir.
+Senator Rounds. Yet, clearly you have been successful. Do
+you employ other subcontractors?
+Mr. MacKay. Yes, we do.
+Senator Rounds. Can you describe for us the process that
+you have to work through in order to qualify them so that,
+within your own guidelines, you are comfortable that they have
+met certain standards?
+Mr. MacKay. Yes, Senator. When we have a particular
+contract to satisfy, we consider industry partners. One of our
+approaches is to have specially selected industry partners that
+we work with almost exclusively so that we have better control
+over their own security practices. And rather than relying on
+their resources and their infrastructure for things like
+security controls, we bring them into our IT infrastructure and
+our project infrastructure so that they are using our controls
+when they do development on our projects. So we try to
+encapsulate their work into our way of doing the NIST controls
+and keeping things safe.
+But to the points of the other gentlemen, we have machine
+shops that we hand off work to. And, you know, Junior Smith has
+a laptop that he has used on his lathe since forever and you
+got to try to explain to him that he has got to be more
+careful. So what we have to do is flow down help to those
+people so that we give them information in a form that cannot
+be or is more difficult to be compromised. I think that is a
+model that we can pursue.
+We are a contractor, subcontractor of Lockheed Martin, and
+Lockheed Martin assesses us the same way that we assess the
+people that work for us. So the flow-down is critically
+important, and each step of the management process has to take
+ownership. But the guy at the top who has the prime contract
+has to take on the responsibility of seeing things all the way
+down to the bottom, and they have to ask the hard questions.
+Senator Rounds. I think that is the part that Senator
+Manchin was bringing up: how far down is that, because as you
+have indicated, you go down to, even in this case where you
+have a subcontractor, who may very well be using a separate
+subcontractor themselves, who is simply machining a particular
+part--they will have competencies and capabilities that are at
+least at risk with regard to that particular product that they
+are supplying to your subcontractor.
+Mr. MacKay. Exactly. Yes, it is a very difficult problem,
+and we have spent countless hours worrying about this issue
+because it gets very complicated very quickly. If I hand a
+document over to somebody to create a part, then I have to ask
+them how they are going to be managing that document and who
+they are going to give it to. They could lie to me. They could
+say, yes, we are going to do this and at the last minute, hand
+it off to somebody who came at a lower bid and not tell me. We
+have to find a way to go back to them and say, so you just
+delivered this part. Look me in the eye and tell me that you
+did not change our approach. We can cancel the contract. We can
+fire them. But to be absolutely sure they did not----
+Senator Rounds. By then, it is too late because that has
+been entered into the supply chain.
+Mr. MacKay. Yes. So it is a very difficult problem. I think
+we have to do as much as we can to take responsibility for what
+we can see and the contracts that we let, and we should be held
+responsible absolutely when things go wrong. We go to the
+limits I think of what we can reasonably do in the execution of
+our contracts. But it is not going to be infallible.
+Senator Rounds. Thank you.
+Senator Manchin, your turn.
+Senator Manchin. It is probably best that I do not say a
+whole lot.
+Just call the Chinese and ask them how they did it. It is
+pretty easy. This is not hard to follow right now. I think a
+blind person can follow this. We wonder why we have been hacked
+so much, why they have copied everything. You all just
+explained it. There are no checks and balances. It looks like
+to me that we are protecting a business model more than we are
+the security of our country. That is it in a nutshell I think.
+You are afraid somebody else is going to come and get somebody
+else, and if they do, they will go around that person to get
+them directly and take them out of this chain. I see that.
+I mean, I used to write RFP's all the time. An RFP is an
+RFP, request for proposal, and here is how it is going to be
+done. If you do not do it, you are not in compliance. You will
+be held liable, be sued out the ying-yang because you broke it.
+Do you sign RFPs?
+Mr. MacKay. Yes.
+Senator Manchin. And you agree to the terms of the RFP?
+Mr. MacKay. Yes, we do, Senator.
+Senator Manchin. Do you have people sign RFPs to you?
+Mr. MacKay. Yes, absolutely.
+Senator Manchin. Have you ever gone after someone legally?
+Mr. MacKay. To my knowledge, we have not, but the T in my
+title does not usually give me insight into the business side
+of----
+Senator Manchin. I would say there would be different types
+of categories. The Defense Department is going to be required
+to do some things that are not top secret, and some things that
+we have are top secret and we hold primes responsible in
+different ways because of what we are working on. But I would
+think everybody in that food chain is going to be held to the
+highest standard, but you are telling me it does not work that
+way as it goes down the food chain. Correct?
+Mr. MacKay. Well, Senator, I think that we hold everybody
+to the highest standard that we physically can control because
+we know what we know, and if somebody decides to go around our
+back and go to a different supplier--they go to China for a
+part or they go somewhere else that compromises the
+information--and they lie to us, we have to be able to have a
+way to find out that they have done that. That is a difficult
+proposition.
+Senator Manchin. If they have to make all their software
+and everything applicable to your RFP, they got to turn
+everything over. It should not be too hard to track it.
+Mr. MacKay. That would be great.
+Senator Manchin. Tell me what you need. Just tell us. That
+is why you are here. We are here to fix it and you are here to
+tell us what is broken.
+Mr. Luddy. Senator, I would say two things in response to
+the very legitimate concern you are raising.
+One is that there should be a threshold security that
+everybody needs to meet. I think our standard is an effort to
+do that. The DOD made an initial effort to do that with 800-
+171. And both of those efforts are going to continue and I
+think strengthen. We all have that objective.
+Another thing that I alluded to in my testimony is that
+right now there is perhaps an over-sharing of information
+across programs. Somebody working on a bolt does not
+necessarily need the same level of information from the
+government as somebody working on a guidance system or a
+navigation system, for example, to oversimplify it. So the
+Department I know is looking at that. I think that would be a
+welcome way to deal with it.
+So I think the more that we can control and define the
+kinds of information that get transferred, the smaller bucket
+of the problem we will have.
+Dr. LaPlante. Senator, just a couple, two points really
+quick.
+One is an idea that sometimes comes up--and it is not
+perfect--is there are some programs where we just do not reveal
+the suppliers. Period. When I was Assistant Secretary, we
+ordered the bomber for the Air Force. At the press conference,
+they said who is building the engines. We said we are not
+telling you. Now, of course, we do not think the Chinese will
+at some point figure that out. But there is something about
+protecting things that you would not think would be protected.
+So that is one point.
+The second point is where you are going. I will draw an
+analogy. When I was Assistant Secretary, when I had a
+frustrating problem in a program, a missile, and it was
+failing, we would find out it was not the prime. It was a sub
+to a sub of the prime. Well, I still held the prime
+accountable. I do not think there should be any difference with
+this.
+Senator Rounds. But by then, it is too late. Is it not?
+Dr. LaPlante. Oh, it is. But it is well known that the
+prime knows that if the inertial measurement unit (IMU) on the
+missiles failing was made by a mom and pop shop, that is in
+their incentive contract for the prime. So why is it not the
+same for cyber? That is the question.
+Mr. Peters. So, Senator, there are two points I would make.
+This situation is much worse than many people realize.
+One is that--you are absolutely right--the flow-down
+requirements, while they do flow down, as you get to the
+smaller to medium-sized manufacturers, they do not always take
+the time to read them, to conform to them. I have been through
+flow-down requirements that still have Y2K provisions and anti-
+segregation provisions in them. So it gets very confusing. They
+get very long. It is hard to do.
+The other challenge we have is that the DOD makes all
+information, contractual and transactional information, public,
+90 days delayed, but it is still public through several
+databases. There are companies that aggregate all of this data
+and actually sell it in 37 different countries. So all that
+data is out there. I can find the suppliers that make parts and
+pieces for any aircraft, any ship, any land vehicle. It
+essentially provides a blueprint of if you want to go after a
+certain weapon system, whether to get information and steal it
+or to----
+Senator Manchin. Do they give you an email account on it
+too?
+Mr. Peters. Pardon me?
+Senator Manchin. Email accounts on that too so you can go
+right to it easily to hack?
+Mr. Peters. Maybe not quite that level, but they do have
+the contract information through SAM, System for Award
+Management, for all of the contract----
+Senator Manchin. Let me just bring up something, if I can,
+real quickly.
+You all are here because you understand the system much
+better than we do. We know something is wrong. China could not
+have the success they have had in such a rapid amount if it had
+not been for us. We all know that, and we know what they do on
+a daily basis. We know what Russia is doing. We know what all
+these countries are doing. If you have been on Intel and you
+have been on Armed Services, you are going to get the flow.
+Nobody is willing to step to the plate and fix it. You are
+shaking your head thinking we have got to be the stupidest
+people in the world to let this happen. And that is what we are
+saying. We do not want you to jeopardize your business, your
+contracts, or anything. But somebody has got to come and we
+have got to put a stop to it.
+Senator Rounds. Let me follow up. It would appear to me
+that within the Department of Defense, not only do we need a
+consistency from one department to the other, but there has to
+be a way of communicating so that the challenges that you face
+and the challenges that we are learning about as we move
+through and that we are now trying to publicly share with a
+committee meeting like this in the open--and as you know, most
+of our Cyber Subcommittee meetings are in a classified setting
+because we do not talk about this. We decided intentionally to
+do this one in the public so that we could draw attention to
+how serious this was and to also suggest something else, and
+that is that you need to have a way in which you can
+communicate with the Department of Defense.
+Today, as you work your way through this process, clearly
+this is not something that you have not thought about before.
+Clearly it is something that you are aware of and you had
+concerns about or you would not be here.
+When you look at these things, is there a way today in the
+system for you to share with the individuals that you contract
+through the Department of Defense, through the different
+branches and so forth, different offices, procurement offices--
+is there a way for you to share and express and participate in
+trying to improve the acquisition process? Is there a process
+there right now that you are aware of?
+Mr. Peters. So, Senator, again, I spend most of my time
+with small to medium-sized manufacturers in the defense
+industrial base. When I let them know, though, I was going to
+be testifying, I was overwhelmed with issues they wanted me to
+raise, and I got a list this long. I had to really boil it
+down.
+The challenge is that there are some venues to do that.
+However, what we find is that most of the manufacturers (I
+focus on manufacturing) are reluctant to say anything, whether
+it is directly through the DOD, through procurement technical
+assistance centers, or any of the different kinds of venues
+they have, because they are afraid of reprisal. I have a number
+of horror stories of reprisal from the DOD because somebody
+spoke up, they raised their voice.
+So unless there were some way for you to gather this
+information anonymously--and that is one of the reasons I get a
+lot of this insight. When I do my research, I promise the
+subjects anonymity. They spill the beans. But unless there were
+some way for you to do that, either through a university that
+was doing this research or through some independent third
+party, I think you are always going to have this fear of
+reprisal.
+Senator Rounds. You know, the National Aeronautics and
+Space Administration (NASA) actually has a program for pilots
+who, when they see something that is unsafe within the system,
+can fill out a form. Basically even if they messed up on a
+federal aviation regulation or if they have done something, as
+long as they fill that form out and advise through NASA that
+there is a safety issue involved in a particular place, whether
+it is going into a particular airport, working under a
+particular type of airspace, or whatever--when they fill that
+out and send it in, this is what is used to actually make the
+entire system work better long term. What you are saying is
+that really does not exist right now within the defense
+acquisition system. But perhaps something along that line may
+be----
+Dr. LaPlante. Yes, Mr. Chairman. I think there is also a
+program very much like you described called Aviation Safety
+Information Analysis and Sharing (ASIAS) with the Federal
+Aviation Administration (FAA), that the airlines have gotten
+together and they have agreed to have a safe sharing
+environment by pilots. There is something to that.
+I draw the analogy. When you have an air incident in the
+Air Force, they first get the root cause, and the people that
+are talked to, complete immunity. You say whatever you want.
+They do not do the punishment thing. They want to get the
+facts. You separate that later if you say we need to do some
+discipline, do that later with a different group. But it is to
+foster that environment that you are talking about.
+Senator Rounds. One other item that comes to mind as I
+listened to the discussion here. The thought that there would
+be reprisals coming back through DOD for a subcontractor or a
+business entity to report something which would be a threat to
+national defense is of real concern. While we are not naive
+enough to think that that may not be occurring, it seems to me
+that some of that has to do with the culture within the
+different organizations.
+I would call to mind most recently the Department of the
+Navy just put out their current cyber analysis, and they were,
+in my opinion, very straightforward, and they went into some
+detail about their own challenges. In a way, it was like going
+to confession. But they did more than that. They actually
+recognized that they are an information operation. They may
+have a goal of getting 355 ships, and it is not the fact that
+our near-peer competitors are stealing our ships. They are
+stealing our information. If we are going to protect our ships
+with all sorts of systems, what is it that we are doing to
+protect our information, which clearly is just as valuable, if
+not more valuable? I think that openness on the part of the
+Department of the Navy is something that may very well suggest
+the changes needed within the culture not just of the Navy but
+elsewhere within DOD as well.
+I am seeing heads nodding, but I would love to have your
+thoughts that perhaps that is part of the discussion that we
+need to participate in.
+Mr. MacKay. Senator, I can contribute that our experiences
+with the Navy, and in particular Team Sub, has been that they
+have grabbed this problem by the horns. I think there would be
+repercussions if we did not report issues that we are seeing in
+cyber defense and in the way that they are conducting their
+activities and looking at the problem. They are pushing us.
+They are teaching us. They have really taken the forefront.
+But I think the discussion across the board here shows how
+it depends on each Department of Defense and each program
+office even, and you do not have a consistent approach across
+the board. Something that pushes down from the top that sets
+policy and sets the approach would be very valuable. I would
+offer the Department of the Navy as a good example of how it
+should be done because we have had nothing but encouragement
+and help from our Department of Defense partners.
+Dr. LaPlante. I would also say there is a part of the
+Navy--and this is a culture thing--the submarine Navy. They
+have a culture maybe because they are nuclear trained to get
+the facts. Do not just look to shoot somebody. There is a
+famous admiral who ran Strategic Systems Programs (SSP), which
+is the submarine ballistic missile part of the navy. Malley's
+Rules. Rule number one is tell bad news fast. It never gets
+better with age. You got to have that in the culture. And I
+think you are seeing some of those glimpses. We should get that
+out there more on this topic.
+Now, at the same time, you want to hold people accountable.
+So you have to reconcile how you do both at the same time. It
+can be done.
+Mr. Luddy. I think Dr. LaPlante is highlighting something
+really important. This does raise a tension, though, between
+the very important information sharing about threats, breaches,
+methods of addressing threats that we are trying to promote
+within industry and between industry and DOD, on the one hand,
+and the well-intentioned prospect of making levels of
+cybersecurity a matter of differentiating in contract and
+source selection. I understand where that comes from, and there
+is something to be said for it. But we just have to balance
+that with anything that will cause companies, for reasons of
+competitive advantage or disadvantage, to not share the details
+or specifics about a problem that they are facing across the
+companies. Right now, I think certainly at the higher levels,
+our companies do a good job of exchanging information and
+collaborating on how best to meet the threat. We do not want to
+put anything out there that discourages that.
+Senator Rounds. Thank you.
+Joe, anything else?
+Senator Manchin. No.
+Senator Rounds. Gentlemen, first of all, your full
+statement is a part of the record. We most certainly appreciate
+your participation here today. I am sure that we are going to
+be doing something along this line once again. But I would like
+to, once again, on behalf of the subcommittee, thank you all
+for your participation and your frankness. I think this goes a
+long ways towards informing the subcommittee and then the
+committee of some ideas or some processes that can be explored
+with regard to improving not just the culture but the overall
+process for addressing the issues of cybersecurity within the
+Department of Defense.
+With that, Senator Manchin, anything?
+Senator Manchin. No. Thank you.
+Senator Rounds. Very good. We will call this subcommittee
+to a close. Thank you.
+[Whereupon, at 3:36 p.m., the committee adjourned.]

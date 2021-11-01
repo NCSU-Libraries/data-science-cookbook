@@ -1,0 +1,1137 @@
+- FITARA 9.0
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+FITARA 9.0
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON GOVERNMENT OPERATIONS
+OF THE
+COMMITTEE ON OVERSIGHT
+AND REFORM
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+DECEMBER 11, 2019
+__________
+Serial No. 116-77
+__________
+Printed for the use of the Committee on Oversight and Reform
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Available on: http://www.govinfo.gov
+http://www.oversight.house.gov or
+http://www.docs.house.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+38-737 PDF
+WASHINGTON : 2019
+--------------------------------------------------------------------------------------
+COMMITTEE ON OVERSIGHT AND REFORM
+CAROLYN B. MALONEY, New York, Chairwoman
+Eleanor Holmes Norton, District of
+Jim Jordan, Ohio, Ranking Minority
+Columbia
+Member
+Wm. Lacy Clay, Missouri
+Paul A. Gosar, Arizona
+Stephen F. Lynch, Massachusetts
+Virginia Foxx, North Carolina
+Jim Cooper, Tennessee
+Thomas Massie, Kentucky
+Gerald E. Connolly, Virginia
+Mark Meadows, North Carolina
+Raja Krishnamoorthi, Illinois
+Jody B. Hice, Georgia
+Jamie Raskin, Maryland
+Glenn Grothman, Wisconsin
+Harley Rouda, California
+James Comer, Kentucky
+Katie Hill, California
+Michael Cloud, Texas
+Debbie Wasserman Schultz, Florida
+Bob Gibbs, Ohio
+John P. Sarbanes, Maryland
+Ralph Norman, South Carolina
+Peter Welch, Vermont
+Clay Higgins, Louisiana
+Jackie Speier, California
+Chip Roy, Texas
+Robin L. Kelly, Illinois
+Carol D. Miller, West Virginia
+Mark DeSaulnier, California
+Mark E. Green, Tennessee
+Brenda L. Lawrence, Michigan
+Kelly Armstrong, North Dakota
+Stacey E. Plaskett, Virgin Islands
+W. Gregory Steube, Florida
+Ro Khanna, California
+Frank Keller, Pennsylvania
+Jimmy Gomez, California
+Alexandria Ocasio-Cortez, New York
+Ayanna Pressley, Massachusetts
+Rashida Tlaib, Michigan
+David Rapallo, Staff Director
+Wendy Ginsberg, Subcommittee Staff Director
+Joshua Zucker, Assistant Clerk
+Christopher Hixon, Minority Staff Director
+Contact Number: 202-225-5051
+------
+Subcommittee on Government Operations
+Gerald E. Connolly, Virginia, Chairman
+Eleanor Holmes Norton, District of
+Mark Meadows, North Carolina,
+Columbia,
+Ranking Minority Member
+John P. Sarbanes, Maryland
+Thomas Massie, Kentucky
+Jackie Speier, California
+Jody B. Hice, Georgia
+Brenda L. Lawrence, Michigan
+Glenn Grothman, Wisconsin
+Stacey E. Plaskett, Virgin Islands
+James Comer, Kentucky
+Ro Khanna, California
+Ralph Norman, South Carolina
+Stephen F. Lynch, Massachsetts
+W. Gregory Steube, Florida
+Jamie Raskin, Maryland
+C
+O
+N
+T
+E
+N
+T
+S
+----------
+Page
+Hearing held on December 11, 2019................................
+1
+Witnesses
+Carol Harris, Director, IT Management Issues, Government
+Accountability Office
+Oral Statement...................................................
+4
+Renee Wynn, Chief Information Officer, National Aeronautics and
+Space Administration
+Oral Statement...................................................
+5
+Elizabeth Cappello, Acting Chief Information Officer, U.S.
+Department of Homeland Security
+Oral Statement...................................................
+7
+Written opening statement and statements for the witnesses are
+available on the U.S. House of Representatives Document
+Repository at: https://docs.house.gov.
+Index of Documents
+----------
+Documents entered into the record during this hearing and
+Questions for the Record (QFR's) are listed below/available at:
+https://docs.house.gov.
+* Questions for the Record: To Ms. Elizabeth Cappello, Acting
+Chief Information Officer, Department of Homeland Security;
+submitted by Chairman Connolly.
+* Questions for the Record: To Ms. Renee P. Wynn, Chief
+Information Officer, National Aeronautics and Space
+Administration; submitted by Chairman Connolly.
+FITARA 9.0
+----------
+Wednesday, December 11, 2019
+House of Representatives
+Subcommittee on Government Operations
+Committee on Oversight and Reform
+Washington, D.C.
+The subcommittee met, pursuant to notice, at 2:52 p.m., in
+room 2154, Rayburn House Office Building, Hon. Gerald Connolly
+presiding.
+Present: Representatives Connolly, Norton, Khanna, Meadows,
+and Grothman.
+Mr. Connolly. The committee will come to order.
+Without objection, the Chair is authorized to declare a
+recess of the committee at any time.
+Sorry for the delay but we had an extra unplanned vote that
+took up some time, and my friend, the Ranking Member, Mr.
+Meadows, and I were both delayed. I beat you, Mark, by one
+minute.
+Mr. Meadows. You are younger than me.
+[Laughter.]
+Mr. Connolly. I now recognize myself for my opening
+statement.
+Since the enactment of the FITARA Act, the Federal
+Information Technology Acquisition Reform Act, in 2014, this
+subcommittee has maintained steady and bipartisan oversight of
+implementation of the law. The benefits of continued oversight,
+which were lacking in the predecessor structural law, Clinger-
+Cohen, are clear: across the government, agencies have improved
+Federal information technology acquisition practices and
+management practices.
+In fact, the FITARA scorecard's success has led this
+subcommittee to incorporate other aspects of Federal IT into
+the grades over the years. Our framework is not rigid. The
+subcommittee has augmented and changed the scorecard to take
+cognizance of other important components of Federal IT, such as
+cybersecurity, and incorporated other constructive feedback
+from agencies.
+Today, the scorecard incorporates grades adapted from three
+additional pieces of legislation, including the MEGABYTE Act,
+the Modernizing Government Technology Act, MGT, and the Federal
+Information Security Management Act, FISMA. The bottom line is
+that the FITARA scorecard works and continues to hold agencies
+accountable for implementing the best IT practices. The
+evidence is visible today in that chart.
+In November 2015, the average FITARA grade was a ``D''
+across all participating agencies. Over the past four years,
+agencies have incorporated new, sometimes challenging metrics
+and higher stakes, and yet, the average overall agency grade
+today is trending up. It is now above a ``C'', a full grade
+improvement, not trivial. The witnesses from the Department of
+Homeland Security and the National Aeronautics and Space
+Administration, who are going to testify today, model this
+progress. In the eighth scorecard from June 2019, DHS and NASA
+received the worst grades of all agencies, a ``D-''. While
+there is still room for growth, the CIOs here today should be
+recognized for the progress they have achieved. In the ninth
+FITARA scorecard, today's, DHS is a ``B'' and NASA a ``C+,''
+material progress.
+Unfortunately for some agencies, and in some categories,
+progress has slowed. Today, I hope to hear from our witnesses
+and GAO about what it takes to move beyond these hurdles to
+ensure efficient IT acquisition and management practices. We
+must continue to see the dividends from putting resources
+toward replacing legacy IT systems, migrating to the cloud, and
+maintaining a strong cyber posture.
+This subcommittee recognizes that each agency has its own
+unique attributes. Agencies vary greatly in their personnel and
+budget size, and in the number of missions, components, and
+programs that fall within their purview. Large, federated
+agencies such as DHS and NASA likely face additional challenges
+when implementing the best IT practices across their enterprise
+because of this complexity.
+Despite these challenges, improvements are possible.
+Progress in Federal IT takes political will and the recognition
+that the CIO needs a seat at the leadership table directly and
+a critical role in an agency's management decisions. Both DHS
+and NASA scorecards reflect increased grades given their
+agencies' commitments to give the CIO or a CIO direct reporting
+access to the head of the agency. Ms. Wynn, I am pleased to see
+that NASA recently reversed course on its reporting structure
+after the Ranking Member and I both expressed our concerns in
+writing, and we thank you for that.
+With the ninth scorecard, this one, our subcommittee
+acknowledges that some other agencies have taken steps toward
+direct reporting structures. DHS, the AID, and the Department
+of Treasury received partial credit this cycle for having a
+direct report to the head of the agency and indirect reporting
+to an Undersecretary or Assistant Administrator for Management.
+For DHS, the authority to drive change in IT practices across
+the entire department is of the utmost importance. The DHS IG
+reported on numerous IT deficiencies in components like the
+Federal Emergency Management Agency that hindered the agency's
+recovery operations following catastrophic hurricanes and
+wildfires. Lives depend on FEMA doing its job and doing it
+well, and that is what the importance of this finding really
+is.
+Finally, I would like to take some time to reflect on the
+actions of the Administration regarding data center
+consolidation. At our last hearing, the Federal CIO, Suzette
+Kent, testified that she would continue the push for aggressive
+data center closures in the Office of Management and Budget's
+revised Data Center Optimization Initiative policy. After all,
+the law calls for that consolidation. It is explicit in the
+law. And we, both Mr. Meadows and myself, and the subcommittee
+were very gratified to hear Ms. Kent's rededication or
+recommitment to the explicit commitment of data center
+consolidation.
+In June, OMB released new agency data center guidance,
+however, that changed the entire baseline for how agencies
+define and count data centers. Just one year ago, agencies
+reported on more than 4,700 such centers that they planned to
+continue to operate. In 2019 data center inventory, however,
+the number dropped by nearly 50 percent to 2,400 data centers
+because of a definitional change, not because of consolidation,
+and I think that is of concern to us because it bypasses the
+whole point. Whether it is deliberate or bureaucratic, one does
+not know. But we do not want to miss the need to achieve that
+goal.
+When we passed the MGT Act that both Mr. Meadows and I also
+sponsored, it was to be able to allow reinvestment in the
+enterprise through the savings effectuated through
+implementation of FITARA, primarily this, because data center
+consolidation is what frees up capital. That is what gives you
+the cost savings. If you play games with the definition of what
+is a data center or what constitutes consolidation, you miss
+the benefits. So we want to hear more about that, but we are
+concerned about it, and we want to make sure no one is playing
+games or doing an end-run; and even if it isn't deliberate,
+that unwittingly we are actually evading the purpose of the
+law. After all, the law is a good-government law. It is a
+bipartisan bill to try to bring agencies into the 21st century.
+So we are eager to hear the testimony today, and I want to
+again thank my colleague, Mr. Meadows, who has always been
+there on this issue, and then some, and I just thank him as
+being an equal partner in this enterprise. Thank you.
+Oh, Mr. Meadows. I recognize the Ranking Member.
+Mr. Meadows. I will be very, very quick. Thank you, Mr.
+Chairman, for your leadership on this issue, and the very fact
+that we are having this hearing is the emphasis and the
+priority not only of the Chairman but of members broadly. I
+know it is not a topic that brings in the cameras and members
+come rushing in.
+I do want to let you know, though, for our two witnesses
+that are here, to kind of give a synopsis of what you have done
+-- Ms. Harris will certainly attest to this -- we pay very
+close attention to this. It is actually now starting to become
+indirectly part of the appropriations process. We are looking
+at it. We want to make it a more formal part of that where
+literally we reward you for doing a good job, and both of you
+are here today to talk about your successes.
+Certainly, efficiency in government as it relates to IT is
+critical. I have shared this a number of times. We spend more
+on IT than we should, and I say that because it is $100
+billion, if you count all of the agencies that we name and
+don't name. It is over $100 billion a year, and when you look
+at that kind of number, I used to get more computing ability in
+my private-sector real estate company than some agencies do
+with the amount of money that we spend. So we have to do a
+better job.
+That being said, we know that there have not been rewards.
+So I am committed both on the fiscal side of things, which is
+hard for this conservative to say, but also on the reform side
+of things, to work with not only the two of you but all the
+agencies. Ms. Harris and your colleagues, I want to thank you
+both for your continued work on this.
+And without further ado, I think I will yield back to the
+Chairman so we can hear from all of you.
+Mr. Connolly. I thank the Ranking Member. Thank you very
+much.
+I now want to welcome our witnesses.
+Carol Harris, Director of IT Management Issues at the
+Government Accountability Office. Welcome back.
+Elizabeth Cappello, Acting Chief Information Officer, U.S.
+Department of Homeland Security.
+Renee Wynn, Chief Information Officer for NASA, the
+National Aeronautics and Space Administration.
+And, I will point out, an all-woman panel.
+Thank you for being here.
+If you would please stand and raise your right hands, we
+will swear you in, which is the habit of our committee.
+[Witnesses sworn.]
+Mr. Connolly. Let the record show all three of our
+witnesses answered in the affirmative.
+Thank you so much. You may be seated.
+Without objection, your written statements will be entered
+into the record in full. We would ask you within a five-minute
+timeframe to summarize your testimony as best you can.
+And we will start, Ms. Harris, with you. Welcome.
+STATEMENT OF CAROL HARRIS, DIRECTOR, IT MANAGEMENT ISSUES,
+GOVERNMENT ACCOUNTABILITY OFFICE
+Ms. Harris. Thank you, Mr. Chairman. Chairman Connolly,
+Ranking Member Meadows, and members of the subcommittee, I
+would like to thank you and your very excellent staff for your
+continued oversight on IT management and cybersecurity with
+this ninth set of grades.
+Overall, nine agencies' grades went up, four went down, and
+11 remain the same. Also, for the first time ever, three
+agencies received an ``A'' grade, including two ``A+'s,'' and I
+would like to commend USAID, the Department of Education, and
+GSA for earning these top grades.
+I will now share some key highlights from this ninth
+scorecard. First, I will start with the CIO reporting
+structure.
+The CIOs of USDA and NASA now report to the agency head or
+deputy, which brings the total number of agencies with this
+direct reporting structure to 16. In addition, DHS, Treasury,
+and USAID have established acceptable CIO reporting
+relationships that, while not perfect, have enabled them to
+achieve partial credit in this category. This progress would
+not have happened to this extent without your scorecard and
+your oversight.
+Turning to data centers, the grading was suspended in the
+prior scorecard to provide the Federal CIO the opportunity to
+share OMB's plans for revising its data center optimization
+initiative at that hearing. At your direction we have
+reintroduced these grades, and the change increased the overall
+grade of DHS and decreased the overall grade of Interior,
+Labor, and state.
+OMB's guidance is now final, and unfortunately the concerns
+I raised at the last hearing about the revisions remain
+unchanged. Among other things, OMB's guidance revises the
+classification of data centers and data center optimization
+metrics. For example, OMB's new data center definition excludes
+roughly 2,300 facilities that agencies previously reported on
+in Fiscal Year 2018. Many of these excluded facilities
+represent what OMB itself has identified as possible security
+risks. Some are also large facilities that agencies will keep
+operating but will no longer be reporting on. SSA has five
+facilities over 8,000 square feet, and state has two over
+10,000 square feet, as an example. In addition, there are 194
+data centers over 1,000 square feet for which closure progress
+will no longer be reported as a result of the redefinition.
+Accordingly, the subcommittee and the committee will lose
+the ability to track and measure progress in this area because
+the baseline for comparison will have changed. Moreover, the
+changes will likely slow down or even halt important progress
+agencies should be making to consolidate, optimize, and secure
+their data centers.
+I will now turn my comments to DHS and NASA. These agencies
+collectively plan to spend $8.6 billion on IT this year. For
+each of them, roughly 80 percent of their IT spent is on
+operational systems. DHS has an overall ``B'' grade, which is a
+solid improvement from the past four scorecards in which it
+hovered between a ``C'' and a ``D-''. NASA, too, has made
+noteworthy progress from its ``F'' grade on the first two
+scorecards back in 2015 to a ``C+'' today.
+Some positive areas to highlight for both. They have
+comprehensive software license inventories and use them to make
+decisions and save money. These agencies also have highly
+effective IT portfolio review processes which have led to a
+collective $2.6 billion in savings and cost avoidances since
+2012. For DHS, progress in the area of incremental software
+development is still rather low. Only about 55 percent of its
+IT projects are delivering functionality every six months, as
+OMB has called for. For NASA, the lack of transparency in its
+evaluation of major IT investments is troubling. NASA spent
+$442 million on major IT in Fiscal Year 2019 and did not rate
+any of those investments as yellow or red.
+Mr. Chairman, this concludes my comments on the overall
+scorecard and the results for these two agencies. I look
+forward to your questions.
+Mr. Connolly. Thank you very much. I just wanted to
+mention, Ms. Harris, I will assure you we are not going to lose
+our ability to evaluate by virtue of OMB obfuscating the
+baseline. If necessary, we will work with you to create/
+recreate the baseline we have been using, and that is how we
+will continue to monitor and score agency performance. But we
+are not going to allow either the evisceration or the dilution
+of the baseline that has served us so well and agencies so
+well. Thank you.
+Ms. Wynn?
+STATEMENT OF RENEE WYNN, CHIEF INFORMATION OFFICER, NATIONAL
+AERONAUTICS AND SPACE ADMINISTRATION
+Ms. Wynn. Thank you, Chairman Connolly, Ranking Member
+Meadows, and the members of the Subcommittee on Government
+Operations, for allowing me to appear before you today to
+provide you an update on NASA's implementation of the Federal
+Information Technology Acquisition Reform Act, or FITARA.
+NASA's global information technology infrastructure plays a
+critical role in every aspect of NASA's mission. Today is an
+especially exciting time to work at NASA as we work toward
+delivering the first American woman and the next American man
+to the moon in 2024.
+NASA's new Artemis program will use a long-term presence on
+the moon to test, build, and validate new capabilities for
+human missions to Mars. My team looks forward to playing our
+part in this great endeavor.
+Effective IT management is not an easy task. As the CIO, I
+must balance innovation with mission needs, costs, and evolving
+threats. NASA has come a long way from our initial FITARA
+score, and more work remains. As an example, in 2010, NASA had
+79 data centers. Today we have 19. This is a 75 percent
+reduction, resulting in the repurposing of approximately 80,000
+square feet of space and generating about $36.2 million in
+savings since Fiscal Year 2012. When reducing our data center
+footprint, we also increased our use of cloud computing. NASA
+currently has more than 10 petabytes of data in the cloud and
+uses more than 1.4 million commercial cloud computing hours per
+month.
+To its credit, over the last several years NASA has
+transformed its IT governance structure to empower the CIO with
+greater authority. For example, the CIO directly reports to the
+Administrator, and I have access when needed. The NASA CIO and
+most of the center CIOs sit on all key NASA decisionmaking
+councils, and the CIO has direct authority and oversight over
+the center CIOs, including their IT and acquisition decisions.
+Within NASA, IT is now regarded as a strategic agency
+resource, with the CIO having clear authority to approve the
+agency's IT spend plan. In doing so, NASA is strengthening the
+agency's ability to rely on IT resources with agency missions,
+goals, and programmatic priorities. My office continues to work
+closely with our customers to better understand and support
+their mission and mission support needs. My office is even
+integrating team members directly into the Artemis program,
+ensuring cybersecurity risks are mitigated at the earliest
+stage.
+Additionally, my office continues to participate in NASA's
+mission support future architecture program, or MAP. Through
+MAP, NASA is implementing a phased approach to transform
+mission support services into more efficient enterprise
+operating models. This includes realigning budget authority and
+lines of reporting, improving the sharing of capabilities
+across our centers, and strategically assessing and aligning
+the work force to support this transformation. My office is on
+track to complete our MAP assessment and planning by December
+2020.
+When speaking about NASA, it is important to remember that
+cooperation with our Nation, the public, and scientists across
+the world is one of NASA's founding principles. Therefore, NASA
+seeks the widest practical and appropriate distribution of
+information from our missions, but in doing so we must also
+safeguard our IT assets against well-resourced and highly
+motivated threat actors.
+The reported number of cyber incidents against NASA
+continues to increase because we have greater visibility into
+our network. I am confident that NASA continues to
+appropriately address these threats. Some of the metrics that I
+provided in my written testimony demonstrate that.
+Additionally, I would like to publicly congratulate NASA's
+Identity Credential and Access Management team for being named
+a finalist for the prestigious 2019 National Security Agency's
+Frank B. Rowlett Award, an award that recognizes outstanding
+Federal Government excellence in the field of cybersecurity.
+In conclusion, I appreciate the opportunity to appear
+before you today to assure you that effective IT management is
+a top priority for NASA and its senior leaders. NASA looks
+forward to continuing to work with Congress and our other
+Federal cyber partners to ensure that NASA's IT global network
+remains secure, effective, and resilient. I would be happy to
+answer any questions you may have.
+Mr. Connolly. Wow, right on the nose. Excellent job.
+Ms. Cappello?
+STATEMENT OF ELIZABETH CAPPELLO, ACTING CHIEF INFORMATION
+OFFICER, U.S. DEPARTMENT OF HOMELAND SECURITY
+Ms. Cappello. Chairman Connolly, Ranking Member Meadows,
+and distinguished members of the subcommittee, thank you for
+your continued commitment to achieving the goals of FITARA and
+the opportunity to appear before you today to share the
+Department of Homeland Security's progress in meeting these
+goals.
+Across DHS, our components serve disparate missions at
+various operational tempos, requiring information technology at
+locations across the globe. As a career Federal specialist from
+within DHS, I know that providing capability for this complex
+agency requires a strategy that advances the mission, optimizes
+the organization, enhances service delivery, and strengthens
+cybersecurity.
+The DHS Chief Information Officer is accountable for the
+efficient and effective use of IT resources across DHS. As part
+of my statement, I would like to highlight a few areas of
+success that relate to FITARA's scorecard metrics, the
+Department's cybersecurity posture, cloud adoption, Agile
+development, and data center consolidation.
+Cybersecurity must be at the core of everything we do in
+information technology. At DHS, my office operates the
+enterprise-wide area network that connects the 240,000 DHS
+Federal employees, more than 4,300 physical locations, and
+dozens of mission-essential applications. An important layer of
+protection for this ecosystem starts at the enterprise Security
+Operations Center, or SOC, which is focused on the risk of
+attack from hostile cyber actors.
+The next levels of defense in-depth occur within the
+components themselves. To ensure consistency in cybersecurity
+across all levels of the Department, we implemented the
+Cybersecurity Service Provider Program this year. The CSP
+Program tailored the well-established Department of Defense SOC
+accreditation program for use within the Department of Homeland
+Security, and this past year the U.S. Immigration and Customs
+Enforcement SOC received accreditation, and DHS will continue
+assessments of the remaining DHS SOCs throughout this fiscal
+year.
+Given all these efforts, I am proud to note that the
+Department's improved cybersecurity posture is evident on our
+Federal scorecards, including FISMA and FITARA. Our
+cybersecurity strategy is not static, however. As DHS continues
+to make great strides in cloud adoption, we must update our
+enterprise security model, our policies, and our architecture.
+We must eliminate the barriers to cloud migration while
+supporting information assurance.
+The perimeter defense approach is evolving into zero trust,
+which very simply means that we eliminate the concept of trust
+from our technology enterprise. This architecture will better
+protect DHS IT assets from compromise through improved
+monitoring and strict access control. At the same time, the
+Department is implementing the new OMB TIC 3.0 and the
+streamlined authority to operate process to facilitate the
+cloud environment.
+The Department is also committed to developing and
+retaining a skilled cyber work force. We are partnering with
+the Office of the Chief Human Capital Officer as they develop
+the Cyber Talent Management System to manage the entry and
+training of cyber talent within DHS. Additionally, DHS supports
+a cyber internship program and numerous engagements with
+educational institutions.
+Cloud adoption also requires re-skilling the work force. By
+integrating cybersecurity with incremental development, we
+ensure that DHS operates a resilient and responsive technology
+enterprise. DHS is focused on building Agile skills so that
+security, development, and operations are an integrated
+culture. We host an annual Agile Expo highlighting the best
+practices from across the Department.
+At DHS, we understand clearly that data center
+consolidation is a top priority for the Chairman and the
+Ranking Member of this subcommittee. FITARA focus has led DHS
+to continue enterprise data center consolidation and cloud
+adoption. For example, we have almost eliminated our on-premise
+email system and will continue with migrating out of the DHS
+Enterprise Data Center 2.
+DHS requires secure, responsive, and resilient information
+technology to execute its mission. I am proud of our efforts
+thus far and excited about our continuous improvement. But as I
+said in my written statement, there is certainly more room for
+progress. As a leader with success in these areas at the
+component level, I look forward to working with this
+subcommittee and actively engaging across DHS to improve our
+enterprise using FITARA as our yardstick.
+Once again, thank you for the opportunity to appear before
+you today, and I look forward to your questions.
+Mr. Connolly. Thank you so much.
+And thank you all for your thoughtful testimony.
+The Chair calls on the distinguished Congresswoman from the
+District of Columbia for five minutes of questioning.
+Ms. Norton. I thank my good friend from Virginia, and I
+appreciate this hearing. I do believe it is an important
+hearing. We are obligated to have it for good reason.
+It is interesting to note that the CIO is understood to
+have such an important role that the subcommittee reduces an
+agency's overall grade in its annual FITARA scorecard if that
+person does not have that role reporting to the agency head.
+So, Ms. Wynn, in the last FITARA scorecard that was in June
+2019, NASA had demoted the position of the CIO; and, of course,
+NASA reversed course after the Chairman and the Ranking Member,
+Mr. Connolly and Mr. Meadows, wrote to the Administrator, and
+the future of the CIO was changed. I don't know why it was
+demoted. I don't know if you know.
+But how has your role changed since the Chairman and
+Ranking Member wrote and you were reporting directly to the
+agency head?
+Ms. Wynn. Thank you for the question. My role remains the
+same with the short-term move to our mission support
+directorate. That role never was changed. It was only my
+reporting authority to the --
+Ms. Norton. Well, that is what I am trying to find out.
+What difference does the reporting authority--it was the
+reporting authority that was at issue.
+Ms. Wynn. That was at issue, and then that was returned.
+The intent of the agency was to try to gain some --
+Ms. Norton. And how has that mattered to you is my
+question. If you report directly to the agency head, why does
+that matter to you?
+Ms. Wynn. It helps me when I am reporting in particular on
+cybersecurity events, to be able to get easy access to the
+Administrator, which I remain to have that access to him. I
+think there are a couple of other issues in IT that get to be
+significant, and we certainly have easy access to report any of
+those issues to him.
+Ms. Norton. So I think that justifies your action, Mr.
+Chairman, very much so.
+This committee is very concerned about the skills gap in
+technology across the Federal Government. There are a lot of
+places you can work and make a lot more money, and we certainly
+appreciate your work.
+IT management and acquisitions is listed in the GAO's
+annual high-risk list. Let me ask Ms. Wynn and Ms. Cappello,
+what steps are you taking, or should we perhaps take, to
+strategically manage your human capital to ensure DHS and NASA
+have the work force that you need?
+Ms. Wynn. I will start, and you can take it from there.
+One of the things is the continued support of this
+committee, as well as Congress, in terms of taking a look at
+the importance of hiring cyber-skilled personnel and letting
+them know that working for the Federal Government, and the
+missions in particular --
+Ms. Norton. Well, you should be doing that as well.
+Ms. Wynn. Yes, we are, and we need your support to do that.
+At NASA, the one thing is we are not, except geographically,
+struggling with hiring right now, but I know that we keep a
+constant eye on making sure that we are looking at new ways to
+recruit individuals. We certainly get out there and tell them
+about our mission and how they can be a part of protecting our
+mission.
+Ms. Norton. Do you go into the colleges?
+Ms. Wynn. Yes, we do go to the colleges, and we work in a
+number of different ways. We get into the high schools and the
+elementary school level as well.
+Ms. Norton. Oh, I appreciate that, yes.
+Ms. Wynn. Yes. So we --
+Ms. Norton. Let them begin seeing the Federal Government as
+a place you want to come to.
+Ms. Wynn. Absolutely. And so with the continued support of
+the Hill and a lot of recruiting practice, we continue to work
+on this effort. But I do know that my colleagues in other
+Federal agencies do have some significant challenges. There are
+geographic areas that are challenging for everybody.
+Ms. Norton. Yes, I understand that. So people need to be
+doing it across the United s.
+I do want to get this question in. I notice we have an all-
+female group here testifying, and I am pleased with that
+because that is not what we see across the profession. So let
+me ask Ms. Wynn and Ms. Cappello, as female senior-level
+technology officials in the Federal Government, help us to
+learn what we should be doing to encourage more minority and
+female entrants into the field of information technology.
+Ms. Cappello. Ma'am, thank you for recognizing the rather
+historic panel that we have today. I think you bring up an
+incredibly important topic. Diversity in our work force at
+every level serves our mission. Whether it is females,
+minorities, cognitive diversity, it is incredibly important
+that we attract the very best talent. I think one of the ways
+that we begin to do that is by setting the example. We are
+here, we are at the table, and we are given a voice. So when
+someone, a young woman or someone from the minority community,
+looks up and says is that a place where I want to work, do I
+see people that look like me, well, you do; we are here.
+We need to be out there mentoring. We need to be out there
+talking about our agencies. We need to be talking about
+technology. And I agree with Ms. Wynn, that starts at the
+elementary school, the middle school, the high school level.
+Certainly, we are recruiting at the college level. But if we
+want to get folks excited about DHS, I think it is incredibly
+important for those of us who are in senior leadership,
+especially women and minorities, to be out talking to the
+community and here is what we have to offer here in DHS or in
+NASA or anywhere else in the Federal Government.
+Mr. Connolly. And to your point, if I may, I think having
+our agencies aggressively get into schools where they can show
+role models for women and minorities and mentor them, and even
+adopt programs, I have seen incredible work done by -- I will
+pick an agency -- DARPA on robotics. The enthusiasm among young
+people, and it doesn't matter whether they are boys or girls,
+what backgrounds, is just contagious. So that interaction can
+also -- you all can make a difference too, to Ms. Norton's
+question.
+I am afraid the gentlelady's time has expired.
+I now recognize the gentleman from Wisconsin, Mr. Grothman,
+for his five minutes.
+Mr. Grothman. First question for Ms. Wynn. NASA has a
+department-wide working capital fund, correct? I understand you
+are evaluating the establishment of an IT-specific fund, right?
+What is NASA's timeframe as far as coming up with a solution,
+and what steps are you taking?
+Ms. Wynn. We finished an initial analysis to look at our
+current working capital fund and other working capital fund
+authorities this past summer, and right now we are marching
+toward making a decision within our IT council, as well as with
+our other senior leaders, by the end of Fiscal Year 2020.
+Mr. Grothman. Okay. Do you have any specific plans to work
+away from any of your legacy systems, your legacy systems all
+around?
+Ms. Wynn. So, at NASA we have two types of legacy systems,
+and there is a set of legacy systems that we have to be very
+careful with because those are our flying assets, our
+satellites, and some of those were started back in the `60's.
+So for those, we are not thinking about modernizing, but we are
+taking the best precautions that we can in order to protect
+those flying assets.
+Then there is the legacy that definitely needs modernizing,
+and we work across the agency to identify what those projects
+are and then prioritize those projects for funding. In the last
+year I had $10 million to provide specifically to modernization
+activities in Fiscal Year 2019.
+Mr. Grothman. When you talk about systems that are flying,
+you mean things that are still around 50 years later?
+Ms. Wynn. Yes, 10 years and much longer.
+Mr. Grothman. Okay. I suppose stuff can stay up there
+forever and you keep using it, right?
+Ms. Wynn. Yes. Because a new satellite program costs
+millions of dollars, NASA takes great prudent measures to
+evaluate each mission that is in flight each year to see if the
+value of the data coming back versus the cost of a new mission,
+as well as other protection needs, good-neighbor policies in
+space, and then proceeds with either continuing the mission or
+stopping it.
+Mr. Grothman. Okay.
+Ms. Harris, I was going to ask you the same question. What
+progress have the agencies collectively made in transitioning
+away from legacy systems?
+Ms. Harris. Well, unfortunately, when you take a look at
+the total IT spend per year, $90-plus billion, 80 percent of
+that $90 billion-plus is still mired in the O&M, the operations
+and maintenance category. So the Federal Government still has
+quite a bit of work to do to reduce the amount of legacy IT.
+Mr. Grothman. When you say legacy, I mean, things have
+changed so much in IT, it kind of amazes me. When you say
+legacy IT, when does that date from normally?
+Ms. Harris. It could be anywhere from the 1970's or 1960's
+to 1997, to even as far as three years ago. It depends. But
+when we talk about legacy, we are talking about systems that
+are in desperate need of either modernization or being turned
+off because they present security vulnerabilities, among other
+things.
+Mr. Grothman. I am trying to think of industries that are
+data heavy. I suppose financial services, insurance, that sort
+of thing. Do you ever take a look and see how old systems are
+around or how many legacy systems are around, say, in those
+types of industries?
+Ms. Harris. We haven't done work, sir, in examining what
+you just described, the financial management services
+community, in terms of how old the systems are. But what I can
+tell you is that back in June we did a report on the top-10
+legacy systems across the Federal Government, and what we found
+is that for these 10, the majority of them lacked modernization
+plans. So they didn't even have plans in place in terms of the
+game plan moving forward, whether they were going to shut them
+off or how they intended to modernize. So that is a problem,
+and that is systemic across the Federal Government.
+Mr. Grothman. I think the thing that frustrates me is we
+should know what is going on in the private sector in data-
+heavy operations, right? And my guess is if you went into -- it
+probably doesn't matter what insurance it is, probably health
+insurance is the most data heavy, but whichever field you go
+into, my guess is you would find very little that has been
+floating around for even more than 15 years. I would think that
+if you collect that data or collect data from other places, you
+would find how out of whack the government is. Is there any
+reason why you don't? Because presumably all three of you want
+to update things, and I would think you would have a lot more
+ammunition if you could say we checked in with such and such
+insurance company, they don't have things floating around here
+for more than 12 years. Is there any reason why you don't do
+that?
+Ms. Harris. Sir, the work that we do is driven by the
+requests that we receive from committees and members. We would
+be happy to take on a request like that if that is something
+that the subcommittee would be interested in sponsoring.
+Mr. Connolly. We can work with the gentleman from Wisconsin
+in formulating such a request, and I thank you for the idea.
+The Chair now recognizes the distinguished Ranking Member
+of the subcommittee.
+Mr. Meadows. Thank you, Mr. Chairman.
+Ms. Harris, what would be the top three things that you
+would recommend this committee focus on? We are now at our
+ninth report card. So we have seen some trends, we have seen
+what works and what doesn't work, and you and your colleague
+have been very helpful in helping us address certain areas to
+modify. So what would be the top three things that you would
+recommend we pay attention to over the coming year?
+Ms. Harris. No. 1, continuing to be aggressive on data
+center consolidation; No. 2, looking at the ----
+Mr. Meadows. I am sure the Chairman liked to hear that. I
+mean, that is his number-one priority. So the fact that it is
+your No. 1, you get an ``A'' for the day, and maybe even an
+``A+'' on the FITARA scorecard.
+Mr. Connolly. That is a motion I second.
+Mr. Meadows. Go ahead.
+Ms. Harris. The second being continuing to be aggressive
+with the agencies on the CIO reporting structure. We still have
+five that are no, and we need to make sure that those five turn
+into yeses. And then the third thing is looking at the working
+capital funds, making sure that agencies have -- the CIOs have
+-- the funds necessary to modernize those legacy systems that
+are in their house.
+Mr. Meadows. All right. Let me followup. On the legacy
+systems, so much of the money is spent on O&M and not capital
+purchases. Do you think we could substantially lower our
+operating and maintenance costs if we invested significant
+dollars -- and significant system-wide would be hundreds of
+millions in terms of infrastructure. Do you think we could
+systemically change the trend of our O&M expenses?
+Ms. Harris. Yes, I do.
+Mr. Meadows. All right. By a factor of -- I mean, could we
+reduce O&M by more than 15 percent? Too healthy? Ten?
+Ms. Harris. I think it is hard for me to say at this time,
+but I think that if --
+Mr. Meadows. Let me ask it a different way, then. How much
+are we spending on programmers that know what I would call dead
+programming languages?
+Ms. Harris. We are spending, actually, a notable amount. I
+don't have the figure on me, but it is a notable amount.
+Mr. Meadows. Do we have young people that we are training
+on COBOL and Fortran now because guys like me with gray hair
+that learned it a long time ago are dying off?
+Ms. Harris. The new folks that are coming into the work
+force are not interested in learning those archaic languages.
+And so I think that --
+Mr. Meadows. So we are going to run into a problem, I
+guess, with our cap on Federals, because at some point the
+supply and the demand -- if I knew that you needed a Fortran
+programmer, I might refresh my abilities. But if I can only get
+paid similar to what I am getting paid in other areas, I guess
+that is going to be a problem, isn't it?
+Ms. Harris. Yes, it is going to be a big problem.
+Mr. Meadows. All right.
+Ms. Wynn, let me thank you on behalf of the Chairman and
+myself for actually listening to the reporting structure. It
+was actually something that Ms. Harris and her colleague let us
+know when we were doing a review. We sent a letter, and I just
+want to say that it changed my attitude. I have a reputation
+for asking real tough questions. You are not supposed to agree
+with that. But it changes my attitude, and I think the Chairman
+would agree that even though you are not at an ``A'' or an
+``A+'', it changes my attitude on the fact that you are willing
+to look at that. So if you would take that back to the
+Administrator and just let him know that, and thank you for
+your work. I would love to see, not in your verbal answers, but
+if you could come up with three things that you are going to
+prioritize for our next scorecard, we can kind of be familiar
+with that and that would be great. Obviously, data center
+consolidation needs to be one of the three. All right?
+Obviously, I was checking your scorecard and where you have
+been and where you are at DHS. Again, I want to thank you.
+These hearings can be very difficult, and we will have other
+FITARA hearings that don't go quite as smoothly, but I want to
+thank you.
+Here is the one concern that I do have. DHS is so big, and
+when you look at -- sometimes because you are so big, you can
+actually overlook a lot of things when you are getting a good
+grade, because part of the grading is relative to where you
+have been. So it gets tougher. The more scorecards we have, the
+more finite we become with what we are looking at. So if you
+would try to look beyond just the next scorecard and where you
+are with your agency. Obviously, you have had a lot of
+turnover. So what we would love to do is make sure that we get
+those same three things from you.
+And with that, Mr. Chairman, I know we will have a full
+FITARA hearing later on. I just want to say thank you. Thank
+you, GAO, once again. You have delivered, and we appreciate
+that, and I yield back.
+Mr. Connolly. I thank the gentleman and thank him again for
+his leadership and partnership in this enterprise. We couldn't
+have done it without him.
+And as the gentleman indicated, the next FITARA hearing
+will be the 10th. I think it will be an expanded hearing where
+we will take an expanded look at implementation and compliance,
+so we look forward to that.
+The Chair now recognizes the gentleman from California, Mr.
+Khanna, for his five minutes.
+Mr. Meadows. Would the gentleman yield for just a second?
+Mr. Khanna. Absolutely.
+Mr. Meadows. I just want to wish your daughter a belated
+happy birthday.
+Mr. Khanna. Well, thank you very much.
+Mr. Meadows. I remember her birthday, and so
+congratulations.
+Mr. Khanna. That is very kind of you, Representative
+Meadows, and I appreciate our friendship.
+And thank you, Mr. Chair.
+Mr. Connolly. I am sorry I wasn't there. I was getting
+ready for the FITARA hearing.
+Mr. Khanna. Well, that is more important.
+Mr. Connolly. Believe me, that was a tough choice. The
+birthday party sounded pretty enticing.
+Mr. Khanna. We still have cake if you need some.
+Mr. Connolly. Good. Thank you, Mr. Khanna.
+Mr. Khanna. I appreciate that. I appreciate the Chair's and
+Representative Meadows' work on FITARA and in a bipartisan way
+making government more technologically proficient.
+As you know, the 21st Century ID Act passed last Congress,
+and the implementation is ongoing. Ms. Wynn and Ms. Cappello,
+what steps have you taken to implement the law?
+Ms. Wynn. Well, I think the first step was education, to
+share with people what the law was about, and then identify a
+plan that would be appropriate for NASA to do the
+implementation steps. Many steps of the law are fairly broad
+and big, and so we just broke it down to bite-sized pieces at
+NASA.
+I think the big thing to the success is really
+understanding what you wanted out of the law, what is expected,
+and then outlining for my leadership team what we needed to do
+to deliver here at NASA in a way that was supportive of the
+law, as well as our mission.
+Ms. Cappello. Thank you for the question. My office at DHS
+is responsible for accessibility and 508 compliance, and so we
+are a little bit excited about the opportunity to leverage user
+interface and user experience as we redesign the website.
+I think basically what we are doing right now at DHS is
+following the GSA three-phase maturity model. So we are using
+the principles, we are looking at user experience guidance, and
+then following the web design code. I know the team at DHS that
+is working on this project has got a plan that they are putting
+together, and it is going through the process right now for
+review, and I would expect it to be submitted rather soon.
+Ms. Wynn. And if I might add, in advance of that Act we had
+already started to take a look at our external footprint and
+started to shrink that down so the work that we have left is
+now very much aligned with the Act itself, and we appreciate
+the focus on it. But as you know, our website, our web presence
+for any Federal agency is also an attack surface.
+Mr. Khanna. I appreciate that.
+The subcommittee has seen steady improvement across the
+government over the course of nine FITARA scorecards. It
+appears that large decentralized agencies have had a more
+difficult time implementing FITARA than small or medium
+agencies that have one clear mission.
+Ms. Harris, what challenges do large and decentralized
+agencies have in implementing IT initiatives, and what steps do
+you recommend that they can take?
+Ms. Harris. Well, it is not surprising that these large
+federated, decentralized agencies have a tougher time than the
+smaller ones with a single focus. A large part of the success
+that we have seen at these large federated agencies in areas of
+the FITARA scorecard such as software licensing is centralizing
+the collection of information so you have a centralized
+inventory, for example, in this case software licenses, that
+you are able to then make decisions about economies of scale
+across the enterprise as one example.
+So I would start with centralizing the collection of
+information, whether it is licenses or anything else, mobile
+phones, other inventory that you might have.
+And then also it is really about establishing relationships
+with the CIOs at the component level. I think Ms. Cappello
+actually could speak quite eloquently about the successes they
+are seeing at DHS in terms of the synergies that they are
+experiencing between the component CIOs and herself in order to
+be able to more effectively manage at that department-wide
+level. But that is a major step as well, establishing that
+communication and instituting institutional processes across
+the department so that these component agencies will fall in
+line and be able to provide the information that is needed at
+that department level so that sophisticated management
+decisions can be made.
+Mr. Khanna. I appreciate that.
+Ms. Wynn, can you describe your relationship with NASA
+centers and facilities and what authorities you have over
+NASA's IT and challenges that you have seen?
+Ms. Wynn. Yes. So, I am happy to report that all the center
+CIOs actually report to me.
+Mr. Khanna. That is good.
+Ms. Wynn. Yes, this is a great place to start. And then
+also each of the centers themselves, as well as myself, sit on
+key decision boards at the agency, whether it be at the center
+or at the agency level, and this allows us to learn about the
+mission as well as influence the decisions that would come down
+and affect our infrastructure, or make suggestions on better
+ways to implement cybersecurity principles.
+Mr. Khanna. Thank you. Thank you all for your leadership
+and expertise.
+Mr. Connolly. Thank you, Mr. Khanna. Thank you so much for
+being here today and your interest in the subject.
+To Mr. Khanna's last point, Ms. Wynn, I like hearing that
+the other CIOs report to you. One of the things we wanted to
+do, and we hoped to do it in an evolutionary rather than a
+mandated way, was to have what we call in Latin ``primus inter
+pares,'' first among equals.
+Mr. Meadows. Show off.
+Mr. Connolly. I know; I can't help it. In six years, I have
+to use it sometime.
+We could have mandated, but we chose to respect the Federal
+culture and let it evolve. But when we started -- and I see
+Rich Buetel, who helped write this bill when he was on the
+committee staff -- we had 250 people in 24 agencies called CIO.
+You would never see that in the private sector, ever. I don't
+care how big or small, they would be one. So you are the model.
+That is exactly what we want to happen. There has got to be
+somebody who reports directly to the boss who has the
+authority, responsibility, and accountability for IT
+management, procurement, and reduction of legacy systems. So,
+congratulations again; that is great.
+Your agency is a lot more difficult because it is this
+compressed hodge-podge, but are you making progress in that
+respect, Ms. Cappello?
+Ms. Cappello. Chairman, thank you for the question. I think
+it is very interesting when you look at DHS. We were created 16
+years ago, and I think it is safe to say that of all the large
+Federal agencies, we have the most disparate mission sets. So
+while I certainly appreciate and understand the intent behind
+the reporting structure as described, my concern would be
+responsiveness to the operational tempos and to the individual
+mission sets. I think what we are doing in DHS right now that
+is really exciting and really useful is we have strong working
+relationships amongst the CIO community. We probably have a
+little bit of competitiveness as well, especially in regards to
+cloud adoption and Agile development and modernizing our
+applications. I think what the disparate mission sets allows us
+to do and the responsiveness in the CIO community is, for
+example, CBP is a very large component agency, more than 70,000
+employees. In their mission set, they had to develop an
+analytics capability very early on. So they are able to bring
+best practices/experiences to the conversation as the next part
+of DHS looks to adopt analytics, and we have examples of that
+across DHS. I would say our HSI under Immigration and Customs
+Enforcement has done such tremendous work in computer forensics
+in its child exploitation space.
+So while I fully understand the concerns around the
+reporting structure, I would offer that in DHS there is an
+awful lot of value in the technologists being able to respond
+directly to the operational requirements.
+Mr. Connolly. It is a good point you make, and I think that
+is why we respected the culture. That is why we didn't, by
+fiat, say there will only be one. We didn't do that because we
+understood that this is a disparate Federal Government, lots of
+different agencies, lots of different missions. Some are more
+narrowly focused and it is easier to do. Some are much more
+complicated, with multiple missions.
+But what we want to avoid, though, is this: It is not me;
+it is her; it is somebody else other than me, and no one is
+responsible, and no one is accountable. That is how you waste
+gazillions of dollars, and that is how projects go awry.
+Someone has to be vested with the primary responsibility and
+the primary accountability, that you are empowered, you are
+imbued with decisionmaking, and that is the model we want to
+move toward. We will respect the evolution, but not forever.
+That doesn't mean there can't be individual pieces, but you get
+what I mean, because the private sector somehow is able to do
+it.
+I worked for a company before I came here of 42,000 people.
+We were into everything. I mean, we did engineering, we did
+science, we did pharmaceuticals, we did government contracting,
+we did cybersecurity, all kinds of things. We had one CIO, and
+that company to this day has one CIO. So it can be done, and it
+is probably the preferred model over time.
+Ms. Harris, final question. We started out by talking about
+data center consolidation, and I, like Mr. Meadows, was very
+pleased that that was the first of your top three in answer to
+him, and I am glad to hear it. I just want to cite that GAO
+found, as of August of last year, agencies had closed 6,250
+data centers and had plans to close an additional 1,200,
+leaving the Federal Government with 4,716 data centers left. As
+a result of the closures, agencies had achieved $1.94 billion
+in cost savings for Fiscal Years 2016 through 2018, so there is
+more in this last year, and identified an additional $42
+million in cost savings. That amount is still $38 million short
+of OMB's goal under the previous guidance of $2.7 billion. But
+the point is that is where the savings are. That is where the
+savings are if we are going to retire these legacy systems, if
+we are going to reinvest in the enterprise.
+So that is why we are concerned about OMB guidance on what
+will be acceptable. We want explicit language that says close
+them, consolidate them, and we were worried, and we thought we
+had gotten the reassurance that this new guidance that included
+the vague term ``optimization'' allowed people to avoid
+consolidating and achieving these savings. Your comment? And
+feel free to expand on what you said in your testimony so it is
+clear for the record why are we concerned about what OMB is
+doing.
+Ms. Harris. Absolutely. We are taking significant steps
+backward from where we were even just four years ago. The focus
+and the priority needs to be on consolidation because that
+gives you the large amounts of money that you need in order to
+reinvest back into modernizing agency infrastructure. So that
+is why the number-one priority, when you asked me the top
+three, has to be consolidation of these data centers.
+And with this redefinition of data centers, we are losing
+visibility into 2,300 facilities, and that is a problem because
+agencies are going to lose focus on consolidation as being a
+top priority. In addition to that, there are security risks
+with not monitoring these facilities, even if you are not going
+to consolidate them.
+So we do anticipate -- we have ongoing work right now
+evaluating the OMB guidance. We do expect to issue that report
+sometime soon, and we will make recommendations to OMB which
+will include taking another look at the policy and the
+classification of the data centers. Even if they maintain that
+current definition which excludes 2,300 centers, at this point
+the agency should be keeping a pulse on those that are now lost
+because of the things that I described in my oral statement.
+But again, this is a major issue, and I do look forward to
+working with your staff in order to ensure that we maintain
+this baseline, whether it is through OMB guidance or through
+work that we will do with you.
+Mr. Connolly. Well, I am going to operate on the assumption
+that everybody is highly motivated and of good intention. And
+with that assumption, I am also going to operate on the view
+that this change has unintended but negative consequences.
+Ms. Harris. Yes.
+Mr. Connolly. And with that operative principle, I am going
+to consult with the Ranking Member, and maybe we can work our
+magic like we did at NASA at OMB. But, I mean, this would have
+real consequences. This is where the savings are. If you want
+to effectuate a whole host of things, modernization of the
+enterprise, retirement of legacy systems, upgrading of cyber,
+streamlining management to make it more efficient and
+hierarchical, all of it flows from the ability to effectuate
+these savings, and it is in the billions of dollars. It is not
+trivial.
+So we have to get this right, and we will gladly work with
+you, and I know my friend will also be part of this enterprise
+to try to make sure OMB understands our concerns, and maybe we
+can get this right before the next FITARA hearing.
+Mr. Meadows, anything else for the record?
+If not, I want to thank our witnesses for being here today.
+I thank everybody for coming. You can see the press table is
+loaded. I don't know what else anyone is interested in today,
+but Mr. Meadows and I, let the record show, are still doing our
+jobs. And I thank our staff for putting through another great
+hearing.
+This hearing is adjourned.
+[Whereupon, at 3:54 p.m., the subcommittee was adjourned.]
+[all]

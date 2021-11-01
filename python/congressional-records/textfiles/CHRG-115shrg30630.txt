@@ -1,0 +1,1579 @@
+- PREPARING SMALL BUSINESSES FOR CYBERSECURITY SUCCESS
+[Senate Hearing 115-300]
+[From the U.S. Government Publishing Office]
+S. Hrg. 115-300
+PREPARING SMALL BUSINESSES FOR CYBERSECURITY SUCCESS
+=======================================================================
+HEARING
+BEFORE THE
+COMMITTEE ON SMALL BUSINESS
+AND ENTREPRENEURSHIP
+UNITED STATES SENATE
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+APRIL 25, 2018
+__________
+Printed for the Committee on Small Business and Entrepreneurship
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://www.govinfo.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+30-630 PDF
+WASHINGTON : 2018
+-----------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail, [email protected]
+COMMITTEE ON SMALL BUSINESS AND ENTREPRENEURSHIP
+ONE HUNDRED FIFTEENTH CONGRESS
+----------
+JAMES E. RISCH, Idaho, Chairman
+BENJAMIN L. CARDIN, Maryland, Ranking Member
+MARCO RUBIO, Florida
+MARIA CANTWELL, Washington
+RAND PAUL, Kentucky
+JEANNE SHAHEEN, NEW HAMPSHIRE
+TIM SCOTT, South Carolina
+HEIDI HEITKAMP, North Dakota
+JONI ERNST, Iowa
+EDWARD J. MARKEY, Massachusetts
+JAMES M. INHOFE, Oklahoma
+CORY A. BOOKER, New Jersey
+TODD YOUNG, Indiana
+CHRISTOPHER A. COONS, Delaware
+MICHAEL B. ENZI, Wyoming
+MAZIE K. HIRONO, Hawaii
+MIKE ROUNDS, South Dakota
+TAMMY DUCKWORTH, Illinois
+JOHN KENNEDY, Louisiana
+Skiffington E. Holderness, Republican Staff Director
+Sean Moore, Democratic Staff Director
+C O N T E N T S
+----------
+Opening Statements
+Page
+Risch, Hon. James E., Chairman, and a U.S. Senator from Idaho....
+1
+Cardin, Hon. Benjamin, Ranking Member, and a U.S. Senator from
+Maryland.......................................................
+3
+Witnesses
+Castro, Mr. Daniel, Vice President, Information Technology &
+Innovation Foundation, Washington, DC..........................
+5
+Schrader, Mr. Russell, Executive Director, National Cyber
+Security Alliance, Washington, DC..............................
+15
+Toews, Mr. Ben, President, Bullet Tools, Hayden, ID..............
+20
+Abate, Ms. Gina Y., President and CEO, Edwards Performance
+Solutions, Elkridge, MD........................................
+27
+Alphabetical Listing
+Abate, Ms. Gina Y.
+Testimony....................................................
+27
+Prepared statement...........................................
+29
+Responses to questions submitted by Senators Young, Heitkamp,
+Hirono, and Duckworth......................................
+63
+Cardin, Hon. Benjamin
+Opening statement............................................
+3
+Castro, Mr. Daniel
+Testimony....................................................
+5
+Prepared statement...........................................
+7
+Responses to questions submitted by Senators Young, Heitkamp,
+Hirono, and Duckworth......................................
+48
+Risch, Hon. James E.
+Opening statement............................................
+1
+Rowe, C.E. ``Tee''
+Prepared statement...........................................
+71
+Schrader, Mr. Russell
+Testimony....................................................
+15
+Prepared statement...........................................
+17
+Responses to questions submitted by Senators Young, Heitkamp,
+Hirono, and Duckworth......................................
+53
+Toews, Mr. Ben
+Testimony....................................................
+20
+Prepared statement...........................................
+22
+Responses to questions submitted by Senators Heitkamp,
+Hirono, and Duckworth......................................
+60
+PREPARING SMALL BUSINESSES FOR CYBERSECURITY SUCCESS
+----------
+WEDNESDAY, APRIL 25, 2018
+United States Senate,
+Committee on Small Business
+and Entrepreneurship,
+Washington, DC.
+The Committee met, pursuant to notice, at 3:30 p.m., in
+Room 428A, Russell Senate Office Building, Hon. James Risch,
+Chairman of the Committee, presiding.
+Present: Senators Risch, Rubio, Ernst, Inhofe, Young,
+Rounds, Cardin, Cantwell, Heitkamp, Markey, and Booker.
+OPENING STATEMENT OF HON. JAMES E. RISCH, CHAIRMAN, AND A U.S.
+SENATOR FROM IDAHO
+Chairman Risch. The Committee will come to order. Today we
+are going to have a hearing entitled Preparing Small Businesses
+for Cybersecurity Success. And I have a few remarks and then I
+am going to turn it over to the Ranking Member for his remarks.
+We will then hear from our distinguished panel. Thank you so
+much, all of you, for joining us.
+Thank you, everyone, for coming today. This is a hearing on
+one of the most dire threats to small business and individuals
+in our Nation, the increasing number of attacks by cyber
+criminals. The same technology that enables small businesses to
+do business online and compete in the global marketplace also
+makes their sensitive information vulnerable to phishing
+schemes and ransomware attacks. Small businesses are especially
+vulnerable as about 71 percent of data breaches occur in
+businesses with fewer than 100 employees. Regrettably, many of
+these attacks are preventable and can be tied back to missteps
+made by a business' employees.
+News of cyber attacks makes headlines each day, and we know
+that Russia, Iran, China, and North Korea are some of the
+biggest cyber hackers in the world. We have confirmation that
+Russia tried to interfere in our elections, and recent reports
+have been made public that they are compromising the
+information of individuals and small businesses in our country
+and the UK.
+In recent years, the Russians have completely shut down
+Estonia's e-commerce, waged cyber war against Ukraine's energy
+grid, and they are constantly seeking to destabilize other
+countries. Additionally, North Korea has repeatedly attacked
+public and private entities in attempts to steal cryptocurrency
+to shore up their finances in the face of economic sanctions.
+There are many bad actors out there and they grow in number
+and capability every day. Perpetrators vary from individuals to
+those directed by countries, putting small businesses in our
+country at great risk.
+This issue hits especially close to home in a rural State
+like Idaho, where e-commerce is sometimes the only way to do
+business. That is why I have worked on three different pieces
+of bipartisan legislation to offer more tools to arm small
+businesses against potentially devastating cyber threats. The
+Main Street Cybersecurity Act will require the National
+Institute of Standards and Technology to disseminate a small
+business-friendly version of its renowned Cybersecurity
+Framework. This will better position small businesses to
+protect their assets, customers, and employees.
+I have also introduced the Small Business Cyber Training
+Act to train the counselors at regional Small Business
+Development Centers throughout the country on educating
+entrepreneurs on protective cyber habits when they are first
+starting a new business, which will help them institute safe
+practices before the problem arises.
+And just yesterday I introduced the Small Business
+Cybersecurity Enhancements Act to prepare the Small Business
+Development Centers to receive information on cyber threats and
+breaches from small businesses in the field when these
+incidents happen.
+Cyber attacks are too frequently the last nail in the
+coffin for many small businesses, who are already facing an
+uphill battle to get started, get funded, and keep up with new
+regulations. I look forward to hearing from our witnesses today
+about their experiences with cyber threats and about what we
+can do to prevent these attacks.
+I would like to welcome Mr. Daniel Castro, the Vice
+President of Information Technology & Innovation Foundation,
+and the Director of its Center for Data Innovation. Prior to
+ITIF, Mr. Castro worked as a scientist for the Software
+Engineering Institute and as an IT analyst for the Government
+Accountability Office. We look forward to his testimony, as he
+is named one of FedScoop's 25 Most Influential People Under 40
+in Government and Tech.
+I am also pleased to welcome Mr. Ben Toews from Hayden, a
+small town located in north Idaho. After starting with Bullet
+Tools, while still a student at Gonzaga University, Mr. Toews
+eventually worked his way up to become President of the
+company. He has helped Bullet Tools fend off a ransomware
+attack and has contributed to the company's 300 percent growth
+over the past five years. In addition to his full-time job, Mr.
+Toews is a member of the Idaho SBDC Advisory Council, assisting
+other small business owners and entrepreneurs. Mr. Toews, I
+look forward to your testimony. And, as a side note, Mr.
+Ranking Member, you would be interested to hear that when I sat
+in that seat, as the Chairman from the then majority party, I
+visited that business up there, and we were well entertained
+and enjoyed ourselves.
+We also welcome Russell Schrader, the Executive Director of
+the National Cyber Security Alliance, and we welcome Ms. Gina
+Abate, President and CEO of Edwards Performance Solutions. Both
+of these will be further introduced by the Ranking Member
+Cardin.
+Thank you for being here today with us. And now I would
+like to recognize Senator Cardin.
+OPENING STATEMENT OF HON. BENJAMIN L. CARDIN, RANKING MEMBER,
+AND A U.S. SENATOR FROM MARYLAND
+Senator Cardin. Thank you, Mr. Chairman. There are days
+that I am looking for some road trips, so maybe we will look at
+visiting.
+Chairman Risch. Have you ever been west of the Mississippi
+River?
+[Laughter.]
+Senator Cardin. Yes, a few times. A few times. Have you
+ever been on the Chesapeake Bay?
+Chairman Risch. I have. Many times.
+[Laughter.]
+Senator Cardin. Good. We have a lot in common.
+Chairman Risch. I drink water from there.
+Senator Cardin. I am glad to hear it. The Chairman is a
+good friend and I appreciate his leadership on this Committee,
+and I particularly appreciate the fact that we are holding this
+hearing on preparing small businesses for cybersecurity
+success.
+Cyber intrusions are a major problem, universal as well as
+in the United States. The Chairman is aware of this through our
+work on the Senate Foreign Relations Committee and his
+involvement on the Intelligence Committee. We know how active
+Russia is in cyber intrusions. North Korea, China, so many
+other countries.
+I authored a report in January that talked about Mr.
+Putin's designs in regards to our democratic institutions, and
+one of the tools he frequently uses is cyber intrusions, in
+order to get as much information as he possibly can to
+compromise our system of government.
+So we know we have major challenges in America with cyber
+intrusions. It is affecting our economy and it is affecting our
+privacy. We know that with Equifax and Target intrusions. We
+saw that with Facebook and the way that they handled personal
+information management, leaving a lot to be desired.
+We also know that small businesses are a prime target of
+cyber attacks. There are 30 million small businesses that live
+with the understanding that they are at risk. An SEC report
+said that small businesses are the principal target for cyber
+crime, and we also know that 58 percent of the data breach
+victims were small businesses.
+The challenge here is really why I am very pleased to have
+this hearing. For a small company that may not have a big staff
+for IT, does not have the margins to look at how to defend on
+cyber, and, quite frankly, probably has limited knowledge and
+understanding of the risks of cyber attacks, it is very
+difficult to be prepared against very sophisticated operators
+that are phishing for information, that could very well harm
+that company.
+So we know that we have a challenge as to how we can help
+small businesses be prepared to deal with the realities of
+cybersecurity today, and part of that solution has to be
+education and knowledge and building capacity for small
+businesses, and I know we are going to get into that discussion
+today.
+Mr. Chairman, I cannot let my opening statement go without
+bragging about the role that Maryland is playing in regards to
+cybersecurity. Maryland is home to the National Security
+Agency, the U.S. Cyber Command, NIST Cybersecurity Center of
+Excellence, Johns Hopkins University Applied Physics Lab,
+University of Maryland--I could go on and on and on. I am proud
+of the role that these institutions and the people who work
+there are playing in our national security in dealing with
+cybersecurity, and we have so many private companies that are
+now located in our state.
+We recognize that the small business community is the
+driving force for our economy. That is where most jobs are
+going to be created. That is where most innovation is going to
+take place. So it is appropriate for us to figure out how we
+can better defend the small business community from the threats
+of cyber intrusion.
+I welcome all four of our witnesses. The Chairman has given
+introductions for Mr. Castro and Mr. Schrader. Let me join in
+welcoming Ms. Gina Abate, the President and CEO of Edwards
+Performance Solutions, a certified women-owned small business
+in Elkridge, Maryland. Have you been to Elkridge, Maryland?
+Chairman Risch. I do not believe I have. Do they have elk
+in Maryland?
+Senator Cardin. Elkridge, Maryland, is a wonderful place. I
+pass it twice a day. I commute to Baltimore so I pass Elkridge
+twice a day. You are more than happy to go with me one day and
+we will stop by and visit.
+Chairman Risch. I want to see the elk.
+Senator Cardin. The company provides IT and cyber
+counseling services to commercial and government customers. She
+also chairs the Cybersecurity Association of Maryland.
+And I am pleased that we also have Russell Schrader. He is
+the Executive Director of the National Cyber Security Alliance,
+the Nation's leading nonprofit public-private partnership that
+promotes cybersecurity and privacy education. Previously, he
+was Visa's first Chief Privacy Officer, where he oversaw
+privacy and data security policy.
+So, Mr. Chairman, I think we have four very distinguished
+witnesses and I look forward to their testimony.
+Senator Markey. Mr. Chairman, can I just interject to say
+that I think that Senator Cardin's opening statement could
+actually be used as a travelogue by the Maryland Chamber of
+Commerce, and I just wanted to compliment him for getting in
+just about every----
+[Overlapping speakers.]
+Chairman Risch. As long as we are going to go down that
+road, I need to tell you a little bit about the Idaho National
+Laboratory that is becoming one of the lead agencies in America
+on cybersecurity. So I hope you will be able to visit the Idaho
+National Lab, in Idaho Falls someday.
+In any event, thank you so much for coming, and we will
+just go right down the line, and any written testimony you will
+submit we will include in the record. We would ask you to keep
+the remarks at about five minutes, if you would, and we will go
+right down the line, starting with you, Mr. Castro.
+STATEMENT OF DANIEL CASTRO, VICE PRESIDENT, INFORMATION
+TECHNOLOGY & INNOVATION FOUNDATION, WASHINGTON, DC
+Mr. Castro. Chairman Risch, Ranking Member Cardin, members
+of the Committee, I appreciate the opportunity to appear before
+you today to discuss the opportunities to support small
+businesses as they seek to improve their cybersecurity
+practices.
+As you know, small businesses face significant
+cybersecurity threats. In 2015, 42 percent of small businesses
+were victims of cyber attacks. In 2017, 58 percent of the
+confirmed data breaches involved small businesses.
+Most small businesses are concerned about cybersecurity but
+they are not doing enough to protect themselves against these
+threats. One recent survey found that a third of small
+businesses are not taking any practice steps to protect against
+cyber threats, and half of them do not have a cybersecurity
+budget.
+These risks present an existential threat to some small
+businesses, as firms can go bankrupt from the cost of
+responding to a cyber attack or from the lost revenue and
+customers resulting from a business disruption caused by a
+security incident. Moreover, these attacks are a drain on the
+U.S. economy, costing between $57 and $109 billion in 2016.
+Therefore, I would like to discuss three steps Congress can
+take to improve cybersecurity practices.
+First, one challenge that small businesses face is that
+they do not know what types of cybersecurity products and
+services they should be buying, or if they do know they cannot
+afford them because the per-user costs are too high. So
+companies that sell IT security products and services often use
+variable pricing, based on the number of users, or they require
+a minimum purchase amount. So these high per-user costs make
+the solutions unattractive or unfeasible for many small
+businesses.
+So Congress should direct SBA to assist small businesses by
+establishing a cybersecurity cooperative, to create a large
+pool of willing buyers for various cybersecurity products and
+services, including cyber risk insurance. Participation in the
+cybersecurity co-op could be open to any small business, and
+depending on the level of interest, could be organized around
+particular regions or sectors.
+The co-op could identify and evaluate cybersecurity
+products and services for its members and negotiate better
+rates for its users than they could get on their own. This
+would be a win-win. It would help small businesses get more
+value for their investments and also increase adoption of best-
+in-class cybersecurity tools. It would also lower the cost for
+those selling these products and services by reducing their
+customer acquisition cost.
+Second, many small businesses cannot hire qualified
+cybersecurity professionals. Part of the problem, of course, is
+that there is fierce competition for individuals with these
+skills. In the United States, there are 40,000 cybersecurity
+jobs that go unfilled each year, and small businesses which
+often pay less than their larger counterparts have a hard time
+competing for this talent.
+In addition, it is often impractical for a small business
+to hire a dedicated, full-time cybersecurity professional.
+Instead, they assign these responsibilities to an employee who
+works on these issues on a kind of part-time basis.
+Unfortunately, virtually all of the cybersecurity certification
+programs are tailored for people who do this as their full-time
+job, so small business employees who only work on cybersecurity
+issues as part of their job do not pursue these credentials and
+they are often unqualified or under-qualified.
+To address this problem, Congress should direct SBA to
+develop a low-cost, vendor-neutral certification program for
+small business employees who serve as their designated
+cybersecurity expert. The curriculum for the certification
+should be regular review, to ensure that it is accurate,
+comprehensive, and up to date, and SBA could authorize the
+professional certification organizations to actually provide
+the certification to those who successfully master the
+material. This certification would help small businesses assess
+whether they have staff qualified to handle cybersecurity
+issues, and ensure their investments in training are actually
+worthwhile.
+And finally, small businesses will not have anyone who is
+properly trained--some of them will not--but these businesses
+still need to be able to mitigate common threats. So Congress
+should direct SBA to develop a free, online cybersecurity boot
+camp to provide small businesses the concrete steps they need
+to create a basic cybersecurity program to address the most
+critical threats facing small businesses. Participants would
+not be expected to come with any prior knowledge and they could
+repeat the boot camp as often as necessary. SBA would then be
+required to update the content regularly so that it contains
+information on both known as well as emerging threats.
+Right now, the SBA offers one 30-minute class, but it is of
+poor quality. Some of the advice in the module is simply
+impractical. It has things like do not click on links in email,
+do not reply to unsolicited emails. This class also does not
+cover recent cybersecurity threats like ransomware.
+Other government agencies, of course, offer resources, but
+many of their sites are not user friendly or they contain
+broken links. Sometimes the content is undated or outdated,
+most are redundant, and they overwhelm small businesses with
+unnecessary information.
+Moreover, most of the resources either describe basic
+objectives, things like use stronger passwords, or they simply
+describe cybersecurity issues and terms. I think the analogy
+here is this would be like Ikea providing its customers one-
+pagers explaining the importance of not overtightening screws
+and pamphlets on the dangers of collapsing bookshelves, instead
+of giving them the actual step-by-step instructions of how to
+assemble furniture. Small businesses need this more practical
+guidance.
+We need more leadership on this issue, and so I commend you
+for holding this hearing today. Thank you for the opportunity
+to be here and I look forward to answering questions.
+[The prepared statement of Mr. Castro follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Risch. Mr. Castro, have you communicated these
+same thoughts to the SBA?
+Mr. Castro. No. Not out of this. We did do, actually----
+Chairman Risch. We will.
+Mr. Castro. Okay. Great.
+Chairman Risch. Thank you. I appreciate your testimony.
+Mr. Schrader, you are up next.
+STATEMENT OF RUSSELL SCHRADER, EXECUTIVE DIRECTOR, NATIONAL
+CYBER SECURITY ALLIANCE, WASHINGTON, DC
+Mr. Schrader. Thank you very much, Senator Risch, Ranking
+Member Cardin, distinguished Senators.
+I appreciate the invitation. I know that this is an
+important topic.
+I am the Executive Director of the National Cyber Security
+Alliance, founded in 2001. We are the leading neutral,
+nonprofit, private-public partnership devoted to strengthening
+America's cybersecurity through awareness and through
+education. We believe that cybersecurity is an economic and a
+security issue, as best addressed through collaboration between
+public and private partnership with industry, government, and
+consumers.
+We bring together stakeholders to talk about cutting-edge
+issues, to execute highly hands-on, effective, broad-based
+education programs. Currently, one of our major partners is the
+Department of Homeland Security and our Board of Directors,
+which do represent leaders in technology, financial, insurance,
+and hospitality industries.
+We have core education programs, including the National
+Cyber Security Awareness Month, which is October. It is co-
+founded and led with DHS; Data Privacy Day; STOP. THINK.
+CONNECT; and Lock Down Your Login, which is geared at
+congressional members, administration members right now; and
+the most recent addition to our portfolio, which is called
+CyberSecure Your Business, and I think that is the one that
+best aligns with what we are here to talk about today.
+Today, as you pointed out, many businesses continue to
+think that they are too small to be a target of a cyber attack.
+These businesses lack the technical, the resources, the
+financial, and the legal things that they need to do to protect
+themselves. The NCSA's goal is to help entrepreneurs and small
+businesses across the country improve their cybersecurity, and
+we use targeted workshops that are aligned with the NIST
+Cybersecurity Framework.
+We have translated that NIST Framework into simple
+language, and to create an introductory-level, in-person,
+interactive, three-hour-long workshop that we host in various
+cities around the country. It empowers non-technical businesses
+to improve their cybersecurity, and we talk to people like the
+local butcher, the barber, the local accountant, people who do
+not necessarily have any cybersecurity backgrounds, and they
+need to protect their highly valuable information and assets.
+They have some of the country's key IP, like employee and
+consumer data.
+In addition, many of these small businesses are suppliers
+to large companies. They are part of the vendor management
+program. They are part of the supply chain of large businesses
+as well.
+So our workshops are simple, they are actionable, and they
+have positive changes that small businesses can take to really
+move the needle on their own cybersecurity, and to reduce their
+own vulnerability to attack.
+What we can do is we convene State attorneys general, SBA
+representatives, the FBI InfraGard, local FTC offices, chambers
+of commerce, Better Business Bureaus, and others to put on
+these programs and get small businesses to fill the rooms.
+Those small business attendees are armed with tangible
+resources to better secure their physical and their online
+assets, and they also have the awareness of the supports that
+are available to them throughout the country.
+Now this is, right now, sponsored solely by sponsors from
+private industry, and these workshops are free to attend. I
+think seeing the trusted brands aligned alongside government
+agencies does send a clear message to businesses that the
+public and private sectors need to be joined together for the
+benefit.
+We also supplement these in-person workshops with monthly
+CyberSecure Your Business webinars, which are hosted on the
+second Tuesday of every month between 2 and 3 p.m., Eastern
+time.
+Now the NCSA applauds the Federal agencies' roles in
+providing small businesses with the resources and tools they
+need to become cyber secure. In addition, we promote these
+within the organizations with our own materials, and we
+continue to support cross-agency and cross-public-private
+collaborations such as the one we have, the DHS, in order to do
+this. But we need more support dedicated to helping businesses
+prepare, and I look forward to the opportunity to talk with the
+community in ways that NCSA works with this Committee and other
+stakeholders in order to improve this very useful program.
+And I point out, Mr. Chairman, based on the earlier
+conversation, that we had already scheduled one of these
+trainings to take place in Boise in the next coming months. We
+will talk about Elkridge at another time.
+[The prepared statement of Mr. Schrader follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Risch. Thank you so much.
+Ben, you are up.
+STATEMENT OF BEN TOEWS, PRESIDENT, BULLET TOOLS, HAYDEN, ID
+Mr. Toews. Right. Chairman Risch, Ranking Member Cardin,
+Senators, thank you for the opportunity to testify today. My
+name is Ben Toews, President of Bullet Tools. My degree is in
+international business, not information technology. Managing
+the techy side of my business was a necessary evil. I created
+our network, got everyone connected, and did the
+troubleshooting and training. Once I found competent IT people
+I handed over the reins and never looked back.
+So what qualifies me to testify, now that you know I am not
+a computer genius? In short, having my business hacked with
+ransomware and surviving. Let us look at my company as a case
+study. Before the cyber attack, I think most would say that we
+were well protected. Our first line of defense was a hardware
+firewall, our second line of defense was a domain controller
+with centrally administrated usernames and passwords, and the
+third line of defense was Microsoft Security Essentials. Our
+fourth line of defense was informal training of users on good
+internet and email practices, and our final line of defense was
+an offsite backup of our financial and inventory data, on a
+daily basis.
+Immediately before the attack, we set up a new computer
+without antivirus software. A new user with no password then
+plugged it into our network. This made us vulnerable and the
+hackers executed ransomware that encrypted every file that the
+new user had access to. When we discovered the attack and saw
+the ransom note we used our cell phones to find online
+resources to help clean and restore our system. All of our
+shared network files were encrypted but only one user was
+compromised.
+We restored the financial and inventory backups to the
+network, and most of our company was back to normal in three to
+four hours. We were lucky. Without the offsite backup, we would
+have been virtually dead. We did lose some files, but none
+crucial to our operations. We now have additional security
+measures in place, along with daily offsite backups of all
+folders.
+So what lessons did we learn? I think that learning from
+others' mistakes is a lot less painful than making them
+yourself. That is why I am here to encourage you to help small
+businesses learn from my experience.
+There is an example that compares well to the situation. At
+the beginning of the Second World War, the British were
+concerned that the Luftwaffe would attack, millions of
+Londoners would flee, and the country would be paralyzed.
+Thankfully, that scenario did not play out.
+JT MacCurdy, in The Structure of Morale, described the
+effect of the blitz as splitting the population into three
+groups. One, the people killed by the bomb. A harsh fact: dead
+people do not spread panic. Two, the near misses. They feel the
+blast, see the destruction, it may result in shock and a
+preoccupation with the damage. Three, the remote misses. These
+people hear the sirens and explosions. For them, the experience
+is remote. The result? A feeling of invulnerability.
+Small business falls into these three categories: those
+that have been hacked and did not survive, those that have been
+hacked and survived, and those that have not been hacked. The
+first category is not going around advertising it, and want to
+forget it ever happened. The second category is likely more
+prepared, and unless it happened quite recently, have set up a
+very secure computer system, or gone back to flip phones and
+faxes. The last category is the remote miss group. They have
+heard about companies being hacked but nothing has hit close
+enough to get their attention. This group, the majority, is
+going to need the most help. Cyber criminals have realized that
+small, easy targets can be very lucrative.
+I do not believe that government programs are the best way
+to solve issues like cyber crime but they are very useful in
+creating an environment that encourages great solutions in the
+private sector. This is accomplished by informing and empower
+small businesses, and the SBDC as an excellent organization to
+accomplish this.
+The Idaho SBDC helped my company write our initial business
+plan, obtain funding, and weather the storms of growing a
+business over about 18 years. I now sit on the Advisory Board
+of the Idaho SBDC.
+The SBDC has some good resources in place to help prevent
+or mitigate the devastating effects of cyber attacks, including
+vulnerability assessments and other tools. These resources need
+to be actively leveraged and promoted to the small business
+community. I believe this should be done through public
+service-type announcements sent through various social media
+platforms targeting small businesses. I think we are all aware
+now that social media has the necessary info to do so.
+Federal agencies also need to be encouraged to collaborate
+with SBDCs and promote them as a resource. There are nearly
+1,000 SBDC locations providing boots on the ground, coaches
+across the country, who can educate those at risk, as well as
+help equip the small businesses that provide cybersecurity
+services and can provide a truly scalable solution.
+When dealing with IT, small business owners are wary. It is
+hard to know what the people you hire are doing, and if they
+should be trusted. The solution is standardized, reputable
+certifications for cybersecurity professionals.
+I hope that my testimony will help make a difference in
+combating cyber attacks, and it has been an honor speaking with
+you today.
+[The prepared statement of Mr. Toews follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Risch. Thank you, Ben. I appreciate it. And now,
+Ms.--am I pronouncing it right, ``Youbate''?
+Ms. Abate. Abate.
+Chairman Risch. Abate. My staff is really good about doing
+phonetics. I am just not good at reading phonetics.
+Ms. Abate. That is okay.
+Chairman Risch. Welcome. We would like to hear your
+testimony.
+STATEMENT OF GINA Y. ABATE, PRESIDENT AND CEO, EDWARDS
+PERFORMANCE SOLUTIONS, ELKRIDGE, MD
+Ms. Abate. Okay. Well, thank you, Chairman Risch, Ranking
+Member Cardin, and members of the Committee for the opportunity
+to testify.
+The high risk of financial damages is an unprecedented
+challenge to small businesses, intensified by the fact that the
+vast majority are unprepared to properly protect their assets.
+Discussions with hundreds of small businesses by the Cyber
+Security Association of Maryland members demonstrates a clear
+pattern of inaction, with the most frequent explanations being,
+``My business is small. I am not a target,'' ``Cybersecurity is
+expensive and I cannot afford it,'' and ``I am not a regulated
+business so I do not need to worry about it.''
+Let us address these justifications. Attackers are
+targeting small businesses with increasing frequency and
+sophistication. If an attacker is able to compromise a business
+system, they can access that to exploit business data, attack
+business customers and suppliers, and may even shut down the
+business. For an attacker, any foothold is a good foothold.
+So what should a small business do to start their
+cybersecurity program? Every business should invest the time to
+understand the value of their assets, engage experts to
+understand the vulnerability of their IT systems, and take
+appropriate steps to manage their cyber risks. The more
+valuable their assets and the weaker their ability to detect,
+stop, and mitigate cyber damages, the greater the risk.
+The absence of regulation should not be a driver for a
+cybersecurity program. In fact, regulatory compliance should be
+an outcome of a well-structured security program, not the
+reason for it. Small businesses who adopt a framework, like the
+NIST Cybersecurity Framework, are able to implement a
+cybersecurity and risk program to address current regulations
+and those that earn the future.
+Cybersecurity is a continuous process, not a one-time
+event, and best approached using proven methods. Small
+businesses must implement a culture of safety, leveraging
+employee situational training, and low-cost tactics, like
+enforcing proper passwords, encrypting hard drives, and
+limiting user ability to load undesirable software.
+The concepts of the NIST Framework are straightforward,
+but, in practice, organizations become overwhelmed with the
+information. It is important to note that organizations do not
+need to address all cybersecurity concerns at once. In most
+cases, a prioritized approach is sufficient to ensure key
+systems and/or business units are protected before addressing
+secondary areas of concern.
+Even with the best protection tools and procedures in
+place, cybersecurity risk is not eliminated, so continuous
+monitoring is required to quickly detect malicious,
+undesirable, or abnormal activity. Once a breach is detected,
+an immediate response is critical. Businesses must have an
+exercised and maintained plan in place during ``peace time'' to
+ensure business damage is minimized, with the necessary actions
+and resources established to regain their client trust.
+It is imperative the small business community understands
+cybersecurity is critical to overall business success. It is
+not just an IT problem. The challenge lies in convincing small
+business of the urgency to do more in protecting their assets.
+The compromise of one business can often impact suppliers and
+customers. There is much more at stake than the failure of one
+business at a time.
+But how do we incentivize small businesses to start
+preparing? In Maryland, the bipartisan Cybersecurity Incentive
+Tax Credit Bill, Senate Bill 228, made Maryland the first State
+to incentivize small businesses to purchase local cybersecurity
+protections and investors to advance Maryland's cybersecurity
+companies.
+Those of us at CAMI are especially excited because
+thousands of small Maryland businesses at risk of cybersecurity
+damages can now get the help they need at a lower cost. I
+believe it will be an indicator if this type of program
+generates increased conversations between cyber solution
+providers, both products and services, and motivates small
+businesses to take action.
+So thank you again for the opportunity to testify, and I
+look forward to discussing this topic further.
+[The prepared statement of Ms. Abate follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Risch. Thank you so much. We are going to do a
+round of questions now, and I will start with myself.
+Ben, do you have any objection to telling us a little bit
+about the ransomware attack that you survived? I guess you
+survived.
+Mr. Toews. Yeah, I would be happy to share whatever I can.
+Chairman Risch. Do it.
+Mr. Toews. Just like what more information would you like?
+Chairman Risch. Well, I do not think anyone here has any
+information about it, so maybe you could give us a brief
+description of what happened and how you got through it.
+Mr. Toews. Yeah. So, I mean, we, on a Friday, we
+essentially set up a new user, and after we set up that new
+user, that did not have a password and was plugged into the
+network, and then over the weekend, from what we can tell, they
+got into our system. We had ports open, because we have a
+voice-over-IP system, which is difficult to have it behind the
+firewall. And so that opened up ports for them to get into our
+system. We figured they probably used, I think it is called a
+brute force hacker system, that allows you to get--figure out
+who does not have a password, which users do not have a
+password. And then once they were in our system, they just
+encrypted all of the shared network files, including all of our
+operations and inventory and financial information. And
+fortunately, like I said, that was backed up.
+Chairman Risch. And so what--was that the end of it? I
+mean, did you wind up having to do some--I mean, obviously you
+had to go in and change the system.
+Mr. Toews. Yeah. We restored our system. On Monday morning,
+we figured it out. We had the ransom note in there. We did not
+pay any money. I think it was in bitcoin that they tried to get
+us to pay. We did not pay any money to restore our files. We
+just thought it was too risky. You know, what are the chances
+that the criminals are going to actually give you the
+information that they are promising you?
+And so we restored what we could, that had been backed up
+offsite, and once we restored that we were back up and running
+pretty quickly, and we just, honestly, lost some labor hours
+for specialized reports that were on our network. But all of
+our customer information was stored offsite, so there was not
+any sensitive information that was breached.
+Chairman Risch. Sounds like you were pretty lucky getting
+through it.
+Mr. Toews. We were very lucky. Yes, I would say so.
+Chairman Risch. Senator Cardin.
+Senator Cardin. Well, I thank all of our witnesses. I want
+to drill down a little bit on what the SBA can do to help. The
+2017 National Defense Authorization Act included language that
+this Committee had reported out, that required the SBA and the
+Department of Homeland Security to collaborate on cyber
+strategies for small businesses, using the Small Business
+Development Centers.
+Mr. Schrader, you have already talked about some of the
+work with the Small Business Centers, or maybe Mr. Toews. One
+of you had talked about the use of those centers.
+The bill also required the two agencies to report back to
+our two authorizing committees with a strategy on how they are
+going to deal with cybersecurity. That report should have been
+in by the end of 2017. It has not yet been received, and our
+staffs are following up to do that.
+My question is, what can you expect could be helpful from
+the Small Business Administration, to help small businesses
+deal with being better prepared on cybersecurity? I think, Mr.
+Schrader, you talked a little bit about the private sector,
+having their conferences. That is great. I do not know how many
+small businesses actually take advantage of that. But there is
+already contact between a lot of small businesses and the SBA.
+Could they be more effective in getting greater knowledge to
+the small businesses and how they need to go about in order to
+understand their risk factors and take common sense ways of
+protecting themselves?
+Mr. Schrader. That is a terrific question, Senator, and,
+absolutely, yes. There are so many small businesses out there,
+small- to medium-sized businesses, as part of the supply chain,
+as well as entrepreneurial standalone access that know public
+partnership, or private entities such as NCSA can reach all of
+them. We need to have a lot of different things, people working
+in the same direction. There is so much more education that can
+go out there. Whether it comes from the cybersecurity education
+work that we are doing with Department of Homeland Security, we
+would happily partner with the SBA to work on some of these
+educational programs.
+We have developed a really nice adaptation of the NIST
+Framework that is geared to very hands-on education. Whether we
+move that more online, whether we are able to access more of
+the centers outside of Washington in order to do more of that
+training, we absolutely see a wonderful partnership
+opportunity.
+Because there are certain simple, actionable steps that
+will help never make one totally secure, but will make you much
+more secure than you are. For example, as you talked about in
+the ransomware, there was no password. You had just plugged it
+in on a Friday. The simple things, like put in a password, keep
+your patches up to date, make your passwords actually pass-
+phrases, look at two-factor authentication. Very simple steps
+that people just need to have put out to them in an easy way
+that they can remember, that it is not an IT part of business,
+it is a day-to-day, ongoing part of the business.
+Senator Cardin. Mr. Castro, you mentioned some common-sense
+ways, including the co-op. I think the co-op is an excellent
+suggestion. You are sort of at the mercy of the private sector
+on products to buy and the price factors can be astronomical
+for individual small business owners. So the services of a co-
+op seem to make a lot of sense, in first directing you to the
+right type of product, and secondly, getting you a competitive
+price. I like that.
+Ms. Abate, you mentioned the fact that the Maryland
+legislature passed a bill that allows for credits against State
+income taxes in regards to locally produced cybersecurity
+software. It will be interesting to see how that works, because
+we could look at that at the national level, but I think it
+might be interesting to see what happens first in Maryland.
+These are, it seems like, common-sense approaches that
+could be taken. What do you need from us in order to advance
+some of these proposals?
+Mr. Castro. I think certainly SBA needs to be pointed in
+the right direction on some of this. They are not necessarily
+actively pursuing a lot of these initiatives. You know, one of
+the challenges, I think, is there is a lot of information that
+is out there on the training side, and on the education side.
+There is not really concentrated around what is the full
+curriculum, how are you either specifically educating the
+workers in small businesses so they know what they need to do,
+or how are you giving them that step-by-step guidance of
+walking someone through who is never going to get the training
+but you can show them, once, how to do the thing they need to
+do at that moment. And both of those are needed, and right now
+SBA just is not doing it.
+Senator Cardin. I just hope you would follow up on what is
+happening in Maryland. I find that fascinating, whether other
+states follow suit and what the experience is in our State.
+Ms. Abate. Yeah, I think so too, and I think part of the
+issue, when you look at small businesses, we have much more
+limited funds, correct, than a large. So what are we focused
+on? We are focused on how do we deliver a quality service, a
+quality product? How do we remain profitable? And, you know,
+cyber really, for a lot of these companies, has not risen to
+that business success, and anything we can do, through SBA or
+others, to help to raise it to that level--like I said, it is
+not just an IT problem. You can lose your business. Everything
+you do, all day, to be profitable and have a fabulous product
+is put at risk if you ignore this piece of the pie. I mean, it
+truly can. And I think it is just critical to raise awareness
+on what they need to be focused on.
+Chairman Risch. Thank you.
+Senator Inhofe.
+Senator Inhofe. Thank you very much, Mr. Chairman.
+[Off microphone.]
+I find it interesting that we have--there might be some
+relationship between--I think we probably have more small
+businesses, and some of the rural states do, than some of the
+larger states. I have one example in Norman, Oklahoma. We have
+a company called Astronomics. There is no reason that you guys
+should have ever heard of it, but it is a small business, and
+they specialize in designing certain kinds of telescope.
+Anyway, they were successful when they saw justice when a
+California man was convicted in a Federal court of directing
+distributed denial of service cyber attack in Astronomics. Now,
+they were successful. It worked. Now, Mr. Castro, what can we
+do to have more successes like this? What needs to be changed
+that might be something that you would like to see us do?
+Mr. Castro. Yeah. I think one of the most important things
+is really around that certification side, so that workers--so
+that small businesses can hire workers who have some skills,
+because I think so often, you know, the small business just has
+no real capacity to do anything, and they have no capacity to
+measure the skills. And there are so many classes that are out
+there right now, but there is no verification that, you know,
+you have taken the class and you have actually absorbed the
+knowledge. I mean, I have taken a class on juggling. I cannot
+juggle. And that is kind of what exists right now in the cyber
+certification space.
+Senator Inhofe. Mr. Schrader, I chaired the Environment and
+Public Works Committed for 12 years, and during the time of the
+Obama administration, and I am sure some of this Committee
+would disagree with this characterization. But we did just a
+lot of overregulation in every area, and we were successful,
+and this President came along and doing away with some of these
+regulations. As a matter of fact, there are two ways of doing
+away with the regulation. One is with Executive order and the
+other with a CRA, and our count is up to 70 now.
+Now, I think that is one reason that our economy has really
+been booming, the overregulation, of course. I think the tax
+bill helped too. What types of regulatory problems do you have,
+because that is an area where we might be--or do you have any
+regulatory problems?
+Mr. Schrader. At the NCSA we do not have regulatory
+problems. In fact, the NIST Framework which has been put out,
+and is continuing to be updated, has been very helpful in that
+it is voluntary and that it is scalable, and that it is
+something that puts out the kind of common-sense ways that the
+private enterprises have been able to come through and to make
+useful to small businesses.
+In our particular case, because we have a very active Board
+of Directors, who is very interested in pushing out this
+education, we have been able to move it into small businesses,
+and anything that would encourage further contributions, and
+other further ways that we can roll out this education through
+private means, is something that we very much like.
+For example, Senator, I actually had a very nice
+conversation with Devin Barrett and Dan Hillenbrand in your
+office about different ways that we would be able to work with
+the Administration and with yours on some of the very simple
+tools to be used, both within staffs here and staffs at Small
+Business, because each office really is, almost, a small
+business, and you have to take a look at everything that you
+are doing in order to make cybersecurity part of your everyday
+way of doing business.
+The crooks are not sleeping. The people who are coming in
+and trying to steal our IP are not sleeping. They are
+constantly going after something. You cannot have something
+that says ``I have checked that list off. Now I am done,''
+because there are always people looking. It is an ongoing
+process that we always need to be watchful for.
+Senator Inhofe. Okay. I was here for your opening
+statement. Ms. Abate--is that----
+Ms. Abate. That is it.
+Senator Inhofe [continuing]. And you commented that there
+is something in Maryland that was, I guess, a State agency or
+something, that has given help, and I did not know what you
+were talking about.
+Ms. Abate. The Cyber Security Association of Maryland, it
+is called CAMI, is a nonprofit, and it supports our Maryland
+cybersecurity companies by helping connect them with buyers of
+products and services, and then we also work to make sure we
+have the necessary workforce to be able to perform that work.
+Senator Inhofe. Okay. That is interesting. I would like to
+get to know more about that. Thank you, Mr. Chairman.
+Senator Rubio [presiding]. Thank you.
+Senator Heitkamp.
+Senator Heitkamp. Thank you, Mr. Chairman. This is
+cybersecurity day for me. I spent the morning with Assistant
+Secretary Jeanette Manfra over at the Department of Homeland
+Security, and we just came away from a hearing for Christopher
+Krebs to become the Under Secretary. So we are trying to gear
+up over at DHS.
+One concern that I have, probably for all of you, is that--
+let me give you an example. We have a Center of Excellence in
+the Centers for Disease Control. They look and research various
+diseases. That information is utilized by all kinds of
+agencies, you know, whether it is the Bureau of Prisons,
+whether it is the Department of Human Services.
+One of the things that I am very concerned about is the
+disparate kind of jurisdiction over cyber within the
+government, and I believe that Mr. Krebs has a responsibility
+to create a center of excellence, that then can be integrated
+in other agencies. But this is the best way to engage the
+private sector.
+I also talk a lot about, you know, everybody wants a magic
+bullet that will harden the system and protect, and we are all
+looking for that software, all looking for that hardware,
+potentially, that is going to harden the system. Guess what?
+You know, that does not exist. It is not likely to exist. And
+what we really need is we need good cyber hygiene, and that is
+really what you all are talking about in small businesses is
+good cyber hygiene. What does that look like and where is the
+checklist?
+There are two ways we can do that. We can have the
+Department of Homeland Security or whatever agency we designate
+to create a center of excellence for cybersecurity that people
+can look at best practices. I am not saying you have to use
+them, but create the best practices, the best tools for
+educating users. You know, you are only as secure as your least
+secure user, in terms of a back door, ask Target about that,
+right?
+And so what do we do to create greater awareness among not
+just small business users but your constituents, your
+customers, to create better security, better cyber hygiene?
+And, Mr. Toews, I can assure you, coming from the University of
+North Dakota, I know how to pronounce your last name. And for
+those of you, that is a hockey joke. Wonderful, wonderful
+alumni of our hockey program and we are proud to--even though
+he is from Manitoba, and I can talk like I am from Manitoba if
+that will help.
+Anyway--eh. I should not say ``ya.'' I should say ``eh.''
+But help me out here on what tools you think your small
+businesses, or your organizations would need to better educate
+your users, your customers, on how to protect themselves.
+I will start with you, Mr. Castro.
+Mr. Castro. Yeah. I mean, one of the biggest challenges
+right now is, you know, just so much information that is on
+these different websites. And so I think one of the
+opportunities that this Committee has is to really talk to SBA
+about how it is going to consolidate the information.
+When I was, you know, preparing for this hearing, one of
+the things I tried to do was put myself in the position of if I
+was a small business owner today, trying to look for this
+information right now, I had an attack and I was trying to
+respond. Could I find anything? And what I was finding was
+that, again, first of all, the information just is really badly
+organized. It is not put in a user-friendly format. But also
+there is just so much information. So much of it is outdated.
+You know, it is not serving the customer.
+Senator Heitkamp. And it is cumbersome.
+Mr. Castro. Exactly. And so, you know, really forcing SBA
+to confront this issue and how they are going to work with the
+different agencies. Clearly SBA is not going to be the center
+of excellence for cybersecurity, but they are the ones that are
+communicating it to the small businesses.
+Senator Heitkamp. Right. But I think, in some ways, they do
+not know.
+Mr. Schrader.
+Mr. Schrader. Yes. Well, first, thank you, Senator, for
+mentioning Assistant Secretary Manfra. She was kind enough to
+come to RSA----
+Senator Heitkamp. She told me that.
+Mr. Schrader [continuing]. Last week, and on Thursday we
+had a panel together at eight in the morning, about increasing
+the diversity in the cybersecurity workforce, because it is
+very difficult to build up, you know, a very good, diverse
+workforce that is ready to jump in to fill the need that we
+have now. And then she was kind enough to come to a lunch with
+the directors and some others, and she gave about two hours of
+her time talking about what DHS is doing, and talking about the
+strong public-private partnership that we have.
+Senator Heitkamp. Do you agree, Mr. Schrader, that creating
+a center of excellence within the Department of Homeland
+Security, then that information being disseminated in places
+like SBA, could be enormously helpful?
+Mr. Schrader. I think that everything that we can do is
+helpful. As you pointed out, there is no silver bullet. There
+is no hardened defense. It has to be layers of defense. It has
+to be constantly looking at different needs.
+I started here talking about cybersecurity, my business,
+but as Assistant Secretary Manfra and I have talked about, we
+are also doing Lock Down Your Login, which is geared
+specifically to staff members here in Congress. Right now we
+have some posters which we will happily give out to you. But
+the idea is six easy tips that will help everyone here, because
+you are a very attractive target, for emails, your social
+accounts, and the rest.
+Senator Heitkamp. Not just us but every person in the
+United States wants to know how to fix this problem. And I am
+sorry, Mr. Toews and Ms. Abate, I have run out of time. But
+this is an issue that we are going to continue to have
+discussions on. But I really think it is important that we see
+all this jurisdictional, you know, what is DoD doing, what is
+DHS doing, what is SBA. Because everybody is coming at it with
+a sense of panic, when we need to sit down and have a systemic
+kind of--like I said, the center of excellence that then can
+disseminate information and get it to the local community
+organizations that can do seminars with, you know, at AARP, or
+in high schools, saying this is what you need to do to not be--
+to lock the door.
+Thank you, Mr. Chairman, for the extra time.
+Chairman Risch [presiding]. Thank you. Senator Rubio.
+Senator Rubio. Thank you, and the thing that concerns me--
+well, let me share a story with you about a company, a small
+company in Florida. They got hacked. Somebody got--criminals
+got into their system, basically stole all of their client data
+and information, took it all, and then basically contacted them
+and said, ``We know how much you can afford to pay. We have
+your financial information. You need to pay us. You need to pay
+us in bitcoin if you want all this back, or you will not be
+able to operate.''
+And they went to the FBI, according to them--I have not
+talked to the FBI about this case--and the FBI basically told
+them, ``You should pay them because you are not going to get
+your data back if you do not.'' And so they did. They went out
+and bought, I think it was a quarter of a million dollars of
+bitcoin and paid them, and they got their information back, and
+were able to continue to operate. So they had their financials,
+they knew what they had in the bank and what they could afford
+to pay, and they based their demands on it. We will never knew
+who stole their money, but it is gone, and it was damaging to
+that company, as you can well imagine.
+Now if that had been someone--if we had a rash of people
+breaking into companies and stealing cash out of safes, you
+know, we would be all talking about it. In this particular
+case, they probably did not even want to publicize it, which is
+why I do not say who the business is, because their clients are
+probably concerned about it. We do not have a lot to do to help
+them, and their bigger challenges in the future--they have
+gotten a little better at what they are doing but they cannot
+afford to have the sort of IT division to protect them again in
+the future.
+And is the story I have just outlined, do you think, number
+one, just from the experience you have all had, is this
+happening more than we know? In essence, are businesses
+experiencing this but basically not filing a quote-unquote
+``police report'' the way they would a normal theft because (a)
+there is nothing law enforcement can to do to help them, and
+(b) it is not the kind of thing they want people to know about?
+Do you think this is--do you think it is common and under-
+reported?
+Ms. Abate. I do. I think more and more small businesses do
+not want to talk about it because it does damage their
+reputation and it can have a really adverse effect. But, you
+know, the other thing is reaching out to the right law
+enforcement and what you need to do and having processes.
+This morning I was at a session. The Secret Service was
+there. Unbeknownst to me, they can assist and help, and we were
+talking about that earlier.
+So I think it is really important for companies to
+understand, when you do experience a breach, who can I reach
+out to and what are the best next steps? Because if they do not
+have a plan in place, you are in panic mode, right? I mean,
+your business is at risk. You have lost your data if you do not
+have substantial backup.
+So it is something, I think, that is a problem and needs to
+be addressed.
+Mr. Toews. I echo that. I think it is very under-reported.
+We never contacted law enforcement at all in our situation. Of
+course, we recovered most of the information. But we are unique
+in the sense that we did not have--all of our customer
+databases were offsite, so I am comfortable talking with you
+about it.
+But I think you are right. I think people are embarrassed
+and they are concerned it will have a negative impact on their
+business, and so they just do not talk about it. So it is an
+under-reported issue, but it has got to be impacting our
+economy. I know it is.
+Senator Rubio. And the follow-up, the other thing that is
+devastating about it is if that business happens to do work for
+governments, or health care, some of the information that is
+being stolen is proprietary health care records, billing
+records, the like, and in the case of government, contracts,
+whether it is DoD or the space industry that is trying to
+expand to bring in more small businesses and suppliers, the
+inability to meet certain criteria for cybersecurity, because
+of the governmental--forget about classified. Just the
+governmental component of it could potentially begin to
+disqualify smaller companies because they cannot afford to
+build up the cyber capability necessary to be able to service
+the client.
+And so is that also something that people are running into
+in the small business world, where the cost of building up the
+sort of IT security they need is too high and, therefore,
+prohibit them from certain types of work that might now, or in
+the future, have certain minimum IT strength requirements that
+they cannot afford to purchase?
+Mr. Castro. I will comment first. I mean, it is a
+challenge, I think, right now for any small business to comply
+with all the different Federal security regulations at the same
+level the agencies are expected to require, and I think
+agencies are struggling at the same--with the same issue. I
+think it is feasible to put together a cybersecurity plan. The
+problem is most small businesses do not have the capability.
+Senator Rubio. They cannot afford it.
+Mr. Castro. They cannot afford it and they do not have the,
+I think, even skill set to start putting it together.
+Ms. Abate. You know, I would just mention that we have
+actually had customers, when we have worked with them on an
+assessment, and looked at what needed to be done, have decided
+not to do work with the DoD because of the expense in complying
+with the 800-171. It is just not something they can justify
+when they weigh it.
+Senator Rubio. And I guess this is just a statement, and I
+think you guys would agree with this. If we are serious about
+expanding more government contracting work to small businesses,
+because we want to have a broader base of suppliers, then part
+of that program needs to be assisting companies with the
+costs--small companies with the costs of, and the capability of
+being able to meet the criteria that we require of them. In
+earnest, trying to attract more suppliers and small business
+providers to do work in the space industry or for defense, the
+only way that is going to happen is if we help them to meet
+some of these criteria that on their own they cannot afford.
+Mr. Schrader. Right. Some of the larger companies are, in
+fact, realizing that that is a problem because they realize
+that they have problems in the supply chain and in their vendor
+management, and they are looking at public and private ways to
+do it. For example, Federal Express came to us and made a
+contribution to us in order to do the cybersecurity business
+program. And they asked to have one of their trainings done in
+Memphis, where they have a lot of small business contractors,
+and also asked to do one in Charlotte, where they also have a
+significant presence.
+So they were very proactive. They were very good corporate
+citizens in realizing that they were getting a two-fer. One is
+they were helping small businesses be safer themselves and be
+able to compete with larger ones, but at the same time they
+were protecting their own business model because they would be
+able to do business with a supply chain with a better degree of
+assurance that they were dealing with people who took
+cybersecurity as seriously as they did.
+Chairman Risch. I am shocked to hear that the private
+sector is ahead of the Federal Government on some of this, as
+we all are.
+Thank you, Senator Rubio.
+Senator Markey.
+Senator Markey. Thank you so much. You know, this is a
+problem that is not small, because we see big companies
+constantly being hacked. And when I ask Joe Tucci, who is the
+CEO of EMC--they own RSA, which is kind of a standard for the
+entire industry, RSA--I say, ``Why are all these companies
+getting hacked, the big companies?'' and they say, ``Well, they
+do not want to buy our state-of-the-art security.'' It is a
+never-ending, always escalating technology versus technology,
+spy versus spy. Like Mad magazine, it just never ends. You just
+have to keep investing if you want to be protected.
+So if big companies do not like to do it, and then they get
+hacked, how hard is it for small companies, and, really, that
+is why this hearing is important today, because it is not--IoT
+is the Internet of Things but it is also IoT, Internet of
+Threats, because everything is going to be a threat, going down
+the line, because everything is going to be ultimately
+digitized. And we could have as many as 50 billion IoT devices,
+in our pockets, our homes, our businesses, by 2020, 50 billion
+of these devices in the United States.
+And so there is just going to be a vast proliferation of
+the ability to hack in. And we have, as you know, up in
+Massachusetts, my little travelogue, we have scores of
+cybersecurity companies now. You know, RSA is kind of a famous
+one but we have scores of these companies. We buy Israel's
+companies. Israel buys our cyber companies, because it is, for
+better or worse, an incredibly huge growth industry, and it is
+because our prosperity, our privacy, our Nation's security is
+all dependent upon us moving more surely into this area.
+And it is certainly threatens small businesses in our
+country, which is why I introduced the Cyber Shield Act. And so
+just listen to what the bill would do if it became the law. It
+would establish an advisory committee of cybersecurity experts
+from academia, industry, consumer advocacy communities, and the
+public to create cybersecurity benchmarks for IoT devices. And
+it can be baby monitors, cameras, cell phones, laptops,
+tablets, anything that you are using in any of your businesses.
+And the IoT manufacturers can then voluntarily certify that
+their product meets those industry-leading cybersecurity and
+data security benchmarks and display that certification to the
+public. So that would then reward the companies that are making
+the technologies that you want to be sure are not going to get
+hacked in your small business, that are going to give you the
+protections which you want. But in the same way when you buy a
+car, you can see the safety sticker. Is it one through five
+stars? You can look at lighting, one through five stars. You
+can look at it in so many other aspects of our lives.
+Well, cybersecurity, increasingly, is going to have to be
+in that case because you have to purchase the equipment, the
+devices that are going to make you prosperous as small
+businesses. So it would reward the manufacturers by adhering to
+the best data security practices while also ensuring that small
+businesses can make more informed choices.
+So my question for the panel is, do you think that creating
+cybersecurity certification regime, such as the Cyber Shield
+Act does for IoT devices, is helpful for small businesses when
+they are making purchasing decisions?
+Mr. Castro. I think it is a really important move to try
+and get the market to work better, because I think what your
+bill will do is it creates that transparency in the market
+which is sorely lacking right now. I think it is a great move.
+I think you might be able to do it with a little bit less of a
+certification regime if you maybe just required IoT vendors to
+disclose their security practice without assessing it. Let a
+third party assess it. But whether it is this advisory
+committee that assesses it or a third party, I think it is
+exactly what we need to get that kind of market transparency to
+work.
+Senator Markey. And can you talk about that flying blind
+quality to the marketplace, you know, if you are a small
+business or anyone else?
+Mr. Castro. Yeah. I mean, the biggest problem for a small
+business is they do not know who the best of the best is,
+right? Sometimes they go based on a brand name that they have
+heard, but often, you know, I used to work, you know, directly
+with small businesses and you go in and they were using some
+product they had never heard of, because, you know, their, you
+know, cousin recommended it, and that cousin did not know
+anything about security. Or, you know, they had a popup on a
+website tell them, you know, they had an antivirus and they
+better click here and download it, and they thought they were
+improving security and they were not.
+Senator Markey. Right. So that is a problem, right? I mean,
+if a big company cannot figure it out, or they are just too
+cheap and they do not want to spend every couple of years, the
+updated, you know, software money, then they get hacked and
+everyone says ``what happened?'' and then, you know, my biggest
+company says they did not want to pay us, you know, for the
+security. It is tougher for you. It is harder for you to have
+the money, you know, to be doing that on an ongoing basis, but
+at least the transparency of which one of these technologies
+has been given a one- through five-star rating, at least you
+have got some idea as to what the level of security which you
+have purchased for any one of these devices might be.
+So is it Mr. Toews--is that how you say it? Why is it
+``Taves''? It is T-o-e-w-s. What country is that?
+Chairman Risch. You missed Heidi Heitkamp this morning.
+Senator Markey. Oh, did I? Oh, my God.
+Chairman Risch. Very interesting.
+Senator Markey. Yeah. But what country?
+Mr. Toews. Germany.
+Senator Markey. Germany.
+Mr. Toews. So the W makes a V sound----
+Senator Markey. Yeah.
+Mr. Toews [continuing]. And O and E is trying to imitate--
+--
+Senator Markey. Got it.
+Mr. Toews [continuing]. A vowel we do not have.
+Senator Markey. So, see, great minds think alike. Like
+Heidi, I do not want to know the answer.
+So we are actually at the beginning of the ransomware
+epidemic, where cyber criminals infect their victims' computer
+networks with malware, denying users access to their files
+until a ransom is paid. And that ransomware attack could
+prevent a hospital from accessing its patients' medical
+records, a business from accessing their financial records, a
+police department from accessing files from ongoing
+investigations. And attackers have even taken aim at
+municipalities, like the town of Medfield, Massachusetts, which
+was forced to pay a $300 ransom to hackers who attacked their
+municipal network. And that cyber threat to anyone who connects
+to the internet is clear, and we need to take decisive action
+to deal with that.
+So, Mr. Toews, can you talk about what kind of protections
+you would like to see in order to be protected against
+ransomware extortion?
+Mr. Toews. Certainly. I would be happy to. And it is a very
+uncomfortable situation when you find all of your files
+encrypted and there is a ransom note. It is not something that
+you expect to happen. But I honestly think that one of the
+first steps we need to take is to educate small businesses more
+that it is a problem. I do not believe that most of them
+understand the gravity of the problem. They all feel like this
+could not happen to me.
+So somehow educating them, getting, like I said, a public
+service announcement, some way of getting the word out, maybe
+let them know how many companies have been hacked, maybe
+letting them know how many of those that we know got hacked,
+how many it ended in the business going out of business. That
+kind of information going to the small businesses, I think,
+would be key. And then certifying--having standardized
+certifications that show who reputable cybersecurity
+professionals are, I think would be a huge step. Maybe there
+are already some out there. It needs to be educated--we need to
+be educated on that as well.
+Senator Markey. Yeah. We have a company up in Massachusetts
+called Carbonite. Carbonite had almost no employees eight years
+ago and now it has 1,200 employees. So they have already dealt
+with ransomware for 10,000 companies in America. In other
+words, if you have one call to make, and it just happened 20
+minutes ago, and you do not call Carbonite, you are probably
+making a mistake. Okay?
+That is my travelogue here, because they can fix it maybe
+within an hour, if you make the call on the right day,
+immediately, right? Because this is just an epidemic across the
+country, and you do not want to have to pay that ransom. You
+want to have to be able to figure this thing out immediately
+where it is in its earliest stages.
+So that is also another problem for smaller companies. You
+know, it is now going to become increasingly an additional
+expenditure which has to be made, you know, in order to deal
+with this as it just proliferates, because there is,
+ultimately--you know, there is a Dickensian quality to the
+internet. It is the best of wires and the worst of wire
+simultaneously. It can enable, it can ennoble, it can degrade,
+it can debase. And this sinister side of cyber space is
+increasingly, in industry, a bad--the bad guys, right?
+So that is why we are here, and we are looking forward to
+any recommendations you can give to us. But I do think,
+ultimately, we need some national standards that we just start
+to establish, at least information, transparency, so that the
+information is in the hands of the small businesses, so they
+are making informed consumer choices for their small
+businesses, to protect their company against ransomware or
+against any other attacks.
+So thank you for your testimony. I thank you, Mr. Chairman.
+This is a very, very important hearing.
+Chairman Risch. Thank you. Senator Markey, your idea about
+the standards in your legislation, does it contemplate an
+entity like UL, Underwriters Laboratories, that would somehow
+put their seal on----
+Senator Markey. Ah.
+Chairman Risch. UL was successful for generations, of
+course. And I would ask the panel, would--does a cyber product
+lend itself to that kind of a certification like they would
+have for UL, when it comes to security, or is that something
+you need to think about?
+Mr. Castro. Some products I think it does make sense,
+especially when you are talking about devices. Others, you
+know, when it is more service-based, you know, you might look
+at other types of certifications like TRUSTe and others that
+have existed. So I do not think it is always a straightforward
+answer.
+The biggest difference is that with UL there was a
+straightforward testing. With cybersecurity, the testing that
+you can do to identify flaws is much harder. It is a bigger
+open space.
+Chairman Risch. We had a witness in--I do not think this is
+classified--it was in the Intel Committee, and we were having a
+cybersecurity hearing. And this person, who was an expert on
+cyber stuff said, ``We are in cyber where the Wright Brothers
+were on their second airplane,'' saying that, you know, the
+biggest problem is we do not know what we do not know. And I
+suspect maybe we are going to be crossing those bridges.
+Senator Markey. But there are--if I may, Mr.--there are
+companies like Carbonite. There are, really, RSA, which is a
+subdivision now of Dell, which has purchased EMC, which now has
+RSA in it. If you go to the state-of-the-art company, they are
+fierce competitors against the Russians, or against any other,
+you know, criminal----
+Chairman Risch. The problem----
+Senator Markey [continuing]. But you have to pay for it in
+order to get it done, and they can actually attract the most
+talented people in the government to go and work for them,
+because they can pay so much more.
+Chairman Risch. The problem is, is the average buyer,
+consumer, does not know that stuff. I know some pretty
+sophisticated people that have gone out and bought Kaspersky
+Laboratory products. Anybody ever heard of them?
+Senator Markey. Yeah. Can I say this? Woburn,
+Massachusetts, yeah. I am just being a Ben Cardin.
+Chairman Risch. Thank you very much.
+Senator Markey. Yeah. But that is not, maybe, the best
+example for us to be advertising.
+Senator Cardin. I think this is very important, your bill.
+There is some work being done at NIST in regards to this field,
+but I do not think we have what you are trying to do, Senator
+Markey. But it is something we need to be able to get better
+conformity.
+And what you have indicated, about not reporting this, is
+common. Rarely is this reported, which points out another
+problem, because if we are trying to counter this and we do not
+get that information to some law enforcement investigative
+authority, then it makes it even more challenging for us to
+root out those that should be held criminally accountable for
+the type of activities that they are doing.
+So I think you are pointing out some real significant
+issues, and all of you have come up with proposals, which we
+thank. I mean, that is what I like from hearings, specific
+proposals. So I think you have given us a lot of really good
+ideas.
+Senator Markey. And if I may, I think your UL idea is a
+good idea. It is a good way of thinking about it.
+Chairman Risch. It is a good way of thinking about it. I do
+not know if it works or not.
+Senator Cantwell.
+Senator Markey. Yeah, but I can I just say to Mr. Castro--
+--
+Chairman Risch. Senator Markey has been taking up all your
+time.
+Senator Markey. I have been filibustering so you had time
+to get here, okay? That has been my responsibility.
+I just want to say to you, Mr. Castro, given what happened
+in Cuba last week and how responsible we will be to you, you
+are the most powerful Castro in the world now, so let us know
+what you think.
+Chairman Risch. Moving right along, Senator Cantwell.
+Senator Cantwell. Well, Thank you, Mr. Chairman, and thank
+you for having this hearing. It is such an important hearing
+because we want our small businesses to be able to keep pace
+with the level of advancements, and certainly with the level of
+attacks on our infrastructure as it relates to cyber attacks,
+we want our small businesses to have every opportunity.
+I know my colleague was here earlier talking about cyber
+hygiene, and one thing we have been able to do in the Pacific
+Northwest is working with our industry sectors, actually and
+our Guard and Reserve has come up with that cyber hygiene list
+of things that we expect all businesses to do.
+What would it take for--what do you think we should be
+specifically focusing on that would help small businesses
+participate in those kinds of discussions and to better reveal
+information about what kinds of attacks you might have already
+been experiencing, given that nobody really wants to come
+forward and say that, because of vulnerabilities to your
+business?
+Chairman Risch. Well, who is the hero here?
+Mr. Castro. I will start it. I think, you know, a lot of
+small businesses do not have a lot of time to spend on this
+issue, so, you know, you always have to, when we are talking
+about how can we help them, is giving them very concrete,
+actionable steps.
+The New York Times did something great recently, where they
+had a seven-day financial health program. Every day you signed
+up for it you got an email that said, you know, spend an hour
+and do these specific things. You know, look at your credit
+card statements. Use this tool to figure out what you are
+overpaying for. That is the kind of direct, hands-on feedback
+we need to give small businesses.
+The average small business is not going to be able to do--
+you know, they are not going to be able to sit down and think
+about the cybersecurity threats and, you know, take a tip
+about, you know, secure your passwords, and think through all
+the ways that could apply. They need very concrete direction
+that says, you know, log into your Wi-Fi router and make sure
+you have been labeled WPA security. That kind of specific
+feedback. And I think, you know, we can do that, but that is
+not what we have been doing so far.
+Senator Cantwell. Okay.
+Mr. Schrader. The other part is it has to be ongoing,
+right, because with UL you have a UL sticker on your lamp. You
+plug the lamp in and you know that the lamp is going to be safe
+when you plug it in. But in the case of small businesses, they
+are constantly adding, they are upgrading, there are patches to
+be fixed, there are new ways that they are bringing in new
+software, new hardware, which is the issue that you had, Ben.
+And so basically you have to have a recency effect as well
+as an education effect. It has to be something that they
+constantly think of as they go through their day-to-day
+business, keeping their software up to date, changing their
+passwords when they change their--you know, their employees,
+being a little bit of a socially aware of the kind of social
+engineering that happens to big and small firms, in order to
+get people to, you know, to download things or to reveal
+passwords.
+So it is an ongoing education process. It is not like we
+will ever be able to say, ``We have hit the bottom of the list.
+Thank you very much. That is solved. Let us move on.'' And we
+do not want that to be, because we want to encourage more
+entrepreneurship. We want to encourage them to be able to
+compete into the supply chain and to grow into bigger
+companies.
+Senator Cantwell. It is amazing that Equifax was just--
+there was an available patch, you know, an Apache patch that
+somebody just did not download. Like somebody made a really big
+mistake by not implementing that solution. So I hear your point
+about constant information.
+That is why--I do not know if it is because we had so many
+people in our Guard and Reserve that were in the software
+industry or just that we have a big footprint there, but this
+effort on a cyber hygiene list, I just feel--I mean, look. I
+mean, now the threat is not necessarily somebody sticking a sub
+in U.S. waters or basically flying a plane into U.S. airspace.
+It is state-owned actors hacking systems.
+So I actually think the Guard and Reserve could play this
+ongoing dialogue for us about what are the 10 things people
+should be on the lookout for? What are the 10 cyber hygiene
+things that could be deployed? But anyway, they are doing that
+in our State, and it is a good partnership with industry.
+Mr. Schrader. That is interesting, because a partnership
+that the National Cyber Security Alliance has with DHS, in
+October we sponsor Cyber Security Awareness Month, where it is
+a constant drum on different aspects of how we will go and get
+the word out on different things, and we will do follow-ups in
+different areas, Data Privacy Day, and then some other.
+We are doing, right now, something called Spring Clean Your
+Machine. Just as, you know, my grandma used to push around the
+sofas and pull down the curtains and open up all the windows
+and spring-clean the whole place. Do that with your machine.
+Delete the apps that you do not use. Upgrade your pass phrases.
+Figure out who is looking at your location data. The little
+simple things and reminders that are helpful along the way.
+Senator Cantwell. Great. Thank you, Mr. Chairman.
+Chairman Risch. Okay. Thank you very much. Ben, have you
+got anything more for the good of the order?
+Senator Cardin. Just to thank our witnesses and to point
+out the challenges we have. You could do everything right and
+you still can get attacked. Supply chain issues, so many
+different things going on. So we have to have a greater
+understanding and knowledge in the small business community so
+they can take reasonable steps, and we need to figure out best
+strategy.
+Chairman Risch. Thank you very much. Thank you all for
+spending your time with us. I think this has been one of the
+more productive hearings I have been in, in quite a while. It
+has given us a lot to think about. Some of the suggestions that
+have been made here, we will do our best to try to implement.
+What I am going to do is I am going to keep the record open
+until 5:00 on Friday. If any of you have anything more for the
+record, please feel free to submit. Any members who want to
+submit questions for the record, we will do it that way.
+So with that, thank you again. This hearing is adjourned.
+[Whereupon, at 4:51 p.m., the Committee was adjourned.]
+APPENDIX MATERIAL SUBMITTED
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

@@ -1,0 +1,3407 @@
+- CLOSING THE DIGITAL DIVIDE: BROADBAND INFRASTRUCTURE SOLUTIONS
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+CLOSING THE DIGITAL DIVIDE: BROADBAND INFRASTRUCTURE SOLUTIONS
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON COMMUNICATIONS AND TECHNOLOGY
+OF THE
+COMMITTEE ON ENERGY AND COMMERCE
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+JANUARY 30, 2018
+__________
+Serial No. 115-95
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Printed for the use of the Committee on Energy and Commerce
+energycommerce.house.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+29-879
+WASHINGTON : 2018
+-----------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail, [email protected]
+COMMITTEE ON ENERGY AND COMMERCE
+GREG WALDEN, Oregon
+Chairman
+JOE BARTON, Texas
+FRANK PALLONE, Jr., New Jersey
+Vice Chairman
+Ranking Member
+FRED UPTON, Michigan
+BOBBY L. RUSH, Illinois
+JOHN SHIMKUS, Illinois
+ANNA G. ESHOO, California
+MICHAEL C. BURGESS, Texas
+ELIOT L. ENGEL, New York
+MARSHA BLACKBURN, Tennessee
+GENE GREEN, Texas
+STEVE SCALISE, Louisiana
+DIANA DeGETTE, Colorado
+ROBERT E. LATTA, Ohio
+MICHAEL F. DOYLE, Pennsylvania
+CATHY McMORRIS RODGERS, Washington
+JANICE D. SCHAKOWSKY, Illinois
+GREGG HARPER, Mississippi
+G.K. BUTTERFIELD, North Carolina
+LEONARD LANCE, New Jersey
+DORIS O. MATSUI, California
+BRETT GUTHRIE, Kentucky
+KATHY CASTOR, Florida
+PETE OLSON, Texas
+JOHN P. SARBANES, Maryland
+DAVID B. McKINLEY, West Virginia
+JERRY McNERNEY, California
+ADAM KINZINGER, Illinois
+PETER WELCH, Vermont
+H. MORGAN GRIFFITH, Virginia
+BEN RAY LUJAN, New Mexico
+GUS M. BILIRAKIS, Florida
+PAUL TONKO, New York
+BILL JOHNSON, Ohio
+YVETTE D. CLARKE, New York
+BILLY LONG, Missouri
+DAVID LOEBSACK, Iowa
+LARRY BUCSHON, Indiana
+KURT SCHRADER, Oregon
+BILL FLORES, Texas
+JOSEPH P. KENNEDY, III,
+SUSAN W. BROOKS, Indiana
+Massachusetts
+MARKWAYNE MULLIN, Oklahoma
+TONY CARDENAS, California
+RICHARD HUDSON, North Carolina
+RAUL RUIZ, California
+CHRIS COLLINS, New York
+SCOTT H. PETERS, California
+KEVIN CRAMER, North Dakota
+DEBBIE DINGELL, Michigan
+TIM WALBERG, Michigan
+MIMI WALTERS, California
+RYAN A. COSTELLO, Pennsylvania
+EARL L. ``BUDDY'' CARTER, Georgia
+JEFF DUNCAN, South Carolina
+Subcommittee on Communications and Technology
+MARSHA BLACKBURN, Tennessee
+Chairman
+LEONARD LANCE, New Jersey
+MICHAEL F. DOYLE, Pennsylvania
+Vice Chairman
+Ranking Member
+JOHN SHIMKUS, Illinois
+PETER WELCH, Vermont
+STEVE SCALISE, Louisiana
+YVETTE D. CLARKE, New York
+ROBERT E. LATTA, Ohio
+DAVID LOEBSACK, Iowa
+BRETT GUTHRIE, Kentucky
+RAUL RUIZ, California
+PETE OLSON, Texas
+DEBBIE DINGELL, Michigan
+ADAM KINZINGER, Illinois
+BOBBY L. RUSH, Illinois
+GUS M. BILIRAKIS, Florida
+ANNA G. ESHOO, California
+BILL JOHNSON, Ohio
+ELIOT L. ENGEL, New York
+BILLY LONG, Missouri
+G.K. BUTTERFIELD, North Carolina
+BILL FLORES, Texas
+DORIS O. MATSUI, California
+SUSAN W. BROOKS, Tennessee
+JERRY McNERNEY, California
+CHRIS COLLINS, New York
+FRANK PALLONE, Jr., New Jersey (ex
+KEVIN CRAMER, North Dakota
+officio)
+MIMI WALTERS, California
+RYAN A. COSTELLO, Pennsylvania
+GREG WALDEN, Oregon (ex officio)
+C O N T E N T S
+----------
+Page
+Hon. Marsha Blackburn, a Representative in Congress from the
+State of Tennessee, opening statement..........................
+1
+Prepared statement...........................................
+3
+Hon. Leonard Lance, a Representative in Congress from the State
+of New Jersey, prepared statement..............................
+4
+Hon. Michael F. Doyle, a Representative in Congress from the
+Commonwealth of Pennsylvania, opening statement................
+4
+Prepared statement...........................................
+5
+Hon. Greg Walden, a Representative in Congress from the State of
+Oregon, opening statement......................................
+6
+Hon. Frank Pallone, Jr., a Representative in Congress from the
+State of New Jersey, opening statement.........................
+8
+Prepared statement...........................................
+9
+Witnesses
+Jonathan Spalter, President and CEO, USTelecom...................
+11
+Prepared statement...........................................
+13
+Answers to submitted questions...............................
+186
+Brad Gillen, Executive Vice President, CTIA......................
+19
+Prepared statement...........................................
+21
+Answers to submitted questions...............................
+190
+Matthew M. Polka, President and CEO, American Cable Association..
+32
+Prepared statement...........................................
+34
+Answers to submitted questions...............................
+193
+Shirley Bloomfield, CEO, NTCA--The Rural Broadband Association...
+49
+Prepared statement...........................................
+52
+Answers to submitted questions...............................
+196
+Scott Slesinger, Legislative Director, Natural Resources Defense
+Council........................................................
+61
+Prepared statement \1\.......................................
+63
+Answers to submitted questions...............................
+200
+Joanne S. Hovis, President, CTC Technology and Energy............
+73
+Prepared statement...........................................
+75
+Answers to submitted questions...............................
+203
+Elin Swanson Katz, Consumer Counsel, Connecticut Consumer Counsel
+85
+Prepared statement \2\.......................................
+87
+Answers to submitted questions...............................
+210
+Submitted Material
+Statement of the American Cable Association, submitted by Mrs.
+Blackburn......................................................
+134
+Statement of CTIA, submitted by Mrs. Blackburn...................
+136
+Statement of NCTA--The Internet & Television Association,
+submitted by Mrs. Blackburn....................................
+137
+Statement of the Competitive Carriers Association, submitted by
+Mrs. Blackburn.................................................
+139
+Statement of the Telecommunications Industry Association,
+submitted by Mrs. Blackburn....................................
+141
+Statement of C-TEC, submitted by Mrs. Blackburn..................
+143
+Statement of the Power and Communication Contractors Association,
+submitted by Mrs. Blackburn....................................
+145
+Statement of the Wireless Infrastructure Association, submitted
+by Mrs. Blackburn..............................................
+146
+White paper by CISCO, submitted by Mrs. Blackburn................
+148
+Letter of January 23, 2018, from Members of Congress to President
+Donald J. Trump, submitted by Mr. Welch........................
+157
+Article entitled, ``When the city is your internet provider, the
+real cost may be hidden,'' Belleville News-Democrat, January
+30, 2018, submitted by Mr. Shimkus.............................
+158
+Study entitled, ``Community-Owned Fiber Networks: Value Leaders
+in America,'' Harvard University, January 2018, submitted by
+Ms. Eshoo......................................................
+161
+Press release, The Power and Communication Contractors
+Association, submitted by Mr. Doyle............................
+178
+Article entitled, ``Scoop: Trump team considers nationalizing 5G
+network, Axios, January 29, 2018, submitted by Mr. Doyle.......
+180
+Statement of Tipmont REMC, submitted by Mr. Doyle................
+183
+---------- \1\
+\1\ Mr. Slesinger's full statement can be found at: https://
+docs.house.gov/meetings/if/if16/20180130/106810/hhrg-115-if16-
+wstate-slesingers-20180130-u5050.pdf.
+\2\ Ms. Swanson Katz's full statement can be found at: https://
+docs.house.gov/meetings/if/if16/20180130/106810/hhrg-115-if16-
+wstate-swansonkatze-20180130-u5060.pdf.
+CLOSING THE DIGITAL DIVIDE: BROADBAND INFRASTRUCTURE SOLUTIONS
+----------
+TUESDAY, JANUARY 30, 2018
+House of Representatives,
+Subcommittee on Communications and Technology,
+Committee on Energy and Commerce,
+Washington, DC.
+The subcommittee met, pursuant to notice, at 9:58 a.m., in
+room 2322, Rayburn House Office Building, Hon. Marsha Blackburn
+(chairman of the subcommittee) presiding.
+Present: Representatives Blackburn, Lance, Shimkus, Latta,
+Guthrie, Olson, Kinzinger, Bilirakis, Johnson, Long, Flores,
+Brooks, Collins, Cramer, Walters, Costello, Walden (ex
+officio), Doyle, Welch, Clarke, Loebsack, Ruiz, Dingell, Rush,
+Eshoo, Butterfield, Matsui, McNerney, and Pallone (ex officio).
+Also Present: Representative Tonko.
+Staff Present: Jon Adame, Policy Coordinator C&T Ray Baum,
+Staff Director; Karen Christian, General Counsel; Kelly
+Collins, Staff Assistant; Robin Colwell, Chief Counsel,
+Communications & Technology; Adam Fromm, Director of Outreach
+and Coalitions; Elena Hernandez, Press Secretary; Zach Hunter,
+Director of Communications; Tim Kurth, Deputy Chief Counsel,
+Communications & Technology; Lauren McCarty, Counsel,
+Communications & Technology, Katie McKeogh, Press Assistant;
+Evan Viau, Legislative Clerk, Communications & Technology;
+Hamlin Wade, Special Advisor, External Affairs; Everett
+Winnick, Director of Information Technology; Jacqueline Cohen,
+Minority Chief Environment Counsel; David Goldman, Minority
+Chief Counsel, Communications & Technology; Tiffany Guarascio,
+Minority Deputy Staff Director and Chief Health Advisor; Jerry
+Leverich, Minority Counsel; Jourdan Lewis, Minority Staff
+Assistant; Dan Miller, Minority Policy Analyst; Tim Robinson,
+Minority Chief Counsel; C.J. Young, Minority Press Secretary;
+and Catherine Zander, Minority Environment Fellow.
+OPENING STATEMENT OF HON. MARSHA BLACKBURN, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF TENNESSEE
+Mrs. Blackburn. The Subcommittee on Communications and
+Technology will now come to order. The chair now recognizes
+herself for 5 minutes for an opening statement.
+Welcome to the subcommittee's first hearing of the new
+year. And I must say, we are off to a very promising start. We
+wanted to have a very inclusive hearing today to discuss all of
+the great ideas from subcommittee members on both of sides of
+aisle to create broadband infrastructure deployment, and a goal
+of closing the digital divide. Whether you agree or disagree
+with any individual idea, it is so important that we get the
+conversation started, and we have got a lot to talk about with
+25 bills introduced in time to be a part of today's hearing. I
+very much appreciate all of the thoughtful proposals and the
+great work from the staff of both the Republican and the
+Democrat side, and I look forward to seeing progress as we move
+through the next few weeks.
+These legislative initiatives follow the leadership of
+President Trump's recent efforts on broadband infrastructure.
+The bills to be examined in this hearing are targeted at
+promoting the innovation, cutting red tape, and advancing
+public safety.
+It is impossible in my allotted time to highlight each
+bill, but I do want to call attention to a couple of
+resolutions expressing the guiding principles on broadband
+infrastructure that should underpin our efforts.
+First, as noted by Vice Chairman Lance, any funds for
+broadband in an infrastructure package should go to unserved
+areas.
+Second, as noted by Congressman Latta, the Federal
+Government should not be picking winners and losers in the
+marketplace. Any Federal support for broadband infrastructure
+should be competitively and technologically neutral.
+If we adhere to these principles, I am confident we can
+avoid the pitfalls of waste, fraud, inefficiency that marred
+the previous administration's efforts on broadband
+infrastructure.
+Lastly, and perhaps most important, Congress should be
+mindful of the significant amounts of private capital spent to
+support broadband deployment. Since passage of the bipartisan
+1996 Telecom Act, the private sector has invested roughly $1.6
+trillion in their networks.
+This investment includes wireline, wireless and other
+broadband technologies. However, this investment experienced a
+decline that coincided with the FCC's 2015 decision to
+reclassify the competitive broadband marketplace under Title II
+of the Communications Act, an outdated relic of the 1930's
+monopoly era.
+I want to reiterate our support for Chairman Pai, who
+corrected this ill-conceived policy and returned us to the
+light-touch regulatory approach that allowed the digital
+economy to flourish. This light-touch approach has been the
+bedrock of communications policy since the Clinton
+administration.
+As I previously stated, history makes clear that countries
+with the best communications have the highest economic growth.
+Continuing our Nation's leadership is, and most important, must
+remain a bipartisan effort.
+And I am pleased to note that our effort has broad support
+from a cross section of the industry.
+At this time, I would like to enter into the record several
+letters of support from American Cable Association, CTIA, NCTA,
+Competitive Carriers Association, Telecommunications Industry
+Association, U.S. Chamber of Commerce, Power and Communication
+Contractors Association, and the Wireless Infrastructure
+Association.
+[The information appears at the conclusion of the hearing.]
+Mrs. Blackburn. I am pleased to convene this hearing. I
+look forward to the testimony of our witnesses. And with that,
+I yield the remainder of my time to the vice chairman of the
+subcommittee, Mr. Lance.
+[The prepared statement of Mrs. Blackburn follows:]
+Prepared statement of Hon. Marsha Blackburn
+Welcome to the subcommittee's first hearing of the new
+year. And I must say we are off to a very promising start. We
+wanted to have a very inclusive hearing today to discuss all of
+the ideas from Subcommittee members on both sides of the aisle
+to promote broadband infrastructure deployment with a goal of
+closing the digital divide. Whether you agree or disagree with
+any individual idea, it is so important that we get the
+conversation started. And we have plenty to talk about, with 25
+bills introduced in time to be part of our hearing today. I
+very much appreciate all of the thoughtful proposals and look
+forward to seeing many of them progress in the coming weeks.
+These legislative initiatives follow the leadership of
+President Trump's recent efforts on broadband infrastructure.
+As stated in the President's recent Executive Order:
+``Americans need access to. broadband internet service to
+succeed in today's information-driven, global economy.
+``Currently, too many American citizens and businesses.
+lack access to this basic tool. [and] this problem is
+particularly acute in rural America.''
+Collectively, the bills to be examined at this hearing are
+targeted at promoting innovation, cutting red tape, and
+advancing public safety.
+Together, Congress and the administration can help span the
+digital divide so all Americans may fully realize the
+innovations made possible by broadband.
+This will require expanding broadband to unserved areas,
+supporting deployment of advanced networks and new technology,
+as well as helping citizens recover from hurricanes, floods,
+fires, and other disasters.
+It's impossible in my allotted time to highlight each bill,
+but I do want to call attention to a couple of resolutions
+expressing the guiding principles on broadband infrastructure
+that should underpin our efforts:
+First, as noted by Vice Chairman Lance, any funds for
+broadband in an infrastructure package should go to unserved
+areas.
+Second, as noted by Congressman Latta, the Federal
+Government should not be picking winners and losers in the
+marketplace; any federal support for broadband infrastructure
+should be competitively and technologically neutral.
+If we adhere to these principles, I am confident we can
+avoid the pitfalls of waste, fraud, abuse, and inefficiency
+that marred the previous administration's efforts on broadband
+infrastructure.
+Lastly, and perhaps most importantly, Congress should be
+mindful of the significant amounts of private capital spent to
+support broadband deployment. Since passage of the bipartisan
+1996 Telecommunications Act, the private sector has invested
+roughly $1.6 trillion in their networks.
+This investment includes wireline, wireless, and other
+broadband technologies. However, this investment experienced a
+decline that coincided with the FCC's 2015 decision to
+reclassify the competitive broadband marketplace under Title II
+of the Communications Act, an outdated relic of the 1930s
+monopoly-era.
+I want to reiterate our support for Chairman Pai who
+corrected this ill-conceived policy and returned us to the
+light-touch regulatory approach that allowed the digital
+economy to flourish. This light-touch approach has been the
+bedrock of communications policy since the Clinton
+administration.
+As I have previously stated: history makes clear that
+countries with the best communications have the highest
+economic growth. Continuing our nation's leadership is, and
+must remain, a bipartisan effort.
+I am pleased to convene this hearing, and I look forward to
+the testimony of our witnesses.
+Mr. Lance. Thank you very much. And first of all, the State
+of the Union is that the chair is doing a terrific job at this
+subcommittee.
+Since 1996, the wireless and wireline industries have
+invested over $1.6 trillion in private capital investment. As
+we consider how best to promote broadband deployment and Next
+Generation Networks, it is important that we remember the
+success of private investment in the past and pursue Federal
+policies to help and encourage an emphasis on private
+investment in the future.
+As our economy becomes more digitized, we must ensure
+broadband access to all areas of the country.
+It is important that we recognize that any Federal funds
+for broadband deployment will be finite, and our focus on
+unserved or underserved areas of the Nation.
+I am pleased we are considering the Access Broadband Act,
+which I have introduced with Congressman Tonko on a bipartisan
+basis. I commend the chair and the members of the subcommittee
+on both sides of the aisle on the impressive package of
+broadband infrastructure bills we are considering today. I look
+forward to hearing the testimony from the panel.
+Madam Chair, I yield back.
+[The prepared statement of Mr. Lance follows:]
+Prepared statement of Hon. Leonard Lance
+Thank you, Chairman Blackburn, and thank you to our
+distinguished panel members for appearing before us today.
+Since 1996, the wireless and wireline industries have
+invested over $1.6 trillion in private capital investment. As
+we consider how best to promote broadband deployment and next
+generation networks it is important that we remember the
+successes of private investment in the past and pursue federal
+policies to help and encourage an emphasis on more private
+investment in the future.
+As our economy becomes increasingly more digitized,
+bringing broadband access to more areas of the country connects
+more consumers and small businesses to the internet economy for
+the economic benefit of all. However, in many rural areas of
+the country, the cost to deploy broadband infrastructure is
+prohibitive and I believe that there is a role for federal
+funding to play in the cases where prohibitive costs prevent a
+market solution.
+However, it is important that we recognize that any federal
+funds for broadband deployment will be finite and are focused
+on unserved areas of the country. The Federal Government should
+not be in the business of subsidizing competitors in local
+markets where a broadband provider already provides service and
+I am pleased that we are considering my resolution that clearly
+states this principle.
+I am also pleased we are considering the ACCESS BROADBAND
+Act, which I introduced with Congressman Tonko. The bill would
+streamline the federal grant programs related to broadband
+deployment and better track how federal funds are used. I thank
+Congressman Tonko for his leadership on this important issue.
+I commend Chairman Blackburn and the members of the
+subcommittee on both sides of the aisle on the impressive
+package of broadband infrastructure bills we are considering
+today. I look forward to hearing the testimonies from the
+panel.
+Mrs. Blackburn. The gentleman yields back. Mr. Doyle, you
+are recognized, 5 minutes.
+OPENING STATEMENT OF HON. MICHAEL F. DOYLE, A REPRESENTATIVE IN
+CONGRESS FROM THE COMMONWEALTH OF PENNSYLVANIA
+Mr. Doyle. Thank you, Madam Chair for holding this hearing,
+and thank you to the witnesses for appearing before us today.
+I want to start off by saying that I share Chairman
+Blackburn's and this committee's goal of ensuring that all
+Americans have access to broadband, and that we need to come
+together, on a bipartisan basis, to address the challenges that
+millions of Americans face today from a lack of broadband
+access, a lack of sufficient speeds, and a lack of affordable
+option. While it is crucial that nobody gets left behind, I
+believe we cannot ignore the lack of competition, particularly
+among wireline providers, and the high cost of service that
+results in far too many foregoing service.
+That being said, I am concerned about the approach we are
+taking here today. We are considering 25 bills at this hearing.
+I can't remember a time when this committee held a hearing on
+so many bills with a single panel of witnesses. We are simply
+not giving these bills the time and expertise required for the
+members of this committee to fully consider each of these bills
+and the ramifications. It would seem to me far more prudent to
+have hold a series of hearings so that members would have an
+opportunity to discuss and understand the proposals before us.
+Rushing this process gives short shrift to many worthwhile
+ideas for members on both sides of the aisle, and precludes
+these bills from undergoing a truly deliberative process.
+It is my hope that Chairman Blackburn and the committee
+staff for the majority can work with us to avoid this
+unnecessary problem for the future. It is my hope, Madam Chair,
+that as we move forward on broadband infrastructure
+legislation, we can do so on a collaborative and bipartisan
+basis.
+That being said, I am concerned that many of the majority's
+proposals do not actually address the primary issue of getting
+broadband to rural America, and that there is no business case
+for that private investment. If we are serious about solving
+this problem, and we believe that people living in rural areas
+should have access to reasonably comparable service, we need to
+appropriate the funds necessary for that buildout.
+With that Madam Chair, I would like to yield a minute to my
+good friend, Ms. Eshoo from California, and then a minute and a
+half to my good friend, Mr. Welch.
+[The prepared statement of Mr. Doyle follows:]
+Prepared statement of Hon. Michael F. Doyle
+Thank you, Chairman Blackburn for holding this hearing, and
+thank you to the witnesses for appearing before us today.
+I want to start off by saying that I share Chairman
+Blackburn's and this Committee's goal of ensuring that all
+Americans have access to broadband--and that we need to come
+together on a bipartisan basis to address the challenges that
+millions of Americans face today from a lack of broadband
+access, a lack of sufficient speeds, and a lack of affordable
+options.
+While it is crucial that nobody gets left behind, I believe
+that we cannot ignore the lack of competition, particularly
+among wireline providers, and the high cost of service that
+results in far too many people forgoing service.
+That being said, I'm concerned about the approach we are
+taking here today. We are considering twenty five bills at this
+hearing, I don't remember a time when this Committee held a
+hearing on so many bills with a single panel of witnesses. We
+are simply not giving these bills the time and expertise
+required for the members of this Committee to fully consider
+each of these bills and their ramifications.
+It would seem far more prudent to hold a series of hearings
+so that members would have an opportunity to discuss and
+understand each of the proposals before us. Rushing this
+process gives short shrift to many of the worthwhile ideas from
+members on both sides of the aisle, and it precludes these
+bills from undergoing a truly deliberative process.
+It is my hope that Chairman Blackburn and the Committee
+staff for the majority can work with us to avoid this
+shortsightedness and avoid unnecessary problems for the future.
+It is my hope, Madam Chairman, that as we move forward on
+broadband infrastructure legislation we can do so on a
+collaborative and bipartisan basis.
+That being said, I am concerned that many of the Majority's
+proposals do not actually address the primary issue of getting
+broadband to rural America--and that there is no business case
+for private investment. If we are serious about solving this
+problem, and we believe that people living in rural areas
+should have access to reasonably comparable service, we need to
+appropriate the funds necessary for that buildout.
+Ms. Eshoo. I thank the ranking member.
+Here it is, the second decade of the 21st century, and too
+many Americans cannot fully participate in modern life, because
+they do not have a robust broadband connection. It is either
+unavailable to them, or it is unaffordable, and it is our
+responsibility to remedy this. That is why I have introduced
+several bills to clear the way for communities to take control.
+The Community Broadband Act and the Climb Once Act both ensure
+that communities are empowered to create their own municipal
+broadband networks, and streamline pole attachments to improve
+efficiency and competition.
+Where muni broadband is deployed, and where Climb Once
+policies are in place, such as Louisville, Kentucky, Nashville,
+Tennessee, and soon, San Francisco, California, consumers enjoy
+more access, better service and lower prices. And a recent
+Harvard study showed that communities with municipal broadband
+were up to 50 percent lower in cost than private alternatives.
+And the Community Broadband Act will open the doors for all
+communities to explore that option. And most especially, both
+of these bills will really boost and make a difference in rural
+America.
+So I thank the gentleman for yielding time to me, and I
+yield back to him.
+Mr. Doyle. Yes. And I yield the remaining time to Mr.
+Welch.
+Mr. Welch. Thank you. We know about 40 percent of rural
+America has no broadband. Not slow broadband, no broadband. And
+there is no economic future for any part of our country if it
+doesn't have high speed internet. And rural America is being
+left behind. And the other issue here is that it makes no
+economic sense for private markets to be expanding in the rural
+areas. There is no payback. Bottom line: We need funding to
+make certain that rural broadband is real. And we have a group
+on this committee that wrote to President Trump, Mr. Cramer,
+Mr. Kinzinger, Mr. Latta. We want infrastructure funding that
+is real so that there is broadband in rural America.
+Now, absent funding, there is no broadband. It is as simple
+as that. This is a good hearing on several good bills, but
+there is nothing before us that is going to address the funding
+that we need for infrastructure for rural broadband.
+In my call to the committee, is that we get real and
+acknowledge that we have to have money for this buildout, much
+as our predecessors in Congress provided funding for the
+buildout of electricity in rural America. No funding, no
+broadband. It is as simple as that. I yield back.
+Mrs. Blackburn. The gentleman yields back.
+At this time, Chairman Walden, you are recognized for 5
+minutes.
+OPENING STATEMENT OF HON. GREG WALDEN, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF OREGON
+Mr. Walden. Thank you, Madam Chair, and thanks to all our
+members, and especially to our witnesses. We got a big panel of
+witnesses because we have a lot of really important ideas from
+our members. We have got 25 bills, as you have heard; eight of
+them from Democrats, the other 17 from Republicans. Obviously,
+this committee is used to dealing with big, important issues.
+Sometimes we have had bills that are maybe hundreds of pages
+long. These are, I think, important policy statements in some
+cases, streamlining processes in other cases.
+The whole concept here is to look at the broad range of
+ideas that members have brought to this committee for its
+consideration. And that is why at the subcommittee level, we
+thought it was important to put as many of these bills as
+possible up for the public to see, because it is on our agenda
+and our website, but also for us to begin getting our heads
+around as we move forward in our legislative process.
+So I am delighted to have the bills before us. I am
+delighted you all are before us. I remember when the last
+administration did the stimulus bill. It was a whopping $7
+billion they pushed out the door before they produced the maps
+to tell us where unserved areas were in America. They only did
+that after the fact.
+So as you know, we are trying to get the other side of that
+coin and identify where are the really unserved and underserved
+areas? What kind of reporting mechanisms are poorly being
+conducted today to show us that? We want NTIA and other
+organizations to help us figure that out. So when the taxpayer
+or ratepayers' money is invested, it is not invested to
+overbuild, it is invested to reach out to the 29 million
+Americans, 23 million Americans, 39 percent rural areas that
+don't have access to high speed broadband.
+Because you know, at $7 billion, you have to remember in
+the market, they are spending close to $80 billion a year on
+broadband deployment; $1.6 trillion between 1996, I think it
+is, and 2006. But anyway, the big investment here is done on
+the private sector. There is public money that is spent. Our
+job is to make sure that public money is spent appropriately
+and helps close this digital divide.
+You want to talk about rural? My district would stretch
+from the Atlantic to Ohio. It is 69,341 square miles. I have
+got places in my district where there is one person for every 9
+miles of power line. We live this gap every day, and we are
+trying to close it. And there are multiple ways to close it,
+but one of the best ways is to make sure that we can expedite
+the closure of that through reform siting, targeting the
+financial resources of ratepayers and the government,
+specifically to those areas that are underserved, and helping
+move this country forward to connectivity like we have never
+seen before.
+In 2012, we worked in bipartisan manner in this committee
+to free up spectrum. That is now being built out. We want to
+move forward with 5G development. Oh, by the way, we are not
+Venezuela where the government doesn't need to own, operate,
+control through a command structure that kind of a network.
+Now, there may be security issues, and I imagine there are,
+and we all ought to be apprised of, and I have asked for a
+briefing, either classified or non, to figure out what those
+issues are. We want to be smart about having a secure network
+for the newest innovation. But I don't know that having the
+government run it is necessarily the best way to go. So we are
+looking at those issues, too.
+This is an exciting time for America. We want to be in the
+lead. We don't want to wait. We can do a hearing every week for
+25 weeks and then move forward, or we can do one hearing with
+25 bills, figure out our ideas among ourselves, come together
+as a committee in a bipartisan way, deal with making America,
+again, clear on the forefront on development of connectivity,
+wired and wireless, and the newest innovation and technology,
+much like we are trying to do with autonomous vehicles. I look
+at my friend and colleague from Ohio with the Self-Drive Act.
+We have a lot before us. Let's get it done.
+With that, Madam Chair, I yield back.
+Mrs. Blackburn. The gentleman yields back. Is there any
+other member requesting his time? Not seeing anyone----
+Mr. Welch. Madam Chair?
+Mrs. Blackburn [continuing]. I will--yes.
+Mr. Welch. I just have a request to--the letter that was
+signed, sent to the President asking for funds can be submitted
+into the record.
+Mrs. Blackburn. Without objection.
+Mr. Welch. Thank you.
+[The information appears at the conclusion of the hearing.]
+Mrs. Blackburn. Yes. Mr. Pallone, at this time, I yield you
+5 minutes.
+OPENING STATEMENT OF HON. FRANK PALLONE, JR., A REPRESENTATIVE
+IN CONGRESS FROM THE STATE OF NEW JERSEY
+Mr. Pallone. Thank you, Madam Chair. One year ago,
+President Trump promised us $1 trillion infrastructure package
+that would bring Democrats and Republicans together. And for
+our part, in May of last year, committee Democrats introduced a
+comprehensive infrastructure package across all areas of this
+committee's jurisdiction. Yet here we are, hours from the State
+of the Union without serious legislation from the President,
+and instead, we have proposals from House Republicans, that
+mostly conflict with the plan that was just leaked out of the
+White House.
+In stark contrast, committee Democrats developed a
+legislative proposal to build the type of modern resilient
+infrastructure Americans need and deserve. At a time when our
+Nation's infrastructure is either crumbling or in desperate
+need of modernization, it is time we make real and significant
+investments for the future.
+The LIFT America Act authorizes $40 billion for the
+deployment of secure and resilient broadband. It would also
+provide over $22 billion for drinking water infrastructure;
+over $17 billion for modern; efficient and resilient energy
+infrastructure; over $3 billion for health care infrastructure;
+and almost $3 billion for brownfields redevelopment. And the
+LIFT America Act puts real dollars where they are needed:
+creating jobs, revitalizing communities, and addressing serious
+threats to human health and environment. It would address lead
+in school drinking water, fund medical facilities in Indian
+country, reduce carbon emissions, and improve our resilience to
+the impacts of climate change. And it would do all that without
+rolling back environmental safeguards, as we are now hearing is
+a majority component of the President's plan. And when it comes
+to broadband, we have also put forward additional thoughtful
+proposals building on the strong foundations of the LIFT
+America Act. Our bills would ensure we are investing in our
+infrastructure efficiently, basing our decision on good data
+and reaching urban, rural, and tribal lands.
+Over the last couple of weeks, we have seen bipartisan and
+bicameral agreement that we need dedicated funding to improve
+access to broadband nationwide. Yet despite this rare
+consensus, Republicans on this committee have decided to unveil
+a series of partisan bills that don't address the real
+problems. These bills are simply window dressing. They
+unnecessarily pit urban versus rural, industry versus local
+government, and broadband access versus our environment. And
+the Republican proposals will not improve broadband
+development, and may, indeed, hurt workers and the economy in
+parts of the country.
+So I appreciate Republicans scheduling a hearing on
+broadband deployment and including some Democratic proposals,
+but I am concerned that the majority is simply trying to jam
+too much into this one hearing. Seven witnesses discussing 25
+bills will not help the American public understand these
+proposals, let alone the members of this committee.
+What is more, we do not even have the relevant agencies
+here to help us understand how they will interpret the often-
+conflicting directions that are included in the Republican
+bills. And we are now a little over a year into this
+administration, and all Washington Republicans have to show the
+American people, in this subcommittee's purview, are a check-
+the-box hearing to design to paper over this Republicans'
+failure on infrastructure, the erosion of our privacy rights,
+and the elimination of net neutrality. And when it comes to
+governing, this subcommittee, in my opinion, is falling short.
+And with that, I yield the balance of my time to Mr. Ruiz.
+[The prepared statement of Mr. Pallone follows:]
+Prepared statement of Hon. Frank Pallone, Jr.
+One year ago, President Trump promised us a trillion dollar
+infrastructure package that would bring Democrats and
+Republicans together. And for our part, in May of last year
+Committee Democrats introduced a comprehensive infrastructure
+package across all areas of this Committee's jurisdiction. Yet,
+here we are, hours from the State of the Union, without serious
+legislation from the President. All we have are some back of
+the napkin proposals from House Republicans that completely
+conflict with the plan just leaked out of the White House.
+In stark contrast, Committee Democrats developed a
+legislative proposal to build the type of modern, resilient
+infrastructure Americans need and deserve. At a time when our
+nation's infrastructure is either crumbling or in desperate
+need of modernization, it's time we make real and significant
+investments for the future.
+The LIFT America Act authorizes $40 billion for the
+deployment of secure and resilient broadband. It would also
+provide over $22 billion for drinking water infrastructure,
+over $17 billion for modern, efficient, and resilient energy
+infrastructure, over $3 billion for healthcare infrastructure,
+and almost $3 billion for brownfields redevelopment.
+The LIFT America Act puts real dollars where they are
+needed, creating jobs, revitalizing communities, and addressing
+serious threats to human health and the environment. It would
+address lead in school drinking water, fund medical facilities
+in Indian Country, reduce carbon emissions, and improve our
+resilience to the impacts of climate change. And it would do
+all that without rolling back environmental safeguards as we
+are now hearing is a major component of the President's plan.
+When it comes to broadband, we have also put forward
+additional, thoughtful proposals, building on the strong
+foundation of the LIFT America Act. Our bills would ensure
+we're investing in our infrastructure efficiently, basing our
+decision on good data, and reaching urban, rural, and tribal
+lands.
+Over the last couple of weeks, we have seen bipartisan and
+bicameral agreement that we need dedicated funding to improve
+access to broadband nationwide. Yet, despite this rare
+consensus, Republicans on this Committee have decided to unveil
+a series of partisan bills that don't address the real
+problems. But these bills are worse than simply window
+dressing. They turn bipartisan agreements on their head,
+unnecessarily pitting urban versus rural, industry versus local
+governments, and broadband access versus our environment. The
+Republican proposals will not improve broadband deployment, but
+will hurt workers and the economy.
+I appreciate Republicans scheduling a hearing on broadband
+deployment and including some Democratic proposals, but I'm
+concerned that the Majority is simply trying to jam too much
+into this one hearing. Seven witnesses discussing 25 bills will
+not help the American public understand these proposals, let
+alone the members of this Committee. What's more, we do not
+even have the relevant agencies here to help us understand how
+they will interpret the often conflicting directions included
+in the Republican bills.
+We are now a little over year into this Administration, and
+all Washington Republicans have to show the American people in
+this Subcommittee's purview are a check-the-box hearing
+designed to paper over the Republicans' failure on
+infrastructure; their erosion of our privacy rights; and their
+elimination of net neutrality. When it comes to governing, this
+Subcommittee is falling short.
+Thank you.
+Mr. Ruiz. Thank you. In today's digital age, access to high
+speed internet is simply essential. That is why we must do more
+to bridge the digital divide. Today, the committee is finally
+beginning to advance the bipartisan commonsense solutions that
+we were sent here to find. For example, the bipartisan Rural
+Wireless Access Act introduced by Mr. Loebsack, would help the
+FCC provide targeted Federal assistance to deploy wireless
+service in rural areas with the worst coverage.
+In my bill, H.R. 1581, the Tribal Digital Access Act would
+help close the digital divide in Indian country by codifying
+and reinforcing the importance of the FCC Universal Service
+Fund programs that serve tribal communities.
+Tribal lands are the most underserved regions in our Nation
+in terms of broadband access. We have a responsibility to honor
+our legal and moral obligations, and this commonsense bill
+helps do just that. I urge the committee to move these bills as
+quickly as possible along with other bipartisan solutions
+before us here today.
+And I yield back my time to Mr. Pallone.
+Mr. Pallone. And I yield back, Madam Chair.
+Mrs. Blackburn. The gentleman yields back, and this
+concludes our member opening statements.
+I would like to remind all the members that, pursuant to
+the committee rules, you all have your statements that can be
+made a part of the record. And we want to thank our witnesses
+for being here today and for taking their time to testify
+before the subcommittee.
+Today's witnesses will have the opportunity to give opening
+statements, followed by a round of questions from the members.
+Our panel for today's hearing will include Mr. Jonathan
+Spalter, President and CEO of USTelecom; Mr. Brad Gillen,
+Executive VP of CTIA; Mr. Matt Polka, President and CEO of the
+American Cable Association; Ms. Shirley Bloomfield, CEO of the
+NTCA--the Rural Broadband Association; Mr. Scott Slesinger, the
+Legislative Director of the Natural Resources Defense Council;
+Ms. Joanne Hovis, President of CTC Technology and Energy; and
+Ms. Elin Swanson Katz, the Connecticut Consumer Counsel.
+We appreciate each of you for being here today and for
+preparing for this committee, submitting your testimony. Today,
+we will begin with you, Mr. Spalter, for 5 minutes, and we will
+work right through the dais. You are recognized.
+STATEMENTS OF JONATHAN SPALTER, PRESIDENT AND CEO, USTELECOM;
+BRAD GILLEN, EXECUTIVE VICE PRESIDENT, CTIA; MATTHEW M. POLKA,
+PRESIDENT AND CEO, AMERICAN CABLE ASSOCIATION; SHIRLEY
+BLOOMFIELD, CEO, NTCATHE RURAL BROADBAND ASSOCIATION; SCOTT
+SLESINGER, LEGISLATIVE DIRECTOR, NATURAL RESOURCES DEFENSE
+COUNCIL; JOANNE S. HOVIS, PRESIDENT, CTC TECHNOLOGY AND ENERGY;
+AND ELIN SWANSON KATZ, CONSUMER COUNSEL, CONNECTICUT CONSUMER
+COUNSEL
+STATEMENT OF JONATHAN SPALTER
+Mr. Spalter. Thank you. Chairwoman Blackburn, Ranking
+Member Doyle, and other distinguished members of the
+subcommittee, thank you for the opportunity to appear before
+you. I am Jonathan Spalter, President and CEO of USTelecom,
+representing our Nation's broadband providers, large and small,
+urban and rural, and everything in between. All of our members
+are deeply committed to and are on the front lines of the
+massive effort underway to connect all Americans to the
+opportunities and possibilities of broadband. So we greatly
+appreciate this subcommittee's leadership and the growing
+momentum we are seeing throughout Congress on both sides of the
+aisle to aid this effort.
+In a few short hours, we know the President will deliver
+his State of the Union address, and according to the pundits,
+topics that draw consensus will probably be few and far
+between. But infrastructure is one of those rare issues with a
+powerful centrifugal force pulling us all together. From the
+administration's statements and actions to Senator's Schumer's
+blueprint to the 25 bills now making their way through this
+committee, Washington has caught up to the connected times, and
+not a moment too soon, acknowledging the pivotal role of
+information infrastructure, the 1s and 0s of broadband networks
+to our Nation.
+Since the earliest days of our internet as we sought to
+rise above the honk and screech of dial-up service, expanding
+and upgrading the Nation's broadband networks has largely been
+a private sector endeavor. America's broadband providers have
+invested, as Vice Chairman Lance and as Chairman Walden
+mentioned, more than $1.5 trillion over the last two decades,
+building out U.S. digital infrastructure, and that is more than
+our Nation spent in public dollars to put a man on the moon,
+and to build out our interstate highway system combined.
+So why must we continue to commit public funds to the
+cause? Because we risk leaving millions of U.S. households and
+citizens behind if we do not. We know the private investment
+model works well in reasonably populous areas, but the business
+case breaks down when the average $27,000 per mile of LAN
+fiber, not to mention the network upgrades and maintenance
+costs associated with it that are constantly required, must be
+spread across a handful of users.
+Broadband companies, USTelecom members, want to connect
+everyone from our most populated urban areas to the most remote
+rural communities in our Nation, but they need a committed
+partner in these final unserved, high-cost areas. And that
+partner should be all of us, including government.
+So what specifically does that mean? First, new and direct
+public funding is needed to supplement private investment in
+connecting the final frontier. Second, care must be taken to
+ensure broadband funding is not merely an option on a vast
+spending menu, but has its own specific allocation. A position
+now being championed by the bipartisan cochairs of the rural
+broadband caucus. And thank you very much for that. Third,
+public dollars should prioritize connecting unserved areas
+using proven mechanisms, chief among them, universal service
+fund, to move quickly and with accountability while minimizing
+administrative costs to U.S. taxpayers. Fourth, connectivity
+also should be factored into physical infrastructure projects.
+Adding more of our bridges and roads to broadband connectivity
+makes them smarter, safer, more cost effective, and extends
+their useful life. Last, a stable streamlined regulatory
+environment can accelerate and extend the impact of both public
+and private dollars.
+Earlier this month, the President signed an executive order
+to expedite Federal permitting so broadband companies can build
+infrastructure in rural areas faster. Continuing these efforts
+reduces deployment costs, stretching limited resources further.
+When it comes to broadband, this grand aspiration of a truly
+connected nation truly is within striking distance. Working
+together, we have the means and the opportunity to relegate
+this challenge to the history books. All that remains is a
+question of will.
+For that reason, I really greatly appreciate the
+subcommittee's interest today and your ongoing leadership. The
+Nation's broadband provider stands ready to link arms with the
+Nation's policy leaders and anyone else who wants to help step
+up to finish the job. Thank you very much.
+[The prepared statement of Mr. Spalter follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Mrs. Blackburn. The gentleman yields back. Mr. Gillen, 5
+minutes.
+STATEMENT OF BRAD GILLEN
+Mr. Gillen. Good morning. Thank you, Chairman Blackburn,
+Ranking Member Doyle, and the subcommittee for including
+wireless as part of this conversation.
+The sheer number of bills and proposals before us
+underscores the scope of the challenges we face together, as
+well as the opportunities we have working together to solve
+them. For us, we really see the infrastructure as the
+opportunity to create jobs, drive economic growth and expand
+opportunities for all Americans for better broadband to more
+Americans.
+The subcommittee has really two core challenges before you.
+The first is the digital divide. From Vermont to eastern
+Oregon, there are too many Americans today, despite billions
+invested and years of work that do not have access to the wired
+and wireless broadband solutions that all of us rely on every
+day. We look forward to working with this subcommittee to
+shrink and address that gap and drive both wired and wireless
+broadband deeper in America.
+Our second challenge is one of global competitiveness. We
+lead the world today in 4G wireless services. Just last month,
+the International Standards body set the rules for the 5th
+generation of wireless, or 5G, and the race is now on. Other
+countries have seen what leadership has meant here, and they
+want to take that a mantle from us. China and others are
+investing billions and accelerating their deployment schedules
+with over 100 active trials ongoing today.
+In the U.S., we like to win, too, and we are ready to
+invest as well. We have our own trials ongoing. We are
+investing in the technology we think we are going to need to
+win, and ultimately, we are ready to invest approximately $275
+billion in private capital over the next 10 years to build out
+those networks.
+So we don't need Federal funding from this committee to
+solve the 5G problem. We do need help to modernize our approach
+to siting. Because these networks will be different because we
+are going to build them with these, small cells, hundreds of
+thousands of these attached to street lights and to sides of
+buildings. And the challenge we face today is that too often, a
+device that takes 1 to 2 hours to install can take 1 to 2 years
+to get approved.
+The challenge we face is that because at every level of
+government, local, state and Federal, we treat these like a
+275-foot tower along the side of a highway. In short, our new
+networks need new rules, and that is why we appreciate this
+committee's focus on this issue, particularly today, focusing
+on the Federal impediments we face. Representative Shimkus is
+focusing on how do we modernize our Federal regulation to
+expedite deployment of things like this and other new
+infrastructure. Congresswoman Brooks and Representative Matsui,
+how do we marshal Federal assets to drive broadband deeper into
+rural America by better utilizing Federal lands.
+The other thing for this committee, we would hope for in
+future sessions to talk about, is this committee's leadership
+and role with respect to state and local siting as well. It is
+the committee's leadership in 1992, 1996, and most recently in
+2012, to give guardrails and guidance to local communities as
+to how siting can and should work to ensure we have deployment
+of wireless and broadband. And just like Federal rules need to
+be updated, so does that Federal guidance. And when we get
+those rules right, 5G will be transformative to all of your
+communities. It will unlock remote surgery, self-driving cars,
+and the Internet of Things. It is going to create jobs. It is
+going to create 2800 jobs in downtown Pittsburgh, 3 million
+across the country. It is going to build communities.
+Clarksville, Tennessee will see over $200 million added to
+its economy, $500 billion nationwide. That is why we are
+excited about winning the 5G race. That is why we think it is
+so important. And we also need to make sure in doing that, we
+also make sure that all Americans have access to broadband at
+the same time. So we think with bold bipartisan leadership by
+this Congress, this committee, we can and need to do both.
+Thank you, Mr. Chairman.
+[The prepared statement of Mr. Gillen follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Mrs. Blackburn. Thank you so much. At this time, Mr. Polka,
+5 minutes.
+STATEMENT OF MATTHEW M. POLKA
+Mr. Polka. Thank you, Chairman. As you know, for the last
+year, ACA and its members have been discussing with members on
+both sides of the aisle, the administration, and the FCC, about
+how to effectively and efficiently close the digital divide.
+ACA appreciates and supports the subcommittee's commitment to
+bring broadband to all Americans.
+Over the past decade, because of many hundreds of billions
+of dollars of private investment by ACA members and others, and
+the FCC's reforms to its universal service programs, we are
+closing in on this goal. Today, more than 100 million homes
+have access to broadband speeds greater than 100 megabits per
+second. And only 5.3 million remain with speeds less than 10
+megabits. Not only have ACA members been investing billions to
+upgrade and expand their networks, but also many with their own
+money have deployed 840 thousand homes that would otherwise be
+eligible for FCC's support.
+We should recognize and build upon those successes. We
+know, however, there was much more to do, but from my travels
+visiting with ACA members across the country, I can tell you
+that ACA members are committed to serving the Nation's most
+challenging corners. They believe we can close the digital
+divide, and they believe we can keep it shut by following four
+principles: First, encourage private investment; second, remove
+barriers to deployment; third, before spending Federal funds,
+let us take account of successes; fourth, provide broadband
+subsidies efficiently.
+Let me expand. First, let us encourage private investment.
+Fixed and mobile broadband providers today are spending $75
+billion annually to upgrade and expand broadband networks. This
+will continue for the foreseeable future, and should be
+encouraged by avoiding governmental action that would hinder
+these investments. For example, it would not be helpful if
+government funds were used to overbuild unsubsidized providers
+or measures were adopted that were not competitively and
+technologically neutral favoring one class of providers or an
+industry sector over others. Second, let us remove barriers to
+deployment. Building high-performance broadband networks is
+costly, and you will get the most bang without spending a buck
+by lowering those costs.
+Here are some steps to take: Facilitate access to utility
+poles by removing impediments, such as fixing the make-ready
+process; apply the Federal Pole Attachment Law to electric
+cooperatives, and require cost-based nondiscriminatory rights-
+of-ways fees, and prohibit charging such fees on a per service
+basis; third, don't neglect successes before determining where
+to spend Federal money and how much is needed. ACA calculates
+that by removing barriers, the cost of network deployment will
+be reduced such that 1.2 million homes would become served with
+fiber infrastructure through private investment alone.
+Moreover, we believe that the new tax law will enable more than
+400,000 unserved homes being served. Finally, the Connect
+America Programs will reduce the number of homes receiving less
+than 10 megabits to 2 million by 2020. Fourth, let us provide
+broadband subsidies efficiently. Through its Connect America
+Programs, the FCC has given us an effective roadmap for
+awarding government support more efficiently by targeting
+support only to unserved areas and awarding support using a
+reverse option.
+With any new money, let us employ these two principles and
+also limit the amount of Federal support to account for state
+subsidies unless any additional broadband performance is
+required.
+The four principles that I set forth will maximize consumer
+welfare, increase economic growth, make communities throughout
+the country thrive, and it will enable you to bridge the
+digital divide sooner and with more sustainable results.
+ACA and its members stand ready to assist you in every way.
+Thank you.
+[The prepared statement of Mr. Polka follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Mrs. Blackburn. Ms. Bloomfield, you are recognized for 5
+minutes.
+STATEMENT OF SHIRLEY BLOOMFIELD
+Ms. Bloomfield. Thank you, Chairman Blackburn, Ranking
+Member Doyle, members of this committee, I can't tell you how
+excited we are that you are actually talking about this
+incredibly important topic of broadband and how we ensure all
+Americans actually have access. I am Shirley Bloomfield. I am
+the CEO of NTCA--The Rural Broadband Association, and we
+represent approximately 850 small businesses who are providing
+broadband across this country in 46 states.
+For decades, these small community-based telecommunications
+providers like my membership have really led the charge in
+terms of connecting rural Americans with the rest of the world
+by deploying advanced networks that respond to the need and the
+demand for cutting edge, innovative technology. These companies
+serve areas where the average density is about seven customers
+per square mile, and we actually have a rough density, as
+Chairman Walden had referenced that, but that is essentially in
+the entire average population density of the State of Montana.
+To emphasize the work that these hometown providers have
+done, a recent survey found that 87 percent of NTCA members'
+customers can actually purchase broadband at 10 megabits or
+higher, and 67 percent can access speeds above 25 megs. But the
+job is simply far from done. With the statistics I noted, they
+are good news, but unfortunately, they also still tell the
+story of a lot of rural consumers that need access. And the
+story is still bleaker for those who are not served by NTCA
+member companies.
+Finally, it is not as if the job is done once the network
+is actually built. There is a lot of ongoing work to ensure
+that quality service is still available in very rural areas. So
+the question remains, how do we overcome these challenges of
+deploying and sustaining rural broadband? In the first
+instance, you actually need a business case to even consider
+deploying rural broadband. Questions relating to permitting and
+regulation are very important, of course, but if you can't
+afford to build or sustain a network, these questions never
+even come into play. The economics of broadband are very
+difficult, if not impossible, in many rural markets. The rates
+that rural consumers actually pay is rarely sufficient to cover
+the actual cost of operating in these rural areas, much less
+the large capital expenditures required to deploy the
+broadband.
+I wish I had an easier answer for you but, frankly, the
+infrastructure is expensive and you simply have fewer consumers
+spread across to actually cover the costs. And that is why the
+ongoing support of the High Cost Universal Fund Program
+overseen by the FCC is so critical in making a business case
+for rural broadband.
+A bipartisan letter last year, led by many on this
+subcommittee, was signed by 101 Members of Congress in the
+House encouraging the FCC to ensure sufficient resources are
+available to enable the USF mechanisms to work as they are
+designed. This incredible show of support by Congress was
+greatly appreciated by NTCA and our members, and reaffirms the
+fact that the USF high-cost program is the foundation for rural
+broadband in America.
+If the foundation is strong, we can then focus on the next
+most significant challenge, and that is the barriers to
+deployment itself. And this is where the questions and the
+legislation presented in today's hearing become so very
+important, especially with the potential infrastructure package
+hopefully on the horizon, and Chairman Blackburn, I had the
+privilege of being with you in Tennessee when the President
+signed the memorandum and executive order on broadband. It is
+encouraging that the members of this committee are considering
+measures that are aimed at some of the very unique challenges
+presented by rural broadband.
+Many of your initiatives also mirror some of the work that
+was done on some of the FCC BDAC working groups that I had the
+privilege to serving on, addressing permitting reform, disaster
+relief, broadband mapping, and supporting innovation on a
+technology-neutral basis must be the central part of a
+coordinated and comprehensive effort to help address challenges
+across the broadband landscape.
+Smaller providers, like those in NTCA's membership, have
+neither the staff nor the resources to navigate complex Federal
+agency structures for companies and cooperatives who have an
+average of about 25 employees per system. That time and money
+that is spent on navigating the effort relates to money and
+time that is not spent on deploying broadband.
+This committee's desire to obtain better mapping data is
+also much needed and greatly appreciated. We need accurate,
+granular data. We need transparency on availability to ensure
+the government resources are used to support broadband build-
+outs that are deployed as efficiently as possible. And we also
+welcome the subcommittee's consideration of innovative ideas to
+support and enable broadband. Today's small rural broadband
+providers are using all communication technologies available to
+them to provide world class service to their members and to
+their customers.
+Just as we transition from telephone-focused to broadband-
+focused companies, we need flexibility and access to additional
+support and resources to deploy new technologies and address
+the remaining challenges.
+In closing, small rural broadband providers, like those in
+my membership, have made great strides in reducing the digital
+divide in rural America, but the job is far from done. With
+millions of rural Americans still without access to robust,
+high speed broadband and millions more served only through the
+help of the FCC's Universal Service Programs, we must continue
+to work diligently to ensure that no child is left behind
+without internet access for homework, no rural area is left
+behind without access to telehealth capabilities, no farmer is
+left without precision agriculture tools, and no main street
+business is prevented from participating in a global economy.
+On behalf of NTCA--The Rural Broadband Association, your
+leadership and your commitment to this issue in identifying
+these challenges and looking for creative solutions is so
+greatly appreciated.
+I appreciate the invitation to be here with you, and I am
+looking forward to engaging with all of you further.
+[The prepared statement of Ms. Bloomfield follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Mrs. Blackburn. The gentlelady yields back. Mr. Slesinger,
+you are recognized.
+STATEMENT OF SCOTT SLESINGER
+Mr. Slesinger. Thank you, Chairman Blackburn, and Mr.
+Doyle. Thank you for the opportunity to testify today. My name
+is Scott Slesinger. I am the legislative director of the
+Natural Resources Defense Council. I will concentrate my oral
+remarks on the impact of Federal environmental reviews on new
+infrastructures, including broadband.
+The poor state of our infrastructure is not because of
+Federal environmental reviews or permitting. Our problem is
+cash. The solution is a political will to appropriate the
+needed dollars.
+Numerous studies from GAO and CRS show that it is not
+Federal rules that are causing delays. The number one problem
+is lack of funding, followed by state and local laws, citizen
+opposition to projects, and zoning restrictions. Mr. Chairman,
+broadband deployment is not delayed by environmental impact
+statements. In fact, no broadband project was ever required to
+do one by the FCC. Drinking water projects suffer from a lack
+of financing, not environmental reviews. Scapegoating NEPA may
+be a cheap applause line, but we cannot streamline our way to
+universal broadband access, new tunnels under the Hudson, or
+bridges over the Ohio River, or new sewer systems.
+I would like the committee to appreciate why NEPA is so
+important. In many cases, NEPA gives your constituents their
+only opportunity to voice concerns about a Federal project's
+impact on their community. Because informed public engagement
+often produces ideas, information, and solutions that the
+government might otherwise overlook, NEPA leads to better
+outcomes for everyone. The NEPA processes save money, time,
+lives, historic sites, endangered species, and public lands,
+while encouraging compromise and resulting in better projects
+with more public support. Most recommendations to cripple the
+process try to limit public notice and comments and are
+undemocratic.
+The first time a rancher learns of a pipeline going through
+his property shouldn't be when an attorney shows up at his door
+with an offer to purchase under threat of taking the property
+by eminent domain. Because many congressional committees have
+tried to assert jurisdiction over NEPA, there has been numerous
+and contradictory changes in the NEPA process made by Congress
+in 2005, 2012, and 2015.
+Various provisions have shortened public comment periods,
+changed the statute of limitations to four different time
+periods, limited access to courts, and set up arbitrary
+deadlines for permit approvals.
+DOT can now find other agencies that miss deadlines, a
+provision that makes as much sense as debtor's prison. The FAST
+Act, based in large part by the Rapid Act promoted by Mr.
+Shimkus, was passed in 2015, made dramatic changes in the
+process. The law created a new interagency administrative
+apparatus called the Federal Infrastructure Permitting
+Improvement Steering Council, which is largely controlled by
+OMB, to set deadlines, push through resolution of interagency
+disputes, and allocate funds and personal resources to support
+the overall decisionmaking process.
+President Trump's first infrastructure permitting executive
+order--as the chief sponsor, Senator Portman wrote in a letter
+to the President--contradicted authorities and responsibilities
+already in FAST-41 to the consternation of project sponsors
+that were already participating in the permitting board's
+existing process, and this slowed projects. Even the business
+roundtable has said that we should be looking at existing law,
+not layer on new laws to the NEPA process.
+Despite enactment of these laws, the Congress has many
+bills go to the House floor that would further amend the NEPA
+process without regard for their impact on process changes
+already made. Rather than simplifying current processes, these
+bills would create new conflicts, sow confusion and delay
+project reviews. The recent draft infrastructure proposal from
+the White House should not be taken seriously. The leaked
+provisions would repeal critical clean air, clean water, and
+endangered species protections. It would also set up a process
+guaranteed to neuter public input into Federal actions, such as
+giving agency heads free rein to virtually exempt any project
+from NEPA free from court challenge.
+To fix our infrastructure, we don't need to give the
+Interior Secretary carte blanche to build pipelines through
+every National Park. We do need NEPA to help build a modern
+infrastructure system that is resilient, energy-efficient, and
+takes into account the impacts of a changing climate in the
+needs of the 21st century. We can do this smarter and better by
+using, not crippling, the environmental review process.
+Thank you for the opportunity to testify, NRDC looks
+forward to working with the committee on bold and effective
+solutions to our Nation's infrastructure challenges. Thank you.
+[The prepared statement of Mr. Slesinger follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[Mr. Slesinger's full statement can be found at: https://
+docs.house.gov/meetings/if/if16/20180130/106810/hhrg-115-if16-
+wstate-slesingers-20180130-u5050.pdf.]
+Mrs. Blackburn. The gentleman yields back.
+Ms. Hovis, 5 minutes.
+STATEMENT OF JOANNE S. HOVIS
+Ms. Hovis. Chairman Blackburn, Ranking Member Doyle,
+members of the subcommittee, thank you for your commitment to
+bridging the digital divide. I am Joanne Hovis. I am President
+of CTC Technology and Energy, a communications engineering and
+planning consultancy. I am also CEO of the Coalition for Local
+Internet Choice, a coalition of public and private entities
+that believe solving our Nation's broadband challenges requires
+a full range of options, including locally-driven efforts and
+public-private collaboration.
+As we look forward to Super Bowl Sunday, I suggest today
+that our country's drive to bridge the digital divide is a
+critical test of our ability to develop a winning strategy on
+one of the most important playing fields of the 21st century.
+Let me ask a couple questions in this regard. First, do we
+actually have a winning strategy?
+Much of the current discussion here in Washington seems
+premised on the idea that a winning broadband strategy will
+smash so-called barriers such as environmental processes, local
+process, and cost of access to public facilities. In my
+experience, the premise is wrong. As multiple members of this
+panel have said, the fundamental reason we do not seek
+comprehensive broadband deployment throughout the United States
+is that areas with high infrastructure costs per user,
+particularly rural areas, fail to attract private capital. To
+solve this, all levels of government can take steps to improve
+the economics of broadband deployment in areas where investment
+has been insufficient. These include not only rural
+communities, but also underserved urban areas, such as small
+business locations in cities and suburbs, and low-income areas
+where adoption is low and incumbents see no return that
+justifies network upgrades. Particular attention and support
+must be directed to those areas. Without such efforts, private
+dollars will continue to flow primarily to the most profitable
+areas.
+A focused game plan would involve these plays. First,
+support public-private partnerships that ease the economic
+challenges in constructing rural, urban, and tribal
+infrastructure; second, incent local efforts to build
+communications infrastructure, infrastructure that private
+internet service providers can use by making bonding and other
+financing strategies more feasible, potentially through reduced
+interest payments or expanded use of tax exempt bonds or
+expansion of the new market tax credit programs; empower local
+governments to pursue broadband solutions of all types,
+including use of public assets to attract and shape private
+investment patterns so as to leverage taxpayer-funded property
+and to create competitive dynamics that attract incumbent
+investment; require all entities that benefit from public
+subsidy, including assets to publics assets, to make
+enforceable commitments to build in areas that are historically
+unserved or underserved; and maximize the benefits of
+competition by requiring that all Federal subsidy programs are
+offered on a competitive and neutral basis for bid by any
+qualified entity.
+The current strategy doesn't squarely face the challenge.
+Many current efforts at the FCC and in this body are focused on
+reducing the private sector's cost of doing business, such as
+by blanket removal of local process and by forcing local
+communities to subsidize carrier access to public property. All
+of this simply makes more profitable the already profitable
+areas of the country rather than changing the economics of
+broadband deployment in areas where there is no return on
+investment.
+And if these strategies are premised on the idea that
+removing so-called barriers will lead to rural deployment of
+5G, it is critical to know that no credible engineer, market
+analyst, or investor, is claiming that 5G deployment is planned
+or technically appropriate for rural areas. This is because 5G
+is a wireless technology for very fast communications over very
+short distances and is, thus, not well-suited to low density
+areas.
+If the goal is to attract private capital to rural
+communities, making wireless deployment more profitable and
+high-return metropolitan markets is exactly the wrong way to do
+it. Rather, this approach is like moving the ball a few inches
+and calling it a touchdown.
+My second question is, do we have the right players on the
+field? Let me suggest that local governments have been most
+valuable players in creating and incenting broadband deployment
+for years, and that it is counterproductive to vilify
+localities based on the evidence-free assertion that local
+efforts and local processes restrict or deter private
+investment. The assumption that the Federal Government is more
+motivated to enable deployment of broadband, ignores the
+immediacy of the digital divide for local officials. And the
+assumption that the Federal Government is more competent to
+develop strategies ignores the experience of the past decade,
+which demonstrates across a wide range of public-private
+collaborations that local governments, given the opportunity,
+will apply creativity, local resources, physical assets and
+diligence to try to solve broadband problems.
+My testimony includes examples of a wide range of different
+public-private collaborations that are in existence or in
+development in communities ranging from West Virginia to
+Wyoming to New York City, to the coastal cities on the West
+Coast.
+Let me say, finally, that preempting local efforts and
+authority is not a winning strategy, as it simply removes from
+the playing field one of the most important players.
+My thanks for your consideration.
+[The prepared statement of Ms. Hovis follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Mrs. Blackburn. The gentlelady yields back. Ms. Swanson
+Katz, you are recognized for 5 minutes.
+STATEMENT OF ELIN SWANSON KATZ
+Ms. Swanson Katz. Good morning, Chairman Blackburn, Ranking
+Member Doyle, and distinguished members of the committee. I am
+the consumer counsel from the State of Connecticut--go
+Patriots--you brought it up. I am head of a small, independent,
+nonpartisan state agency that advocates for consumers on issues
+relating to electricity, natural gas, water, and
+telecommunications.
+In that capacity, I serve as Governor Malloy's designee to
+the Intergovernmental Advisory Committee to the FCC, in which I
+serve as chairman. I am also President of the National
+Association of State Utility Consumer Advocates, an
+organization of 44 consumer advocates across the country,
+including the District of Columbia. And in that capacity, I
+serve on the FCC's Joint Board for Universal Service. So my
+interest in this and my time spent on this is deep.
+So I thank you for your interest and your attention to this
+important issue of the digital divide. As you know, there are,
+as we have heard, there are many, many Americans who--and
+particularly small businesses--that do not have access to
+broadband.
+According to Pew Research Center, that is about 25 percent
+of Americans do not have a broadband connection in their home.
+That number rises to an astonishing 39 percent in rural
+America. And there is approximately 5 million homes with
+school-aged children which are equal over 17 percent of those
+homes with school-aged children do not have a broadband
+connection. And it is particularly egregious in low income
+households.
+In Connecticut, we wanted to learn more about the digital
+divide, particularly as it impacts children. And you may be
+surprised by that, since Connecticut is generally seen as an
+affluent state with generally-sound broadband infrastructure.
+However, like every state, we have unserved and underserved
+communities. We, therefore, commissioned a report with the
+Hartford-based group called Strategic Outreach Services to
+assess the affordability of an accessibility of broadband for
+students in the north end of Hartford. That is a predominantly
+ethnic minority community with predominantly low income but,
+nonetheless, an area known for its community pride and
+commitment to its schools.
+And we worked in that partnership with Janice Flemming-
+Butler, who is the president of that organization, and founder.
+And I mention her, because she is in the room today, which is a
+testimony to her commitment. And for those of you who are
+interested, I urge you to talk with her.
+So we met in that capacity. We met with educators and
+parents and students. We met with church leaders. We met with
+neighborhood watch site organizations. We met with city
+leaders. We talked to literally hundreds of people in the North
+End of Hartford. And what we learned is that many students in
+the North End suffer from the Homework Gap, that area that we
+define as generally between 6:00 to 10:00 p.m. When students
+need access to connection to do their homework.
+And what we heard is that many students take extreme
+measures because they don't have a broadband access at home,
+either for affordable or because of access. And we heard
+stories that students would go to fast food restaurants to try
+to do their homework. And in fact, one of the local restaurants
+changed its policy so you could no longer sit there that long,
+seemingly in response.
+We also learned that students venture out at night into all
+kinds of weather trying to catch Wifi from other buildings.
+People were upset that the public schools shut down the Wi-Fi
+after hours, so students can sit nearby, although we learned
+they did it because of safety concerns.
+We heard from parents who recognized that broadband was
+important to their children, but simply found it unaffordable
+or unavailable at any price, or the back balances prevented
+renewals. We saw long lines of students queued up at the public
+libraries to use their computers, although when they closed at
+6:00, they had nowhere to go. And in fact, since we have done
+the reports, some of those branches have closed.
+There is also frustration expressed that policymakers saw a
+smart phone as a substitute, but that is not an adequate
+substitute. It is very expensive to do your homework on a smart
+phone, and it is very hard to type a paper. So there is simply
+not an adequate substitute.
+So what troubled me as a consumer advocate, as a former
+teacher, as a parent, and as a human being is that if it is
+happening in Connecticut, it is happening everywhere. And no
+child should have to sit in Dunkin' Donuts or McDonald's to do
+their homework, or sit outside in the dark trying to finish a
+project. And the implications for our education system and the
+quality of education that we deliver to children in low income
+urban communities, and rural communities, is profound.
+We would never say to students whose parents can't afford
+textbooks, I am sorry, you don't get to learn history, or math,
+or English. Or if you don't live near a library, I am sorry,
+you don't have access. But that is, in effect, what we are
+saying to these children, to the entire generations by failing
+to address the Homework Gap in so many areas.
+So my ask for you today is that you consider the urban
+communities as well as the rural communities. We are working
+with both in Connecticut. And it is not just this question of
+adoption. It is not just simply that they can't afford it, it
+is also a question of quality. And that makes a difference as
+well.
+So thank you very much.
+[The statement of Ms. Swanson Katz follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[Ms. Swanson Katz's full statement can be found at: https:/
+/docs.house.gov/meetings/if/if16/20180130/106810/hhrg-115-if16-
+wstate-swansonkatze-20180130-u5060.pdf.]
+Mrs. Blackburn. The gentlelady yields back. And Ms. Swanson
+Katz, would you please recognize your guest again?
+Ms. Swanson Katz. Yes, Ms. Janice Flemming-Butler.
+Mrs. Blackburn. Janice, would you please stand?
+Thank you for your good work.
+By way of correcting some statements that were made
+earlier, and for the information of those with us today, I
+wanted to reiterate the subcommittee hearing activities
+relative to infrastructure that have taken place.
+You had November 16th, a hearing on The Race to 5G; October
+25th, FCC Oversight Hearing; July 25th, we had the FCC
+Reauthorization Legislative hearing; June 21st, the hearing on
+Defining and Mapping Broadband Coverage; and actually, we had
+some on the committee that felt that one was redundant because
+we had already had a March 21st hearing. An April 5th, Fueling
+the Wireless Economy hearing; March 29th, Realizing Nationwide
+NG911; March 21st, hearing with the discussion draft, some of
+those bills were now in bill form; and Ms. Eshoo's Dig Once
+bill, which has bipartisan support was a part of that; and then
+February 2, Reauthorization of the NTIA.
+So it is time for us to stop talking and get bills in front
+of us and pass them and get to work. And I am going to yield
+first to Chairman Walden for questions.
+Mr. Walden. I thank the gentlelady for her leadership on
+these issues but also for yielding, as I have another
+commitment I have to go to.
+I just want to ask a couple of questions and, first of all,
+thank you all for your testimony and your shared commitment
+with us to get broadband out to all Americans: students,
+seniors, everybody in between.
+Mr. Slesinger, in your testimony, I was intrigued, on page
+3 you said, ``Broadband deployment is not delayed by
+environmental impact statements. In fact, no broadband project
+was ever required to do one by the Federal Communications
+Commission.''
+You are not really saying no broadband deployment project
+has ever been required to do an EIS, are you?
+Mr. Slesinger. That is correct. Many have had to do
+environmental assessments and some may have done----
+Mr. Walden. Yes. So----
+Mr. Slesinger. Excuse me. Of the 50,000 Federal activities
+a year, there is only about a couple hundred EISs, and none of
+the ones that we could find in the FCC has never required a
+full environmental impact statement.
+Mr. Walden. Yes. Reclaiming my time, because I think it is
+actually required through other agencies. Again, 55 percent of
+my district is Federal land, so I am somewhat familiar with
+this, and as I said, it is 69,341 square miles. By the way,
+Connecticut is about 5,544, not that we are counting. New
+Jersey, 8,722, Mr. Pallone.
+But the point is, I run into this all the time on siting.
+We are trying to get broadband out there. We are trying to get
+three-phase power into--some of our communities have waited 3
+years to get an EIS to do four power poles on BLM land, and so
+I think there is an issue here with siting. I just think there
+is more there than what you represent in your testimony.
+I want to go to Mr. Gillen. Thank you for your testimony as
+well. As you know, we have seen these situations with various
+Federal laws and State laws that have delayed. I know Mr.
+Shimkus will probably speak to this because it was in his
+district, I guess. 2016, a company was looking to expand by
+adding a 14-by-10-foot area of land adjacent to its existing
+facility in a parking lot. The study they were required to do
+took 5 months to complete and cost thousands of dollars.
+Have you or Mr. Polka or anybody else on the panel who
+actually does deployment, tell us about the things you have run
+into. Tell us what you like about these bills. You have
+referenced some in the testimony, but your member companies and
+all, what are you seeing? Is this a problem or isn't it?
+Because on one end of the panel we hear it is not a problem. On
+the other end we hear it is a problem. I sort of live in a
+district like mine firsthand. So, Mr. Gillen, do you want to
+start off?
+Mr. Gillen. Thank you, Mr. Chairman. Your example is a good
+one. It is something we face every day throughout the country.
+Carriers are running into challenges that, particularly when we
+start talking about things like this, that to install 23 of
+these in a parking lot costs $173,000 in environmental and
+historic reviews and takes many months. We don't think that
+makes any sense. There are times where it is appropriate to
+have those types of things----
+Mr. Walden. Right.
+Mr. Gillen [continuing]. But streamlining that
+Representative Shimkus and others are pursing is the type of
+things that will actually expedite deployment now.
+Mr. Walden. Could you say that again, that was in a parking
+lot?
+Mr. Gillen. In a parking lot at NRG Stadium for the Super
+Bowl last year.
+Mr. Walden. And it cost how much?
+Mr. Gillen. $173,000 to site 23 of these.
+Mr. Walden. Wow.
+Mr. Polka, do your folks ever run into any siting problems
+that we could address?
+Mr. Polka. Absolutely, Mr. Chairman. I have visited with
+members all across the country. Our members literally build
+into their budgets time and money because of how long it takes
+for attachments to poles to produce broadband to be approved
+and permitted and to move forward. Thousands and thousands of
+dollars where application fees are made for makeready, then
+additional engineering studies are made. Further requests for
+engineering studies, duplicating the process. The fact that a
+member company has to build in at least 6 months of time, at
+least, before they can move forward on a broadband deployment
+is actually causing broadband deployment not to be deployed in
+these most important areas.
+Mr. Walden. Ms. Bloomfield?
+Ms. Bloomfield. I would love to jump in on that as well.
+Just to cite a couple of examples, I have a company up in South
+Dakota that had a year-long delay because of needing to get
+some U.S. Forest Service permitting through. You are in South
+Dakota. Your build time is very short, as Congressman Cramer
+knows. You have got periods of time where you miss that
+opportunity.
+Mr. Walden. Right.
+Ms. Bloomfield. In Wyoming, we have had a state BLM office
+that actually wound up treating the broadband build like it was
+a pipeline. So they actually had to get bonding to go ahead and
+do the construction when it was really just a broadband
+conduit. So, absolutely, there are instances. And to my fellow
+panelist's point, time and money is needed to be built into the
+process.
+Mr. Walden. I know my time is about expired. I would argue,
+I am probably one of the few if only chairs of this committee
+that has ever actually been through a tower siting process and
+antenna siting process. I was in the radio business for 20-plus
+years. And while I never climbed a tower, I was involved in a
+lot of that. So I share your pain.
+And I don't think any of your companies want to do
+environmental damage. I think it is a complete false argument
+that somehow we are going to run roughshod over the
+environment. I reject that. That is not the point. The point is
+that we can streamline the discussion process, the siting
+process in the Federal Government that is an analog process in
+a digital environment.
+With that, Madam Chair, I yield back.
+Mrs. Blackburn. The gentleman yields back.
+Mr. Doyle, 5 minutes.
+Mr. Doyle. Thank you, Madam Chair.
+I want to start by recognizing a great Pittsburgher on the
+panel and great CEO of the American Cable Association, Matt
+Polka. Matt, welcome. I think Matt will agree with me, most of
+us from Pittsburgh rarely root for the Philadelphia Eagles, but
+when they are playing the New England Patriots, we are all
+Eagles fans. I hope they win.
+Mr. Polka. Don't forget the Steagles too, back in World War
+II.
+Mr. Doyle. That is right. Exactly.
+So, Mr. Gillen, I want to make sure I just understood. You
+were holding that box up and said you don't need any money from
+the Federal Government, just make it easier to streamline,
+deployment of that. And you are not suggesting that you are
+going to--your member companies would take care of the
+deployment in unserved areas in all of rural America or are you
+talking--are those little white boxes going to solve our
+problem in rural America if we just streamline the process?
+Mr. Gillen. We think there are two separate and important
+problems. This helps us drive 5G. It certainly will be in dense
+areas in cities and towns, but, no, it won't solve the problem
+for unserved----
+Mr. Doyle. OK. I just wanted to clarify that, that this is
+not a solution to rural broadband.
+And, secondly, are some of the impediments to deployment
+state and local issues or are they all Federal issues?
+Mr. Gillen. Absolutely it is a mix of both.
+Mr. Doyle. It is a mix of both. OK. Thank you.
+I want to ask Ms. Hovis, in areas that are unserved or
+underserved we see municipalities, either through public-
+private partnerships or even on their own, provide broadband to
+their communities. And in some cases when a municipality offers
+broadband as an alternative to an incumbent that may be there,
+we have seen the incumbent actually lower prices. It has been
+better for consumers. But we are also seeing a number of states
+are passing laws to prevent municipalities from providing
+broadband or engaging in a public-private partnership. What
+effect do you think these state laws are having on broadband
+deployment?
+Ms. Hovis. I think it is detrimental to deployment because,
+as I said earlier, it takes important players off the field,
+but it also stops a competitive dynamic from emerging. The
+cities and towns and communities where we have the most robust
+broadband and the most robust competition are places where some
+kind of competition has come into that market and incumbents
+have reacted to that competition and invest as a result.
+I will say also that for smaller and rural communities that
+are unserved and underserved, sometimes the only entity that is
+willing to step up and invest is a community either by itself
+or through a public-private partnership, and I hate to think
+that we here in Washington would try to interfere with local
+collaborations and processes when we are seeing, frankly, a
+thousand collaborative processes bloom around the country.
+Mr. Doyle. Thank you.
+Let me ask everyone on the panel, and this is just a yes-
+or-no question, does anyone here on the panel believe that we
+can successfully deploy unserved areas in rural America or
+underserved areas without some sort of Federal investment, that
+it can just be done through streamlining regulation and making
+deployment easy, which I think is important too and we should
+be doing that. But is there anyone here that thinks that we
+don't need to appropriate any money to solve this problem? Just
+yes or no.
+Mr. Spalter. No. We need direct funding by a universal
+service funding mechanism.
+Mr. Doyle. Thank you.
+Mr. Polka. Agreed.
+Mr. Doyle. Mr. Gillen.
+Mr. Gillen. Funding would be helpful on a technology-
+neutral basis.
+Mr. Doyle. So you agree that we need funding, though? I
+understand your technology.
+Mr. Gillen. Yes, absolutely. Sure.
+Ms. Bloomfield. Support is needed to make the business a
+case model in rural America.
+Mr. Doyle. Thank you.
+Mr. Slesinger. Yes, definitely needed.
+Mr. Doyle. Thank you.
+Ms. Hovis. I agree.
+Ms. Swanson Katz. Yes, I agree.
+Mrs. Blackburn. OK. And lastly, Mr. Gillen, we saw this
+memo that leaked out of the White House, the 5G memo that
+focused in detail on our network cyber vulnerabilities
+particularly when it comes to foreign actors and the proposal
+of nationalizing our wireless telecommunications
+infrastructure. I think many of us here on the committee on
+both sides of the aisle seems uninformed. I am concerned that
+the White House and the President have not fully addressed and
+rejected this very troubling proposal. We heard some of that
+today.
+That being said, the security of our Nation's broadband
+issue is critical. And at the beginning of his tenure, FCC
+Chairman Pai rolled back a number of Commission items related
+to cybersecurity, including a notice of inquiry specifically
+questioning how the FCC could best secure 5G networks. I am
+concerned that rolling back these measures is part of what has
+caused so much concern amongst members of the National Security
+Council.
+Mr. Gillen, I just want to ask you, do you think it is wise
+for the FCC to roll back cybersecurity initiatives such as this
+5G notice of inquiry? I mean, if the relevant Federal agency
+cannot merely ask questions about how best to secure 5G
+networks, how can we hope to address this problem?
+Mr. Gillen. Thank you, Congressman. It is a great question.
+Cybersecurity is critical to everything we do. If you don't
+have a safe and secure network, we are not serving the American
+people and we are not doing our jobs.
+With respect to the specific question you asked, we think
+that cybersecurity is best handled through a partnership with
+the Department of Homeland Security. They are the experts in
+those we work closely with. And I think the White House
+proposal, I think Chairman Walden and all five FCC
+commissioners have characterized it very well, so I won't say
+anything further about that right now. But in terms of the
+cybersecurity, that is something we work on every day and we do
+need a partnership with the Federal Government to make sure
+that we understand the threats, and a lot of what this
+community and other committees have focused on information
+sharing is critical to doing that.
+Mr. Doyle. Thank you. Thank you, Madam Chair.
+Mrs. Blackburn. The gentleman yields back.
+I will recognize myself for some questions, and I want to
+start with Mr. Spalter, Gillen, and Polka. You all talked a
+little bit about tax reform and how that would help with
+investment. And sometimes I think as we talk about the changes
+in regulatory relief and tax reform, people focus on big
+companies and not on the smaller companies. So if you would
+take just a moment and talk a little bit about how tax reform
+regulatory relief affects your companies in the deployment of
+broadband.
+Mr. Spalter. Thank you, Chairman. They affect our companies
+both large and small across the board. I had the opportunity
+recently to visit with some of our smaller companies in western
+New Mexico, western Wyoming, Alaska, and Montana. And to a
+company, each of them have been elated by the idea that they
+are going to be able to invest more in deploying more
+broadbands to unserved communities, invest more in research and
+development to be able to expand next generation networks, and
+also provide new incentives for their employees, even though
+they have not met many employees. This is a meaningful step
+forward and augurs well for the future of closing the digital
+divide.
+Mrs. Blackburn. Great.
+Mr. Gillen.
+Mr. Gillen. I agree with Mr. Spalter. In terms of the
+wireless industry, it means we have seen promises of new jobs,
+we have seen commitments to build out more networks and add
+capital expenditures, bring money back home. And really it does
+underscore the capital-intensive industries like wireless. This
+tax reform regulatory relief will make a real difference.
+Particularly for smaller carriers, a lot of the regulatory
+relief we are talking about--as my colleagues have said, they
+don't have the staff to manage these processes, so any types of
+streamlining or standardization helps them actually do their
+day jobs and serve consumers.
+Mr. Polka. Thank you. As I said in my testimony, let's take
+a count of the successes that exist. Our member companies
+certainly use private funds to deploy broadband, but the
+benefit of the recently passed tax act cannot be underestimated
+when you look at the investment that now our members as smaller
+internet service providers have to put back into their systems,
+which they are doing. I have heard from members all over the
+country who have said to me that the difference in the
+corporate tax rate will make more money available for the
+company to reinvest broadband serving now hundreds, thousands
+more homes that would otherwise be uneconomical to serve. So
+that has helped tremendously already to give a boost to smaller
+businesses, not to mention the deregulation that has already
+occurred.
+For smaller companies, regulations affect them
+disproportionately. They have fewer customers per mile over
+which to pass that cost of regulation. When the Federal
+Government takes into account that there was a difference
+between small and rural and big and urban and allows for those
+smaller companies to be able to deploy sensibly and take into
+account the burden of regulation, it makes a big difference on
+getting rural broadband out there faster.
+Mrs. Blackburn. Thank you all.
+And, Ms. Bloomfield, I want to come to you now. We spoke
+briefly about some of the good things in Tennessee. I know
+north central Tennessee spent like a quarter million dollars on
+historical reviews and $14 million in investment just to build
+out this. And Mr. Welch mentioned 39 percent of rural America
+is without broadband, and I think people lose sight of that,
+that there is just not that access there. And in Tennessee, we
+were talking about the first round of grants, almost $10
+million that has gone out, and we have got the Scott County
+Telephone Co-Op got $1.9 million. They are going to use that in
+Hawkins County. DTC Communications, $1.765 million to use in
+Smith and Wilson Counties, and Sunset Digital got $1.4 million
+to use in Claiborne and Hancock Counties to expand that
+footprint and to bring more people online, and that type
+investment we want to see.
+At the Federal level, of course, we have got $4.53 billion
+that is there in the USF that is going to be over 10 years to
+expand this service, and $2 billion for rural broadband
+deployment that should come from the competitive reverse
+auction.
+So I want you to talk just a little bit on specifics of how
+this serves to get more people online.
+Ms. Bloomfield. So, Chairman, I think you raise a really
+important concept, and that is coordination. How can we ensure
+that what is going on at the Federal level coordinates with
+what can happen on the state level? And I think that is where
+some of the things the committee is looking at, like accurate
+mapping and making sure we know where the underserved and
+unserved areas are, so that we can focus those limited
+resources, whether they are universal service dollars. And we
+are pleased that the FCC is currently circulating an order that
+looks to restore some of the funding that had been subject to
+the budget mechanism, which will go a long way in terms of
+giving folks regulatory certainty. How do they know that they
+have got the resources to actually deploy? And you combine that
+with some State initiatives.
+What Tennessee has done is really interesting. Minnesota
+has done something similar. Wisconsin has done something
+similar. How do you actually take all of these different pieces
+so that we can thoughtfully, as a country, build out to those
+consumers that actually have not had the opportunity to have
+access. CAFTA is going to be really important. We look at those
+areas, when that auction comes up, as an opportunity for my
+companies to potentially edge out into communities that are
+unserved that are neighboring their areas where they may have
+an opportunity to bring robust broadband like they have to
+their own incumbent areas out to those who are waiting for
+service. So we are hopeful that those rules will be helpful.
+Mrs. Blackburn. Thank you.
+At this time I yield Mr. Welch 5 minutes.
+Mr. Welch. Thank you very much.
+I want to talk about two things. One is a bipartisan bill
+that I have with Mr. McKinley, and then second is this question
+of the rural broadband buildout. And by the way, thank you all
+for what I thought was very, very good testimony.
+Mr. McKinley and I have a bill that would require the FCC
+to define, on an ongoing basis, what is reasonably comparable
+service and reasonably comparable prices in rural and urban
+America. And we have seen, from my perspective, an alarming
+approach by the current FCC chair that is essentially dumbing
+down, as I see it, with successes in rural America.
+Ms. Bloomfield, could you just respond to your view about
+the value of having the FCC, on an ongoing basis, give a
+concrete and scientific answer to the question of reasonably
+comparable in rural versus urban areas? Would that be helpful?
+Ms. Bloomfield. As I mentioned in the statistics that we
+have in terms of the number of my carriers and what the
+capacity is, I think we do have to figure out how you ensure
+that particular consumers' demands increase. The bandwidth
+demands that people are looking for grows exponentially. So how
+do we make sure that you are not creating two different
+services between rural and urban America, and how do you make
+sure there is comparability there?
+Part of the issue that continues to be the underlying
+problem, however, is the high cost of deploying that network.
+So, for example, when you look at something like the ability of
+a rural provider to do standalone broadband for the consumer
+who simply wants the ability to access broadband, they may not
+want the telephone service, they may not want some of the other
+things that come with it. Right now, based on support--sorry.
+It is going to be very important, but it is going to take
+resources and it is going to take support from things like
+universal service.
+Mr. Welch. Thank you.
+Now, Mr. Doyle asked the question that everyone said
+affirmatively we do need Federal funding, and I want to go back
+to that, because I have heard a lot about regulatory reform and
+I have heard a lot of good ideas. That makes sense to me. I
+have heard a lot, by the way, that the local efforts are very
+important, so what we do should enhance them, not diminish
+them. But bottom line, there has got to be money just like
+there was with rural electrification.
+And, Mr. Gillen, in your written testimony, as I read it,
+you didn't believe there was a need for Federal funding to
+deploy 5G. So if that is the case, would your folks be able to
+commit that you will be deploying 5G services at the same speed
+and pace in rural America as in urban America?
+Mr. Gillen. 5G will start in dense areas throughout the
+country. A rural town in Burlington, Vermont, will see it.
+University of Vermont will see 5G. It really is to start dense.
+When you talk about reaching the unserved households, you are
+going to need money.
+Mr. Welch. That is obvious, right? I mean, you go where the
+market is. And there is no expectation, on my part, that anyone
+who has shareholders and has some obligations to the
+shareholders would do anything different. There is a
+fundamental policy question that only Congress can answer. Are
+we going to show us the money in rural America.
+So there is a bill that Mr. Pallone has that is based on a
+study that the FCC did saying that we really need $40 billion.
+And Mr. Walden raised questions about spending that wisely, and
+we want to do that, make sure it is done right. But of the
+panelists here, does that FCC figure, $40 billion for this
+buildout for reasonably comparable service in rural America,
+sound like a good number to you? I will start with you
+Jonathan, Mr. Spalter.
+Mr. Spalter. Congressman Welch, there are numbers of
+studies that have indicated that more monies are needed for
+reaching ubiquitous access for Americans, a goal that we all
+share. Not necessarily agreeing with one or another set of
+numbers, what we all agree to is that we do need direct funding
+where there is no business case to deploy high-speed broadband,
+especially in unserved areas, and using universal service fund
+as the platform for doing so we know is most efficient and most
+administratively logical.
+Mr. Welch. And even assuming we do the things that have
+been recommended with regulatory reform and local partnerships,
+the number that we are going to have to spend is in the
+billions of dollars. Does anyone disagree with that?
+Mr. Spalter. No.
+Mr. Welch. Ms. Hovis?
+Ms. Hovis. I do agree. Unfortunately, it is far more costly
+to build in rural areas on a per-user basis. It gets more and
+more costly with lower density, and not just for capital costs,
+but also for operating costs, and that is the fundamental
+challenge that we face. But directing the funding there and
+making sure that the funding is well suited to the needs there,
+and the needs are the same in rural America as in urban and
+suburban America. We all need high speed. We need scalable
+networks that are capable of growing over time. We don't need
+second-rate services in rural America.
+Mr. Welch. My time is up. I want to thank the panel.
+Mrs. Blackburn. The gentleman yields back.
+Mr. Latta. No, Mr. Lance, you are recognized. Five minutes.
+Mr. Lance. Thank you very much, Chairman.
+Mr. Spalter, in your testimony, you mentioned that finite
+Federal resources should be targeted to ensure that funding to
+unserved areas, that that funding is prioritized, and I
+couldn't agree more with that. And I have introduced a
+resolution stating as much. Could you please expand on the
+importance of prioritizing Federal funds to unserved areas of
+the country, and are we able to learn from past mistakes
+related to this issue when we are deciding how best to spend
+Federal resources?
+Mr. Spalter. Thank you very much for the question, Vice-
+Chairman Lance. As stewards of Federal dollars of broadband
+providers in Congress, all of the American republic have to be
+very, very cautious about how we use those dollars, and we have
+to make sure that they are being used efficiently and to
+targeted purposes. And we are all focused on doing so in ways
+that will achieve those goals.
+With respect to reaching unserved areas where there is no
+access to broadband. Those high-cost areas require a partner in
+government-directed funds using universal service fund
+methodologies is, we believe, the appropriate way to go. And
+there is no doubt that in order to fulfill the obligation that
+we have of closing the digital divide, thinking very carefully,
+as we are doing here today and I hope we are going to continue
+to do, of how we actually can expand that universal service
+budget to--universal service fund budget to meet this great
+goal of closing the digital divide is, I think, a great
+priority for all of this.
+Mr. Lance. And, Mr. Spalter, do you believe that this will
+require statutory change or can this be done administratively
+or will it be a combination of both?
+Mr. Spalter. I believe it can be a combination of both. It
+will be left to Congress to decide its commitment to, in fact,
+fulfilling this great goal we have of closing the digital
+divide. To do so we understand it is going to cost tens of
+billions of dollars. Universal service funds and the universal
+service fund platform in the direct funding model has been
+proven to be most efficient in doing so. And we think both
+administratively and through statute there are going to be
+mechanisms of actually achieving this goal, and we are looking
+forward to working with you in doing so.
+Mr. Lance. Thank you.
+Would other members of the panel like to comment?
+Yes, Ms. Bloomfield.
+Ms. Bloomfield. I would just like to jump in and say, when
+I look at my membership, it is a combination of universal
+service along with support, like the USDA has with our U.S. So
+you build the business case with universal service that allows
+folks to get the capital funding through things like USDA to
+actually build these networks. And the one thing I would say it
+is going to be really important for us to be thinking about
+building future proof networks, to make sure that as we look at
+that underserved and those finite resources, that we are using
+them to build networks that will last into the future.
+Mr. Lance. Thank you.
+Anyone else like to comment?
+Mr. Polka. Congressman, I would agree. I would totally
+agree. There certainly is a need, as has been demonstrated in
+very hard to reach unserved areas where Federal funds can be
+very important to closing that aspect of the digital divide.
+But then as we look at past programs, whether it is at the
+reform of the Connect America Fund, which is focused on
+unserved areas ensuring that we are using reverse auctions to
+spend money wisely, these are good ideas to employ.
+The last thing we want to do, as I said, is to discourage
+private investment, and one way you would do that, and you
+recognize this because of your resolution, is by permitting any
+situation where an unsubsidized internet service provider would
+have to face subsidized competition. That is a disincentive to
+further investment in deployment of broadband.
+So, otherwise, I think you are right on target as it
+relates to focusing on areas where broadband is unserved. Let's
+make sure that we are not overbuilding the unsubsidized
+providers.
+Mr. Lance. So we have to be careful regarding subsidies and
+those nonsubsidized.
+Mr. Polka. Correct.
+Mr. Lance. Yes. Anyone else on the panel care to comment?
+Yes, of course.
+Ms. Hovis. Congressman, my perspective would be that
+competition in this environment, as in any environment, gets
+better results. And if there is going to be public funding for
+broadband deployment, then offering it on a competitive basis
+so that the best situated, most efficient, perhaps most
+motivated, strongest set of partners are able to bid for that
+kind of thing, rather than offering it to a single set of
+companies where there is no competitive benefit. I think that
+is a proven strategy.
+Mr. Lance. I would agree with that.
+Yes. Connecticut near New Jersey, although we have to be
+careful as to whom we root for in New Jersey.
+Ms. Swanson Katz. My remarks concerning the New England
+Patriots are my own and do not reflect the nonpartisan views of
+the Connecticut Consumer Counsel.
+I would just like to add that I think when you are talking
+about effective deployment of dollars, Federal, state, at any
+level, we have to recognize the very legitimate important role
+of state and local governments in maximizing those dollars, and
+I would just encourage you to think about including them in
+this and not excluding them.
+And as an example, in the northwest corner of Connecticut,
+we have 26 municipalities, all nonpartisan, have banded
+together and are looking at models for how they can get a
+network deployed into their neighborhoods. And it is much more
+efficient to have 26 small towns working together in trying to
+do things like streamlining, permitting, and finding siting for
+these companies then and working with private sector as their
+model. So, keep that in mind, that we will be much more
+effective if we allow municipalities and local leaders to work
+on this level.
+Mr. Lance. Thank you. My time has expired. My thanks to the
+entire panel.
+Mrs. Blackburn. The gentleman yields back.
+Mr. Pallone, you are recognized.
+Mr. Pallone. Thank you, Madam Chair.
+I think we all agree that better broadband can help provide
+more opportunities for more people. And to make ubiquitous
+broadband a reality, Democrats on this committee have been
+working on ways to make sure everyone, whether they live in
+rural areas or urban areas, has access to better and more
+affordable broadband services, and that is why we introduced
+the LIFT America Act that would provide $40 billion through a
+mix of reverse auctions and state programs. The bill would
+prioritize sending money to underserved areas and then funding
+underserved areas, anchor institutions, and building our next
+generation of 911 systems.
+I wanted to start with Mr. Spalter. In your testimony, you
+discuss the need for Federal funding to support a more
+expansive broadband network. Can you just elaborate on why this
+is necessary?
+Mr. Spalter. There is a demonstrable need in America today
+because of the challenging business case of delivering
+broadband to our unserved areas, our hardest to reach areas for
+a direct funding model. We understand that with best intentions
+American broadband providers are doing everything they can to
+extend the opportunities that broadband can bring, but there
+still are areas that are going to require a partnership with
+government. We know that the direct funding model, again, using
+platforms like Universal Service Fund, is the most efficient
+and administratively logical way to actually advance that goal.
+Direct funding has been and will be the principal and most
+sound funding model for actually making the reality of closing
+the digital divide actually happen.
+Mr. Pallone. Well, thank you.
+Over the past year, Republicans have eliminated our privacy
+rights online and destroyed net neutrality, and now they want
+to eviscerate our environmental and historic preservation laws,
+and they have done all of this in the name of broadband
+deployment. So I wanted to ask Ms. Hovis, have you seen any
+evidence that elimination of these protections will bring
+broadband to the millions of Americans who are not yet served?
+Ms. Hovis. No, Congressman. I think that this will make for
+more profitable companies, whether better profitability leads
+to more deployment, particularly in areas that are not going to
+result in profits themselves. It is just not clear to me that
+there is a link between those things. I am concerned frequently
+that certain kinds of regulatory relief, deregulation, or other
+kinds of things are extended to the companies based on the
+premise that it will lead to new deployment in rural areas, but
+there is no commitment or enforceable mechanism for making sure
+that that actually happens. And given greater profitability,
+companies may or may not further invest.
+Mr. Pallone. All right. Thank you.
+I understand that the elimination of our environmental laws
+will not make a meaningful difference in connecting the
+millions of Americans that don't have access to broadband, but
+I do think we need to better understand what the effect of some
+of these proposals would actually be. So I wanted to ask Mr.
+Slesinger, if I could, in your opinion, what would be the
+effect of carving up longstanding environmental protections as
+some of the bills before us would do?
+Mr. Slesinger. Thank you, Mr. Pallone. I think that the
+impacts can be very big. Broadband cells that we are talking
+about are not large environmental problems to this country.
+There are ways that the Forest Service and BLM on their lands
+could do a programatic impact statement that would make it very
+easy to get any required Federal approval. It is not a major
+issue. We have programmatic impact statements for solar; we
+could do it easily for broadband. And I don't think that is a
+big problem.
+However, I think we are missing the issue here. And in many
+of these cases, it is state and local zoning and other things
+that are the problem. But I think the issue that I was talking
+about was mainly in the LIFT bill where we are talking about
+things well beyond broadband that can have large environmental
+impacts, and in that case, we need to keep the environmental
+laws strong and enforced so that people's communities are not
+adversely affected by large Federal projects. Clearly, the FCC,
+as I said, has never required an EIS. There is not a big burden
+in this, but it is an excuse not to do unprofitable broadband
+in rural areas.
+Mr. Pallone. All right. Thank you very much.
+I yield back, Madam Chair.
+Mrs. Blackburn. The gentleman yields back.
+Mr. Shimkus, you are recognized.
+Mr. Shimkus. Thank you, Madam Chairman. Thanks for being
+here on an issue that we seem to continue to talk about.
+I am pretty proud of my co-ops, my small telephone
+companies in these areas that are trying to do just that. So
+there is a need for government involvement to provide some
+certainty financially because the return on investment is just
+not there. I always talk about the need on the Universal
+Service Fund to get that right and start parlaying that toward
+a broadband deployment.
+But I think when we hear the testimony--I am sorry, I am
+bouncing back like a lot of members between two hearings. When
+we just beat up large corporations and their profitability, we
+really want to incentivize these small co-ops and these small
+family privately owned companies to do what they are trying to
+do right now, and then bring competition. This came from my
+local newspaper just January 28, not that I solicited it. And I
+would like to ask unanimous consent to submit this for the
+record.
+Mrs. Blackburn. Without objection.
+[The information appears at the conclusion of the hearing.]
+Mr. Shimkus. It just talks about a community in my
+district, Highland, Illinois, that because they felt they were
+held hostage to the local provider, they built their own fiber
+system.
+Now, the editorial is pretty good because it says there was
+just a report out, the Harvard University study, and they were
+fifth out of 27 public utilities that said you are doing a good
+job. But at the end of it, it also says, but there are hidden
+costs when you have a government run system, right, the
+government is assuming some of those costs just on payroll and
+insurance and all those other things. So I just thought it was
+timely, and I wanted to submit that for the record because this
+does really segue into this debate.
+And I do believe regulatory burdens slow the process up,
+and especially for these smaller companies, whether privately
+or public. So that is why we did the SPEED Act, which is an
+attempt to alleviate some of these additional reviews,
+especially in the environmental and historic reviews.
+Now, the key to this small provision of this package is
+that it is in right-of-way and it is already being used. So it
+is not like new. It is not like a green field area. It is not
+like you are building over new territory untouched pristine
+land. It is using current right-of-ways and current systems and
+with a focus on size.
+So, Mr. Gillen, can you elaborate on the challenges of the
+environmental and historic reviews that present for a
+deployment and how this bill might address those?
+Mr. Gillen. Absolutely. Thank you, Mr. Shimkus. Thank you
+for your leadership on this issue. I agree with everything you
+said. When you are talking about siting rights-of-way or siting
+devices like this, like your bill addresses, right now, that
+adds thousands and thousands of cost and months and months of
+review that we don't get back that is delaying deployment and
+increasing the cost of deployment. So absolutely the SPEED Act
+would address a core impediment we face.
+Mr. Shimkus. Let me follow up. And as you follow actions
+going around through the states, is this similar to what some
+of the states are doing in this venue in this way?
+Mr. Gillen. Absolutely. I think the notion that we need
+both state and local governments to tighten how they do this,
+and we need the Federal Government. It is going to take both
+for us to do this.
+Mr. Shimkus. Mr. Spalter, how important is it for
+communications, this whole debate, a policy to apply equally
+regardless of technology?
+Mr. Spalter. Technology and neutrality is extremely
+important as we think about the opportunities of actually
+closing the digital divide. We support any innovation that
+actually will be able to deliver broadband through whatever
+technology that most suits community and the institutions that
+support that community. What we also realize, though, is in the
+current moment that we are living in, that the most effective
+mechanism is to pull broadband fiber to as many communities as
+possible, and to do so needs creative partnership that has to
+exist between private investment, which is on the table, with a
+strong partner in government through direct funding.
+Mr. Shimkus. And let me follow up with Ms. Bloomfield. Are
+small providers disproportionately impacted by regulations?
+Ms. Bloomfield. Part of that is just that they have fewer
+staff and they have fewer resources so, obviously, time you
+spend dealing with regulations you are not dealing with
+building broadband. But I also do want to commend you for your
+leadership, because I think the other initiative in your
+legislation is you recognize that it is also about upgrading
+the network. So it is not just building it, but what you are
+trying to address is the fact that these networks are living
+and breathing networks, and they need to constantly be
+ungraded, so that certainly eases the process.
+Mr. Shimkus. Thank you. And, Madam Chair, my time has
+expired.
+Mrs. Blackburn. The gentleman yields back.
+Mr. McNerney, you are recognized for 5 minutes.
+Mr. McNerney. Well, I thank the chair for holding this
+hearing, and the witnesses.
+I am going to start with Ms. Katz. I am concerned that the
+FCC's recent action of eliminating net neutrality and Lifeline
+will actually open the digital divide. Is the FCC's current
+lifeline proposal to cut 70 percent of the Lifeline program
+counterproductive to closing the digital divide and making
+broadband widely available to lower income Americans?
+Ms. Swanson Katz. Well, I think the short answer to that is
+yes. The rationale for eliminating, severely curtailing the
+availability of the lifeline is that it would enhance broadband
+deployment, but I think that is comparing apples and oranges.
+This is a situation we are trying to put communication
+capabilities in the hands of our lowest income people, and to
+take those away from them, yes, absolutely will aggravate the
+digital divide, exacerbate it, and have negative impacts on
+many different populations. There is just a lot of talk of how
+lifeline phones are being used by the homeless to connect with
+family and find resources. And so it not only broadens the
+digital divide, but it has a ripple effect on the way we can
+see our most vulnerable citizens impacted.
+Mr. McNerney. Thank you.
+Ms. Hovis, I appreciate your direct testimony. I heard in
+some places the best way to deploy high-speed internet access
+that Americans deserve is to go to public-private partnerships,
+and you stressed that in your testimony. Can you provide us
+with some illustrations from your work regarding the
+effectiveness of public-private partnerships?
+Ms. Hovis. Absolutely. Thank you, Congressman. I am seeing
+around the country hundreds, possibly thousands, of local
+initiatives with the willing and enthusiastic participation of
+the private sector in communities like Sublette County,
+Wyoming, where the local community is planning to deploy
+infrastructure that will be made available to their private
+partners and to business areas, to business districts where
+there is no adequate broadband at all, just speeds of a megabit
+or two, at best, in order to allow businesses to thrive in that
+part of the community. There are efforts like that underway in
+parts of Kentucky and parts of West Virginia, all over the
+country. And then even more ambitious and farsighted efforts,
+the city of San Francisco is considering a public-private
+partnership that is focused on ensuring that the 150,000 people
+in San Francisco who don't currently have broadband, mostly
+because they can't afford it, have access to adequate speeds,
+not one megabit speeds but the same kinds of speeds that you
+and I consider to be appropriate for our families. There is
+enormous creativity on both the public and the private side,
+and the private sector is willingly participating and engaged.
+Mr. McNerney. Thank you. I cosponsored a bill with
+Congressman Lujan that would help public-private partnerships
+get low-interest financing. Would that be helpful for building
+out access?
+Ms. Hovis. Yes. I think it is an incredibly helpful
+approach, because what it does is it makes it feasible for a
+local community to have low-cost financing to build
+infrastructure and then potentially to make that infrastructure
+available for private sector use. We have all agreed on this
+panel that the cost of infrastructure deployment in certain
+markets is prohibitive. If there is a way that public's state,
+local, and Federal efforts can be targeted toward
+infrastructure, then allowing for private sector service
+provision, in some cases public service provision, it is going
+to differ from community to community, but that is a mechanism
+for ensuring that we get infrastructure to places where it does
+not exist in an adequate way.
+Mr. McNerney. Thank you.
+Mr. Spalter, I am going to move to cybersecurity. We have
+had security experts testify in front of this committee that
+many or maybe most of the IoT devices are unsecure, Internet of
+Things devices. By 2020, it is projected there will be 20
+billion to 50 billion IoT devices in use. Should we be
+concerned about the risks that unsecure IoT devices are posing
+to our broadband networks?
+Mr. Spalter. Thank you for the question, Congressman. It is
+a concern that all broadband providers share, that we have to
+be much more focused and increasingly focused on the
+resiliency, the security, not only of our wired networks, but
+also of our wireless networks. The Internet of Things is an
+opportunity of great promise for the economic productivity of
+our country.
+The focus that we have been giving as a broadband community
+to this initiative is also being done in partnership with a
+broader set of colleagues in the internet ecosystem. Our cloud
+companies, our internet information technology companies,
+internet companies increasingly are joining to share the
+responsibilities with us to extend greater security for our
+broadband networks, including for the Internet of Things, and
+we are doing so in partnership with the Department of Homeland
+Security and other agencies of government that we have to work
+closely with to solve this problem.
+Mr. McNerney. Very good. Well, I have a lot more questions,
+but I have run out of time, so I am going to yield back.
+Mrs. Blackburn. The gentleman yields back.
+Mr. Latta, 5 minutes.
+Mr. Latta. Well, thank you very much, Madam Chair, for
+holding today's hearing. This is very, very important.
+As co-chair of the Rural Broadband Caucus and co-chair of
+the Rural Telecommunications Working Group, access to high-
+speed broadband in rural areas is a top priority of mine. I
+believe Congress should facilitate the development of robust
+broadband networks by creating a regulatory environment,
+promotes competition, and encourages innovation. That is why I
+introduced a resolution I expressed to be sent to the House
+that broadband deployment should be competitively and
+technologically neutral. I have also introduced the Precision
+Agriculture Connectivity Act with Congressman Loebsack to help
+close the digital divide faced by the agricultural communities
+in rural America.
+And, Ms. Bloomfield, if I could pose my first question to
+you. Agriculture operations generate significant value to the
+national economy and are an essential source of revenue in jobs
+in our rural communities. Today, modern high-precision farming
+requires access to high-speed broadband to support advanced
+operations and technologies that significantly increase crop
+yields, reduce costs, and improve the environment. My bill, the
+Precision Agriculture Connectivity Act, requires the FCC to
+recommend steps to obtain reliable measurements of broadband
+coverage in order to gain a better understanding of the true
+lack of access in America. It is my understanding that finding
+adequate, accurate broadband mapping and coverage managements
+is nearly impossible.
+And so, Ms. Bloomfield, in what ways would it be beneficial
+for the FCC to obtain such data for the purpose of deploying
+high-speed broadband on agricultural croplands in other rural
+areas?
+Ms. Bloomfield. So, Congressman Latta, I appreciate the
+question, and greatly appreciate the leadership that you have
+shown on a lot of these issues. Smart ag is truly the next
+frontier when we think about economic development vitality for
+rural America, and I think a lot of the initiatives you are
+looking at is how do you gather more of that granular data so
+that we can really look at the census track level and figure
+out where is the infrastructure and where is the void. Because
+we certainly know that you need to be able to see it, whether
+it is street level or whether it is literally on the cropland,
+in terms of where that infrastructure resides.
+So I think that when we look at the FCC and some of the
+work that they have been doing in gathering 477 data and trying
+to take that data and figure out in a granular, transparent,
+and accurate way and measuring apples to apples--and the thing
+I always worry about is when you get different entities trying
+to measure, they are measuring different ways of measuring
+where that deployment is. So I think your focus on how do we
+coordinate, how do we actually aggregate this will go a long
+way in terms of seeing where we really need to focus some of
+our future energy and resources.
+Mr. Latta. Let me ask you just to follow up when you talk
+apples to apples and not apples to oranges here. What should we
+be looking at then to make sure that they are looking at the
+right data and, everyone is on the same page here and they are
+not looking at two different things, the same coming with two
+different answers.
+Ms. Bloomfield. So I think we saw a little bit during the
+stimulus where there was actually national broadband map that
+was built, but it was very inconsistent, and it wasn't checked,
+so people were kind of putting in their own data. There was
+really no resource to basically say is this the real data, is
+there really coverage there. And as somebody who represents
+small carriers, I understand that there is always that
+competitive concern about what data you are releasing. But I
+also worry that if you have got an entity like NTIA looking at
+data and you have got the FCC and they are using two different
+measurements, two different land tracks, different speeds, I
+think the ability to actually kind of house it in one place
+where you have got the ability to be consistent, you have got
+the ability to be transparent, I think folks need to actually
+see as it gets developed, and you need to be able to have the
+ability to check it. I think those are things that are going to
+be very important check posts as we go forward on that. But it
+is going to be the foundation for where we go in terms of
+future investment.
+Mr. Latta. Thank you.
+Mr. Polka, there is legislation as part of our hearing
+today which I support that incentivizes 5G wireless deployment.
+I have also introduced a resolution setting the policy of
+competitive tech neutrality so the government isn't picking
+winners and losers out there. Is the cable industry doing
+anything comparable to the 5G rollout with similar speeds in
+coverage?
+Mr. Polka. Comparable and surpassing when you look at the
+amount of broadband service that is being delivered by our
+members in rural America. I had the chance yesterday to hear
+from a number of members all over the country telling us what
+they are doing. I heard from one small company in eastern
+Kentucky, Big Sandy Broadband. They are delivering gigabit
+speed in eastern Kentucky. I heard from a company called
+Hickory Telephone, which is building fiber to the home in
+underserved areas, one of our members in western Pennsylvania.
+We have members all over the country that are providing gigabit
+service: 100 megabit, 200 megabit, 300 megabit service. So we
+are building that service as our customers and our community
+want us to do. And what we ask, and which is why we appreciate
+your resolution, that as we go forward as a country and we look
+at regulations that apply to helping broadband be deployed more
+effectively, that we do so on a competitive technology-neutral
+basis.
+I can tell you we have a lot of area out there that I have
+visited personally with our members. It is amazing how much
+rural area there is out there. Not one company is going to
+solve these problems, which is why our policy needs to
+encourage competitive technology-neutral proponents. So, yes,
+we are providing the service. We are building the backbone that
+actually can help to deliver 5G service down the road as it
+comes farther out into our areas. So we are up to the
+challenge.
+Mr. Latta. Well, thank you very much. And, Madam Chair, my
+time has expired, and I yield back.
+Mrs. Blackburn. The gentleman yields back.
+Mr. Loebsack, you are recognized.
+Mr. Loebsack. Thank you, Madam Chair. This is really great.
+Normally, I would be asking questions earlier, but I was a
+little bit late. I had some things in my office I had to do,
+some meetings, but I got to hear from so many of my colleagues
+and all of you folks. And the first thing I want to say is I
+guess when we talk about the funding, making sure that we do
+have broadband in these rural areas. I represent about a fourth
+of Iowa, not quite as much. The State of Iowa isn't quite as
+big as Chairman Walden's district, he likes to remind me, but
+we have a lot of rural areas in Iowa, as you might imagine. But
+it is pretty clear to me that we have got to have some public
+funding. We have got to have a lot of private investment. There
+is no doubt. We have got to make sure we deal with regulations.
+Chairman Walden and I have worked together on that to make sure
+that small internet service providers in particular are not
+unfairly subject to too many regulations so they can actually
+put their resources into building out and making sure that
+rural America is served, instead of simply filling out
+paperwork regulations that are unnecessary, that kind of thing.
+So I think we actually have more bipartisan support, and I
+think the chairwoman would agree that we actually have some
+bipartisan support on a number of these issues here.
+Mrs. Blackburn. Oh, yes. I am accustomed to hearing from
+broadband Loebsack.
+Mr. Loebsack. That is right. Exactly. And thank you very
+much, Madam Chair, I do appreciate that.
+And working with Representative Latta; we talked this
+morning earlier today. I didn't realize he was going to quite
+steal so much of my thunder, but really happy to work with him
+on the Precision Agriculture Connectivity Act. Very important,
+obviously, in my district in Iowa.
+But, of course, related to what he was talking about with
+mapping, I actually did introduce, and with Mr. Costello, last
+year, the Rural Wireless Access Act. And we got it out of
+subcommittee, but the FCC paid close attention to that. That
+comes down, essentially, to I like to call garbage in, garbage
+out. If we don't have accurate maps, then we are not going to
+be able to make accurate decisions and good decisions going
+forward.
+And so a lot of people from Iowa like to say we have a lot
+of common sense, but a lot of what is going on here is just
+common sense that, if we don't have accurate data, whether it
+is an agriculture or that being a subset of something larger,
+then we are not going to be able to make a decision, public
+policy decisions, or even investment decisions on the part of
+the private sector.
+One last point on that. Chairman Pai last year, I did ask
+him because I had heard he had been to northwest Iowa. He drove
+from my home town Sioux City up to southern Minnesota, and he
+found out just how many problems there are in rural Iowa with
+dropped calls and all kinds of things, not to mention, actual
+broadband service as well.
+So I just want to ask, I guess, that, Ms. Bloomfield, you
+have already pretty much responded to what this is all about,
+so I am going skip you for a moment, if that is OK.
+I would like to go to Mr. Gillen, talk about that issue, if
+you would, mapping issue and making sure that we have good
+data.
+Mr. Gillen. As you said, Congressman, thanks to your
+leadership, I think we have all listened and heard. And I think
+working with both national and regional carriers, we have
+worked with the FCC, that will hopefully have a better map to
+inform the mobility fund going forward. And, what that $450
+million a year the FCC is starting to give out will do is
+hopefully start serving those areas in those communities that
+don't have service today, but the condition precedent to doing
+that is the data that you have been looking for, and that will
+start very soon.
+Mr. Loebsack. Yes, the 477.
+And, Mr. Spalter?
+Mr. Spalter. I would agree with Mr. Gillen. And I also want
+to thank you for your leadership in understanding that
+important management principle: what you can't measure, you
+can't manage. And this is particularly true with respect to
+delivering broadband.
+Form 477 has taken great strides as it has been streamlined
+to provide more precise geocoding longitudinally and
+latitudinally for customers that actually have service. The
+next frontier is to try to do so with that kind of geocoding
+specificity for locations that don't have broadband yet. And we
+believe that we have to think creatively and innovatively and
+slightly out of the box in thinking how to do so, as long as we
+have uniformity of data.
+One idea is as the Census Bureau itself is looking at its
+own 2020 effort. Their resources might be profitably brought to
+bear to actually bring that longitudinal and latitudinal
+specificity to help pinpoint areas where broadband is not yet.
+Mr. Loebsack. I would even suggest, mostly jokingly, that
+the FCC talk to all of us who have rural districts, because we
+can actually identify where the gaps are and where they are
+not, if we get around our districts like I do all the time.
+Ms. Bloomfield, would you like to elaborate a little bit?
+Ms. Bloomfield. The only thing I would add is we talk about
+your initiative on some of the wireless front is that, just a
+reminder, that wireless needs wires so that those networks
+can't even be built if you don't have the backhaul out there.
+And as we have more and more need for capacity and more and
+more ability for you, if you are like me and I have gotten lost
+in northwest Iowa, the ability to pull over and actually pull
+up a map and see where you are, to do that data you actually
+need that infrastructure, so they really go hand-in-hand. They
+are complementary services, and I think they are going to all
+be very important for rural Americans.
+Mr. Loebsack. Thanks to all of you. And thank you, Madam
+Chair.
+Mrs. Blackburn. The gentleman yields back.
+Mr. Olson, 5 minutes.
+Mr. Olson. I thank the chair. And welcome to our seven
+witnesses. A special welcome, Mr. Gillen. And please give our
+warm regards to your boss, Meredith Attwell Baker. As you know
+that family is a legend in Houston, Texas, iconic. So please
+give our regards.
+I would like to brag about Texas and give perspective on
+Chairman Walden's comments about square miles. He talked about
+Connecticut and Oregon. For the record, Texas is 268,597 square
+miles. Now, my district, Texas 22, is a small portion of that,
+1,032 square miles. Very small. Basically, it is split halfway
+between rural and suburban. But because it is so close to
+Houston, all the challenges with the telecom industry, the 5G
+aren't really applicable. But we did suffer a disaster.
+Hurricane Harvey hit us in August, and we weren't alone.
+After that, Puerto Rico was hit with Maria and the Virgin
+Islands as well, and Florida was hit by Hurricane Irma. And we
+have seen catastrophic wildfires in California and subsequent
+floods and just rushes of mud because of the loss of the cover.
+And when these disasters hit, as you all know, it is critically
+important that we get the communications infrastructure up and
+running as quickly as possible to give these communities the
+help they need to recover as quickly as possible.
+And that is why I have this bill that is probably on top of
+your pile. It is H.R. 4845. It is called the Connecting
+Communities Post Disasters Act. And this bill makes a simple
+step by allowing local communities to bypass long and
+unnecessary environmental and historic views and to replace
+damaged or lost towers and communication infrastructure. Not to
+have new ones but replace ones that are hit by disaster.
+My first question is for you, Mr. Gillen. Houston made a
+strong effort after Hurricane Ike to bury their communications
+cables, and that was very successful. In fact, FCC Commissioner
+Pai came down a couple days after the storm hit and wowed about
+our buried cables, but he also noted we have a lot of cell
+towers that are exposed to the storm, especially where she came
+ashore there by Corpus Christi. How important is it for you to
+get communications up and ready following a disaster? How
+important is that to fight the disaster?
+Mr. Gillen. It is critical. And I think it is critical for,
+particularly, temporary facilities to be marshaled immediately,
+because as we learned in these most recent storms, that
+smartphones is what Americans need to reach public safety, to
+reach their families, to let people know that they are safe,
+and that cell coverage is critical. And that bill is very
+important because when the storm is over, our jobs are really
+just getting started. And it is how do we restore services, and
+not only restore them, but make them better, and that we have
+the opportunity in your district to start giving you the most
+advanced networks. And thanks to your bill we can start doing
+that more quickly.
+Mr. Olson. They go off the whole night for three straight
+nights, got all these warnings on a cell phone about tornado
+watches, flood warnings. That was valuable information that was
+coming, not from the phone lines, not from the TV, it was
+coming from the cell phones that my kids had, I had, my wife
+had, so it was very important.
+Do you agree that it makes sense to suspend parts of the
+NEPA review when reconstructing these telecommunications
+towers, the infrastructure, just to suspend them a certain
+amount of time to get rolling quickly, as opposed to dragging
+this thing out month after month, year after year?
+Mr. Gillen. To bring back your economy, to bring back your
+constituents, absolutely, and I think it is a very targeted
+relief you are proposing.
+Mr. Olson. Mr. Spalter, Ms. Bloomfield, any comments on
+this issue about disaster?
+Ms. Bloomfield. I would just add that we had about four
+carriers that were in the path of Harvey, and I checked in with
+each one of them. Thanks to the ability to build these future-
+proof networks and the bury plant and the ability to put their
+switches underground, we actually, every one of my companies
+that were in the path actually were able to be up and running
+instantaneously, actually never even lost service, so very
+important.
+Mr. Olson. Mr. Spalter.
+Mr. Spalter. Congressman, your initiative to actually move
+forward with H.R. 4845 is meaningful, not only, I know, to
+citizens in your community which were served by companies in
+U.S. telecom like Consolidated and Smart City that were running
+towards danger to support the broadband needs, but also your
+initiative is going to be meaningful for communities around the
+country, including places where I used to live near earthquake
+faults in California.
+It is an absolute necessity that we as a Nation provide any
+mechanism to provide efficiencies so that broadband facilities
+can be put back into place to serve communities that have been
+affected by disaster, and your initiative is one such step, and
+we are grateful for it.
+Mr. Olson. I am out of time, sir. I have one question
+before I yield back. There was discussion, some sort of
+concern, a little hostile, about the football game coming up,
+the Super Bowl, between the Patriots and the Eagles. I have a
+yes-or-no question for all the panelists. Are you all OK, do
+you have a problem with the Houston Astros being the world
+champs for 91 days now?
+Mr. Spalter. As long as you legislate about it.
+Mrs. Blackburn. The gentleman's time has expired on that
+one.
+Ms. Eshoo, 5 minutes.
+Ms. Eshoo. Thank you, Madam Chairwoman. I am not going to
+get into that since I don't have a dog in that fight, but good
+luck to all.
+Thank you, Mr. Olson, for bringing up some of the issues
+that are related to disasters. And I know there was a response
+here, but I think that it is important to note that in the
+fires in northern California, in Napa and Sonoma Counties, the
+cell phones didn't work.
+Life is not tidy. Fires just don't occur between the time
+people get up maybe 7 o'clock in the morning and retire at
+maybe 10 o'clock at night. Were it not for the public safety
+people actually going door-to-door and banging on doors in the
+middle of the night to arouse people to get them out of their
+homes, and they fled in their nightgowns, in their underwear,
+that was it, because the fires were even at the back of their
+houses and their roofs had started burning. And the other alert
+was dogs, their own dogs barking so much that it awakened them.
+So we can't live in a bubble that we have something, this
+one--which I think is wonderful. It is an American invention.
+It is a computer in our pocket. But we shouldn't allow
+ourselves to dream on and say we have something, and it is
+going to alert everyone. So we have to think outside the edges
+of the envelope. But I want to thank the gentleman for raising
+that.
+I want to go to Ms. Hovis and Ms. Katz. I have to go
+downstairs for another hearing of the Health Subcommittee and
+wanted to come back and ask a few questions here.
+What do you think are the biggest impediments to deployment
+that you see in communities? It is certainly in rural
+communities. There are many specifics that belong to rural
+communities, but you spoke very clearly about the Hartford
+area. I was born and raised in Connecticut, so it is nice to
+have someone from Connecticut here, just outside of the
+Hartford area, actually. But I think what the committee needs
+is some pinpointing by you of specifics that will actually
+remove impediments to employment.
+Now, I mean that as a softball question because I have
+legislation on it, and neither bill costs a dime. But anyway,
+to both of you, whomever wants to go first. You want to do it
+alphabetically?
+Ms. Hovis. Thank you, Ms. Eshoo. I couldn't agree more
+about the importance of some of those particular issues. And we
+have talked a lot about rural challenges, but I would say that
+there are some very acute urban challenges that, unfortunately,
+get a lot less discussion. And I think sometimes they are not
+even recognized.
+For example, small business areas in urban and suburban
+areas are remarkably less served in many cases than residential
+customers, and that is because the traditional footprint of the
+cable industry, to its credit, was to go to all of the
+residences in the community. That is great in most metropolitan
+areas because there will be a phone company provider and a
+cable company provider.
+Ms. Eshoo. But you see all the advertisements on TV for the
+commercial site, come do business with us and we are the ones
+that can serve your small business the best. So----
+Ms. Hovis. If the infrastructure is not there, it is going
+to be incredibly costly to get the infrastructure there. A
+large business will be able to afford to pay whatever it takes,
+but a small business that can spend $79 or $99, $129 a month,
+there is simply not a business case for the private sector to
+build best-in-class infrastructure to them. That is not a slam
+toward the private sector. That is how private investment
+works, and the private sector is doing exactly what it should.
+But I think there is an undiscussed conversation that should be
+had about the fact that small business areas struggle at
+remarkable levels, as do very low income neighborhoods, in many
+cases, because there is simply not business case for upgrade of
+the networks.
+Ms. Shoo. Thank you. I want to go to your----
+Ms. Swanson Katz. Yes. If I could just----
+Ms. Eshoo [continuing]. Seat mate there because I have 30
+seconds.
+Ms. Swanson Katz. Sure. If I could just add to that, the
+reason we focused on Hartford is that we were contacted by
+Hartford officials who had done a survey of their small
+businesses and found that they were unable, for the reasons Ms.
+Hovis was discussing, to connect to the internet because they
+were being quoted prices of $8,000, $9,000, $10,000, $30,000
+for a street crossing. And, again, it is because of the high
+cost of the street crossings and things like that. So I don't
+fault the industry, but I do note that that is a reality, and
+so that is where we need to make some progress.
+Ms. Eshoo. Well, I think that that is very helpful.
+Madam Chairwoman, I am going to ask unanimous consent that
+I be able to place the Harvard study that I referenced in my
+opening comments today that deals with communities being able
+to set up their own municipal broadband.
+Mrs. Blackburn. So ordered, without objection.
+[The information appears at the conclusion of the hearing.]
+Ms. Eshoo. Thank you. Thank you to all of the witnesses. A
+good hearing. Important one.
+Mrs. Blackburn. The gentlelady yields back.
+And now the gentleman leading our broadband expansion
+effort, Mr. Johnson, you are recognized.
+Mr. Johnson. Thank you, Madam Chair. I appreciate it.
+And this is such an important hearing. I can tell you,
+living in rural Appalachia, I hear all the time about the urban
+rural divide. It is very, very real. Places that businesses
+will not come into because they can't get access to their
+suppliers, to their customers, provide training for their
+employees. You have got children that have to go to another
+county or to a local township or to a public library to get
+access so that they can do their school projects. We have got a
+lot of intellectual capital and a lot of economic potential in
+rural America that is being just ignored because of this rural
+urban divide.
+And that is one of the main reasons that I was pleased to
+sponsor H.R. 4810, the Mapping Now Act. Because an important
+step to solving the rural broadband issue and expanding
+deployment is, first, accurately identifying where those
+unserved areas are. We need an accurate map to do that. And as
+some of you on the panel and I have discussed, just because one
+facility or one location in a census block says that there is
+coverage, that is not true. I can tell you from somebody that
+lives there, that is simply not true.
+And so we need this legislation that directs the Assistant
+Secretary of Commerce for Communications and Information to
+create that national broadband map and reassert NTIA's
+authority to do so. Many rural areas in Appalachia or Ohio find
+themselves on the wrong side of that urban rural divide.
+We all know that high-speed internet is no longer a luxury;
+it is a necessity today for education, for business, especially
+in this technology-driven global marketplace. So I am going to
+continue to drive this issue very, very hard and working with
+my colleagues to break down the barriers to broadband
+deployment, particularly in rural areas.
+Mr. Gillen, from CTIA's perspective, in your written
+testimony, you mentioned that any new funding should also
+ensure that reaching areas unserved by wireless is reflected in
+the program's objectives. In making funding decisions, better
+data is key, and rural broadband is no exception.
+First of all, do you agree with my assertion that the maps
+are inaccurate, that we really don't have a good definition of
+where the unserved and underserved areas are?
+Mr. Gillen. We certainly agree. We can and we need to do
+better.
+Mr. Johnson. OK. All right. Do you have any suggestions on
+how we can ensure better data of unserved areas?
+Mr. Gillen. Absolutely. I think there are commercial tools
+available that we can start informing our process as well, but
+I think it really comes down to, we have to have a set idea of
+what we are measuring for? What do we decide broadband is? What
+is satisfactory coverage? Just a baseline of what we think we
+need to do and then measure it consistently across-the-board.
+And we think it is important to have one person in charge as
+you direct.
+Mr. Johnson. I can tell you what satisfactory coverage is.
+Satisfactory coverage is coverage. That is what it is. It is
+access. But I appreciate your answer.
+Ms. Bloomfield, could you please explain the benefits of
+having an accurate broadband map?
+Ms. Bloomfield. Absolutely. And I know we have all
+discussed this. And again, thank you for your leadership. But
+the ability to actually get granular, get clear, get
+transparent, and making sure that you are coordinating, so when
+you talk about whatever Federal entity actually is controlling
+the mapping, the making sure that actually we are coordinating
+between all of those who are gathering data. So again, you are
+comparing. You don't have those inconsistencies, which I think
+have led to some of the confusion in the past. And I think the
+whole focus on the ability to access spectrum will also be very
+important in the future.
+Mr. Johnson. OK. In your written testimony, Ms. Bloomfield,
+you mentioned the need for a single authoritative source that
+can provide accurate data at a granular level and on a
+consistent basis to help drive better-informed decision-making.
+So when updating the broadband map, should NTIA use Form 477
+data? And is that data detailed enough? And if not, how would
+you recommend obtaining more granular detail?
+Ms. Bloomfield. So I think you make an excellent point, and
+I think 477 is the best data so far that really is collected
+from all broadband providers, which is going to be important so
+that you make sure that everybody that is in the pool actually
+is submitting the data.
+Now, the problem is it is still self-reporting, so you are
+still going to have to make sure that there is some way to
+check to make sure that there is verification that what people
+report is actually true, other than driving through your
+district and actually doing it anecdotally. So I think that is
+going to be important. But I think having it spread across
+different entities is going to just lead to some confusion and
+not get the results that you are looking for.
+Mr. Johnson. All right. Well, thank you very much.
+I had a lot more questions but, Madam Chair, my time has
+expired. I yield back.
+Mrs. Blackburn. The gentleman yields back.
+Ms. Clarke, you are recognized for 5 minutes.
+Ms. Clarke. I thank you very much, Madam Chairman. I thank
+our panelists for their expert testimony here this morning.
+This Congress, I have had the honor of introducing and
+establishing the Congressional Smart City Caucus along with my
+colleague, Congressman Darrell Issa. As co-chair of this
+bipartisan Smart City Caucus, I know deploying broadband in our
+cities is critical.
+We in Congress must do more to make sure that, first of
+all, the deployment is ubiquitous, but to address the 10
+million Americans in urban areas who do not have access to
+broadband as defined by the FCC. And that is why I have
+cosponsored the Connecting Broadband Deserts of 2018, with my
+colleague, Congressman Bobby Rush. Under this legislation, the
+FCC will be tasked with reviewing the state of deployment in
+urban broadband deserts, and will be required to take action to
+help speed deployment if it is not occurring at a reasonable
+pace.
+So, Ms. Katz, what types of issues--and we heard a little
+bit about this when the question was asked, I believe it was by
+Ms. Eshoo, what issues do we currently allow to fester when we
+assume that every part of a city is already connected? And what
+could we do to help address these issues?
+Ms. Swanson Katz. Well, thank you for your leadership, and
+thank you for the question. It is an excellent one. I talked a
+little bit about the homework gap. We have seen continuing
+impacts on small businesses. There is also in my testimony a
+report we did on that issue. And so we see that you continue
+the cycle of lack of opportunity for these areas when they
+don't have access to broadband. This panel, it is delightful
+that it is almost undisputed that it is a utility at this
+point, that everybody needs access to it.
+And so I think some of the most effective things we can do
+is to allow state and local governments to be part of the
+dialogue. It does concern me, as chair of the Intergovernmental
+Advisory Committee, when there is repeated references to
+removing barriers at state and local levels. And, in fact,
+state and local governments are trying very hard to move the
+needle on these things. For example, in Connecticut, we have
+been working for years on a single pole administrator, one-stop
+shopping for connecting to utility poles. That is one of the
+things that is most expensive.
+We are also working, it is very important for smart cities,
+dig-once policies, how can we coordinate on the digging up of
+streets. These are very important but very complex issues, but
+these are some of the initiatives that state and local
+governments are working on.
+Ms. Clarke. Very well.
+Ms. Hovis, did you have something that you wanted to add
+with respect to this, a concern?
+Ms. Hovis. I would say just that from the smart city
+standpoint, and the smart communities, because we are going to
+have smart counties and smart rural areas as well, the
+infrastructure is so critically important. And as long as a
+divide persists and who has access to the best infrastructure,
+then as services in a smart community environment move on to
+the infrastructure more and more, there will be less access by
+some members of the community.
+So our risk here is that the digital divide, rural/urban,
+and that that impacts low income folks and that impacts small
+businesses will get more and more pronounced over time. We
+can't double down on the existing divide.
+Ms. Clarke. The other concern that has been flagged and
+part of this conversation is one of cybersecurity. So that if
+we are talking about smart cities and we are talking about gaps
+in coverage, would any of you speak to what having those
+vulnerabilities could mean from a national perspective?
+Ms. Bloomfield. I would be happy to jump in. I have the
+opportunity right now to serve on the FCC CSRIC working group
+talking about, what is the importance of protecting those
+networks. And one of the things that we think is really
+important is to ensure--I have 850 carriers across 46 states.
+People tend to think of the large carriers, but we need to make
+sure that the small carriers have the ability to protect their
+networks, because sometimes it is the assumption that, you
+know, where the networks are vulnerable is where the problems
+will actually happen.
+So we are spending actually a lot of time in resources this
+year educating our small network operators on how to protect
+their assets, how to protect their consumer assets. And that is
+going to be really important as we move on to the Internet of
+Things.
+Mr. Spalter. And if I could as well, I applaud your efforts
+to make our city smarter, and I also applaud your efforts to
+make our broadband infrastructure for our cities and all of our
+communities safer, more secure. We at USTelecom are taking that
+mandate very, very seriously. We have recently launched a small
+and medium business initiative to make sure that, not just our
+largest companies, but also our smallest companies, as Ms.
+Bloomfield said, who share a vulnerability, can actually do
+incident response, reporting, and information sharing much more
+effectively.
+But our enemies in this domain are getting smarter and more
+wily by the day. We have to think of this as not just a
+challenge carried by broadband providers, but by the entire
+internet ecosystem.
+Ms. Clarke. The ecosystem.
+Mr. Spalter. We have to join in common cause in doing so.
+Ms. Clarke. Very well. I yield back, Madam Chair.
+Mrs. Blackburn. I thank the gentlelady.
+Mr. Guthrie, you are recognized.
+Mr. Guthrie. Thank you very much. Sorry, I have been
+bouncing between a couple of hearings today, so I apologize.
+But I did hear Mr. Johnson's questioning. And I understand
+there were some other questions about mapping. And I know that
+is what we are talking about, and the fact that we have to get
+more granular data and the 477 may not give enough information.
+So this is really to the providers, so for Mr. Spalter and
+Ms. Bloomfield, the questions. Given the need for service
+providers to protect the proprietary asset information and our
+need as policymakers to get more granular broadband
+availability information, is there even a pathway forward to
+get to a street-level understanding of broadband service
+availability that meets both needs? I will just start with Mr.
+Spalter.
+Mr. Spalter. Technologically, I think there is a pathway
+forward. The technology is not only being deployed by our
+Federal Government, particularly by the FCC, but also by those
+that are being advanced by the private sector. I think that
+this is an opportunity going forward to think about how we can
+actually streamline and make a uniform approach to a mapping
+exercise so that we are not merely identifying addresses, but
+actually geocoding longitude and latitudinally relevant
+locations where we need to deliver broadband. Which is why I
+said earlier, first, that it is fantastic via H.R. 4810. You
+and Mr. Johnson are working to come up with creative solutions
+going forward, but also knowing that the FCC is going to be
+driving this process forward. To the extent the NTIA is going
+to be involved, it needs to meaningfully coordinate with FCC to
+avoid duplication and, therefore, confusion. And also, we
+collectively have to think about other assets can be put on to
+the table, including, as I mentioned, whether the Census Bureau
+can use its resources to help map and locate, again,
+longitudinally and latitudinally, areas where there are not
+institutions, residences where there is not yet broadband
+access.
+Mr. Guthrie. OK. Thank you.
+Mr. Gillen.
+Mr. Gillen. Thank you for the leadership on this issue to
+bring more attention to it. I think we are seeing progress. I
+would echo Mr. Spalter's comments. I think it is important we
+marshal all resources, and it is going to take a partnership of
+all of these companies and the government to figure out how
+best to do this. But I think a lot of that, as Mr. Spalter
+said, are right on track.
+Mr. Guthrie. Thank you.
+Ms. Bloomfield. And if I would just add, we talked a lot
+about streamlining. The one thing I would encourage is that we
+don't look at creating multiple burdens so that you are not
+having small companies like the ones I represent having to do
+onerous reporting to three or four different agencies. So,
+again, that coordination is going to be important.
+Mr. Guthrie. Are there mechanisms you would put in place
+that would relieve that burden?
+Ms. Bloomfield. I think it is actually helpful to figure
+out a way to designate who takes the lead. Not dissimilar to
+some of the other efforts that the committee has been looking
+at is how do you actually designate where that point is and
+agree to kind of one form of process, one form of data to be
+collected. And then certainly a challenge process so that folks
+can ensure that the data is accurate.
+Mr. Guthrie. OK. Thanks.
+Mr. Polka?
+Mr. Polka. Completely agree. Mapping is essential. We have
+to know where we need to build. There does need to be a
+partnership. There is no question about it. Whatever
+technological means that we can determine to help better
+determine where broadband is necessary, but ultimately this is
+going to come down to information from the provider.
+In the hardest-to-reach areas, you are going to have small
+companies that do have very, very small staffs, very few
+people. The people that they employ are the ones that are
+literally climbing the poles and serving the customers at the
+counters. They don't have deep legal staffs, nor regulatory
+staffs. So for them to take the time to fill out the
+information that is required is a burden. So that has to be
+factored in. Certainly, that self-reporting is important and
+essential as a piece of how we determine where broadband is and
+isn't as part of the mapping process. But this has to be, I
+think, a much broader, deeper discussion on what is the
+baseline of information that we want to obtain, how can we
+obtain it, and who will be the providers to help provide that
+information.
+Mr. Guthrie. From some of the previous mapping efforts, the
+SBI mapping that the NTIA administered from 2009 to 2014, what
+are some of the deficiencies and maybe lessons learned that can
+be applied? I only have about 45 seconds. So the providers can
+go as you want to go. But what are the deficiencies in that and
+what should we do different?
+Mr. Polka. I would say paperwork. It is as simple sometimes
+as paperwork. When you have forms to fill out, again, by small
+companies who do not have the background, the regulatory, the
+legal background, even then determining more particularly
+census block, census tracks, obtaining the data, the cost of
+the data to even populate the maps, it is extremely difficult
+for small companies to accomplish. It is vital, but here,
+again, it has to be part of a public-private purpose to deliver
+that information.
+Mr. Guthrie. Thank you very much.
+My time is expired, and I yield back.
+Mrs. Blackburn. Mr. Collins, you are recognized for 5
+minutes.
+Mr. Collins. Thank you, Madam Chair. I would like to thank
+you also for just holding this hearing and having such a
+diverse group of witnesses.
+Broadband access, as we all know, is important to our rural
+communities as our reliance on the internet continues to grow.
+Unfortunately, some states like New York are now working to
+complicate this issue, but we will set that aside for a second,
+and say I am at least glad to see some bipartisan bills here as
+the subject of this committee hearing.
+And as we focus on infrastructure, the inclusion of
+broadband is something that I bring up again and again. It is
+not just roads and bridges and airports. Sixty-five percent of
+my district, eight counties, very rural, lot of dairy farmers,
+are certainly underserved.
+My bill, H.R. 4798, is the bill that considers inventory of
+assets for the Communication Facilities Act of 2018. Let's know
+what we have got. Let's at least make it easier for some of the
+smaller carriers. Somebody, when we introduced this, made the
+comment, ``Well, don't the big guys already know what we have
+got?'' And maybe they do, maybe they don't. It never hurts to
+make it easier, but certainly some of the smaller suppliers, I
+think, may be those that end up coming into some of my rural
+communities, if they can see some value.
+So, maybe specifically, Mr. Spalter, I will ask you. As
+common sense as some of this is, I am presuming you would
+support such an inventory of assets, and could you speak to how
+that might help?
+Mr. Spalter. It is not only common sense, but it is music
+to our ears when the Federal Government wants to actually try
+to identify and map its assets. Great. And we encourage that to
+happen.
+I would also say that we know that when and as that mapping
+takes place and as inventories are done, we will be able to
+deliver more broadband more efficiently with the speed to
+market that will be much more effective. When our Federal
+infrastructure and assets are connected to broadband, they
+became more cost effective, safer, and have longer lifespans.
+So this is an important initiative that you are undertaking,
+and we applaud your effort for thinking it through, and we are
+going to support you.
+Mr. Collins. Good. Thank you.
+Mr. Gillen?
+Mr. Gillen. I think this is something actually both big and
+small companies don't know where those assets are, so I think
+it is a critical resource to be able to know when you are
+trying to deploy, particularly trying to deploy as quickly as
+you want to deploy, where we can and can't go. So I think it is
+a critical transparency vehicle for us to be able to start
+building faster.
+Mr. Collins. Yes. Ms. Bloomfield.
+Ms. Bloomfield. I was also just going to commend you for
+keeping it technology neutral, which I think is really going to
+be very important as we actually assess the assets.
+Mr. Polka. Finally, I would just say access to technology
+is important. Particularly for a smaller company where you have
+fewer customers per mile, but the cost of technology that you
+need to deploy the same mile of broadband is just about the
+same, whether you are in rural New York or in the middle of
+Manhattan.
+So having access to additional resources for small
+businesses is extremely important. In fact, I am not aware of
+any other idea like that before that has existed where such
+information would be made available to smaller companies. So we
+certainly appreciate the idea and really look forward to
+working with you on it.
+Mr. Collins. So, Mr. Gillen, you brought your 5G device in.
+Is this even more critical as we are going to have a lot more
+5G devices hanging out there than we are the big towers.
+Mr. Gillen. Absolutely. And I think when you talk about
+Federal assets, there is the post office, there is the Federal
+building in town, and it is critical for us to go in town and
+know exactly where we can start. Because if we want to win the
+5G race against China and others, we need all the information
+we can get.
+Mr. Collins. Do any of the other witnesses care to make a
+comment? I was going to say if not, but go ahead.
+Ms. Swanson Katz. Yes. No, I think it is incredibly
+important to know where the assets are, where the broadband is,
+what is available to consumers. And I think it is also
+important that it be independently verifiable, because I think
+it is important for the public to know that they can rely on
+the data and it's transparently available.
+Mr. Collins. We will make sure it is accurate.
+Thank you, Madam Chair. I yield black.
+Mrs. Blackburn. The gentleman yields back.
+Now to the patient Mr. Cramer.
+Mr. Cramer. I have patience. I am not sick. But thank you.
+And by the way, Madam Chair, thank you for the hearing. And
+thank all of you for your testimony, for being here. And it
+really didn't require any patience at all. This is really quite
+interesting to me and fascinating. So I appreciate everybody
+being here.
+I have to admit that sometimes when I hear about these
+sparsely populated states like Vermont and their digital
+divide, I start feeling a little guilty, because when I look at
+North Dakota, it is hard to claim a divide. Now, there are some
+places, but we have over 90 percent of our population that has
+100 Mbps or more, and 93 that are over 25. So while there are
+still a few spots, our folks do a great job.
+And, Ms. Bloomfield, you know well that, and this is one of
+the concerns I want to get to here with regards to some of this
+policy, that many of your members in North Dakota were
+broadband before broadband was cool. They were efficiently
+using Federal support funds to build out broadband long before
+it was mandated by either tradition or policy. And one of the
+things I worry a little bit about, as we talk about, and I
+support, let's get to unserved before underserved. That is
+really important. We want to have that bridge. It would be kind
+of crazy to have an interstate that if they decided to gravel
+for a couple miles in Montana or something. But as each
+generation comes and the demands get greater in places like
+North Dakota, where it is not just education, it is not just
+health care--huge, really huge--other business, really
+important, access to market is really important. But even
+safety, environmental safety, SCADA systems that have to work
+on our oil pipelines and our gas pipelines and, of course, our
+big transmission lines as we generate a lot of electricity. All
+of that will require upgrades.
+And so as we talk about the efficient deployment of Federal
+funds, I want to make sure that we have protections for
+upgrading as well. Does that make sense? Maybe I will start
+with you, Ms. Bloomfield, to comment, and anybody else that
+would like to.
+Ms. Bloomfield. You are absolutely spot on. And again,
+thank you for your leadership on all of these issues. And I
+think people are always surprised that North Dakota actually
+has probably one of most fiber-rich states in the country,
+because when you look at that land mass, it is pretty amazing.
+But in part, when you are really that rural, you actually see
+what broadband can do to kind of narrow that gap that geography
+creates. So the ability to do telemedicine, the ability to
+actually bring communities together, to do economic
+development. And then when you had the oil industry coming in,
+the ability to make sure that that economic enterprise was
+absolutely able to be supported.
+So the fact that people get so focused on building and they
+forget about the fact that you have got to maintain that
+network, otherwise, down the road, you don't have anything but
+a capacity that is limited by what it was when it was actually
+built. So the ability to live and breath.
+The other thing that I would tout, particularly in a State
+like North Dakota, is the ability of the carriers to
+collaborate with one another. They have created DCN, a State
+fiber network, the ability for them to realize that all boats
+rise. If they are able to build that infrastructure out
+further, all of the carriers in the State actually benefit from
+it, and the State itself benefits from it.
+Mr. Cramer. Well, I might, just to add a couple of
+statistics for others to comment, there are only three states
+that have less population density than North Dakota, but there
+are 20 states and territories that actually have less
+connectivity than North Dakota, so it can be difficult.
+But I also wonder, some of these other states have a lot of
+Federal lands, and we have been talking about that. We do not.
+We have some, but not a lot. It is not a barrier for us. I
+think state policy does matter. And while I agree that
+communities ought to have some competitiveness about how they--
+and some control over their own regulation, there should be a
+minimum standard that makes sure that the country is connected
+as well.
+But Mr. Spalter, you wanted to comment?
+Mr. Spalter. Well, I couldn't agree with you more that the
+cost of maintaining and upgrading networks for underserved
+areas is only escalating. It is a multiplier of what the bill
+costs actually are. And we know that particularly as we are
+seeing this extraordinary spike in the data that is being put
+through these networks from an increasingly small number of
+internet companies that are sending video to customers around
+the country, that this is even becoming more profound.
+So I completely agree with your insight but also your
+initiative via 4832 to not only think through opportunities to
+serve communities that have been impacted by disaster, but also
+to better serve communities that already have broadband.
+Mr. Cramer. Yes. Well, I think we have certainly learned
+some things in the last year that can be helpful in; that, so
+why not apply it across the board and avoid special
+circumstances.
+Anybody else?
+Mr. Polka. I would just offer, sir, when you talk about
+upgrades, it is really, really important to remember how these
+upgrades are accomplished. One of the things that I mentioned
+in my comments were about this sexy issue of pole attachments.
+It is incredibly important when you have either--whether it is
+an attachment to a pole or a conduit, it seems like our policy
+is any time something new happens to the pole or the conduit,
+that is a new starting point for a long application process,
+for fees and other things of that nature, rather than saying,
+how can we simplify this process? One Touch Make Ready,
+simplifying this to make sure that we get attachments on the
+poles, internet lines, through the conduits to get broadband
+out there faster. So I hope you factor that into your thinking
+as well.
+Mr. Cramer. Another reason not to nationalize anything.
+And with that, I yield back.
+Mrs. Blackburn. The gentleman yields back.
+This hearing is so popular today we have uc'd Mr. Tonko
+onto the committee for his questions. The gentleman is given 5
+minutes.
+Mr. Tonko. Thank you, Chair Blackburn. Thank you, Ranking
+Member Doyle, for hosting this hearing today.
+I hear from constituents across my district all the time on
+the need for broadband expansion. I was excited to see that the
+ACCESS BROADBAND bill included in today's discussion, which I
+have sponsored, is part of the focus. But I fear that we don't
+have the time to have an in-depth discussion on many of these
+important issues.
+I am proud to have worked on this legislation with
+Congressman Leonard Lance, and thank the bipartisan group of
+Members who have cosponsored the legislation, including eight
+members of the Energy and Commerce Committee who have worked
+together and agreed that this is an issue worth supporting.
+I also want to thank Jonathan Spalter with USTelecom for
+your call to action to move forward on vital bills like ACCESS
+BROADBAND that offer responsible solutions. I have engaged with
+industry and many organizations and believe this is a bill we
+can all work on together and support.
+Chair Blackburn and Ranking Member Doyle, I ask that as we
+move forward, we take a closer look at pieces of legislation
+like ACCESS BROADBAND that have strong bipartisan support.
+Let's have a discussion on what we can improve and let's move
+the bills forward.
+H.R. 3994, the Advancing Critical Connectivity Expands
+Service, Small Business Resources, Opportunities, Access, and
+Data Based on Assessed Need and Demand, or ACCESS BROADBAND--
+that acronym took a bit of work--would establish a coordinating
+office for Federal broadband resources. It would use existing
+resources to streamline management of Federal broadband
+resources across multiple agencies and simplify the process for
+small businesses and local economic developers to access them.
+Broadband internet access is often the difference between
+success and failure for students doing homework, job seekers
+training for a new career, doctors reading a medical scan, or
+entrepreneurs starting a small business. However, to date, the
+Federal Government has done a poor job of tracking broadband
+deployment.
+Currently, there is no comprehensive system that tracks
+where Federal dollars are going and how the funding is
+impacting communities. Investments are made with little
+accountability and oversight on behalf of the taxpayer.
+So, Ms. Hovis, can agencies do a better job of coordinating
+Federal resources? And what are some of the current problems we
+see with a lack of coordination?
+Ms. Hovis. Congressman, I think coordination would be
+exceptionally helpful. It is obviously not a simple matter in
+any large organization, whether public or private, but it would
+be helpful, not only because we would be collecting better data
+of all types and knowing exactly how public funds are being
+spent and the impact they are having on the broadband
+environment, Federal Government is a big buyer of services and
+so its dollars are being spent to deploy infrastructure in
+certain places and to make it more economical in other places.
+It would be helpful from that standpoint, but it would also be
+helpful with things like--and I think many of my colleagues
+have spoken to this sort of thing--knowing where public assets
+are and knowing how public assets can be used.
+An example of this would be that there is at the state and
+local level, I think, some confusion among private companies,
+but also departments of transportation about whether assets
+built with Federal funds for transportation purposes can be
+used, excess capacity can be used for broadband purposes,
+whether public or private. Clearing up some of that confusion,
+having coordination among different levels of government and
+among different government entities would be enormously helpful
+and timesaving.
+Mr. Tonko. And, obviously, that coordination could unlock
+more broadband development?
+Ms. Hovis. Yes, I think it could. That information is
+always going to be better, and lack of information, like a map
+that is insufficiently granular, or lack of information about
+what different agencies are doing and spending makes it just
+that much harder to plan in an efficient and pragmatic way.
+Mr. Tonko. I have a question for both you, Ms. Hovis and
+Mr. Spalter. Can we better coordinate to simplify the process
+for companies, for small businesses, and local economic
+developers to access Federal resources?
+Mr. Spalter. Well, I think we can. And I must say,
+Congressman, that the ACCESS BROADBAND Act is an innovative
+step towards unlocking that opportunity. Not only do you
+recognize at its core that we have to do better in managing and
+streamlining and making more efficient Federal broadband
+resources, but the more that our smaller enterprises can have a
+greater understanding of how those resources are being directed
+and how they are being managed, there will be opportunities to
+create even more efficiencies for broadband deployment and for
+their participation in that process.
+And so we are very grateful for your insight, but also your
+foresight in making sure that we can do better in unlocking the
+opportunities of managing our Federal resources in a more
+efficient way.
+Mr. Tonko. Thank you.
+And, Ms. Hovis?
+Ms. Hovis. I totally agree. And I would just add to that
+that it is critically important, obviously, that those assets
+and resources were built for particular purposes having to do
+with the agencies that built them and their critical mission.
+And so it is critical that no asset is ever compromised by a
+secondary use, as important as these secondary uses are.
+Transportation, public safety, all of these kinds of
+infrastructure assets have that first primary use. But subject
+to protection of that use and security and so on, there is
+enormous potential value of this kind of coordinated planned
+approach.
+Mr. Tonko. So I would assess that the Federal Government,
+knowing where it spends on broadband and understanding the
+impact of this spending, are going to provide a lot of
+direction as we go forward.
+So were you going to add----
+Mr. Spalter. I am just agreeing with you, sir.
+Mr. Tonko. OK. Thank you. Thank you so much to our
+witnesses too, and thank you for allowing me to participate.
+I yield back.
+Mrs. Blackburn. The gentleman yields back.
+And seeing that there are no further members----
+Mr. Doyle. Madam Chair?
+Mrs. Blackburn [continuing]. Asking questions--yes, Mr.
+Doyle, you are recognized.
+Mr. Doyle. I would like to get unanimous consent to enter a
+few things into the record. A press release from PCCA on
+today's hearing, an Axios story on the National Security
+Council's plan to nationalize 5G networks, the PowerPoint
+slides and memo discussing that story, and a letter from
+Tipmont REMC.
+Mrs. Blackburn. Without objection.
+[The information appears at the conclusion of the hearing.]
+Mr. Doyle. Thank you.
+Mrs. Blackburn. And pursuant to committee rules, all
+members have 10 days to submit questions, and we would ask that
+you respond in 10 days to those questions.
+Without any further business coming to the subcommittee
+today, the committee is adjourned.
+[Whereupon, at 12:35 p.m., the subcommittee was adjourned.]
+[Material submitted for inclusion in the record follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

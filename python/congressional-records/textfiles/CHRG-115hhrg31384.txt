@@ -1,0 +1,2333 @@
+- EXAMINING THE CRYPTOCURRENCIES AND ICO MARKETS
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+EXAMINING THE CRYPTOCURRENCIES
+AND ICO MARKETS
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON CAPITAL MARKETS,
+SECURITIES, AND INVESTMENT
+OF THE
+COMMITTEE ON FINANCIAL SERVICES
+U.S. HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+MARCH 14, 2018
+__________
+Printed for the use of the Committee on Financial Services
+Serial No. 115-79
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+31-384 PDF
+WASHINGTON : 2018
+-----------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail, [email protected]
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+JEB HENSARLING, Texas, Chairman
+PATRICK T. McHENRY, North Carolina,
+MAXINE WATERS, California, Ranking
+Vice Chairman
+Member
+PETER T. KING, New York
+CAROLYN B. MALONEY, New York
+EDWARD R. ROYCE, California
+NYDIA M. VELAZQUEZ, New York
+FRANK D. LUCAS, Oklahoma
+BRAD SHERMAN, California
+STEVAN PEARCE, New Mexico
+GREGORY W. MEEKS, New York
+BILL POSEY, Florida
+MICHAEL E. CAPUANO, Massachusetts
+BLAINE LUETKEMEYER, Missouri
+WM. LACY CLAY, Missouri
+BILL HUIZENGA, Michigan
+STEPHEN F. LYNCH, Massachusetts
+SEAN P. DUFFY, Wisconsin
+DAVID SCOTT, Georgia
+STEVE STIVERS, Ohio
+AL GREEN, Texas
+RANDY HULTGREN, Illinois
+EMANUEL CLEAVER, Missouri
+DENNIS A. ROSS, Florida
+GWEN MOORE, Wisconsin
+ROBERT PITTENGER, North Carolina
+KEITH ELLISON, Minnesota
+ANN WAGNER, Missouri
+ED PERLMUTTER, Colorado
+ANDY BARR, Kentucky
+JAMES A. HIMES, Connecticut
+KEITH J. ROTHFUS, Pennsylvania
+BILL FOSTER, Illinois
+LUKE MESSER, Indiana
+DANIEL T. KILDEE, Michigan
+SCOTT TIPTON, Colorado
+JOHN K. DELANEY, Maryland
+ROGER WILLIAMS, Texas
+KYRSTEN SINEMA, Arizona
+BRUCE POLIQUIN, Maine
+JOYCE BEATTY, Ohio
+MIA LOVE, Utah
+DENNY HECK, Washington
+FRENCH HILL, Arkansas
+JUAN VARGAS, California
+TOM EMMER, Minnesota
+JOSH GOTTHEIMER, New Jersey
+LEE M. ZELDIN, New York
+VICENTE GONZALEZ, Texas
+DAVID A. TROTT, Michigan
+CHARLIE CRIST, Florida
+BARRY LOUDERMILK, Georgia
+RUBEN KIHUEN, Nevada
+ALEXANDER X. MOONEY, West Virginia
+THOMAS MacARTHUR, New Jersey
+WARREN DAVIDSON, Ohio
+TED BUDD, North Carolina
+DAVID KUSTOFF, Tennessee
+CLAUDIA TENNEY, New York
+TREY HOLLINGSWORTH, Indiana
+Shannon McGahn, Staff Director
+Subcommittee on Capital Markets, Securities, and Investment
+BILL HUIZENGA, Michigan, Chairman
+RANDY HULTGREN, Illinois, Vice
+CAROLYN B. MALONEY, New York,
+Chairman
+Ranking Member
+PETER T. KING, New York
+BRAD SHERMAN, California
+PATRICK T. McHENRY, North Carolina
+STEPHEN F. LYNCH, Massachusetts
+SEAN P. DUFFY, Wisconsin
+DAVID SCOTT, Georgia
+STEVE STIVERS, Ohio
+JAMES A. HIMES, Connecticut
+ANN WAGNER, Missouri
+KEITH ELLISON, Minnesota
+LUKE MESSER, Indiana
+BILL FOSTER, Illinois
+BRUCE POLIQUIN, Maine
+GREGORY W. MEEKS, New York
+FRENCH HILL, Arkansas
+KYRSTEN SINEMA, Arizona
+TOM EMMER, Minnesota
+JUAN VARGAS, California
+ALEXANDER X. MOONEY, West Virginia
+JOSH GOTTHEIMER, New Jersey
+THOMAS MacARTHUR, New Jersey
+VICENTE GONZALEZ, Texas
+WARREN DAVIDSON, Ohio
+TED BUDD, North Carolina
+TREY HOLLINGSWORTH, Indiana
+C O N T E N T S
+----------
+Page
+Hearing held on:
+March 14, 2018...............................................
+1
+Appendix:
+March 14, 2018...............................................
+41
+WITNESSES
+Wednesday, March 14, 2018
+Brummer, Chris, Professor of Law, Georgetown University Law
+Center.........................................................
+7
+Lempres, Mike, Chief Legal and Risk Officer, Coinbase............
+5
+Rosenblum, Robert, Partner, Wilson Sonsini Goodrich & Rosati.....
+8
+Van Valkenburgh, Peter, Director of Research, Coin Center........
+10
+APPENDIX
+Prepared statements:
+Brummer, Chris...............................................
+42
+Lempres, Mike................................................
+48
+Rosenblum, Robert............................................
+55
+Van Valkenburgh, Peter.......................................
+76
+Additional Material Submitted for the Record
+Huizenga, Hon. Bill:
+Statement for the record from Liquid M Capital, Inc..........
+86
+Foster, Hon. Bill:
+Statement for the record from Sweetbridge....................
+92
+Lempres, Mike:
+Responses to questions for the record from Representatives
+Emmer and Hultgren.........................................
+94
+Rosenblum, Robert:
+Responses to questions for the record from Representative
+Hultgren...................................................
+100
+Van Valkenburgh, Peter:
+Responses to questions for the record from Representative
+Emmer......................................................
+106
+EXAMINING THE CRYPTOCURRENCIES
+AND ICO MARKETS
+----------
+Wednesday, March 14, 2018
+U.S. House of Representatives,
+Subcommittee on Capital Markets,
+Securities, and Investment,
+Committee on Financial Services,
+Washington, D.C.
+The subcommittee met, pursuant to notice, at 10:06 a.m., in
+room 2128, Rayburn House Office Building, Hon. Bill Huizenga
+[chairman of the subcommittee] presiding.
+Present: Representatives Huizenga, Hultgren, Stivers,
+Wagner, Hill, Emmer, MacArthur, Davidson, Budd, Hollingsworth,
+Maloney, Sherman, Scott, Himes, Ellison, Foster, Sinema,
+Vargas, and Gottheimer.
+Also present: Representative Hensarling.
+Chairman Huizenga. The committee will come to order. And
+without objection, the Chair is authorized to declare a recess
+of the committee at any time. The hearing is entitled
+``Examining the Cryptocurrencies and ICO Markets.''
+I now recognize myself for 4 minutes to give an opening
+statement.
+The cryptocurrency and initial coin offering (ICO) markets
+have grown rapidly in recent years, and actually it is more
+like recent months. Specifically ICOs have been increasingly
+used by companies to raise capital for their business and
+products. To that end, people often equate them with a new type
+of initial public offering or an IPO; however, an ICO is not an
+IPO.
+ICOs, whether they represent offerings of securities or
+not, offer potential for entrepreneurs to raise more effective,
+transformative, and efficient funding for an innovative project
+as opposed to a traditional IPO.
+Although an ICO has the same characteristics of raising
+capital and accessing new sources of investment, it does not
+involve an investment in some amount of equity in a company,
+which is afforded under an IPO, nor does it offer the same
+amount of investor protections.
+The size of the ICO market has grown exponentially in this
+past year and the Token Report estimates that approximately
+$6.6 billion was raised in coin offerings. In 2018 alone, just
+in the first few months, 480 ICOs are estimated to have raised
+$1.66 billion.
+Cryptocurrencies and ICOs provide an innovative vehicle for
+startups to potentially access capital and grow their
+businesses. Early investors in some cryptocurrencies have
+experienced massive gains, and the ever-increasing number of
+ICOs has created opportunities for investors to diversify their
+portfolios in cryptocurrencies.
+Since the surge in popularity or crypto craze, there has
+been considerable attention attracted both by investors seeking
+to diversify their portfolios and startup enterprises in search
+of additional access to capital and to grow their businesses.
+This is also rightly garnered attention of the regulators.
+Additional scrutiny has surrounded the cryptocurrency and IPO
+markets due to the number of fraudulent IPOs that have raised
+money with no intention of ever providing a product or a return
+to the ICO purchasers.
+A soon to be published MIT study of the ICO market
+estimates that $270 million to $317 million of the money raised
+by coin offerings has, quote, ``likely gone to fraud or
+scams,'' end quote, according to MIT Professor Christian
+Catalani.
+The SEC (U.S. Securities and Exchange Commission) has the
+authority to bring enforcement actions against ICOs for any
+violation of the Federal securities laws. As part of this
+increased scrutiny of the ICOs, the SEC recently announced
+actions against two virtual currency organizations for engaging
+in unregistered securities offerings.
+Additionally, the SEC suspended trading in three issuers
+claiming involvement in cryptocurrency and blockchain
+technology. The Wall Street Journal also recently reported that
+the SEC has issued, quote, ``dozens of subpoenas and
+information requests to technology companies and advisors
+involved in ICOs,'' closed quote, including, quote, ``demands
+for information about the structure for sales and presales of
+the ICOs,'' closed quote.
+Further, on March 7 of this year, the SEC broadened its
+series of notice statements to exchange-type activity, warning
+that online trading platforms may also be violating the Federal
+securities laws.
+According to the statement, ``If a platform is providing a
+mechanism for trading assets that are classified as securities
+under the Federal securities laws, then the platform is
+operating as an exchange and must register with the SEC as a
+national securities exchange.''
+Today's hearing will examine the economic efficiencies and
+potential capital formation opportunities that cryptocurrencies
+and ICOs potentially offer to businesses and investors, and
+review the adherence to applicable laws so that investors
+receive the full protections afforded by the Federal securities
+laws.
+Additionally, the hearing will consider the current
+regulatory approach that regulators such as the SEC are using
+to monitor and oversee cryptocurrencies and ICOs and how to
+achieve further regulatory clarity in these markets.
+As further action on how to regulate cryptocurrency and ICO
+markets is considered, it is important that innovation in the
+area of digital currencies and capital formation are not
+stifled while ensuring that consumers are protected, fraud is
+prevented, and securities laws are followed.
+The Chair now recognizes the gentleman from Minnesota, Mr.
+Ellison, for 2-1/2 minutes for an opening statement.
+Mr. Ellison. Mr. Chairman, thank you for calling this
+important hearing today. As important as it is, there are some
+other things happening that I want to address.
+The Senate is voting today to roll back some of the rules
+for the biggest banks in the country. Think about that for a
+minute. Just 10 years after big banks crashed the economy,
+Senate Republicans and some Dems want to roll back the rules
+that we put in place to prevent the next crash.
+My colleagues may have forgotten about how bad the crash
+was, but I haven't. Millions of people lost their jobs. One in
+54 homes was in foreclosure. $2.6 trillion vanished from
+America's retirement accounts. So why on earth are we going
+back there? Supporters of the bill say this is just about
+helping out the small community banks. No, no, not buying it.
+Community banks are doing pretty well. We are not saying
+they don't need some attention, but this is not about them. The
+FDIC (Federal Deposit Insurance Corporation) says that 96
+percent of them are profitable and these profits are higher
+than ever.
+Again, I want to be attentive and responsive to community
+banks, but this is not about the small banks. The banks that
+are going to benefit here, these are banks that got close to
+$50 billion in bailout money during the crisis and banks that
+can put their name on a football stadium.
+Some of these provisions in this bill roll back the rules
+for the very largest banks like Citigroup and JPMorgan Chase.
+This bill increases the chance of another crash and the
+nonpartisan Congressional Budget Office says the bill will
+increase the likelihood of another bailout.
+I am disappointed that the Senate is likely to pass this
+bill today, and I can promise this committee that I will do
+everything in my power to stop it when it comes over to the
+House.
+And I yield back. Thank you.
+Chairman Huizenga. The gentleman yields back.
+The gentleman from Illinois, the Vice Chairman of the
+committee, Mr. Hultgren is recognized for 1 minute.
+Mr. Hultgren. Thanks, Chairman Huizenga. Thank you all for
+being here.
+According to CoinMarketCap.com, there are over 1,500
+different cryptocurrencies for capitalization estimated at $350
+billion. That is a staggering amount of money.
+As this market develops, Congress has a responsibility to
+ensure that investors are protected without unduly limiting
+opportunities for growth. Some of our most respected technology
+companies have expressed at least some uncertainty regarding
+cryptocurrencies. This is a complicated topic.
+For example, Google just announced it is banning ads
+promoting cryptocurrencies, exchanges, wallets, initial coin
+offerings, and firms providing advice. Congress needs a strong
+understanding of the technology and its application before we
+can understand how it fits into our existing regulations and
+how the laws we have on the books may encourage or inhibit an
+efficient market.
+For example, do we need clarification of what a
+cryptocurrency exchange is and if this word implies any
+investor protections? The SEC staff made this point the other
+day when noting, and I quote, ``many online trading platforms
+appear to investors as SEC registered and regulated
+marketplaces when they are not,'' end quote.
+Similarly, Chairman Clayton has expressed skepticism about
+no initial coin offerings being registered. There are a lot of
+questions in this. I think it important that we are having this
+hearing today.
+My time has expired, and I yield back.
+Chairman Huizenga. The gentleman's time has expired.
+The Chair now recognizes the gentleman from California, Mr.
+Sherman for 2-1/2 minutes.
+Mr. Sherman. Unfortunately, our colleague, distinguished
+Ranking Member was unable to be here this morning, and I ask
+unanimous consent to enter into the record the statement of the
+gentlelady from New York.
+Chairman Huizenga. Without objection.
+Mr. Sherman. Cryptocurrencies are a crock. What social
+benefit do they provide? They allow a few dozen men in my
+district to sit in their pajamas on the couch all day and tell
+their wives they are going to be millionaires.
+They help terrorists and criminals move money around the
+world. They help tax evaders. They help startup companies
+commit fraud, take the money and 1 percent of the time they
+actually create a useful business. But then again, I daresay
+that some tiny percent of all larceny and crime helps finance
+something that turns out to be useful.
+It hurts the U.S. Government in two ways. Our ability to
+have the dollar be the chief means of international finance is
+what has underpinned our ability to impose sanctions and stop
+tax cheating. And furthermore, when we have people take risk we
+don't encourage gambling. We encourage investment in the real
+economy.
+But when you buy a Bitcoin are you financing a new factory?
+No. You are gambling on its value for no social benefit. Now, I
+know that these cryptocurrencies are popular. They are popular
+with guys who want to sit in their pajamas and tell their wives
+they are going to be millionaires.
+And they are popular with those who have read ``Atlas
+Shrugged'' and ``Fountainhead'' and believe that these are the
+new canons, the new divinely inspired documents of our age.
+But they are harmful and they are harmful in one other way,
+and that is--and I am going to mispronounce the word,
+seigniorage is the benefit that the U.S. Government gets by
+issuing currency. It is the float. It is the fact that we do
+not pay interest on newly created dollars.
+We lose that as well. And the Fed was able to return well
+over $50 billion to our Treasury in many of the recent years.
+We undercut that.
+And then finally, we have these initial coin offerings
+deliberately naming themselves to lie to the public and convey
+the image that it is like an initial public offering. They
+stole the intellectual property and trademark of legitimate
+investing and applied it to a fixed fraudulent gambling scheme
+of no social benefit.
+Aside from that, I think it is a good idea. I yield back.
+Chairman Huizenga. The gentleman yields back.
+And gentlemen on our panel, you are in for a lively
+conversation. No, this is not a Senate hearing about Dodd-Frank
+reform. You are in the right place. We are here to talk about
+cryptocurrencies and blockchain technologies. But we are here
+to welcome today a great panel.
+And Mr. Mike Lempres, who is the Chief Legal and Risk
+Officer for Coinbase; Dr. Chris Brummer, who is a Professor of
+Law from Georgetown University Law Center; Mr. Robert
+Rosenblum, Partner at Wilson Sonsini Goodrich & Rosati; and
+Peter Van Valkenburgh, Director of Research for Coin Center.
+Each of you will be recognized for 5 minutes to give an
+oral presentation of your testimony. Having read the testimony,
+there is far more than 5 minutes of information in each one of
+yours, so good luck as you consolidate that down.
+We will then have a question period and we will without
+objection put your written testimony into the permanent record
+and part of the record as well.
+So with that, Mr. Lempres, you are recognized for 5
+minutes.
+STATEMENT OF MIKE LEMPRES
+Mr. Lempres. Thank you and good morning, Chairman Huizenga,
+Ranking Member Maloney, and members of the subcommittee. Thank
+you for the opportunity to address this important topic at a
+significant time.
+My name is Mike Lempres and I am the Chief Legal and Risk
+Officer at Coinbase, the Nation's leading digital currency
+exchange and wallet service.
+I commend you for holding this hearing on a technology that
+could transform capital formation, innovation, and our economy.
+It has tremendous potential.
+To fulfill that potential, we believe that responsible
+regulation is required, but the technology's incredible
+benefits could also be stifled by regulatory or legal missteps.
+I am pleased to testify this morning on behalf of Coinbase. We
+view ourselves a as leader in the legitimatization and
+maturation of the crypto economy.
+We provide an onramp for acquiring, trading, and holding
+digital currencies. Through our strategy of operating the most
+trusted and easiest-to-use digital exchange and wallet, we have
+grown dramatically. We have very strong cybersecurity
+protections and compliance practices to ensure that we remain
+the most trusted company in this space.
+Our cybersecurity program is state-of-the-art and remains
+the critical core of our business.
+Similarly, our compliance program is designed to build upon
+the highest levels of compliance in our industry. In addition
+to our formal regulatory role, Coinbase continuously shares its
+expertise to make sure that our ecosystem is clean and
+compliant. We train more law enforcement agencies globally than
+anyone.
+I plan to discuss three items today: The model of the
+Coinbase exchange; our view on ICOs; and the broader regulatory
+environment. The Coinbase exchange operates a spot exchange
+that offers the ability to buy and sell four digital
+currencies.
+We do not offer margin or derivatives trading. There are
+more than 1,400 currencies and tokens available, and we limit
+our trading to four that have regulatory clarity: Bitcoin,
+Ether, Litecoin, and Bitcoin Cash. Part of the reason we trade
+only those four assets is that each has been determined by
+regulators to be a virtual currency and therefore we believe
+not a security.
+One of today's questions is how to approach ICOs. Coinbase
+currently does not trade ICOs or any other security tokens.
+Despite that, we believe that ICOs are inevitable and full of
+tremendous potential.
+We believe they can unlock the ability of entrepreneurs
+anywhere in the United States to raise money on a level playing
+field. Entrepreneurs won't need to know funders in Silicon
+Valley or New York to access vibrant sources of capital.
+At the same time, there is a need for responsible
+regulation to ensure investor protection. We welcome that
+regulation.
+In order to fully enable ICOs, investors must have
+confidence in the integrity of the market. For this reason, we
+support enforcement actions where they are necessary to weed
+out bad actors and to protect investors.
+At the same time, we need to be sure that we are not
+chilling good innovation brought about by new technology and
+good actors.
+We believe there is no need for Congress to create a new
+regulator or a new regulatory scheme because Federal regulators
+already have sufficient authority to oversee this space
+effectively. There are at least four Federal regulatory
+agencies that can effectively protect investors and the
+markets: The SEC, the CFTC (Commodity Futures Trading
+Commission), FinCEN (Financial Crimes Enforcement Network), and
+the Federal Trade Commission.
+In addition, this Federal regulatory regime exists
+alongside vibrant State regulations.
+With respect to the U.S. regulatory environment, it is
+important to stress that not all tokens are alike and
+regulators need to be able to distinguish between various
+tokens to enable innovation. This requires regulators to
+coordinate and provide clear guidance to market participants.
+For example, some tokens may be a commodity and others a
+security. The SEC and CFTC should be able to draw a line to
+determine whether a token should be treated as a commodity or a
+security for compliance purposes.
+The agencies have done this before when new asset classes
+emerge, for example, in addressing stock indices and swaps. As
+mentioned in the beginning, we operate the most trusted and
+easiest-to-use platform to access digital currencies. We
+believe that trust is enhanced through partnership with
+regulators.
+At Coinbase, we are committed to working with you, the SEC,
+the CFTC, and other regulators to help shape a responsibly
+regulated market. We believe the decisions you are making now
+will help determine the future of innovation and capital
+formation. That future is not 20 years away. It is almost here
+today.
+Thank you for this opportunity to discuss these issues, and
+I look forward to answering your questions.
+[The prepared statement of Mr. Lempres can be found on page
+48 of the appendix.]
+Chairman Huizenga. Thank you.
+With that, we go to Dr. Brummer, who is recognized for 5
+minutes.
+STATEMENT OF CHRIS BRUMMER
+Dr. Brummer. Chairman Huizenga, members of the subcommittee
+thank you so much for inviting me here to testify at this
+hearing. My name is Chris Brummer and I am the Agnes and
+Williams Research Professor at Georgetown University Law
+Center. And I am here today solely in my capacity as an
+academic and I am not testifying on behalf of any entity.
+We are blessed in the United States to have one of the
+safest, deepest, and most liquid capital markets in the world.
+One of the reasons for this success is our system of
+information sharing and dissemination to investors.
+The disclosure system embodied in the Securities Act of
+1933 is largely one where promoters share among other things
+material information publicly about the company, the management
+and the securities being offered, as well as the intended use
+of the proceeds. This information is then filed with the
+Securities and Exchange Commission where it is vetted,
+scrubbed, and analyzed.
+Most ICO disclosures, by contrast, are facilitated by
+unregulated white papers focusing largely on the existing
+technology or technology under development to be financed via
+an offering.
+There is, as a result, a large gap between the disclosures
+and many of the registered filings such as an S-1, and the
+information provided in most white papers. And this raises a
+number of red flags, to say the least.
+For our purposes today, I would like to highlight briefly
+some of the key disclosures one would expect and likely need in
+order for buyers of ICO tokens, whether they are investors
+seeking to profit or technology users seeking to support and
+participate in an innovative product, in order to make a
+purchase in an informed manner.
+These disclosures are relevant, especially relevant, I
+believe, as ICOs transition from technical expert ecosystems to
+the disruption of instruments that are ever more likely to
+attract everyday investors and the retail public.
+Disclosure number one, promoter's location. At least one
+study has noted that in roughly 32 percent of ICOs, it is not
+possible to identify the issuing entities' or promoters'
+origin. This creates serious information asymmetries on the
+part of the investor.
+Without knowing the issuing entities' or promoters' origins
+it becomes impossible to know or identify what rules and legal
+protections might be afforded to investors. Further, investors
+have few means by which to contact relevant public authorities
+in the case of fraud, theft, or loss.
+ICO white papers should therefore set out a detailed
+statement beyond a simple P.O. Box of where the issuer, as well
+as its key management, are located.
+Disclosure number two, problem in proposed technology
+solution. For most of the history of U.S. securities laws, no
+information was more important for investors than an issuer's
+financial statements. But ICOs tend to serve a different
+purpose from IPOs of the 1930's.
+Instead of funding industrial companies transitioning to a
+more mature cycle of development, ICOs involve products
+developed by startups identifying technology-based problems and
+proposing the sale or financing of technology-based solutions.
+And in return for financing, promoters offer coins of varying
+currency, utility, or securities features.
+For most of these offerings, as a rule, is not the
+company's past performance or even financial statements that is
+most important. Instead, it is the ventures technology
+proposition. Consequently, ensuring that investors, including
+retail buyers, understand the basic contours of the underlying
+technology solution is paramount as ICOs become a more popular
+means of fundraising.
+To that end, you can envision a number of important
+reforms. An optimal disclosure system for IPOs would require,
+to the extent possible, a plain English description of the
+technology problem and solution.
+Furthermore for larger fundraises, more technical parts of
+the white paper would ideally be subject to a system of third-
+party validation, what could be termed a technology audit.
+And meanwhile, all code, regardless of the size of the
+fundraise, would be posted to a public code repository such as
+GitHub so potential buyers can either diligence the code itself
+or other proxies for the strength of the code.
+Promoters should avoid hyperbole when describing their
+solutions, an endemic problem in many white papers, and should
+be required to identify an objective basis for all forward-
+looking statements.
+Along these lines, disclosures should be made as to whether
+post-ICO financial statements will be provided to token
+holders. A description of the token is also useful.
+Promoters should be able to disclose whether or not and how
+the IPO ownership of the company's protocol, as well as to
+detail with specificity, what legal rights holders of the
+tokens will enjoy, as well as how the tokens will be traded and
+on what system.
+They should also be required to provide disclosures for
+blockchain governance and the basic risk factors impacting not
+only the token itself but the industry at large. Thank you.
+[The prepared statement of Dr. Brummer can be found on page
+42 of the appendix.]
+Chairman Huizenga. Thank you.
+Mr. Rosenblum, you are recognized for 5 minutes.
+STATEMENT OF ROBERT ROSENBLUM
+Mr. Rosenblum. Chairman Huizenga, honorable members, first
+of all, let me thank all of you for holding this hearing. I
+think it is timely. I think it is very, very important and I
+think many people in the industry, those who want to get things
+right, will very much welcome your participation and your
+interest in the topic. So again, thank you for holding the
+hearing.
+I am a partner at the law firm of Wilson Sonsini Goodrich &
+Rosati, a Palo Alto law firm that is generally recognized as
+being a leading advisor to technology firms, to life sciences
+firms, and the like. I am the head of the firm's blockchain and
+cryptocurrency practice.
+Now, I do need to say that I am appearing here on my own
+behalf, not on behalf of my law firm, not on behalf of any
+client. However, thank you for having me anyway.
+In our capacity as being among if not the leading tech
+firm, we obviously handle a great number of initial coin
+offering and similar transactions. We represent a large number
+of ICO issuers, we represent a large number of funds that
+invest in initial coin offerings, we represent a large number
+of entities, often very sophisticated entities, that are
+investing in initial coin offerings.
+I will give you a quick observation that, about 9 months
+ago or so, the ICO market really started to become significant
+in the United States. I was concerned, as some of the comments
+we have already heard, as to whether there was really a there
+there.
+As I will talk about in a couple of moments, I think there
+really are some very important things happening in this market
+and again I think that is why it is so important for this
+subcommittee to be focusing on these issues.
+I actually have two basic proposals or two basic
+suggestions for this subcommittee: First, I think in the near
+term, Congress could greatly help the markets, the ICO markets,
+to facilitate good ICOs and to help guard against fraud.
+By authorizing the SEC or by authorizing and encouraging
+the SEC and other appropriate Federal regulators to both modify
+and amend their rules to better assist ICO issuers in meeting
+the requirements of the Federal securities laws.
+As Dr. Brummer says, there are already a number of
+disclosure issues, there are already a number of registration
+requirements to securities issuers. They don't work well. They
+are not geared toward ICOs and to tokens and so the SEC can be
+doing a lot more. Although they are trying very hard, they can
+do a lot more to amend their rules and modify their rules and I
+think this committee can help.
+I think in the longer term, this committee can lead the way
+toward having a more unified disclosure approach, registration
+approach, overall legislative approach to how we handle ICOs
+and token use in the United States.
+Truthfully, I think it is too early to know exactly what
+the contours of that legislation are going to look like at this
+point. Again, we are only 9 months in really to ICOs.
+The industry is so dynamic and changing so quickly that I
+think it would be premature at this point to try to actually
+craft that legislation, but I do think that there are basic
+principles that can help us inform what that legislation will
+look like when you are able to get to it.
+I think there are three things though that in all of your
+legislative activities that we should be keeping in mind. One
+is there is tremendous innovation in the blockchain and
+cryptocurrency community. And by the way, cryptocurrency is a
+bit of a misnomer.
+There are some tokens, Bitcoin, Ether, for example, that
+really are cryptocurrencies. There are a number of other
+tokens, and those are most of those that we will probably be
+talking about today that have very specific purposes on very
+specific platforms, designed to do very special things.
+Second, there are tremendous capital-raising techniques and
+I hope during this hearing we will be able to discuss why those
+capital-raising techniques or opportunities are so significant
+and potentially so valuable to the U.S. economy.
+Third, there is no getting around the fact that there is
+significant fraud, significant opportunities for market
+manipulation, significant opportunities for loss of privacy and
+data breaches. And those need to be part of and considered in
+any regulatory and legislative response. With that, let me end
+my remarks and thank you so much.
+[The prepared statement of Mr. Rosenblum can be found on
+page 55 of the appendix.]
+Chairman Huizenga. Thank you.
+Mr. Van Valkenburgh, you are recognized for 5 minutes.
+STATEMENT OF PETER VAN VALKENBURGH
+Mr. Van Valkenburgh. Thank you, Chairman Huizenga and
+members of the committee. I am Peter Van Valkenburgh, Director
+of Research at Coin Center, an independent non-profit that is
+focused on the cryptocurrency public policy space. Today, I
+will start by describing the fundamental innovation of Bitcoin,
+then discuss the differences between cryptocurrencies and ICOs,
+and finally describe the regulatory landscape for these
+technologies.
+The fundamental innovation of Bitcoin is digital scarcity.
+So in the physical world a thing like gold is scarce because
+you can hold it in your hand. You can ask a lab to tell you
+that it is real and when you hand it to somebody else they have
+it and you don't. But in the digital world, how can we know
+that a Bitcoin is scarce?
+We know that there are only 16.9 million Bitcoins in the
+world right now because their distribution and movements are
+described with perfect accuracy on a public ledger called the
+Bitcoin Blockchain. Anyone can independently read and
+mathematically authenticate the data in the blockchain just
+like anyone can independently verify the scarcity of gold.
+Now that digital scarcity can then be employed by
+innovative people for a variety of innovative purposes. A token
+that is scarce and transferrable from person to person can be
+used as money just like any other portable and transferable
+good throughout history from gold to seashells. That, in a
+nutshell, is Bitcoin.
+But a scarce token can also be automatically redeemable for
+a digital good or computing service provided by the same
+network of participants who verify the blockchain. And these
+are projects like Ethereum, Filecoin, and Blockstack and they
+are beginning to compete with incumbent service providers like
+Amazon, Facebook, and Google.
+A scarce token can also represent a legal agreement or a
+financial asset. So a public company or investment fund could
+issue and track its shares as tokens on a blockchain.
+Now, these blockchains are just records. Whether they are
+about money, assets, or computation, but rather than relying on
+a handful of corporations running vulnerable datacenters to
+keep the record, a blockchain version of the record relies on
+an open network of thousands, potentially millions of
+participants who have skin in the game and independently verify
+and secure that data.
+Those records will always be available until every last
+participant goes offline. In other words, they will likely
+always be available.
+And those records will be accurate unless every participant
+has their individual computer hacked. In other words, they will
+likely always be accurate. It is this revolutionary-
+decentralized architecture that makes these systems effectively
+unhackable, at least using traditional methods of attack.
+Especially pertinent to today's hearing, these technologies
+are also employed for capital formation. Scarce tokens like
+Bitcoin and Ether already exist in the world and they are in
+use. But other coins and tokens are merely theoretical because
+the software that will enable them has yet to be designed and
+built.
+Recently, various developers have raised money to fund the
+development of new blockchain software projects by selling a
+promise of future tokens to willing investors in so-called
+initial coin offerings or ICOs.
+From a regulatory standpoint, there is a fundamental
+distinction that must be made between, on the one hand, scarce
+tokens that exist on a blockchain and are used for payment or
+to obtain computing services, and, on the other hand, promises
+of future tokens representing the hopefully profitable efforts
+of a developer.
+The former, things like Bitcoin and Ethereum, they are
+effectively digital commodities. They are scarce items that may
+have value on open markets as money, as investments, or as
+inputs for valuable commercial and industrial processes. They
+are commodities, just digital.
+The latter, promises of future tokens, are securities.
+Promises from issuers to investors that efforts will be put
+forward to create profits. Now, both have investor protection
+risks, but they are distinct risks that are best addressed in
+different ways. A commodity-like token has no issuers upon whom
+investors rely.
+But the token does trade on speculative commodities
+markets. Policing these markets for fraud and manipulation is
+critical for investor protection. A promise of future tokens is
+a security with an issuer upon whom investors rely. Mandating
+accurate disclosure from these issuers is, as we have said,
+critical for investor protection.
+So the sensible and emerging investor protection regime is
+nothing new even though the underlying assets may seem like
+science fiction. The CFTC should use its existing authority to
+police commodities, spot markets for fraud and manipulation and
+the SEC should manage and mandate disclosures from issuers
+making securities offerings.
+But if policymakers get the line between commodity tokens
+and securities offerings wrong or if it isn't made clear by
+regulators, it will destroy the viability of these innovations
+and cede leadership in this technology to the rest of the
+world. Thank you and I look forward to your questions.
+[The prepared statement of Mr. Van Valkenburgh can be found
+on page 76 of the appendix.]
+Chairman Huizenga. Thank you, and I appreciate all of your
+input.
+We are going to start with a 5-minute question period for
+myself. I recognize myself here. I want to try to cover a
+couple of quick things. Investor protections, first and
+foremost, the SEC versus the CFTC, and then use of blockchain
+technologies.
+So on that investor protections part, maybe Dr. Brummer you
+could illuminate for us here a little bit on what current
+protections you see or lack of current protections that are in
+place to really protect Mr. and Mrs. 401(k). We have
+institutional investors, sophisticated investors, and then we
+have more retail investors.
+So if you could address that quickly please?
+Dr. Brummer. At this point in time, the SEC is working on
+really operationalizing some of its own powers and authority
+under the 33 Act, 34 Act, and the 40 Act for the mom-and-pops,
+for the investors who are increasingly having exposure to
+cryptocurrency markets, for the better in some instances, and
+for ill in others.
+There is a regulatory vacuum currently. That regulatory
+vacuum extends, to some extent, to the spot market in
+cryptocurrency. I think that where there are financial products
+that under traditional analyses would tend to be identified as
+commodities there are questions about disclosure that are
+required to be asked.
+I think that even in the securities law space the
+infrastructure on which many of these tokens are currently
+being traded are not entirely subject to the SEC's oversight.
+So there are rules that are in place but it is a mishmash.
+Chairman Huizenga. I am going to get to Mr. Rosenblum here
+because you had said that, here is how I have encapsulated it
+here.
+The SEC is trying to do its job to protect investors and
+you say it needs to modify the rules to help facilitate ICOs
+but you say it is premature to draft legislation.
+Now, both Chairmen Clayton and Giancarlo had said, along
+with their current counterparts from the Department of Treasury
+and Federal Reserve and others, that they may come to Congress
+here in the coming months and we know that this has moved very
+quickly.
+In the last 9, 10 months we have seen this explosion of it.
+This panel, this Congress is not going to sit by idly with a
+lack of protection for investors and you have heard some of my
+colleagues express some skepticism of the legitimacy of
+cryptocurrencies and certainly ICOs.
+So I want to look at what, very quickly, what the role
+Congress may be to play in this and what chilling effect it may
+have from your opinion quickly.
+Mr. Rosenblum. Yes, thank you, sir. First, I think that
+there are, in particular, two parts of the legislation. I think
+there is an immediate set of legislation that needs to happen
+to authorize the SEC and other regulators to amend modified
+rules consistent with investor protection but also to
+facilitate capital development or capital investment.
+That is not to say there won't also be additional grants of
+power or additional protections that Congress adds but what my
+other point is, this industry is moving so very rapidly.
+It is very difficult to know, here is one example, if you
+take blockchain, which has a tremendous capacity to store,
+record, and retain information and you mix that with artificial
+intelligence which is certainly something people are trying to
+do today. The capacity of artificial intelligence combined with
+the blockchain to potentially lead to tremendous new marketing,
+tremendous new business opportunities, tremendous scientific
+and sociological advances is tremendous.
+However, the opportunity to advance our agility to use that
+same technology for a manipulative conduct or a data breach,
+and for all sorts of other, what I will refer to as nefarious
+conduct, is really hard to predict right now. And so what I
+don't want to do is lock us into a system too early.
+And I will give you one more--
+Chairman Huizenga. And I don't disagree, and unfortunately
+I am running out of time. We will be able to hopefully explore
+this with some other questions.
+Mr. Lempres, I would like to get to you very quickly. Do
+you believe that there are any certain instances where initial
+coin offerings should not be regulated as an offering of
+securities?
+Mr. Lempres. Thank you for the question. It is difficult to
+answer because it is hard to imagine all the circumstances
+under which ICOs might be offered. I think that speaking on
+behalf of Coinbase, we do not support any initial coin
+offerings at the current time because we are not sure the way
+the regulatory structure is and inventory treatment is.
+It would be appropriate--
+Chairman Huizenga. In your written testimony you talked
+about the CFTC quite a bit, the SEC not so much, and I have had
+some express that they believe the CFTC has been more flexible
+and open and receptive to ICOs and in blockchain. I don't know
+if that has been your experience as you have viewed it.
+Mr. Lempres. Yes. Let me say, our experience is we are
+waiting for the dust to settle between the CFTC and the SEC
+before we will actively engage in supporting ICOs.
+Chairman Huizenga. OK.
+Mr. Lempres. And once the rules are clear we will move in.
+We think there is tremendous potential. We want to be there to
+support it. I will say that there is an important distinction
+between what is a security and what is a commodity. They
+perform different functions and they do deserve to be treated
+differently.
+Chairman Huizenga. Yes. I am well over my time. There is no
+doubt though a token is not gold and a commodity as such, so I
+think that is some of the struggle that we have. So with that
+the Chair recognizes the gentleman from Georgia, Mr. Scott, for
+5 minutes.
+Mr. Scott. Thank you, Mr. Chairman. And Chairman Huizenga
+you have opened up a line of discussion here that I would like
+to follow up on.
+Mr. Lempres, in your testimony, you said that you believed
+there is no need for Congress to create a new regulatory
+regime. You have said you felt that the Federal authorities
+already had that authority and that it was basically just a
+lack of coordination.
+But Mr. Lempres, both the SEC's Chairman Clayton and the
+CFTC Chairman Giancarlo have told me that neither one of them,
+the SEC nor the CFTC, have any regulatory authority. And, as a
+matter of fact, they said what regulation there is at the State
+level they are regulating these entities as if what they refer
+to as money transmitters.
+So it seems to me that there is some type of regulatory
+shortfall here and if you ask me it is a little bit of that and
+not just a lack of coordination. So you see my point there?
+Mr. Lempres. Yes, Congressman, thank you, I do. What I
+would say is that there are sufficient authorities in place
+today. And I would point out that there is a long--
+Mr. Scott. So you are saying that the Chairman of the SEC
+and the Chairman of the CFTC are wrong?
+Mr. Lempres. Of course not--
+Mr. Scott. They say that that is not so.
+Mr. Lempres. No. What I am saying, though, is I think in
+context what is happening is when you talk about money
+transmission licenses, that covers a portion of our activity as
+a business. We are in many ways an integrated business, a
+portion of which is licensed by the States for money
+transmission purposes.
+Mr. Scott. Yes, but it is done at the State level. There is
+none at the Federal level.
+Mr. Lempres. Well, respectfully, Congressman, I would also
+point out that, again staying at the State level, we have a
+BitLicense with New York State, which is indeed a comprehensive
+consumer protection license that covers crypto activity within
+the State of New York.
+On the Federal level, I would respectfully say there is
+regulation of commodity markets just the way there is
+regulation of commodity markets everywhere else and that this
+new asset, which is not a physical thing that you hold in your
+hand, still has many of the characteristics of a commodity.
+Mr. Scott. Well, my time is getting short, I want to--there
+is so much here. This is an exciting new area, and we are
+discovering a lot here but let me switch to the ICO issue.
+Now Mr. Rosenblum, in your testimony, you said you believe
+it is too early for Congress and the Federal regulators to
+enact a comprehensive legislative or regulatory scheme
+governing cryptocurrency.
+Now, I can assure you I am the Co-chairman of the FinTech
+Caucus and I can assure you that none of us on that caucus or
+on this committee want to be killing good innovation,
+especially one that is raising, as this is, billions of dollars
+of capital because it is very important for everyone to know
+and as CSPAN is broadcasting this, but it is important to know
+that as of February 2018 individuals and businesses raised
+$1.66 billion through initial coin offerings or ICOs.
+So I agree with you, Mr. Rosenblum. However, going back to
+the SEC and the CFTC, they have not proposed rules regarding
+the regulations of cryptocurrency and other digital assets and
+instead have relied on informal rulemaking or enforcement
+actions.
+So I want to ask you in particular Mr. Rosenblum, and
+others on the panel, what in your minds could the Federal
+regulators be doing better and do you believe that enforcement
+actions and other formal guidance are sufficient to regulating
+these emerging and exciting digital assets?
+Mr. Rosenblum. Congressman Scott, thank you for the
+question. I agree with the point that you are moving toward or
+that you are suggesting here, which is regulation by
+enforcement in an area that is as complicated and dynamic as
+this, is not the appropriate way to regulate.
+Enforcement is necessary, of course, however, I do agree
+with you entirely that we need clearer guidelines, a clearer
+understanding of how the SEC's registration rules, its market
+trading rules, its exchange rules, its investment company and
+investment advisor rules should apply and do apply. And that is
+not something you can do by regulation through enforcement.
+And that is again one of the reasons I think this
+subcommittee and this hearing is so important to this process
+because we do need more guidance on precisely those areas.
+Mr. Scott. Thank you, Mr. Rosenblum.
+Chairman Huizenga. The gentleman's time has expired.
+With that, the Vice Chairman of the committee, Mr. Hultgren
+for 5 minutes.
+Mr. Hultgren. Thank you, Chairman Huizenga.
+Thank you all for being here. I appreciate your work and
+this is something that we are all interested in learning as
+much as we can.
+I want to address my first question to Mr. Lempres if I
+could? Your testimony mentions that you store more than $20
+billion worth of digital currency and have traded over $150
+billion in assets.
+In light of the January 2018 hack of the Coincheck
+cryptocurrency exchange wherein $534 million was stolen, I have
+a few questions for you related to that cybersecurity side of
+this. I wonder what cybersecurity standards does Coinbase
+adhere to?
+Mr. Lempres. So thank you for the question. And the reason
+I am hesitating, this is not my area of expertise, and I
+apologize when we get into this stuff. But I will say that our
+cybersecurity protocols are, I believe, state-of-the-art.
+That we have an entire team, obviously, that does nothing
+but work with cybersecurity. Approximately 99 percent of the
+assets that we hold are held offline in what is known as cold
+storage, which makes them virtually immune to hack.
+We do have a hot wallet process for, in effect, if you
+think about it, the cold storage is akin to a vault, the hot
+wallet is akin to a teller window at a bank. The hot wallet is
+online obviously and we have that amount fully insured to
+protect the consumers and investors as to that.
+Mr. Hultgren. Are there any, if you know about it and we
+can follow up in writing, too, or you can let us know who the
+person is that you recommend with Coinbase that we talk to, but
+is Coinbase legally required to follow any Federal
+cybersecurity laws and regulations, for example, financial
+institutions and some service providers are subject to Gramm-
+Leach-Bliley?
+Securities exchange and other SROs are subject to SEC's Reg
+SCI (Regulation Systems Compliance and Integrity). Are there
+any other Federal cybersecurity laws or regulations that
+already apply to Coinbase and others like you?
+Mr. Lempres. Yes, first off, I am more than happy to get
+you the name--
+Mr. Hultgren. That would be great.
+Mr. Lempres. --Of the head of our security. And second, I
+believe the cybersecurity standard that we most adhere to is
+New York State's standard through their BitLicense, which takes
+quite a lot of work.
+Now, we are also working with a few of the big four
+accounting firms to develop appropriate standards to make sure
+everything is SOC 2 and other standards.
+Mr. Hultgren. OK. I think you answered this, but maybe just
+for clarification? In the event of a hack of your platform that
+results in the loss of assets, is there a guarantee that is
+provided to the purchasers of the assets through your platform?
+Do you have any legal responsibility for safekeeping of
+client's assets? And what other protections are afforded for
+your customers in the event that the hot wallet is hacked? You
+mentioned that but I--maybe just go into a little bit more
+detail on that if you have any?
+Mr. Lempres. Sure. So again, we do hold a little bit of
+fiat currency, USD--United States dollars. Those are held in
+banks which do have FDIC insurance as to those dollars.
+As to our cryptocurrencies, there is no Federal insurance
+program to which we belong. We have attempted to create a
+degree of comfort amongst our customers by insuring the hot
+wallet amount. I will note that to date we have not been
+hacked. We have never had to make a payment out under those
+insurance policies.
+Mr. Hultgren. OK. Hope it continues that way. Your
+testimony also mentions that the exchange only support four
+assets because each has been determined by regulators to be a
+virtual currency and therefore not a security. However, you go
+on to note that regulators are not providing enough clarity for
+other cryptocurrencies.
+How did you establish the regulatory and legal certainty
+for those four currencies that you currently support or have;
+do the SEC or the CFTC individually provide guidance for those
+four currencies? Or did Coinbase make a determination about
+these four currencies based on the SEC-CFTC guidance?
+Mr. Lempres. Yes. We have received some guidance certainly
+as to those four examples. The CFTC has explicitly found and in
+fact published a primer that listed three of those assets as
+cryptocurrencies. The fourth, Bitcoin Cash is a hard fork which
+is in effect a derivative of Bitcoin. It would be covered by
+the same reasoning.
+Mr. Hultgren. OK.
+Mr. Lempres. There are some court cases that refer to them
+as cryptocurrencies and the SEC itself has distinguished
+between cryptocurrencies and securities. Specifically in the
+DAO Report they referred to Ether as a cryptocurrency in the
+context of discussing securities.
+Mr. Hultgren. OK. You also mentioned in your statement, and
+I am out of time, so we will--if that is OK if I can follow up?
+And I have questions for others. Sorry 5 minutes goes way too
+fast, but thank you all for being here. Again, we want to
+understand this as much as we can, but grateful for your
+testimony. And we will follow up with other questions if that
+is all right.
+With that, I will yield back.
+Chairman Huizenga. The gentleman yields back.
+And it may behoove the Chair at this time to note that we
+will be having an opportunity to forward questions through the
+Chair to the panel. And depending on our time, as well, and
+participation we may be able to get to a second round of some
+questioning so--with your indulgence.
+So we will continue to move along. And with that, Mr.
+Ellison from Minnesota is recognized for 5 minutes.
+Mr. Ellison. Thank you.
+And now let us talk about cryptocurrencies a little bit. In
+my meetings with constituents over the last several months, I
+have had many of them say, ``hey, what is going on with this
+cryptocurrency? I heard that it started at really low
+valuation; now it is really high and it is up and down. Should
+I get into it?''
+I am like, ``well, look, I am no investor. I can't tell you
+what you should do,'' but it did occur to me that I should ask
+you experts. If somebody who is not sophisticated in this area
+wants to invest, what should they know in advance? Could you
+all talk about what the hazards might be for an unsophisticated
+investor in this area?
+Dr. Brummer. So that is a great question. It is an
+important question. And I would certainly say that given the
+complexity of many of these instruments it is very dangerous.
+One of the disclosures that I had suggested would be really
+critical, particularly as retail investors become more
+interested in this space, is to understand what the risks are
+when it comes to investing. It is not only that they can lose a
+lot of their money but they can lose all of it, and that it is
+not just the specific venture itself that creates risk.
+It is not even the cyber risks or the potential for
+hacking. But it is a very dynamic ecosystem, that there are
+certain kinds of changes in the nature of the technology where,
+say, Internet-based principles become embedded in the
+blockchain and leave some of the blockchain technologies that
+we are depending on now rather obsolete where the tokens tied
+to them then become ultimately worthless.
+That these are the kinds of risks that retail investors
+themselves may not necessarily understand even where they may
+have some basic--and if not only hazy understanding--of the
+technology itself. And as a result, because just like you, I
+will sometimes go to the gym and people will ask me, so tell me
+about bitcoin.
+I think that that is always the sign of trouble, of
+sometimes either a potential for investors to not be properly
+informed about where they are putting their hard-earned savings
+and, as a result, there is a need for much more fulsome
+communications with those who are seeking or who may be
+interested in participating in those markets.
+Mr. Ellison. So over the course of 2017 we saw some
+precipitous increase in value. We saw some drop. We exchanged a
+lot. What do you think is driving some of those swings? Is it
+regulation or the threat or the possibility of it?
+Dr. Brummer. I think it is a product of speculation. I
+think it is a product of--
+Mr. Ellison. Bubble?
+Dr. Brummer. --Yes, of a bubble certainly. It is a product
+of investors who are money chasing investments instead of
+investors chasing money. It is a product of inadequate
+disclosure. And as a result, I think, just to echo some of the
+comments here on the panel, that regulation can be very healthy
+for those markets.
+It can help to address some of the spikes in volatility and
+the patterns of fear, the bubbles. But that action is needed
+now.
+Mr. Ellison. So we are--yes sir?
+Mr. Van Valkenburgh. I would only add that we have had a
+long history of technology bubbles. I think a lot of what is
+happening in blockchain technology looks rather like the dot
+com bubble of the late 1990's, early 2000's.
+And I think that is important for Main Street investors to
+understand, and educational programs from the CFTC like LabCFTC
+and educational advisories from the SEC are critical because in
+the late 1990's it would have been extremely correct to say
+that Pets.com is overvalued, extraordinarily overvalued and
+they are going to blow all their money on a Super Bowl ad. And
+there are some projects in our space that look like that.
+But it would also be incorrect to say that Amazon.com was
+overvalued. And I think that is why we see the froth in these
+markets because a lot of these projects, say Filecoin or
+Ethereum or Zcash, are challenging major multinational
+corporations.
+And if any of them succeed they will be in the future as
+valuable and as critical as the infrastructure that those
+corporations created. But that is a highly speculative bet.
+Mr. Ellison. I only have time for one last question from
+one last person. So we are talking about regulation here in the
+United States the discussion is on, but what about other
+countries and how does that impact this conversation? Anybody?
+Dr. Brummer. So we have been looking particularly over at
+Georgetown, some of my colleagues and other people certainly on
+the panel, at how interoperable are rules and approaches? The
+CFTC I know has been very interested in terms of information
+transfers, information exchanges between regulators.
+I think that one important component to these projects--
+LabCFTC was mentioned; I think that is certainly an important
+and healthy program, but to think through also how do we
+include more than just a market access component to those
+agreements and to push our regulators to also incorporate in
+the FinTech space questions of a coordinated regulatory design,
+information sharing, and enforcement?
+And I think that that would help to make sure that we can
+export some of our best values and approaches abroad and to
+take best lessons learned overseas and to incorporate them
+here.
+Chairman Huizenga. The gentleman's time has expired.
+With that, the Chair recognizes the gentleman from Ohio,
+Mr. Stivers, for 5 minutes.
+Mr. Stivers. Thank you, Mr. Chairman. I really appreciate
+you holding this very important hearing on a topic that has a
+lot of people's attention.
+The first question I have, and I am going to try to ask
+three questions, we will see how it goes--is to Dr. Brummer.
+Can you talk a little bit about the promise of blockchain
+technology?
+Let us take a couple steps backward and talk about the
+promise of blockchain technology to make our financial system
+more transparent and efficient and--well, not transparent--
+efficient. And what blockchain technology can mean, both for
+financial transactions and other things in our economy?
+Dr. Brummer. I think that the value in blockchain
+technology, and it is very useful for us all to remember that
+blockchain technology has its applications not only in the
+financial space but in other ecosystems, everything from
+pharmaceuticals and health and real estate and property.
+But it provides a platform whereby, in a very decentralized
+format, you can create a systems, a ledger, a methodology, and
+mechanism for tracking things and transactions in a way that is
+extraordinarily difficult to tamper with. And it allows for the
+disintermediation of certain kinds of folks in the middle that
+allow for a cheaper transaction experience.
+I think that precisely because it is embedded in online
+technologies the ability to fully lever--or right now I am
+going to talk about the upside for just a moment, because I
+have certainly been emphasizing that there are--
+Mr. Stivers. And I would like you to wrap this up in about
+15 seconds.
+Dr. Brummer. In 15 seconds.
+Mr. Stivers. Keep going, but--
+Dr. Brummer. Yes. The difficulty is that to the extent to
+which you are operating online there is more that the Federal
+regulators can do in terms of investor protection, but it also
+then raises questions. Someone had mentioned money transmitter
+laws as to how do you coordinate--
+Mr. Stivers. That is my third question. We will get to that
+in a second. So--
+Dr. Brummer. All right.
+Mr. Stivers. So my second question is for Mr. Van
+Valkenburgh. Can you help us understand the difference between
+a token that is used as a commodity and the promise of tokens
+that becomes a security? And if you can do it in about 2
+minutes that would be great because we have 5.
+Mr. Van Valkenburgh. It is a great challenge and happy to
+try and answer. Thank you for having me. So we have a flexible
+test in the U.S. for what is a security. It is derived from a
+case called the Howey case. And that test can be applied for
+promises of future tokens.
+What you are really looking for are two things, an
+expectation of profits--I am simplifying--reliant on the
+efforts of an issuer or third-party promoter.
+So that is why this promise of future tokens is critical to
+thinking about why an ICO is a security even though other
+things might not be because we have a definable or discernible
+issuer who is promising to build something of profound economic
+value, but we are relying on them to actually keep that
+promise. And that is why it fits the test for an investment
+contract or a security.
+Now, a digital commodity might be a digital commodity for a
+number of reasons. We use commodities for money. We use
+commodities as investments. We use commodities as inputs for
+commercial industrial processes. And the same thing is true of
+digital commodities like Bitcoin or Ethereum or Filecoin, once
+Filecoin is built.
+Now, it is important to note that Filecoin is raising money
+to build itself, but once it is built it will be a commodity.
+And I will just quickly go through those three because they
+are great examples of what I mean by digital commodity. Bitcoin
+is nothing but something that is scarce and transferrable
+person-to-person. And that is why I make the metaphor to gold.
+It is very different than gold, but like gold I could hand it
+to another person and if that is valuable on markets that may
+be valuable and used as a medium of exchange or a store of
+value.
+Now--
+Mr. Stivers. And I want to do one more question and I have
+58 seconds, so if you could--
+Mr. Van Valkenburgh. Yep, yep.
+Mr. Stivers. --Give me the other two quickly?
+Mr. Van Valkenburgh. Ethereum is a computing system on the
+Internet and in order to get access to that computing system to
+get useful results you use Ether as a fuel to power that engine
+on the Internet. It is a commodity like oil.
+Mr. Stivers. And the last one?
+Mr. Van Valkenburgh. And Filecoin, the last one, is rather
+like digital real estate. So you use Filecoin to get storage on
+the Internet. So it is a commodity like real estate, if you
+want to think of real estate as a commodity, measured in
+gigabytes instead of square feet.
+Mr. Stivers. Great, thank you.
+And one last question for the whole panel, and I know this
+is slightly off topic but because it has come up, if folks
+could comment on whether they feel like FinCEN's 2013 guidance
+on the appropriate level of anti-money laundering and Know Your
+Customer safeguards are appropriate. Or do you think that they
+are being abused out in the system? Do you think there is more
+information needed on those issues?
+If we could just go down the panel, anybody that is
+interested in answering that one?
+Mr. Van Valkenburgh. I think it is a very sensible piece of
+guidance. It was written early on in the space and it created a
+lot of clarity, especially for exchanges. And that is why all
+U.S. exchanges that I am aware of are collecting information on
+their customers and filing suspicious activity reports and
+keeping the financial system transparent even if it is
+cryptocurrency.
+Mr. Stivers. Thank you.
+I yield back, Mr. Chairman.
+Chairman Huizenga. With that, the Chair recognizes the
+Ranking Member of the committee, Mrs. Maloney, for 5 minutes.
+Mrs. Maloney. Thank you. My apologies. I had to Chair for
+the Democrats another meeting, but this is an incredibly
+important issue. Thank you, Mr. Chairman, for calling it.
+Mr. Lempres, as you know, my good friend and colleague Mr.
+Cleaver sent letters last month to the Bitcoin Foundation and
+the digital Chamber of Commerce asking what they are doing to
+prevent extremist groups like those involved in the White
+Nationalist Movement from using cryptocurrencies to fund their
+campaigns of hate?
+And I have also seen evidence that cryptocurrencies are
+used heavily by sex traffickers to sell women. So this is a big
+problem and one that Ann Wagner and I have been working on.
+As Coinbase is one of the largest cryptocurrency exchanges
+in the world, what are you doing to prevent these extremists
+from using your exchange to fund their activities? Do you have
+a set of standards or--thank you.
+Mr. Lempres. Yes, thank you for the question. Let me first
+off say that we take that very seriously. Specifically with
+regard to hate groups, for example, we have a specific section
+of our terms of use that we rely on and we kick people off the
+platform anytime we see anything that constitutes--
+Mrs. Maloney. Thank you.
+Mr. Lempres. --Either encouraging or facilitating hate on
+there, through our network.
+Speaking more broadly on bad actors and the things we do to
+track them down, one of the nice things about this technology
+is it actually gives you insights that you can't get in any
+other financial instrument currently because of the nature of
+the blockchain, which is an immutable permanent record that is
+publicly available.
+We use both internally developed and commercially available
+blockchain analytic tools which actually give us quite a bit of
+insight into connections between individuals. If, for example,
+we identify some kind of bad node or some bad activity, we can
+track to see who has touched that and what relationship they
+would have with anybody else who might have touched that.
+I should mention that we are members of the Bank Secrecy
+Act Advisory Group. We work very closely with FinCEN. We file
+an awful lot of SARs. We have, just to show how important we
+view this space, nearly 20 percent of our total employees are
+dedicated toward compliance.
+Mrs. Maloney. Thank you. And as I have said before, I am
+extremely concerned about virtual currencies because a lot of
+average people are using it and believing that it is an
+investment tool. They are pouring their life savings into
+virtual currencies and they stand to lose a lot of money when
+this bubble eventually bursts.
+Some people are treating these things as investments, not
+as currencies. And that is a huge problem because there are no
+investor protections like we have for stocks and bonds.
+So I am working on a bill that would regulate virtual
+currencies but not the technology, that have the
+characteristics of an investment like we have always regulated
+investments with robust investor protections, including
+disclosures, which will be regulated by the SEC.
+So Professor Brummer, let me start by asking you a
+question. Do you believe that the definition of a security in
+current law encompasses all virtual currencies?
+Dr. Brummer. No, I don't believe so. The Howey test, which
+is long the standard for evaluating nontraditional financial
+products in determining whether or not they fall within the
+SEC's regulatory perimeter, establishes several key
+characteristics and benchmarks that have to be satisfied.
+And I think that when you apply them to some of these
+virtual currencies like Bitcoin you get less than fulsome
+results according to those benchmarks.
+Mrs. Maloney. So if we wanted to regulate virtual
+currencies that are being treated as investments and to require
+adequate disclosures to investors would Congress need to expand
+the SEC's authority, in your opinion?
+Dr. Brummer. They would need to expand the SEC's authority,
+yes.
+Mrs. Maloney. And I liked the part of your testimony where
+you describe what kinds of disclosures should be made to people
+who invest in initial coin offerings. And I agree that the SEC
+can tailor the required disclosures so that they are
+appropriate for digital tokens and virtual currencies, which
+are different from traditional securities.
+Do you think that requiring these kinds of basic
+disclosures would stifle innovation in this space or harm the
+development of the blockchain technology?
+Dr. Brummer. I really don't think so. The kinds of things
+like I outlined, adding mailing addresses--
+Mrs. Maloney. And I have 15 seconds left. Professor
+Brummer--
+Chairman Huizenga. I am being generous with the time.
+Mrs. Maloney. Oh, no, I know my colleagues need time, too.
+What do you think of the idea of subjecting virtual currency
+exchanges to minimum cybersecurity standards? Do you think this
+is necessary in light of the huge cybersecurity risks that
+virtual currency exchanges face?
+Dr. Brummer. I think that would be extremely helpful.
+Cyber-security is perhaps the number one challenge facing our
+financial markets infrastructure providers and, to the extent
+to which you want to provide those financial services, you
+should be subject to certain kinds of high expectations about
+the cybersecurity of your operations.
+Mrs. Maloney. My time is more than expired. Thank you so
+very much.
+Thank all of you. Thank you.
+Chairman Huizenga. With that, the Chair recognizes the
+gentleman from Minnesota, Mr. Emmer, for 5 minutes.
+Mr. Emmer. Thank you, Mr. Chair, appreciate it.
+Appreciate all of you being here. This is a huge topic that
+cannot possibly be even scratched, in my mind, in 5 minutes
+with each of the people that are up here. I have a whole litany
+of questions, which I know my office will follow up through the
+Chair with each of you.
+I think where I want to go this morning after listening to
+you, because I find myself maybe not with my colleagues on some
+of this. I have a problem with, ``Government is here to help us
+and we need more Government. We are going to have to go into
+this new frontier and we have to have more regulation.''
+I heard at the beginning we have a regulatory vacuum. That
+scares me to death. I tend to trust people before I distrust
+them. I tend to believe that people are in these things for
+good, that they are trying to improve their own lives and
+hopefully the lives of people around them, that old adage of
+``A rising tide lifts all boats.''
+And yet I hear elected officials who don't have any concept
+of what we are dealing with here and how exciting it is talking
+about oh, my gosh, we have to run in. We have to regulate. We
+have to create more Government infrastructure. And by the way,
+I respectfully disagree with the idea that that won't act as a
+wet blanket on this amazing new technology.
+What we are talking about here is blockchain. Blockchain
+technology applies all over the place. It can solve some of our
+cybersecurity issues.
+These are open transactions where--and Milton Friedman, of
+all people, predicted this back in 1999 when he said there will
+come a day in the financial services space where you will be
+able to do this over the Internet where A will have a
+transaction with B and it will be entirely open for people to
+see. But A won't know B and B won't know A.
+You can know that and you can see things. I think Mr.
+Lempres was talking about how you can see things through the
+blockchain that are going on.
+I love the fact that Mr. Rosenblum talked about examples of
+blockchain technology outside of this space. And I will tell
+you in Minnesota we have a company called BanQu that is using
+blockchain to provide digital identities to unbanked and
+underbanked individuals in order to build a credit history and
+access capital.
+That is something that Democrats and Republicans should be
+celebrating here in Congress, not going, ``oh, my gosh, this is
+terrible. We don't understand it. We need a new policeman or we
+have to take the policemen we already have and give them even
+more powers to start to invade this space and perhaps frustrate
+the development.''
+I have concerns. I realize there has to be some regulation,
+but it is the balance. And I have heard from the panel that we
+have regulation already in place; we just need clarity.
+Mr. Lempres, why don't I start with you? You talked about
+we have to be able to say what is a security in this space?
+What is a commodity? I would add what is currency because these
+are all important definitions to whether or not certain
+agencies are within their jurisdiction.
+And to have you say two things, really scared me. One, that
+you haven't made any offerings because you don't have the
+certainty you need to know whether or not you can start to work
+in this space and second, to say that 20 percent of your
+workforce is working on compliance, that is nothing to be
+celebrating from this side of the table in my mind.
+So I would just ask you what about clarity in this area and
+what about the balance that I am concerned with?
+Mr. Lempres. Yes, thank you for raising it. It is obviously
+a very, very important issue. I can tell you that from our
+standpoint what we really need more than any particular
+approach is to know what that approach is going to be from the
+Government so we can plan and we can move.
+This system innovates very quickly and just knowing where
+the lanes are is extremely helpful for us.
+Mr. Emmer. If I can interrupt real quick?
+Mr. Lempres. Yes.
+Mr. Emmer. I am sorry because I am thinking of a conference
+that I was at last week, one of our very important and
+respected secretaries made a statement about everybody needs to
+register.
+There is no clarity around the law so all of a sudden
+people who are looking at being in this space or getting into
+this space, I heard from more people there after that comment
+that we can't start our business in the United States. We are
+going to have to go somewhere else to start it. Does that
+concern you?
+Mr. Lempres. It does, although I will say that the entire
+world is struggling with these same issues. And with regard to
+the percentage of our team that is focused on compliance, the
+biggest piece of that is focused on Bank Secrecy Act and Know
+Your Customer obligations, these people are concerned about
+money laundering and counterterrorism and things like that.
+And that is an important element no matter which country we
+are operating in, and certainly in any developed country we
+will have those expectations.
+Mr. Emmer. And we should work with all of you to understand
+better those things that would work. I would just leave you
+with this. Right now this system gives advantage to the
+individual and not to the Government, and I am worried about
+giving advantage to the Government and taking away liberty from
+the individual. So hopefully we will be able to meet that
+balance as we go forward.
+Thank you, Mr. Chair.
+Chairman Huizenga. The gentleman's time has expired.
+With that, the Chair recognizes the gentleman from
+Illinois, Mr. Foster, for 5 minutes.
+Mr. Foster. Thank you, Mr. Chairman. And before I begin my
+testimony I would like to ask unanimous consent to enter into
+the record a letter on behalf of Congresswoman Sinema from an
+Arizona-based blockchain company in support of this committee's
+investigation into this area.
+Chairman Huizenga. Without objection.
+Mr. Foster. Thank you. Distributive ledger technology has
+tremendous promise and the value of a non-falsifiable ledger
+will have broad applicability to financial and non-financial
+transactions. It could reduce transaction cost, increase
+transparency, and provide for instant and final settlement in
+the areas ranging from cash transactions to real property
+records to securities.
+It also provides a platform for more speculative
+transactions, such as Bitcoin, that are backed by nothing more
+than perhaps their scarcity and the belief that there will, at
+some point, be a greater fool to take them off their hands at
+some unknown price in the future.
+But nonetheless, much of our daily lives will soon involve
+something like blockchain, so I think it is past time that
+Governments around the world have a look at these digital
+tokens and figure out where and how they should be used.
+And it strikes me there are three fundamental questions
+that I would like your reaction to that we have to face. The
+first is will there be a mechanism to bust trades or not? In
+the case of the Flash Crash, for example, the CFTC had very
+clear rules in place under which case market gyrations would
+result in trades being broken. There is no such mechanism, for
+example, in Bitcoin where if someone steals your Bitcoin codes
+they have it and you cannot get it back.
+Similar questions arise if a hacker absconds with the
+contents of your vault. Is there a higher authority that you
+can go to to break that trade? So that is the fundamental
+design question that I think you face and that we face as
+regulators.
+Second, is there a need for something equivalent to a
+consolidated audit trail? In the securities space we have
+learned by bitter experience of the need, if we are going to
+detect and prevent market manipulation, we need to have an
+electronic record of the timing and the beneficial owner behind
+every transaction. That could be designed into digital entities
+like this or it could not be.
+And third, related, is the authentication of participants.
+Will there be a mechanism if necessary an order of the
+regulator to unveil the identity of counterparties and issuers?
+That is something that could be present or could not be in any
+of these.
+And so I was wondering if you have a reaction to you think
+we should address those three issues: Busting trade,
+consolidated audit trail, and authentication of participants. I
+am just happy to go down the line here.
+Mr. Lempres. Sure, I am happy to start with that. Busting
+trades is tough--there are technological challenges to that.
+Once these trades occur or a transaction occurs, it has
+occurred. There is no opportunity for settlement 24 hours later
+or something else where you can look at it and pull it back. So
+that is a challenge.
+Mr. Foster. Yes, but there are technological means of doing
+that where every transaction would be conditional on the fact
+that some trusted set of entities haven't publicized a code
+that invalidates the trade.
+Mr. Lempres. Yes, it--
+Mr. Foster. There are technologic ways of doing that but
+everyone has to understand that it is not like cash. If you
+steal cash it is yours, all right? And, with the exception of
+serial numbers and so on, you pretty much own that cash. But it
+could be designed differently and--all right. Then--
+Mr. Lempres. No, it absolutely could be. It absolutely
+could be.
+Mr. Foster. Right, so the consolidated audit trail?
+Mr. Lempres. Yes, unless those two items are put together
+the authentication of participants and any consolidated audit
+trail issue--certainly if you are trading on our platform we
+have information on it.
+We have your bank account information. Typically we have a
+lot of Know Your Customer information so we know the
+individuals. We know where they are. We verify their identity.
+We know the source of funds. We know quite a lot about them.
+And there is an immutable record once it is created.
+So in many ways we have--while it is not a consolidated
+audit trail in exactly the terms you are looking at, we have
+much of that information gathered on our platform that we are
+able to reconstitute it if it becomes necessary.
+Mr. Foster. OK. All right.
+Dr. Brummer, you want to take a swing at those?
+Dr. Brummer. Other than saying that I am sympathetic with
+your objectives, I would have to defer to Mr. Lempres as to how
+the internal operations work on it.
+Mr. Foster. OK.
+Mr. Rosenblum?
+Mr. Rosenblum. Sir, I think to take all of your questions
+we have to step back and look at a couple things. There are a
+number of different currencies and there are a number of
+different items being traded here. And there are a number of
+different places in which they get traded.
+So if you are talking about Bitcoin or other things that we
+will view as pure currencies, which is probably where this
+question starts from, I think there are one set of answers to
+those questions. I promise to get to those.
+But the second thing, though, is when we are talking about
+the new tokens and things that are being developed for
+particular platforms, those are very different. And there are
+at least two places where those can be traded, one is on the
+platform itself, second is on exchanges, most likely exchanges
+registered with the SEC.
+When we talk about exchanges registered with the SEC, I
+think your notion of having all three of those things exist
+will absolutely happen. I think the question of if we move--and
+I think with well-regulated, well-thought out platforms, that
+type of, at least to a large extent, all three things that you
+are talking about, identifying customers, having a consolidated
+audit trail, and being able to bust trades can happen on those
+platforms.
+I think when we move to something like Bitcoin, there I
+think you have a much more difficult problem with this because
+that genie is already way out of the bottle. And the ability to
+trade Bitcoin throughout the world is very difficult to put in
+at least to Know Your Customer rule or an identification rule.
+For example, you have a wonderful consolidated audit trail.
+You can follow Bitcoin throughout the trail. You just don't
+know who it was who held it. So that one, I think, is the one
+that is going to be much more challenging for this
+subcommittee.
+Chairman Huizenga. The gentleman's time has expired.
+With that, the gentleman from Ohio, Mr. Davidson, is
+recognized for 5 minutes.
+Mr. Davidson. Thank you, Chairman, and I thank you all for
+your expertise on the topic in the rapid expiration of 5
+minutes has been duly noted. So I will try to crank through
+this.
+I really appreciate the dialog that has been had about the
+differentiation between commodities and securities, and Mr. Van
+Valkenburgh, I wanted to spend a little bit of energy on that
+because as these securities are offered, in a way, I think you
+did a good job of highlighting what might look like a commodity
+with a test.
+But many times when people go to market, these aren't
+shares in a company. If you think of them as an equity they are
+non-voting shares and some of them aren't even committed to a
+dividend. And those that are committed to have some return in
+their structure, how is it that I make money for it, in some
+ways it looks almost like a bond.
+So could you say, look, if we were filing for securities,
+which people haven't done yet, part A plus part D, part S, what
+does that look like to treat it as a security in common frame
+of reference for folks?
+Mr. Van Valkenburgh. Thank you, Congressman. I would first
+start out by saying that there are several developers who have
+sold their tokens through Reg D filings and they are not
+selling the tokens in that case. They are selling a promise, an
+investment contract in the true meaning and spirit of the Howey
+test wherein they are going to make efforts, people will rely
+on those efforts and the outcome will be something profitable.
+But the outcome in many of these cases is a brand new
+decentralized computing system that has baked into it tokens
+which can achieve some functionality.
+Once that system is built and the investors who bought in,
+say, a Reg D offering, is given the tokens, those tokens to me,
+assuming the network is functioning, that people are now
+relying on the blockchain instead of the issuer. They are
+relying on a blockchain the issuer created for proof of
+ownership for the functionality that that blockchain creates.
+At that point, it looks more like a commodity. At that
+point, maybe you can do something useful with the token like
+use it in an engine for cloud storage or use it in an engine
+for computation or hold it as a valuable and scarce commodity
+like gold or salt or things like that.
+Mr. Davidson. Thank you. And in that sense shares have many
+of the same features, and, of course, they are treated as
+securities.
+Mr. Rosenblum, I want to spend a little bit of time talking
+about a lot of the companies that raise this capital are early-
+stage companies. And historically one of the paths to capital
+for early-stage venture.
+Venture is often considered smart money. You get the
+benefit of lots of experience helping small, early-stage
+companies navigate to scale up. ICOs don't always have those
+features. Last year it was estimated that startups raised about
+$4 billion in ICOs. Can you talk a little bit about the
+concerns with respect to venture versus ICOs?
+Mr. Rosenblum. Thank you, Congressman. Actually let me say
+one quick thing. I am the only one on the panel who has not
+been asked about security versus commodity, so if somebody at
+some point wants to ask me, you are going to get a very
+different answer from me on that question than the other
+panelists.
+To answer your question, sir, one of the things we have
+seen in the ICO market to date has been a large number of
+people, a large number of companies raising money in ways that
+any securities lawyer would have told you, and truthfully did
+tell you, that you shouldn't do.
+So for example, Dr. Brummer's suggestions about how to
+improve a white paper to me make--I understand the notion, but
+no rational securities lawyer will advise their client to sell
+off a white paper. We always sell off of a private placement
+memo--
+Mr. Davidson. Right.
+Mr. Rosenblum. --Or a disclosure document. We always have
+risk factors. We always take all the steps you need to for an
+ICO in exactly the same way that we do in a private placement
+for any other security.
+And so one of the things we have seen, and then I will--and
+I know time is short, sir, but one of the things we have seen
+are market practices that have been detrimental to the long-
+term development of the ICO market.
+Mr. Davidson. Yes, thank you for that. And I think a very
+good distinction, and I like that you hooked back in this
+notion, of a white paper and how soft that is versus a private
+placement memorandum. And I guess to your point, if I could
+hear your perspective on commodities versus securities, I would
+appreciate that as we close.
+Mr. Rosenblum. Oh, thank you. Thank you so much for the
+invitation. So I think that the notion of trying to decide what
+is a security and what isn't a security is something that would
+lead the market to distraction.
+To take the notion that once something becomes functional,
+once a platform becomes functional you no longer have a
+security that has to be wrong. You can be still relying very
+extensively on the efforts of the promoters. Trying to draw a
+line on when it is that you are no longer significantly relying
+on the efforts of promoters is so very difficult and so
+convoluted and so open to second guessing.
+My suggestion is don't even bother. Come up with a simple,
+easy system to use eventually that is going to apply to all of
+these things regardless of whether they are a security or not.
+Mr. Davidson. Thank you.
+And thank you, Chairman, for the additional seconds, and I
+yield.
+Chairman Huizenga. The gentleman's time has expired.
+With that, the gentlelady from Missouri is recognized, Mrs.
+Wagner, for 5 minutes.
+Mrs. Wagner. I thank the Chairman very much.
+Mr. Lempres, in your testimony you stated, and I quote,
+``we need to be sure that we are not killing good innovation
+brought about by new technology and good actors. For example,
+the State of New York requires a BitLicense, which has been
+unpopular causing companies to end their business relationships
+in the State.''
+Mr. Lempres, let me start off by asking you two questions.
+Since Coinbase is one of four companies who have received a
+BitLicense, do you believe New York's model was appropriate for
+all industry participants? And second, what lessons can we
+learn from New York's attempt to regulate the virtual currency
+market?
+Mr. Lempres. Yes. Thank you for asking, and we are one of
+four companies that has received it. I think an obvious lesson
+is New York made a very ambitious effort by the State to
+regulate in this space.
+The fact that they have only issued four licenses answers
+the question to a certain extent. They have chilled activity in
+the State of New York.
+Having said that, when you are at the scale that we are at
+now and the number of individuals and institutions that we are
+dealing with now, we do benefit from the comprehensive
+regulatory scheme the State of New York has put in so that
+people do trust more.
+We are doing the kinds of things they want to see when we
+have people who are used to dealing with financial
+institutions, and the State of New York is in effect treating,
+through its BitLicense, us and other companies the way they
+treat financial institutions. I think that sends a message to
+the market.
+So for a company of our size and again, there are four that
+have this license, we have found benefits in dealing with the
+State of New York on this. I would note that there are hundreds
+or thousands of companies in our space and obviously only four
+of them are operating in New York under that authority.
+Mrs. Wagner. What are other State laws that regulate
+cryptocurrencies?
+Mr. Lempres. So we have 40 licenses in 38 States so they
+are primarily money transmission licenses that we deal with but
+they lead to full exams. We have, I believe had 28 exams to
+current various States coming into our offices.
+Mrs. Wagner. OK. Switching topics somewhat, I wanted to
+talk about compliance a little bit. As a registered MSB,
+Coinbase is required to submit suspicious activity reports, or
+SARs, to FinCEN. Mr. Lempres, I understand that Coinbase
+includes blockchain analytics when filing their SARs. Can you
+explain to the committee how including this information allows
+FinCEN to get a more complete picture of what is going on?
+Mr. Lempres. Yes, and thank you. So you are correct in all
+of your parts there. Yes, we do file SARs with FinCEN and that
+we do include blockchain analytic information where it is
+helpful in that SAR.
+And the reason we do that is simply to do everything we can
+to put into context the information--we have access to
+information, that many Federal agencies don't see on a day-to-
+day basis. We see it all the time. We try to tie it together to
+present as accurate and complete a picture we can so that if
+further investigation is warranted they at least have the
+broader context in which it is operated.
+Mrs. Wagner. And to follow up, can you talk about how
+Coinbase coordinates with law enforcement and how your Know
+Your Customer program was developed?
+Mr. Lempres. Sure. So we are quite proud of our involvement
+with law enforcement. We have a group, our global intelligence
+unit, it's focus is exclusively on law enforcement coordination
+and education. We train, I believe, more law enforcement
+agencies globally than anyone.
+We have trained hundreds of State and local agencies. And
+when I was talking about training, it is essentially how the
+blockchain works, how cryptocurrencies work.
+Mrs. Wagner. Right.
+Mr. Lempres. What information is there and how a case can
+be put together if they need to put a case together.
+Mrs. Wagner. Mr. Van Valkenburgh, in your testimony you
+mentioned that there is friction and mismatch between new
+technology and old regulatory structures when it comes to
+State-by-State money transmission regulation. Can you explain,
+sir, how the current State regulatory approach poses issues
+with regard to cryptocurrency exchanges?
+Mr. Van Valkenburgh. Yes, thank you. The first thing I
+would say is these are naturally global technologies. They work
+on the Internet so when people use them they necessarily cross
+borders. And a company like, say, Coinbase, will have customers
+not only in every State but probably across the world. And that
+means that compliance, when it is done at a more local level,
+is very burdensome and often redundant.
+The 40th background check that your company gets will
+probably not make you more likely to be secure or to have a
+good reputation. It is just extra.
+Now, the other friction or mismatch between State money
+transmission licensing and these technologies, especially at
+the exchange level, is that money transmission licensing
+relatively exclusively focuses on this idea of transmission
+from A to B, not on the idea of custody as clearly defined but
+on the idea of transmission.
+And there are all sorts of people in the world who are
+developing these technologies who facilitate transmission
+because they write highly innovative software that help power
+these new blockchain technologies. They are critical to this
+innovation. And they don't take custody of consumer funds, so
+they don't actually put customers in risk.
+But depending on how a various State money transmission
+licensing statute is drafted, you could interpret it to say
+that that software writing activity is included as money
+transmission. And the penalties for being an unlicensed money
+transmitter are very grave.
+So if we could cleanup that statutory language State-by-
+State to make it clear, folks that hold people's Bitcoin, like
+my colleagues' company Coinbase, are licensed.
+But people who don't actually hold it are not subject to a
+licensing requirement. That would be a very positive signal
+from the U.S. that we are willing to protect innovation where
+it doesn't endanger consumers.
+Mrs. Wagner. I thank you all for your testimony. My time is
+way expired. Thank you for your indulgence--
+Chairman Huizenga. We have been somewhat generous today on
+that, knowing how do you unravel this in 5 minutes is very
+difficult.
+And still while we are in this first round, welcome back
+Mr. Sherman, who is recognized for 5 minutes.
+Mr. Sherman. Thank you.
+The currency is both a store, a value, one you hope
+appreciates, and a medium of exchange. So let us focus on the
+medium of exchange. Is there any reason why I would need a
+cryptocurrency to pay for my groceries or anything else? Why
+wouldn't that be adequately served by using dollars?
+Yes, Mr. Van--yes.
+Mr. Van Valkenburgh. Thank you, Congressman. No, not
+yourself I believe, sir, because you and I are--
+Mr. Sherman. You are assuming I am not a terrorist or a
+criminal and I thank you for that.
+Mr. Van Valkenburgh. No, I am assuming you are an American
+citizen, which I think is a pretty safe assumption.
+Mr. Sherman. Oh, that one is safe. The other two are
+questionable. Go ahead.
+Mr. Van Valkenburgh. You and I have the benefit of a well-
+functioning and extremely important financial infrastructure
+that surrounds us every day of credit cards, of bank accounts
+and most Americans do find it not too difficult to become
+banked. We have an unbanked problem in this country but it is
+not nearly as profound as other parts of the world.
+In other parts of the world--
+Mr. Sherman. Now, is there any part of the world where the
+unbanked couldn't just as easily have access to transactions in
+real currencies rather than cryptocurrencies?
+Mr. Van Valkenburgh. So there are parts of the world where
+real currencies in those countries are being basically debased
+by their Governments or hyperinflated or they just don't have
+actual purchasing power because of--
+Mr. Sherman. Right. So you could use dollars, euros, Swiss
+francs. Why are those not the adequate substitute?
+Mr. Van Valkenburgh. If you can find access to cash in your
+region of the world, U.S. dollars, that might be a very good
+means of exchange, but those will trade at extreme premiums. My
+only point is that cryptocurrencies are accessible. They are
+accessible financial tools only on the basic precondition that
+someone has a smartphone and an Internet connection.
+And I think there are regions of the world where people
+will sooner have smartphones and Internet connections than they
+will have access to a valuable and secure financial services
+from companies.
+Mr. Sherman. I wonder if someone else can comment on that?
+I don't think on the tallest mountain of Tibet there is
+somebody with a $100 bill that they are holding onto. And on
+every cellphone there is a way to use dollars or euros, so does
+someone else have a comment?
+Mr. Rosenblum. Mr. Sherman, thank you for the questions. I
+want to divide your question into two different parts. One part
+relates to things like Bitcoin and other currencies, which is
+really what you are discussing.
+Second part is going to relate to tokens and similar types
+of things that have--instruments that have specific purposes on
+specific platforms that people can earn and generate in ways
+that you could not do with cash.
+Mr. Sherman. I have limited time--focus on what can't you
+do with cash?
+Mr. Rosenblum. In a platform, for example, where we have a
+buyer of property, sellers, and then we have third parties who
+are performing important services to the platform to help the
+platform run, to help validate services, to help do other
+functions that are--
+Mr. Sherman. And why can't these platforms use dollars?
+Mr. Rosenblum. Because there is nobody who is going to pay
+them. What happens on these platforms is that the platform
+itself--
+Mr. Sherman. Wait a minute. I have a bank. I pay them one
+way or another.
+Mr. Rosenblum. No, no, see, you have to find a source. You
+have to find somebody who would have or who would be in the
+business of paying them and that costs money. So what you see
+in these platforms, what you see--
+Mr. Sherman. Sir, I have lived my whole life. I am as old
+as almost anybody in the room.
+Mr. Rosenblum. Oh, sir, that is very kind of you to say,
+but--
+Mr. Sherman. And various intermediaries have handled my
+financial transactions my entire life and none of them have
+gone hungry.
+Mr. Rosenblum. We are talking about a very different
+business model. And that is one of the things that is so
+important about this and what is so important about this--
+Mr. Sherman. --We know that this is a good method for
+terrorists, criminals, and tax evaders. So the question is, is
+there some great social purpose that cannot be met in any other
+way? And I will want to hear from a different witness, and I
+don't see one volunteering.
+Dr. Brummer. Honestly I think it is an important question
+because you are getting ultimately to this question as to
+whether or not many of these cryptocurrencies, and I think the
+vast majority of the cryptocurrencies tied to ICOs are really
+just means by which you are raising capital as opposed to
+currency.
+I will say--
+Mr. Sherman. Raising capital but unregulated--
+Dr. Brummer. Oh, absolutely.
+Mr. Sherman. --Doing an IPO but calling it an ICO--
+Dr. Brummer. One of the key responses I was trying to mark
+for Mr. Rosenblum when discussing the adequate disclosures or
+the kinds of disclosures that one would like to see in a white
+paper is precisely in order to beef up those white papers so
+that they become more compliant with the expectations of our
+securities law, which I think is an expectation that all
+securities lawyers would enjoy.
+But I am very sympathetic to that.
+Mr. Sherman. But if I buy an ICO and the company sells
+great pizza and eventually makes billions, I don't get any of
+that. I am not a stockholder?
+Mr. Rosenblum. But sir, the important thing on those tokens
+is the company that creates the platform may not have any
+financial success on the platform. And the fact that the
+platform becomes very successful may not redound to the benefit
+of the entity that created the platform.
+Mr. Sherman. OK. Perhaps we will have another hearing after
+some major terrorist event financed by cryptocurrencies, and I
+yield back.
+Chairman Huizenga. The gentleman yields back.
+With that, the gentleman from Connecticut, Mr. Himes, is
+recognized for 5 minutes. Currently pass, OK.
+We have some people potentially in transit, but if it is OK
+with my colleagues we would like to go on to a second round,
+which basically means I get to ask another question finally
+after having a number of them.
+And Mr. Rosenblum, you asked for it. So differences between
+a commodity and a security?
+Mr. Rosenblum. So in this case, as I said before, it is
+very difficult to know where one begins and one ends. The
+notion of saying, something has usage if we go back to the
+citrus groves that were at issue in the Howey test, there is no
+doubt that the citrus groves had usage. They really produced
+citrus fruit that people really sold. Didn't mean that the
+participation interest in those were anything other than
+securities.
+The problem that we face is that I can draw a line for you
+that says when the promoter's efforts on the platform become
+less important than the commercial usage of the platform in
+driving the token value, probably it is no longer security
+under Howey.
+What I cannot tell you is a good test or a good set of
+factors to look at that tell you with any great certainty when
+you get to that point. So the thing that I keep suggesting to
+people on this is I think that in the long run we shouldn't
+worry about that issue.
+We shouldn't worry about the distinction between this is a
+commodity, this is a security, and how they travel back and
+forth between each other. But instead have a simple system,
+move to an environment where you have a simple system that
+works for both and we don't have to have lawyers like me argue
+with other lawyers and argue with the courts and argue with the
+SEC over which side of the line it is.
+Dr. Brummer. So can I just jump in for one quick
+observation in response to something that you said, which I
+think is really quite useful? When you think about the citrus
+groves in the Howey case, this famous Howey case, you had
+oranges. The oranges themselves were commodities.
+It was the combination of the oranges of a service contract
+basically with an opportunity to invest in them. It is the
+combination of it all where the whole is greater than the sum
+of its parts. And then you end up in the world of a security.
+However, I would say that there is a difference in terms of
+how commodities are regulated under the CEA. And how securities
+are regulated. And securities regulators, for example, tend to
+put a little bit more of an emphasis on disclosure, the
+relationship that the SEC has with infrastructure providers and
+other market participants. There is a different level of
+reliance in the commodities world versus the securities world.
+And these are things that I think that you, as a committee,
+really ought to take into consideration when you are drafting
+any potential legislative response.
+And I would like to also emphasize that when we think about
+a commodity, one of the commonalities between the commodities
+world and securities world is an awareness that digital things
+tend to be more abstract and therefore they tend to be a little
+bit harder to understand and as a result there is a bit more
+attention that is focused and placed on those products.
+Gold is the quintessential commodity because it is finite.
+People tend to like shiny objects. And it is universally
+identified as something that has value. Here we are debating a
+lot of that, and as a result our regulatory authorities and you
+as a--
+Chairman Huizenga. And so based on those regulatory
+authorities, and we saw my colleague, Mr. Emmer, talk a little
+bit about this, and I see the natural tension. You have people
+saying there is no way I want any Governmental regulation on
+this. In fact, we came up with it. Get out of it. This is a
+fire free zone and we like it that way.
+Government bureaucracies and agencies tend not to view the
+world through those lenses and I think there is a certain
+Governmental responsibility to protect those investors versus a
+known investor or a unique investor that is sophisticated in
+that.
+And I have a minute left here, and I am going to be tight
+on this 5 minutes here, but I am curious, and anybody can
+answer this, will a Governmental central bank in any system
+recognize and utilize a cryptocurrency? Because I think until
+that point, this is going to be a bit of an outlier.
+And whether it would be some small country or some others,
+it seems to me the only way that there is going to be an
+ultimate legitimization of cryptocurrencies is whether a
+central bank somehow recognizes it. Anybody?
+Mr. Rosenblum. Mr. Chairman, I think several countries in
+Europe, for example, and in Latin America have already thought
+about and are already considering digitizing their currency. So
+I think that that is something that may very well happen.
+I wonder though whether to at least--
+Chairman Huizenga. But that is a little bit different. That
+is a Governmental-created currency versus a non-Governmental
+currency at this point, right?
+Mr. Rosenblum. That is right, but I wonder what the
+difference is. Once we have moved away from the Bretton Woods
+Treaty, and once we have currencies floating freely around with
+each other. I think in one sense what we are worried about is
+that Bitcoin isn't backed by a state actor and that is about
+it.
+Chairman Huizenga. OK.
+With that, the gentleman from Georgia is recognized for 5
+minutes.
+Mr. Scott. Thank you very much, Mr. Chairman. And, again, I
+am so excited about this new cutting edge, what I call the new
+frontier of our financial service industry and it is an
+exciting time for us.
+But let me give you all this scenario. We have millions of
+new investors who are literally pouring their savings into
+virtual currencies here, and it is a wonderful thing. As I said
+before, it is burgeoning up. It is billions of dollars in
+capital being raised.
+But then these facilities in this virtual currency are
+facilities that store and they transfer these digital assets
+for investors which are known as digital wallets. But here is
+the problem. These digital wallets have become targets for
+hackers.
+And hackers are using social media, phone calls, and ads on
+search engines to fool investors into providing them with
+sensitive personal information that they can use to gain access
+to accounts at digital wallet providers and steal literally
+thousands of dollars' worth of virtual currencies. Hackers have
+also targeted the digital wallets themselves, exploiting the
+vulnerabilities in their cybersecurity systems.
+This was brought to my attention by SEC Chairman Clayton.
+He has pointed out that digital wallets storing or transacting
+digital assets that are securities, can trigger other
+registration requirements under the Federal security laws,
+including broker-dealer, transfer agents, or clearing agency
+registration.
+So panel, what I want to ask you is what are the benefits
+to investors of digital wallets registering with the SEC? Would
+that help to defer? These are the kinds of technical and
+complex questions that present us as Members of Congress
+because it all falls on our shoulders. And most certainly we
+want to be responsive.
+And as I said before, Co-chairman of the FinTech Caucus I
+am very proud of this industry. But I also know, for example,
+the OCC may come there. They are flirting from one position to
+the other of doing a special order charter for FinTechs. And
+then you have all these regulators boxing around how to
+identify them.
+But all this comes to our lap, and if they are registered
+with the SEC should these digital wallets be subject to
+enhanced cybersecurity protocols such as Chairman Clayton said,
+as the SEC's regulatory systems compliance and integrity of Reg
+SCI? We are dealing here with an opportunity to get it right
+before we get it wrong.
+So tell me, Mr. Van Valkenburgh?
+Mr. Van Valkenburgh. Thank you, Congressman. I think the
+testimony of both Chairman Clayton and Chairman Giancarlo
+before the Senate Banking Committee is extremely important to
+take a look at, to think about how those two regulators are
+construing the space.
+Chairman Clayton, as you rightly said, talked about tokens
+that are securities either because the token does represent a
+legal agreement, it is a company saying these are shares of our
+stock, or because the token is a speculative promise of future
+efforts, fits the Howey test.
+But Chairman Clayton also talked about what he called pure
+cryptocurrencies. He used the term on several occasions. And
+the Chairman suggested that those are outside of SEC
+jurisdiction and if you look at one of his responses to the
+questions he said, ``Do not misconstrue me saying that is
+outside of our jurisdiction as asking for more jurisdiction.''
+And I think that is probably because the colleague sitting
+to his left was Chairman Giancarlo of the CFTC, an organization
+that has expertise in policing markets for scarce commodities,
+which pure cryptocurrencies, I would argue, very much are. So I
+think we want to look to the institutional competencies of
+these two different agencies to protect investors.
+And that means the CFTC will continue to use its existing
+authority to police spot markets for fraud and manipulation if
+the spot market is trading commodities and the SEC will ensure
+that only tokens that are securities are traded only on ATSes
+or national securities exchanges, which will have to go through
+all of those cybersecurity requirements.
+Now, where there might be a gap, if there is any gap, is
+the fact that the spot markets for cryptocurrencies are policed
+by the CFTC ex post, not supervised by the CFTC ex ante, for
+things like transparency, cybersecurity standards, and the
+like. Instead, they are supervised by the States in a patchwork
+approach that includes the BitLicense and others.
+It might be time to rationalize and Federalize that
+supervision of cryptocurrency markets.
+Mr. Scott. And so if you saw those two agents--
+Chairman Huizenga. I am sorry. The gentleman's time has
+expired.
+Mr. Scott. All right. Thank you, sir.
+Chairman Huizenga. With that, the gentleman from North
+Carolina, Mr. Budd, is recognized for 5 minutes.
+Mr. Budd. Thank you, Mr. Chairman. And again, thanks to
+each of you for being here today.
+Peter, I want to publicly thank you for the private
+briefing that you and Jerry gave several weeks back and just
+say how helpful that was and just to encourage any other
+members, staff on either side of the aisle just to reach out.
+You guys have been very helpful in bringing us up to speed on
+this, so thank you again.
+Mr. Van Valkenburgh. Thank you.
+Mr. Budd. So I want to make a statement and then ask a few
+questions. One, regulation in this space is something that the
+U.S. we have to get right because poor or rushed policy with
+respect to cryptocurrency and tokens, in my opinion, it really
+threatens America's leadership in finance and in technology.
+So we have to be careful to avoid missteps. This technology
+has potential to become something great, so I just think that
+we should move with caution here.
+And on that note, I am curious about an idea that I have
+heard and being floated around as a potential regulation scheme
+for cryptocurrencies. So this idea would divide
+cryptocurrencies into securities and non-securities with
+security coins being regulated as securities and non-security
+coins being regulated as commodities.
+So the obvious difference between the two being the
+security coins would offer dividends or equity or anything that
+did not, again, be on the other side, would be on the commodity
+side. So I am curious, Peter, to get your thoughts on this idea
+first.
+And then Dr. Brummer, if you have any thoughts if you could
+answer that as well?
+Mr. Van Valkenburgh. Thank you, Congressman. The first
+thing I would point out is that this is a global technology,
+and U.S. laws are not a good fit for both the innovators and
+the investors as far as protecting them but also enabling
+markets, these technologies will move to other jurisdictions.
+The Congressman is, I think, correct that a sensible way of
+dividing these markets is between things that are more
+commodity-like and more security-like. And in the U.S. the
+flexible test for a security, the Howey test, is the tool for
+doing that.
+But it is not the tool globally. In Europe, for example
+there is more of a black letter law approach than a flexible
+test. Certain things have been identified in various European
+jurisdictions as securities and they are more of what you
+suggested, things that clearly offer a dividend or capital
+return on investment.
+Finding a more bright line test may be useful, although the
+SEC's flexibility with the Howey test can be very helpful in
+going after schemes that pretend to not be securities by not
+offering those formal things.
+So finding a way forward is not easy, but probably worth
+considering because at the moment you see many more of these
+truly innovative capital formation opportunities moving over to
+Europe. You see a lot in Switzerland. You see a lot in Germany.
+And these are not countries with lax securities regulations.
+These are just countries with a more certain legal test.
+So I think guidance from the SEC as to how they will
+interpret the Howey test with respect to token sales, they have
+already had a lot of very deliberate statements that have been
+very helpful, but further guidance might be helpful, especially
+with respect to exactly how you draw the line. And it might
+look more like what Europe is doing these days.
+Dr. Brummer. So I guess my first response is that Europe's
+approach on this is very much uncertain, number one.
+Number two, they don't have a definition in place firmly
+for virtual currencies under MiFID and other European Union
+regulations and rules. And they are grappling with these same
+issues just as we are today. And there is an enormous amount of
+uncertainty as to how that is going to just play out.
+I think when it comes to the commodity securities question,
+I agree with Peter. Maybe there is a little bit more of a
+difference of tone. Institutional competence is extremely
+important when thinking about who should be regulating
+different financial products.
+My testimony today emphasized the question of disclosure.
+And I think that even when it comes--I think that Bitcoin is
+not the same as gold and I think that people intuitively
+understand it a lot less.
+And so this creates very important questions as to what
+kinds of disclosures should be related to pure cryptocurrencies
+that may legally, under current law, resemble a commodity or be
+classified as as a commodity as opposed to a security because
+the disclosure process available under the CEA is more or less
+of a buyer beware approach versus a much more fulsome approach
+adopted under the SEC.
+And so a decision has to be made as to not just the
+competence but even under existing rules no matter which,
+excuse the pun, side of the coin you may fall, there will be
+subsequent rulemaking required in order to adopt and to adapt
+your existing regulatory processes to a virtual currency. And I
+think that it is important that people recognize this, that
+there is going to be work that will have to be done, both on
+the SECs and as well as under the CFTCs in order get it right.
+Mr. Budd. Thank you both.
+I yield back.
+Chairman Huizenga. The gentleman's time has expired.
+The gentleman from Connecticut is recognized for 5 minutes.
+Mr. Himes. Thank you, Mr. Chairman. I will yield my time to
+Mr. Scott.
+Mr. Scott. Thank you very much, Mr. Himes. I appreciate
+that.
+Mr. Van Valkenburgh, you hit it on the head as to what I
+think we have an obligation both to this burgeoning industry
+here, as well as to the safety of the American people. All this
+technology that we have being applied in very sensitive areas
+makes us become almost a servant of the machine technology that
+was created to serve us.
+And we have to get this right in terms of what I think is a
+delicate balance of the right regulation that really helps to
+solve the problem. We have hackers out there that are at work
+and damaging great careers and jobs and just the lives of the
+American people. And they look to us here in Congress to try to
+solve that.
+And so when I brought that issue you brought up how the
+CFTC and the SEC would work together in working with this,
+which presents another problem that we have. And let me ask you
+in that situation the great need for harmonization because that
+is the problem we have.
+When we have these regulators involved and you have several
+regulatory agencies, it puts your industry in somewhat of an
+awkward position trying to figure out and try to make sure that
+they are both coming at it the same way. So would you recommend
+that whatever we do, knowing these different agencies, that
+Congress put in whatever we do a rule for harmonization?
+Mr. Van Valkenburgh. Yes. I do think harmonization is
+critical. Chairman Giancarlo, when he talks about policing
+authority over these spot markets for commodities, emphasizes
+that they don't have any ex-ante authority. They don't have the
+ability to supervise beforehand. They are not the regulator on
+point.
+And as I was briefly saying earlier, the regulator on point
+is largely the States, whether it is through the BitLicense or
+through money transmission licensing. And so it is not just
+anarchic as between Federal agencies potentially. It is
+anarchic as between Federal agencies and various State
+regulators.
+I think State-by-State money transmission licensing is both
+the biggest impediment to the technology because of the
+profound and redundant and nonproductive costs that it imposes
+on the industry and on the ecosystem. And it also is not an
+adequate way to protect consumers or investors.
+I think we need to start a conversation in Congress about
+Federal pre-emption of State money transmission licensing law
+that would also include sensible investor protections for those
+who become licensed by a Federal authority.
+And Chairman Giancarlo, in his testimony before the--I
+believe it was before the Ag Committee not Banking Committee in
+the Senate said what that will look like will be data
+reporting, capital requirements, cybersecurity standards,
+measures to prevent fraud and price manipulation and anti-money
+laundering and Know Your Customer protections.
+That is a sensible package to require from intermediaries
+in our cryptocurrency space, and it is the low-hanging fruit
+from a harmonization standpoint of what Congress can do soon.
+Mr. Scott. Thank you very much, Chairman.
+Chairman Huizenga. The gentleman yields back the time.
+So I would like to thank our witnesses for today. I thought
+this was illuminating in so many various areas and completely
+befuddling in others, which--welcome to Congress I guess. But
+it was very helpful and thank you for this.
+I believe that this is probably hello not good-bye. We are
+going to be continuing to have this conversation.
+I do have--without objection, I would like to submit the
+following statement for the record, a statement from Liquid M
+Capital, Inc. without objection, so moved.
+Without objection, all members will have 5 legislative days
+within which to submit additional written questions for the
+witnesses to the Chair, which I will then forward on to you
+all. And I would just ask our witnesses to please respond as
+promptly as possible.
+And without objection, all members will have 5 legislative
+days within which to submit extraneous materials for the Chair
+for inclusion into the record as well.
+So again, thank you very much for your time and your
+attention to this and your insights. And this hearing is
+adjourned.
+[Whereupon, at 12:07 p.m., the subcommittee was adjourned.]
+A P P E N D I X
+March 14, 2018
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

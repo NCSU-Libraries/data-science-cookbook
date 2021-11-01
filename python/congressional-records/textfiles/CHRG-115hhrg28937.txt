@@ -1,0 +1,1875 @@
+- THE FUTURE OF U.S. FUSION ENERGY RESEARCH
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+THE FUTURE OF
+U.S. FUSION ENERGY RESEARCH
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON ENERGY
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+MARCH 6, 2018
+__________
+Serial No. 115-50
+__________
+Printed for the use of the Committee on Science, Space, and Technology
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://science.house.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+28-937PDF
+WASHINGTON : 2018
+----------------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail, [email protected]
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HON. LAMAR S. SMITH, Texas, Chair
+FRANK D. LUCAS, Oklahoma
+EDDIE BERNICE JOHNSON, Texas
+DANA ROHRABACHER, California
+ZOE LOFGREN, California
+MO BROOKS, Alabama
+DANIEL LIPINSKI, Illinois
+RANDY HULTGREN, Illinois
+SUZANNE BONAMICI, Oregon
+BILL POSEY, Florida
+AMI BERA, California
+THOMAS MASSIE, Kentucky
+ELIZABETH H. ESTY, Connecticut
+JIM BRIDENSTINE, Oklahoma
+MARC A. VEASEY, Texas
+RANDY K. WEBER, Texas
+DONALD S. BEYER, JR., Virginia
+STEPHEN KNIGHT, California
+JACKY ROSEN, Nevada
+BRIAN BABIN, Texas
+JERRY McNERNEY, California
+BARBARA COMSTOCK, Virginia
+ED PERLMUTTER, Colorado
+BARRY LOUDERMILK, Georgia
+PAUL TONKO, New York
+RALPH LEE ABRAHAM, Louisiana
+BILL FOSTER, Illinois
+DANIEL WEBSTER, Florida
+MARK TAKANO, California
+JIM BANKS, Indiana
+COLLEEN HANABUSA, Hawaii
+ANDY BIGGS, Arizona
+CHARLIE CRIST, Florida
+ROGER W. MARSHALL, Kansas
+NEAL P. DUNN, Florida
+CLAY HIGGINS, Louisiana
+RALPH NORMAN, South Carolina
+------
+Subcommittee on Energy
+HON. RANDY K. WEBER, Texas, Chair
+DANA ROHRABACHER, California
+MARC A. VEASEY, Texas, Ranking
+FRANK D. LUCAS, Oklahoma
+Member
+MO BROOKS, Alabama
+ZOE LOFGREN, California
+RANDY HULTGREN, Illinois
+DANIEL LIPINSKI, Illinois
+THOMAS MASSIE, Kentucky
+JACKY ROSEN, Nevada
+JIM BRIDENSTINE, Oklahoma
+JERRY McNERNEY, California
+STEPHEN KNIGHT, California, Vice
+PAUL TONKO, New York
+Chair
+BILL FOSTER, Illinois
+DANIEL WEBSTER, Florida
+MARK TAKANO, California
+NEAL P. DUNN, Florida
+EDDIE BERNICE JOHNSON, Texas
+RALPH NORMAN, South Carolina
+LAMAR S. SMITH, Texas
+C O N T E N T S
+March 6, 2018
+Page
+Witness List.....................................................
+2
+Hearing Charter..................................................
+3
+Opening Statements
+Statement by Representative Randy K. Weber, Subcommittee on
+Energy, Committee on Science, Space, and Technology, U.S. House
+of Representatives.............................................
+4
+Written Statement............................................
+6
+Statement by Representative Zoe Lofgren, Subcommittee on Energy,
+Committee on Science, Space, and Technology, U.S. House of
+Representatives................................................
+8
+Written Statement............................................
+10
+Statement by Representative Lamar S. Smith, Chairman, Committee
+on Science, Space, and Technology, U.S. House of
+Representatives................................................
+12
+Written Statement............................................
+14
+Statement by Representative Eddie Bernice Johnson, Ranking
+Member, Committee on Science, Space, and Technology, U.S. House
+of Representatives
+Written Statement............................................
+16
+Witnesses:
+Dr. Bernard Bigot, Director-General, ITER Organization
+Oral Statement...............................................
+19
+Written Statement............................................
+21
+Dr. James W. Van Dam, Acting Associate Director, Fusion Energy
+Sciences, Office of Science, Department of Energy
+Oral Statement...............................................
+38
+Written Statement............................................
+40
+Dr. Mickey Wade, Director of Advanced Fusion Systems, Magnetic
+Fusion Energy Division, General Atomics
+Oral Statement...............................................
+48
+Written Statement............................................
+50
+Dr. Mark Herrmann, Director, National Ignition Facility, Lawrence
+Livermore National Laboratory
+Oral Statement...............................................
+58
+Written Statement............................................
+61
+Discussion.......................................................
+70
+Appendix I: Answers to Post-Hearing Questions
+Dr. Mark Herrmann, Director, National Ignition Facility, Lawrence
+Livermore National Laboratory..................................
+90
+THE FUTURE OF U.S. FUSION ENERGY RESEARCH
+----------
+TUESDAY, MARCH 6, 2018
+House of Representatives,
+Subcommittee on Energy
+Committee on Science, Space, and Technology,
+Washington, D.C.
+The Subcommittee met, pursuant to call, at 10:08 a.m., in
+Room 2318 of the Rayburn House Office Building, Hon. Randy
+Weber [Chairman of the Subcommittee] presiding.
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. The Subcommittee on Energy will come to
+order. Without objection, the Chair is authorized to declare
+recesses of the Subcommittee at any time.
+Welcome to today's hearing entitled ``The Future of U.S.
+Fusion Energy Research.'' I recognize myself for five minutes
+for an opening statement.
+Today, we will hear from a panel of experts on the status
+of U.S. fusion energy research and discuss what we can do as a
+nation to advance this critical area of discovery science. The
+goal of fusion research is to create a star here on Earth and
+control it to the point that we can convert its immense heat
+into electricity. Easy, right? In the center of stars like our
+sun, extreme temperatures, pressures, and gravitational
+conditions create a unique natural environment for fusion to
+occur. On Earth, scientists push the boundaries of experimental
+physics in a number of ways to duplicate these reactions, with
+the hopes of eventually generating fusion energy as power we
+can use in everyday activities.
+The potential benefits to society from a fusion reactor are
+beyond calculation: the fuel is abundant and widely accessible,
+the carbon footprint is zero, and the radioactive waste
+concerns are minimal. Despite these incentives, Fusion Energy
+Science remains one the most challenging areas of experimental
+physics today.
+Generally speaking--and don't worry, I'll leave the
+detailed explanation to our panel of expert witnesses--Fusion
+Energy Science is the applied study of a plasma, or ionized
+gas, and is dependent on three main conditions: plasma
+temperature, density, and confinement time. During this
+hearing, you'll hear terms like ``inertial confinement'' and
+``tokamak.'' These are different techniques and devices used by
+scientists to control these three quantities in their
+experiments as they work to successfully generate fusion
+energy.
+The Department of Energy (DOE) supports fusion research
+primarily through its Fusion Energy Sciences (FES) program
+within the Office of Science. Domestically, it funds robust
+research through its national labs and partnerships with
+industry.
+At Lawrence Livermore National Lab, the National Ignition
+Facility, or NIF, pursues ignition in the lab by using a high-
+energy laser to induce inertial fusion and provide critical
+science for DOE's nuclear stockpile stewardship mission.
+The DIII-D National Fusion Facility, a DOE user facility
+managed by General Atomics, is the largest magnetic fusion
+facility in the United States. This program seeks to provide
+solutions to operational issues that are critical to the
+success of tokamak-style fusion reactors like the International
+Thermonuclear Experimental Reactor (ITER) project. Considered
+the leading research innovation--initiative in fusion science,
+the ITER project is a major international collaboration to
+design, to build, and to operate a first-of-a-kind research
+facility to achieve and maintain a successful fusion reaction
+in the lab.
+Though located in France, ITER is also a U.S. research
+project. Over 80 percent of total U.S. awards and obligations
+to ITER are carried out in the United States. As of December
+2017, the U.S. ITER Organization has awarded more than $975
+million in research and engineering funding to approximately
+600 U.S. laboratories, companies, and universities.
+The DOE's fiscal year 2019 budget request for ITER is $75
+million, well below the required commitment level to keep the
+project on track. If enacted, this may result in damaging
+delays to the ITER project and sends the wrong message to the
+international fusion community about America's commitment to
+its international agreements and our leadership in science.
+When determining the next steps for the domestic U.S.
+fusion energy program, we must consider the importance of
+access to the ITER reactor for American researchers and
+America's standing and credibility as a global scientific
+collaborator. If the United States is going to lead the world
+in cutting-edge science--and we hope it does--we cannot take
+our commitments to our international partners lightly.
+I want to thank our accomplished panel of witnesses for
+their testimonies today, and I look forward to a productive
+discussion about this exciting area of research.
+[The prepared statement of Chairman Weber follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. I now recognize the Ranking Member, the
+gentlewoman from California, for her opening statement.
+Ms. Lofgren. Thank you very much. Just a note that the
+actual Ranking Member is in Texas today. It's the election day
+in Texas. So I'm happy to be able to fill in, and I thank you,
+Mr. Chairman, for holding this hearing and for the wonderful
+witnesses that we have before us.
+As the Chairman has said, fusion is the process that powers
+the sun and stars, so we know it works, but, as all the
+witnesses here will be able to discuss in far more detail than
+me, controlling and harnessing a fusion plasma here on Earth is
+one of the most difficult challenges that our nation and indeed
+the world's top scientists and engineers are working to
+address.
+That said, if we're successful, then fusion has the
+potential to provide abundant, reliable, emission-free, and
+practically limitless energy to meet a large portion of our
+electricity needs in the foreseeable future. Given the huge
+potential benefits of developing a viable approach to fusion
+energy, I believe that this is an area we should be strongly
+investing in.
+Unfortunately, that's not what we're seeing in the
+Department of Energy's recent budget request for fiscal year
+2019 which would cut the Office of Science's fusion research
+program by about 11 percent and would also entirely eliminate
+ARPA-E, which is currently supporting a portfolio of innovative
+fusion projects that could point the way to producing fusion
+energy quickly and at a lower cost.
+Lastly, as I'm sure will learn more about from Dr.
+Herrmann, the budget for the DOE NNSA inertial confinement
+fusion program, including support for the National Ignition
+Facility at Lawrence Livermore National lab, would be slashed
+by 20 percent. Now, the focus of this program is actually of
+course not on energy but on ensuring the reliability of our
+nation's nuclear weapons stockpile. Yet, because there is
+currently no ongoing federally supported program to develop
+inertial fusion concepts specifically for energy applications,
+this weapons-relevant work is currently the only way that many
+of these concepts are able to advance. So these major cuts
+could be, you know, very bad for both our national security and
+our energy future.
+I'd like to note, as the Chairman has, that support for the
+U.S. contribution to ITER would receive an increase in this
+request but that the actual level of $75 million is below our
+obligation. The most recent official estimates we've received
+from the Department projected our contribution to be at least
+$230 million in fiscal year 2018 and $240 million in fiscal
+year 2019.
+And it reminds me, you know, several years ago we were
+concerned, and expressed concern at this Committee, about
+whether our international partners would in the end live up to
+their obligation. They have, and it's now the United States
+that is at risk of being the deadbeat, so I'm hopeful that we
+can address that.
+These lower investments, you know, do not reflect Dr.
+Bigot's tenure and the progress that has been made at the site,
+and we look forward to hearing from him.
+I'll just note that the good news is that Fusion Energy
+Science research has always had bipartisan support here in the
+Committee and in the Congress. It's always hard to fund what
+you believe in, but I'm hopeful that we will make progress in
+that regard again on a bipartisan basis.
+And I've had a personal interest in fusion energy since my
+time first began here in Congress, and I'm hopeful that that
+long-term interest will finally pay dividends in ignition at
+one of our leading science facilities.
+So with that, Mr. Chairman, I thank you for the hearing and
+yield back.
+[The prepared statement of Ms. Lofgren follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. I thank the gentlelady.
+Let me introduce our witnesses. And, Doctor, I'm coming to
+you first. Is it--I'm sorry. I now recognize the Ranking Member
+of the full Committee, Chairman Smith.
+Chairman Smith. Thank you, Mr. Chairman. I'm glad to see
+you so eager to get on with the hearing, too, and a good
+hearing it is.
+Chairman Weber. The gentleman's time is expired.
+Chairman Smith. Stop while I'm ahead. Thank you again, Mr.
+Chairman.
+Today, we will hear about the status of fusion energy
+research and the prospects of future scientific discoveries in
+fusion energy. The basic purpose of fusion energy is to create
+the equivalent of the power source of a star here on Earth. By
+creating and controlling the same nuclear reactions that occur
+in a star within a fusion reactor, heat from these reactions
+could be converted into renewable and reliable electricity. It
+is no surprise that fusion has captured the imagination of
+scientists and engineers for over half a century.
+The Department of Energy has supported basic research in
+fusion energy since 1951. The DOE Office of Science Fusion
+Energy Sciences program funds research and science
+infrastructure at DOE national labs. At the Princeton Plasma
+Physics Laboratory, scientists conduct fusion research through
+the National Spherical Torus Experiment Upgrade user facility.
+NSTX-U is a magnetic confinement fusion device called a
+spherical tokamak that is currently the most powerful device of
+its kind in the world.
+At Lawrence Livermore National Laboratory, the National
+Ignition Facility uses the world's largest and highest-energy
+laser to generate fusion power in the lab with an alternative
+technique called inertial confinement fusion.
+DOE also funds world-class fusion research through its
+partnerships with industry. At General Atomics, a defense
+contractor based in California, the DIII-D National Fusion
+Facility is a tokamak fusion research facility that operates as
+a DOE user facility through the Office of Science. DIII-D
+enables scientists from laboratories, private sector
+organizations, and universities around the world to carry out
+experiments in cutting-edge fusion research. Someday, the
+results of this research may provide the scientific foundation
+for producing power through fusion. This would obviously reduce
+carbon emissions by a huge amount with major implications for
+climate change.
+The ultimate goal in Fusion Energy Science is to provide a
+sustainable, renewable, zero-emissions energy source. While we
+cannot predict when fusion will be a viable part of our energy
+portfolio, it is clear that this is critical basic science that
+could benefit future generations.
+One major step toward achieving this goal is the ITER
+project. ITER is a multinational, collaborative effort to build
+the world's largest tokamak-type fusion reactor in southern
+France. Sponsored by the European Union, India, Japan, China,
+Russia, South Korea, and the United States, the ITER project
+can help answer fundamental challenges in plasma physics and is
+a key step in achieving commercial fusion energy.
+The Director-General of ITER, Dr. Bernard Bigot, will
+provide an update on the project's advances and challenges for
+the Committee today. I want to specifically thank him for his
+leadership of this complex and challenging international
+research project.
+By contributing nine percent of the cost to construct ITER,
+American scientists will be able to access 100 percent of the
+discoveries achieved through the project. That's why it is
+imperative that the U.S. meet its obligations to ITER and fully
+fund fusion research at the Department.
+According to the research community, a minimum of $163
+million for in-kind contributions and $50 million in cash
+contributions in fiscal year 2019 is necessary to maintain the
+scheduled U.S. contribution to the project. Unfortunately,
+DOE's fiscal year 2019 budget request for ITER is only $75
+million. Reduced annual funding will only delay ITER
+instruments being built here in the United States and cause
+construction delays that increase overall project cost.
+With countries like India, Japan, China, and Russia
+partnering through ITER to produce and share cutting-edge
+fusion research, we cannot afford to lose our seat at the
+table. In addition, we cannot expect to receive international
+support for our domestically hosted global research projects
+like the high-priority Long-Baseline Neutrino Facility at
+Fermilab if we do not honor our international obligations.
+Basic research, like fusion science, provides the
+underpinnings for groundbreaking new energy technology.
+Achieving commercial fusion energy technology will require
+strong U.S. leadership and consistent investment in discovery
+science. To maintain our competitive advantage as a world
+leader in science, we must meet our international commitments
+and continue to support the research that will lead to next-
+generation energy technologies.
+Thank you, Mr. Chairman. I yield back.
+[The prepared statement of Chairman Smith follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[The prepared statement of Ranking Member Eddie Bernice
+Johnson:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. I thank the gentleman.
+Let me now introduce our witnesses. Our first witness today
+is Dr. Bernard Bigot, Director-General of the ITER
+Organization. In his distinguished career, Dr. Bigot has held
+senior positions in research, higher education, and government.
+Prior to his appointment at ITER, he completed two terms as
+Chairman and CEO of the French Alternative Energies and Atomic
+Energy Commission, or CEA. Dr. Bigot was trained at the ENS
+Saint Cloud and holds an agregation, the highest-level teaching
+diploma in France, in physical science and a Ph.D. in
+chemistry. Welcome, Dr. Bigot.
+Our next witness is Dr. James W. Van Dam. Am I saying that
+right?
+Dr. Van Dam. You are.
+Chairman Weber. Okay. Acting Associate Director of Fusion
+Energy Sciences in the Office of Science at the Department of
+Energy. Previously, Dr. Van Dam was a Research Scientist,
+Associate Director, and Director of the Institute for Fusion
+Studies at the University of Texas in Austin. He was also
+Director of the U.S. Burning Plasma Organization and Chief
+Scientist for the U.S. ITER Project Office. Dr. Van Dam
+completed his graduate study at University of California
+Berkeley and the Institute of Plasma Physics in Japan. He
+received his Ph.D. at UCLA and was a postdoc at the Institute
+for Advanced Study at Princeton. Welcome, Dr. Van Dam.
+Our third witness is Dr. Mickey Wade, the Director of
+Advanced Fusion Systems of the Magnetic Fusion Energy Division
+of General Atomics. Prior to serving in this role, Dr. Wade was
+the Director of the DIII-D national fusion program, the largest
+fusion research program in the United States with roughly 500
+researchers from over 90 institutions from around the world.
+Dr. Wade received his Ph.D. in nuclear engineering from the
+Georgia Institute of Technology in 1991. He is the author of
+over 30 first-author papers, a fellow of the American Physical
+Society, and has served on the editorial boards of Nuclear
+Fusion and Physics of Plasma. Welcome, Dr. Wade.
+I will now recognize the Ranking Member, the gentlelady
+from California, to introduce our last witness.
+Ms. Lofgren. Well, thank you. I'd like to--although
+Lawrence Livermore Lab is not in my district, it's in the
+neighborhood, and so I'm pleased to introduce Dr. Mark
+Herrmann, who is the Director of the National Ignition Facility
+at Lawrence.
+As the Director of NIF, Dr. Herrmann manages an
+experimental science facility that serves the National Nuclear
+Security Administration's Stockpile Stewardship Program, and he
+pushes the frontier of inertial confinement fusion and
+discovery science. Before coming to NIF, Dr. Herrmann spent
+nine years at Sandia National Labs, and prior to that, he was a
+physicist at Lawrence Livermore National Laboratory. He's a
+fellow of the American Physical Society. He's won numerous
+awards for his scientific work and leadership in his field. He
+received his undergraduate degrees from Washington University
+at St. Louis and completed his Ph.D. from the Plasma Physics
+Program at Princeton University. Thank you for being here, Dr.
+Herrmann. We look forward to hearing from you.
+I yield back.
+Chairman Weber. I thank the gentlelady.
+I now recognize Dr. Bigot for five minutes to present his
+testimony. Dr. Bigot?
+TESTIMONY OF DR. BERNARD BIGOT,
+DIRECTOR-GENERAL,
+ITER ORGANIZATION
+Dr. Bigot. Thank you very much, Chairman Weber and
+distinguished Members of the Committee, for giving me the
+opportunity to present you the updated information on the ITER
+project.
+[Slide.]
+Dr. Bigot. This slide shows the current status of the ITER
+site with the tokamak building and the assembly hall at the
+center. Today, March 6 is precisely my three years anniversary
+as ITER Director-General. In March 2015, as you can see, after
+seven years, progress was quite slow. At that time, the ITER
+project was in urgent need of reform.
+[Slide.]
+Dr. Bigot. I believe we can say with confidence three years
+later, looking at this new slide, that the questions raised by
+several ITER members in 2013, 2014 about the capacity to manage
+this complex international construction project have been
+properly answered.
+As of November 2017, the ITER project has crossed a
+significant milestone, the completion of 50 percent of the
+total construction work scope through First Plasma. These terms
+include design, component manufacturing, building construction,
+shipping, and delivery assembly and installation. This is no
+small achievement. Globally, these project performance
+indicators shows the ITER project is progressing with
+reliability.
+[Slide.]
+Dr. Bigot. On the work site, as you see, the Tokamak
+Complex, including the tokamak building, the diagnostics
+building and the tritium building is advancing rapidly. The
+Assembly Hall is complete and turned over for assembly of the
+internal equipment. Similar progress is being made on the
+cryoplant, magnet power conversion building, the cooling water
+system, and other buildings across the worksite.
+Fabrication of the ITER components both onsite and globally
+worldwide is showing equal momentum. This includes the most
+complex and major components such as vacuum vessel sectors
+progressing in Korea and Europe, the cryostat manufactured by
+India, thermal shield in mass production in Korea, and all
+superconducting magnets here in the United States to toroidal
+field magnets in Italy and Japan and poloidal field magnets in
+Europe, Russia, and China.
+Many first-of-a-kind components are requiring an
+unprecedented combination of size and precision. The further we
+progress, the more this project illustrates the interdependency
+of overall performance. This performance also is the best
+evidence of organizational reforms since 2015: a clear
+decision-making process, profound integration of the work of
+the seven ITER members with the ITER Organization, a reliable
+schedule, and above all strong international project management
+and project culture.
+I am pleased to report continuing validation from external
+reviews. When I last spoke to this Committee in April 2016, we
+had received the report of the independent ITER Council Review
+Group, which was followed one month later by the positive and
+cautiously optimistic report by the U.S. Secretary of Energy.
+[Slide.]
+Dr. Bigot. Since that time, we have had reviews on many
+aspects of project management, as you see on the slide. Each of
+these reviews has found that the ITER project is well-managed,
+while helping us to refine further our methods. We are
+committed to continuous improvement.
+In April 2016, I reported to this Committee that we had set
+up technical and organizational milestone to demonstrate to the
+ITER Council that the project is staying on track for success.
+I am pleased to say that 31 milestones have now been achieved
+from January 2016 through First Plasma. We remain on track for
+First Plasma in 2025. Again, this consistent progress cannot be
+taken for granted. It demands the collective commitment of all
+ITER members.
+This brings me to my final and most important point, to
+thank the Committee for placing this ITER status update in
+context because ITER must be understood as an integral element
+of U.S. fusion research and the next major step toward a
+burning or self-heating plasma, as underlined by the recent
+preliminary report of the U.S. National Academies.
+ITER is the converging next step in the fusion research
+roadmap of the U.S. and every ITER member. The shortfall in the
+contribution of any single member, if it impacts the delivery
+of components or the capacity of ITER to meet the assembly and
+installation schedule, will have a cascading strong effect in
+delays, costs, and the description of fusion research for every
+other member. It is why I would like to urge the United States
+to timely comply with their contribution commitment.
+[Slide.]
+Dr. Bigot. We are committed at ITER, as you see on this
+slide, day and night to make this project the model for
+international collaboration in complex science and technology.
+We are committed to making ITER a sound investment for the
+United States, as for all ITER partners. We look forward to a
+long and fruitful collaboration. Thank you.
+[The prepared statement of Dr. Bigot follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, Dr. Bigot.
+Dr. Van Dam, you're recognized for five minutes.
+TESTIMONY OF DR. JAMES W. VAN DAM,
+ACTING ASSOCIATE DIRECTOR,
+FUSION ENERGY SCIENCES,
+OFFICE OF SCIENCE,
+DEPARTMENT OF ENERGY
+Dr. Van Dam. Thank you, Chairman Weber and Ranking Member
+Lofgren in place of Ranking Member Veasey, and also full
+Committee Chair Smith, my former Congressman from Austin,
+Texas, and other distinguished Members of the Subcommittee.
+Thank you for this invitation to testify before you today about
+fusion energy research.
+I am currently the Acting Associate Director for the Office
+of Fusion Energy Sciences, and I appreciate this opportunity to
+review the status of fusion research and describe programmatic
+directions going forward.
+The mission of the Fusion Energy Sciences, or FES, program
+is to expand the fundamental understanding of matter at very
+high temperatures and densities and to build a scientific
+foundation needed to develop a fusion energy source. This is
+accomplished through the study of plasma called the fourth
+state of matter, which is wide-ranging since 99 percent of the
+visible universe is plasma.
+The FES program addresses several Administration research
+and development priorities. Fusion research has the potential
+to contribute to American energy dominance by making available
+a robust, clean baseload electricity technology. Plasma science
+can contribute to American prosperity through the potential for
+spinoff applications, establish partnerships within and outside
+DOE and increase our research effectiveness, and we also help
+train a STEM-focused workforce in key areas of technological
+and economic importance, as well as national security.
+The DIII-D National Fusion Facility at General Atomics and
+the National Spherical Torus Experiment Upgrade, NSTX-U, at
+Princeton Plasma Physics Laboratory, are world-leading Office
+of Science user facilities. The DIII-D scientific team has 439
+researchers from 49 U.S. institutions, plus another 164
+researchers from 46 institutions and seven other countries. The
+DIII-D scientific results are recognized worldwide.
+NSTX-U is the world's highest-performance spherical
+tokamak, a magnetic configuration invented in the United States
+with attractive advantages of compactness and component
+testing. NSTX-U is currently not operating while its magnetic
+coils are being repaired.
+The United States is a world leader in fusion theoretical
+modeling and high-performance computer simulations. FES
+supports eight multi-institutional Scientific Discovery through
+Advanced Computing, SciDAC, centers jointly with the Advanced
+Scientific Computing Research Program Office. Fusion
+researchers also lead one of the Office of Science exascale
+computing projects.
+Several multi-institutional U.S. teams conduct research
+under international partnerships on superconducting tokamaks
+and stellarators with long-duration capabilities not available
+in the United States. To test fusion materials under extreme
+conditions, the fiscal year 2019 budget request proposes a
+linear diverter simulator facility with world-leading
+capabilities.
+Under the U.S. contributions to ITER construction project,
+we are fabricating several hardware systems. One is the central
+solenoid, which will be the world's largest superconducting
+pulsed electromagnet, the so-called heartbeat of ITER. The U.S.
+First Plasma subproject is halfway finished. The United States
+has spent $1 billion, 90 percent of which is within the United
+States through approximately 600 contracts in 44 States.
+The U.S. ITER project is very well-managed. The ITER
+Organization has significantly improved its project management
+under Director-General Bigot, and we thank him. The
+construction progress onsite is very substantial.
+FES also supports discovery plasma science through
+partnerships with the National Science Foundation and DOE's
+National Nuclear Security Administration. U.S. scientists are
+world leaders in inventing new plasma measurement techniques.
+Strategic directions going forward for the FES program are
+informed by several planning efforts, including priorities
+described in the document, ``The Office of Science's Fusion
+Energy Science Program: A 10-Year Perspective;'' research
+opportunities identified in recent community workshops, one of
+which was led by Dr. Wade; reports from the Fusion Energy
+Sciences Advisory Committee; and reports from the National
+Academy of Sciences. Currently, a National Academy study on the
+strategic plan for U.S. burning plasma research is underway.
+Dr. Herrmann is one of the panel members. And also the National
+Academy is now launching the 2020 Plasma Decadal Survey.
+Thank you for this opportunity today to describe DOE's
+research efforts in Fusion Energy Sciences research, and I look
+forward to discussing this topic with you and answering your
+questions. Thank you.
+[The prepared statement of Dr. Van Dam follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you. Dr. Wade, you're recognized for
+five minutes.
+TESTIMONY OF DR. MICKEY WADE,
+DIRECTOR OF ADVANCED FUSION SYSTEMS,
+MAGNETIC FUSION ENERGY DIVISION,
+GENERAL ATOMICS
+Dr. Wade. Thank you, Mr. Chairman. I would like to thank
+the Committee for this opportunity to share my views on the
+U.S. fusion program. I'd like to stress that these are my views
+and not necessarily those of my employer.
+I have spent nearly 30 years working in fusion research, 15
+of those at Oak Ridge National Lab, and the last dozen at
+General Atomics. I'm passionate about fusion energy and maybe
+as importantly about the role the United States can play in its
+development.
+This marks the 80th anniversary of the discovery of the
+process the powers our sun and stars, nuclear fusion. We've
+made remarkable progress over the intervening 80 years in
+figuring out how to harness the enormous potential of fusion
+energy. The United States has been at the forefront of this
+progress, forging a path that has taken fusion energy from a
+dream to a potential energy source for thousands of years.
+Critics can no longer say that fusion is 50 years away and
+always will be.
+As we've just heard from Dr. Bigot, the first phase of
+the--of construction of the most ambitious fusion project ever
+undertaken, ITER, is now 50 percent complete. In 2025, a little
+over seven years from now, ITER will produce its First Plasma.
+Just ten years later, ITER will begin an operations phase that
+will produce powerplant levels of fusion power for the first
+time.
+Anticipating this, other nations are increasing their
+emphasis on fusion energy, putting together strategic plans to
+capitalize on ITER's success. Private enterprises are now
+evaluating high-risk, outside-the-box approaches to fusion
+energy. Yet as excited as I am about this future, I'm very
+concerned that our nation's commitment to fusion is wavering
+and the decisions our country is making now will relegate us to
+the sidelines in the future. U.S. participation in ITER is in
+question. Investment in U.S. fusion capabilities is being far
+outpaced by other nations, particularly China. The United
+States does not have a comprehensive strategic plan for fusion
+development.
+The United States has long been a world leader in fusion
+energy research, and this continues today. U.S. scientists
+continued to discover new phenomena and develop pioneering
+solutions to fusion's challenges. The United States is building
+the ITER central solenoid. When fully assembled, it will be
+nearly as wide as this table, nearly as tall as this building,
+and be the most powerful electromagnet in the world. It will be
+the heart of ITER, enabling ITER to generate plasma
+temperatures that exceed 150 million degrees, about 10 times
+the temperature of the sun.
+So what needs to be done? I offer two recommendations for
+your consideration. Number one, the United States should make a
+firm commitment to fully fund the ITER project. The early days
+of ITER were very challenging, but it appears the ship is now
+sailing in calm waters thanks to the efforts of Dr. Bigot and
+the ITER members. I believe ITER is our ticket to be a tier-one
+player in fusion development, giving us full access to the
+preeminent fusion facility in the world for only nine percent
+of the fusion project cost. Over 80 percent of these
+contributions are for in-kind projects built in the United
+States, creating jobs and associated expertise here. On the
+flip side, withdrawing from ITER could isolate U.S. scientists
+from the international effort and would require a new U.S.
+approach to study burning plasma with an unknown time horizon
+and cost.
+Number two, the United States should move now to establish
+a comprehensive strategic plan that seeks to capitalize on
+ITER's success. Fusion energy should be called out in a
+national energy policy. A strategic plan with clearly defined
+technical objectives should be developed that sets the United
+States on an aggressive distinctive pathway to fusion energy.
+This pathway should include new investment in world-class
+research capabilities that will attract and engage the best
+U.S. minds from universities, national labs, and the private
+sector. Following through on initiatives, evaluating new ideas,
+and developing transformational technologies will all be
+required in arriving at the most cost-attractive approach for
+fusion development.
+In 1962, at the beginning of the Apollo program, President
+John F. Kennedy issued a proclamation that I think speaks in to
+this hearing today. He said, and I quote, ``We choose to do
+these things not because they are easy but because they are
+hard, because that goal will serve to organize and measure the
+best of our energies and skills, because that challenge is one
+that we are willing to accept, one we are unwilling to
+postpone, and one we intend to win.'' Less than seven years
+later, an American walked on the moon. It's in the American DNA
+to take on the grandest challenges and not just succeed but be
+the best. Fusion is one of those grand challenges.
+I hope you will join us in forging a path that ensures the
+United States is a world leader in making fusion energy a
+reality for future generations. Thank you for the opportunity
+to speak with you today. I look forward to your questions and
+working with you in the future.
+[The prepared statement of Dr. Wade follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, Doctor.
+Doctor, is it Herrmann or Herrmann?
+Dr. Herrmann. It's Herrmann.
+Chairman Weber. Okay. You're recognized for five minutes.
+TESTIMONY OF DR. MARK HERRMANN, DIRECTOR,
+NATIONAL IGNITION FACILITY,
+LAWRENCE LIVERMORE NATIONAL LABORATORY
+Dr. Herrmann. Thank you. Chairman Weber, Congresswoman
+Lofgren, and Members of the Committee, thank you for the
+opportunity to appear before this Committee and offer testimony
+on the future of fusion energy research.
+As was already mentioned, I'm the Director of the National
+Ignition Facility, or NIF, at Lawrence Livermore National
+Laboratory, which is sponsored by the National Nuclear Security
+Administration. NIF is a football stadium-sized facility
+containing the world's most energetic laser. I've had the
+pleasure of giving NIF tours to several Members of the
+Committee and of course would be happy to show off the
+incredible work done by our scientists and engineers to those
+of you who haven't had a chance to visit.
+NIF's lasers are focused on targets smaller than a pencil
+eraser to create conditions of very high temperatures and
+pressures called high-energy density or HED. Since greater than
+99 percent of the yield of our nuclear weapons comes in the HED
+state, HED experiments are a critical component of the science-
+based Stockpile Stewardship Program, which has the goal of
+ensuring that our nuclear stockpile remains safe, secure, and
+effective in the absence of further explosive nuclear
+underground testing.
+In addition to NIF, the Z-Pulsed Power Facility, and the
+OMEGA Laser Facility play complementary roles in the Stockpile
+Stewardship Program. Experiments on NIF are providing data in
+important regimes to both enhance and test our simulations of
+our nuclear weapons. Simulations are incredibly powerful tools,
+especially now that we're getting better and better computers,
+but it is essential that they be compared to data in order to
+avoid getting the wrong answers. NIF, Z, and OMEGA also play a
+major role in recruiting and training the scientists and
+engineers who are the next generation of stockpile stewards.
+One of stewardship's grand scientific challenges
+established at the birth of the program is to achieve fusion
+ignition in the laboratory. Ignition is when the energy
+released from the fusion reactions further heats the fusion
+fuel referred to self-heating--referred to as self-heating--
+leading to more reactions and a large release of energy.
+Pursuit of ignition provides the United States with an
+experimental platform to study many incompletely understood
+aspects of nuclear weapons performance. In contrast to magnetic
+confinement fusion, inertia confinement fusion is obtained by
+squeezing the fusion fuel to higher pressures and temperatures
+than found at the center of the sun.
+Early experiments on NIF ending in 2012 fell far short of
+achieving ignition, despite optimistic projections. A number of
+experiments were then performed, and many gaps in our
+understanding were identified. In 2016, NNSA established a goal
+for 2020 to assess the efficacy of NIF for achieving ignition.
+Today, we are on track at the halfway point of that goal. In
+fact, last year, improvements enabled the fusion yield on the
+best implosions on NIF to date to more than double the previous
+record yield to over 50 kilojoules. That's 25 times higher than
+the fusion yields in 2012. These implosions have demonstrated
+modest self-heating, a critical step on the path to ignition
+that's akin to trying to light a campfire and having the wood
+start to smoke.
+Simulations suggest that a 30 percent enhancement in either
+the pressure or the confinement time of this plasma would bring
+us to ignition, although it is possible to--that the
+simulations could be wrong, which is why, of course, we do
+experiments.
+We are now pursuing several exciting directions for
+improving the fusion yield at NIF. If ignition is obtained on
+NIF, it would be the first time ever in the laboratory, and
+such a breakthrough could open the path--a possible path to
+inertial fusion energy, or IFE, that could have significantly
+different technological risks than magnetic fusion approaches
+we've been hearing about today. An IFE system would work by
+using a driver like a laser to ignite targets multiple times
+per second. To be clear, NNSA does not have an energy mission,
+and IFE research is not being performed at NIF today.
+The National Academy of Sciences studied IFE in 2013, and
+their report concluded that the appropriate time for the
+establishment of a national coordinated broad-based IFE program
+within DOE would be when ignition is achieved. However, the
+committee also concluded that the potential benefits of energy
+from ICF also provide a compelling rationale for including IFE
+R&D as part of the long-term R&D portfolio for the--for U.S.
+energy. This is an important conclusion of the NAS report.
+A number of promising technologies highlighted in the NAS
+report as key to eventual IFE systems are making steady
+progress, but without an IFE program, the United States is not
+in a position to assess the significance of these advances.
+A modest IFE investment is all the more justified, given
+that the United States leads the world in the high-energy
+density science. NIF, for example, operates with 10 times the
+energy of the next largest laser in the world, which is in
+China.
+There are few remaining fields of science where the United
+States currently maintains such a lead over the rest of the
+world. This world leadership, along with the compelling
+scientific opportunities such as the grand challenge of
+ignition, have been a magnet for the best and brightest
+scientists and engineers to pursue research on the NIF and to
+join the Stockpile Stewardship Program.
+Today, the rest of the world is aggressively catching up.
+NIF-scale lasers are under construction in both France and
+Russia, the Chinese are exploring designs for lasers that are
+1.5 to 3 times NIF's scale, and in high-intensity lasers the
+leadership has shifted from the United States where they were
+invented to Europe and Asia, as noted in a recent NAS study.
+While the world is investing more in HED science the fiscal
+year 2019 President's budget requests reducing funding for the
+national ICF program by more than 20 percent relative to fiscal
+year 2017, a reduction of more than $100 million. The proposed
+budget reduces funding for NIF by more than $60 million, zeroes
+support for target fabrication at General Atomics, and includes
+major cuts to the OMEGA Laser Facility, putting the facility on
+a path to closure over the next three years.
+The academic programs that are essential to the field's
+future are also zeroed. Together, these cuts cripple our
+academic partners and could lead to the loss of a generation of
+early-career HED scientists and students. At Livermore, the
+proposed cuts will lead to a major disruption in our ability to
+provide the HED experiments needed to support both near-term
+and long-term stewardship deliverables, and the cuts will
+strongly impact the pursuit of fusion ignition, leading to a
+multiyear delay of the goals set out in 2020.
+We're close--we are working closely with NNSA and our
+national partners to manage the impacts of these cuts should
+they be enacted and remain focused on the highest priority
+deliverables of the stewardship program, but they must--it must
+be understood that these cuts will have major negative
+implications for U.S. leadership in HED science and fusion
+research.
+Thank you again for your time, and I look forward to your
+questions.
+[The prepared statement of Dr. Herrmann follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, Doctor.
+I now recognize myself for five minutes.
+Dr. Bigot, in your testimony you stress that ITER is an
+integrated project whose success relies on the performance of
+each of its constituent members. Be as specific as you can.
+Could you explain what would happen to the ITER project if the
+United States fails to meet our commitments to the ITER
+project?
+Dr. Bigot. Thank you very much. It's very clear that the
+United States has two roles, even three I would say. The first
+one is to provide in-kind components, and you understand maybe
+that this tokamak facility is a highly integrated facility in
+such a way that if a component is not onsite and under
+specification, on time, it will stop the whole project.
+The most important equipment which is to come soon is the
+central solenoid that we spoke about. It is the backbone I
+would say of the whole facility. As well there is the tokamak
+cooling water system is a system that will extract the heat
+from the tokamak. There are also several diagnostics, which are
+absolutely needed. You will see that indeed in 2018, 2019,
+2020, most of the components have to be completed and to be
+delivered. If some of the component is not properly designed on
+time, it will impact everything.
+The second point is the ITER Organization. Beyond the
+responsibility of the United States, ITER Domestic Agency,
+National Oak Ridge Laboratory, the ITER Organization has a
+responsibility to install and assemble all these components
+coming from all over as well. In 2018, early 2019, I have to
+place all the nine assembly contracts with some leading
+companies in such a way that between 2018 and 2024, six years,
+we will be able to assemble these components.
+So if the United States doesn't provide the in-cash
+contribution, we will be behind budget. Right now, the United
+States has not paid the in-cash contribution in 2016, 2017.
+It's something around 70 million of euro owed, and for 2018, we
+have low expectation if we stay with the 63, so it's very
+important that we keep in.
+Chairman Weber. Thank you. My time is getting away from us
+a little bit. I appreciate that insight.
+Dr. Van Dam, let me come to you. Will the Department of
+Energy commit to honoring our obligations under the ITER
+agreement? What say you?
+Dr. Van Dam. Well, I'm speaking on behalf of the
+Administration. As you know, the Administration is doing a
+review of all civil nuclear-energy-related activities. ITER has
+been included in that, and we are waiting for that to provide a
+decision about whether the United States stays in ITER or not.
+In the meantime, funding is provided for the two highest
+hardware systems that we're providing. One was just mentioned,
+the central solenoid at General Atomics. The other is the
+tokamak cooling water system also mentioned.
+Chairman Weber. Of course I served in the Texas Legislature
+with Governor Perry for four years. Do you know, is the
+Secretary aware of this project or how aware is he maybe I
+should ask you?
+Dr. Van Dam. That may be beyond my pay grade, but I
+certainly hope he is. I know he's had letters from people like
+Dr. Bigot and others, and they've been given to us to write
+responses----
+Chairman Weber. Okay.
+Dr. Van Dam. --and there is a visit coming up from state
+heads.
+Chairman Weber. If I give you his cell phone, will you call
+him? Just----
+Dr. Van Dam. I remember him fondly from Texas.
+Chairman Weber. Dr. Van Dam----
+Mr. Foster. Would the Chairman yield for a moment on that?
+I can speak from personal experience.
+Chairman Weber. Yes, sir. You bet.
+Mr. Foster. Yes, no, the Secretary is actually very plugged
+into it and very, very enthusiastic about this. He really, you
+know, sees his role as an advocate for the entire program of
+which--of fusion. I spent a day with him as he visited the two
+labs near my district, and so the answer is unquestionably yes.
+Chairman Weber. Well, absolutely good to know. I appreciate
+the gentleman.
+Dr. Van Dam, next question. What type of research in
+advanced scientific computing and materials science do you
+think should be prioritized in order to support the Fusion
+Energy Science program in the next few years?
+Dr. Van Dam. Yes. As you know, advanced computing is a
+priority of the Administration I think across the government,
+and for Fusion Energy Science we are looking to advances in
+exascale computing, which would really help us a lot. We have
+very, very big codes that we run and have been running for
+decades.
+Another area is data science, which includes machine
+learning, and we think there's a strong potential for quantum
+information science to help our field, especially in
+applications. Now, was that the entirety of the question or was
+there----
+Chairman Weber. Yes, and I need to move on. I'm running out
+of time here if I may, so thank you for that answer. This is a
+question for all of you, so we'll start with Dr. Bigot.
+Dr. Bigot, have you thought about or what impact do you
+think the commercialization of fusion energy could have on
+climate change?
+Dr. Bigot. Really, as you know, many have found, okay,
+plasma and the burning plasma will deliver an energy without
+any impact on the climate. We just release helium if we release
+anything, and it is benign, chemically benign, no impact on the
+climate, no impact on the environment. So it's one of the most
+important advantages we could expect from this technology.
+Chairman Weber. Okay. Dr. Van Dam, same question.
+Dr. Van Dam. Yes, I would echo that answer and just say
+that if you look at certain Asian countries, for example, that
+have great problems with pollution and so forth, they are
+pursuing fusion very vigorously.
+Chairman Weber. Right. And offline at some point I'd be
+interested in a discussion about the amount of energy that goes
+into the solenoid, the electromagnetic coil, how you get there,
+what produces that energy, and what it costs, but we'll do that
+at a later date.
+Dr. Wade?
+Dr. Wade. Yes, I would just echo the same answer. I will
+point out that fusion has the potential to be a large baseload
+source of electricity, which renewables, without battery
+storage, have a challenge doing that. So creating a carbon-free
+footprint with a large baseload will sort of transform how
+fusion is--and how energy is produced in this world so----
+Chairman Weber. Okay. Dr. Herrmann?
+Dr. Herrmann. Just echoing my other fellow members here--
+committee--the fusion is a game-changer for the future energy
+sources of this planet, so it is--it takes a lot of work. It's
+very hard to achieve fusion, but I think it's definitely worth
+the investment that's been made.
+Chairman Weber. I thank you. I now recognize the gentlelady
+from California.
+Ms. Lofgren. Thank you, Mr. Chairman.
+You know, I was thinking about all of the great work that
+each one of our witnesses is doing, and I was thinking about
+the--specifically, the National Ignition Facility, which I've
+been interested in since its inception. I think I was there at
+the groundbreaking in '97, and certainly when we--there were
+some glitches in the construction, but ultimately at the
+opening--I remember I spoke at the opening. There was
+tremendous optimism at the time that ignition would be achieved
+in a very short time frame, and I remember saying all that will
+be left will be the engineering and people laughing.
+But here we are. It's a slog. It's a slog, and yet the
+stakes are very high for humanity and our future not only in
+terms of zero-emission energy but potentially even for
+remediation of damage that has already been done. So this is an
+investment that I think is essential for our future.
+In your testimony, Dr. Herrmann, you referenced the 2013
+National Academy report that basically says the potential
+benefits of energy from inertial confinement fusion provide a
+compelling rationale for including inertial fusion energy R&D
+as part of the long-term R&D portfolio for U.S. energy.
+However, that followed their other statement, which basically
+said the appropriate time to establish national coordinated
+broad-based inertial fusion energy program within DOE would be
+after ignition is achieved. So if you don't make the
+investment, you'll never get ignition. Can you help us
+understand these two apparently conflicting comments?
+Dr. Herrmann. Well, I guess I see it as--that they can be
+complementary in this way when ignition is achieved--and I
+think it's a when, not an if--it will be, you know, a potential
+different path with different risks compared to magnetic
+fusion, so it's an attractive option that mitigates risk in
+this high--this very technically risky endeavor. At that time
+it would be appropriate to have a very broad-based approach,
+which would mean we're looking at the drivers, the targets, the
+chambers, everything that needs to be put together to develop
+an energy source.
+Until that time, though, it seems to me that it would be--
+would be in a better position if we were doing a small level of
+investment, a modest program that is looking at technology
+development because technology is moving forward, and then the
+United States would be in a position to really assess what are
+the impacts of these advances and be in a better position when
+ignition eventually happens.
+Ms. Lofgren. Well, and I'd just like to note, I mean, 25
+years ago when I first started meeting with fusion scientists,
+I came into the understanding that there are divisions, you
+know, magnetic and it's almost a religious belief. I don't
+share those conflicts. Whatever works, I'm for all the science,
+and I think as time has gone on, the scientists have gotten to
+that position as well.
+I understand--you know, actually in 2016, working with
+Secretary Moniz, I asked him to put together an assessment of
+the current status of federal support for inertial fusion
+energy and potential action items. He did with the career
+professionals in the Department. Now, we've had some personnel
+changes at DOE, but the career professionals are still there,
+and it's my understanding that really this is not a partisan
+issue. It never has been and hopefully never will be.
+So, Dr. Van Dam, do you agree with the recommendations of
+the National Academies report that has been referenced in terms
+of the development of inertial fusion for energy applications,
+that they're still worth addressing? Do you think we should
+find a way for strong merit reviewed proposal for inertial
+fusion energy research?
+Dr. Van Dam. Thank you. And let me begin by saying thank
+you so much for your passionate interest in fusion energy, be
+it magnetic or inertial or both. The Administration follows the
+recommendation from the National Academy report that the
+appropriate time for the establishment of a coordinated program
+in inertial fusion energy would be when ignition is achieved,
+and so at the present time it does not support large-scale
+investment by the Office of Science at the present time. I'm
+sure that Dr. Herrmann's efforts will bring that to pass soon.
+And our investments in FES are then appropriately limited
+as well. We do invest specifically in IFE technology through
+the SBIR program for drivers and diagnostics. At the same time,
+we are supporting the science that underlies IFE----
+Ms. Lofgren. Right.
+Dr. Van Dam. --and HEDLP.
+Ms. Lofgren. Let me ask you, Dr. Herrmann, I was stunned by
+your testimony that a 30 percent enhancement the models show us
+we get to ignition. Now, you've made tremendous changes in
+performance of the NIF in your tenure as Director since 2014.
+Is that enough to--if--absent significant reductions in
+support, can you envision getting that 30 percent? Can you tell
+us where you're going to be or your best estimate with even
+support?
+Dr. Herrmann. I frequently say you have to be an optimist
+to work in fusion.
+Ms. Lofgren. Or to be in Congress.
+Dr. Herrmann. We have, you know, very sophisticated
+simulations that guide us in the work we're doing. We find--and
+when we do experiments--and we've been developing better
+diagnostics--that there are gaps between what our simulations
+say and what we observe. If we can close those gaps, then the
+simulations suggest that we should be able to get over the
+threshold and get to ignition. And we see promising paths
+forward. So we're making progress, and that's the reason for my
+optimism. But we don't know until we get there----
+Ms. Lofgren. Of course not.
+Dr. Herrmann. --if we'll be able to get there or not. I
+feel like we've gone a big part of the way to where we need to
+get to, and so that's--and I think there's a large parameter
+space and an incredibly dedicated team of brilliant scientists
+and engineers working on it, so I think if we have the
+wherewithal to continue, we will eventually get there, but I
+don't know.
+Ms. Lofgren. I think my time is expired. I yield back, Mr.
+Chairman.
+Chairman Weber. I thank the gentlelady.
+The gentleman from California, Mr. Rohrabacher, is
+recognized for five minutes.
+Mr. Rohrabacher. Thank you very much.
+Dr. Van Dam, how much money has been spent on trying to
+produce fusion energy so far?
+Dr. Van Dam. My goodness. By the United States or by--
+Mr. Rohrabacher. No, everybody, but United States and then
+everybody.
+Dr. Van Dam. I would have to take that on as a homework
+assignment.
+Mr. Rohrabacher. You don't know?
+Dr. Van Dam. Well, are you talking about integrated over
+the past--
+Mr. Rohrabacher. Well, we're talking about a major project
+here. You don't know how much money has been expended so far by
+the people who are engaged in this coalition to create fusion
+energy?
+Dr. Van Dam. Are you speaking of ITER?
+Mr. Rohrabacher. I'm not. I'm talking about fusion energy
+now.
+Dr. Van Dam. We have a current fiscal year 2019 budget
+request of $340 million.
+Mr. Rohrabacher. We do, right.
+Dr. Van Dam. Yes.
+Mr. Rohrabacher. And----
+Dr. Van Dam. To the Congress, and then it's up to you of
+course.
+Mr. Rohrabacher. Okay.
+Dr. Van Dam. The fiscal year 2017 enacted was $380 million.
+Before that it was a bit higher. It was running about $400
+million per year.
+Mr. Rohrabacher. Okay. So you know the budget for the last
+two or three years but before that--have we spent billions of
+dollars on fusion energy over the years and with our allies----
+Dr. Van Dam. Yes.
+Mr. Rohrabacher. --billions and billions? How much--have we
+had any actual realization at all of something other than the
+computer models that suggest that we're going to get there, if
+we had an ignition of fusion--manmade fusion energy?
+Dr. Van Dam. Well, there are two examples, one in the
+United States, one in Europe. The U.S. example was the TFTR
+tokamak at Princeton. This was the late '90s, and they got very
+close to breakeven. The Joint European Torus likewise around
+the same time got even--
+Mr. Rohrabacher. Very close isn't the----
+Dr. Van Dam. Yes.
+Mr. Rohrabacher. --is not yet, right?
+Dr. Van Dam. Well, those were still smaller machines.
+Mr. Rohrabacher. Yes. But very close didn't--doesn't work.
+Dr. Van Dam. Well, there's breakeven and then there's--
+Mr. Rohrabacher. Well, we have manmade fusion energy. Do
+you have something that went on for a minute worth of fusion
+energy? No.
+Dr. Van Dam. Well, national security applications, but they
+don't last that long.
+Mr. Rohrabacher. I mean--okay. Well, let us note that we've
+had very little physical evidence that is actually happening.
+We've got a lot of computer models here, and let me just note
+that I have seen--I've been here for a while. I actually--a lot
+of computer models that didn't work, and is it possible that we
+will get to the end of this project and it won't work?
+Dr. Van Dam. I sincerely hope not, and the best--
+Mr. Rohrabacher. That's not--no, no, no, is it possible
+that it won't work?
+Dr. Van Dam. The best projections from experiments that we
+have done over the past decades and our experience, the
+database, the computer modeling, and the new technology that we
+have, we think it will definitely work.
+Mr. Rohrabacher. We think, we think, we think. Okay. Let me
+just note this, that I would love to believe in the dream of
+fusion energy. I'd love to believe that. And it's very--and
+it's possible from what I've heard people say. It's possible we
+will get there. But we know that with the expenditure of the
+kind of money that we've spent on fusion energy, we could have
+developed fission energy alternatives that are for sure not
+just computer models but are for sure. And we have nobody--when
+you're interviewed about those model saying well, I think--no,
+they are very sure General Atomics, for example, has come up
+with a number of alternatives that they know they can complete.
+And I would suggest that with the limited amount of money
+that we have that we should be going for those things that we
+know we can actually do when it comes to the nuclear
+production--nuclear energy production of electricity. And this
+project has been going a number of years. We're spending
+billions of dollars, and we still do not know for sure whether
+or not there will be the type of ignition that we keep spending
+money on.
+Let me just note that we do have byproducts that I--let me
+tip my hat to General Atomics and others involved in this
+project. Mr. Chairman, there are byproducts that we have had
+from this research that have permitted the development of new
+materials and things such as that that may in the end turn out
+to be worth the investment without fusion. But in terms of
+actually producing energy, I think the American people deserve
+us to go for a for-sure outcome of electricity that we could
+spend the same amount of money on rather than something that
+could work because the computer models tell us so.
+And, Dr. Bigot, go right ahead. I know you're anxious to
+refute that or say something good about it. Please use my time
+to do that.
+Dr. Bigot. If I may just a second--
+Mr. Rohrabacher. Yes.
+Dr. Bigot. --from my point of view we have achieved what
+the computing modeling has been able to achieve, which means
+the JET we knew, it could not deliver more than 70 percent of
+the fusion power it received.
+Chairman Weber. Was that 70 or 17?
+Dr. Bigot. Seventy, seventy, 7-0, you see? Because of the
+size, is it not possible to have a net fusion power, but we had
+fusion power but not in the outcome. It's why with ITER we need
+a larger tokamak. We need a larger vacuum vessel. And the
+expectation is to have 10 times the fusion power that we will
+feed in with the heating system, 500 megawatt of fusion power.
+So everybody in this audience has to understand there is a
+minimum size. If you want to get, okay, fusion power, you need
+to have sufficient number of fusion event per unit time in
+order to deliver. So my understanding is, so far, the computer
+modeling has done very well and is why from my point of view I
+am confident that if we are able to assemble properly all the
+components making this ITER facility, we will deliver.
+Mr. Rohrabacher. Thank you very much.
+Thank you, Mr. Chairman.
+Chairman Weber. Now, if that hadn't confused you,
+Congressman, he can keep talking.
+Mr. Rohrabacher. Yes.
+Chairman Weber. I think what he's saying is that we're
+making progress, and so I'm glad that he's here and explaining
+it to us.
+The gentleman yields back. I appreciate that.
+Mr. McNerney, you're recognized for five minutes.
+Mr. McNerney. Well, I thank the Chairman. I thank the
+panel. I have to say I've been an enthusiast for fusion energy
+since college, since graduate school. I worked with Los Alamos
+labs at the time on inertial fusion. But we have a lot of
+progress, and I really truly believe that humanity is going to
+depend on fusion power for the long run. I mean, I don't see
+any other energy source that's going to really supply our human
+race with enough energy in the long-term future than fusion. So
+I'm going to continue to support the progress.
+Dr. Van Dam, you said that the United States is the leader
+in the computer modeling of fusion. What gives us the ability
+to be the leader? Is it the computer power that we have or is
+it the computer scientists? What is it that gives us that
+leadership?
+Dr. Van Dam. Yes, a couple of things. We have very advanced
+leadership class computing facilities: Oak Ridge and Argonne.
+We have a national energy research computer center out in
+California, which, when it started, actually was a magnetic
+fusion energy computer center and then it broadened into the
+entire Office of Science. We have the SciDAC, the Scientific
+Discovery through Computing program, which brings together the
+subject matter experts in physics and science with applied
+mathematicians and computer scientists. And this is very
+powerful. I've seen results of computer simulations gone from
+half the time required to do them just because the
+mathematicians and C.S. people have been involved.
+Mr. McNerney. So is our leadership being challenged by the
+supercomputers that they're building in China now or other--or
+is it just the major infrastructure that we have that allows us
+to maintain that leadership?
+Dr. Van Dam. Other countries do have very powerful
+computers. You mentioned China. We are trying to make up for it
+with intelligence and the way we use them, but yes, we do need
+to move on. Exascale is a very big priority in the
+Administration, and even after that, quantum information
+science.
+Mr. McNerney. Okay, thank you. Dr. Wade, you mentioned that
+there needs to be a comprehensive plan for fusion. Is there an
+outline for such a plan that we can consider or are we--I mean,
+as my colleague Bill Foster said, it's like fractal. The closer
+you look at it, the more sort of different approaches there
+are. How can we get our hands around this thing?
+Dr. Wade. Well, first off, let me just say that when I
+speak of comprehensive strategic plan, I'm talking about
+getting to fusion development, fusion energy, not just the next
+steps in what fusion energy is----
+Mr. McNerney. Right.
+Dr. Wade. --and so we have to have a goal and we have to
+have an objective for the United States of what that is, on
+what time frame, so I think we need to establish that.
+I think there are--is the framework of a strategic plan
+that has been encouraged through processes that the Fusion
+Energy Sciences division has organized through their advisory
+committee, but that look more closely at the near term than the
+long term, and I think we need to try to understand where we
+want to go in the long term to do that. So, for example, right
+now we're focused a lot on plasma physics, on--a lot on
+confinement.
+To ultimately deliver fusion, you have to get into
+materials, you have to get into technology for fuel, tritium
+fuel cycle handling, things like that. These are technologies
+that are not just off-the-shelf things. They're not going to be
+developed in another area. They have to be developed within the
+fusion context. And so these are things we should be looking at
+and trying to figure out where we need to go to be the leaders
+in that.
+So I think there's a framework in place to start from the
+plasma physics side and the burning plasmas that will get an
+ITER but we also need to fold into that what technologies we
+need to develop in the future and start that work now rather
+than later because if we start later, we're just going to make
+this a serial process that takes for a--a very long time to do.
+Mr. McNerney. Okay. Well, we're going to depend on you to
+point us in the direction of a plan so that we can at least get
+our hands around that.
+Dr. Wade. Yes.
+Mr. McNerney. Dr. Herrmann, welcome to my little section of
+the world here today. I appreciate--I've been to your facility
+many times. I appreciate what all is involved, and I understand
+that your real mission is the stockpile maintenance and so on,
+but you have such a world-class facility. How can we more
+expand that facility to use in terms of developing fusion
+power? I know that NNSA is very protective of your facility.
+How can we expand that a little bit?
+Dr. Herrmann. Thanks for the question. So going back to the
+very original documents that--the key decisions that led to the
+creation of the NIF, it was recognized that inertial fusion
+energy was one possible application. This was all when the
+Department was the Department of Energy before NNSA was
+created. And in those documents it says that some fraction of
+the time on the facility would be open to the scientific
+community, and so we do open up about eight percent of NIF's
+time to the outside academic community. And that has allowed us
+to do world-leading science and attract future stockpile
+stewards and collaborate with scientists, great scientists at
+academic institutions around the United States.
+Because there currently isn't really a funding path for
+researchers who want to do IFE, we don't really get proposals
+in the area of IFE into that open call for time on NIF, and so
+I think it's kind of a chicken-and-egg thing. It's hard to get
+the researchers to put in proposals because they don't have a
+path to get research funding, so if there was such a path, I
+think that would be a way that some of that time could be used
+for fusion energy research.
+Mr. McNerney. Thank you again. I thank the panelists. I'm
+going to have some questions for the record since I'm out of
+time here. I'll submit those later.
+Chairman Weber. I thank the gentleman from California. The
+gentleman from Oklahoma is now recognized.
+Mr. Lucas. Thank you, Mr. Chairman. And thank you to the
+panel for being here today. We have kind of drifted from the
+specifics to the general and back and forth in this
+conversation, so first let me turn to Dr. Bigot. Those are most
+impressive pictures compared to the last time several Members
+of the Committee were onsite at ITER, the progress that's been
+made. You said in your written testimony--you used the phrase
+in referencing ITER's magnitude and complexity, quote, ``No
+country, not even the most advanced, could have done this
+alone,'' unquote. Could you expand for a moment on the
+magnitude of the overall cost projected for the whole project
+and the number of disciplines and the number of engineering and
+scientific people required to get to this point?
+Dr. Bigot. Thank you very much for this question. Yes,
+clearly, with tokamak, which is the largest we have ever
+conceived to build in the world, is utilizing many
+technologies. First, clearly the magnets, we have to develop
+the superconducting materials, nearly 2,800 tons of this
+material has to be developed and with high standards. Vacuum;
+we need to make a vacuum in a chamber which is nearly 1,000
+cubic meters, and we will deal with hydrogen, as you know,
+which fuels a lot, so we need to develop some specific pumps
+for that. And the United States is performing quite well in
+this matter. It is another matter we will need to have the
+United States delivering on time. There are also heat
+exchanging requirements. We are producing 500 megawatts, and in
+a per square meter, we will be able to collect 20 megawatts per
+square meter.
+So all these technologies are so large and the size of the
+material is so important that we don't believe a single country
+could develop an industry in order to deliver on a reasonable
+time. We will deliver nearly the full construction in 25 years,
+and we have the seven largest countries in the world together,
+and so you could imagine that even a single one could take
+maybe four or five times longer, so it would not be expected.
+Just to give you an example, one sector of the large
+vacuums, which is manufactured right now in Korea, it takes
+four years for the most advanced companies in the world in
+order to be able to manufacture these sectors. Why? Because we
+need a very high precision. We need also full alignment because
+it's a nuclear vessel, so no leaks at all. Every welding has to
+be precisely controlled.
+So my understanding is very clear. If we are not working
+all together, bringing the added value of our expertise and
+competence worldwide, it will be very challenging to do it.
+Mr. Lucas. Thank you, Doctor.
+Dr. Van Dam, various comments have been made about the
+different theoretics and the different perspectives, the
+different ways of coming about trying to address fusion. Could
+you touch for a moment on what varieties of fusion research
+programs are being pursued in other countries? We've listened
+to discussions about the United States. We know what ITER--the
+consortium we're a part of, but what's the rest of the world up
+to?
+Dr. Van Dam. Yes. The United States I think is a world
+leader.
+Mr. Lucas. Absolutely.
+Dr. Van Dam. No doubt about that. The Europeans have a very
+vigorous program in fusion energy and have had for some time,
+and we collaborate with them, for example, on the Joint
+European Torus, which is in the U.K. and it's being impacted by
+Brexit. We work on the W7-X stellarator, which is the world's
+largest in Germany. We work on the tokamak in Germany--another
+tokamak in Germany. We work with all of the countries in
+collaboration.
+Japan has a very vigorous program, and I myself have been
+going there for almost 40 years to do research. China has a
+very strong program right now. They're spending a lot of money
+in fusion energy. They're very serious about it, South Korea as
+well, India likewise. The Russian Federation used to
+historically have a very strong program, and we competed with
+them, and it is still strong. They have a lot of legacy work,
+but a lot of those scientists have migrated to the United
+States.
+Mr. Lucas. One last question, Dr. Van Dam, whether you are
+the optimist and you believe when the technology breakthrough
+comes or you're a pessimist and you believe if the technology
+breakthrough comes, describe to us where will the United States
+be if we don't participate, if we're not a part of these
+efforts, if we're not doing the research? Where will we be if
+or when--I would hope when this happens--describe for us just a
+moment what the world would be like for those who are not a
+part of this energy source?
+Dr. Van Dam. The ITER project?
+Mr. Lucas. ITER or the concepts of fusion in general. If we
+get to the point where we have successful fusion power
+generation but we've not participated, we're not a part of any
+of the endeavors, we've decided we don't want to spend any
+money, describe for a moment what it will be like to be left
+out of the next generation of energy.
+Dr. Van Dam. Well, fusion and also fission provide baseload
+energy, which is something that renewables don't quite provide
+and they're also load-following types of energy, which is very
+important for large industry and just our standard of living.
+If we are not in the ITER project, it may still go forward with
+the other six members. You know, we would have to decide what
+our program--we still have the same priorities in terms of
+burning plasma science but how they would be implemented. And
+for the rest of the answer, I would like a crystal ball.
+Mr. Lucas. Bottom line is of course if success comes and
+we're not a part of it, then we'll become a second-class
+economic power because we will not be able to participate in
+the current technology at that moment of cost-effective energy
+for all purposes. Thank you, Doctor.
+I yield back, Mr. Chairman.
+Chairman Weber. I thank the gentleman.
+The gentleman from New York, Mr. Tonko, is recognized for
+five minutes.
+Mr. Tonko. Thank you, Mr. Chairman, and thank you to our
+witnesses for joining us on a very interesting and very
+important topic.
+As the only member representing the State of New York on
+the Science Committee, I want to address a disturbing budget
+cut that was brought to my attention. The OMEGA Laser Facility
+at the University of Rochester's Laboratory for Laser
+Energetics has been targeted for severe cuts and a three-year
+ramp-down in the fiscal year 2019 budget request. I along with
+many of my colleagues strongly believe that OMEGA deserves
+continued support and that eliminating the facility would be
+detrimental to national security and the continuity of our
+nuclear program.
+OMEGA provides scientific and technical support for the 400
+users from the 55 universities and over 35 centers and national
+laboratories that use OMEGA annually to conduct more than 2,100
+experiments in cutting-edge research. Currently, demand for
+these facilities exceeds available time by a factor of two.
+LLE's benefits go well beyond the more than 2,100 experiments
+OMEGA conducts annually in support of the ICF program. LLE
+employs more than 360 scientists, engineers, and technicians
+and support staff. LLE draws 400 scientists from around the
+world to western New York every year to carry out fundamental
+research, training, and education. LLE provides a strong
+stimulus to New York's economy as a source of new startup
+companies and a driver of the region's optics, imaging, and
+photonics sector. The LLE's OMEGA Laser Facility is a vital
+contributor to national security and an invaluable source of
+scientific education and leadership.
+The LLE is the most cost-effective facility in the science-
+based Stockpile Stewardship Program, performing 80 percent of
+all the targets shot--used in the national inertial confinement
+fusion, or the ICF, and high-energy density physics programs
+with only 13 percent of NNSA's ICF budget. LLE is
+internationally recognized for its groundbreaking research in
+high-energy density physics and high-powered lasers. The OMEGA
+Laser Facility indeed is the major DOE facility that trains
+graduate students serving as a critical pipeline for future
+talent that is critically important to our national and
+economic security.
+So I would ask any or all of our witnesses, have you heard
+any explanation for the cuts to the OMEGA Laser Facility at the
+University of Rochester's Laboratory for Laser Energetics?
+Anyone?
+Dr. Herrmann. The Department of Energy, the NNSA budget
+justification outlined that the resources were shifted to
+higher-priority activities, but we haven't gotten any more
+details than that in our conversations with the Department.
+Mr. Tonko. So again, to each of our panelists if you
+choose, what impact with these cuts have on the field, on our
+national security, and certainly on the workforce?
+Dr. Herrmann. Well, at Lawrence Livermore we work very
+closely with the University of Rochester and the Laboratory for
+Laser Energetics. OMEGA serves as an important staging ground
+for performing experiments before they come to NIF to get the
+data we need for the stewardship program. We work closely with
+scientists and engineers at the University of Rochester to
+develop diagnostics for the National Ignition Facility and to
+move the science forward, and they really play an important
+role in the entire national community, so I think would be a
+very big loss if the OMEGA Laser Facility were shut down.
+They're also an important training ground for students who
+go into this field and can train many future stockpile
+stewards. Our laboratory has hired many of the scientists who
+studied or did experiments at the University of Rochester, so I
+think it would be a big loss to the national program.
+Mr. Tonko. And I would think that human infrastructure
+component is a very critical one.
+Anyone else from the panel that wants to address the cuts?
+So, Dr. Herrmann and Dr. Wade, there have been some notable
+efforts made to our progress from those working on innovative
+fusion energy concepts, and recently the Tri Alpha was featured
+in a cover story of TIME Magazine for achieving a major
+milestone while other smaller companies are making progress in
+addressing other critical technical challenges. If these
+innovative companies and approaches cannot find funding here in
+the United States, just where will they go do you imagine?
+Dr. Wade. Well, I--to answer your--to give you some
+background, these companies like Tri Alpha have made tremendous
+progress in looking at the areas that they're looking at, but
+as Mr. Weber, the Chairman, said at the beginning of this, the
+goal is to get high density, high temperature for long periods
+of times, and these confinement concepts are well behind in
+terms of the tokamak, in terms of their maturity. They're
+making tremendous progress, and they may someday be able to get
+to tokamak levels of performance.
+The--in terms of investment by other countries, I would
+anticipate that China would be involved. China has almost like
+an Apollo program in almost every energy sector, and so they're
+launching initiatives in a wide range of areas.
+Worldwide, if you looked at the rest of the world, the
+fusion effort is primarily focused on the tokamak and bringing
+that into full maturity, bringing other lines that are at
+second level, second-tier along at a slower pace, so I don't
+anticipate a large investment worldwide. Probably in China
+there'll be some effort, and there may be sovereign countries--
+sovereign funds that invest in small startups to give them seed
+money to see if they can actually get to the point of making
+one of these concepts a reality.
+Mr. Tonko. Thank you. And, Mr. Chair, I yield back.
+Chairman Weber. The gentleman yields back.
+The gentleman from Florida is recognized.
+Mr. Dunn. Thank you very much, Mr. Chairman.
+This is an exciting and interesting topic. Let's jump in.
+Dr. Wade, you stress U.S. leadership in fusion research is
+threatened by large investments by other nations. What level of
+investment is required for us to compete here? I'm looking for
+a number.
+Dr. Wade. Well, that's a very good question. I think that
+the level of investment we're making right now is not
+sufficient. I think that especially when you look at the
+domestic program and the level of funding that it's at, it's
+barely at a stage where we can sustain our leadership, much
+less exert leadership. If I were recommending a number, I would
+recommend a factor to two or three increase in fusion funding
+in the United States from the point of view that there are
+multiple initiatives that we are unable to fund that I think
+would have benefit not just in providing us an alternative to
+this mainline approach but to get more people involved in the
+fusion endeavor----
+Mr. Dunn. Sure.
+Dr. Wade. --which I think is very important.
+Mr. Dunn. And you mentioned the in-kind donations, which I
+think are terrific because we keep some talent here and grow
+our knowledge base.
+So you've been involved in both the DIII-D project and the
+ITER project. What's the major difference between those two?
+Dr. Wade. The major difference is--well, ITER is about four
+times the size of DIII-D, so it's a much larger facility. DIII-
+D is a much more flexible facility in the type of research it
+can carry out. It's small. It has many capabilities that allow
+it to--the researchers to manipulate the plasma in a way that--
+--
+Mr. Dunn. But the physics are kind of all the same?
+Dr. Wade. The physics is exactly the same; it's just at
+larger scale.
+Mr. Dunn. Okay. Can you share some of the spinoff
+applications that have come out of this program?
+Dr. Wade. There have been a huge number of spinoffs in a
+variety of areas: microwaves, MRIs. One of the best ones I like
+to use is if you're familiar with the recent deployment of the
+EMALS system, Electromagnetic Advanced Launch System, on the
+Gerald Ford aircraft carrier. This has replaced----
+Mr. Dunn. Oh, yes.
+Dr. Wade. --all the catapults with electromagnetic systems
+so that they can reduce the footprint of the steam required to
+do the steam catapults, and this has allowed the--and also much
+more controlled takeoff, less stress on the plane, less stress
+on the pilots, and so these are spinoffs that not only have--
+we're doing this in the--in basic technologies but in very
+applied defense technologies also.
+Mr. Dunn. Do you interact with the MagLab in Tallahassee,
+FSU?
+Dr. Wade. We have interacted with them not--we do not have
+a strong collaboration, but we have had discussions with them.
+Mr. Dunn. So one thing you said earlier impressed me. You
+seem very, very confident that the ITER facility is going to be
+able to achieve the sustained fusion and actually even it
+sounded like you were saying--and it will be commercially
+viable. Can you share your optimism with us?
+Dr. Wade. Yes, I believe ITER is--I have very high
+confidence ITER will succeed. I have worked in this field a
+long time, and I have watched the progression of our
+understanding, and I believe our understanding is sufficient to
+have high confidence if technically ITER--with its systems can
+deliver the technical capability, the physics will be there to
+deliver the power that is projected. And I think that that
+launches us into a new era in fusion development. I think that
+countries, nations, people worldwide will recognize that this
+is a real energy source for the future and we can launch
+aggressively into that. And if the United States isn't there at
+the table ready to do something, we're going to be left behind
+by other nations in delivering that technology for the world.
+Mr. Dunn. Thank you very much. So, Dr. Bigot, so it
+certainly sounds like he has a lot of faith in you. Do you
+share his optimism?
+Dr. Bigot. Yes, I share. As I say to you, we have the
+background of several decades of works on smaller devices and
+smaller facilities, which demonstrate that the physics is
+robust, okay, the modeling is robust, and my expectation is if
+we are able to assemble this larger-scale facility, we will
+deliver.
+Mr. Dunn. Well, Godspeed to all of you. Thank you very much
+for being here.
+Mr. Chairman, I yield back.
+Chairman Weber. The gentleman from Illinois is recognized
+for five minutes.
+Mr. Foster. Thank you, Mr. Chairman. And I guess I'd like
+to start out by seconding Representative Tonko's, I guess,
+unhappiness with the zeroing out of LLE. You know, I think this
+will be tremendously damaging, including to NIF. I mean, you're
+absolutely right. I mean, it sort of serves as something
+analogous to what a test meme used to serve for for high-energy
+physics where I worked for decades that you actually need when
+you have a bright idea for a new experiment, you need a low-
+cost way of testing it out.
+In addition, when you look at the way forward, one of the
+most promising ways to actually get, you know, to ignition is
+to switch over to direct drive and--which means you then have
+to then compress in all directions simultaneously, which is
+something that can be done today, albeit at a lower energy at
+Rochester. And so, you know, the wisdom of cutting this is
+really something I don't appreciate.
+The other thing is, you know, we're seeing it more and
+more, this statement that, well, there just isn't enough money.
+And so I'd like to try to put that in context. Since the
+economic recovery started, house--the net worth of Americans
+has gone up by $45 trillion. Well, what we're debating here
+largely, the investment--the U.S. investment in ITER will maybe
+be $4.5 billion, okay? And so we're talking about spending, you
+know, 1/10,000 of the increase in, you know, the U.S. wealth
+that's happened on something that can provide energy in
+principle for millennia.
+And so, you know, there's I think a pretty strong case to
+be made that, you know, especially now that the economy has
+recovered, we are actually--this is going to be money well
+spent. And I--but I--and I do appreciate the bipartisan
+enthusiasm we've seen from--almost bipartisan enthusiasm for
+fusion generally, though I would also like to point out that
+for those of my colleagues that don't appreciate the difference
+between fission and fusion, then I'd be interested in knowing
+whether they're volunteering their district to be the storage
+location for all of the fission end-products at the end of the
+energy production.
+All right. Now, a few specific questions. You know, one of
+the things that I've always found useful to look at in
+understanding whether a project is on track is you look at the
+contingency reserve, which you highlighted in your previous
+testimony, that you've established, you know, a project
+reserve, which I guess in the United States we talk--is
+contingency. And so I always used to track the amount of
+contingency remaining versus the fraction of project completed
+and to see if this extrapolates above or below zero to see if
+your project's heading for trouble. And is that something that
+you have over the last, I guess, three years been tracking and
+what's--what would that graph look like?
+Dr. Bigot. Thank you for this important question. There is
+contingency, for example, in the U.S. program. For providing
+the in-kind U.S. contribution, the United States, according to
+their regulation, has decided to put some contingencies, so
+contingencies are in-kind for the production. Some of the
+countries behave differently, but this is on the responsibility
+of the ITER members.
+Within the ITER Organization, when I came in, I was
+requested to provide the best technically achievable schedule
+at the lowest cost without contingency. Since that time, we
+have developed risk management, and I request all my colleagues
+on the amount of money--that we call the ``overall project
+costs'' for the ITER Organization--to make an eight percent
+saving every year, in such a way that I am building up some
+contingencies in order to phase in the risk.
+Mr. Foster. Now, is this contingency fungible across
+national boundaries?
+Dr. Bigot. Yes.
+Mr. Foster. Like if country X gets in trouble on their
+project, can the contingency from savings from country Y be
+used to bail them out or is there----
+Dr. Bigot. No.
+Mr. Foster. --a firewall?
+Dr. Bigot. No, there is a firewall--
+Mr. Foster. Oh.
+Dr. Bigot. --exactly. For the in-kind contribution, there
+is a firewall. Each ITER member is responsible to deliver the
+in-kind contribution. But for the ITER Organization, the cost
+of the assembly, for example, the commissioning and all these
+things it is according to the share the United States is nine
+percent, Europe 45 percent, all the non-European countries is
+also 9 percent.
+And I would want to point out something very clearly. For
+the United States participating in the ITER project costs nine
+percent of the value of the project, but they will have access
+to 100 percent of this facility, so I guess it's clearly a good
+investment.
+Mr. Foster. And sort of the benefit of scientific
+collaboration, since science began, that if you collaborate,
+you learn more. So let's see.
+Dr. Van Dam, you mentioned that there was an ongoing
+administrative--the Administration was going to review the
+nuclear program generally and science specifically, and you
+were involved in, you know, the budget pass-back and all of the
+things which came to the conclusion, for example, that you had
+to shut down LLE and preserve DIII-D and all these sort of
+Sophie's Choice decisions that you have to make during the
+budget decisions. And could you describe--you know, obviously,
+you can never discuss those in public. That's--for reasons we
+understand, but could you describe the list of scientists above
+you in the org chart that are going to be involved in those
+sort of decisions?
+Dr. Van Dam. Well, yes. Directly above me is the Deputy
+Director for Science Dr. Steve Binkley. You probably know him.
+Mr. Foster. Sure, I know him well. Yes.
+Dr. Van Dam. And above him should be the Director of the
+Office of Science, which at the moment is still vacant.
+Mr. Foster. All right. And if you continue up----
+Dr. Van Dam. Yes.
+Mr. Foster. --the org chart, where do you encounter Ph.D.
+scientists above that in the org chart making these decisions?
+Dr. Van Dam. Well, Dr. Binkley is certainly a Ph.D.
+scientist.
+Mr. Foster. Right.
+Dr. Van Dam. Then, above him would be Mr. Paul Dabbar, who
+is the Under Secretary for Science, then the Deputy Secretary
+and the Secretary himself.
+Mr. Foster. All right. So you've just given us the complete
+list of, say, Ph.D. scientists who are going to be involved in
+making these crucial decisions about which facilities can
+survive in different budget scenarios, for example?
+Dr. Van Dam. Well, Dr. Binkley has a Ph.D.
+Mr. Foster. I understand. He's also a permanent employee
+of----
+Dr. Van Dam. Yes--
+Mr. Foster. --not a----
+Dr. Van Dam. --not a political--
+Mr. Foster. Yes, because I'm personally very nervous that
+we're making these really important decisions with, you know,
+frankly no one home, you know, with a--with science credentials
+in making these decisions, and there are real risks to the
+program if that proceeds.
+Anyway, I think I've gone past my time.
+Dr. Van Dam. May I briefly defend Paul Dabbar, Under
+Secretary of Energy, who worked in technology for----
+Chairman Weber. Briefly.
+Dr. Van Dam. I'll finish.
+Chairman Weber. I thank the gentleman.
+The gentleman from Florida is recognized for five minutes.
+Mr. Webster. Thank you, Mr. Chairman.
+Dr. Van Dam, when I was in college 40-some years ago in
+electrical engineering, they said that we're about 30 years
+away from actually producing electricity through fusion. And
+now I hear that we're still 30 years away. I'm wondering, has
+there been any--let's say in the last, I don't know, 10 or 15
+years, has there been any progress or notable progress towards
+the goal?
+Dr. Van Dam. Well, I was also a student 40 years ago and I
+heard the same thing. I think people did not realize how
+challenging this endeavor is. It is a very complex endeavor.
+It's often called a grand challenge problem. I think we have
+made tremendous progress, and the National Academies study in
+fact will be documenting that when they do their final report
+at the end of the year. We've made great progress in control of
+plasmas just like with airplanes, in high-resolution
+diagnostics, high-performance computing, and just the--and also
+the technology that goes along with it, the heating technology,
+the magnet technology, and so forth. We have a recent FESAC
+report on transformative enabling technologies that will enable
+us even to accelerate faster.
+Mr. Webster. So--okay, so it seems like back then, there
+were these goals that were necessary and things that needed to
+happen to sustain the reaction. And I'm wondering is there one
+thing or two things that we need to do over the next, let's
+say, ten years from now in order to say, okay, we've made real
+progress? Could you name those?
+Dr. Van Dam. That's a great question, and I'm sure my
+neighbors would be happy to answer as well. I think we need to
+stay in the ITER project, and the computing is a very, very big
+priority for us and for the Administration because it lets us
+take bigger steps forward with confidence having codes with
+predictive capability. The experiments I think are extremely
+valuable. We have these very high-performance experiments, 100-
+million-degree plasmas, and we're understanding them at a very
+precise level.
+Mr. Webster. What was the temperature?
+Dr. Van Dam. Like 100 million degrees. It's quite
+impressive. And we have these diagnostics that can actually see
+exactly what's going on, coupled with the codes that actually
+can compute both postdictive and predictive and interpret
+what's going on. And material studies, we need that
+desperately.
+Mr. Webster. Is that where we're putting the money?
+Dr. Van Dam. In the 2019 budget we've proposed this linear
+diverter facility at Oak Ridge. It's called MPEX, Material
+Plasma Exposure facility----
+Mr. Webster. At our----
+Dr. Van Dam. --Oak Ridge National Laboratory.
+Mr. Webster. Yes.
+Dr. Van Dam. That's one thing we're doing.
+Mr. Webster. Okay. Thank you very much. I yield back.
+Chairman Weber. All right. And----
+Mr. Foster. Mr. Chairman----
+Chairman Weber. Yes, sir?
+Mr. Foster. --would it be all right if I had an additional
+question?
+Chairman Weber. Well, we have a meeting right following
+this----
+Mr. Foster. Okay.
+Chairman Weber. --so I would encourage you to get with
+maybe Dr. Van Dam over the Fusion Advisory Science Committee,
+which offers--has Ph.D.'s and offers that advice, but I do need
+to close it out.
+I thank the witnesses for their valuable testimony and the
+Members for their questions. The record will remain open for
+two weeks for additional comments and written questions from
+the Members. This hearing is adjourned.
+[Whereupon, at 11:43 a.m., the Subcommittee was adjourned.]
+Appendix I
+----------
+Answers to Post-Hearing Questions
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

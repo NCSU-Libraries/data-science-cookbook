@@ -1,0 +1,2254 @@
+- S. 2836, THE PREVENTING EMERGING THREATS ACT OF 2018: COUNTERING MALICIOUS DRONES
+[Senate Hearing 115-476]
+[From the U.S. Government Publishing Office]
+S. Hrg. 115-476
+S. 2836, THE PREVENTING EMERGING THREATS ACT OF 2018: COUNTERING
+MALICIOUS DRONES
+=======================================================================
+HEARING
+BEFORE THE
+COMMITTEE ON
+HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+UNITED STATES SENATE
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+JUNE 6, 2018
+__________
+Available via the World Wide Web: http://www.govinfo.gov
+Printed for the use of the
+Committee on Homeland Security and Governmental Affairs
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+U.S. GOVERNMENT PUBLISHING OFFICE
+34-314 PDF
+WASHINGTON : 2019
+-----------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).E-mail,
+[email protected]
+COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+RON JOHNSON, Wisconsin, Chairman
+JOHN McCAIN, Arizona
+CLAIRE McCASKILL, Missouri
+ROB PORTMAN, Ohio
+THOMAS R. CARPER, Delaware
+RAND PAUL, Kentucky
+HEIDI HEITKAMP, North Dakota
+JAMES LANKFORD, Oklahoma
+GARY C. PETERS, Michigan
+MICHAEL B. ENZI, Wyoming
+MAGGIE HASSAN, New Hampshire
+JOHN HOEVEN, North Dakota
+KAMALA D. HARRIS, California
+STEVE DAINES, Montana
+DOUG JONES, Alabama
+Christopher R. Hixon, Staff Director
+Gabrielle D'Adamo Singer, Chief Counsel
+Christopher S. Boness, Senior Professional Staff Member
+Margaret E. Daum, Minority Staff Director
+J. Jackson Eaton IV., Minority Senior Counsel
+Subhasri Ramanathan, Minority Counsel
+Donna M. Peterson, Minority Federal Bureau of Investigation Detailee
+Laura W. Kilbride, Chief Clerk
+Bonni E. Dinerstein, Hearing Clerk
+C O N T E N T S
+------
+Opening statements:
+Page
+Senator Johnson..............................................
+1
+Senator McCaskill............................................
+3
+Senator Lankford.............................................
+12
+Senator Hassan...............................................
+15
+Senator Heitkamp.............................................
+22
+Senator Carper...............................................
+24
+Senator Hoeven...............................................
+27
+Prepared statements:
+Senator Johnson..............................................
+39
+Senator McCaskill............................................
+40
+WITNESSES
+Wednesday, June 6, 2018
+Hon. David J. Glawe, Under Secretary for Intelligence and
+Analysis, U.S. Department of Homeland Security.................
+5
+Hayley Chang, Deputy General Counsel, U.S. Department of Homeland
+Security.......................................................
+7
+Scott Brunner, Deputy Assistant Director, Critical Incident
+Response Group, Federal Bureau of Investigation, U.S.
+Department of Justice..........................................
+7
+Angela H. Stubblefield, Deputy Associate Administrator for
+Security and Hazardous Materials Safety, Federal Aviation
+Administration, U.S. Department of Transportation..............
+9
+Alphabetical List of Witnesses
+Brunner, Scott:
+Testimony....................................................
+7
+Prepared statement...........................................
+54
+Chang, Hayley:
+Testimony....................................................
+7
+Prepared statement...........................................
+44
+Glawe, Hon. David J.:
+Testimony....................................................
+5
+Prepared statement...........................................
+44
+Stubblefield, Angela H.:
+Testimony....................................................
+9
+Prepared statement...........................................
+57
+APPENDIX
+Letter from St. Louis Cardinals..................................
+71
+Letter from Northern Plains Unmanned Aircraft Systems Test Site..
+75
+Statements submitted for the Record:
+American Civil Liberties Union...............................
+77
+Kirstjen Nielsen, Secretary, U.S. Department of Homeland
+Security...................................................
+80
+Security Industry Association................................
+82
+National Football League.....................................
+83
+Responses to post-hearing questions for the Record:
+Mr. Glawe and Ms. Chang......................................
+86
+Mr. Brunner..................................................
+123
+Ms. Stubblefield.............................................
+145
+S. 2836, THE PREVENTING EMERGING
+THREATS ACT OF 2018: COUNTERING MALICIOUS DRONES
+----------
+WEDNESDAY, JUNE 6, 2018
+U.S. Senate,
+Committee on Homeland Security
+and Governmental Affairs,
+Washington, DC.
+The Committee met, pursuant to notice, at 9:59 a.m., in
+room SD-342, Dirksen Senate Office Building, Hon. Ron Johnson,
+Chairman of the Committee, presiding.
+Present: Senators Johnson, Lankford, Hoeven, Daines,
+McCaskill, Carper, Heitkamp, Peters, Hassan, and Harris.
+OPENING STATEMENT OF CHAIRMAN JOHNSON
+Chairman Johnson. Good morning. This hearing will come to
+order.
+I want to thank our witnesses for your time here today and
+agreeing to appear, for your testimony, and I look forward to
+your answers to our questions.
+I would like to ask consent that my prepared statement, be
+entered in the record.\1\
+---------------------------------------------------------------------------
+\1\ The prepared statement of Senator Johnson appears in the
+Appendix on page 39.
+---------------------------------------------------------------------------
+We also have a letter of support from the Security Industry
+Association that I would also like to have entered in the
+record,\2\ without objection. Senator McCaskill.
+---------------------------------------------------------------------------
+\2\ The letter referenced by Senator Johnson appears in the
+Appendix on page 82.
+---------------------------------------------------------------------------
+Senator McCaskill. No objection.
+Chairman Johnson. OK. Did you want to----
+Senator McCaskill. Yes, Mr. Chairman, I would like to place
+into the record testimony that has been provided by the
+Director of Security and Special Operations of the St. Louis
+Cardinals.\3\ I am really proud that the Cardinals are one of
+only four Major League Baseball (MLB) teams to achieve the
+``SAFETY'' designation and distinction from the Department of
+Homeland Security (DHS) by working countless hours to make sure
+that their stadium facility is secure and that they have the
+proper procedures and protocol and training in place for the
+personnel there to keep the best fans in baseball happy,
+secure, and having a wonderful time with their families. They
+have submitted testimony on this subject to the Committee, and
+I would ask that this testimony be made part of the record
+today.
+---------------------------------------------------------------------------
+\3\ The letter referenced by Senator McCaskill appears in the
+Appendix on page 71.
+---------------------------------------------------------------------------
+Chairman Johnson. Without objection.
+Milwaukee fans are pretty good, too.
+Senator McCaskill. Not as good as Cardinals. Sorry.
+[Laughter.]
+More World Series than everyone but the New York Yankees.
+Chairman Johnson. OK.
+Senator McCaskill. We do not have the payroll or the
+market. [Laughter.]
+Sorry. Do not get me started.
+Chairman Johnson. On that note of nonpartisanship, we had a
+secure briefing yesterday, and a number of you were in
+attendance. I appreciate that. I am always leery of holding in
+open session these hearings on different threats because I
+really do not want to give the bad guys any ideas. I am
+certainly willing to make an exception in this case because I
+think the threats are just so incredibly obvious, and one thing
+that made a pretty big impression on me, which is why we have a
+video screen set up--if we can run it right now--is a video
+that was shown in that setting, which is totally not secure.
+This is the Islamic State of Iraq and Syria (ISIS) video put
+out on YouTube to basically brag about what their capabilities
+are when it comes to the use of drones. So why do we not
+quickly show that for the Committee.
+[Video played.]
+This is an ISIS drone all ready to drop a grenade on an
+Iraqi target. It looks like something coming out of the U.S.
+Defense Department (DOD), quite honestly, when we get it to
+run. It looks like something out of our Defense Department, but
+this is from ISIS. This is all part of their propaganda. If we
+can get this thing going?
+Senator Carper. Well, their drones are slow. [Laughter.]
+Chairman Johnson. They are really not. It is well worth
+seeing, so we will take----
+Senator McCaskill. Who is trying to run it?
+[Video played.]
+Chairman Johnson. It is a good thing I am not in charge
+because it would never get done.
+Senator Carper. What are we looking at?
+Chairman Johnson. So this is a YouTube video posted by
+ISIS, and it is showing their use of a drone against an Iraqi
+site. I am not exactly sure. Maybe one of the witnesses can
+tell us what they are actually using the drone against.
+Mr. Brunner. Chairman, it is our understanding that ISIS is
+targeting an Iraqi counter-improvised explosive device (IED)
+unit that is approaching a location.
+Chairman Johnson. OK. Are we going to get it? OK. So you
+can go on YouTube and actually see it for yourself, but it is
+frightening. And as we began this discussion--and, really, from
+my standpoint, the discussion started when I was interviewing
+Secretary Nielsen for her current position, and she said that
+her top priority was getting the authority to counter this
+emerging threat that I think we are so far behind the curve on.
+I was shocked. I just assumed that if there were drones
+threatening, whether it is the Cardinals baseball stadium, the
+Brewers stadium, or whatever the U.S. Secret Service (USSS)
+trying to protect our President or Vice President, activities
+along the border, we have no authority to counter those drones.
+We have given some limited authority to the Defense Department,
+and that is about it. They are kind of in the early stages of
+working with the Federal Aviation Administration (FAA), and it
+sounds like it is a very cooperative effort here, which we
+need. So from my standpoint, the piece of legislation we have
+introduced with bipartisan cosponsors, the Preventing Emerging
+Threats Act of 2018, is just a table stakes piece of
+legislation.
+One of the reasons I wanted to hold this hearing today, we
+have the debate and hopefully the passage of the National
+Defense Authorization Act (NDAA) coming up over the course of
+the next couple of weeks. It is my goal to get this piece of
+legislation attached to that, hopefully just in the manager's
+amendment, so we give DHS and the agencies under the Department
+of Justice (DOJ) the authority, just the table stakes authority
+to begin the process, the very complex process, of addressing
+this threat that has really been there, and we should thank our
+lucky stars that we have not seen a real tragic incident coming
+from this.
+Again, I appreciate the witnesses being here. With that, I
+will turn it over to our Ranking Member.
+OPENING STATEMENT OF SENATOR MCCASKILL\1\
+Senator McCaskill. Thank you, Mr. Chairman, and thank you
+for holding the hearing. I look forward to continued work with
+you on this bill and that we can hopefully continue to adjust
+and take input to provide the kinds of authorities needed for
+our government to keep us safe, while at the same time protect
+Americans' privacy.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Senator McCaskill appears in the
+Appendix on page 40.
+---------------------------------------------------------------------------
+The Department of Transportation (DOT) estimates that there
+could be as many as 4 million drones owned and operated by
+recreational and commercial users by 2021, and the FAA
+estimates that recreational and commercial drone sales will
+increase to 7 million by 2020. We know that drones can be used
+for good and for bad. People fly them for fun and use them to
+take amazing aerial photographs. They are used for crop
+dusting, newscasting, and I understand that they have great
+potential for precision agriculture, which is so necessary
+today in light of all the challenges and stresses that our
+farming families face in terms of input costs.
+Drones also play a critical role for public safety. We know
+they support firefighting, search and rescue operations, and
+that they monitor critical infrastructure. We are constantly
+innovating in America, and in just a few years drone
+capabilities and advancements may far exceed our imagination
+today. We must encourage and foster that innovation in
+Congress.
+But, unfortunately, drones have the potential to cause
+great harm. Terrorist organizations, as the Chairman has just
+indicated, have used drones overseas, and we expect that
+terrorists are interested in exploiting those same capabilities
+here in the United States.
+The Federal Bureau of Investigation (FBI) Director has
+testified that the threat of that terrorists will use drones in
+the United States is imminent. As the Director explained to
+this Committee, drones are easy to acquire and operate but are
+``quite difficult to disrupt and monitor.'' That is the
+challenge we face: how to disrupt and monitor the bad guys
+without interfering with privacy or recreational uses of these
+instruments by the American public.
+Then-Acting Secretary Elaine Duke testified that drones
+could be used to transport illicit materials or for violent
+purposes, and that we lack the signals to interdict drones.
+Just last month, we heard from Secretary Nielsen, who expressed
+concern about drones as a ``very serious, looming threat,'' and
+that the Department is unable to effectively counter malicious
+use of drones because they are hampered by Federal laws enacted
+long before the unmanned technology existed.
+I would really like to hear DHS and DOJ address today, in
+this public hearing, how they can help owners and operators of
+critical infrastructure secure mass gatherings. I understand
+that you do not have this authority yet, but if you do, I want
+to know how you intend to leverage your authority to help State
+and local stakeholders. What do they get out of Congress
+passing this bill? What do the people that are running the 4th
+of July parade in Webster Groves get from this legislation? How
+are we helping them address the threat where it will really
+come home? And, that is, through the interdiction of drones in
+situations where casualties could occur by people who want to
+destroy not just the United States but our way of life.
+I want to thank the DHS, FBI, and FAA for working with the
+Committee to help develop the language in our bill. It was
+informed by the findings of an interagency group, which I
+understand you were all a part of, that identified impediments
+and gaps in the Federal Government's ability to respond. The
+interagency committee concluded that without changes in the
+law, Federal agencies will be prevented from developing,
+testing, evaluating, and countering most drone technologies
+that we need to address.
+I look forward to hearing from our witnesses today about
+how this act helps you address these gaps and impediments. I
+also look forward to hearing from other stakeholders, many who
+I understand will submit statements for the record about ways
+in which we can ensure that any legitimate concerns are
+addressed before we move a bill out of Committee.
+We have a real security threat that I think we must
+address, and I look forward to working with the Chairman to
+make sure that our legislative approach is the right one.
+Thank you, Mr. Chairman.
+Chairman Johnson. Thank you, Senator McCaskill.
+It is the tradition of this Committee to swear in
+witnesses, so if you will all stand and raise your right hand.
+Do you swear that the testimony you will give before this
+Committee will be the truth, the whole truth, and nothing but
+the truth, so help you, God?
+Mr. Glawe. I do.
+Ms. Chang. I do.
+Mr. Brunner. I do.
+Ms. Stubblefield. I do.
+Chairman Johnson. Please be seated.
+Our first witness is the Honorable David Glawe. Mr. Glawe
+is the Under Secretary for Intelligence and Analysis at the
+Department of Homeland Security. Prior to his confirmation, he
+was a Special Assistant to the President and served several
+years as the Assistant Commissioner and Chief Intelligence
+Officer in Customs and Border Protection (CBP) for DHS. Mr.
+Glawe has a certificate from the John F. Kennedy School of
+Government at Harvard University and a Bachelor of Arts degree
+from the University of Northern Iowa. He has also received the
+National Intelligence Superior Service Medal for his work
+supporting the intelligence community and promoting our
+national security. Mr. Glawe.
+TESTIMONY OF THE HONORABLE DAVID J. GLAWE,\1\ UNDER SECRETARY
+FOR INTELLIGENCE AND ANALYSIS, U.S. DEPARTMENT OF HOMELAND
+SECURITY
+Mr. Glawe. Chairman Johnson, thank you, Ranking Member
+McCaskill as well, thank you.
+---------------------------------------------------------------------------
+\1\ The joint prepared statement of Mr. Glawe and Ms. Chang appears
+in the Appendix on page 44.
+---------------------------------------------------------------------------
+Chairman Johnson, Ranking Member McCaskill, and
+distinguished Members of the Committee, thank you for inviting
+DHS to speak with you today. We appreciate the opportunity to
+discuss the Department of Homeland Security's role in
+countering threats from unmanned aircraft systems (UAS) or
+drones, in our national airspace system (NAS).
+First, I would like to thank the Committee for its
+attention to this issue and holding this hearing to highlight
+the critical importance of the interagency efforts to secure
+the national airspace. I would also like to thank Chairman
+Johnson, Ranking Member McCaskill, and the other Members of
+this Committee for introducing and cosponsoring a bill that
+addresses security threats from small unmanned aircraft
+systems. With enactment of this proposal, Congress would reduce
+risks to public safety and national security and ensure that
+the United States remains a global leader in unmanned aircraft
+innovation.
+Unmanned aircraft systems offer tremendous benefits to our
+economy and society. They promise to create countless American
+jobs, transform the delivery of household goods, improve safety
+of dangerous occupations, and expand access to life-saving
+medical supplies. DHS strongly supports the Federal Aviation
+Administration's efforts to integrate unmanned aircraft systems
+into our national airspace. We must also recognize the
+increasing security challenges that require a layered and
+parallel government security response to protect the public
+from the misuse of this technology.
+This threat is real. We are witnessing a constant evolution
+in the danger posed by drones as the technology advances and
+becomes more available and affordable worldwide. Commercially
+available drones can be employed by terrorists and criminals to
+deliver explosives or harmful substances, conduct surveillance
+both domestically and internationally against U.S. citizens'
+interests and assets. We know ISIS fighters in Iraq and Syria
+have used unmanned aircraft to deliver explosives and continue
+to plot unmanned aircraft use in terrorist attacks elsewhere.
+This is a significant threat to the homeland.
+The technology also presents a growing risk to law
+enforcement officers as they execute their mission. On the
+Southern Border, transnational criminal organizations (TCOs)
+are using drones to traffic narcotics and conduct
+countersurveillance to avoid U.S. law enforcement and interfere
+with ongoing law enforcement operations. The U.S. Coast Guard
+(USCG) is also observing increased overflights of unmanned
+aircraft while performing its missions. I am confident this
+threat will evolve and malicious use of drones will be more
+sophisticated.
+Current statutory authorities do not address threats posed
+by careless, reckless, or malicious use of drones. DHS needs
+counter unmanned aircraft system (C-UAS) authorities to detect,
+track, and mitigate threats from small unmanned aircraft.
+Without this authority, DHS is unable to develop and deploy
+countermeasures to mitigate nefarious use of this technology.
+The enactment of this bill will be a first step to secure our
+borders, protect critical infrastructure and large crowds at
+special events, and provide direct support to our State and
+local partners.
+This bipartisan legislation you cosponsored represents a
+critical step in enabling the Department of Homeland Security
+to address this vulnerability. It is similar to the existing
+statutory authorities granted to the Department of Defense in
+the 2017 and 2018 National Defense Authorization Acts, and it
+contains robust measures to protect privacy and civil
+liberties.
+The threat is real and dynamic. Malicious cyber actors,
+transnational criminal organizations, terrorists, and foreign
+intelligence services have used it and will use it for
+nefarious purposes. I support your introduction of this bill
+which acknowledges the need for flexibility to address this
+threat and perform our mission.
+Chairman Johnson, Ranking Member McCaskill, and
+distinguished Senators of the Committee, thank you again for
+your attention to this important issue. I look forward to the
+partnership as we address the threat and continue our work to
+protect the homeland. My colleagues and I look forward to
+answering your questions.
+Chairman Johnson. Thank you, Mr. Glawe.
+Our next witness is Hayley Chang. Ms. Chang is the Deputy
+General Counsel for DHS. She has previously served in the
+Department of Justice as an Assistant U.S. Attorney. She also
+served as Counsel to the Deputy Attorney General (AG) and
+advised DOJ leadership on the Committee on Foreign Investment
+in the United States. Ms. Chang is a graduate of Cornell Law
+School and holds a Bachelor's degree from Hillsdale College.
+Do you have a statement or are you just here to answer
+questions?
+Ms. Chang. Yes, Mr. Chairman.
+Chairman Johnson. OK. You are here to answer questions?
+Ms. Chang. I have a statement.
+Chairman Johnson. OK, great. Go ahead.
+TESTIMONY OF HAYLEY CHANG,\1\ DEPUTY GENERAL COUNSEL, U.S.
+DEPARTMENT OF HOMELAND SECURITY
+Ms. Chang. Thank you. Good morning, Chairman Johnson,
+Ranking Member McCaskill, Members of the Committee. Thank you
+for asking DHS here today to talk about the emerging drone
+threat. Thank you for your bill, the Preventing Emerging
+Threats Act of 2018, which gives our officers the tools they
+need to evolve with the threat and keep our families and
+communities safe.
+---------------------------------------------------------------------------
+\1\ The joint prepared statement of Ms. Chang and Mr. Glawe appears
+in the Appendix on page 44.
+---------------------------------------------------------------------------
+I would like to especially thank you for a critical piece
+of that bill, the opening line, ``Notwithstanding any provision
+of Title 18 United States Code.'' That is the heart of the
+issue. Without direction that is that clear, our front-line
+officers will find their hands continually tied as they try to
+keep us safe.
+Because technology is evolving faster than the law, things
+that were not illegal yesterday are suddenly deemed illegal
+today. Things that are not illegal today could be deemed
+illegal tomorrow. While some have suggested smaller, short-term
+fixes, tweaks and new exceptions to individual subsections of
+the code, that would not give our front-line officers the
+clarity that they need. It is too much to place that burden on
+our front-line officers to risk uncertainty and confusion when
+they need to move forward to address this threat. And, worse,
+without a law that is this clear, we put our officers at risk
+for criminal penalties just for doing their jobs. That is why
+we thank you for taking the straightforward approach. Just like
+Congress provided last fall for our partners at the Department
+of Defense and the Department of Energy (DOE), this clear
+guidance communicates to our front-line officers that they are
+valued and empowered to do their jobs.
+We look forward to answering the Committee's questions
+today. Thank you.
+Chairman Johnson. Thank you, Ms. Chang.
+Our next witness is Scott Brunner. Mr. Brunner is the
+Deputy Assistant Director of the Critical Incident Response
+Group (CIRG) for the Federal Bureau of Investigation. Prior to
+his current role, Mr. Brunner served as the Assistant Special
+Agent in Charge of the National Security Intelligence Program
+of the Louisville FBI Division. Mr. Brunner joined the FBI in
+1995 as a Special Agent in the Portland Division and has been
+in law enforcement since 1992, when he became a patrol officer
+for the Oklahoma City Police Department. Mr. Brunner.
+TESTIMONY OF SCOTT BRUNNER,\2\ DEPUTY ASSISTANT DIRECTOR,
+CRITICAL INCIDENT RESPONSE GROUP, FEDERAL BUREAU OF
+INVESTIGATION, U.S. DEPARTMENT OF JUSTICE
+Mr. Brunner. Good morning, Chairman Johnson, Ranking Member
+McCaskill, and members of the Committee. Thank you for the
+opportunity to discuss the FBI's concerns regarding the threat
+posed by unmanned aircraft systems. On behalf of the men and
+women of the FBI, let me begin by thanking you for your ongoing
+support of the Bureau.
+---------------------------------------------------------------------------
+\2\ The prepared statement of Mr. Brunner appears in the Appendix
+on page 54.
+---------------------------------------------------------------------------
+Today's FBI is a global, threat-focused, intelligence-
+driven organization. Each FBI employee understands that to
+defeat the threats facing our Nation, we must constantly strive
+to be more efficient, effective, and looking over the horizon.
+Just as our adversaries continue to evolve, so must the FBI. We
+live in a time of acute and persistent terrorist and criminal
+threats to our national security, our economy, and our
+communities. These diverse threats underscore the complexity
+and breadth of the FBI's mission.
+We remain focused on protecting the United States against
+terrorism, foreign intelligence, and cyber threats; upholding
+and enforcing the criminal laws of the United States;
+protecting privacy, protecting civil rights and civil
+liberties; and providing leadership and criminal justice
+services to our Federal, State, municipal, and interagency
+partners.
+One significant threat to the safety of the American people
+concerns low-cost UAS. Today's UAS have evolved considerably
+from the early remote control aircraft of the 20th Century. UAS
+now have longer flight durations, larger payloads, and
+sophisticated maneuverability. They are easy to acquire,
+relatively easy to operate, and quite difficult to disrupt and
+monitor. Rapid development of UAS technology offers substantial
+benefits such as creating new and innovative ways to deliver
+goods and services and providing a safe means of inspection of
+critical infrastructure.
+But this technology also raises new risks. If operated
+negligently, recklessly, or maliciously, UAS can cause
+injuries, damage, and death. The FBI is concerned that
+criminals and terrorists will exploit UAS in ways that pose a
+serious threat to the safety of the American people. Sadly,
+these threats are not merely hypothetical. For more than 2
+years, the Islamic State of Iraq and ash-Sham and other
+terrorist groups overseas have perfected the use of cheap,
+commercially available drones for attacks and reconnaissance.
+As Director Christopher Wray testified last year, the FBI is
+concerned that these deadly tactics will soon reach our
+homeland in the form of domestic attacks, domestic terrorist
+attacks, illegal surveillance over critical infrastructure, or
+as a vehicle for either chemical, biological, radiological
+(CBR) attack or traditional kinetic attacks on large open-air
+venues such as concerts, ceremonies, and sporting events, or
+attacks against government facilities, installations, and
+personnel. That threat could manifest itself imminently.
+In addition to national security threats, UAS pose criminal
+threats. Drug traffickers have used UAS to smuggle narcotics
+across the U.S. Southern Border, and criminals have used UAS to
+deliver contraband inside Federal and State prisons. Similar to
+national security threat actors, criminal actors have utilized
+UAS for both surveillance and countersurveillance in order to
+evade or impede law enforcement.
+UAS technology renders traditional, two-dimensional
+security measures, such as perimeter fences and security gates,
+ineffective, enabling criminals, spies, and terrorists to gain
+unprecedented, inexpensive, and often unobtrusive degrees of
+access to previously secure facilities. Finally, the mere
+presence of UAS operations in the vicinity of an emergency
+scene, even negligently, could impede emergency service
+operations, especially aviation-based responses.
+At present, the FBI and our Federal partners have very
+limited authority to counter this new threat. Potential
+conflicts in Federal criminal law limit the use of technologies
+that would enable the FBI to detect or, if necessary, to
+mitigate UAS that threaten critical facilities and assets.
+Absent legislative action, the FBI is unable to effectively
+protect the United States from this growing threat. As you
+know, the Administration recently proposed counter-UAS
+legislation designed to fill this gap. The legislation would
+authorize the Department of Justice and the Department of
+Homeland Security to conduct counter-UAS activities
+notwithstanding potentially problematic provisions in the
+Federal code. The legislation would extend these authorities
+within a framework which provides appropriate oversight,
+protects privacy and civil liberties, and maintains aviation
+safety.
+Chairman Johnson, Ranking Member McCaskill, and Members of
+the Committee, thank you again for this opportunity to discuss
+the FBI's concerns regarding the threats posed by UAS. We are
+grateful for the support you have provided to the FBI, and your
+support makes a difference every day in the lives of Americans
+that we strive to protect. We welcome the introduction of the
+Preventing Emerging Threats Act of 2018. This legislation would
+provide the authorities requested in the Administration's
+proposal, which we believe are necessary to mitigate the
+national security and criminal threats posed by UAS.
+I look forward to discussing this important legislation
+with the Committee today.
+Chairman Johnson. Thank you, Mr. Brunner.
+Apparently we do have the video ready, but we are not going
+to run it now. I want you to get it ready, so as soon as Ms.
+Stubblefield is done with her testimony, we can hit play.
+Our next witness is Angela Stubblefield who has served as
+the Deputy Associate Administrator for Security and Hazardous
+Materials Safety for the Federal Aviation Administration since
+2013. She previously served as the Director of National
+Security Programs and Incident Response for FAA. Prior to
+joining FAA, Ms. Stubblefield served both as active-duty and in
+civilian positions for the United States Marine Corps. She
+graduated from George Mason University with a Master's in
+transportation policy, operations, and logistics and a
+Bachelor's degree from the University of Virginia. Ms.
+Stubblefield.
+TESTIMONY OF ANGELA H. STUBBLEFIELD,\1\ DEPUTY ASSOCIATE
+ADMINISTRATOR FOR SECURITY AND HAZARDOUS MATERIALS SAFETY,
+FEDERAL AVIATION ADMINISTRATION, U.S. DEPARTMENT OF
+TRANSPORTATION
+Ms. Stubblefield. Thank you, Mr. Chairman, and good
+morning, sir. Good morning, Ranking Member McCaskill and
+Members of the Committee. Thank you for inviting the FAA to
+speak today.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Ms. Stubblefield appears in the
+Appendix on page 57.
+---------------------------------------------------------------------------
+The FAA's primary mission is to provide the safest, most
+efficient airspace system in the world. We ensure aircraft move
+safely through the Nation's skies 24 hours a day, 365 days a
+year, over nearly 30 million square miles of airspace.
+UAS technology represents the fastest-growing sector in
+aviation today. In fact, the FAA recently surpassed 1 million
+UAS registrations. And while UAS technology offers tremendous
+benefits to the economy and society, we recognize the misuse of
+this technology poses unique security challenges. I would like
+to discuss the FAA's work with our security partners to address
+these threats, our focus on ensuring safety and maintaining
+airspace efficiency, while supporting national security and law
+enforcement missions, and taking the next steps in building a
+robust security framework that supports the full integration of
+this technology in our aviation system.
+Collaborating with our national defense, homeland security,
+and law enforcement partners is not new to the FAA. Close
+coordination with our partners to address the UAS security
+challenge is a natural extension of these time-tested and well-
+exercised relationships. We have been working together
+successfully to address manned aircraft risks for decades. We
+continue to work together to improve the government's ability
+to respond to threats posed by both manned and unmanned
+aircraft operations, but more must be done if we are to realize
+the full benefits of safe and secure UAS integration.
+Congress granted the Departments of Defense and Energy
+counter-UAS authorities in December 2016. Recently the
+Administration released a legislative proposal to give the
+Departments of Homeland Security and Justice similar
+authorities to protect against UAS threats to certain
+facilities, assets, and operations critical to national
+security. We support this phased approach, as well as the
+inclusion of provisions in this Committee's proposal for robust
+coordination and risk-based assessment which will ensure
+aviation safety is not compromised.
+The FAA's role in counter-UAS is to support our partners'
+testing and eventual use of these systems while maintaining the
+safety and overall efficiency of the NAS. The FAA is
+responsible for balancing the requirements of our security
+partners' protective missions with the need for operator
+notification, airspace access, and airspace safety mitigations.
+The FAA is currently working with the Department of Defense
+and the Department of Energy to strike this balance as they
+deploy counter-UAS technology at sensitive facilities in the
+United States. We are full partners in their efforts to
+implement these systems and have received the same commitment
+from DHS and DOJ should they be granted counter-UAS authority.
+In addition to working closely with our Federal partners,
+FAA is progressing on a host of other actions that support both
+safe and secure UAS integration, including publishing an
+Advanced Notice of Proposed Rulemaking (ANPRM) to solicit
+information on UAS security concerns impacting integration,
+establishing remote identification requirements for UAS,
+restricting UAS operations over certain Federal facilities, and
+appropriately warning operators in proximity to these
+restricted sites.
+Being able to associate a drone in flight with the operator
+on the ground is crucial to enabling more complex operations
+and the ability of our law enforcement and national security
+partners to identify and respond to security risks. Anonymous
+operations in the national airspace system are inconsistent
+with safe and secure integration.
+But even as the FAA is working to establish remote ID
+requirements, challenges remain. In particular, the current
+exemption for model aircraft, Section 336 of the FAA's 2016
+reauthorization, makes it nearly impossible for the FAA to
+develop new regulatory approaches that facilitate safe and
+secure UAS integration. This exemption promotes the
+misperception by many recreational UAS operators that they are
+not required to follow basic safety rules. To address this
+challenge, a basic set of requirements, including registration,
+remote identification, and observance of airspace restrictions,
+must be applied to all UAS operators. This is essential to
+ensuring clueless and careless operators fly safely. However,
+mitigating criminal threats requires our security partners have
+the counter-UAS authorities and tools central to today's
+discussion.
+There is no question that a robust security framework is
+critical to advancing the Administration's goal of full UAS
+integration. By enabling Federal security and law enforcement
+agencies to detect and mitigate UAS threats, we will continue
+to lead the world in UAS integration while offering the safest,
+most efficient, and most secure airspace system in the world.
+We thank the Committee for its leadership on this issue and
+look forward to working together with you to balance safety and
+innovation with security.
+This concludes my statement. I am happy to answer any
+questions.
+Chairman Johnson. Thank you, Ms. Stubblefield.
+It looks like we have the video ready to go, so if we can
+just quick play that.
+[Video played.]
+Senator McCaskill. There it goes.
+Chairman Johnson. It does not need narration.
+So, again, that is an ISIS drone. They posted this on
+YouTube. They let loose a grenade very accurately over the
+target. So this is not a theoretical threat. This is a threat,
+and we all know ISIS has their Inspire magazine and other ways
+of communicating how to do these things.
+As is kind of my tradition, I am going to turn the
+questioning over to other Members to respect their time, but I
+do want to quickly read a couple of sentences out of a letter I
+just received today, June 6th, from the American Civil
+Liberties Union (ACLU)\1\ who opposes this piece of
+legislation. And I want the witnesses to keep that in mind and
+address it, talk about your viewpoint versus the ACLU's
+viewpoint.
+---------------------------------------------------------------------------
+\1\ The letter referenced by Senator Johnson appears in the
+Appendix on page 77.
+---------------------------------------------------------------------------
+To quote: ``The National Defense Authorization Act for
+Fiscal Year (FY) 2018 authorized the Department of Defense to
+take action in cases where drones pose a threat to certain
+assets and facilities. Given this, there are practical
+questions regarding whether additional DHS or DOJ authority is
+needed to protect against the safety threats that could be
+posed by drones.''
+Again, I really want you to concentrate, because I was
+shocked by the fact that we do not have authority to counter
+this. So if you can just kind of keep that in mind as we go
+through questions by the Committee, and with that, I will turn
+it over to Senator McCaskill.
+Senator McCaskill. I will defer and allow other Members to
+question first also.
+Chairman Johnson. Then it would be Senator Lankford.
+OPENING STATEMENT OF SENATOR LANKFORD
+Senator Lankford. Thank you both for deferring to give us
+time for questions. Thank you for your testimony.
+Let me ask a couple of questions. For the FAA, current
+restrictions right now on registration, a UAS has to be 50
+pounds. Is that correct?
+Ms. Stubblefield. It is greater than 0.55 pounds and less--
+well, first, sir, all aircraft have to be registered.
+Senator Lankford. Right.
+Ms. Stubblefield. As it pertains to small UAS, if they are
+greater than 0.55 pounds and less than 55 pounds, they can be
+registered through the Web-based application. If they are
+greater than--55 pounds or over, they have to participate in
+our normal registration process that we use for manned
+aircraft.
+Senator Lankford. So when was that weight--the 55 pounds
+max there, so there is a pretty big spectrum that has happened
+in the development of the UAS over the past several years where
+weight is coming down significantly. A 55-pound UAS is fairly
+rare in the commercial field at this point. So is there a
+reevaluation that is needed on that as far as the weight base?
+Ms. Stubblefield. Thank you for that question, Senator. The
+FAA's primary mission and focus being on safety, we evaluate
+the weight and capabilities based on the potential safety risk
+that they could pose. So as we look at expanding operations,
+that is part of the discussion in terms of what are the
+requirements to ensure safety. With the more weight that the
+UAS has, the greater requirements for safety mitigations to
+ensure that it does not pose a safety risk when flying.
+Senator Lankford. But that is currently under reevaluation
+or do you think that is not under reevaluation, that 55 is
+considered the right weight and size?
+Ms. Stubblefield. Senator, the 55-pound distinction is
+largely around what we consider to be a small UAS, and for the
+requirements around the Part 107 rule and the requirements that
+are required for that versus if they are larger than 55 pounds,
+then there are other certification and operator requirements
+that are provided. As we move to more complex operations, the
+requirements are going to be associated with the potential
+safety risk that particular aircraft pose.
+Senator Lankford. So is there a size limitation as well,
+again, with composites and other things coming online now, that
+they can have very significant size and still be under 55
+pounds?
+Ms. Stubblefield. No, sir, and the 55 pounds also includes
+anything that is attached to or being carried by the UAS as
+well.
+Senator Lankford. All right. Let me ask of DHS on this, the
+difficult question that civil libertarians are going to talk
+about is who makes the decision, especially when you are
+talking about an unmanned aerial system being seized at an
+event, at a location. So the authorities that we are discussing
+at this point, who would make the decision on when those
+authorities go into place, what event, what location you would
+not be allowed to use a UAS and what time, and then who would
+grant the seizure authority of that, because that is a key
+constitutional issue.
+Mr. Glawe. Senator, thank you for the question. And you are
+actually right, it is a key constitutional question on a Fourth
+Amendment seizure, how that would work. The legislation allows
+us to create the policies and procedures and tactics and help
+develop the technical capability on how to deploy that. To my
+colleague from the FBI and the national security events and how
+DHS works that partnered with them, it is clear on that mission
+in the lines of how we work that and provide that security.
+This enabling of this new legislation, which is critical to the
+safety of the homeland, will allow us to start developing those
+programs and policies and technology on how to deploy it. But
+the command and control is critical on that once a threat is
+identified and a reaction is imminent.
+I will let my Deputy General Counsel articulate the legal
+aspect of that as well.
+Senator Lankford. All right.
+Ms. Chang. Yes, thank you. The decision as to where these
+technologies will be deployed is going to be made at the
+highest level. The Secretary and/or the Attorney General will
+make the initial designation in consultation with the FAA under
+the bill, and that will be done through a risk-based
+assessment. So it will be a careful process where we see the
+highest risk based on one of the--it will need to be connected
+to one of the missions enumerated in the statute, and then the
+actions will need to be taken under the bill necessary to
+mitigate the threat. So it is a fairly limited scope.
+And in terms of who will be making those decisions, the
+personnel have to be with assigned duties of safety or security
+or protection, so this will not be a broad sweeping
+investigative tool. They will be protective.
+Senator Lankford. Just walk me through this. You are trying
+to make a decision on what is happening in Oklahoma, so there
+is a Bedlam football game, and half the State is either
+watching or at the game. Is that a national event or is that a
+State responsibility to be able to monitor what is happening
+around that event? Is it different if it is the Super Bowl
+versus that if it a college football game in a State? When you
+start talking about authorities and how you are going to be
+able to monitor this and how you are going to track what
+events, what locations, that decision has to be made, and we
+have to provide some clarity to that.
+Ms. Chang. Yes, sir, and currently we have a process in
+place for handling security at those events, and this would
+build upon that by adding the C-UAS authority. But,
+essentially, the homeland security advisers of the States, if
+it is a State event, will reach out and State and locals or
+private sector will reach out through their homeland security
+advisers. The process is in place. The lead is the Secret
+Service, but the FBI is involved as well, and there is a
+process for giving each event--if it is not the Super Bowl,
+they will each have Special Event Assessment Rating (SEAR)
+rating events, and based on the threat we will deploy resources
+as necessary.
+Senator Lankford. Right. Well, Scott can tell you the
+Bedlam football game is bigger than the Super Bowl game anytime
+on a college game. But when we talk about this local FBI
+engagement, this becomes a key issue on the civil liberties
+issue. I do not think any of us deny there is a real threat
+here. The unmanned aerial system to me is kind of like the
+Internet. It can be used for good or bad. We want to focus on
+the good aspects of it and be able to broaden the capabilities.
+But we also want to be aware it can be used for bad and how we
+are trying to address this. The key issue that we have to
+address is: What is a national focus? What is a State response
+and a local focused on that?
+Scott, how will the FBI be able to handle that as far as
+that partnership and that relationship together?
+Mr. Brunner. Yes, sir. Thank you, Senator, for the
+question. So from a Federal perspective, we get together and
+break all these events down into either National Special
+Security Events (NSSEs), like the political conventions, like
+the State of the Union address. Those are overseen by the
+Federal entities. The majority of the other events we break
+down into--they are called ``SEARs.'' That is everything from
+something like the Bedlam football game to the Kentucky Derby
+to other things that are of national importance but primarily
+rest with the State and local authorities for responsibility.
+This law would give us a unique ability to go in at the request
+of the Governor or the Attorney General and provide the
+resources that we have in the counter-UAS arena, working
+extremely closely with our State and local partners, who
+actually oversee the security of the event. So we would be in
+addition to them. It would enable us to go in with the
+technologies that we have provided by the authorities in this
+bill and support them in protecting those types of events.
+Senator Lankford. All right. Thank you.
+Chairman Johnson. I think this would be a good point to
+really clarify what authorities currently exist and what
+authorities this bill actually grants. So do you have a list of
+what those would be? Because, again, this is incredibly limited
+authority. Currently the Department of Defense has incredibly
+limited authority over their facilities. Again, whoever can
+actually lay out here is the authority the Defense Department
+has, this is the very limited authority prioritized that this
+bill would grant. This does not give DHS the authority to knock
+down drones flying around in your backyard. So who could do
+that? Is that you, Ms. Chang?
+Ms. Chang. Yes, sir, I can answer that. So right now, to
+address in particular the ACLU's point about this not being
+needed because DOD already has the authority, DOD, as you point
+out, has very limited authority to protect certain critical
+assets of theirs. It does not cover assets of the Department of
+Homeland Security or the Department of Justice or these mass
+gathering events. And so that is what--the Committee's bill
+would add DHS and DOJ. It would allow us to cover what are
+designated as covered facilities or assets by the Secretary or
+the Attorney General through risk-based assessment, and those
+could include, based on risk, these special events. But they
+have to be tied to core missions for us. That is primarily the
+Secret Service protecting the President and protectees. The
+Coast Guard, CBP, DHS is primarily the Marshals and FBI. It
+also limits how we can do it. It has to be necessary to
+mitigate the threat, which is a pretty high bar. Generally our
+use-of-force rules, and DOD is under these as well, operating
+domestically, are reasonableness. And this would be a higher
+bar with necessary to mitigate the threat.
+And so once that threat is over, our authority ends. We
+have the authority to disrupt that threat, get that drone down.
+And then we have also robust protections, both front end and
+back end, in the statute to limit to protect retention of that
+data and also oversight of Congress as well as the Executive
+Branch.
+Chairman Johnson. And, by the way, State and local
+authorities have no authority to do this, correct?
+Ms. Chang. That is correct, sir.
+Chairman Johnson. One of the concerns, I know, as we were
+drafting the bill, was DHS did not want to assume protective
+authority over everybody. You simply do not have the resources,
+so, again, I cannot emphasize enough this is incredibly limited
+authority. This is just a first step, table stakes authority,
+with an awful lot of studying, a lot of cooperation with FAA in
+terms of the complexity of the situation. Senator Hassan.
+OPENING STATEMENT OF SENATOR HASSAN
+Senator Hassan. Thank you, Mr. Chairman and Ranking Member
+McCaskill, for holding this hearing, and thank you all for
+being here.
+Ms. Chang, I want to follow up a little bit on the
+discussion we were just having because I would like to better
+understand the Department's expectations for how this authority
+is actually going to be implemented. As I understand it, the
+bill broadly allows DHS or Justice Department personnel under
+the circumstances you have described to shoot down a drone if
+the drone threatens the airspace of a covered facility, and we
+have a whole bunch of criteria about what makes a covered
+facility.
+However, State and local law enforcement will more likely
+be the first responders to a potential drone threat. In the
+event that the drone presents an imminent threat, the State and
+local law enforcement personnel may not have time to wait
+around for either DHS or the FBI to arrive on the scene to down
+the drone. Consequently it is possible under the current draft
+of the legislation for DHS--I guess the question is: Is it
+possible for DHS or the Justice Department to confer
+temporarily their authority to a State or local law enforcement
+officer in order to neutralize an imminent threat?
+Ms. Chang. Thank you, ma'am. This authority is for the
+Federal Government, and it does provide us the ability to
+assist our State and local partners. Right now, as the Chairman
+has pointed out, we do not even have that. We are not able to
+do anything to counter the threat, but----
+Senator Hassan. I understand that. But what I am interested
+in, I am a former Governor. I know what these relationships are
+like, and I know people are stretched, especially at major
+events. So, what I would ask is: How are we going to
+practically do this if there is a threat? Suppose there is an
+imminent threat. The only people there are State and local law
+enforcement. What sort of validation, if we decided to have
+some way that the DOJ or DHS could confer their authority on
+State or local officials in the right circumstance, what kind
+of validation would the State and local law enforcement
+officers be required to provide to DHS or the FBI in order to
+confer the authority? And should this be something that we
+think about as a role for fusion centers in connecting DHS
+personnel with the first responders who have to make really
+fast decisions in the face of threats like this?
+Mr. Glawe. Senator, thank you for that question. So the
+fusion centers and the statutory requirement to share
+intelligence, imminent intelligence and all intelligence,
+resolves under me as the Under Secretary for Intelligence for
+DHS.
+Senator Hassan. Yes.
+Mr. Glawe. The requirement that we are going to need to get
+that information, tactical level, to the first responders and
+local law enforcement is going to be critical. This bill is a
+necessary first step to build the process and policies and
+technology to develop that
+capability with State and locals. As a former Houston police
+officer--I started when I was 22--I absolutely understand that
+local law enforcement is going to be the first line of defense.
+I run a road race every year in Iowa--I am going to use an
+example--and myself and my husband, who is an FBI agent, we
+were there last year. There were 25,000 people in between two
+buildings in Davenport, Iowa. A wonderful race. And I looked
+up, and I said, ``There are six drones flying above us.'' And
+we said, ``I hope they are friendlies,'' because we were
+sitting ducks.
+That was a SEAR 4 event. It got a SEAR rating from my
+fusion center in Iowa, in partnership with the FBI, but it did
+not raise to the level to have Federal support. That is where
+we have to have the tactical level intelligence and the
+countermeasures in place.
+What I would say to the Committee as the head of
+Intelligence for the Department, the sophisticated capability
+by the terrorist networks and their encrypted communication
+makes it very difficult to identify those imminent threats. We
+have to have the capabilities deployed at these events and
+ready to go if we feel that an adversarial drone is
+approaching. Thank you, Senator.
+Senator Hassan. Well, thank you, and I would look forward
+to following up with you on this particular issue.
+Under Secretary Glawe, I wanted to move on to another
+issue. In addition to serving as the Under Secretary for
+Intelligence and Analysis, do you also concurrently serve as
+the Counterterrorism Coordinator for the Department of Homeland
+Security?
+Mr. Glawe. Yes, Senator.
+Senator Hassan. As Counterterrorism Coordinator, are part
+of your responsibilities to oversee the Department's efforts to
+prevent, respond to, and mitigate terrorist threats to the
+homeland?
+Mr. Glawe. Yes, it is.
+Senator Hassan. The Counterterrorism Coordinator is such a
+critical position. Can you please outline for us what goals you
+have accomplished at the Counterterrorism Coordinator over the
+past year? What will be your goals for the Counterterrorism
+Coordinator over the next year? And what metrics will you use
+to measure your effectiveness?
+Mr. Glawe. Thank you for that question. And since my
+confirmation in August of last year--I have worked as a Special
+Agent with the FBI, at the Director of National Intelligence
+(DNI), and as the head of Customs and Border Protection. I was
+uniquely postured to identify the challenges we have had at the
+Department. so we have restructured into a counterterrorism
+mission center approach, bringing all assets--I am head of
+intelligence for all assets within the Department, Customs and
+Border Protection, Coast Guard, Immigration and Customs
+Enforcement (ICE), the Protection Division, as well as mine.
+Aligning that so we have a common collection posture, so we see
+the storyboard of the threats as they evolve, as well as
+increasing my field resources--we had pulled back, and we did
+not deploy enough resources in the fusion centers, and creating
+a new structure so we get tactical level terrorism information
+to the common users, especially at the ports of entry (POEs)
+and the borders.
+Senator Hassan. So I appreciate that. What I will follow up
+with you on the record about is that is a lot of activity to
+get yourselves ready to accomplish certain goals, and I am
+interested in what goals were set, what has been accomplished,
+so what the outcomes are, and what metrics you are using. I
+have one more question, so I am going to move on to that, but
+that is what I would like to follow up with you about.
+Mr. Glawe. Senator, we will take that back for the record.
+I would look forward to come back and have a further dialogue
+regarding our restructuring and how we have put pursuit teams
+and metrics associated with that.
+Senator Hassan. All right. Thank you.
+Another question for you, Under Secretary. Clearly. from
+our classified briefing yesterday and today's discussion, we
+know that drones can be used by terrorists to carry out
+attacks. With that said, it is really important to make sure
+that we are not confusing the symptoms with the disease. A
+terrorist with a drone in the United States is clearly a
+threat. But so are terrorists armed with a car, a bomb, a gun,
+a pressure cooker, or box cutters. Indeed, any motivated
+terrorist with a weapon on U.S. soil constitutes a threat to
+the homeland.
+While we must counter the tactics terrorists use to carry
+out attacks against Americans, it is perhaps even more
+important to try to stop terrorists from entering the United
+States and to keep Americans from falling prey to the twisted
+propaganda that radicalizes them into homegrown terrorists.
+On the first point, at one time ISIS had as many as 5,000
+recruits from Western countries, including many visa waiver
+countries. What is your assessment of the number of foreign
+fighters ISIS was able to recruit from Western countries? And
+as part of your response, did all of these recruits die on the
+battlefield? If not, what is DHS' strategy for countering ISIS
+foreign fighters that may seek to travel back to the United
+States?
+Mr. Glawe. Senator, thank you for that question, and it is
+a very diverse and fluid threat right now as the disbursement
+of the fighters are now leaving Iraq and Syria and going
+global. We have seen an amount of European foreign fighters and
+U.S. foreign fighters that are still in Iraq and Syria. There
+has been disbursement into North Africa, into Southeast Asia,
+as well as Europe, as I mentioned.
+We have a new U.N. Resolution, 2396, that requires the
+sharing of Passenger name record (PNR) data to the United
+States and to European countries and others that signed on. We
+are developing programs through enhanced screening and vetting
+in the National Vetting Center to identify those threats and to
+work with our foreign partners to get that travel data,
+especially foreign to foreign travel. But developing the
+systems and the infrastructure to identify that threat globally
+to prevent that coming into the United States is a priority for
+the Secretary and for myself, as well as the intelligence
+community (IC), as well as also the cargo and container
+security. As we know with the Australia bomb plot, a
+significant danger, and we have seen that consistently, the
+threats to aviation continue to morph and expand exponentially,
+and they are sophisticated. We are developing the programs and
+infrastructure globally with foreign partners to collect that
+data and to mitigate the threats.
+Senator Hassan. Well, thank you. And I know we have gone
+quite a bit over, so I thank the Chair for his indulgence. I
+also will be following up on the homegrown piece of this and
+what we are doing at a community level to make sure that we are
+countering homegrown terrorism.
+Thank you.
+Mr. Glawe. Thank you, Senator.
+Chairman Johnson. Senator Hassan, first of all, I
+appreciate your questions, particularly when you started
+talking about local enforcement of this. Again, for purposes of
+this hearing, I really need to clarify how little authority
+government at all levels has on this. So the fact of the matter
+is when I saw the first draft of this bill, I thought, Is this
+all? Is this really all we are doing? And I pushed my staff and
+I pushed the Federal partners here to let us make this as
+expansive as at least the discussion.
+Now, in the end we pretty well pared it back to just the
+initial first step because, again, we are going to have
+pushback on this. But I think the answer to your question is
+local authorities would have no authority. Unless DHS or a
+Federal authority could get there, there is no authority to
+knock these things down.
+Senator Hassan. And, Mr. Chair, I understand that and I
+appreciate very much why we are looking at this. What I want
+people to remember is that just because we give a Federal
+agency authority does not mean that operationally that is going
+to result in the kind of action we need to actually take
+something down. And, I also know from my local and State folks
+how concerned they are that they may be presented with an
+imminent threat that they will take action on because they are
+public safety officers and they are going to protect the people
+they are sworn to serve. But then what follows is a level of
+liability for them which is very concerning.
+Chairman Johnson. Under Title 18.
+Senator Hassan. Yes.
+Chairman Johnson. Precisely. So, again, I cannot overstate
+the fact that this is such an important first step, but it is
+just a minimal first step. It is just minimal. I mean, this is
+not going to solve the problem. This puts us on the path to
+begin to address the problem. So, again, I appreciate your
+questions. It helped clarify that.
+Ms. Stubblefield, I want to go back to registrations versus
+the number of drones that have actually been purchased. It is
+all well and good that FAA requires registration, but it does
+not require registration at the point of purchase. And so any
+kind of bad actor can purchase a drone and decide not to
+register it, correct?
+Ms. Stubblefield. That is correct, sir. The regulatory
+structure and the registration process is made for the
+compliant, those who want to follow the rules. Certainly we
+have looked at the point of sale option when we were setting up
+the registration process initially, and I would like to take
+you back to that timeframe when we were doing this because I
+think it helps inform the option and the direction that we took
+at that time, which was in the middle of 2015; we were facing a
+projection of significantly high percentage of UAS being under
+the Christmas trees of folks in the United States, and we were
+very concerned that we would have a lot of people operating in
+the airspace who had no understanding of how to do that safely.
+So we pulled together an aviation rulemaking committee that
+was comprised of industry folks, as well as government
+stakeholders, to look at what is the way that we can most
+expeditiously register this new group of UAS operators that
+will be coming into the airspace system. Point of sale was
+looked at in that context. The concern with that was when
+people purchase it, it does not necessarily mean they will be
+the person operating it, and a lot of these were being given as
+gifts so there was some concern about whether we would actually
+be capturing the right group of folks.
+There is also the concern about people who are ordering
+them from overseas or are buying them off retail market and how
+we would capture those folks. And then as we spoke to
+retailers, they were very concerned about the congestion of
+having to do that registration at point of sale. There was
+quite a bit of infrastructure that would need to be built and
+clearly articulated within the rule, all of which added up to
+adding significant time to being able to put registration in
+process.
+Chairman Johnson. OK. I understand the complexity of it,
+and, again, particularly for those small toy drones, if you can
+consider any of them toys, in terms of threat potential. I
+understand that. But when you start getting into these
+agriculture use drones and we still do not require registration
+at the point of purchase, I heard Senator McCaskill say 4
+million drones. I heard you say we have registered a million of
+them. That is a gap of 3 million. That is a significant
+security risk from my standpoint.
+So we can have all the registration rules in place, but we
+know bad actors are not going to be following the rules. So I
+do not get a great deal of comfort in terms of registration
+rules. I will stop right there. Did you want to go before we--
+--
+Senator McCaskill. Sure.
+Chairman Johnson. OK.
+Senator McCaskill. I would like to spend a little bit of
+time talking about counter-drone technology. I know that
+Science and Technology (S&T) has been focusing on developing
+and delivering some counter-drone capability for DHS. Keeping
+in mind that this is not a classified setting, discuss what you
+can about what its capabilities are, and whether the bill gives
+you the authority to use what is being developed within DHS for
+counter-drone operations?
+Mr. Glawe. Senator, thank you for the question. The
+counter-drug technology developments specifically on how we are
+identifying the different threat vectors. Transnational
+criminal organizations are incredibly sophisticated, operating
+much like foreign intelligence services by State-sponsored
+governments. They are incredibly capable. Specifically, Science
+and Technology and the two main organizations that do
+interdictions, Coast Guard and U.S. Customs and Border
+Protection, have been increasing their capabilities to
+specifically identify fentanyl. As you know, it is a tremendous
+threat, and it is causing devastating effects to all of the
+Senators' communities. It is devastating. With that regard,
+they have made advances on how to detect that within cargos and
+containers, and Kevin McAleenan, the Commissioner, has done a
+fantastic job in leading that effort.
+With regard to this legislation and the threat from UASs,
+specifically Southern and Northern Border, it gives us the
+opportunity in the Department of Homeland Security to develop
+tactical techniques and policies and procedures to identify
+those threats in a foreign country that are trying to come
+inbound in the United States. It gives us the first start to do
+that. But as you know, unmanned aerial systems can provide 3 to
+5 pounds of payload of pure fentanyl, which is worth thousands
+and thousands of dollars and can devastate States. It is
+deadly. This is going to allow us to develop the policies and
+technology to further that aggressively, because, in my
+opinion, these sophisticated networks are going to morph and
+have way outpaced our capabilities on the technology.
+Senator McCaskill. You may have misunderstood my question.
+I am obviously always interested in what we are doing to get
+after the drugs, but I am interested in what we are doing
+internally versus the commercial counter-UAS technologies. We
+are aware that some of these companies are touting some pretty
+amazing technological advances and claim to be able to address
+the drone threat. And so I have two parts to this question. I
+want to know what capabilities exist, within S&T through this
+Theater Air Control Training Information Computer (TACTIC)
+assessment that you all have done--and that is an acronym for
+something long; somebody had to write an acronym--versus the
+commercial technologies available. One of the big things that
+has occurred, I am very grateful for, in DOD over the last few
+years is them finally recognizing that sometimes off-the-shelf
+technology is a much better deal for taxpayers and, frankly,
+allows us to stay cutting-edge in a more flexible way than
+investing in a huge, big project to do counter-drone technology
+that is with request for proposal (RFPs) and changing
+requirements. So, first I want you to compare and contrast
+commercially available counter-drone technologies with what is
+going on within DHS in the Division of S&T. Second, whether or
+not any of these technologies are ready to be deployed and
+whether they can be deployed in urban settings.
+Mr. Glawe. So, Senator, I think regarding the surveillance
+vehicles, I am assuming you were talking about, as far as what
+would be flown by the Office of Air and Marine and how they
+patrol specifically the border environment to look for
+nefarious activity, that has been an evolving technology that
+they have looked to advance. Specifically on the commercial use
+and where they are looking at the testing and procurement, I
+would have to get back with an answer for the record on the
+specifics. I want to make sure I am accurate when we answer
+your question because this is a very costly endeavor and the
+technology advancements and the cost saving obviously have to
+be balanced with what----
+Senator McCaskill. Yes, and that is what I really want to
+drill down on here. I really need you to get back to me on why
+we are not buying it off the shelf. What is the reason? If
+these technologies have been developed and are commercially
+available, there needs to be a really good excuse why we are
+not availing ourselves of that technology as opposed to trying
+to duplicate it in a way that history has told over and over
+and over again costs three times as much. It does not happen as
+quickly, there are too many cooks in the kitchen, and we are
+just not as nimble and flexible as we need to be. And in this
+particular area, with technologies evolving as quickly as they
+are, I just want to make sure that we are not missing the
+opportunity to avail ourselves to the commercial technologies
+that are available.
+Mr. Glawe. Senator, we will take that back for an answer.
+Senator McCaskill. Great.
+And I really want to know also, when you come back with
+that, how these technologies can be deployed in urban
+environments. There is one situation where you can go into a
+relatively rural area and do the kind of identification,
+interdiction, and use counter-drone technologies very
+effectively. Sometimes in an urban setting, it is a whole
+different set of challenges, both from the flyable space to the
+interference that there is in terms of the ability to locate
+them, and obviously the techniques for bringing down are
+challenged by an urban environment. So I think it is really
+important that this Committee get a handle on what advancements
+are being made--and all of you, feel free to weigh in on this,
+what advancements are being made that would allow us to use
+these technologies more effectively where it is likely this is
+going to occur; that is, where bad actors could hope to inflict
+mass casualty.
+Mr. Glawe. Senator, using UASs for law enforcement purposes
+to conduct surveillance on criminal suspects, terrorists,
+foreign intelligence agents is going to be an absolute benefit
+and how we develop those policies and procedures, I would
+actually turn it over to the FBI, the Deputy Assistant
+Director, maybe to touch on that from their use.
+Mr. Brunner. Yes, Senator, I can speak from experience. I
+have been in a number of meetings with the Department of
+Defense, a number of conferences, and with our partners in the
+industry. There are a significant number of counter-products
+out there on the market today. The problem we face right now is
+that we cannot legally use any of those domestically. That is
+where this legislation comes into play. So the Department of
+Defense is using some very significant tools overseas. Our
+partners here within the counter-market are developing some
+significant technologies that are potentially very useful to us
+to protect the American public and to respect privacy and civil
+liberties. But, again, we cannot use any of those right now.
+Senator McCaskill. And our legislation would allow that?
+Mr. Brunner. Yes, ma'am. It would go a long way in helping
+us.
+Senator McCaskill. Well, then I want to get a head start on
+looking at commercially available, off-the-shelf technologies
+so that we are not back here 5 years from now talking about the
+400 million, the 500 million, the billion that was wasted in an
+acquisition strategy that was never going to be nimble enough
+to address the threat.
+Thank you, Mr. Chairman.
+Chairman Johnson. Senator Heitkamp.
+OPENING STATEMENT OF SENATOR HEITKAMP
+Senator Heitkamp. Thank you, Mr. Chairman. And thank you so
+much for expediting this hearing. I think it is critical, as we
+talked yesterday, that we have this conversation.
+First off, I would just like to acknowledge that North
+Dakota is very proud of the role that we play in developing
+technology, and continuing, Senator Hoeven and I brag about
+this all the time, and you can see our names are prominently
+featured on this bill because we want this technology to be
+safe. And so we have great opportunities to expand and to
+develop what we need for border security, for homeland
+security, right in North Dakota and right here. And so I just
+want to submit for the record a statement by Nicholas Flom, who
+is the executive director of the Northern Plains Unmanned
+Aircraft Test Site System.\1\ Nick is a great leader on UAS,
+both in North Dakota and the Nation, and he and the North
+Dakota Test Site I think bring an important perspective on
+counter-UAS and how to best pursue this initiative. And so----
+---------------------------------------------------------------------------
+\1\ The statement referenced by Senator Heitkamp appears in the
+Appendix on page 75.
+---------------------------------------------------------------------------
+Chairman Johnson. Without objection.
+Senator Heitkamp. Thank you, Mr. Chairman.
+First off, it is always dangerous when you are reaching
+back in the file banks of your memory, but there were companies
+that developed these techniques overseas for the Department of
+Defense that came back, and there is a great example in
+Baltimore where a local agency deployed the same techniques and
+the same equipment that was used internationally. I do not
+know. Are you familiar with the Baltimore experience, any of
+you?
+[No response.]
+Well, that is a problem, right? Because this is something I
+know from listening to a podcast, but you guys should know it.
+And they ran into a number of privacy problems, but I think it
+was like a Radiolab podcast or maybe a Planet Money podcast,
+but they talked about tracking the criminal element in the city
+of Baltimore and using this technique and were able to
+basically deploy resources almost immediately to conflict
+points that were very helpful. And it goes to what Claire is
+talking about, which is, how do we do this, even beyond
+terrorism threats, even beyond mass casualty threats, these
+techniques can be very helpful for pursuing safety within
+communities themselves. And so I would recommend you guys all
+get a hold of Baltimore--if it is not Baltimore--I remember it
+is Baltimore, but get a hold of the other entities.
+Mr. Brunner. Yes, Senator, we are aware of that. That is a
+persistent surveillance component. It is slightly different
+from the counter component that I was----
+Senator Heitkamp. Right, but there is no reason why a
+persistent could not actually catch a counter-terrorism threat
+as well, right?
+Mr. Brunner. I am not----
+Senator Heitkamp. Given the right intel.
+Mr. Brunner. Potentially, yes.
+Senator Heitkamp. So I think that there is a great example
+of a public safety utilization of this technology.
+I want to continue the dialogue that Claire engaged you all
+in, in terms of technology. I think that we feel sometimes that
+we are always behind the eight ball; we are always trying to
+catch up to what the bad guys are doing or catch up to what is
+happening and understand the technology. How can we accelerate
+the development of this technology, especially as it relates to
+surveillance kind of moving forward? And what are you doing to
+accelerate the development of this technology or evaluating
+products, as Claire has talked about, off the shelf that are
+already available? I would start with you, Mr. Glawe.
+Mr. Glawe. Senator, thank you for the question. I think
+this legislation allows us the first step to start developing
+the lanes and the roads of what our authorities will be and how
+we can deploy it within the homeland. That is going to be
+unique from a law enforcement and how we use it and how we use
+that policy and legal framework so when we have officers
+deployed at the border or at a national security event, that we
+have the parameters of what we can do and how we can deploy
+countermeasures. I will turn it over to the Deputy Assistant
+Director of the FBI, who is really the subject matter expert on
+this and leads that component down at CIRG, for a little more
+granularity on it.
+Senator Heitkamp. Mr. Brunner.
+Mr. Brunner. Yes, Senator, we are working extensively with
+our private industry partners to evaluate what the market has
+out there in technology, and we are actually preparing
+ourselves for when the national airspace opens up, and I could
+turn that over to Ms. Stubblefield in a moment about that. But
+we want to be in a position to make the best use of this
+technology as possible, so we are coordinating with our private
+entity partners both on the operational surveillance side of
+the house and on the counter-surveillance side of the house,
+counter-UAS side of the house, in order to position ourselves
+and to provide the industry with what we potentially believe we
+might need to both surveil and counter.
+Senator Heitkamp. One of the things that I would remind you
+is that this is the Homeland Security Committee but also
+Government Affairs, and we are charged with efficiencies, we
+are charged with making sure that we are doing everything that
+we can to make sure that we are not wasting taxpayer dollars,
+that we are not re-creating the wheel when the wheel has
+already been made available. And so I just want to reiterate
+Claire's point, which is, let us not think that the public fisc
+is open to every dollar that you think you may need. Let us try
+and economize on this. Mr. Brunner.
+Mr. Brunner. Yes, ma'am, there is a National Capital Region
+group that gets together on the Federal level--it is chaired
+primarily by DHS and DOD--that the Department of Justice is now
+a partner to looking at exactly that. We all believe in this
+technology. We all know that we are going to need certain
+components of this technology. Let us be smart about it. Let us
+do it together. Let us push all of our requirements out at one
+time so that we do not waste the taxpayers' money.
+Senator Heitkamp. Turning to Mr. Glawe, we are obviously
+very interested in providing border security on this Committee.
+I think that we now have gone through a Northern Border study,
+we have gone through a Southern Border study. How engaged and
+involved are these technologies in the evaluation of that? We
+talk about a wall, but we can do a virtual wall if we do this
+correctly. And so we are very interested in how these
+technologies will be deployed at the border and whether you
+believe that you are paying enough attention to the development
+of these technologies as we look at border security strategies.
+Mr. Glawe. Senator, thank you for the question. I had the
+good fortune, when I was the head of Intelligence at U.S.
+Customs and Border Protection, to actually help stand up the
+Northern Border Coordination Center in Detroit and actually
+brief you--I believe it was about 3 years ago.
+Senator Heitkamp. I know.
+Mr. Glawe. I am very familiar with the unique environment
+of collection on the border using unmanned aerial vehicles, and
+we have done a tremendous amount of testing on the Northern
+Border. You are very familiar with the challenges with the
+foliage compared to the Southern Border. We have partnered with
+the Department of Defense and intelligence looking at
+capabilities and what we can deploy in an unclassified and
+classified meeting to look at the coherent change of where
+those threats are. So if you are unlawfully entering and not
+going through a port of entry and declaring it, you are
+essentially illegally entering the United States.
+How are we deploying assets on that target to identify what
+that threat is? That is a layered approach with intelligence,
+not just air assets but intelligence also in the rear law
+enforcement and in U.S. intelligence community assets and how
+we collect that. We are creating new systems in how to do that.
+This legislation, which also involves a strong research and
+development (R&D) and reporting requirements to you, will allow
+us to show you that layered approach and how we are integrating
+in that intelligence from a classified and unclassified
+capability on the patrol aspect of it.
+Senator Heitkamp. And I think highlighting, Mr. Chairman,
+the importance of getting this legislation across the finish
+line so we can get started. Thank you so much.
+Chairman Johnson. Thank you. Senator Carper.
+OPENING STATEMENT OF SENATOR CARPER
+Senator Carper. About a Saturday ago, colleagues, I was at
+the University of Delaware in the football stadium for
+graduation, and Scott Brunner's name came to mind because if
+you do a Google search on Scott Brunner, you will find he is
+not just a top guy at the FBI. He was our starting quarterback
+for 3 years.
+Senator Hoeven. Did you graduate?
+Senator Carper. He went on to play for the Giants and for
+the Broncos.
+Senator Hoeven. Governor, did you graduate?
+Senator Carper. Several times. [Laughter.]
+Yes, indeed.
+Senator Heitkamp. Really?
+Mr. Brunner. No, ma'am. That is not me. It is a different--
+-- [Laughter.]
+Senator Carper. But I thought about you when I was there
+and today. So nice to see you all.
+I am going to ask you to think about one question, and then
+I will ask another one while you think about the one I am going
+to ask in a minute. The one I am going to ask in a minute is:
+Each of you, give us a question we ought to be asking that we
+are not asking yet of you. All right? What should we be asking
+that so far we have not asked? OK? Think about that.
+Here is my question. Given the disparate roles and the
+responsibilities spread across a bunch of different agencies, I
+would just like to know what your thoughts are about the degree
+of coordination and cooperation that are necessary for
+successful counter-UAS operations. That would be my first
+question, so let us just start with that. Ms. Stubblefield, do
+you want to go first?
+Ms. Stubblefield. Thank you, Senator. Both your questions
+are excellent questions, but I will start with the second one
+first.
+The level of coordination is significant, and we certainly
+appreciate that this Committee's proposal highlights the need
+for robust coordination and a risk-based assessment. There are
+a lot of counter-UAS systems out there, 235 systems available
+from 155 vendors in 20 countries. There is a plethora of
+options on the market.
+Senator Carper. I am going to ask you to be succinct
+because we are----
+Ms. Stubblefield. Yes, sir.
+Senator Carper. Thank you.
+Ms. Stubblefield. However, they have not been tested in the
+civil environment. Most of them are built on military
+applications. Therefore, as we are implementing them in the
+civil environment, as we have been doing with the Department of
+Defense and Department of Energy, it is critical that we have
+coordinated processes for notification and reporting for the
+airspace flight restrictions and mechanisms necessary to ensure
+we are using this in locations where compliant operators are
+not operating, to include the spectrum analysis for the impacts
+that they have on avionics and air navigation systems that are
+critical to safety of flight. So that coordination, which we
+have been in lockstep with DOD and DOE, is paramount in the
+planning up to deployment, through deployment so that we can
+determine what those impacts are and what mitigations may need
+to be put in place, and then also post-deployment to understand
+how the UAS that they are engaging are reacting, because the
+different UAS platforms actually react differently to different
+kinds of counter-UAS technology.
+Senator Carper. Great. Thanks.
+Same question, Mr. Brunner.
+Mr. Brunner. Thank you, Senator.
+Senator Carper. And be succinct and brief, please.
+Mr. Brunner. Yes, sir. Cooperation is imperative in this. I
+think this group that we have gotten together to work on this
+legislation with you all exemplifies that, that we recognize
+the necessity to work together and to cooperate. Yes, we do
+have our own lanes and our mission sets to protect the American
+people and to protect their civil liberties and their privacy.
+But we also need to come together, and we do as this
+legislation represents in a number of areas where we work
+together. And that is not just for this Committee. It is the
+FAA, it is the Federal Communication Commission (FCC), it is
+the National Telecommunications and Information Administration
+(NTIA), and then it is all of our State and local partners on
+top of that. It is imperative that--we cannot do this alone. It
+is a group effort.
+Senator Carper. All right. Thanks.
+Same question, Ms. Chang.
+Ms. Chang. Thank you, Senator. The coordination is
+extremely robust. I think my partner Ms. Stubblefield said it
+best when we first started our efforts together, that we should
+consider this a marriage not a date, and I can say from
+experience I think I see----
+Senator Carper. Do you say that?
+Ms. Stubblefield. Every day.
+Senator Carper. That is good. I have to use that.
+[Laughter.]
+Ms. Chang. The statute requires us to coordinate with the
+Department of Transportation, with the Department of Justice,
+not only in implementing and doing the risk-based assessment
+and designating facilities, but also any implementation and
+guidance that we would issue. And I just wanted to also
+emphasize that the reason that coordination is so key, we need
+this bill because right now our research and development is
+illegal. We cannot even research this technology because it is
+illegal, and, therefore, we are going to have to build on our
+counterparts at DOD and build on their efforts in order to hit
+the ground running if and when we get this authority.
+Senator Carper. Thanks, Ms. Chang. Mr. Glawe.
+Mr. Glawe. Senator, thank you for that question. I would
+just echo my colleagues. The research and development, the
+efficient aspect of developing that within the policies and
+procedures that this legislation allows us to is critical. But
+I would also foot stomp that we have to move with a sense of
+urgency. This threat is upon us. It is already here.
+Senator Carper. We have never had a witness' foot stomp
+before.
+Mr. Glawe. We have to move with a sense of urgency on this,
+and it has to be developed quickly within the framework of the
+legislation and reporting requirements back to you all. And
+then on your follow up question, I will just say quickly--and I
+think
+this is going to echo Senator McCaskill's concerns, as well as
+others'--have we gone far enough to allow information and
+countermeasures to be shared with our State, local, and private
+sector partners? I am worried about those large venue baseball
+games, football games, running events which I attend that do
+not raise to the level of Federal law enforcement, a SEAR
+event, and the protections that come with it. So I think in
+partnership as we move forward, as this first step, do we have
+the authorities in place as we move out, as the policies and
+procedures and tactical techniques are built around it.
+Senator Carper. Good. Thank you.
+Ms. Chang, what question should we be asking that has not
+been asked?
+Ms. Chang. Why do we need the broad categorical exemption
+from Title 18 versus carving out individual sections from the
+code?
+Senator Carper. OK. Thank you. Mr. Brunner.
+Mr. Brunner. Senator, my question would be: What are the
+consequences if we do not take this first step?
+Senator Carper. Ms. Stubblefield.
+Ms. Stubblefield. Why is it that the phased approach is
+really the most appropriate approach to ensuring that we do not
+create a safety issue while we are trying to solve a security
+problem?
+Senator Carper. OK, good. I am going to be asking this
+question for the record. I do not expect you to respond to it,
+but the question I will ask for the record goes back to my
+first question, and that would be: What can we do here in this
+body, the Legislative Branch, to improve and beyond this
+branch, working with you, what can we do to improve
+coordination of counter-UAS activities across Federal agencies?
+I will ask that for the record.
+I have 6 seconds left, but the Chairman is not here. So I
+will probably ask this one for the record as well.
+Senator McCaskill [presiding]. You think I am a pushover,
+don't you? [Laughter.]
+Senator Carper. No one would ever suggest that, least of
+all me.
+I will ask this one for the record as well. Members of the
+Committee have talked about this legislation being limited in
+scope regarding authorities being granted. I am going to ask
+you to share for the record, each of you, your thoughts about
+potential next steps and what is needed as we move forward.
+We thank you for being here today and thank you for your
+service, and we welcome your presence today, both on and off
+the gridiron. Thanks.
+Senator McCaskill. Senator Hoeven.
+OPENING STATEMENT OF SENATOR HOEVEN
+Senator Hoeven. Thank you, Ranking Member.
+To begin with, I want to highlight for the Members of the
+Committee that the Director of the Northern Plains UAS Test
+Site, our test site located in Grand Forks, North Dakota, the
+Director, Nick Flom, submitted a short written statement for
+the record for this hearing, and he talks about some of the
+technical challenges and priorities related to development of
+counter-UAS and strategies, and I would strongly encourage you
+to read that testimony.
+For Ms. Chang, you mentioned in your written statement that
+Federal law complicates your ability to research, develop, and
+test counter-UAS technologies. Can you describe the challenges
+you face in developing and testing counter-UAS technologies and
+provide examples of technology that would help you counter UAS
+threats that you are not currently permitted to test and
+evaluate? So things that you cannot do that you would like to
+be able to do.
+Ms. Chang. Thank you, Senator. There are several things
+that we would like to be able to do that we cannot do
+currently, and the technology is constantly evolving. But our
+efforts right now, for example, to detect drones that could
+pose a threat primarily rely on scanning the radio frequency
+(RF) spectrum. That raises questions under the Wiretap Act and
+the Pen/Trap Act for use as well as spending any money on
+research or testing, because its use is illegal, so testing it
+and acquiring it is illegal.
+The same with any of the disruptive measures that we would
+use, particularly jamming, raises questions not only under
+those statutes, but also the Computer Fraud and Abuse Act,
+potentially the Aircraft Sabotage Act, several others that have
+been interpreted in new ways because of the development of
+technology. And because the technology use is illegal, we are
+not permitted under our rules to spend money to purchase
+equipment that is illegal to use, and so we cannot test it.
+Senator Hoeven. So you cannot test jamming?
+Ms. Chang. I should say I am aware of only in like a
+sterile environment we are allowed to test, but we are not
+allowed to test where there could be any secondary
+consequences, which is not very realistic if you plan to use
+it, for example, in Manhattan.
+Senator Hoeven. Well, of course. It is clearly something we
+have to test and clearly something we have to figure out how we
+can develop testing for, because, obviously, we are going to
+need it.
+Ms. Chang. Yes, sir.
+Senator Hoeven. So that is a very good point, a very strong
+point. Thank you.
+Mr. Glawe, your written statement illustrates that we are
+becoming aware of more and more cases where UASs are being used
+for illegal purposes. As the commercial UAS industry grows,
+what additional legal authorities or technical capabilities do
+you need to track UAS air traffic and separate potential
+threats from friendlies? How would you benefit from
+requirements for UAS to identify itself or from the
+establishment of unmanned traffic management (UTM), networks
+that might highlight cooperative and noncooperative aircraft?
+Mr. Glawe. Senator, from an investigative standpoint, if
+you are working a national security investigation or a criminal
+investigation, the legislation is critical to allow us the
+procedures and policies and technical capability for
+identification of those nefarious. This is going to have to be
+a layered approach with our investigative capabilities which
+currently exist in--our intelligence capabilities that
+currently exist. It will be layered into the statutory
+authorities on how we identify and disrupt threats. But due to
+the nature of the evolving and the quickness of these threats,
+this legislation is critically important for us to develop the
+technical capabilities, as the Deputy General Counsel just
+mentioned, in that environment of what we can do within the
+authorities that you all will grant us if this legislation goes
+forward, which we feel it must.
+Senator Hoeven. So you think this will help get you where
+you need to go in terms of--I mean, we are going to have to
+have a system where you have sense and avoid and, UTM that
+allows not only the sense and avoid but some ability to make
+sure that we are detecting the threats.
+Mr. Glawe. Senator, absolutely. As Chairman Johnson stated
+in his opening remarks, this is a strong first step to allow us
+the policies and procedures to layer it in with those
+investigative authorities our law enforcement organizations
+have, and if it is outside the United States, layered in with
+the intelligence services and foreign partners of how we are
+going to mitigate this threat. The threat is very broad,
+permissive, and significant.
+Senator Hoeven. Ms. Stubblefield, I am pleased to note from
+your written statement that the FAA is prioritizing ways to
+both remotely identify UAS aircraft and also development of the
+UTM system.
+Ms. Stubblefield. Yes.
+Senator Hoeven. So both the systems and the technology,
+again, that will sort out friendlies and threats. But you are
+focused on the airspace 400 feet and below, it looks like, so
+my question is: What about 400 feet and above? Are you looking
+at that as well for any criminal or terrorist type--any kind of
+threat activity?
+Ms. Stubblefield. Thank you, Senator Hoeven, for
+highlighting the remote identification requirement. From the
+FAA's perspective, we would like to see that requirement for
+all UAS. As we consider putting together the rulemaking, which
+we are working on as aggressively as we can right now, we are
+certainly looking at putting requirements on operators,
+manufacturers, such that when these come out of the box, there
+is a capability that is there, which is going to help
+regardless of where UAS operate, whether it is 400 feet or
+below or as we move into the middle or even high altitudes.
+Those UAS that can function at, let us just say to segment it,
+18,000 feet and above, so in Class A airspace, those are going
+to be larger aircraft that will be certified. We will have
+requirements in that airspace to be communicating with air
+traffic control.
+There is no doubt that we have challenges around the
+detection of what are generally a low and slow radar cross-
+section of UAS. However, those larger UAS, we certainly have a
+much better capability in terms of detection as we stay down
+into the lower altitudes and, again, not to provide too much
+information about our security posture, but certainly we think
+remote identification is going to be key because those who are
+not cooperating in the environment that will hopefully, as our
+partners derive the authority to be able to deploy detection,
+they will stick out, and so we will know who is supposed to be
+there part of, as you mentioned, the unmanned traffic
+management, the suite of tools and capabilities that will go
+with that, we will know who is authorized to be there, who
+should be operating and is operating compliantly, and those who
+are outside of that hopefully will be detected by the systems
+that our partner security agencies will be able to field.
+Senator Hoeven. I am out of time, but, again, I would ask
+that all the witnesses please take a look at Nick Flom's
+testimony. I think it is helpful in your endeavors.
+Thank you.
+Chairman Johnson. Thank you, Senator Hoeven.
+Ms. Chang, can you describe the inhibitions of Title 18 to
+non-lawyers? I am one of them. Just talk about why law
+enforcement is going to be really constrained unless they get
+this type of waiver.
+Ms. Chang. Certainly, Senator. The primary concern is
+technology is evolving so rapidly, as you pointed out, and the
+law is just not keeping up right now. And so we had discussed
+the detection measures that we try to use, which most of them
+operate by scanning the RF spectrum. That is naturally going to
+raise questions under the Wiretap Act that was written in the
+1960s, the Pen/Trap Act from the 1980s. They just were not
+initially written for this, and so what is considered an
+electronic communication is arguably swept up here, but also
+our other measures, any effort that we would take to safely
+bring that device down could potentially raise questions under
+a whole host of statutes. And it is changing every day. We
+would not have originally thought that these UASs would be
+considered--what used to be just model airplanes would be
+considered aircraft under the Aircraft Sabotage Act and,
+therefore, bringing it down if it causes damage could create
+criminal liability for our officers. We would not have believed
+even recently, until recently, that these would be guided by
+satellites, implicating provisions about interfering with
+satellites. And the problem is just changing every day.
+And so I cannot say with confidence today how many of these
+statutes could be implicated as this technology continues to
+evolve.
+Chairman Johnson. I think we are all concerned about civil
+liberties. There is no doubt about that. But, for example,
+every day law enforcement might be confronted with having to
+disarm a criminal, correct? They do not need a warrant to take
+away somebody's gun at that point in time. Why is this that
+much different? I will go to you, Mr. Brunner.
+Mr. Brunner. Well, Senator, from a non-lawyer perspective--
+--
+Chairman Johnson. We will switch over to Ms. Chang
+afterwards, but somebody with boots on the ground.
+Mr. Brunner. So the concern for the boots on the ground,
+Senator, is the way that the Title 18 statute is written right
+now and some of the other statutes. We are concerned that the
+individual, the agents on the ground, the officers, however you
+want to phrase it, would be liable by taking action against
+these targets, which no one has authority to do right now. So
+if they were to take action, there is the potential there that
+the Department of Justice or State or local authorities could
+bring----
+Chairman Johnson. I understand, but the analogy really is
+you have a potential threat now is a drone. You have
+intelligence, actionable intelligence. You realize this is a
+problem. First of all, it is temporary restricted airspace.
+Nobody should be flying a drone. Practically, putting the law
+aside, is there really a difference between law enforcement
+disarming somebody without a search warrant or going through
+any kind of court procedure versus law enforcement acting in
+that capacity?
+Mr. Brunner. The difference is on the capabilities that the
+law enforcement officer or special agent has on hand to
+mitigate that threat. So downing an aircraft by an agent on the
+street or a police officer on the street is going to be
+extremely difficult. So that is the hardest challenge right
+now. If I am an officer or an agent on the street and I see a
+threat, I am going to do whatever I can to mitigate that
+threat, regardless of what the statute might say at that time,
+if I feel like I am protecting others. But the issue really for
+them is they do not have the capabilities nor do we right now
+without this legislation to actually do that.
+Chairman Johnson. So, again, I understand the capability.
+Again, I am just trying to connect the dots in terms of an
+analogy. We ought to give law enforcement the capability, just
+as they have the capability of disarming somebody dangerous,
+without going through a court procedure and getting a warrant,
+they ought to have that same authority from my standpoint.
+Ms. Chang, do you want to comment on this?
+Ms. Chang. Yes, Senator, and I am glad you raised the
+Fourth Amendment because the Fourth Amendment still applies,
+and this statute does not change that. And so if, for example,
+a police officer were breaking up a fight, they would be under
+the Fourth Amendment. They would be using force. And it would
+have to be reasonable under the Fourth Amendment. They would be
+seizing potentially persons or property, and that would have to
+meet the reasonableness standard under the circumstances.
+This statute actually sets a higher bar in that not only
+would we have to comply with the Fourth Amendment, but also
+take actions only as necessary to mitigate the threat. And once
+that threat is over, then our authority under this statute
+would end. And, again, the normal rules would still apply.
+Chairman Johnson. Some of the pushback we have gotten from
+some of the other committees of jurisdiction has to do with the
+risk-based assessment that is required under the statute. We
+have left that basically to the agencies to determine what that
+risk-based assessment would be. I think some of the other
+committees might be looking for greater detail and more
+prescriptive language in terms of what that risk assessment is.
+Can you just address that issue?
+Ms. Chang. Certainly. The reason that we believe that this
+sets the appropriate balance, there are a number of constraints
+in the statute governing how we have to coordinate and
+oversight. But we believe that keeping a somewhat flexible
+approach because of the developing threat is important. We will
+be, of course, coordinating with our FAA partners, and every
+step we take will be with them. But the threat is evolving so
+quickly that if we are so carefully constrained in statute, we
+have been asked, for example, if we should define ``threat'' in
+the statute. I am only aware of one statute that does that.
+That is the Cybersecurity Information Sharing Act (CISA) that
+defines ``cybersecurity threat,'' but typically that is left to
+the operators because we have the expertise, and like I said,
+it is developing so fast. We do not want to have to be back
+here asking Congress for a new law 6 months from now.
+Chairman Johnson. Which kind of gets me, again, to the very
+limited nature of this, because I think it is important to
+pound this point home. This is limited to risk related to the
+following missions: U.S. Coast Guard and U.S. Border Patrol in
+terms of their security operations, including security of
+facilities, aircraft, and vessels; to U.S. Secret Service
+protection operations; to Federal Protective Services (FPS)
+protection of DHS facilities; to U.S. Marshals and DOJ
+protection of its facilities and court personnel; to the Bureau
+of Prisons, protection of their high-risk facilities; then
+security for special events, and there we are talking about
+visits by the Pope or other special events that are going to be
+assessed through this risk-based assessment; and then when a
+State Governor or an Attorney General requests assistance. But,
+again, the local authorities will have no authority whatsoever
+to mitigate the threat. Then active Federal law enforcement
+investigations, emergency responses, security operations
+carried out by DHS and DOJ, and then just reacting to known
+national security threats that could involve unlawful use of
+drones. Again, this is a really narrow authorization.
+Who would like to talk--again, to reinforce and clarify,
+this is just a first step. Maybe, Ms. Stubblefield, you can
+talk about the first-step nature of the authority given to the
+Department of Defense, because in our briefing yesterday, it
+really does sound like those agencies, you are working very
+closely with them, working through the complexity of this,
+understanding how difficult this is, but also we are just
+taking the first steps down that path, even with DOD having
+this authorization for, what, 2 years? So can you just talk
+about that?
+Ms. Stubblefield. Yes, sir, Mr. Chairman, and thank you.
+The complexity, as you cited, of this type of situation is you
+are taking technologies that have largely been used in conflict
+zones and the military space and bringing them into the civil
+environment. And because there have been so few agencies that
+have the authority that DHS and DOJ are seeking here, it has
+been extremely challenging for anyone, whether it is Federal,
+State, or local, to do that testing in the civil airspace,
+because the technologies that we have, by and large, do have
+impacts on avionics and air navigation service systems. And so
+we have been working very closely with DOD in the pre-
+deployment phase. Part of that risk assessment is determined.
+What is the airspace around that facility? What does the air
+traffic look like? What is the appropriate technology? What
+exactly in that space are you trying to protect? Is it a point
+defense? Is it an area defense? All of those types of factors
+go into determining how we appropriately scope any flight
+restrictions, what the concept of operations (CONOPS) is for
+the given agency to deploy that system, so that we can then
+mitigate any of the spillover effects into the civil
+environment.
+As Mr. Brunner articulated earlier, the FCC and NTIA are
+also involved in that, because those impacts can go beyond just
+the aviation spectrum.
+Chairman Johnson. So this has been so far about a 2-year
+process.
+Ms. Stubblefield. Yes, sir.
+Chairman Johnson. And you are not at the endpoint, not by a
+long stretch, right?
+Ms. Stubblefield. As you said, sir, this is an incremental
+phased approach. As the Department of Defense and the
+Department of Energy understand what these technologies look
+like to be deployed by their folks on the ground in the civil
+environment, they are taking a very measured approach to that
+as well, because they are also using facilities that have their
+own constraints, whether they be a facility that has nuclear
+weapons or other types of technologies and sensitive materials
+that may react to the types of technologies they are looking to
+use to counter. All of those things have to be weighed out, so
+it is a very slow, methodical approach to ensure that when they
+get to turning them on operationally, we have done all we can
+to ensure we are not creating any safety impacts but are, in
+fact, just focusing on taking down that security risk.
+Chairman Johnson. And, again, to clarify and respond to the
+letter I received from the ACLU, DOD only has authority around
+a very limited number of its facilities, correct?
+Ms. Stubblefield. That is correct, Senator.
+Chairman Johnson. They have no authority tacked against all
+the things I just detailed in terms of our bill.
+Ms. Stubblefield. That is correct.
+Chairman Johnson. The Coast Guard, Secret Service, U.S.
+Marshals, Bureau of Prisons, special events, DOD has no
+authority whatsoever.
+Ms. Stubblefield. That is correct, sir.
+Chairman Johnson. I think it is also important to point out
+that we did draft this law to pretty well make the authority
+identical to DOD so that different agencies now working in
+cooperation are not inhibited by slightly different types of
+authority which could overly complicate this, correct?
+Ms. Stubblefield. Correct, sir. And it is that mirroring of
+the coordination and the risk assessment in both of those
+places as well as the other features that for the FAA who is
+involved with everyone who is going to deploy this makes it for
+us a more consistent process as well to ensure we are uniformly
+looking at the impacts on the airspace and aviation safety.
+Chairman Johnson. In yesterday's briefing, I think a good
+line of questioning--I think it was Senator Harris who was
+talking about, OK, if we have a local authority and they hear
+and perceive a risk, where is the point of contact going to be?
+And we are talking about a number of different agencies here in
+the Federal Government that were providing this authority. Does
+anybody have an opinion on where that point of contact should
+be?
+Mr. Glawe. Chairman Johnson, I think developing the
+policies and procedures around the capability is going to be
+critical. Under a national security event, we currently have
+the Critical Incident Response Group along in partnership with
+the DHS operational equities that are very clarified and
+defined, very defined, as the Deputy Assistant Director from
+the FBI will say. But when we are talking about protection of
+critical infrastructure such as a petrochemical plant in
+Houston or other critical infrastructure that this statute
+would allow us to do risk assessments and see if there has to
+be protection, that is where we are going to have to develop
+other procedures so we get the intelligence to the operator to
+make that decision to take whatever countermeasures would be
+appropriate for that, and we are going to have to change the
+structure of how we do business in this arena, and this
+legislation is a key step to getting the policies, procedures,
+and legal authorities wrapped around it so we can make those
+decisions, because you are absolutely right, the decision to
+actually action a UAS is going to be quick, dynamic, and the
+threat is going to be evolving fast, and we are going to have
+to be moving into that space very quickly.
+Chairman Johnson. So it is just too soon in this process to
+really start ferreting out points of contact, because it could
+be points of contact based on the industry, based on the
+location, and eventually filtering back to somebody. But you
+have to set up that process.
+Mr. Glawe. Chairman Johnson, you are absolutely right. When
+we are talking about deploying some sort of a force or a
+technical capability on an object, which the Deputy General
+Counsel can explain more from the legal standpoint, we are
+going to have to have very specific guidelines, procedures, in
+how that is deployed, what authorities of what organizations
+are there to deploy it--Coast Guard, Border Patrol, Office of
+Air and Marine, the FBI, the Secret Service if it is at a
+protectee's location. Defining that scope and spectrum based on
+the technological capability is going to be a critical
+component to that.
+Chairman Johnson. I have only got one more question for Ms.
+Stubblefield, but I am going to close this out by asking all of
+you to respond: Is there anything that we have not talked about
+that, as we are going through this, you have just been itching
+to make the point and/or something that really needs to be
+clarified?
+But, first, Ms. Stubblefield, I am going back to
+registration. Again, I think there is a huge gap there. It is,
+by and large, voluntary. Correct? It might be required by law,
+but it is not really required by law at the point of purchase.
+First, correct me if I am wrong there. And, second, what are
+the penalties if people do not register? And what is the
+enforcement of it?
+Ms. Stubblefield. Yes, sir, you are correct that we are
+dependent upon people complying with the rules, to follow the
+rules and register their aircraft before they operate them. But
+that goes across all sectors of aviation, not just the unmanned
+aircraft.
+In terms of the penalties, yes, there are penalties, civil
+penalties for failing to register aircraft, and I believe there
+actually may be a criminal aspect to that as well. For the
+FAA's part, responsible for the civil penalty, if we are made
+aware that someone has operated an aircraft that is not
+registered, we conduct an investigation and then determine
+based on the circumstances whether that is appropriate for
+enforcement and levying of civil penalties, which the FAA has
+conducted approximately 73 enforcement cases at this point.
+Chairman Johnson. So 73 out of about 4 million different
+drones. In yesterday's briefing, we heard of thousands of
+problems, correct? I mean per year, thousands of suspected
+improper use of drones?
+Ms. Stubblefield. And precisely to your point, Mr.
+Chairman, that is why the FAA has focused firmly and quickly on
+remote identification. That is going to enable us to identify a
+drone that is operating with the operator or the owner and be
+able to then follow up for education, for enforcement, for
+support to our law enforcement colleagues to be able to
+actually ascertain what was the intention and what, if any,
+follow up action needs to be taken, be that, like I said,
+education, enforcement, or criminal prosecution.
+Chairman Johnson. Again, I am just trying to lay out the
+reality. This is how many improper uses of drone we detect,
+over how many years engaged in 73 enforcement actions. So there
+is a huge gap between what the reality is and what the
+vulnerability is, and what we really can do from the standpoint
+of governmental authority to really address that fact.
+Let me start with Mr. Glawe then. Again, anything that just
+has to be said, needs to be clarified here?
+Mr. Glawe. Chairman Johnson, no, I think we have covered
+all the threat vectors. I would just say again this threat is
+significant and it is imminent. It is upon us. Terrorist
+organizations, foreign intelligence organizations,
+transnational criminal organizations, criminal actors can use
+this technology and are using this technology on the homeland
+and abroad. This legislation is a very strong first step to get
+the ball rolling on the policies, procedures, technical
+capabilities, and legal authorities to allow law enforcement
+officers in the United States to take the actions needed to
+make the homeland safe.
+Chairman Johnson. Strong but still minimal, correct? I
+mean, this is not going overboard. This is just giving you
+baseline capability that you need as that first step.
+Mr. Glawe. It absolutely is. As a former law enforcement
+officer, I think we are going to need to revisit this as we
+know the vulnerabilities will change.
+Chairman Johnson. I think there would probably be a lot
+more, first, discussion. We need to really discuss the
+complexity of this issue. Ms. Chang.
+Ms. Chang. Mr. Chairman, the clarification that I would
+like to make is about the application of the broad categorical
+exemption for Title 18. We have been asked several times why we
+cannot just carve out those statutes that I just listed and say
+we are exempt from those versus the entire criminal code, and
+there are three primary reasons for that. The first is the
+certainty that we have discussed. If we do not have certainty,
+we have no solution at all because our officers right now
+cannot move forward, and this technology is just evolving so
+fast. And that is why the Administration strongly prefers the
+clear approach in this Committee's bill that is from the same
+approach given to DOD and DOE in the NDAA. And the second is
+fairness. We have been told repeatedly that DOD is somehow
+different, and in their warfighting capacity, they are. But for
+that authority, they did not need this NDAA authority. The NDAA
+that we have been discussing, that piece gave them authority to
+operate domestically, force protection under the Fourth
+Amendment just like our folks. And if our front-line officers
+in uniform and out of uniform are treated differently and given
+less protection, that sends a message they are less valuable
+than their DOD partners.
+And the third is, as you point out, Mr. Chairman, the
+interoperability. There was a news article this morning in
+Reuters about a 2017 incident, an Army Black Hawk that a drone
+collided with it, and this happened at an NSSE. This was a
+National Security Special Event over the U.N. General Assembly.
+In that instance, if we did not have the same authority and the
+same legal regime as DOD, we would not have been able to work
+together and coordinate like we do on NSSEs in other areas, and
+so we need to be able to work together as one team.
+Chairman Johnson. Those were excellent clarifications. Mr.
+Brunner.
+Mr. Brunner. Chairman, I want to start by thanking you very
+much for holding this hearing today. The Department really
+appreciates the ability to be here in front of you, so thank
+you for that.
+I also want to emphasize our commitment to implementing
+this authority in an extremely vigorous manner with respect to
+privacy and civil liberties. I want to make that point for the
+record.
+And then to a question you asked previously, where do we go
+from here? We are in extensive conversations with our State and
+local partners about how we can broaden this authority and how
+we can bring others into the fold. And we talk to the National
+Football League (NFL) and we talk to Major League Baseball, and
+we talk to the Commercial Drone Alliance and the American
+Modelers Association, just to make sure everybody is on board
+of where we are going, what we are trying to do, and how we can
+make this better as we progress.
+So thank you again very much for the opportunity today.
+Chairman Johnson. Well, thank you for your service. Ms.
+Stubblefield.
+Ms. Stubblefield. Again, thank you very much, Chairman, for
+the opportunity to participate today. As one clarification, I
+want it to be crystal clear, sir, that the FAA supports our
+national security partners in DHS and the Department of Justice
+gaining this authority. There is a lot to be learned about how
+to properly use it in the national airspace system and in civil
+environments, and this authority will give us the opportunity
+to start to move farther down that road and hopefully provide a
+road map ahead as we phased-approach move this authority
+forward.
+I would like to mention one thing, though, because there is
+a concern about what are we doing for our State and local
+colleagues. Remote identification will be very key to them. In
+our aviation rulemaking committee, we brought in State and
+local law enforcement, and they said, ``We need to be able to
+find the guy who is operating that drone,'' because in many of
+these situations it is impeding emergency response, police
+activity, or response to an incident on the highway or
+something of that nature, where time is of the essence to get
+critical help into that area. And so that is why we are
+focusing on remote identification.
+The one place we have not talked about today--and you
+talked about gaps that we have--it is the fact that,
+unfortunately, right now we do not have the authority to
+require things like remote identification and basic airspace
+rules across the totality of all UAS operators. We have an
+excellent community of aviation enthusiasts who operate models.
+Unfortunately, we are in a very different place than where we
+were in 2012 where we have a lot of people who are buying a
+UAS, do not now understand that they are part of the national
+airspace system and are injecting safety and security risk into
+the system. And our inability to ensure that they understand
+that they have to follow the rules, that nuance has created a
+lack of compliance. And so that is a space where we still need
+some assistance in being able to put those minimum requirements
+across all operators in the national airspace system, and that
+will also help with our security partners and their ability to
+discriminate threat. The more people we can move into that
+compliant category, the fewer folks that our security partners
+have to worry about and be focused on.
+Thank you, Mr. Chairman.
+Chairman Johnson. Well, the purpose of this hearing, like
+the purpose of just about every hearing of this Committee, is
+the first step in solving a problem, the problem-solving
+process, it is really gathering the information, identifying
+the problem, admitting we have one. I think that has been the
+problem, that we have not just collectively as a society
+understood that, yes, these drones are great, there is so much
+promise, and they can be a lot of fun, but they pose a real
+risk, and our laws just have not kept up with that reality.
+It is true that FAA does support this legislation, correct?
+Go ahead.
+Ms. Stubblefield. Absolutely, Chairman Johnson, it is
+critical that our partners have the tools they need, because a
+robust security framework is critical to moving forward with
+all the promise that you described that UAS bring to our
+economy and to public safety.
+Chairman Johnson. Thank you all for your testimony, for
+your service to this Nation. It would be helpful if, working
+with your other committees of jurisdiction, if asked to brief
+Committee Members, Chairmen, that you do so very quickly. We do
+have a unique opportunity. I did not realize it happened so
+quickly, but I am going to do everything I believe my Ranking
+Member is on the same page; I think my cosponsors are as well--
+about getting this attached to the NDAA so it can become law
+and this first step can actually be initiated, because I think
+it is just critical. Within the dysfunction that is the U.S.
+Congress, I would hate to miss that opportunity, then try and
+pass this in some way, shape, or form, because, again, we just
+saw from the ACLU, there will be critics of this, I think
+completely unjustifiable criticism of it, but this is a really
+great opportunity. So anything you can do within your agencies
+to help grease the skids for attachment to NDAA would be very
+appreciated.
+Again, thank you for your testimony, for your service. The
+hearing record will remain open for 15 days, until June 21st at
+5 p.m., for the submission of statements and questions for the
+record. This hearing is adjourned.
+[Whereupon, at 11:49 a.m., the Committee was adjourned.]
+A P P E N D I X
+----------
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

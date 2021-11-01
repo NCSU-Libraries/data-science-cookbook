@@ -1,0 +1,2411 @@
+- THE STATUS AND OUTLOOK FOR CYBERSECURITY EFFORTS IN THE ENERGY INDUSTRY
+[Senate Hearing 116-247]
+[From the U.S. Government Publishing Office]
+S. Hrg. 116-247
+THE STATUS AND OUTLOOK FOR CYBERSECURITY EFFORTS IN THE ENERGY INDUSTRY
+=======================================================================
+HEARING
+BEFORE THE
+COMMITTEE ON
+ENERGY AND NATURAL RESOURCES
+UNITED STATES SENATE
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+FEBRUARY 14, 2019
+__________
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Printed for the use of the
+Committee on Energy and Natural Resources
+Available via the World Wide Web: http://www.govinfo.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+35-555
+WASHINGTON : 2020
+COMMITTEE ON ENERGY AND NATURAL RESOURCES
+LISA MURKOWSKI, Alaska, Chairman
+JOHN BARRASSO, Wyoming
+JOE MANCHIN III, West Virginia
+JAMES E. RISCH, Idaho
+RON WYDEN, Oregon
+MIKE LEE, Utah
+MARIA CANTWELL, Washington
+STEVE DAINES, Montana
+BERNARD SANDERS, Vermont
+BILL CASSIDY, Louisiana
+DEBBIE STABENOW, Michigan
+CORY GARDNER, Colorado
+MARTIN HEINRICH, New Mexico
+CINDY HYDE-SMITH, Mississippi
+MAZIE K. HIRONO, Hawaii
+MARTHA McSALLY, Arizona
+ANGUS S. KING, JR., Maine
+LAMAR ALEXANDER, Tennessee
+CATHERINE CORTEZ MASTO, Nevada
+JOHN HOEVEN, North Dakota
+Brian Hughes, Staff Director
+Kellie Donnelly, Chief Counsel
+Jed Dearborn, Senior Counsel
+Robert Ivanauskas, FERC Detailee
+Sarah Venuto, Democratic Staff Director
+Sam E. Fowler, Democratic Chief Counsel
+David Gillers, Democratic Senior Counsel
+Brie Van Cleve, Democratic Professional Staff Member
+C O N T E N T S
+----------
+OPENING STATEMENTS
+Page
+Murkowski, Hon. Lisa, Chairman and a U.S. Senator from Alaska....
+1
+Manchin III, Hon. Joe, Ranking Member and a U.S. Senator from
+West Virginia..................................................
+3
+WITNESSES
+Chatterjee, Hon. Neil, Chairman, Federal Energy Regulatory
+Commission.....................................................
+5
+Evans, Hon. Karen S., Assistant Secretary, Office of
+Cybersecurity, Energy Security, and Emergency Response, U.S.
+Department of Energy...........................................
+9
+Keber, Major William J., Executive Officer, West Virginia
+National Guard's Critical Infrastructure Protection Battalion..
+19
+Robb, James B., President and Chief Executive Officer, North
+American Electric Reliability Corporation......................
+24
+Whitehead, David Edward, Chief Operating Officer, Schweitzer
+Engineering Laboratories, Inc..................................
+34
+ALPHABETICAL LISTING AND APPENDIX MATERIAL SUBMITTED
+Chatterjee, Hon. Neil:
+Opening Statement............................................
+5
+Written Testimony............................................
+7
+Responses to Questions for the Record........................
+68
+Evans, Hon. Karen S.:
+Opening Statement............................................
+9
+Written Testimony............................................
+11
+Responses to Questions for the Record........................
+75
+Keber, Major William J.:
+Opening Statement............................................
+19
+Written Testimony............................................
+21
+Responses to Questions for the Record........................
+99
+Manchin III, Hon. Joe:
+Opening Statement............................................
+3
+Murkowski, Hon. Lisa:
+Opening Statement............................................
+1
+Robb, James B.:
+Opening Statement............................................
+24
+Written Testimony............................................
+26
+Responses to Questions for the Record........................
+164
+Whitehead, David E.:
+Opening Statement............................................
+34
+Written Testimony............................................
+36
+Responses to Questions for the Record........................
+170
+THE STATUS AND OUTLOOK FOR
+CYBERSECURITY EFFORTS IN
+THE ENERGY INDUSTRY
+----------
+THURSDAY, FEBRUARY 14, 2019
+U.S. Senate,
+Committee on Energy and Natural Resources,
+Washington, DC.
+The Committee met, pursuant to notice, at 10:09 a.m. in
+Room SD-366, Dirksen Senate Office Building, Hon. Lisa
+Murkowski, Chairman of the Committee, presiding.
+OPENING STATEMENT OF HON. LISA MURKOWSKI,
+U.S. SENATOR FROM ALASKA
+The Chairman. Good morning. The Committee will come to
+order.
+I will just note for the record that today is Valentine's
+Day.
+Senator Manchin. Happy Valentine's.
+The Chairman. Thank you.
+Some people celebrate it with flowers and chocolate. It is
+actually my son's birthday, so we observe it as a birthday
+rather than flowers and chocolate today.
+But here at the Energy Committee what we prefer to do is
+take a deep dive into the very real cyber threats that face our
+electric grid system. Here is the punchline everyone, hold on.
+After all, nothing says love like ensuring the security of our
+critical energy infrastructure. So that is our Valentine's
+statement for the morning from the Energy and Natural Resources
+Committee. You have to love the script writers back here.
+[Laughter.]
+Last week we had a chance to examine the state of energy
+markets and the promise of clean energy innovation. Both of
+these hearings, great hearings by the way, highlighted the
+increased automation and the digitalization of energy
+technologies. While advances in technology are always welcome
+and can help us run things more efficiently, each new digital
+connection opens a potential pathway for bad actors to disrupt
+our energy delivery.
+We know that the threat of cyberattacks by our foreign
+adversaries and other sophisticated entities is real and it is
+growing. Last month's 2019 Worldwide Threat Assessment detailed
+how China, Russia and other foreign adversaries are using cyber
+operations to target our military and our critical
+infrastructure. The assessment notes that our electric grid and
+natural gas pipelines are particularly vulnerable to attack and
+that Russia is mapping our infrastructure with the long-term
+goal of causing substantial damage.
+Unfortunately, we have already seen the real-world
+ramifications of cyberattacks on energy infrastructure. Back in
+December 2015, Russian hackers cut off power to nearly a
+quarter-million people in Ukraine. And in the summer of 2017,
+Russian hackers infiltrated the industrial control system of a
+Saudi Arabian petrochemical plant and disabled the plant's
+safety systems.
+We cannot let a similar attack happen in the United States.
+Our grid system is `uniquely critical' and the consequences of
+a successful cyber incursion would be widespread and
+devastating. The resulting loss of power could impact
+hospitals, banks, cell phone service, gas pumps, traffic
+lights, you name it.
+The government's focus on cybersecurity, in partnership
+with industry, is a major reason that the United States has not
+experienced an attack like Ukraine's. In the 2005 Energy Policy
+Act, Congress created the Electric Reliability Organization. We
+have since certified it as NERC and mandated reliability
+standards to be developed through an industry stakeholder
+process. Protecting our nation's critical assets is a shared
+responsibility, with federal, state, and private sector
+partners working together to improve cyber defenses and
+coordinate responses to cyberattacks.
+The 2015 FAST Act enacted provisions authored by this
+Committee to codify the Department of Energy (DOE) as the
+sector-specific agency for energy sector cybersecurity and
+provide the Secretary with authority to address grid-related
+emergencies. We also enacted provisions to facilitate greater
+information sharing by protecting sensitive information from
+disclosure.
+The Administration is taking steps to address emerging
+cyber threats. Last year, DOE established the new Office of
+Cybersecurity, Energy Security, and Emergency Response, known
+as ``CESER.'' I look forward to learning more about the work
+that is being done by this office. Assistant Secretary Evans
+has been on the job for about six months, so gaining her
+perspective this morning is going to be very useful for us.
+The Department is also partnering with FERC to find
+solutions to energy infrastructure threats. Next month the
+agencies will co-host a technical conference to discuss current
+and emerging cyber and physical security threats, as well as
+ways to incentivize cybersecurity investments. It is important
+that we are seeing these agencies prioritize cybersecurity and
+plan this conference very closely together.
+I am pleased to welcome a very distinguished panel this
+morning. We have Chairman Neil Chatterjee from the Federal
+Energy Regulatory Commission (FERC). We appreciate your
+leadership at the Commission and look forward to your comments
+this morning. I have already mentioned Karen Evans, the
+Assistant Secretary at the Department of Energy working in
+CESER. From the North American Electric Reliability
+Corporation, or NERC, we have Mr. James Robb. We have David
+Whitehead from Schweitzer Engineering Labs (SEL), and we have
+Major William Keber from the West Virginia National Guard
+Critical Infrastructure Protection Battalion.
+I think it is well recognized that the panel we have in
+front of us represents those who are on the frontlines of the
+effort to protect our energy infrastructure from cyber threats.
+Thank you all for being here. I look forward to your
+testimony and comments.
+I will now turn to my Ranking Member, Senator Manchin.
+STATEMENT OF HON. JOE MANCHIN III,
+U.S. SENATOR FROM WEST VIRGINIA
+Senator Manchin. Well, thank you, Madam Chairman, and Happy
+Valentine's Day to you and everybody else out there, men and
+women, mostly the women.
+The Chairman. Men too.
+Senator Manchin. True, it is mostly women.
+[Laughter.]
+A tidbit I read this morning, it was really interesting and
+fitting for today about how we got the name of Saint
+Valentine's Day, or Valentine's Day.
+Saint Valentine, in the second century of the Roman Empire,
+basically, the Roman Emperor, Roman rulers, forbade their
+soldiers from getting married. They thought they were better
+fighters if they did not marry. Saint Valentine, basically, was
+performing marriages because he was a devout Christian, and he
+would say after he would perform the marriage, Happy Valentine.
+And so, it came from Saint Valentine. That is how we got
+Valentine's Day. It was very interesting to hear that, and I
+thought I would share that with you. I don't know if it is
+factual or not, but it sounds good.
+[Laughter.]
+Chairman Murkowski, I want to thank you for convening the
+Committee today to talk about cybersecurity efforts in the
+energy industry. This hearing is particularly timely because
+just a few weeks ago, our Director of National Intelligence,
+Dan Coats, publicly warned of two potential energy
+cybersecurity attack scenarios: a Russian cyberattack that
+could disrupt an electrical network for a few hours and a
+Chinese cyberattack that could disrupt a natural gas pipeline
+for weeks. These threats are not just theoretical.
+We know that in 2015 and 2016, Ukraine suffered two
+devastating power outages as a result of cyberattacks. And
+according to the New York Times, a petrochemical plant in Saudi
+Arabia was hit with an even more serious type of cyberattack in
+2017. That attack was not designed to shut down the plant, like
+the Ukraine power outages. It was meant to ``sabotage the
+firm's operations and trigger an explosion.'' In other words,
+the attack could have taken human lives, but luckily it did
+not.
+I cannot overstate how serious this threat is, and I am
+pleased that Secretary Perry has given this the attention it
+deserves by elevating cybersecurity to an office of its own,
+the Office of Cybersecurity, Energy Security, and Emergency
+Response, or CESER, for short.
+On a personal note, I am also pleased that the first
+Assistant Secretary to run this office is Karen Evans, who has
+not one but two degrees from WVU, a very smart lady.
+I am also especially pleased to have Major Keber of the
+West Virginia National Guard here to share the great work the
+Guard has done for West Virginia in the cybersecurity space.
+My current position as the Ranking Member of the Senate
+Armed Services Subcommittee on Cybersecurity and my time
+serving on the Intelligence Committee further convinced me that
+we need to look at this as a national security priority.
+Energy cybersecurity is national security. Period.
+Absolutely. In fact, there are two items I raised in the Armed
+Services Committee in our first cybersecurity hearing that are
+equally relevant in the energy space.
+First, supply chain security has emerged as a significant
+focus in both spaces. We have to make sure the companies that
+build components for our grid are secure. We have to protect
+against vendors' remote access of the grid being exploited, and
+we have to make sure that attackers do not insert malware into
+a vendor software update.
+Second, our cyber workforce is in crisis. We simply do not
+have enough cyber workers to fill the positions. Forbes reports
+that by 2021, there will be as many as 3.5 million, I repeat,
+3.5 million unfilled positions. Yes, a big part of this is
+about getting training, but let's not put the cart before the
+horse. It is also about bringing these jobs to the areas that
+need them.
+I think that is where there is an opportunity here for
+states like West Virginia and Alaska to fill the gap. I know
+that Major Keber will speak to this a bit more, but the West
+Virginia National Guard is one of the few National Guard units
+with access to a decommissioned power plant for workforce
+training, and they are increasing their workforce development
+efforts.
+I look forward to hearing from our witnesses about how the
+nation can rise to this challenge while strengthening the
+economies of places like West Virginia and Alaska. I look
+forward to hearing from our witnesses about how the nation can
+rise to this challenge while strengthening the economies in
+places like Southern West Virginia and rural Alaska. And I
+think it will require collaboration between all entities,
+including those represented by our witnesses here today, to get
+where we need to go.
+My little State of West Virginia has been a leader on
+energy supply and reliability for this country. But unless
+cybersecurity challenges are addressed head on, it won't matter
+how much supply we have. We must do everything we can to
+protect and ensure the security of our infrastructure. As we
+kick off that conversation in this new Congress, I am glad to
+have this great panel here today to share their outlook for
+cybersecurity in the energy industry.
+Thank you, Madam Chairman.
+The Chairman. Thank you, Senator Manchin.
+We will now turn to our witnesses. I introduced everybody,
+so we will just go ahead and proceed.
+We will begin with you, Chairman Chatterjee. We would ask
+that you all try to keep your comments to about five minutes.
+Your full statements will be incorporated as part of the
+record. Again, we appreciate the level of expertise that you
+bring to this very, very important discussion.
+Chairman Chatterjee.
+STATEMENT OF HON. NEIL CHATTERJEE, CHAIRMAN, FEDERAL ENERGY
+REGULATORY COMMISSION
+Mr. Chatterjee. Chair Murkowski, Ranking Member Manchin,
+and Members of the Committee, thank you for inviting me to
+appear before you today to discuss the cybersecurity in the
+energy sector. I appreciate the Committee's attention to this
+crucial subject and the role that the Federal Energy Regulatory
+Commission plays in securing our nation's critical
+infrastructure.
+I'd like to take this opportunity to highlight three major
+issues for the Committee. First, the evolution of mandatory
+reliability standards; second, the voluntary partnerships FERC
+has established with industry and other agencies; and third,
+the interdependency of the electric and natural gas systems.
+Turning first to the topic of Mandatory Reliability
+Standards. As part of the Energy Policy Act of 2005, Congress
+gave the Commission the authority to approve and enforce
+mandatory reliability standards for the nation's bulk power
+system, including for cybersecurity.
+As I'm sure Jim Robb will discuss in greater detail, EPACT
+'05 established a joint responsibility between the Commission
+and NERC as the designated electric reliability organization
+for developing and enforcing the reliability standards. Because
+of the unique relationship between our organizations,
+maintaining an open and collaborative relationship between NERC
+and the Commission has been a top priority during my tenure.
+I'd like to thank Jim and the rest of the team at NERC for
+their dedicated efforts, and I look forward to continuing our
+important work together.
+NERC's standards for cybersecurity, known as the Critical
+Infrastructure Protection, or CIP, standards became mandatory
+and enforceable in 2009. Since 2009, the CIP standards have
+matured considerably and now form an effective framework for
+protections against cyber threats. The evolution of these
+standards has reduced the need for constant revisions to
+address discreet issues and instead has allowed both FERC and
+NERC to focus on tackling emerging threats. In particular, I'd
+like to call the Committee's attention to two important actions
+that the Commission has recently taken on this front.
+First, at our Commission meeting last October, FERC
+approved reliability standards to address supply chain threats.
+By exploiting vulnerabilities in the electric utility supply
+chain, adversaries can seize on a variety of opportunities to
+compromise critical systems. While supply chain vulnerabilities
+are some of the most important to address, they're also some of
+the most difficult to mitigate. This is because today's
+utilities rely on a highly integrated, global supply chain to
+meet their business needs. Leveraging this modern network of
+vendors can provide utilities with significant benefits but it
+also presents difficulties in comprehensively identifying
+risks. While there is no silver bullet to mitigate supply chain
+risks, I believe this standard is a significant step in the
+right direction.
+Second, at our meeting last July, the Commission approved a
+final rule directing NERC to expand reporting requirements for
+critical systems. That rule directed NERC to develop a standard
+requiring registered entities to report both successful and
+attempted intrusions into critical systems to NERC's
+Electricity Information Sharing and Analysis Center, as well as
+to the Department of Homeland Security. This final rule
+represents another important step toward mitigating risks by
+enhancing the collection and distribution of information on
+rapidly evolving threats.
+While the NERC CIP standards form an important baseline,
+compliance alone is not enough to achieve cybersecurity
+excellence. That's why the Commission has adopted a two-prong
+approach to address threats to energy infrastructure, mandatory
+reliability standards overseen by our Office of Electric
+Reliability and voluntary initiatives overseen by our Office of
+Energy Infrastructure Security, also known as OEIS.
+OEIS engages with partners in industry, states, and other
+federal agencies to develop and promote best practices for
+critical infrastructure security. These initiatives include,
+among other things, voluntary architecture assessments,
+classified briefings for state and industry officials, and
+joint security programs with other government agencies in the
+private sector. Because the responsibility for securing
+critical infrastructure is shared across the public and private
+sector, I am a strong supporter of our efforts to continue
+strengthening these partnerships.
+As part of that objective, the Commission continues to work
+collaboratively in this area and will be hosting a joint
+technical conference on March 28th with the Department of
+Energy to discuss investments for cyber and physical security.
+The conference will explore current threats against energy
+infrastructure, best practices for mitigation, incentives for
+investing in physical and cybersecurity protections and cost
+recovery practices at both the state and federal level. And
+there's one final area where I believe continued partnership
+across industry and government will be essential. Because of
+our nation's growing use of natural gas for power generation,
+I'm increasingly concerned about the security of our natural
+gas pipeline system.
+Last year I joined my colleague, Commissioner Rich Glick,
+in an op-ed, detailing how a successful cyberattack on the
+system could have a significant impact on the electric grid.
+Given this vulnerability, Commissioner Glick and I expressed
+our view that more must be done to ensure robust oversight for
+natural gas pipeline cybersecurity. Since the publication of
+that op-ed, I've been pleased to hear from many members of the
+natural gas pipeline community who have expressed their
+appreciation for these concerns and a willingness to continue
+taking steps to improve their security posture. I also recently
+met with TSA Administrator David Pekoske and was impressed by
+his focus on this vital issue as well as his pledge to further
+improve TSA's oversight of pipeline security.
+While I think both industry and government have made
+significant strides, I believe more work still needs to be
+done. The Commission stands ready to assist in these efforts
+wherever we can.
+Now before I conclude my opening statement, I want to thank
+each of you, again, for your efforts in this space and your
+time to engage in this conversation today. These are complex
+issues and they won't be solved easily, but I appreciate the
+opportunity to come before you today, and look forward to
+continuing this essential dialogue.
+[The prepared statement of Mr. Chatterjee follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Chairman Chatterjee.
+Welcome, Assistant Secretary Evans.
+STATEMENT OF HON. KAREN S. EVANS, ASSISTANT SECRETARY, OFFICE
+OF CYBERSECURITY, ENERGY SECURITY, AND EMERGENCY RESPONSE, U.S.
+DEPARTMENT OF ENERGY
+Ms. Evans. Chairman Murkowski, Ranking Member Manchin and
+members of the Committee, thank you for the opportunity to
+discuss the continuing threats facing our national energy
+infrastructure. Focusing on cybersecurity, energy security and
+the resilience of the nation's energy systems is one of
+Secretary Perry's top priorities.
+By the Secretary proposing and Congress affirming the
+Office of Cybersecurity, Energy Security, and Emergency
+Response, also known as CESER, the Secretary clearly
+demonstrated his commitment to achieving the Administration's
+goal of energy security and, more broadly, national security.
+Our nation's energy infrastructure has become a primary
+target for hostile cyber actors, both state sponsored and non-
+state sponsored. The frequency, scale and sophistication of
+cyber threats have increased. Our cyber incidences have the
+potential to disrupt energy services, damage highly specialized
+equipment and even threaten human health and safety.
+The Director of National Intelligence along with several
+heads of the Administration's Intelligence agencies recently
+stated in written testimony that China has the ability to
+launch cyberattacks that cause localized, temporary, disruptive
+effects on critical infrastructure such as the disruption of a
+natural gas pipelines for days to weeks. Russia also has
+similar abilities with the capability to disrupt an electrical
+distribution network for at least a few hours, similar to those
+demonstrated in the Ukraine in 2015 and 2016.
+The release of the President's National Cyber Strategy,
+also known as NCS, in September, reflects the Administration's
+commitment to protecting America from cyber threats. The
+Department of Energy plays an active role in supporting the
+security of our nation's critical energy infrastructure in
+implementing the NCS.
+As a result, energy cybersecurity and resilience has
+emerged as one of the nation's most important security
+challenges and fostering partnerships with public and private
+stakeholders is of the utmost importance for me, as the
+Assistant Secretary of CESER.
+CESER and its predecessor organization have demonstrated
+the emergency response function through multiple weather
+events, including hurricanes, by activating our emergency
+response organization. In 2018, CESER responded to over a wide
+range of incidences, including six hurricanes, three wildfires,
+two typhoons, a cyclone, an earthquake and a volcano eruption.
+Recently we worked closely with the federal industry and state
+partners to monitor the impact to the energy sector in the
+January 2019 Arctic Blast that affected central and eastern
+portions of the nation.
+However, today I would like to focus my testimony primarily
+on the cybersecurity function of the office and how CESER will
+meet the priorities of the Administration and work in
+conjunction with our federal agencies, state, local, tribal,
+territorial governments, industry and our national lab
+partners. The Secretary has conveyed that he has no higher
+priority than to support the security of our nation's critical
+energy infrastructure.
+CESER has the Department's lead to secure our nation's
+energy infrastructure against all hazards, reduce risks of and
+impacts from cyber events and disruptive events and assist with
+restoration activities. The office enhances the Department's
+ability to dedicate and focus attention on DOE sector-specific
+agency responsibilities and will provide greater visibility,
+accountability and flexibility to better protect our nation's
+energy infrastructure and support asset owners as well as the
+overall critical infrastructure response framework, as overseen
+by DHS.
+Establishing CESER is the result of the Administration's
+commitment to and prioritization of energy security and
+national security. Our long-term approach strengthens our
+national security and positively impacts our economy. As CESER
+moves forward, we are taking the first steps in
+transformational change to achieve the Secretary's priority of
+emergency preparedness and rapid, coordinated response to
+disruptions in the energy sector.
+I appreciate the opportunity to appear before this
+Committee to discuss cybersecurity in the energy sector and I
+applaud your leadership. I look forward to working with you and
+your respective staffs to continue to address cyber and
+physical security challenges.
+[The prepared statement of Ms. Evans follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Assistant Secretary.
+Major Keber, welcome to the Committee.
+STATEMENT OF MAJOR WILLIAM J. KEBER, EXECUTIVE OFFICER, WEST
+VIRGINIA NATIONAL GUARD'S CRITICAL INFRASTRUCTURE PROTECTION
+BATTALION
+Major Keber. Good morning, Chairman Murkowski, Ranking
+Member Manchin, and members of the Committee. Thank you for the
+invitation and opportunity to participate in today's hearing on
+the Status and Outlook for Cybersecurity Efforts in the Energy
+Industry.
+My name is Major William Keber. I'm the Executive Officer
+for the West Virginia National Guard's Critical Infrastructure
+Protection Battalion, currently serving in a Title 32 status.
+Our organization is a distinctive one that conducts assessments
+and training to improve the security and operation of our
+nation's critical infrastructure.
+Since 2005, we have conducted infrastructure protection
+assessments and training events for the Department of Energy,
+Department of Transportation, Defense Industrial Base, the
+Department of Homeland Security and the Department of Defense.
+To date, our teams have conducted over 3,500 assessments and
+2,600 training events, educating over 59,000 individuals. We
+have conducted assessments in support of national events such
+as the State of the Union, Republican and Democratic National
+Conventions, the National and World Scout Jamborees and the
+Superbowl.
+The West Virginia National Guard CIP Battalion has a
+diversified portfolio that currently supports DHS, Department
+of the Army and the United States Coast Guard. We support DHS'
+cybersecurity infrastructure security agency with training,
+assessment support and infrastructure image captures. We
+support the U.S. Coast Guard by conducting their port security
+and resiliency assessments and the Department of Army by
+conducting mission assurance assessments and training.
+The CIP Battalion has always assessed networks and
+communication architectures against cybersecurity concepts and
+principles but never had the authorities to conduct deep
+analysis on the network. Assessment teams were relegated to
+questioning site representatives through interviews and
+annotating their physical observations. Recent Congressional
+legislation has opened the doors to evaluate cybersecurity and
+thereby allowing us to expand our capabilities and
+methodologies.
+The West Virginia National Guard has developed a
+relationship with the cybersecurity branch at NASA's
+Independent Verification and Validation Office. Members of this
+team have years of experience conducting blue and red team
+cyber assessments against some of our nation's most complex
+technical architectures. The collaborative sharing of best
+practices has significantly enhanced our organization's
+assessment teams.
+We are currently working in conjunction with a
+cybersecurity community of interest that includes Army cyber,
+NASA, Idaho National Labs, the National Security Agency, the
+Threat Systems Management Office, the Navy and the U.S. Army
+Corps of Engineers to formalize our approach and bring together
+the best practices from each of these organizations.
+We are working to develop a comprehensive approach and
+methodology for our cyber assessments. We will cover key cyber
+infrastructure areas such as the perimeter, networks and points
+applications, control systems and especially the policies and
+procedures to govern them. We plan to conduct network
+architecture reviews, traffic analysis, policy and procedure
+document review, access control evaluation and wireless
+vulnerability assessments.
+Most importantly, we are striving to replicate these
+systems in a lab environment to research potential
+vulnerabilities, determine possible attack vectors, test
+resiliency, identify systemic concerns and evaluate impacts in
+a safe manner. We will document our findings and incorporate
+risk mitigation recommendations into the Army's preexisting
+remediation processes.
+The West Virginia National Guard and the regular Army have
+contributed to enhancing workforce development by sending team
+members to specialized training. The West Virginia National
+Guard has organized cybersecurity training in partnership with
+the University of Charleston.
+Additionally, we have utilized our access to a
+decommissioned power plant in West Virginia. We utilize this
+facility to give trainees the opportunities to see firsthand
+the vast systems involved with industrial systems and power
+generation.
+Our Army partners have organized training at Idaho National
+Labs, SANS and other Army training opportunities. The CIP
+Battalion team's citizen soldiers have unique professional
+experiences providing distinct benefits. We have engineers,
+master electricians and network administrators that have
+decades of industrial experience. They can serve on an active
+status with us or in traditional reserve status, later
+returning to industry providing valuable skills and knowledge.
+To summarize, the West Virginia National Guard CIP
+Battalion is uniquely positioned to provide the Department of
+Defense and other related sectors insight and assistance
+pertaining to infrastructure protection and cybersecurity. We
+will continue to move forward with our efforts to expand our
+cybersecurity activities and help more organizations secure
+this great nation of ours.
+Thank you again for this opportunity to discuss our efforts
+to enhance cybersecurity within the West Virginia National
+Guard at today's hearing.
+[The prepared statement of Major Keber follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Major.
+Welcome, Mr. Robb.
+STATEMENT OF JAMES B. ROBB, PRESIDENT AND CHIEF EXECUTIVE
+OFFICER, NORTH AMERICAN ELECTRIC RELIABILITY CORPORATION
+Mr. Robb. Good morning, Chairman Murkowski, Ranking Member
+Manchin and members of the Committee. This is my first
+appearance before the Committee as NERC's CEO, and I appreciate
+the invitation very much to discuss the status and outlook for
+cybersecurity in the electricity sector.
+As you pointed out in your opening comments, Chairman,
+electricity supports every aspect of our way of life and well-
+being. While to date there's been no successful cyberattack
+that's resulted in any loss of load in the United States, the
+threats are very real and the potential consequences severe.
+While all sectors of the economy are increasingly targets
+for data theft, ransomware and other criminal activity, the
+electricity sector, in particular, has taken the cyber threat
+very seriously and has put in place a robust system to provide
+protection for critical infrastructure. We find that boards and
+executive leadership provide very strong support and focus and
+set cybersecurity as a top priority for their organizations.
+In recent years we've seen an increase in the
+sophistication and frequency of cyber threats. The major
+threats include phishing, malware, physical attacks and theft.
+Spear phishing, in particular, with credential harvesting
+objectives is one of the most common attacks because it's
+proven to be so effective and relatively easy to execute.
+Nation states and terrorist groups are persistent threats,
+a reminder that security requires constant vigilance.
+NERC and our work employs a three-pronged approach to
+support the security of the bulk power system. Our approach
+includes mandatory and enforceable standards, as Chairman
+Chatterjee mentioned earlier, information sharing and
+partnerships. Together they form a solid foundation of best
+practices and strategies necessary to effectively confront this
+ever-evolving threat.
+NERC's mandatory critical infrastructure protection
+standards provide a common foundation for security. Our
+standards are developed using subject matter expertise from
+industry through a FERC-approved process and then reviewed and
+approved by NERC's independent board of trustees and then by
+the FERC.
+The CIP standards require companies to establish plans,
+protocols and controls that protect their critical systems
+against cyberattack, ensure the personnel are adequately
+trained on cyber hygiene, timely report security incidents to
+us and then be able to recover from events.
+Electricity is the only critical infrastructure with
+mandatory cyber standards. Compliance with those standards is
+routinely audited and non-compliances are subject to financial
+penalty.
+However, while critical to the security equation, standards
+alone are clearly insufficient. The emerging dynamic nature of
+malicious cyber threats requires constant situational
+awareness, real-time communications that are effective and
+prompt emergency response capabilities. That's where
+information sharing comes in. NERC's Electricity Information
+Sharing and Analysis Center, or the E-ISAC, provides these
+services and supports industry cyber defense. Operated by NERC,
+but working in collaboration with DOE and the Electricity
+Subsector Coordinating Council, the E-ISAC is the central hub
+for the sharing of security information within the electricity
+sector. The E-ISAC communicates with over 1,000 electric
+industry organizations via a secure portal with critical
+security information that is provided both by industry and
+government. We conduct periodic webinars and critical broadcast
+calls to rapidly communicate key insights and threats to
+industry.
+For the most serious of threats, NERC alerts are used to
+provide concise, actionable security information and mitigation
+strategies to industry. NERC alerts are divided into three
+levels and can require companies to positively affirm back to
+us that they have successfully mitigated the threat. Since
+2009, we've issued 46 security-related alerts, 41 of those were
+cyber-related.
+Partnerships, however, form the third plank for security
+and the preeminent partnership in the electricity sector is
+something we call the CRISP Program, the Cyber Risk Information
+Sharing Program. Conceived by the DOE and managed by the E-
+ISAC, CRISP uses innovative technology developed by the
+Department of Energy and the national laboratory system to
+monitor cyber activity on company systems.
+CRISP companies currently cover approximately 75 percent of
+the meters in the United States and we are working to further
+expand that program. Indicators and threat actor information
+captured by CRISP is then shared to the entire E-ISAC
+membership base. So it's shared beyond the direct participants
+in CRISP so that everyone can benefit from those insights.
+Another key partnership is NERC's GridEx exercise. GridEx
+is the largest geographically distributed security exercise for
+the electricity sector. It's conducted every other year and
+simulates a widespread, coordinated physical and cyberattack
+designed to overwhelm even the most prepared of organizations.
+In 2017, 6,500 individuals and 450 organizations participated
+in GridEx IV, and we'll be launching GridEx V this November on
+November 13th and 14th.
+Looking ahead, however, there are many challenges for us to
+address and those include strengthening cross sector
+partnerships to facilitate better information sharing and
+coordination between critical infrastructure segments,
+developing more advanced and nimble tools to stay ahead of
+adversaries, securing electronic devices that are connected
+behind the meter, expanding the declassification and
+dissemination of critical information and developing a strong
+cyber-aware and cyber-capable workforce.
+Thank you again for the opportunity to discuss NERC's
+responsibilities for cybersecurity, and I look forward to
+questions.
+[The prepared statement of Mr. Robb follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Mr. Robb.
+Mr. Whitehead, welcome.
+STATEMENT OF DAVID EDWARD WHITEHEAD, CHIEF OPERATING OFFICER,
+SCHWEITZER ENGINEERING LABORATORIES, INC.
+Mr. Whitehead. Chair Murkowski, Ranking Member Manchin, and
+members of the Committee, thank you for the opportunity to
+share the views of Schweitzer Engineering Laboratories on the
+important topic of securing our critical infrastructure from
+cyber threats.
+SEL is an employee-owned U.S. manufacturer and provider of
+products, systems and services for the protection, monitoring,
+control, automation and metering of utility and industrial
+electric power systems worldwide. Our mission is to make
+electric power safer, more reliable and more economical. We are
+headquartered in Pullman, Washington, and employ 3,700 folks in
+the United States with a total of 5,200 employees worldwide.
+As highlighted by today's hearing, cybersecurity is a
+critical component for the secure and reliable operation of
+electric power systems. For 35 years, SEL has emphasized the
+importance of security in the products and solutions we create.
+Whether it's regulatory compliance, securing power system
+assets or protecting operational network technologies, SEL
+offers security-focused solutions to help utilities protect
+electric networks and help vital industries protect their
+assets.
+Today, I'd like to highlight three topics that I believe
+are critical to the cybersecurity challenges we face in the
+energy industry and our nation. First, I will review what we
+see as an essential role of government, ``teaching the
+threat''; second, I will discuss the difficult task of
+balancing regulation and innovation; and third, I will provide
+a few examples of how industry is actively addressing
+cybersecurity threats.
+My point one, teaching the threat. We read in the news
+weekly, sometimes daily, about advanced, persistent threats
+from nation-states. Clearly, our adversaries are becoming more
+sophisticated in the way they target our critical
+infrastructure. We are constantly having to evolve our thinking
+and innovate against these threats.
+At SEL and other like-minded companies, we have some of the
+best engineers in the world doing just that. What we do not
+have is the access to the vast and sophisticated intelligence
+and information gathering that exists in our country. The U.S.
+Government has the capability to identify, classify and
+communicate these threats. At SEL, we take cybersecurity
+threats very seriously, and we act immediately when we receive
+information.
+Building out a more robust system of communication where
+government agencies move quickly and efficiently to share
+important information, to teach us about the potential or
+actual threats, will not only make our systems or will make our
+systems more secure.
+Point two, balancing regulation and innovation. SEL is a
+company built on the foundation of innovation. At the entrance
+of our research and development building in Pullman,
+Washington, these words are boldly displayed, ``The best way to
+predict the future is to invent it.''
+Innovation and regulation do not have to be at odds with
+each other. Regulations, however, are often implemented as a
+reaction to an undesired event. As soon as a regulation is
+enacted to address a specific issue or event, bad actors are
+already looking for other avenues of exploitation.
+Regulations have the capacity to limit how an institution
+may go about solving a problem. And further, regulations will
+never be able to anticipate new or innovative solutions. There
+are clear and obvious needs for standards and regulations and
+we are always ready to work together to create solutions, but
+we would encourage or we should be encouraged to work together
+in finding ways to continue fostering critical innovation that
+outpaces our adversaries. We cannot allow bad actors, who are
+unconstrained by regulations, to outpace us.
+And point three, industry is actively addressing
+cybersecurity threats. There is so much cutting-edge work being
+done in our industry to keep ahead of cyber threats. During the
+past 35 years since the development of our first product, SEL
+has continued to advance cybersecurity solutions. As systems
+become more integrated, we have moved from a, or we moved to a,
+security-in-depth approach, building layers of security so that
+systems are not dependent on one security feature, but instead
+consist of many layers. And solutions range from simple to very
+sophisticated.
+I remind folks never to connect critical infrastructure to
+the internet and to audit this which is certainly a very simple
+solution and then there's new technologies evolving like
+Software-Defined Networking which I'm convinced is the solution
+for engineered and cyber-secured industrial networks which is
+certainly a more sophisticated and technically advanced
+solution.
+The Federal Government is not the only entity paying
+attention to cybersecurity, industry is addressing
+cybersecurity too. Last week, I had the opportunity to attend
+DistribuTECH, a very large, electric power industry conference
+in New Orleans. It was exciting to see cutting-edge cyber
+solutions being offered by both new startups and well-
+established suppliers. There are many brilliant minds working
+diligently to solve cybersecurity challenges.
+As new threats emerge, and they will, industry and
+government must work together and learn from each other to
+effectively secure our critical infrastructure. And I know we
+can.
+Thank you for the opportunity to testify, and I look
+forward to the questions you may have.
+[The prepared statement of Mr. Whitehead follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Mr. Whitehead.
+I think your comments really sum it up neatly.
+Specifically, how do we stay ahead of the bad actors? To use
+your words, the best way to predict the future is to invent it,
+but that requires us to be nimble and flexible, to be quick.
+You mentioned that it would be helpful if government agencies
+moved more quickly to share information.
+One of the things that we are not really adept at here in
+the Federal Government is moving quickly and sharing things
+readily. It speaks to the reality of this problem that we are
+reckoning with, not just here in the Energy Committee but
+across all of these Committees, whether you are on SASC or you
+are on Commerce or Homeland, this is impacting all of us.
+You have suggested, Mr. Whitehead, that some regulations
+can inhibit the process of invention. We would like to think
+that some regulation can actually help incentivize more
+investment, which I hope is the purpose of the joint conference
+that FERC and DOE are going to be hosting, called Security
+Investments for Energy Infrastructure.
+So, just a quick conversation this morning with you, Mr.
+Chairman, Assistant Secretary, and Mr. Whitehead. Exactly what
+options are out there to help facilitate this ability, this
+innovation, so that we have the investment that will line up
+behind it because you cannot have one without the other.
+Do you want to start off, Mr. Chairman?
+Mr. Chatterjee. Thank you for the question, Chair
+Murkowski.
+As I mentioned in my opening remarks, the Commission takes
+a two-pronged approach to address much of what you and Mr.
+Whitehead just laid out.
+We have mandatory reliability standards overseen by our
+Office of Electric Reliability but I firmly believe that those
+standards are the floor, not the ceiling. And that is why the
+second prong of our approach through our Office of Energy
+Infrastructure Security on focusing on voluntary best
+practices. Coordinating with other agencies is so critical to
+keep up with these, with the required information sharing that
+is necessary and these fast-evolving threats that we're dealing
+with.
+The Chairman. Do you think we share information quickly
+enough and adequately enough?
+Mr. Chatterjee. I think the efforts that Secretary Perry
+and Deputy Secretary Brouillette have led through the Electric
+Sector Coordinating Council have been effective. We've got the
+appropriate agencies and industry and stakeholders at the
+table, but we need to be smarter and better. We can always be
+better.
+I'm looking forward to the joint technical conference to
+make sure that as we look at cyber and physical protections
+that we have the right incentives policy in place. And that's
+really an important role that FERC can play in ensuring that
+those incentives to take on those risks are there so that we
+attract the right kind of investment focused on these physical
+and cyber threats.
+The Chairman. I appreciate that.
+Under Secretary?
+Ms. Evans. So I'd like to approach it a couple different
+ways based on what we've talked about today.
+The CESER office is actually looking at this challenge in
+concurrent paths, not sequential paths. There are specific
+things that we have to be able to do in order to respond and
+understand what's going on, and I think a lot of that deals
+with the information sharing.
+It's clear with what Chairman Chatterjee has said and the
+leadership and the partnership that we have with the E-ISAC and
+our electricity subsector coordinating council as well as the
+oil and natural gas coordinating council. So a lot of that
+information is being shared.
+A specific example I would like to share is that this
+Administration and we have been very forward leaning with
+attribution and then doing a full, multi-pronged approach with
+indictments as well as sanctions and then putting context
+around the information as to what is the threat and then how do
+you manage that. And then we share it out through the E-ISACs.
+But the other thing that we most recently have done on
+February the 6th, the Department has sent out a notice of
+intent, and you're going to hear me reference this a lot, which
+is the ``Clean Energy Manufacturing Innovation Institute:
+Cybersecurity in Energy Efficient Manufacturing'' because to
+me, that is how we get to the innovative leap ahead types of
+things.
+Everything that everyone has talked about, about building
+it into software, being able to manage ahead, taking care of
+innovation, that is the vision of what this manufacturing
+institute will do. And looking at a lot of the things that we
+have learned as an industry across the board and building it in
+so that we can take advantage of the technology.
+The Chairman. Thank you.
+Mr. Whitehead, is this going to help?
+Mr. Whitehead. What I think the biggest help we see right
+now is having forums this like where I had the opportunity to
+meet with Mr. Robb this morning for lunch and the information
+sharing that is set up right now with members and government is
+really the asset owner, so the Baltimore Gas and Electrics, the
+PEPCOs and so on and so forth.
+Where I think, for my request, is we're off one derivative
+though because I'm the manufacturer of these devices that are
+getting installed by the asset owners. And so, if there is a
+cyber threat or one of these activities going on, I think we're
+the most skilled in ascertaining what is the impact of a
+particular cyber threat because we're the ones writing the
+code, developing the hardware. So getting us looped in as
+quickly as possible if there's an attack out there and setting
+up mechanisms so it's, we refer to it as a JITE type of
+information exchange, I think it would really move us forward
+in terms of being able to secure our critical infrastructure.
+The Chairman. Thank you.
+Senator Manchin.
+Senator Manchin. Thank you, Madam Chairman. I thank all of
+you for your appearance today.
+Many in this room, myself included, spent time at
+substations and know how physically vulnerable they used to be.
+In April 2013, attackers with rifles shot 17 transformers at a
+Metcalf, California substation. Before the attackers opened
+fire on the transformers, fiber optic lines running nearby were
+cut.
+Since then, NERC has proposed standards requiring
+transmission owners to address physical security risk and
+vulnerabilities that could impact the reliable operation of the
+grid.
+Mr. Robb and Chairman Chatterjee, I want to ask quickly,
+how has the physical security of the grid, specifically at
+substations, improved since those attacks? Very quickly, if you
+will.
+Mr. Robb. Now that the physical security standard you
+referenced has been put in place, all of the utilities in the
+country have had to identify critical assets within their
+jurisdiction and when we have to verify that they did the
+assessment of what's critical correctly and then they have to
+have a credible hardening plan against them. So not every
+substation in the country is subject to that protection
+standard, but the critical ones are and those actions have been
+put in place.
+Mr. Chatterjee. I agree with what Mr. Robb has said. You
+know, the important part is identifying, you know, where those
+critical substations are and where those key interconnections
+are and we have to remain, you know, vigilant on this.
+Senator Manchin. Let me go into this then.
+Just a week and a half ago, NERC issued the largest ever
+fine for 127 violations of physical and cybersecurity
+standards. As a general matter, many in the electrical sector
+have viewed the NERC standards as effective at establishing a
+baseline for cybersecurity.
+It is also my understanding large utilities often have more
+resources available to them than the smaller utilities to make
+the necessary security investments.
+So, again, my question would be as the entity responsible,
+Mr. Robb, for enforcement and imposing fines, what is your view
+of the current state of compliance across the country?
+Mr. Robb. So, in general, the industry has taken security
+very, very seriously and I think one of the important things to
+note about the CIP standards is one, they're relatively new to
+the industry. And most all of the violations that we process,
+including many in the enforcement action you referenced,
+Senator, are voluntarily reported, detected through detective
+controls within the entities. And I think that, in and of
+itself, shows the level of diligence and seriousness with which
+industry approaches this.
+I think your question about the resources of large versus
+small entities is a very insightful question. One of the things
+that we have done with our substandards is try to take a very
+thoughtful, risk-based approach to make sure that those
+entities, those assets, those functions, if you will, elements
+that propose the highest risk to reliability are more
+thoroughly protected and for lower risk entities and so forth,
+that they are, they have a baseline----
+Senator Manchin. Are there resources available to the
+smaller utilities so that they can maintain the security they
+need?
+Mr. Robb. I can't speak, obviously, for every utility in
+the country.
+One of the----
+Senator Manchin. No, I am saying do we have programs in
+place, government programs, because of the necessity of
+security, to make sure that smaller utilities are still meeting
+the highest security standards we have?
+Mr. Robb. The small utilities are required to be compliant
+for those functions that they are responsible for.
+One of the other initiatives that the industry has put in
+place though is something called Cyber Mutual Assistance.
+Senator Manchin. Okay.
+Mr. Robb. So that if an entity that is resource constrained
+suffers a cyber event or a physical event, that in the same way
+that the industry will muster resources to help in storm
+recovery and so forth, will also deploy resources to help in
+cyber recovery.
+Senator Manchin. Every two years, the North American
+Electric Reliability Corporation Grid Security Exercise, called
+GridEx, challenges utilities and state and local governments to
+respond to realistic cyber or physical security threat
+scenarios.
+Major Keber, from our little State of West Virginia, are
+you all participating? Do you participate in GridEx?
+Major Keber. Sir, to date, I have not personally, but yes,
+we do send other members that are working in our cybersecurity.
+Senator Manchin. Are all states represented? Do we know who
+is participating in GridEx so we can basically evaluate their
+proficiency?
+Mr. Robb. I can't affirm that every state does, but I'm
+pretty sure they all do.
+Senator Manchin. And?
+Major Keber. Yes, sir, I have heard that there is good
+representation from other states to include West Virginia's
+participation in the national GridEx exercise.
+Senator Manchin. Thank you, Madam Chairman.
+Thank you, all, I appreciate it.
+The Chairman. Senator Risch.
+Senator Risch. Thank you, Madam Chairman.
+First of all, I want to welcome Mr. Whitehead here. We are
+honored to have a good chunk of Schweitzer Engineering
+Laboratories in Idaho. Mr. Whitehead, I think, was very modest
+in his description of what the company does. You indicate you
+have 5,200 employees around the world. How many countries do
+you operate in, Mr. Whitehead?
+Mr. Whitehead. We have product in about 146 different
+countries, so we certainly have a global presence.
+Senator Risch. Yes.
+Schweitzer Engineering was founded by a genius of a man,
+Edward Schweitzer, who is a former NSA employee, interestingly
+enough. And he is the driving force right now behind the
+establishment of an NSA museum here in Washington, DC.
+The products that they put out are legendary around the
+world, and we are glad to have you.
+You and I have talked a little bit about this but when I
+started about ten years ago on this, well, on this Committee
+and the Intelligence Committee, the cyber thing was becoming
+obviously a big issue. At that point the private industry was
+very, very reluctant to engage the United States Government in
+its activities and particularly to disclose to them what kinds
+of things they were doing, what they had, et cetera, et cetera.
+After a couple of few incidents the private sector and, by
+the way I understand where they were coming from on this, but
+after a couple of few incidents the private sector had a rude
+awakening and now that whole situation has changed
+dramatically.
+Do you agree with that assessment, that the private sector
+has realized that they are not big enough to individually take
+on this cyber threat?
+Mr. Whitehead. I think there's certainly a lot of talent
+within the private sector to go about solving problems.
+Certainly, the challenge we have in the private sector is
+knowing all of the threats that may be coming at our critical
+infrastructure.
+And I think, again, that's where the government plays a
+great role. They have a lot of resources to understand, attack
+vectors and who may be the threat actors challenging our
+systems. So the ability to work with the government to quickly
+exchange information, tell us what's going on, by us being the
+individual manufacturers or the asset owners, being able to
+tell us what the threat is or teach us what the threat is. We
+have a lot of brilliant minds that then can figure out how to
+mitigate those threats and come up with new solutions to
+protect our critical infrastructure.
+Senator Risch. It has become a much more robust partnership
+then, would you agree with that, between the private sector----
+Mr. Whitehead. Yeah, I think, yeah. After the last ten
+years or so we're getting, you know, great relationships with
+NERC and other regulating bodies.
+I feel that the pace with which information gets
+disseminated could--it would help us all if it was sped up.
+Senator Risch. As I listen to the threats through the
+Intelligence Committee, I am always amazed that we do not have
+more trouble than we do with the number of people that are
+levying a tax against us, the number of attacks that they are
+levying against us and the sophistication with which they are
+operating.
+It is things that you make at your company that stop that
+and, for that, I think everyone should be grateful, although
+most people have no idea what, that those devices are out there
+between them and between the device they are holding and where
+they are communicating with.
+Mr. Whitehead. Thank you.
+And it's not like, well certainly from SEL's perspective
+which we woke up say, five years ago, and thought cybersecurity
+would be a challenge. And as you pointed out, Ed, Dr.
+Schweitzer, had a career at DoD and took cybersecurity very
+seriously. So even back in 1984 when he created the first
+product, there were two levels of passwords and other means for
+signaling control systems, that there was, you know, at least
+an attempted access to one of our devices.
+So, this is, we've always, I think, taken cybersecurity
+very, very seriously from day one, certainly at SEL, and I
+think our industry also appreciates the need for cybersecurity.
+Senator Risch. Well, we appreciate that.
+Major Keber, very briefly.
+I understand that you recently had some training at the
+Idaho National Laboratory (INL) on cybersecurity. Is that
+correct?
+Major Keber. Yes, sir, that is.
+Senator Risch. Realizing you cannot tell us everything
+about it, for those of you who do not know, the Idaho National
+Laboratory has been the flagship nuclear energy laboratory in
+America and is quickly becoming the cybersecurity flagship
+laboratory in America which we are glad to have. It has some
+unique things going on there, some unique assets, that they
+have that make it such.
+Could you tell us a little bit, briefly, about your
+training there and what you can tell us about it?
+Major Keber. Yes, sir.
+It was, the training was a very good, comprehensive look at
+industrial control system cybersecurity. We looked at
+specialized, sort of, devices that are unique to industrial
+control system and kind of looked at the holistic approach of
+how to access those particular networks and infrastructures
+developed.
+They did take us, we did take a look at the tour of the lab
+that they have there. It was a very interesting and unique, one
+of a kind, site to see.
+Senator Risch. Did you meet with any of the strike teams
+that they have there that are ready to deploy?
+Major Keber. Yes, sir.
+We met with some of their assessment teams. They came in
+and we had an engagement with them and it was very informative.
+We shared and cross-leveled best practices and took a lot from
+what they had to offer in a way of experiences and things that
+they're seeing out during their assessments.
+Senator Risch. Well, we are proud of the INL, and glad to
+hear that it worked well for you.
+So thank you very much. My time is up. Thank you very much,
+Madam Chairman.
+The Chairman. Thank you, Senator Risch.
+Senator Stabenow.
+Senator Stabenow. Thank you, Madam Chair.
+First to you and the Ranking Member, congratulations again
+on a very important lands bill being passed. I know it was an
+incredible amount of hard work for a long time. So
+congratulations.
+This is an incredibly important hearing. It touches every
+part of our economy, our way of life, and our national
+security. So thank you to all of you for being here.
+The last polar vortex a few weeks ago produced, as we know,
+freezing temperatures and snow and rain across the Midwest. We
+certainly felt that in Michigan. We had a gas compressor
+station in Southeastern Michigan that suffered an unexpected
+fire, and there were a lot of questions about how that happened
+and what was going on, as you know. It resulted in Michigan
+families being asked to lower their thermostats, and
+businesses, including our auto manufacturers, suspended
+operations.
+It was a real sobering reminder of the vulnerabilities,
+both because of climate change and what is happening around
+carbon pollution, and cyberattacks from foreign companies or
+others and the increasing interdependence of our critical
+infrastructure. And I know that is why we are having this
+discussion.
+I want to stress one area in transportation coming from
+Michigan, because we know that the new cybersecurity threats
+are emerging as transportation becomes more electrified and
+autonomous. This is another important piece because we know
+that by next year, 90 percent of new cars are projected to be
+connected to the internet and what comes with that. And we know
+that within 20 years, 55 percent of all new car sales are
+projected to be electric, in addition to other kinds of fuels.
+We currently have mandatory federal cybersecurity standards
+for bulk power in electric systems, but not for interstate
+natural gas pipelines and electric distribution that directly
+services homes, businesses and transportation.
+I know that Chairman Chatterjee, you mentioned that gas
+infrastructure, but to you and Mr. Robb, isn't it time we had
+mandatory cybersecurity standards for this critical electric
+and gas infrastructure?
+Mr. Chatterjee. Thank you, Senator Stabenow, for the
+question.
+And yes, the point you raise is spot on. The increased
+interdependence that we are seeing, particularly between gas
+and our electricity mix in our power system makes ensuring the
+security of that infrastructure so important and so
+significant. And it's something that I've been particularly
+concerned about.
+I partnered with my colleague on the Commission, Rich
+Glick, early on after we both joined the Commission, to
+highlight the fact that due to this increased interdependence
+focusing on the security of this infrastructure was essential.
+We raced and looked at the fact that while FERC was responsible
+for permitting the approval of the pipeline, the responsibility
+for securing the pipelines, you know, against physical and
+cyberattacks fell to the TSA. So, the agency which is
+responsible for 800 some odd million aviation passengers, the
+highways, our rail system, also responsible for this massive
+network of pipelines. We had concerns about the resources and
+the personnel and the expertise at TSA to do this as well as
+the fact that TSA relied upon voluntary standards.
+One thing that I will say is that in the past year since
+Commissioner Glick and I, sort of, elevated the profile of this
+discussion and folks like Senator Heinrich and others have
+introduced legislation on it, I have been impressed by the
+response I've seen from both industry and TSA. Industry has
+really moved forward to take ownership of this and take steps
+to demonstrate their seriousness and focus on investing in the
+security. And as I mentioned in my opening remarks, in meeting
+with the TSA Administrator, it was clear that they were putting
+a greater focus on this. That said, the recently published GAO
+report showed that there is still much, much more work to do.
+And so, while I'm pleased with the progress we've seen
+since we elevated the profile of this issue, I'm going to
+remain vigilant on it because there's a lot more that needs to
+be----
+Senator Stabenow. Well, we have been talking about this for
+a long time, frankly, and not moving as fast as the technology.
+Those that wish to use the technology to do us harm are moving.
+I did not hear yes or no on mandatory cybersecurity standards.
+Mr. Chatterjee. Again, I think it's an ongoing dialogue
+that we'll have to see.
+Senator Stabenow. Alright.
+Mr. Chatterjee. I've been encouraged by the voluntary, by
+the improvement in the voluntary steps that industry has taken
+and by the attention that TSA is putting to this. I want to
+continue to work toward that.
+Senator Stabenow. I understand. We need to be moving a lot
+faster.
+Mr. Robb, did you have thoughts on that?
+Mr. Robb. Well, I'll agree with the Chairman that the
+interdependency between natural gas and electric, the electric
+sector, has become fundamental now to the reliability of the
+system. Without fuel, power plants can't run.
+And while I can't comment authoritatively on the state of
+cybersecurity on the pipelines and the effectiveness of the
+voluntary standards that are in place there, I think it is
+incumbent upon the natural gas industry to be as secure as the
+industry that they are supporting.
+Senator Stabenow. Okay. We have a lot of work to do in all
+of this.
+My time is up, so I will not ask another question, but I am
+going to ask in writing about the vulnerabilities in our energy
+supply chain and whether our growing dependence on foreign made
+energy components presents a potential national security
+threat, as we are hearing from our own intelligence community
+when they say technology supply chain attacks are a key threat.
+I know in the auto industry they are deeply concerned about
+that.
+So thank you, Madam Chair.
+The Chairman. Yes, it is a good question.
+Senator Cassidy.
+Senator Cassidy. Mr. Whitehead, I think it was you who
+mentioned the necessity for increased information sharing
+between the Federal Government and folks such as you. I totally
+agree. Why is it not occurring?
+Mr. Whitehead. I think that's better left up to Mr. Robb or
+the Chairman.
+When we had to have conversations to make great
+conversations with them, I think that we're just at a point now
+where we've established between say, the government and the
+asset owners. I think that the next step in the evolution of
+how we share information that will certainly include the
+equipment suppliers to the asset owner.
+Senator Cassidy. So let me kick it over to you, Mr.
+Chatterjee, because if we have voluntary standards and as
+Senator Stabenow said, okay, it's very important, but
+everybody's testimony says it is dynamic. How can you
+voluntarily comply with a dynamic situation when you are not
+given the information about the dynamism? Does that make sense?
+Mr. Chatterjee. It makes complete sense.
+I think there are a number of elements to this. The topic
+of workforce has come up. You know, cybersecurity talent is
+hard to find.
+Senator Cassidy. Now, that seems separate though, if I may,
+because obviously you have somebody coding but you have
+somebody else saying, uh oh, we never thought of this one but
+they are coming at us this way. That is not workforce, that is
+information sharing.
+Mr. Chatterjee. Information sharing is a component of it as
+well. There's also issues, quite frankly, that are taking place
+with getting the sufficient clearances.
+FERC has been trying to do our part to do one day read ins
+so that our colleagues at the state level and industry have
+access to----
+Senator Cassidy. Now, we have heard testimony, not to
+interrupt, but I have limited time.
+Mr. Chatterjee. Yes, sir.
+Senator Cassidy. We have heard testimony, because I think
+Madam Chair has a fixation on this topic. So last time we had
+several hearings on this, and it was that the big energy
+producers have that clearance. There is someone there who has
+that clearance. But still I am hearing from Mr. Whitehead, who
+is being very diplomatic over there, that the information is
+not being shared. Now you sense my frustration.
+Mr. Chatterjee. Absolutely, sir.
+Senator Cassidy. So, digame, porque?
+[Laughter.]
+Why is that?
+Mr. Chatterjee. So again, there are challenges that occur
+in terms of sharing the information in a classified setting. We
+are doing everything we can to make sure that the information
+that we gather in a closed setting or an open setting is shared
+with industry partners----
+Senator Cassidy. What I am hearing from Mr. Whitehead--my
+eyes are not good enough, is it doctor or mister?--that is not
+the case. Ms. Evans, did you have some comment on that?
+Ms. Evans. Yes, sir, I appreciate the opportunity to
+discuss this with you.
+This is exactly why Secretary Perry established the CESER
+office is to address the frustration that you're experiencing
+right now and that you're expressing.
+So the activities in the programs in our office are to help
+bridge that gap with our partners because we're looking at it
+from a national security perspective. So the threats, the
+things that you're talking about, how do you declassify that
+and then how do you get it out to the asset owners as well as
+to the people that are delivering services and also software
+and manufacturers, those types of things?
+Senator Cassidy. So none of that is aspirational.
+Ms. Evans. Well, no, I was going to get into--we were doing
+things. We actually have----
+Senator Cassidy. Okay, because I have a minute and 40
+seconds left.
+Ms. Evans. Okay.
+So we have several programs underway and the most recent
+example under my tenure is the APT10 threat where we worked to
+declassify, with the intel community, declassified those
+indicators, then shared those out with the community through
+the E-ISACs and then continuously communicate that back out. We
+work with the national labs and it's----
+Senator Cassidy. Why would Mr. Whitehead say that there is
+still an issue here?
+Ms. Evans. Because the Administration and Secretary Perry
+and this office has been established for four months.
+Senator Cassidy. Got it.
+Ms. Evans. And so, I would give you, I would ask you to
+give me the opportunity to increase that because he does work
+with our research and development program and there are several
+programs that we are actually working in conjunction with him
+to improve that.
+Senator Cassidy. Got it.
+Now let me ask you one more thing. Everybody mentions this
+dynamic you don't want regulations but there was a malware
+incident with Entergy about a year ago and it was on the
+corporate side, not on the grid side. I think it is MISO--I
+never know if it is ``meeso'' or ``miso''--but the concern was
+that it might infect the transmission. It did not because it
+was in corporate.
+That just seems like a best practice that you would have a
+firewall between somebody opening an attachment from his son
+which turns out to be malware versus that which is sending
+electrons from Indiana to Louisiana.
+Knowing that we do not want to regulate this to death but
+are there best practices that are expected to be complied with
+because, for example, in a previous hearing we heard that in
+some situations they have an analog switch as a best practice
+because it doesn't allow the cyber to go all the way through
+because there's one little flip that a human being has to do
+that otherwise protects one side from the other. Are there best
+practices that we are, kind of, mandating?
+Ms. Evans. Well, we're not mandating best practices. What
+DOE does is share the information out with our respective
+partners that are represented here as well as into the
+community. So that specific incident that you are describing
+really says, okay, if you're going to gain efficiencies, don't
+connect your IT systems to your OT systems. Yes, that is a best
+practice that is stressed throughout the community that is
+talked about over and over again. I know that the E-ISACs have
+shared that information out in the community. But this is some
+of those things where you have to over communicate to make sure
+that best practices and the exercises--you know, we have done
+joint exercises with FERC. We do the exercises, we participate
+because exercises highlight what you think the best practices
+are, give you opportunities to really demonstrate those and
+then to continuously close the gap. So everybody has been
+talking about that, that is important.
+Senator Cassidy. I have a question for the record regarding
+compliance with those best practices because once you have
+everybody putting their electrons on the same grid, you want to
+make sure that they are not just thinking about it but they are
+actually doing it.
+Ms. Evans. Yes, sir.
+Senator Cassidy. So we would like to know about compliance.
+Madam Chair, thank you for indulging.
+The Chairman. Thank you.
+Senator King.
+Senator King. Thank you, Madam Chair.
+First, I would like to hopefully suggest that we can move
+quickly on S. 174, which is the bill of Senator Risch and me.
+Last year it was S. 79. It passed the Senate and came within a
+whisker of passing the House at the very end of the session. I
+hope we can. We have had a hearing. We have had a markup. I
+hope we can move that bill out because it addresses this
+question exactly.
+There is a weird calmness about this hearing.
+[Laughter.]
+This is not calm. The Russians are already in the grid, are
+they not, Mr. Robb?
+Mr. Robb [off mic]. I can't----
+Senator King. Well, there were news reports from a year ago
+of the Department of Homeland Security releasing screenshots of
+Russian hackers in the SCADA system. Is that not true?
+Mr. Robb. Again, I'm not in a position to talk----
+Senator King. Well, can you comment on the public story
+that was something released by the Department of Homeland
+Security?
+Mr. Robb. No.
+Senator King. Okay, let me ask another question.
+Do any of our utilities have Kaspersky, Huawei or ZTE
+equipment in their systems?
+Mr. Robb. We issued a NERC alert.
+Senator King. I did not ask you if you issued an alert. I
+am asking you, do any of our utilities have ZTE, Huawei or
+Kaspersky equipment or software in their systems?
+Mr. Robb. Not to my knowledge.
+Senator King. Not to your knowledge.
+Mr. Robb. Not to my knowledge.
+Senator King. Have you surveyed the utilities to determine
+that?
+Mr. Robb. I don't believe we have.
+Senator King. I think that would be a good idea, don't you?
+Mr. Robb. I'll take that on.
+Senator King. Thank you.
+Of course there should be mandatory standards for gas
+pipelines. They are part of the electric system. 60 percent of
+the energy of the electric industry supply in New England is
+natural gas, not to mention heating.
+It seems to me we have already passed this, an effective
+system for the electric utilities, and Mr. Chairman, I am with
+you 100 percent, but I just don't want you to hedge about it. I
+think you should come right out and say, we have to do this.
+Mr. Chatterjee. I think mandatory standards are one way to
+do this, but I just would caveat that they are not necessarily
+the only way and the only--the point that I was making was that
+I've been heartened by the significant support I've seen from
+industry since I raised the subject matter, and I want to
+continue that productive dialogue.
+Senator King. Do they support mandatory standards?
+Mr. Chatterjee. Right now, again----
+Senator King. Let me guess, they don't.
+Mr. Chatterjee. At this stage I have to commend them for
+the steps that they have taken since I raised this issue, and I
+want to give them the opportunity to work in good faith going
+forward.
+Senator King. Well, I appreciate working in good faith, but
+it seems to me we made a realization some years ago that
+mandatory standards made sense in the electric side. If the
+natural gas pipeline system is now essentially a part of the
+electric system, I see no reason why that should not be the
+case in that industry.
+Mr. Chatterjee. I think there's no question that Congress
+continuing to shine a light on this will help move forward on
+this issue.
+Senator King. Major, do we red team the utilities?
+Major Keber. Sir, not at this time, I do not. My teams do
+not red team utilities and private sector. We are focused on
+government-only entities.
+Senator King. Mr. Robb, does anybody red team the
+utilities?
+Mr. Robb. I'm not aware of, sir.
+Senator King. Don't you think that would be a good idea?
+You can't really tell if you are safe until somebody smart
+comes in and tries to attack you.
+Mr. Robb. I'll take that, sir.
+Senator King. Thank you.
+Again, I just think we are entirely too calm about this.
+This is not a threat. This is happening now. We are under
+attack.
+This is not something that may happen next year or two
+years from now, and I am not revealing anything classified in
+the sense of quoting news articles and presentations by the
+Department of Homeland Security.
+We are in a very dangerous place and I just think this has
+to be an emergency, an urgent situation and that's--I just, I
+hope I have conveyed that here this morning.
+Madam Chair, I really commend you and the Ranking Member
+for doing this hearing, because I do not think there are many
+more serious threats facing this country than this one.
+And I thank all of you. I don't mean to come off as
+negative. I love what you are doing at the Department of
+Energy. You have the office set up. It is the right structure.
+But I just think this has to be addressed with a real sense
+of crisis because I do not want to go home to Maine and say,
+well, we knew what was going on but you know, we had four
+committees here that had jurisdiction and we really could not
+quite get it done. We have got to get it done.
+Thank you, Madam Chair.
+The Chairman. Thank you, Senator King.
+I am reminded that when it comes to pipelines that, oddly,
+it is not our Committee's jurisdiction, it is the Commerce
+Committee. But you are right, cybersecurity is not limited to
+this Committee or to Commerce or to Homeland or to SASC, it is
+cross-jurisdictional. We need to address it as such.
+How we are able to do that and do that quickly gets back to
+the issue that it is not only agencies being nimble. It has to
+be amongst us and our committees and how we are talking with
+one another, because right now we all know that we have our own
+silos inherent within this. But you have good cause to be
+frustrated.
+Let's go to Senator McSally.
+Senator McSally. Thank you, Madam Chair.
+I want to pick up where my colleague left off, because I
+agree this is a very real threat and the threat is with us.
+I am thinking back if I close my eyes, I worked for Senator
+Kyl back in 1999 when I was a major in the Air Force as a
+Legislative Fellow. As he was the Chair of Technology Terrorism
+and Government Information Subcommittee on Judiciary, this is
+what we focused on. The majority of my portfolio was
+cybersecurity related to critical infrastructure and at that
+point the potential threat of state actors and non-state actors
+to hold us hostage and to take down grids and the potential
+attacks there. If I close my eyes this would sound like a
+hearing from 19 years ago in many ways.
+I do not want to take away from some of the things that
+have been done but what has changed in 19 years, more rapidly
+than us figuring out how to defend, protect, share information
+and do whatever it takes, is the threat is real and it is
+happening. And that includes China and Russia, Iran, other non-
+state actors that have just taken leaps and bounds investing in
+looking at how they could go after us in asymmetrical
+capabilities, to go after us where we might be vulnerable.
+I appreciate you, Madam Chairman, for doing this hearing. I
+appreciate the discussion today.
+I am deeply concerned about the threat, the information
+sharing, the silos, both up here and out there.
+One is related to information sharing to rural communities.
+So, the CRISP program, Ms. Evans. I want to talk a little bit
+about some of the major utilities. A lot of them are involved
+in it and that is great, but in Arizona the vast majority of
+our communities are rural and so the smaller companies or the
+co-ops and others--how is that program going to be able to or
+how is more information sharing going to be able to get out to
+small utility companies so that they are equally informed and
+protected?
+Ms. Evans. So I appreciate the opportunity to answer that
+question, and I want to share although we are calm, I would say
+that the Administration shares your sense of urgency in
+addressing this issue because we know the threat is real and we
+know that we have to deal with the energy sector accordingly.
+And it is a multi-pronged approach to the question about is
+there red teaming that is happening in the utilities. DHS does
+have that capability and does offer it when it is asked for. It
+is a voluntary type of activity.
+As it relates specifically to the municipalities and co-
+ops, we are embracing and taking that and leaping forward
+because CRISP is an evolution of several lessons learned that
+we have from the energy sector. And the one thing that I want
+to highlight is that trust relationship that is key to
+information sharing.
+If you have this long history, as you have said, then you
+know if there's no trust in the sector then the information
+isn't going to be shared. And so, CRISP and the E-ISAC and the
+leadership from the energy sector, across the board, both with
+pipelines as well as oil and natural gas and the electric
+sector have really built the trust. That's how we share the
+information. They have an oil and natural gas. We have the E-
+ISAC. And also because of what happened with the FAST Act of
+2015, this Committee clearly established that DOE had to say
+what is the critical defense, critical infrastructure and what
+are the energy assets associated with that.
+When we did that, Assistant Secretary Walker has done that.
+We, as DOE, because of the critical nature paid to make sure
+that those municipalities that were identified in that could be
+part of the CRISP program as we continue to evolve how we're
+going to do information sharing in a dynamic bidirectional way.
+Senator McSally. Great, thanks.
+I do want to follow up also on the clearances issue. I was
+on the Homeland Security Committee in the House and this, for
+all sorts of threats that we are talking about, whether it is
+terrorist threats to, you know, massive sports gatherings or
+retail industry, the constant issue that came up is the lack of
+ability for individuals that are out there, day in and day out,
+that are having to deal with the threat, knowing what is going
+on.
+We have done a good job since 9/11 in general of breaking
+down barriers among federal agencies, but now this vertical
+information sharing amongst governments and with the private
+sector is just something that is lacking. So the clearance
+issues, the opportunity to do tear lines so that the
+information can be shared out there is really important. Where
+are we in breaking down some of those barriers? We have to
+protect, obviously, information, but there are ways to do this
+by reading in more people with clearances and using tear lines.
+Ms. Evans. Well, the clearance process, as you know, is an
+amorphous process that everyone participates in but I would say
+that the intelligence community is very forward leaning because
+the worldwide threat assessment document that was just released
+on January 29th really clearly outlines what the current state
+of affairs is. And that's an open-sourced document that
+everyone can read.
+Now what we have done from our perspective is those with
+clearances, we're giving them more specific information
+associated with that. But I don't know how much clearer you can
+be if you don't read that document about what the threats are,
+the sense of urgency, what our adversaries, our nation-states
+are capable of doing and what we need to do as a nation in
+order to be able to secure the energy infrastructure.
+Senator McSally. Great.
+I am out of time, but I think I am also talking about
+specific threats as they are arising. I realize we have to
+protect sources and methods but then getting that information
+out quickly.
+Thank you.
+Thank you, Madam Chair.
+The Chairman. Senator McSally, I appreciate you raising the
+issue of security clearances because we have heard that time
+and time and time again. I understand that it is still an issue
+even though we addressed it through the FAST Act but we
+continue to have holdups through the FBI.
+Those who need it----
+Senator King. Madam Chair, last time we checked in the
+Intelligence Committee, there was a backlog of something like
+750,000 security clearances.
+The Chairman. Yes.
+Senator King. It is a huge problem.
+The Chairman. Yes.
+You say you are working to get the clearances, but you
+still have folks on hold. So you cannot get the information
+that you need to share because you do not have the clearances.
+Mr. Whitehead. Just a point of clarification, and I'm sure
+our company is not unique, but at SEL we have folks with
+clearances, including myself up to the TS/SCI level so we can
+sit in classified briefings and get to understand the details
+of what those threats might be.
+The Chairman. I should hear from our folks. You speak about
+the rural application and there is a need to know here.
+Senator Heinrich, you are probably going to carry on this
+conversation, so it is your turn.
+Senator Heinrich. I will do my best, and thank you for
+having this hearing.
+I continue to hear from utilities that it is a real
+challenge, the backlog, and that it is a huge bottleneck. In
+fact, we heard from a former member last year, if you remember,
+who used to be on the House Intelligence Committee, that he
+could not get his clearance. If he can't get his clearance,
+then who can?
+Let me switch gears here and, Mr. Robb, you mentioned spear
+phishing. I agree that is an incredibly important point of
+entry that we need to do a better job on, and it is a hard one
+because it is human-based.
+Secretary Evans mentioned separating IT systems and OT
+systems. When I think about this--and I grew up in a utility
+family, my dad was a lineman then he went on to manage both gas
+and electric distribution systems--there is a bias in utilities
+and it is, oftentimes, a very positive bias toward reliability.
+But sometimes that can manifest itself in ways that do not help
+us update systems.
+Specifically, I think about SCADA systems and I think about
+programmable logic controllers. I think about the openings
+there with regard to being able to control those systems using
+radio communication due to the fact that they are hard to air
+gap, especially the older ones. And I worry that we are not
+moving fast enough, especially in a world where it is often
+viewed that if it works, just leave it alone. Sometimes that
+causes utilities, or the person whose job it is to actually
+update the software or change out an outdated component, to not
+do that. And so, those challenges continue to exist well beyond
+their normal life span.
+Are we doing enough in terms of securing and updating those
+kinds of components across the entirety of the utility system,
+Mr. Robb?
+Mr. Robb. Yes, so a couple comments to your point directly.
+The CIP standards do require critical systems to be patched
+and to be kept at up to date with the latest releases.
+You're right that it is a challenge in many cases to
+reconfigure systems without studying all the derivative
+ramifications of those. It's a very complex machine but the
+standards do require ongoing patching and modernization.
+Senator Heinrich. Do we spot check or have any way to just
+make sure that it is actually happening?
+Mr. Robb. Subject to spot check and thorough audit.
+Senator Heinrich. Great.
+Mr. Robb. Routinely.
+One other point I wanted to make, if I could, just a
+second.
+Senator Heinrich. Sure.
+Mr. Robb. The Senator's question from Arizona because it's
+applicable here.
+The CRISP program insights are not confined to just the
+CRISP participants. When we work through the insights that come
+out of that program, although they originated from a handful of
+utilities, they're disseminated broadly across the----
+Senator Heinrich. So, rural electric co-ops, for example.
+Mr. Robb. So, the rural electric companies, the
+municipalities and so forth are the beneficiaries of that
+information.
+I am sorry.
+Senator Heinrich. No.
+Chairman Chatterjee, I wanted to ask you, is TSA the right
+place--and I appreciate that they are putting more focus on
+this and they seem to have a pretty big job at the airports, I
+have noticed--is it the right place for that to live?
+Mr. Chatterjee. When I recently raised this issue, that was
+the question that I asked. Is the entity responsible for
+aviation, for railroads, for highways, you know, also
+responsible for this, particularly when reports indicated that
+they had as few as, I think, four or six people responsible for
+overseeing this really critical task?
+I've been impressed with how they've responded to the call
+for action but the GAO report clearly showed that there was
+much more work to do and, I think, particularly stressed having
+the expertise and the resources in place. I think FERC is
+making a commitment through our Office of Energy Infrastructure
+Security to work with TSA to provide that expertise.
+Senator Heinrich. Sure.
+Mr. Chatterjee. My final point I want to make because it
+addressed a point Senator King was pressing me on as well, and
+I just wanted to be clear on this. The authority to impose
+mandatory standards does currently lie with TSA, and it would
+take Congress to make that change. I just want to be clear, I
+wasn't dodging the question but----
+Senator Heinrich. I think we should all be thinking about
+that question, where the right place is to do this and making
+sure it is adequately resourced.
+Before I let you go, Chairman, I want to get your update on
+FERC Order 841. What kind of a timeline are we looking at?
+Mr. Chatterjee. So we've heard from a number of
+stakeholders that they're waiting for our action on rehearing.
+We had a comment or a deadline for filings of December the 3rd.
+These are very, very complex issues. We understand that people
+want that clarity going forward. My colleagues and I are
+committed to doing it right and we understand the agita and the
+desire to get it done. Better to do it right than rushed, but
+we're working diligently.
+Senator Heinrich. I agree. We do need to get this right,
+but it is also a pretty urgent matter. It certainly opens up an
+enormous amount of economic activity and a resiliency that we
+need to be supportive of.
+I would just, once again, emphasize what an urgently
+important order that is.
+Mr. Chatterjee. Yes, sir.
+Senator Heinrich. Thank you, Chairman.
+The Chairman. Thank you, Senator Heinrich.
+Senator Hyde-Smith.
+Senator Hyde-Smith. Thank you, Madam Chairman, and thank
+you so much to the panel and the experts that we have here that
+is so helpful to this Committee.
+I do have a question, Ms. Evans, kind of continuing on the
+conversation.
+We all understand the nature of the infrastructure in the
+energy sector, and it makes it extremely difficult to deploy
+cybersecurity protocols that fit every single niche, but are
+the checklist standards that are applied so broadly to
+cybersecurity in the energy sector enough to ensure security in
+mainstream and custom energy applications? And if so, what are
+the proactive security approaches that are being taken to
+require more thorough testing in research by qualified agencies
+or institutions to improve that cybersecurity in the energy
+section?
+Ms. Evans. Well, I believe based on what my colleagues have
+talked about here is, is that when we look at what standards
+are that they are the floor and that that would be the minimum
+of what you have to do.
+If you take a risk-based approach, and you're really
+looking at what are the consequences for the activities that
+you have, you'll get to either complying with the checklist or
+complying with the standard, really understanding what your
+environment is.
+We have cybersecurity research and development which is
+cybersecurity for energy delivery systems which is our research
+and development group which is underneath us which is actually
+taking that question but also leaping ahead and saying how do
+we skate to the puck, not necessarily think about where we are
+today but where we want to be in the future.
+And then, how do we then test supply chain risk management?
+How do we then embrace these types of things that have been
+highlighted today by the members dealing with cars that have
+computers in them so that you can go and do a lot of different
+things with your cars, but that's another attack vector.
+So I think a lot of the things that we've been talking
+about in the sense of urgency is how do you raise the cost to
+our adversaries? Anyone who is in this space, using any type,
+to your point, there's not going to be a silver bullet here.
+There's going to be multiple ways but what we really have to do
+is raise the cost of what everybody is doing because it's too
+easy for our adversaries to exploit several things.
+We've talked briefly about phishing, but that's really a
+cheap way to get in. That is what our research and development
+is doing. Then, as the results of that, where we partner with
+industry, people that are participating in this sector, how do
+we then share the information out to the right stakeholders
+because this is all owned by private sector.
+The government doesn't own this infrastructure. What we
+have to do from a national security perspective is share the
+information so that it can facilitate whether there needs to be
+a regulation or whether there needs to be a resiliency
+standard. But they need to benefit from the research and
+development that the Department is doing.
+Senator Hyde-Smith. Absolutely.
+And one other question, if I may, Madam Chairman?
+How would you decide what types of non-federal
+infrastructure should be defined as critical for these
+purposes?
+Ms. Evans. This is a specific thing that we really are
+looking at and researching now, to your point.
+What we are looking at is through our program called Citrix
+which is really dealing with supply chain risk management. And
+this is something that I'm sure my colleague from SEL would
+also talk about is where has industry gone because you want to
+stimulate a market economy, right? And you want to have
+competition and you want to be able to have all those things.
+So where is the greatest bang for the buck to be able to
+address what we have today? Where are people investing? But
+then, how do we then take the information and this is again
+what we're going to do for the manufacturing institute, is take
+the knowledge that we get from our labs where they are doing
+incredible work, and then being able to transfer that out into
+industry so that industry can incorporate it into their product
+road maps.
+So we do work very closely with the Office of Technology
+Transfer within the Department so that we can take these things
+that we are learning here and what is the best way to transfer
+it back out into the industry so that as people are entering
+into the energy sector, we know that they are incorporating
+these types of things so that as our industry partners are
+buying solutions, they could then say, okay, these things have
+gone through these types of analysis. If I buy this over this,
+I'm reducing the risk in my enterprise. That--we are
+accelerating that and working through that with the national
+labs to get it out to the industry.
+Senator Hyde-Smith. Based on the critical areas?
+Ms. Evans. In multiple areas because there's current ones
+that they have to comply with.
+So, for example, we're working with Pacific Northwest Lab
+on a risk-based model because one question that always gets
+asked by industry is for every dollar I invest, how much risk
+am I going to reduce?
+They have to comply with the CIP standards. So, the risk
+model is saying, okay, let's look at these attack trees
+associated with the CIP standards. We should be able to answer
+that question so that a CEO of a board or a utility or a
+municipality can say if I do this investment, this is how I can
+reduce risk.
+The national labs have a lot of modeling that's going on,
+and what I'm trying to do is take that knowledge that they have
+and use it in a way that the energy sector then has the tools
+that they need to make those decisions. So that's where we
+started.
+Senator Hyde-Smith. Great. Thank you so much.
+Thank you, Madam Chairman.
+The Chairman. Thank you.
+Senator Cantwell.
+Senator Cantwell. Thank you, Madam Chair and Ranking Member
+Manchin. This has been a great hearing so far. I thought I was
+just going to come down and say the words, Chairman Chatterjee,
+and get a little focus there on your new leadership. But, good
+to see you.
+Our colleagues have just been so excellent on illuminating
+this problem. I could not be more supportive of the concept. I
+think that we need to do something very, very aggressive here.
+It is good to see that, from various aspects, people understand
+that.
+Just for clarification, our National Guard is doing red
+teaming in the State of Washington on utilities. So, it does
+exist somewhere in this.
+But I wanted to get to this question about regulation
+versus innovation and get your thoughts, Mr. Whitehead. I
+understand my colleague, Senator Risch, was here earlier
+claiming that the CEO of your company was a genius and that
+definitely puts you into a high atmosphere of challenges.
+But you understand how important it is, and you mentioned
+your security clearance. How can we work with everybody here to
+create that system so that we are not just making up a bunch of
+things that we want all the utilities to do, and then five
+months from now, we see a new threat and they are doing this
+little list that we asked them to do and now there is a new
+list?
+The changing nature of the attacks is really the game,
+right? It is like the path of least resistance. They are just
+going to start and as we keep advancing, they are just going to
+continue.
+How do we get this system in place where we are getting the
+data and information shared and seeing real-time effects of
+these attacks? Because I feel like that is what everybody on
+this Committee wants. I think that is why you are hearing the
+urgency from everybody and now the opportunity is here. How do
+we really define how to get that communication system?
+Mr. Whitehead. Well, thank you, Senator, for the question.
+I think there's two parts. There was the innovation versus
+regulation and from my perspective as a supplier of equipment
+for the critical infrastructure is there's a lot of reporting
+up that happens to various agencies but what we don't see then
+is a lot of reporting back down to us. So, there seems to be a
+diode or a one-way communication.
+I think working with Mr. Robb and other folks, we had a
+great conversation at breakfast this morning is how do we
+integrate what we're doing, as a supplier we're not, you know,
+part of the members of the various information sharing
+committees. How do we get on to those committees?
+I don't think it's hard. And I think we're at a point in
+the evolution of these information sharing committees where we,
+as suppliers, critical suppliers, certainly to the U.S.
+infrastructure, that we have a seat at the table for being able
+to share that information.
+I'd make an argument and I've joked with our folks is I'll
+stand up a team that's ready to talk, have a phone call at
+eight o'clock every single morning, 7 days a week, 365 days a
+year, even if it's a 15 minute phone call that says, hey
+there's nothing going on or vice versa, hey, you know, asset
+owners and suppliers of equipment, this is what you should be
+looking out for today.
+You know, it doesn't have to be a long conversation. I
+mean, that's one idea that I thought of. I don't think it takes
+a lot of effort. Certainly, you need to--how you classify your
+information and who can be on those phone calls. I'm sure
+there's words or ways to work out those particular scenarios.
+But I think it's setting up organizations that can be very
+quick, very nimble disseminating information. And it can be
+both ways. I could get on that phone call and say, hey you know
+what? I had a customer call me up. They saw this weird thing
+and that could be reported up and shared amongst the community
+at that level.
+Senator Cantwell. What level of security clearance do you
+think that is?
+Mr. Whitehead. I think it can be all the way from
+unclassified where it's just hey, look out for this kind of
+data packet coming where you don't have to attribute to sources
+or methods of how that came out, just be looking for this kind
+of traffic, all the way to if you're in this particular area
+and based on, you know, sources and methods. Maybe some people
+do need to know that level. But I think it can go scale from
+all different levels of classification.
+Senator Cantwell. Assistant Secretary Evans or Chairman
+Chatterjee, what about this other way of looking at this, which
+is: do we have anything where we are assessing the technology
+as it exists and focusing more on creating a security standard
+that we think should be deployed?
+For example, I am a big fan of Schweitzer Electronics
+because they are doing a lot of great work in this area and, I
+believe, are on some cutting-edge technology. But let's say
+it's somebody else, some other company, do we have any
+operation within the Federal Government now, either from the
+Department or from FERC's perspective, that says we highly
+recommend the deployment of this technology?
+It is almost like the constant hygiene aspect of this
+problem. And is there a function within our government where we
+are making the recommendations that these things be deployed
+more rapidly or is somebody just making the judgment call that
+this is where we need to be?
+Ms. Evans. So, the heart of the issue of what you're
+talking about is the innovation while you're maintaining the
+existing environment. And so, yes, that environment exists. And
+we've talked about it briefly, but it is with the Electricity
+Subsector Coordinating Council, the Government Coordinating
+Council which is all of the whole of government approach as
+well as the Oil and Natural Gas Subsector Coordinating Council.
+So we specifically, as the Department of Energy, my
+research and development program underneath me looks into the
+future, like evaluating equipment. That's what we're doing from
+a supply chain risk management.
+The Department itself, our OCIO function looks at this as
+well because we have the PMAs also in there.
+When we take a risk-based approach as a Department based
+on, for example, we had to do Kaspersky but there are other
+things that we know based on the current environment and the IT
+world. We share that out with the sector and say, look, the
+Department has taken this approach based on these types of
+things. We do it at a classified level. We also attempt to do
+it at an unclassified level.
+I will share one thing that, maybe, the Committee would
+want to think about this going forward is as we have shared
+what the Department is doing one of the issues that has been
+raised up from the sector as a whole is, is that as they look
+at it to take an action as a collective against this to not,
+say for example, they did not do something with a specific
+company that is in this sector, one of the issues that they
+have raised is the potential of an anti-trust type of issue
+that would come against the sector as a whole because they were
+taking a risk-based approach.
+Senator Cantwell. This is why I am interested in whether we
+have the function within the Federal Government because look,
+we all travel, and guess what we do if we are going to travel
+somewhere? We look online and say, well, what are the threat
+assessments of traveling to that region of the world--and it is
+posted there.
+So what I am interested in is the issue about the
+regulatory side taking a long time, and the challenge here is
+that it is constant and evolving.
+What we want though is some part of the Federal Government
+that says, oh, yes, these software-defined network (SDN)
+solutions should be deployed. We are not even saying whose,
+just that these are five solutions we think all utilities
+should be deploying if they want the hygiene of their networks
+to be state-of-the-art or--
+Again, I know that gets a little tricky, but at the same
+time, I just feel like this is what we are trying to do in the
+State of Washington. We are trying to use the National Guard
+and a coalition of people to define what the state-of-the-art
+hygiene is to make people's systems secure.
+I would just think if we are going to stay out of whatever
+we think is the--I am where my colleague from Maine is and that
+is that with the evidence as clear as it is, we need to do a
+lot more.
+But one thing we need to do a lot more on is to start
+having the Federal Government define what is the state-of-the-
+art technology that they think utilities should be deploying,
+even if it is a recommendation and not mandated.
+Ms. Evans. Absolutely.
+Senator Cantwell. But I think we are over here researching
+and exploring and I just feel like we should be upgrading the
+checklist of things that people should be doing at least every
+six months.
+Ms. Evans. I would say that we, that the Department and the
+Secretary's viewpoint is in line with what you are suggesting,
+that is what we view for the long-term play with the Advanced
+Manufacturing Institute.
+But in the short run of what we are doing is how my office
+is going to do that evaluation, work through the programs that
+we have and the intent is for us to publicize from a voluntary
+perspective, looking at everything that has been envisioned up
+on this Hill is if you voluntarily participate over here and we
+have NIST and we have all these other things, here is the
+information about these programs. Here are things of how you
+can make an informed decision. That information would feed into
+this. We are specifically looking at these are the specific
+systems and components that are built into the current
+infrastructure.
+The other effort that the Department is doing is through
+the Grid Modernization Initiative and the GMLC, which is Grid
+Modernization Lab Consortium, because a lot of the information
+that you're talking about, they develop. Then how do I then
+transfer that out and say these are the best practices? This is
+how you can do it. This is how you can leap ahead.
+We just had a briefing yesterday on an initiative that has
+been three years in the making that is really going to help
+leap ahead the industry as a whole. And now we're figuring out
+what's the best way to get it out into industry so that the E-
+ISACs and the industry as a whole can use it.
+Senator Cantwell. Alright.
+Madam Chair, I know my time is expired.
+The Chairman. Thank you, Senator Cantwell. You have always
+pushed the Committee to focus on these cyber issues and your
+leadership on this is greatly appreciated. Thank you.
+Senator Hoeven.
+Senator Hoeven. Thank you, Madam Chairman.
+Mr. Robb, how do you answer the question when somebody
+says, is our energy infrastructure, is our grid, safe and
+secure from cyberattacks? How do you know? Are we safe? How do
+you know?
+Mr. Robb. Senator, it is the issue that keeps us all up at
+night. And what I can represent very confidently is that the
+industry takes this threat very, very seriously. We have,
+through the mandatory cyber critical infrastructure protection
+standards, we've a very strong foundation of defense in the
+grid. We can always do better on the information sharing and
+analysis of emerging attack vectors and so forth to build real-
+time situational awareness and defense of specific threats, but
+the foundational security of the grid in this country is very,
+very strong.
+Senator Hoeven. How do you know?
+Mr. Robb. Because we have mandatory standards in place. We
+audit the utilities against those standards and they're subject
+to a financial penalty if they are found in violation of those
+standards.
+Senator Hoeven. How do you make sure on the one hand you
+are integrated, but on the other hand if there is a problem
+somewhere it does not invade the whole system?
+Mr. Robb. One of the great design features of the North
+American Electric Grid is that it's sectionalized in many ways
+and the whole purpose of the standards is to ensure that if
+something bad does happen to some part of the grid, that it's
+contained and does not propagate across it. So that if an
+incident did occur in New Jersey or something like that, it
+stays there, right, as opposed to compromising the entire
+system. That's the whole design principle of the reliability
+standards we have.
+Senator Hoeven. Do the participants in the grid, writ in
+large, have the ability both to participate but also to protect
+themselves from a threat that might enter the system?
+Mr. Robb. I'm sorry, I didn't catch the question, sir.
+Senator Hoeven. For all the participants in the grid, do
+they have both the ability to be integrated and operate
+interoperably but also the ability to segregate themselves, if
+necessary, in the case that there is some type of virus or
+other threat or problem?
+Mr. Robb. Yes, sir, they do.
+Senator Hoeven. And you are able to check that and verify
+it? We are not guessing like some of the financial hybrids
+before the market meltdown?
+Mr. Robb. No.
+Senator Hoeven. All the regulators thought that, didn't
+they? Remember, they all said all those financial hybrids, they
+had risk management all squared away? But it didn't work. So
+how do you know?
+Mr. Robb. Well, there's always potential for a failure in
+any complex system. What I can say is that the standards that
+are in place with which industry must comply and again, subject
+to audit and penalty if not, provide that base level of
+security and support.
+Senator Hoeven. And you feel the regulatory oversight and
+the audits are sufficiently transparent, understandable and so
+forth that it is verified, that we do have that security in
+place and if there is a weakness it is identified in a timely
+way?
+Mr. Robb. I believe so, sir.
+Senator Hoeven. Can be addressed?
+Mr. Robb. Yes.
+Senator Hoeven. Mr. Chatterjee, good to see you again.
+Mr. Chatterjee. Good to see you, Senator.
+Senator Hoeven. Based on your new role and your years of
+experience here on the Hill, have you seen any legislation out
+there that you think would be most helpful in this
+cybersecurity area that we should be advancing or do you know
+any concepts for legislation that you think we ought to be
+advancing that could, that would help and be beneficial?
+Mr. Chatterjee. I think, and I mentioned this earlier, you
+know, the workforce issues are critical. Finding cyber
+expertise, dealing with information sharing is essential to
+this and identifying that workforce, all of us making this
+societal investment and making sure people are educated.
+There's been a lot of talk about cyber hygiene and the
+vulnerabilities within organizations tend to be driven by human
+beings in this space, and we saw some of the supply chain
+issues that arose as a result of that.
+And so, I think anything we can do to get expertise on this
+area throughout the country, throughout stakeholders in
+industry, and I understand there's a bill regarding a federal
+rotational cyber workforce program, introduced by the Senator
+from North Dakota. I'm certainly supportive of that concept,
+because it is hard to find and train good employees.
+Senator Hoeven. You have not lost your touch.
+[Laughter.]
+You are a good man.
+And certainly, getting our noms through and getting
+positions filled would be helpful too, wouldn't it?
+Mr. Chatterjee. Yes, sir.
+Senator Hoeven. That would be beneficial, right?
+Secretary Evans, being a northern border state, obviously,
+we work with Canadians all the time. We love them. Greatest
+ally ever. How do we make sure that we are managing the cyber
+risks and threats across border in a good, solid, integrated
+way?
+Ms. Evans. Sir, we do work in partnership with NERC. I'm so
+glad we can say NERC, instead of saying the whole name. And so,
+we do work in partnership with them. I know the Canadians
+actively participate in that.
+The Office of Electricity also is working on what the, I
+want to make sure I get the NAERM right, which is North
+American Energy Resiliency Model, of how that is all going to
+play across the board.
+Senator Hoeven. Yes.
+Ms. Evans. That does involve our Canadian partners in that
+as well.
+Again, it's making sure that we can share the information
+with them. They are our allies. We need to make sure that we
+can share the information and that we understand the shared
+risk.
+I would also go back to some of your questions about how do
+we know?
+The reason why we do the exercises and, again, all of us
+have talked about the exercises, is because we think we have
+the best plans in place until we have to actually exercise
+them.
+Senator Hoeven. Right.
+Ms. Evans. And so, the exercises really point out if we
+have any weaknesses so that we can identify that that's why our
+partners here talk about several of the exercises that we
+participate in so that we can highlight that because we don't
+want to get into that situation of now we're in a crisis and we
+find out we don't have the best plan.
+Senator Hoeven. Is there any legislation vis-a-vis Canada
+that you have seen that is helpful or that is on your screen?
+Ms. Evans. I believe the way that the Hill is looking at
+this in multiple different ways. There are things that you are
+talking about from the workforce perspective that is very
+helpful. That's been outlined already by Chairman Chatterjee.
+The things in supply chain risk management and how you're
+looking at that and giving us the longer-term view of how we
+need to put those programs in place would allow for us to do
+that.
+And I think the industry and I would share this with my
+colleagues if they have any insight into that, but what I hear
+often is, is that they want to make sure the bidirectional
+happens but they are concerned as they continue to move through
+this and we get into very interactive information sharing that
+the proper protections are in place as they take actions as a
+collective.
+Senator Hoeven. Thank you.
+The only other thing I would offer is Major Keber, thanks
+for your service. We appreciate it.
+Thank you, Madam Chairman.
+The Chairman. Thank you, Senator Hoeven.
+Just a couple quick things. I know we are wrapping up. I
+know that Senator King wanted to add on.
+I wanted to just go a little bit further. Senator Cantwell
+raised the same issue that I had raised initially with you, Mr.
+Whitehead, in terms of innovation versus regulation and the
+inherent conflict there.
+We have had a lot of discussion about the mandatory
+standards we have in the electric sector. We are the only ones
+here that have mandatory and enforceable cyber standards, and
+we know what the violations can lead to.
+We had a witness here before the Committee last year, a
+gentleman by the name of Rob Lee of Dragos. He was a hands-on
+cyber expert. He suggested to us that utilities are perhaps
+overly focused on the legal aspects of compliance and sometimes
+these mandatory NERC standards that basically cause you to
+check the box to make sure that you are meeting the standard,
+that is, focus on compliance rather than the creativity, the
+innovation that we need in order to do all this. We are going
+to use our limited bandwidth because we have talked about the
+fact that we do not have enough people in this area that are
+the smart, forward-thinking, leaning-in brains to make this
+happen. So we set our resources to just the compliance side. He
+actually suggested a three-year cooling off period to let the
+utilities focus on cyber threats instead of, he called, the
+cyber lawyers.
+Comment on that, if you will, Mr. Robb and Mr. Whitehead.
+Mr. Robb. Sure.
+So, I hear that a lot. I'm not sure I believe it. For the
+most part the standards that we have in place for cybersecurity
+don't require any unnatural acts. They really codify what good
+utility practice is in these spaces.
+And I think the fact of the matter in the conversations
+that I always have with the CEOs, and I believe that the CEOs
+of organizations get this, that a secure operation is going to
+be compliant with the standards that we have in place. It's not
+really an either/or. It's a yes/and.
+Again, when I look at the number of violations that we have
+of CIP standards and the root causes, they typically result,
+the root causes are typically on things like management culture
+and so on and so forth. So that, there's really a lot that the
+CEOs can do to drive a secure and compliant organization. They
+work hand in glove. It's not a tradeoff that someone has to do
+x or y. And if that tradeoff is ever presented, our advice to
+the entities is always do what you need to do to be secure, and
+we'll deal with the compliance aspects later. And if there's
+something silly in the compliance world, we'll deal with that
+in an appropriate way.
+The Chairman. Mr. Whitehead.
+Mr. Whitehead. Yeah, I'll have a little fun with Mr. Robb
+for just a second as I think you can----
+[Laughter.]
+----it's okay--I think you can be compliant but not
+necessarily secure, right?
+The Chairman. Right. My point.
+Mr. Whitehead. People can check all the boxes and you could
+still have a challenge or an issue.
+So you always have to be careful. I think that's what, I
+know Rob pretty well, Rob Lee. I think that's what he was
+really alluding to is that what you want to make sure is that
+you're not stifling creativity or taking the responsibility out
+of somebody really thinking about what they're doing, right?
+Just filling in checkboxes is not going to make you secure,
+maybe it makes you compliant, but it's not going to make you
+secure. So requiring people or certainly giving them the
+ability to think about how their particular situation, their
+particular networks, their particular critical infrastructure
+is designed and operating and then how security overlays on top
+of that, I think, is the critical aspect to keeping our assets
+all secure. I think that's it.
+And Senator Cantwell, thank you for SDN. One word of
+caution, SDN is a great technology. We've got solutions for it.
+What I like the idea of is that hey, the government is saying
+this is a great technology, Mr. Utility, you should look at
+this. What I would hate though is to say, Mr. Utility, you have
+to deploy this technology because I've got 800 engineers back
+in Pullman coming up with the next greatest thing and I would
+hate to say, you know what, everybody has to focus on SDN when
+we've just come up with a great new solution for protecting our
+critical infrastructure.
+The Chairman. Thank you for that.
+Senator King, you wanted to jump in?
+Senator King. Please.
+Chairman Chatterjee, I know it just slipped your mind. You
+wanted to mention to Senator Hoeven S. 174, the Risch-King
+bill, as an important step in the right direction. Would you
+say yes to that?
+Mr. Chatterjee. I would absolutely say that additional R&D
+about possible defenses is always helpful, and I very much
+encourage those efforts.
+Senator King. Thank you. I appreciate that.
+Madam Chair, I just wanted to make a final point on this
+issue.
+All we have been talking about today is protecting
+ourselves, patches, standards, hygiene, all of those kinds of
+things. The missing part of this discussion, and it is true
+governmentwide, is deterrence. Our adversaries who are
+attacking us in this way, thus far anyway, have not felt that
+there was a price to be paid for those attacks, that we were a
+cheap date.
+That part of what we have to develop and this is going on
+in a number of different forums over the next year or so and
+indeed the Administration has produced some good work on this,
+but we need to be talking about how we make, how we change the
+calculus for our adversaries when they decide to venture into
+our electric grid or our gas pipelines, that there will be a
+price to be paid? It may be cyber. It may be sanctions. It may
+be other kinds of responses. But thus far, there has not been a
+doctrine or a strategy in this country that deters these kinds
+of attacks as there is in other areas of our national security.
+So I would just point out that we will never be able to
+patch our way out of this threat. We would be like a boxer who
+was really skilled at ducking and bobbing and weaving, but if
+you can never punch back, you are not going to win the fight.
+I just want to mention that as a larger background issue
+that is involved in this question, whether it is this kind of
+cyberattack, a cyberattack on our election system, or any other
+intrusion of that kind, our adversaries have to begin to
+realize that there will be a cost to them for attacking this
+country in this way. Until they do so, they are going to
+continue to do it, as they have over recent years.
+Thank you.
+The Chairman. I certainly concur it is an important part of
+it, and I think we want to be in the position that we are not
+reactive in this deterrent aspect, that we have made quite
+clear from a proactive perspective that there are consequences.
+Senator Cantwell.
+Senator Cantwell. Yes, Madam Chair, if I could just
+quickly.
+I don't know if we have put our finger on it this morning
+yet but I do think, to Mr. Whitehead's point, yes, we want to
+keep innovating. That is the challenge. We want to keep
+innovating.
+I do not even know if there is a private sector Good
+Housekeeping seal that somebody is putting on for utilities. I
+think that is the key, right, is that and, at least as it
+relates to the FERC role and the agency roles, is are there
+entities out there that are doing their job and doing their
+best?
+At the same time, as you said, you are going to develop,
+your engineers are going to--first of all, the threat is to
+keep up on them.
+So I certainly agree with you, Senator King, that there is
+a lot that we should be doing on an international basis to
+basically stop the arms race that is happening on cyberattacks.
+And we should be joining other nations in promulgating--we
+should be spending as much time on this as we are on this
+discussion because if we were, I guarantee you, we would get
+someplace.
+This security is critical, and we have to get other nations
+to say that you do not tolerate these kinds of actions by
+governments and you basically are going to stop people from
+engaging them.
+But anyway, back to this. I just think we need more
+discussion about, Madam Chair, what kind of rapid response
+system can we establish, and how do we know when we get to a
+point where we really think people should deploy something we
+think is viable--without representing a software state--is an
+ongoing discussion.
+I think from the consumer perspective they are like, oh,
+another upgrade, and I am supposed to do that? Yet, every
+upgrade really does get us a greater layer of security. That is
+what each system does. Not that it does not have problems with
+it, it too has bugs. I just think we need to keep talking about
+how we establish this communication back to the government
+about what we should be deploying. I think it is tricky and
+hard, but I don't think it is impossible.
+I think having all that information flow on a constant
+basis would be very helpful to making us more--again, a few
+bobs and weaves would not hurt us right now while we are
+getting this larger thing in place.
+Thank you.
+The Chairman. Thank you, colleagues, and thank you to the
+members of the panel. I think it has been a very interesting
+discussion, a very important discussion.
+But I do harken back to Senator McSally's comments that she
+could close her eyes and this could have been the same
+conversation 19 years ago. We do not want to be sitting here or
+have those who follow us 19 years from now be sitting here
+asking ``what were they doing in 2019 here?''
+There is a heightened sense of urgency for action. It has
+to be coordinated. We have to recognize that here in Congress
+we have jurisdictional issues that we wrestle with. We have to
+figure out those issues just as it needs to be figured out in
+our agencies and in the private sector. There is simply too
+much on the line.
+We appreciate all the engagement. We look forward to FERC's
+technical conference and the continued, very important
+dialogue.
+With that, the Committee stands adjourned.
+[Whereupon, at 12:08 p.m. the hearing was adjourned.]
+APPENDIX MATERIAL SUBMITTED
+----------
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

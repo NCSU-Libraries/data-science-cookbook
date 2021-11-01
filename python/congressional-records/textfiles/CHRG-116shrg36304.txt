@@ -1,0 +1,2775 @@
+- EXAMINING PRIVATE SECTOR DATA BREACHES
+[Senate Hearing 116-40]
+[From the U.S. Government Publishing Office]
+S. Hrg. 116-40
+EXAMINING PRIVATE SECTOR DATA BREACHES
+=======================================================================
+HEARING
+before the
+PERMANENT SUBCOMMITTEE ON INVESTIGATIONS
+of the
+COMMITTEE ON
+HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+UNITED STATES SENATE
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+MARCH 7, 2019
+__________
+Available via the World Wide Web: http://www.govinfo.gov
+Printed for the use of the
+Committee on Homeland Security and Governmental Affairs
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+U.S. GOVERNMENT PUBLISHING OFFICE
+36-304 PDF
+WASHINGTON: 2019
+COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS
+RON JOHNSON, Wisconsin, Chairman
+ROB PORTMAN, Ohio
+GARY C. PETERS, Michigan
+RAND PAUL, Kentucky
+THOMAS R. CARPER, Delaware
+JAMES LANKFORD, Oklahoma
+MAGGIE HASSAN, New Hampshire
+MITT ROMNEY, Utah
+KAMALA D. HARRIS, California
+RICK SCOTT, Florida
+KYRSTEN SINEMA, Arizona
+MICHAEL B. ENZI, Wyoming
+JACKY ROSEN, Nevada
+JOSH HAWLEY, Missouri
+Gabrielle D'Adamo Singer, Staff Director
+David M. Weinberg, Minority Staff Director
+Laura W. Kilbride, Chief Clerk
+Thomas Spino, Hearing Clerk
+PERMANENT SUBCOMMITTEE ON INVESTIGATIONS
+ROB PORTMAN, Ohio Chairman
+RAND PAUL, Kentucky
+THOMAS R. CARPER, Delaware
+JAMES LANKFORD, Oklahoma
+MAGGIE HASSAN, New Hampshire
+MITT ROMNEY, Utah
+KAMALA D. HARRIS, California
+JOSH HAWLEY, Missouri
+JACKY ROSEN, Nevada
+Andrew Dockham, Staff Director and Chief Counsel
+John Kilvington, Minority Staff Director
+Kate Kielceski, Chief Clerk
+C O N T E N T S
+------
+Opening statements:
+Page
+Senator Portman..............................................
+1
+Senator Carper...............................................
+3
+Senator Hassan...............................................
+12
+Senator Rosen................................................
+17
+Senator Hawley...............................................
+20
+Senator Harris...............................................
+22
+Senator Peters...............................................
+25
+Prepared statements:
+Senator Portman..............................................
+47
+Senator Carper...............................................
+50
+WITNESSES
+Thursday, March 7, 2019
+Mark Begor, Chief Executive Officer, Equifax Inc.; Accompanied by
+Jamil Farshchi, Chief Information Security Officer.............
+7
+Arne Sorenson, President and Chief Executive Officer, Marriott
+International..................................................
+8
+Andrew Smith, Director, Bureau of Consumer Protection, U.S.
+Federal Trade Commission.......................................
+35
+Puente Cackley, Director, Financial Markets and Community
+Investment, U.S. Government Accountability Office..............
+37
+John Gilligan, Chief Executive Officer, Center for Internet
+Security.......................................................
+38
+Alphabetical List of Witnesses
+Begor, Mark:
+Testimony....................................................
+7
+Prepared statement...........................................
+54
+Cackley, Puente:
+Testimony....................................................
+37
+Prepared statement...........................................
+79
+Gilligan, John:
+Testimony....................................................
+38
+Prepared statement...........................................
+90
+Smith, Andrew:
+Testimony....................................................
+35
+Prepared statement...........................................
+69
+Sorenson, Arne:
+Testimony....................................................
+8
+Prepared statement...........................................
+59
+APPENDIX
+Equifax Audit....................................................
+98
+Letter From Our President........................................
+106
+February 18, 2019 New York Times Article.........................
+108
+March 6, 2019 Wall Street Journal Article........................
+112
+Responses to post-hearing questions for the Record:
+Mr. Begor and Mr. Farshchi...................................
+116
+Mr. Sorenson.................................................
+121
+EXAMINING PRIVATE SECTOR DATA BREACHES
+----------
+THURSDAY, MARCH 7, 2019
+U.S. Senate, Permanent Subcommittee on
+Investigations,
+Committee on Homeland Security and Governmental Affairs,
+Washington, DC.
+The Subcommittee met, pursuant to notice, at 10:05 a.m., in
+room SD-106, Dirksen Senate Office Building, Hon. Rob Portman,
+Chairman of the Subcommittee, presiding.
+Present: Senators Portman, Hawley, Johnson, Carper, Hassan,
+Harris, Rosen, and Peters.
+OPENING STATEMENT OF SENATOR PORTMAN\1\
+Senator Portman. This hearing of the Permanent Subcommittee
+on Investigations (PSI) will come to order.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Senator Portman appears in the
+Appendix on page 47.
+---------------------------------------------------------------------------
+It seems no industry is immune from data breaches that
+expose sensitive consumer information.
+Some of the biggest breaches have seen recently include
+Google, Uber, Facebook, and the department store Saks Fifth
+Avenue.
+Government agencies have not been immune from this. They
+have also suffered significant breaches, including over 20
+million security clearance background files that were held by
+the Office of Personnel Management (OPM).
+Locating network vulnerabilities that hackers can exploit
+to gain access to sensitive information is a key issue.
+Actually, Senator Hassan and I have worked on together with
+some specific legislation. She is here this morning.
+Earlier this year, the President signed our Hack DHS Act,
+as an example, into law, which will strengthen DHS'
+cybersecurity by using ``white hat'' hackers to locate
+previously unknown vulnerabilities in the Department's systems.
+Last night, Senator Carper and I released a report on how
+the Equifax data breach occurred and how hackers were able to
+steal personal and financial data on over 145 million
+Americans.
+That report documents how Equifax failed to follow basic
+cybersecurity practices and protocols, which prevented the
+company from identifying and patching an exploitable
+vulnerability on its system.
+During the course of our investigation, we also learned the
+company failed to preserve important documents related to the
+breach.
+Equifax employees told us they frequently used a chat
+application called ``Microsoft Lync.''
+When Equifax first discovered the breach on July 29, 2017,
+the security team used that chat platform to discuss the hacked
+system and even the company's response.
+Our report uncovered that Equifax did not issue a notice
+not to destroy documents related to the breach until August 22,
+2017, and failed to set the chat platform to archive any of
+these chats until September 15, 2017, a month and a half after
+the breach was discovered, again, back on July 29th.
+Prior to September 15, Equifax was not archiving any Lync
+chats based on its own document retention policy. Counsel for
+Equifax told the Subcommittee they could not find any of the
+chats Equifax employees told us about documenting the discovery
+of the breach.
+As a result, the Subcommittee is left with an incomplete
+record. So are the American people.
+After discovering the breach, Equifax waited 6 weeks to
+disclose to the public on September 7, 2017, that hackers had
+compromised its collection of personal and financial
+information, again, on over 145 million Americans.
+Adding to this delay, the hackers had access to the
+information since May 13, 2017, 3 months before they were
+discovered.
+Equifax Chief Executive Officer (CEO) Mark Begor is here
+today to discuss our report's findings.
+We are also going to hear today from Arne Sorenson,
+Marriott's CEO, on the data breach his company disclosed in
+November 2018. That breach of the Starwood reservation database
+occurred in July 2014, 2 years before Marriott acquired
+Starwood in September 2016.
+But this was not the first time Starwood suffered a
+databreach.
+In November 2015, Starwood announced that it had discovered
+malware on some of its systems at hotels designed to steal
+credit card information at the point of sale. At the time,
+Starwood stated this breach did not impact its guest
+reservation database.
+In November 2018, Marriott announced it had discovered that
+a hacker had accessed the Starwood guest reservation database.
+Marriott's investigation determined that the hacker had
+access to guest information related to 383 million guest
+records since 2014.
+As part of that database, the hackers also gained access to
+over 23 million passport numbers and 9.1 million credit card
+numbers, most of which were expired.
+Marriott learned of the breach on September 8, 2018, but
+waited almost 12 weeks to notify the public on November 30,
+2018.
+The goal of today's hearing and the Subcommittee's report
+is to fully understand these breaches, but also to focus on the
+future, to focus on solutions.
+Companies and government agencies alike must take steps to
+protect the data consumers entrust to them. That is clear.
+When that data is compromised, we need to know as soon as
+possible so we can do everything we can to ensure criminals are
+no longer taking advantage of us as consumers. That seems
+clear.
+I look forward to working with my Ranking Member, Senator
+Carper, and others on this Committee, including the Chairman
+and Senator Hassan, and ensuring that we can move forward with
+legislation that ensures both the protection of consumer data
+and prompt notification when data is compromised.
+I also want to thank Senator Carper and his staff for their
+dedication to these issues and him and his staff for leading
+this investigation.
+With that, I turn to Senator Carper for his opening
+statement.
+OPENING STATEMENT OF SENATOR CARPER\1\
+Senator Carper. Thanks. Thanks, Mr. Chairman. Our thanks to
+both of our witnesses this morning for joining us.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Senator Carper appears in the
+Appendix on page 50.
+---------------------------------------------------------------------------
+I want to take a moment to say a special thanks to members
+of the minority staff and the members of the majority staff who
+have worked hard for months to prepare us for this day.
+According to a 2017 study by the Pew Research Center, the
+vast majority of Americans have personally experienced a major
+databreach. My guess is most of us in this room on this side of
+the panel are among them. About half of our country believes
+their personal information is less secure than it was 5 years
+ago.
+Our Subcommittee initiated an investigation into the causes
+of private sector data breaches shortly after Equifax announced
+its breach in the fall of 2017. As we conducted our work, a
+seemingly endless stream of new, high-profile incidents were
+announced. One after the other, well-known companies, including
+Google, Facebook, Ticketfly, T-Mobile, Orbitz, Saks Fifth
+Avenue, Lord & Taylor, Under Armour, and, eventually, Marriott,
+announced that they too had suffered breaches.
+Mr. Begor and Mr. Sorenson, we thank you for your
+appearance today and for your help in better understanding how
+these private sector data breaches occur and what can be done
+to prevent them, including steps that we can take. While my
+colleagues and I will have some tough questions for you, as the
+Chairman has indicated, our goal here is to ensure that the
+mistakes and oversights that contributed to the attacks your
+companies suffered are well understood so that other American
+businesses are less likely to fall victim to hackers.
+When hackers are able to obtain someone's personal
+information, the consequences are real. The 2017 Pew study I
+referred to found that more than 40 percent of the individuals
+polled had discovered fraudulent charges on their credit cards.
+Others reported that someone had attempted to take out loans in
+their name, file tax returns in their name, or steal their
+identity. Several of those things have happened to my own
+family and I suspect to the families of many of us in this
+room.
+Even when a breach victim is fortunate enough to avoid
+becoming a victim of crimes like these, they often deal with
+months or even years of hassle and worry as they swap out
+compromised credit and debit cards, change their online
+passwords, and monitor their bank accounts and credit reports
+for suspicious activities.
+Given the vast amount of information collected on consumers
+these days and the skill and relentlessness of the hackers
+seeking to steal that information, it is critical that
+businesses make cybersecurity a priority at the very top level
+of a company--the board and the CEOs, as well. The constant
+stream of data breach notifications we see year in and year out
+is a sign to me that we could, and should, be doing a lot
+better.
+As my colleagues have heard me say many times, everything I
+do I know I can do better. The same is true of all of us. In
+this one particular area, we need as a country to do a whole
+lot better. It is a shared responsibility.
+Equifax and its two main competitors--TransUnion and
+Experian--have built their business models around the
+collection and dissemination of consumers' most sensitive
+financial information. That includes names, nicknames, dates of
+birth, Social Security numbers, telephone numbers, current and
+former addresses, account balances, and payment histories.
+This data collection is not something consumers can opt out
+of. Credit reporting agencies collect personal information
+without our knowledge or our explicit authorization.
+If someone shops regularly at a retail chain that gets
+hacked, that person can opt not to shop there any longer if
+doing so makes them uncomfortable. They cannot, however, keep
+their information away from Equifax. Knowing this, you would
+think that protecting the sensitive information its entire
+business relies on would be Equifax's top priority. Yet
+information obtained by this Subcommittee and included in a
+bipartisan report released last night illustrates a years-long
+neglect of basic cybersecurity practices and a decision by
+company officials to prioritize the ease of doing business over
+security.
+In 2015, Equifax officials learned through an internal
+audit that the company's information technology (IT) systems
+were riddled with thousands of unpatched vulnerabilities,
+hundreds of them deemed critical or high risks. They also
+learned that the company lacked a mature inventory of its IT
+assets, making it more difficult to address problems as they
+arose.
+By the time the Department of Homeland Security announced,
+in March 2017, that versions of the widely used web application
+software Apache Struts included a serious security flaw,
+Equifax had still not properly responded to its 2015 audit
+findings or brought its cybersecurity practices in line with
+industry standards.
+Despite being informed that the announced flaw in Apache
+Struts was extremely dangerous and easy to exploit, Equifax
+officials appear to have approached the challenge it presented
+with no sense of urgency whatsoever.
+Scans of the company's networks failed to find the
+vulnerable version of Apache Struts it was using, and key staff
+who were in positions to make the necessary security
+enhancements were left off internal communications. The
+vulnerability was discussed at regular security meetings held
+in March and April 2017, but it is not clear who attended those
+meetings. Senior managers interviewed by the Subcommittee were
+nominally in charge of IT management and cybersecurity at
+Equifax, and they told Subcommittee staff that they did not
+regularly attend the meetings themselves.
+Former top Equifax officials we interviewed were very frank
+about the priority they placed on cybersecurity. One key former
+security official told Subcommittee staff that ``security was
+not first'' at Equifax. That is an understatement. The
+company's former chief information officer (CIO) was extremely
+dismissive of the importance of key security processes during
+his interview, saying that he considered the patching of
+security flaws to be a ``lower level responsibility that was
+six levels down'' from him.
+There is no evidence that these two individuals or any
+other top executives at Equifax directed staff to take steps to
+update the company's IT asset inventory or conduct a more
+thorough search for the vulnerable Apache Struts software. This
+lack of initiative would be bad enough on its own, but Equifax
+also left itself blind to incoming attacks by allowing the
+tools it needed to monitor for malicious web traffic to expire.
+When hackers moved in May 2017 to attack Equifax through a
+version of Apache Struts still in use on the company's
+websites, nobody saw them coming. What is more, nobody
+discovered them until July--78 days after the hackers first
+gained entry. During the 78 days the hackers spent inside of
+Equifax's IT network, they accessed multiple data repositories
+containing information on more than 145 million people, and
+probably half the people in this room are among them.
+There are tools available that could have sent alerts to
+Equifax staff as the hackers manipulated the information in the
+databases, but Equifax had not installed them.
+Once Equifax found the hackers at the end of July 2017,
+Equifax executives waited an additional 6 weeks before letting
+the public know what had happened--6 weeks.
+Because Equifax was unaware of all the assets it owned,
+unable to patch the Apache Struts vulnerability, and unable to
+detect attacks on key portions of its network, consumers were
+left unaware for months that criminals had obtained their most
+sensitive personal and financial information. Consumers were
+also unaware that they should take steps to protect themselves
+from fraud.
+Importantly, these failures stand in stark contrast to the
+experiences of TransUnion and Experian, which both quickly
+identified and addressed the same Apache Struts vulnerability
+and have not announced data breaches.
+I have a friend, and when you ask him how he is doing, he
+says, ``Compared to what?'' I think the obvious question here
+is for Equifax compared to TransUnion and Experian.
+The data breach announced by Marriott this past November
+does not appear to have been caused by the kind of cultural
+indifference to cybersecurity the record indicates existed at
+Equifax. Rather, it looks like Marriott inherited this attack
+through its acquisition of Starwood. But the size of this
+breach--up to 500 million people were reported to have been
+affected at one point--requires that we take a close look and
+learn what happened and why.
+I have questions about Marriott's data retention policies.
+For example, I understand why a hotel chain might collect
+passport information in some cases, but I do not know why it
+would need to maintain records of millions of guest passport
+numbers, as appears to have occurred in this case.
+This incident also raises questions about the degree to
+which cybersecurity concerns do and should play a role in
+merger and acquisition decisions. In Starwood, Marriott
+acquired a company that it knew had serious cybersecurity
+challenges and had actually been attacked before. Despite this,
+Marriott chose to initially leave Starwood's security system in
+place after acquiring the company. We need to learn more about
+the priority that Marriott executives chose to place on
+addressing security flaws at Starwood as it worked to integrate
+its systems into its own.
+What we do know today is that large-scale data breaches are
+not going to stop. We cannot afford to shrug our shoulders and
+write them off as a cost of doing business. There are real
+costs to approaching cybersecurity challenges with this frame
+of mind and real harm that can occur both to consumers'
+pocketbooks and to the companies' bottom lines.
+Here in Congress, I think it is long past time for us to
+come to agreement on a Federal data security law that lays out
+for private industry what we expect from them, both in data
+protection and in data breach notification.
+We also need to ensure that the system we have established
+for sharing information on cyber threats and cybersecurity best
+practices is as effective as it can be and it is updated over
+time. If a company as large and sophisticated as Equifax can
+fail so badly at implementing basic cybersecurity practices, we
+can certainly do a better job making clear what will and will
+not work when it comes to blocking hackers and preventing data
+breaches.
+My thanks again, Mr. Chairman, for the work that you and
+your staff and my staff have put in on this complex and
+important issue. We look forward to hearing from our witnesses
+today. Again, thank you for joining us.
+Senator Portman. Thank you, Senator Carper.
+I would now like to call the first panel of witnesses.
+First we have Mark Begor, who is the chief executive officer of
+Equifax. He has served in that capacity since April 2018.
+Again, as we just heard, the Equifax breach was discovered in
+July 2017.
+Second, Arne Sorenson is here. He is the president and
+chief executive officer of Marriott International, Inc. He has
+held that position since 2012. Again, as we just heard,
+Marriott acquired Starwood in 2016. The breach occurred at
+Starwood in 2014 and was discovered in 2018.
+We are also going to swear in someone else this morning,
+Jamil Farshchi, who is the current chief information security
+officer (CISO) at Equifax. It was requested should Mr. Begor
+need some special expertise, technical assistance, so I am
+going to ask you to raise your hand as well.
+It is the custom of this Subcommittee to swear in all of
+our witnesses, so at this time I would ask you all to please
+stand and raise your right hand. Do you swear the testimony you
+will give before this Subcommittee will be the truth, the whole
+truth, and nothing but the truth, so help you, God?
+Mr. Begor. I do.
+Mr. Farshchi. I do.
+Mr. Sorenson. I do.
+Senator Portman. Let the record reflect the witnesses, all
+three, answered in the affirmative.
+Gentlemen, all your written testimony will be printed in
+the record in its entirety, so I would ask that you try to
+limit your oral testimony to 5 minutes.
+Mr. Begor, we will hear from you first.
+TESTIMONY OF MARK BEGOR,\1\ CHIEF EXECUTIVE OFFICER, EQUIFAX
+INC.; ACCOMPANIED BY JAMIL FARSHCHI, CHIEF INFORMATION SECURITY
+OFFICER, EQUIFAX INC.
+Mr. Begor. Chairman Portman, Ranking Member Carper, and
+distinguished Members of the Subcommittee, thank you for the
+opportunity to be here today. I am Mark Begor, Chief Executive
+Officer of Equifax. With me today is Jamil Farshchi, our Chief
+Information Security Officer.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Mr. Begor appears in the Appendix on
+page 54.
+---------------------------------------------------------------------------
+Let me begin by expressing my personal regret for the
+disruption that our 2017 cyber attack had on millions of
+Americans.
+Cyber crime is one of the greatest threats facing our
+country today. U.S. corporations are continually fighting
+criminals that operate outside the rule of law and attempt to
+steal data for their own gain. These attacks are no longer a
+hacker in the basement attempting to penetrate a company's
+security perimeter, but instead are carried out by increasingly
+sophisticated criminal rings and, even more challenging,
+nation-states that are well funded or the military arms of
+nation-states. These attacks on U.S. businesses are attacks on
+U.S. consumers and are attacks on America. This war is getting
+more challenging and more sophisticated, and there is no end in
+sight. Fighting these attackers will require cooperation
+between government, law enforcement, and the private sector.
+We appreciate that Members of this Subcommittee have
+introduced legislation that promotes this type of partnership,
+and we support these efforts.
+The fact that Equifax suffered a data breach does not mean
+the company did not have an appropriate data security program
+or that the company failed to take cybersecurity seriously. I
+understand that before the attack, the company's security
+program was well funded and staffed and leveraged strong
+administrative and technical safeguards.
+In April 2018, when I joined Equifax, I made a personal
+commitment internally and externally to build a culture within
+Equifax where security is a part of our Deoxyribonucleic acid
+(DNA) and committed that Equifax would be an industry leader
+around data security. I am proud of the leadership, cultural
+enhancements, and investments that Equifax has made over the
+past 18 months. We have added experienced senior leaders and
+board members to enhance our security and technology skill
+sets. In 2018 alone, we added close to 1,000 incremental
+security and IT professionals to our team. Between 2018 and
+2020, we are increasing our technology and security spending by
+50 percent, totaling an incremental $1.25 billion.
+We recognize that being an industry leader means actively
+sharing our security learnings and best practices. We have been
+openly sharing all of our cyber learnings with our customers,
+our competitors, the U.S. Government, and the rest of the
+private sector.
+Last year, we established a number of meaningful security
+partnerships that will help raise the entire security community
+by leveraging our joint learnings.
+In addition to the goal of being a leader in data security,
+Equifax has been working diligently to support U.S. consumers.
+When Equifax announced the cyber attack, its response was
+guided by a desire to focus on helping and supporting consumers
+first.
+Since the 2017 incident, Equifax has invested more than $80
+million to assist impacted consumers. When we announced the
+incident, we offered an identity theft and credit monitoring
+service free for all Americans, regardless if they were
+impacted by the cyber incident. Last November, when that
+service was nearing its end, Equifax voluntarily extended that
+protection for another year.
+Going forward, we are investing over $50 million to make it
+easier for consumers to interact with us, both over the
+Internet and in our call centers. We want to make sure we are a
+consumer-friendly credit bureau at every step of the way.
+To close, I would like to thank Chairman Portman for
+holding this hearing. Equifax is committed to our mission to
+become an industry leader in data security, and we are
+investing unprecedented resources in technology, security, and
+people.
+Thank you again for the opportunity to testify and for your
+focus on protecting American businesses and consumers from
+cyber attacks.
+Senator Portman. Thank you, Mr. Begor.
+Mr. Sorenson, we will now hear from you.
+TESTIMONY OF ARNE SORENSON,\1\ PRESIDENT AND CHIEF EXECUTIVE
+OFFICER, MARRIOTT INTERNATIONAL
+Mr. Sorenson. Chairman Portman, Ranking Member Carper, and
+members of the Subcommittee, thank you for the opportunity to
+testify today.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Mr. Sorenson appears in the Appendix
+on page 59.
+---------------------------------------------------------------------------
+The subject the Subcommittee is tackling--private sector
+cyber attacks--is an increasingly urgent one, one that has hit
+Marriott directly with the data security incident we announced
+on November 30, 2018. We deeply regret this incident and are
+committed to determining how it occurred, supporting our
+affected guests, and enhancing security measures to protect
+against future attacks.
+For 91 years, Marriott has been in the business of serving
+people. We began as a small family business in Washington,
+D.C., serving hamburgers and root beer at The Hot Shoppes.
+Today we are a global hospitality company, conducting
+operations in all 50 of the United States and 130 countries and
+territories. Throughout that time, we have built our reputation
+by putting people first and focusing on the care of our guests.
+As a company that prides itself on taking care of people,
+we recognize the gravity of this criminal attack on the
+Starwood Guest Reservation Database and our responsibility for
+protecting data concerning our guests. To all of our guests, I
+sincerely apologize. We are working hard every day to rebuild
+your confidence in us.
+Because this incident involved the Starwood database, let
+me provide some background on the merger of Marriott with
+Starwood.
+Marriott signed a merger agreement with Starwood in
+November 2015 and closed the transaction in September 2016.
+Between these two events, we obtained information about
+Starwood's network and conducting an assessment on integrating
+the two systems, although this inquiry was legally and
+practically limited by the fact that, until the merger closed,
+Starwood remained a direct competitor.
+We made the decision to retain Marriott's reservation
+system as the central system for the combined group of hotels
+and to retire Starwood's system. Migrating all of Starwood's
+1,270 hotels onto Marriott's reservation system while avoiding
+disruption of the reservation process was a significant
+undertaking that took us about 2 years. We made additional
+investments to enhance security of the system while it was
+operating.
+Following the discovery of the incident, we accelerated the
+retirement of Starwood's reservation system and, as of December
+18, 2018, are no longer using the Starwood Guest Reservation
+database to conduct business or operations.
+Until our investigation of the incident announced on
+November 30, we were unaware that the Starwood Guest
+Reservation database had been infiltrated by an attacker. Our
+investigation was initiated following an alert on September 7,
+2018, from a cybersecurity tool. In response, our IT team
+swiftly implemented containment measures. We retained industry
+experts to conduct a forensic investigation and deploy
+additional defenses.
+Unraveling the scope of the attack required extensive
+forensic work by experts. We also contacted the Federal Bureau
+of Investigation (FBI), which continues its investigation. As
+our investigation unfolded, we learned that the intruder had
+been in the Starwood system since 2014.
+On November 19, 2018, we determined that the intruder had
+accessed files containing personal information of guests who
+had made reservations at Starwood properties. We believe that
+the upper limit for the total number of guest records involved
+in this incident is approximately 383 million.
+What do we mean by ``guest records''? Take my name for an
+example, which is in the database multiple times with
+variations such as Arne Sorenson, Arne M. Sorenson, Arne Morris
+Sorenson, sometimes with my home address, other times with my
+business address, and yet again without any address. Each entry
+represents a separate record even though they all related to
+one person. We cannot confidently determine whether records
+with similar names, or even identical names, represent one
+person or multiple people, but we know that the information for
+fewer than 383 million unique people was involved.
+In the days immediately after November 19, we worked
+quickly to make sure that we could share useful information
+with our guests. On November 30, we provided broad public
+notice of the incident via a press release and notification
+banners across Marriott and Starwood websites and apps. We
+stood up a website with consumer information in multiple
+languages as well as call centers to answer questions and
+offered guests free web monitoring service, among other steps.
+In assessing the impact of this event, you should know that
+Starwood did not keep guests' Social Security numbers, and the
+overwhelming majority of payment card information was
+encrypted. To date, we have not found data removed from the
+Starwood database on the Internet or Dark Web, which we
+continue to monitor.
+Finally, we know this is a race that has no finish line.
+Cyber attacks are a pervasive threat. We are committed to
+responding to these evolving threats with a layered defense
+approach and continuous improvement. Our founder, J. Willard
+Marriott, was fond of saying that success is never final. We
+are applying that critical review process to learn from this
+incident as we work diligently to regain the level of trust
+that our guests have come to expect from us over the years.
+Thank you, and I welcome your questions.
+Senator Portman. I would like to thank both the witnesses
+for their statements, and I think they make a good point that
+this is a matter that requires cooperation between government
+and the private sector at every level.
+I am going to delay my questioning until we have a chance
+to be sure that our two colleagues, who I know have other
+commitments, have a chance to ask theirs. For this first
+round--I will be coming back and asking some questions. I want
+to give them a chance first before they have to leave, and I
+now turn to my Ranking Member, Senator Carper.
+Senator Carper. Senator Hassan, if you and Senator Rosen
+have other obligations, go ahead and ask your questions.
+Senator Hassan. I am fine if you want to go ahead.
+Senator Carper. All right. Thanks.
+Again, thank you. I think it was Maya Angelou who used to
+say, ``People may not remember what you say, they may not
+remember what you do, but they will remember how you made them
+feel''--Maya Angelou. ``People may not remember what you say,
+they may not remember what you do, but they will remember how
+you made them feel.'' First, I want to say I was glad to hear
+both of you apologize. As I used to say to my kids, who are now
+grown, ``The three most important words are `please' and `thank
+you.' The couple others that mean a lot are `I am sorry,'
+especially when we screw up.'' Especially with respect to
+Equifax, the amount of screw-up is just almost unbelievable.
+Equifax has known since 2015 that its approach to
+cybersecurity was lacking, and among other issues, Equifax
+learned during an internal audit that was conducted that year
+that the company had left a number of critical and high-risk
+security flaws unpatched.
+The company also learned it lacked the comprehensive IT
+asset inventory, meaning it would be difficult to address new
+security issues as they were brought to the company's
+attention.
+When the Department of Homeland Security informed the
+public about a major security risk in certain versions of
+Apache Struts, apparently a very commonly used piece of
+software, it also told the public that the vulnerability was
+easy to exploit.
+Knowing all of that, Equifax relied on the same flawed
+policies and procedures which ultimately failed to identify the
+presence of the vulnerable versions of Apache Struts. Equifax
+circulated a notice about the vulnerability to an email list
+that did not include application owners, put the issues on the
+agenda of two meetings that senior leaders failed to attend
+regularly, and conducted repeated scans that failed to identify
+the vulnerability which allowed hackers to access the online
+dispute portal.
+Mr. Begor, if Equifax knew that it lacked a mature
+inventory of its IT assets, why didn't senior IT and security
+officials and staff do more to improve the inventory before the
+2017 data breach? Specifically, why did Equifax fail to conduct
+a follow up audit after the 2015 review to determine whether
+the company had made progress in addressing its patch
+management issues?
+Mr. Begor. Ranking Member, I think as you know, I joined in
+April 2018. In the first few weeks of joining Equifax, I went
+into great detail to understand the forensics and what caused
+the breach, what routines and processes were in place at the
+time. As I stated in my testimony, there were controls in
+place. They clearly were not strong enough. We have taken great
+steps since then. We have doubled the size of our security
+team. I described in my testimony a few minutes ago our
+increased spending on data and security and our approach to
+making security central to the DNA of the company.
+We also changed the incentives in the company. We are
+unique in corporate America, I think, that in our annual bonus
+system, which the top 3,900 out of 11,000 employees participate
+in, 25 percent of that bonus is tied to cybersecurity. That
+went into effect in 2018. It has continued in 2019, and it will
+continue going forward. Ranking Member, that incentive is only
+punitive, meaning if we do not make progress on our security
+improvements, if we do not take our security forward, the
+metric will reduce the individual's bonus, including mine.
+There is real buy-in to making security a part of our DNA,
+which we think is quite critical.
+I would also say--and I think Mr. Sorenson said the same
+thing--this will not end, meaning you can never be good enough.
+The investments and spending will continue, and as I pointed
+out, we have increased our technology and security spending in
+2018, 2019, and 2020 by 50 percent. Security is a top priority
+at Equifax. It is a top priority of mine, the board, the
+leadership team, and the whole organization going forward.
+Senator Carper. I spent many years of my life in the Navy--
+I am a retired Navy captain, a Vietnam veteran--and we have a
+standard in the Navy and a process in the Navy that says if the
+captain of the ship is asleep in his or her wardroom in the
+middle of the night and the ship runs aground, the captain of
+the ship is held responsible. Has that happened in this case?
+Mr. Begor. In my view, Senator, it has. I think you know
+that the prior CEO is no longer with the company. The prior
+CISO is no longer with the company. The prior CIO is no longer
+with the company.
+If you look at our technology and security organization, we
+have upgraded really strong talent in approximately two-thirds
+of both of those organizations. As I talked about, we have
+added significant resources, approximately 1,000 incremental
+people since July 2017. We had 10,000 people globally at the
+beginning of last year. Last year, we added approximately
+1,000, and those were all in security and technology. There has
+been a lot of accountability. Again, I was not there, but there
+is a new team at Equifax that takes security intensely
+seriously.
+Senator Carper. Equifax's competitors, which have the same
+extremely sensitive data on American consumers as Equifax,
+operated with a stronger sense of urgency once they learned
+about the Apache Struts vulnerability. As you assumed the
+leadership of this organization, you must have wondered, if
+they are doing this, why didn't we at Equifax? We have asked
+about what you have done. You explained a bit about what you
+have done to change the culture of your company around
+cybersecurity.
+If you are advising other companies, whether they happen to
+be companies that deal in the sort of business that you have,
+your business model, what advice would you have for those other
+companies today?
+Mr. Begor. First, it is a war. I think Mr. Sorenson said
+the same thing. I think this Subcommittee understands that
+these criminals that are attacking U.S. companies are
+increasingly sophisticated. We get attacked multiple times per
+day, and with the system we have now, I get an alert on my
+phone from my Chief Information Security Officer and his team
+when there is an attempted attack on Equifax. Point number one
+is that this threat is not going away. Point number two is we
+really applaud the Subcommittee's focus on sharing best
+practices. As the Senator may know, it is challenging for a
+company that goes through a data security breach to be open
+about actually having it. Therefore, I think these forums are
+critically important.
+When I joined Equifax in April, my first call was to my two
+competitors, and what I told them was that there are no trade
+secrets around data security. This is a war we face as an
+industry. It is a war we face for American companies, as you
+pointed out, for the government, and it is one that is not
+going to end. We applaud the idea of sharing actively what we
+are learning from each other. For example, what are the
+Internet Protocol (IP) addresses that are from known bad
+actors? If one company knows it, let us make sure the next
+company knows it and share those so we can really build our
+defenses up, because the threat is increasingly sophisticated
+and challenging.
+Senator Carper. I will close this round with this thought.
+The Constitution of our country was first ratified in Delaware.
+December 7, 1787, we ratified it before anyone else had. The
+very beginning of the Constitution started with these words,
+the Preamble: ``We, the people of the United States, in order
+to form a more perfect union . . .'' It does not say to form a
+perfect union but ``a more perfect union.'' Our goal in this
+realm has to be perfection, knowing we will never get there,
+but we need to strive for that.
+Thank you.
+Senator Portman. Senator Hassan.
+OPENING STATEMENT OF SENATOR HASSAN
+Senator Hassan. Thank you, Mr. Chair, and thank you,
+Ranking Member Carper, both of you, for this investigation but
+also for your bipartisan leadership of this Subcommittee. Thank
+you to both of our witnesses for being here today.
+Let me start with a couple of questions, Mr. Begor, to you.
+You said in your testimony you believe that, despite some
+errors, Equifax took cybersecurity very seriously even before
+the 2017 breach. I know that the 2017 breach occurred before
+your time at the helm of the company, but the facts presented
+in the Subcommittee's report make clear that the company's pre-
+breach security practices were really not in keeping with
+serious cybersecurity practice.
+The report shows that Equifax had forgotten to update a
+security certificate known as an ``SSL Certificate'' that
+encrypted data transfers between Equifax's customers and the
+website.
+When Equifax developers attempted to install new
+certificates, they realized that some of the old ones had
+expired as much as 8 months earlier. That failure led to the
+exploitation, as you have acknowledged, of millions of
+Americans' data by what appears to be Chinese hackers. Equifax
+should have routinely audited its SSL Certificates to make sure
+they had not expired, especially since these certificates can
+only protect user data when they are current.
+Let me just ask you a few questions. When Equifax sought to
+upgrade its SSL Certificates on July 29, 2017, how many expired
+certificates did your team come across? How many of the
+certificates had been expired by more than a day?
+Mr. Begor. Senator, I do not have that information in front
+of me. If you would like me to, I could ask my Chief
+Information Security Officer if he could help with that
+question.
+Senator Hassan. That would be terrific. Thank you.
+Mr. Begor. OK.
+Senator Hassan. Good morning.
+Mr. Farshchi. Good morning. Unfortunately, I also was not
+at Equifax during the time of this incident, and so I do not
+have that information with me right at this moment. But I am
+happy to go back to the team to look at----
+Senator Hassan. Does the company have that information?
+Mr. Farshchi. I believe we do, yes.
+Senator Hassan. Do you know if any of these certificates
+had been expired for more than 8 months?
+Mr. Farshchi. Unfortunately, because I was not there, I do
+not have the specifics regarding the certificates.
+Senator Hassan. I would expect that even though you were
+not there, that you would know this or have access to it,
+because it seems to me that is the type of investigation and
+understanding that you would want to develop moving forward.
+Mr. Begor. Senator, if I could just add, as you might
+imagine, we have a much different process today, much more
+robust, and we know exactly which certificates are expired,
+which ones are critical. They are risk-rated. We also do
+automatic scanning as a protocol that would be quite helpful in
+today's environment. We are continually investing in new
+technologies to make sure we stay in front of new risks and
+very rapidly address those.
+Senator Hassan. You are routinely auditing your SSL
+certificates now?
+Mr. Begor. Yes.
+Senator Hassan. I am seeing nodding, too.
+[Mr. Farshchi nodding.]
+OK. You are making sure that they are current and they are
+not in danger of imminently expiring, correct?
+Mr. Begor. That is correct.
+Senator Hassan. OK. Would you support a law that would
+require companies like Equifax that deal with millions of
+Americans' personally identifiable information (PII) to adhere
+to clear cybersecurity standards and practices, such as
+auditing your security certificates on a continuous basis,
+standards established by National Institute of Science and
+Technology (NIST), and enforced through your regulator?
+Mr. Begor. First, Senator, I agree that Equifax is in a
+unique position with the data we hold versus most companies. We
+understand that, and we take it seriously.
+With regards to all of the elements you talked about, those
+are standard protocols for us today and things that we are
+following as a company, and are the highest standards of data
+security.
+With regards to legislation, we would be happy to work with
+your office and understand, what is the right legislation to
+move forward. But we are doing the things you talked about.
+Senator Hassan. I understand you are doing things, but you
+are doing things after a major breach. What I want to make sure
+is that Americans whose information is in custody of an entity
+they may not even know anything about do not have to wait for
+there to be a breach before companies start doing what they
+should responsibly do.
+We have all discussed that this is an ongoing threat. It
+has been an ongoing threat for a while now. We need to make
+sure that there are standards in place just the way we have
+safety standards in many other industries.
+Let me move on just to another aspect of this. It appears
+from the PSI report that one of Equifax's biggest weaknesses
+was that the company's policy made individual developers
+responsible for identifying and patching vulnerabilities in the
+software they use rather than relying on a full company effort
+to address any vulnerabilities. As Senator Carper mentioned,
+unfortunately, when DHS alerted Equifax to an urgent and
+critical vulnerability in a piece of software called ``Apache
+Struts,'' the single developer who was using the software was
+not notified by his superiors about DHS' urgent message about
+those vulnerabilities. As a result, that developer was unaware
+of a critical vulnerability that eventually was exploited by
+hackers.
+You mentioned in your testimony that human error was
+certainly part of the problems that led to the breach, and I
+think we have all acknowledged that up here, too. However,
+human error happens at every level of government and every
+level of the private sector. So it is incumbent upon security
+professionals and leaders of any security system, government or
+private sector, to build in extensive redundancies to mitigate
+against inevitable human errors.
+It appears that prior to the breach, Equifax had not built
+in those redundancies, and as a result, human error became a
+single point of failure in a critical cyber attack. What
+redundancies has Equifax built into its system to ensure that
+inevitable human errors never again lead to this kind of
+breach?
+Mr. Begor. Senator, we agree with your summary there that a
+single point of failure is not ideal which is why we have a
+number of redundancies. If the Senator is OK, I would ask my
+Chief Information Security Officer maybe to talk in more
+detail.
+Senator Hassan. That would be terrific. Yes, thank you.
+Mr. Farshchi. Yes, one of the key tenets of our program is
+assurance. We want to make sure we have as many layers of
+security as absolutely possible because we know that any given
+control may fail or may be bypassed from a sophisticated
+attacker.
+As it relates to patching, we have updated all of our
+processes. We have implemented automated tools to be able to
+help reduce the risk of human error. We have established patch
+champions, individuals specifically accountable for the
+implementation of these patches across the entire enterprise.
+Then we have an automated tracking system to continue to track
+and manage them.
+I would mention one more. On the back end, we continuously
+scan our environment, so we do not just rely on one system, one
+process, or one individual. We have a belt-and-suspenders
+approach across the entire program.
+Senator Hassan. Thank you. That is helpful. I appreciate
+your indulgence, Mr. Chair.
+Mr. Sorenson, I did have a question for Marriott. I will
+submit it for the record. I want us to be thinking about what
+kind of standards we should have when companies merge that
+might help us make sure that we are getting to problems before
+they occur.
+Thank you.
+Senator Portman. Thank you, Senator Hassan. We look forward
+to continuing to work with you on these issues you raised today
+and others.
+I am going to reclaim some of my time now. I will be back
+with more. To follow up on the points that Senator Hassan made,
+she talked updating certificates on the website. She talked
+about building in redundancies. Mr. Begor, you were in your
+testimony pretty confident that they were doing the right
+things by saying, ``The program also leveraged strong
+administrative and technical safeguards . . . and was subject
+to regular, ongoing review through external and internal
+assessments.''
+There is a third concern that I have that I think we need
+to raise this morning and be sure that we are aware of a lack
+of follow up to an audit that was done. There was a 2015 audit
+of the security of your system. It found over 8,500 known
+critical high or medium vulnerabilities on Equifax systems.
+Here is an audit that discovers these vulnerabilities.
+These vulnerabilities had not been patched when the breach
+occurred, and many of them were over 90 days old. A copy of
+that audit is there with you on the witness table for you all
+to look at this morning. I am going to ask that that 2015 audit
+be made part of the record,\1\ without objection.
+---------------------------------------------------------------------------
+\1\ The information referenced by Senator Portman appears in the
+Appendix on page 98.
+---------------------------------------------------------------------------
+My question for you is: How does a company that at that
+time, as you indicated, placed a high priority on cybersecurity
+allow 8,500 vulnerabilities to exist unpatched on its systems?
+Of course, my follow-up is: Since you have become CEO and you
+stepped in and aggressively tried to address these issues, have
+you addressed these patching vulnerabilities on Equifax's
+systems? How could that have happened? What has been done?
+Mr. Begor. Thank you, Senator. As you point out, I was not
+at Equifax during the breach. I spent quite a bit of time
+looking at the past. I am a big believer that we want to learn
+from mistakes and learn from things that were not going as well
+as they could have been. I will be clear right now that there
+is no question that what we did in the past, we can do a lot
+better today and tomorrow, and we already have. We have made
+significant changes in our security protocols, our
+infrastructure, and the evolution in the organization. As I
+mentioned earlier, we brought in really top talent. It starts
+with people leading these organizations.
+I think the Senator may know that the CISO Jamil Farshchi
+reports directly to me, and also has a line into the board to
+our Technology Committee, which is a best practice in many
+companies. We have doubled the size of his team.
+With regards to your specific question around audits and
+patch management, we have also doubled the size of our audit
+team, and as a new element, we have added IT and cyber experts
+as a part of our internal audit team. Historically, those were
+just financial kinds of employees in our audit teams. Now we
+have experienced technologists and security people in our
+independent audit teams and are doing some of that work.
+With regards to follow up of audits----
+Senator Portman. Just hold there for a second. When you
+look back at the 8,500 vulnerabilities that were reported
+through that audit, what happened? Why were those
+vulnerabilities not patched? What was the issue?
+Mr. Begor. Senator, as you may imagine, a large
+organization like Equifax has many patches that are underway at
+all times. They are coming in weekly and daily, and it is part
+of----
+Senator Portman. The race is never won, as was said earlier
+by Mr. Sorenson.
+Mr. Begor. Yes, and----
+Senator Portman. But the question is: What did you learn
+from it? In other words, as you look back--I understand that
+you have beefed up your cybersecurity presence and you have the
+CISO reporting, and you have put a bonus system in place that
+incentivizes all your executives to look at it. But what
+happened? How could those 8,500 vulnerabilities not have been
+addressed at that time? What did you learn from that?
+Mr. Begor. I learned Senator, that it is not how you want
+to operate. We do not operate that way today. There is a real
+focus on both risk prioritizing and patching so the most
+critical areas are done first. The next ones happen after that.
+There is real follow up. There is tracking. I think Mr.
+Farshchi talked about how we follow up on those. We now have
+automated systems to track those, but there is a real rigor, as
+there should be around ensuring that that work is completed and
+those vulnerabilities are shut down.
+Senator Portman. That 2015 audit, if it had been followed
+up on, would have made a difference, it appears to us, based on
+our analysis of what happened. Where are you now? Have you done
+a recent audit? Are you continuing to audit?
+Mr. Begor. We audit routinely. I do not know--I believe the
+last audit was done by the internal audit team in the fourth
+quarter. We also have third parties coming in and doing work
+around our cybersecurity efforts. We do our own perimeter
+testing by our own internal team. We also bring in third
+parties that the internal team does not know are trying to
+penetrate the exterior of our system. There are all levels of
+rigor around getting external inputs like audits around our
+systems and processes.
+Senator Portman. So you have done a follow up audit
+comparable to that 2015 audit, and you have responded to what
+has been discovered, because I assume that it also discovered
+that there were certain vulnerabilities.
+Mr. Begor. Correct. You want your audit to identify things
+that will make the system better. That is the way I think about
+audit teams. I do not know how many audits have been done since
+the cyber breach in 2017, and I can follow up with your office
+on the number of audits, but there have been numerous. As you
+might know, there are also regulatory organizations, the
+Consumer Financial Protection Bureau (CFPB), the Attorneys
+General (AG), and others, that are involved in discussions with
+us around audits, as well as our customers are doing audits.
+Senator Portman. Our interest is to figure out, what the
+heck happened. How could you have an audit that uncovers these
+vulnerabilities and not act on it? With regard to legislation
+we are looking at what role should audits play? If you could
+provide that to the Subcommittee, that would be very helpful,
+when your last audit was, any results of the audit, how you
+react to it today, that would be much appreciated. Senator
+Rosen.
+OPENING STATEMENT OF SENATOR ROSEN
+Senator Rosen. Thank you. I want to thank you for bringing
+this very important, privacy and security. It is issue number
+one not just for all of us as individuals but for all the
+companies and businesses that serve us, that we expect to
+protect us and our communities every single day.
+I do have something to talk about, acquisition and data
+migration. As a former software developer, I have actually done
+that in my prior life, so I have some comments on that.
+But first I want to talk about the global nature, Mr.
+Sorenson, about Marriott hotels. Of course, you are worldwide.
+You operate in all 50 U.S. States and in 130 countries and
+territories. Americans stay at Marriott hotels all over the
+world, so it is crucial that our data collected is secure. You
+have noted yourself approximately 23 million passports have
+possibly been compromised, no matter where the hotel has been
+physically located.
+My question to you is: Last year, Secretary of State Mike
+Pompeo stated publicly that China was responsible for the cyber
+attack on your Marriott system and theft of consumer data. Do
+you believe that to be the case?
+Mr. Sorenson. First, good morning, Senator Rosen.
+Senator Rosen. Thank you.
+Mr. Sorenson. Nice to be here and to be able to answer your
+questions. The short answer is we do not know, and I feel quite
+inadequate about even drawing inferences from the information
+that we have obtained.
+When we first discovered information had been extracted
+from the system, which was November 19th, it has been all hands
+on deck basically to make sure that we----
+Senator Rosen. No preliminary data has come out as to where
+the ISPs may be located or any commonalities in other hacks,
+other hacking attempts with other companies across the world?
+Mr. Sorenson. We have shared everything we have with the
+FBI, including the addresses used and the malware tools used in
+the system so that they can do that kind of investigation. We
+have simply been focused on making sure the door is closed and
+communicating with our customers.
+Senator Rosen. Do you have policies here in the United
+States that apply abroad, taking into account, obviously,
+foreign laws and regulations?
+Mr. Sorenson. We do. We have policies certainly about data
+collection and retention. We also have an obligation to comply
+with local law. I think one of the things that is unusual about
+the Marriott cyber attack is this passport information, and the
+numbers I----
+Senator Rosen. How long do you retain the passport
+information?
+Mr. Sorenson. The passport information that was accessed,
+again, was in the Starwood reservation system, and it had been
+there for a number of years.
+Senator Rosen. Do you have a responsibility when you buy a
+company to do an audit of the company that you are either
+buying or--I guess it is like buying a home, isn't it? Do you
+get an inspection? What does the seller disclose? What is the
+buyer's responsibility? Did you buy it as is so you just took
+no method of auditing the data coming across?
+Mr. Sorenson. The bottom line is we do buy it as is. When
+you are acquiring a public company and ultimately buy those
+shares, there is nobody left as a seller anymore. We are
+Starwood today as well as Marriott. But, of course, we did
+diligence.
+Senator Rosen. I want to tell you as a former computer
+programmer, I have worked for companies where I have done this
+acquisition and data migration, and while the other system is
+still up, I had a team of people working with me to maintain
+that system, auditing that system, making sure it had
+integrity, while we were training and moving that data over.
+Where was your responsibility in maintaining and, as you
+migrated, protecting that data?
+Mr. Sorenson. We were very much taking the same approach,
+so really in three periods we could look at separately. One is
+the 3\1/2\ week due diligence period before we signed documents
+to acquire Starwood--very abbreviated, public company to public
+company. That was, ``Tell us about your IT system.'' Our IT
+team was involved in that and asking questions. But it was
+quite brief, and we did not learn about any of this.
+The second period is between the fall of 2015 and the fall
+of 2016, between signing and closing the transaction. While we
+had not closed, our IT team, was deeply engaged in
+understanding Starwood's system, understanding the data,
+understanding the vulnerabilities, and being ready essentially
+for the moment the transaction closed to say, OK, now what are
+we going to do with this system, both from a cybersecurity
+perspective, data retention perspective, but also an operating
+perspective, obviously.
+Immediately after closing, it was bringing in not just our
+internal expertise but external expertise and saying help us
+identify the risks in this system. Let us make sure we are
+doing things to address those risks and enhance them. In
+retrospect, we wish we had done even more. Obviously, something
+happening.
+But even while that system is running independently before
+the data migration and before it is turned off, we are very
+much trying to make sure that we are addressing the security
+flaws that we think are there.
+Senator Rosen. As we think about those 23 million passports
+and other data that may have been breached worldwide, do you
+have--I just want to be sure--a consistent policy, of course,
+taking into consideration certain other governments' laws or
+regulations, for how you keep the data, how you retain the
+data, and your responsibility toward the data?
+Mr. Sorenson. Let me give you just a couple of data points
+here, if I could. My number is just a little bit different than
+the Committee's. About 19 million total passports accessed.
+Senator Rosen. Nineteen or 23, it is an awful lot.
+Mr. Sorenson. It is a big number.
+Senator Rosen. It is an awful lot of passports.
+Mr. Sorenson. About 5 million of those were unencrypted.
+Senator Rosen. That makes it better?
+Mr. Sorenson. No. Those are the ones that obviously would
+have been----
+Senator Rosen. We know that hackers can beat the
+encryption, so that is not really a factor here, I do not
+believe.
+Mr. Sorenson. I actually do think part of our strategy
+going forward is to rely on encryption and tokenization to say
+whatever data we keep in this space, for example, it should all
+be encrypted. That by itself is not necessarily a totally
+adequate defense, but it is one of the tools we should use.
+I think one of the other things that is clear, there are
+dozens of countries around the world that require us to collect
+passport data. Sometimes they require us to make physical
+copies of passports for guests in those hotels.
+In the Marriott system, legacy, that was done at the hotel
+level and not centralized in the data platform, if you will.
+In the Starwood system, it was done locally and then
+essentially centralized into the data system.
+There are pros and cons of allowing it to be entirely at
+property level. One of the pros is it is a smaller target, if
+you will.
+Senator Rosen. That is right.
+Mr. Sorenson. One of the cons may be----
+Senator Rosen. It is more diffuse, harder to get
+centralized.
+Mr. Sorenson. That is right.
+Senator Rosen. Much easier to break into and bigger reward.
+Mr. Sorenson. One of the cons, on the other hand, is then
+if each hotel needs the same elaborate system of cyber
+defenses, can you make sure that you are delivering that? Those
+are issues we are working through right now.
+I think in all likelihood, everything--passports will be
+encrypted. Second, I think we will look very hard at not
+centralizing any of it, but making sure that we have
+appropriate tools at the proper level to protect against cyber
+attacks.
+Senator Rosen. Perhaps how long you store customer
+information, sensitive information like their credit card
+numbers and those extra security----
+Mr. Sorenson. We are looking at that, too, absolutely.
+Senator Rosen. Thank you. I think my time is up.
+Senator Portman. Thank you, Senator Rosen. Senator Hawley.
+OPENING STATEMENT OF SENATOR HAWLEY
+Senator Hawley. Thank you, Mr. Chairman and Ranking Member,
+and thank you for having this important hearing. Thank you,
+witnesses, for being here.
+Mr. Begor, let me start with you. You may know that as
+Attorney General of Missouri, I and 43 other Attorneys General
+launched a multi-state action after the announcement of the
+Equifax breach in 2017, and among other things, we sent a
+letter to Equifax in which we expressed particular concern with
+Equifax's post-breach activities, including the offering of a
+fee-based service to guard against data breach at the same time
+that you were offering a free service. Here is from the letter:
+``We object to Equifax using its own data breach as an
+opportunity to sell services to breach victims. Selling a fee-
+based product that competes with Equifax's own free offer of
+credit monitoring services to victims of Equifax's own data
+breach is unfair, particularly if consumers are not sure if
+their information was compromise.''
+Can you give us an update on the status of this product?
+Are you still doing that?
+Mr. Begor. Senator, thank you for the question. As I
+mentioned in my testimony this morning, we offered a free
+product for all Americans, whether they were impacted or not,
+at the time of the data breach. I do not know the exact timing
+of when we stopped marketing to consumers, but soon after the
+data breach--it may have been when we received the letter from
+you and the other Attorneys General--we stopped marketing to
+U.S. consumers. We recently started again marketing in October
+on a very limited basis.
+The other thing that we offered in January of----
+Senator Hawley. But this is a free product, though. You
+said you were marketing a free product.
+Mr. Begor. No, Senator. When the breach happened, we
+offered a free credit monitoring product to any American, and
+it was opened up to any American whether they were impacted by
+the data breach or not. That happened in September 2017.
+In January 2018, we added another free product for any
+American that is free for life, that is a Lock & Alert product
+where, on your mobile device, you can lock your credit file or
+unlock it. Equifax is the only credit bureau offering that.
+Last, you talked about marketing to consumers. We stopped
+marketing in the--I do not know the exact date; I can come back
+to your office--but in the fourth quarter of 2017 to U.S.
+consumers.
+Senator Hawley. What about the fee-based product, however,
+that you were offering after the announcement of the breach?
+Mr. Begor. That is what I was referring to, Senator. We
+stopped that in the fourth quarter of----
+Senator Hawley. You stopped marketing it----
+Mr. Begor. That is correct.
+Senator Hawley [continuing]. In the fourth quarter. OK.
+We raised a number of other concerns, the Attorneys
+General, in that same letter and in that same multi-state
+action, including the terms of service that required customers
+to waive their rights, charges customers pay for a security
+freeze with other credit monitoring companies, and overly long
+wait times for the Equifax customer support call center. Can
+you give us an update on how you have addressed these concerns?
+Mr. Begor. Yes, Senator. On the freezing your credit file,
+I referred to what Equifax proactively did in January 2018
+offering a free lock product to any American, and that is still
+offered today. You can get that today. I have it on my phone.
+It allows you to lock or unlock your credit file at no charge
+and it's free for life.
+As the Senator also knows, last September the Senate passed
+S. 2155 that offers consumers free freezes for life. That was
+passed, and that is in place, and we have implemented that
+along with the other two national credit bureaus.
+With regards to our customer service center, there were
+clearly some challenges there as I look back on what happened
+in the fourth quarter. Staffing up for something like the
+breach response is challenging. In my testimony this morning, I
+talked about the incremental $50 million of investment we are
+making now in our customer service capabilities to enhance our
+abilities to manage our day-to-day interactions with consumers
+as well as investing to make it easier for consumers to
+interact with us when they have a question, outside of a data
+breach but just in their normal day-to-day activities with the
+credit bureau, whether it is around a dispute or a question on
+their file.
+Senator Hawley. Thank you.
+Mr. Sorenson, in the testimony you have provided, the
+written testimony you have provided to this Committee, you
+noted--and I am going to make sure I get this right. You noted
+that you have not received any substantiated claims of loss
+from fraud attributable to the incident, and that none of the
+security firms that you have engaged to monitor the Dark Web
+have found evidence that information contained in the affected
+tables has been or is being offered for sale, and that you have
+not been notified by any banks or credit card networks that
+Starwood had been identified as a common point of purchase in
+any fraudulent transactions.
+Do you take this to be a thorough accounting of which
+sources might know about your customers' data used by third
+parties? Is it sufficient for you just to wait for them to
+report to you?
+Mr. Sorenson. I think the answer certainly to the first
+question is no. It is hard to feel like anything is thorough in
+this space. You pick up signals from a number of different
+places. We use a number of different tools, for example, to try
+and go after the same thing.
+We take some comfort in this, but it is only some comfort.
+I think we are grateful for the partnerships we have with the
+financial institutions so we can have a little bit of that
+dialogue about what they might be seeing. But, one of the
+reasons we put the WebWatcher out and made it available to our
+customers is that it is another tool to look regularly at the
+so-called Dark Web to see whether a particular customer's
+information is showing up on that Dark Web.
+Senator Hawley. If I could just press a little deeper here,
+in your written testimony does this reflect an ad hoc list of
+sources that could report this information about personal
+information of users? Or does this reflect some sort of
+cybersecurity methodology that you have in place in order to
+protect your consumers' data?
+Mr. Sorenson. No, I do not think this is really in the
+first instance about protecting consumers' data. I think it is
+about assessing what we can assess about the cyber breach that
+occurred. If you will, the attack happened--successful, I
+suppose, if you take it from the attackers' perspective.
+Information was obtained. We have been wrestling with the
+consequences of that. One of the tools that we are using is to
+try and figure out, OK, what can we tell about where that data
+has ended up.
+The tools that we use to protect the data in the first
+place I think are different and in many respects I would say
+much more fundamentally important, because we want to avoid
+that data from getting out in the first instance at all.
+Senator Hawley. You do have some cybersecurity methodology
+that you have now put in place to systematically protect your
+consumers' data? That is what you are telling me?
+Mr. Sorenson. A whole range of tools.
+Senator Hawley. My final question here, Mr. Chairman. Are
+you complying with General Data Protection Regulation (GDPR),
+Mr. Sorenson? I understand that GDPR in Europe requires
+reporting within 72 hours if at least one Marriott customer
+resides in the European Union (EU). Is that your understanding
+as well?
+Mr. Sorenson. Yes, and we believe we are.
+Senator Hawley. Thank you, Mr. Chairman.
+Senator Portman. Thank you, Senator Hawley.
+Senator Harris.
+OPENING STATEMENT OF SENATOR HARRIS
+Senator Harris. Thank you. Thank you, Mr. Chairman, for
+bringing this subject up. As California's AG, I supported
+expanding California's laws as it relates to the requirement of
+the report of data breaches and have met with many folks over
+the years who have suffered greatly because of the breach of
+their personal information and data. The risks are obviously
+many.
+Mr. Begor, Equifax is facing lawsuits from consumers whose
+information was affected by the breach. In response, your
+lawyers have argued that even though their information was
+stolen, consumers cannot prove that they were harmed. It was
+recently reported that none of the data stolen from Equifax in
+2017 has been used in identity theft or other fraudulent
+activity and that the stolen data has not been offered for sale
+on the Dark Web.
+Do those assertions remain true?
+Mr. Begor. They do, Senator Harris. To date, we use a
+variety of outside experts as well as our own, like Marriott,
+to try to understand where the data went and what it was used
+for. Our analysis is that there has been no evidence that the
+data has been sold and no evidence of increased identity theft
+as a result of Equifax data that was stolen in 2017.
+Senator Harris. A former senior intelligence official
+recently told CNBC that the hack was more likely the work of a
+foreign intelligence agency than a garden variety criminal,
+which would explain why the stolen information has not been
+used for garden variety crimes. If a foreign power, especially
+a hostile foreign power, is using the data it stole from
+Equifax to target U.S. officials or American operatives, does
+it remain your position that there has been no injury or harm
+caused by this breach?
+Mr. Begor. Senator, we do not know who took the data, and
+we still do not, and we are working closely with the FBI. Days
+after identifying the cyber breach in 2017, we started
+collaboratively working with the FBI and other authorities. We
+have the same goal. We have been completely transparent about
+who took the data, and we just do not know who it is at this
+stage. We continue to work with those authorities.
+Senator Harris. It would be important for us to know that
+you appreciate the fact that if the data were breached for the
+purposes of gaining information about U.S. officials or
+American operatives, there would most certainly be harm and
+damage and injury that would result from that. Do you
+appreciate that concern?
+Mr. Begor. Of course, Senator. In my testimony this
+morning, I started out by expressing regret for what happened.
+I talked about what we are doing for consumers, which was our
+initial focus and continues to be our focus around supporting
+consumers, the free credit monitoring that we offer, the other
+free products that we have rolled out subsequent to the data
+breach around supporting consumers.
+Senator Harris. Do you understand that there have been
+targeted violations of privacy as it relates to employees of
+the U.S. government and that there is a concern among the
+intelligence community (IC) and all of us that there is a
+focused concern and actually a triangulation around officials,
+American officials, and, in particular, those who may be
+involved in our military or in intelligence work, and the
+attempt being to get their personal information for the
+purposes of attempt to compromise those individuals? Are you
+aware of that concern?
+Mr. Begor. I have read and I have listened to the experts
+who we work with about the threat on American companies and on
+American consumers as well as government employees.
+Senator Harris. Will you commit to this Committee that you
+will have that as a priority among your priorities in
+understanding and thinking about the potential harm that has
+resulted from these breaches?
+Mr. Begor. Senator, I testified this morning that security
+is a top priority at Equifax today. We have doubled our
+security team.
+Senator Harris. Is that yes?
+Mr. Begor. The answer is everything we are doing is around
+yes.
+Senator Harris. OK. Great.
+Mr. Sorenson, as Senator Rosen referenced, in November 2018
+hackers exposed the personal information of up to 383 million
+Marriott customers, including millions of passport numbers.
+Shortly after, cybersecurity firms and recently our government
+was hired to assess the damage attributed to the hack and
+attributed it to Chinese intelligence. In addition to passport
+numbers, could hackers have accessed guests' itineraries and
+the names of their traveling companions?
+Mr. Sorenson. Yes--well, traveling companions I am not
+certain about, but reservation data was obtained, I think most
+recently as far as we can tell in 2016, so that would have been
+my upcoming reservation or perhaps a past reservation that I
+had had at one of the Starwood hotels. We do not think, based
+on what we have been able to tell so far, that any reservation
+data post-2016 was obtained by the cyber attacker. In the 2018
+instance, which was the first one after we acquired Starwood,
+we do not think individual reservation data was there.
+This is not 100 percent provable, but we believe that that
+means there is no longer any upcoming reservation data which
+was obtained, because if 2016, 2 years--we tend not to take
+reservations more than a year out. Probably nothing that is
+still, if you will, a future reservation.
+Senator Harris. As it relates to the names of traveling
+companions, it is the custom of Marriott hotels to collect the
+information of whoever is occupying the room, whoever has the
+credit card plus whatever guests they may have. Isn't that
+correct?
+Mr. Sorenson. This is the Starwood reservation database,
+and certainly in many instances, a hotel would note somebody
+else who might be sharing a room, but not necessarily in every
+instance. If the person who made the reservation is showing up
+and checking in and getting the key, the front desk may or may
+not take the time to make the effort to figure out whether a
+spouse or a child or somebody else was traveling with them. But
+certainly it would have happened in some circumstances.
+Senator Harris. For those folks whose names may have been
+exposed but they are not actually the individual who was
+contracted with the hotel to pay for the room, have those
+people been notified of this breach?
+Mr. Sorenson. We tried very hard to notify everybody that
+we could. The first tool we used, of course, was a broad press
+release with broad public dissemination, and then carrying on
+the banner, if you will, the top line of the Marriott.com,
+Starwood.com apps, all the rest of it.
+In addition, we sent out in excess of 50 million emails to
+folks that we had email addresses on to also make sure that we
+were notifying them in that way.
+Is it possible that somebody has slipped through the
+cracks? Of course. I think the more likely that they were
+repeat customers of ours, the more likely they are travelers,
+the more likely that they would have been either notified by us
+directly or seen the news.
+Senator Harris. Mr. Chairman, just one last question and it
+is a brief question.
+Is it correct that Marriott is the top hospitality provider
+for the American Government and the United States military?
+Mr. Sorenson. I do not know that we have the data which
+would tell us that. We are the largest hotel company by rooms--
+--
+Senator Harris. Can you follow up with the Committee and
+see if you may have the answer to that question?
+Mr. Sorenson. I will ask and see whether we can find out,
+yes.
+Senator Harris. Thank you.
+Senator Portman. Thank you, Senator Harris. Senator Peters.
+OPENING STATEMENT OF SENATOR PETERS
+Senator Peters. Thank you, Mr. Chairman. Thank you to our
+witnesses today.
+Mr. Begor, if a consumer is delinquent on a payment but
+later makes the necessary payment to bring the account current,
+it is my understanding that that delinquency stays on the
+credit report for 7 years. Is that correct?
+Mr. Begor. Yes, it is, Senator.
+Senator Peters. If a consumer misses a single credit card
+payment and then you will continue to follow them for basically
+7 years, and then they are going to have an opportunity to in
+that 7 years basically demonstrate that they are a good credit
+risk, a good credit score, and as a result of that then get
+additional credit as a result of that after that 7-year period.
+Is that correct? If there is not any other activity?
+Mr. Begor. There is not, Senator. But as you may know, in
+the credit scoring models that we and other credit bureaus use,
+using your example if there was one delinquent payment, as that
+ages out, it becomes less predictive--has less impact on an
+individual's credit score and ability to obtain credit.
+Senator Peters. But, still, it is the expectation it takes
+7 years--you want to watch it for 7 years, basically, just to
+see how it acts. Obviously, there is a slope there. I bring
+that up because I think that most people--certainly everybody
+that I talked to believes that Equifax was beyond being just
+delinquent on one payment when it came to the securing of this
+critical data and this cybersecurity hack, and that the
+information that has now been put out or has been taken will
+likely be there forever. The fact that you have not seen some
+of these activities in the short run may make sense because if
+you are a bad actor, you may wait a while before you actually
+use this data for nefarious purposes.
+I just find it kind of interesting in that delinquent
+payments for a consumer you follow for 7 years although you
+have offered the credit freeze for a lifetime, when it comes to
+credit monitoring it is only 2 years. Credit monitoring is
+certainly much more preferable to consumer convenience than it
+is to freeze and to unfreeze, to go back and forth. I know you
+want to build consumer trust, but if you are telling your
+consumers, we will watch you for 7 years because you have
+missed one payment, but we had this massive breach, and we gave
+all your personal information, somebody got all your personal
+information to millions of people and it is going to be out
+there for the rest of your life, but we will help you for 2
+years.
+It seems to me that it would make sense that at a minimum
+you would offer credit monitoring for the 7 years just as you
+monitor your customers for 7 years.
+My question to you, Mr. Begor: Would you support mandating
+free credit reporting for 7 years for all consumers whose
+personally identifying information (PII) was the subject of a
+breach of a credit reporting agency?
+Mr. Begor. Senator, we think it is situational on what the
+consumer should be offered. We offered 12 months starting in
+the fourth quarter of 2017. We voluntarily extended it for
+another 12 months late last year. We will continue to look at
+that as we go forward. Again, it is my view that legislation is
+not required, that we are doing the right thing for consumers.
+I would just remind the Senator that while the credit
+monitoring is a valuable product, what the Senate passed last
+September in S. 2155 offering a free freeze for consumers is
+the most important way to protect your data. Then Equifax has a
+supplemental lock product that is available on your phone or
+mobile device that is free for life to do the same thing with
+some more functionality. If you are at a car dealership and
+getting an auto loan, you can unlock your credit file. Then
+when you finish getting that financial transaction, you can
+lock it again. No one can see that data once it is either
+frozen by S. 2155 or locked by our free-for-life product.
+Senator Peters. But you still see the value of monitoring
+because you are offering it to your customers for up to 2
+years, that that is a better product for folks than just the
+freeze and unfreeze, which is more cumbersome. I think you
+mentioned that at the beginning.
+My question is what--you said you will re-evaluate this on
+a situational basis. What is that situational basis? What is
+the criteria you will be using as to whether or not to extend
+this beyond the 2 years?
+Mr. Begor. Senator, it really depends on how we can see the
+data have been used and what they are being used for. These are
+some of the criteria we take into account. I would make the
+point that while credit monitoring is quite valuable, we
+believe that it is critically important to give consumers
+control about who has access to their data.
+Senator Peters. I would like to in the remaining time touch
+briefly on another important subject, and that is the
+collecting of data on minors. How many minors had their
+personally identifiable information compromised in the 2017
+breach?
+Mr. Begor. Senator, I do not have that information in front
+of me. I would be happy to get back to your office with that.
+Senator Peters. Is it greater than zero?
+Mr. Begor. I do not know the answer to that, Senator.
+Senator Peters. You will provide that to me?
+Mr. Begor. Yes.
+Senator Peters. That would be great.
+Do you have any policies regarding the collection of
+information on minors?
+Mr. Begor. The policy is that we do not. As you may know,
+S. 2155 allows a parent to put a freeze on their children's
+credit file, if, in fact, they have one. We are diligent about
+managing minors' freezes because it is an area of focus by
+impostors or fraudulent individuals who want to create a credit
+file for identity theft purposes not only on minors but other
+Americans.
+Senator Peters. Is there any instance where a young child
+would need a non-frozen account?
+Mr. Begor. Not to my knowledge, Senator.
+Senator Peters. But a parent has to opt out even though
+there is no reason to have a non-frozen account. But the parent
+has to be active in doing that. OK.
+Last year I worked to pass legislation that protects
+children from synthetic identification (ID) fraud. It is a form
+of identity theft that I know you know very well where stolen
+security numbers of children are paired with fake names and
+birth dates to apply for loans, credit cards, and other
+accounts. Could any minors' information that was exposed in the
+2017 breach be used as part of identity theft or a synthetic ID
+fraud operation?
+Mr. Begor. Senator, I will have to get back to you on what
+minors' data were included, in the theft that took place in
+2017.
+Senator Peters. Great. Well, I appreciate working with you
+on that.
+Thank you.
+Senator Portman. We will have a short second round. Senator
+Carper, do you have any additional questions?
+Senator Carper. Both Equifax and Marriott publicly
+announced their data breaches within weeks of learning of them,
+and while this is better than some companies have done in
+recent years, as you know, it is a lot longer than, for
+example, Target waited when it suffered a breach in 2013. In
+fact, Target learned about a cyber attack, you may recall,
+affecting its customers in the middle of holiday season--I was
+one of them that year--and informed the Department of Justice
+(DOJ) and the public literally within days, and this allowed
+Target customers to take precautions against fraud and identity
+theft and to monitor their bank and credit card statements.
+Mr. Begor, the hackers who attacked Equifax were in the
+company network for 78 days before Equifax discovered their
+presence. I think that is correct. By the time Equifax informed
+the public, consumers' information had been in the hands of
+hackers for close to 4 months.
+Given the damage that can be done with the type of
+information Equifax collects, why do you suppose the folks who
+were in positions of responsibility prior to your arrival, why
+wait 6 weeks to step forward? Why not follow the Target example
+so that people could take swift action to protect themselves as
+soon as possible? If I had been you coming into a new situation
+as the new CEO, I would have said to the people who were there
+before me, ``What were you thinking? How could you have allowed
+this to happen?'' Did you ever have those kinds of
+conversations?
+Mr. Begor. Senator, I had a lot of conversations when I
+joined last April, as you might imagine, and I hope you get a
+sense for the pace of change, the breadth of change, the
+priority around security. There is a whole new team here. We
+have added extensive resources, and we are very serious about
+security.
+With regards to the time frame with the data breach, my
+strategy--and I believe it was the team strategy at the time--
+was to be accurate and quick in completing the work. As the
+Senator probably knows, it is a very complex process once you
+find out that you have a data breach to really determine which
+elements of your database were affected. We brought in the very
+best forensic experts within days of the data breach--I think
+it was a day or two--contacted the FBI and got them involved in
+it. From my look back at what the team did, they moved as
+quickly as they could to ensure that we were going to be
+complete and accurate.
+From my perspective, making an announcement that there was
+a data breach but not knowing which Americans were impacted,
+and is it 50 million, 2 million, 150 million, it took time to
+do the forensics to figure it out. My approach is to be
+accurate and complete with a real focus around the consumer
+first. We want to make sure that for those consumers who are
+impacted, we can identify who they are and then communicate
+with them quickly.
+Senator Carper. Mr. Sorenson, really the same question. I
+would like to hear from you about the factors that went into
+Marriott's decision on the timing of its public notice.
+Mr. Sorenson. An alert on September 7, 2018, was triggered.
+That alert went to a third party who was operating the
+reservation system for us with, in effect a copy to the IT
+group at Marriott. We heard from that third-party operator the
+next day, on September 8th, that that alert had been received
+and immediately started to mobilize resources to contain and to
+ascertain why that alert went off.
+It was not until November 19, 2018, that we learned that
+data about our customers had been exfiltrated from our system.
+We announced publicly 11 days later on November 30th.
+We, of course, had lawyers and security experts and all
+sorts of other folks who were engaged in the conversation about
+timing, how quickly could we go. We also wanted to make sure
+that we had set up call centers and websites so that the moment
+we released this information publicly, the customers had a
+place to go and find out more and sign up for the WebWatcher
+services and do the other things that were necessary.
+That 11-day time, of course, met the legal requirements,
+but it also was practically about as fast as we could move it
+and be able to communicate something which was concrete and
+useful to customers and then be able to deliver something of
+what we anticipated they would need and want.
+Senator Carper. Thank you. Let me just ask both of you do
+you have any sense of how many State data breach notification
+laws your companies are subject to? Would it be fair to say
+there may be even 50 such State laws that you are subject to at
+this time?
+Mr. Begor. If it is OK, Senator, I will go first. You are
+correct and it is quite a challenge in----
+Senator Carper. I was going to ask, what kind of challenge
+does that present if it is true?
+Mr. Begor. I do not know if the exact number is 50, but
+they are all different, and it creates challenges in a
+situation like Equifax, as perhaps Marriott's too, in complying
+with the requirements. There are different notification
+documents that are required. There are different ways you may
+communicate with a consumer. There are different ways you are
+allowed to communicate with the consumer. We have been
+longstanding supporters of Federal legislation that would unify
+the requirements and ensure there is a consistent time element.
+Once you figure out which consumers are impacted and what
+States they are in, then there are requirements in how you must
+communicate with them. We are very supportive of a Federal
+legislation to unifiy the standards.
+Senator Carper. Thank you.
+Same question, Mr. Sorenson. What kind of challenge do you
+have with respect to who to notify, when to notify, what to
+disclose about a data breach with the different States?
+Mr. Sorenson. It was not among the biggest challenges we
+faced, I would put it that way, although if memory serves, we
+found someplace between 20 and 30 States had specific
+notification requirements with a deadline. Now, we, of course,
+met those deadlines and then ultimately communicated to all 50
+States.
+Outside the United States, there were probably, I do not
+know, 20 or 30 countries that had various kinds of notification
+deadlines. Obviously, there is nothing that the Federal
+Government can do with that.
+Sadly, I suppose, in some respects, this ground is too well
+trod, and so there are folks that can help us figure out where
+those requirements are and how to meet them.
+It would be simpler, of course, to have one sort of U.S.
+standard, but, that is something that we would be happy to work
+with your office on and give whatever input we could from the
+experience we have had.
+Senator Carper. Mr. Chairman, I am sitting here thinking,
+believe it or not, of something Richard Nixon of all people
+once said. Richard Nixon once said, ``The only people who do
+not make mistakes are people who do not do anything.'' We all
+make mistakes. I have said to my sons now, 29 and 30 years old,
+I have said to them many times, ``Nothing wrong with making a
+mistake. The key is just we do not want to continue making the
+same mistake.''
+In this case, mistakes not only harmed your companies, but
+as we have talked about, they harm 150 million really innocent
+people across this country.
+The question is: What do we do about it? You have talked to
+us today about a number of things that each of you have done. I
+am pleased to hear the statements of apology, of contrition,
+acknowledging the harm and the damage that has been done. God
+knows I wish, as I am sure 148 million people wish, that the
+kind of thinking and actions that you have displayed in the
+last year or so that you have been in your position, Mr. Begor,
+that that kind of thinking had existed in the previous
+Administration, if you will.
+You talked about what I think is really important.
+Leadership is most important in grading the success of any
+organization I have ever been a part of, business, government,
+or military--always the key. If the leader does not say
+cybersecurity is important, if the board does not say
+cybersecurity is important, nobody else down the line is going
+to make it important in the end.
+It appears to us that you have done that, both of you, and
+have made it very clear right from the top that this is
+important. You have aligned incentives, financial incentives,
+for the folks who are helping run your company so that their
+incentives are all lined up with that in mind. It sounds like
+you have done a lot with respect to hiring the kind of
+workforce that you need to enable the desires and the wishes of
+the directives from on top to make sure that they are carried.
+One of the things that I think a lot about, Mr. Chairman,
+is the workforce--I know you do, too. We have focused in
+Delaware for a number of years now--at the University of
+Delaware, Delaware State University, Wilmington University, and
+Delaware Technical Community College--on trying to make sure
+that we are turning out a better workforce to help take on all
+these jobs that are available out here to be done.
+With regard to the Federal Government and what our
+responsibilities are, I was privileged to chair this Committee,
+the Homeland Security and Governmental Affairs Committee, for a
+while and led it with a fellow named Tom Coburn from Oklahoma,
+and we focused this Committee--as Senator Portman knows, he was
+part of this--on what we needed to do within the Federal
+Government and what we needed to do as legislators. Frankly, in
+those years, those couple of years, we did a lot, and we have
+continued to do a number of things. I really think, Mr.
+Chairman, that this is a ripe time for us as a Committee. We
+have new talent on either end here, Democrat and Republican,
+bright people with real-world experience that can bring a lot
+to this. I think it is really an ideal time for us to do our
+job of oversight. We have done all this legislating, and it is
+being implemented. Let us find out to what effect, to what
+good. That is a big part of our job.
+The last thing I will say is I would ask to enter for the
+record some newspaper articles\1\ I read on the train coming
+down this morning from the last several weeks about the
+dramatic increases in attacks from China and from Iran. I
+remember when President Barack Obama met with President Xi in
+Washington State. You may remember this. It was 2015. I think
+it was September 2015. Jeh Johnson, who was the Secretary of
+Homeland Security, gave me his eyewitness account, and in that
+meeting, President Obama apparently said to President Xi, ``We
+know you are attacking us, and we know that you are coming
+after our trade secrets. We know you are coming after our
+business secrets, our military secrets, and we want you to
+stop.''
+---------------------------------------------------------------------------
+\1\ The newspaper articles referenced by Senator Carper appears in
+the Appendix on page 108.
+---------------------------------------------------------------------------
+President Xi apparently said, ``No, we do not do that. That
+is not the policy of our country, and that is not what we are
+about.''
+President Obama basically said, ``This is who is doing it,
+this is where they are located, and we want you to stop.''
+President Xi said, ``No, we are not really doing that.'' I
+am told that President Obama said, ``Look, if you do not stop,
+you will wish you had,'' essentially in so many words.
+As you may recall, there was a dramatic drop in attacks by
+China.
+About 2 months before that, the Congress, the United
+States, and the President had essentially signed off on a five-
+nation deal with Iran that called for gradually lifting
+sanctions. At the time Iranian elements were unrelentingly
+attacking, especially our financial services companies. I was a
+strong supporter of lifting sanctions in return for the
+Iranians stopping their development of nuclear weapons and
+opening up to incredible, very intrusive inspections, and they
+are still ongoing. You know what happened? Literally within a
+month, the frequency of Iranian attacks greatly dropped, almost
+like China a couple of months later.
+There is another element here, Mr. Chairman, that we do not
+think much about, and there is so much that they can do, so
+much that other companies can do and need to do. There is work
+for us to do in terms of creating the workforce and making sure
+they are available. There is stuff that we can do in our
+oversight role. But there is also a role here for the
+Administration in reaching out to other countries and getting
+them to work with us instead of being out there undermining
+what we are trying to do.
+There is plenty of work to do, a multilayered approach, and
+we appreciate your being here today and helping to put a
+spotlight on this, letting us know what you have done to clean
+up the messes that you inherited, especially at Equifax. It has
+given us an opportunity to think ourselves how we can better do
+our own jobs. Thank you. Because everything we do, everything I
+do, I know we can do better, and that certainly includes this.
+Thank you.
+Senator Portman. I cannot believe government can do
+anything better than it is doing. Well, thank you.
+To the witnesses, I have two follow up questions here that
+we want to get into the record, but let me reiterate what I
+said earlier, which is we appreciate your being here. We are
+trying to learn. The lessons that you have learned within your
+companies are really important for what we are trying to do
+legislatively, understanding what happened, what could be done
+differently.
+This was frightening, scary, for hundreds of millions of
+families whose personal and financial data was compromised
+through the two companies you now lead. I appreciate the fact
+that you acknowledge that and understand that this is about
+hackers, it is about technology, but it is ultimately about
+people. The frustration that many Americans have right now that
+nothing is sacred or safe and it is good to know, as Mr.
+Sorenson has said and Mr. Begor has said, that some of this
+data apparently has not been used yet by criminals in ways that
+one might have thought it could have been. That does not mean
+it did not happen or is not happening right now.
+Also, as was raised earlier, some of this information may
+be being used by foreign actors in ways that are counter to our
+national interests by targeting individuals. It is really
+important that we get to the bottom of what happened, what is
+being done, and what can be done in the future legislatively.
+Let me go back, if I could, to the cybersecurity protocols,
+Mr. Begor, that we talked about earlier. In your testimony you
+seem to have leaned a little bit heavily, I thought, on the
+fact that the program at the time, I said, ``leveraged strong
+administrative and technical safeguards . . . and was subject
+to regular, ongoing review through external and internal
+assessments.'' We talked about the audit that was not respected
+despite some really troubling data it uncovered.
+The other part that I think we need to talk about this
+morning--and I was waiting to hear what my colleagues were
+going to address, and they addressed a lot of this, but that is
+the IT inventory. The investigation, as you know, found that
+Equifax at the time failed to follow this basic practice of
+maintaining an IT inventory of applications and assets on its
+systems. Without having this list, Equifax was not able to find
+the application that was vulnerable and exploited by the
+hackers. That is the one that has been talked about previously
+called ``Apache Struts.'' You did not even have it on your
+inventory, and so you could not find it. I guess I have a few
+questions.
+One, since the breach, has Equifax generated a
+comprehensive list of applications on its systems?
+Mr. Begor. We have, Chairman, and in great detail, and I
+think my colleague Mr. Farshchi talked about some of the other
+automated systems that we put in place to track all of our
+systems and make sure we understand not only the systems and
+all the assets that we have, but also when there is a patch
+that needs to be completed, those are all automated, and we are
+watching them. Then there are multilayers of defense. It is
+more than just one layer. I think the Chairman knows that all
+the elements have to be done well and done with the latest
+technology, which is what we are continuing to put in place.
+Senator Portman. The National Institute of Science and
+Technology, has now issued a recommendation that there be an IT
+inventory in every company that could be affected by these
+breaches. Let me ask you this: If Equifax had kept an up-to-
+date IT inventory, would that have been helpful to have
+identified the vulnerability?
+Mr. Begor. In my analysis of what happened in 2017, there
+was an inventory. It was not as complete as it should be. The
+protocols and the procedures and the resources we now have in
+place are at the highest standards. Like most companies, we
+follow the NIST protocols, and as I mentioned earlier this
+morning, Chairman, we have third parties actually auditing us
+against those NIST standards as a part of how we are managing
+our security program going forward.
+Senator Portman. We have a difference of opinion on that.
+Our investigation identified that there was not a complete
+inventory. Mr. Farshchi, maybe you can respond to this, but was
+there an inventory or not? Did that affect the ability to find
+the vulnerability?
+Mr. Farshchi. Certainly. Inventory is an important control
+across any organization to defend against the threats. I was
+not here at the time, but looking back, we did have an
+inventory. It just was not a complete inventory. Since that
+time, what we have done is we have built in those controls, as
+Mr. Begor was saying, and so we do have a complete inventory of
+our assets. And note that----
+Senator Portman. It sounds like, if I am right, that you
+did not have a complete inventory and Apache Struts was not
+something that was able to be identified. Is that accurate?
+Mr. Farshchi. What I would say is this: The inventory for
+Apache Struts is typically not in the inventory that you
+highlight in the report, and it is a technical nuance. But the
+specifics of that particular vulnerability typically are not
+included in the asset inventory. Because it is a source code
+vulnerability, it is typically in a code repository instead.
+Senator Portman. We have a little difference of opinion on
+this one, so we follow up with you. Again, it is about the
+future going forward. Are you telling me that something of the
+nature of Apache Struts would not be in your current inventory
+and, therefore, you would not be able to find that
+vulnerability today?
+Mr. Farshchi. No; it absolutely is in our inventory.
+Senator Portman. It should be in the inventory?
+Mr. Farshchi. It is just it is a different type of
+inventory, Senator.
+Senator Portman. OK. Well, if they had had in the inventory
+that they were reviewing, clearly it would have made a
+difference. Do you agree with that statement?
+Mr. Farshchi. Made a difference with respect to what,
+Senator?
+Senator Portman. The ability to find the vulnerability.
+Mr. Farshchi. It would have helped.
+Senator Portman. Thank you. OK. Mr. Sorenson, thank you for
+being here, too. I want to follow up on one of the points that
+we found in our investigation. It is true the big breach
+happened at Starwood in 2014. Then you acquired Starwood in
+2016. Is that correct? Then in 2018, you were able to identify
+that something had happened. You said the alert was issued in
+2018.
+However, we have not mentioned today there was a 2015
+breach at Starwood that was acknowledged, and so when you
+bought Starwood, you knew about--I assume you knew about that
+breach. Is that correct?
+Mr. Sorenson. Yes, we did.
+Senator Portman. That breach was a credit card breach.
+Numbers were taken at points of sale at 54 different
+properties, and January 22, 2016, to be exact--the president of
+Starwood sent a public letter out saying that the guest
+reservation database was not impacted by that breach. I have a
+copy of that letter there at the witness table for you. I would
+like to enter that 2016 letter into the record,\1\ without
+objection.
+---------------------------------------------------------------------------
+\1\ The letter referenced by Senator Portman appears in the
+Appendix on page 106.
+---------------------------------------------------------------------------
+Of course, in reality, the reservation system had been
+breached considerably in 2014. The letter said do not worry,
+reservation system has not been breached.
+My question to you is just a simple one: When you did your
+due diligence, which you talked about having done, did you look
+at that letter, and did you examine this issue? Could you have
+determined, therefore, earlier what happened?
+Mr. Sorenson. It is a very fair question. The short answer
+is we knew about the point of sale breach that Starwood has
+suffered. We worked with the Starwood team and we worked
+independently to try and make sure we understood the scope of
+that breach.
+As far as we know today, it was totally unrelated to the
+reservation system breach that we have been talking about
+announced in November--different tools, a different system. In
+a sense, the point of sale is obviously distributed at the
+properties and the restaurants and at the front desk. The
+reservation system, by comparison, which was the larger breach
+we disclosed in November, is a centralized system. Again, the
+team has said they do not relate to each other, although
+certainly from a colloquial perspective, it feels similar, it
+feels like a warning. It feels like somehow it is relating to
+Starwood's customers, which it is.
+We did try and understand that point of sale thing, and we
+were satisfied that Starwood had taken the steps necessary in
+order to deal with that breach. Separately, we did some things
+on the reservation platform side, but it was in retrospect
+clearly not enough.
+Senator Portman. Well, lessons learned, and we appreciate
+the testimony you have already given us, and we appreciate the
+opportunity to stay in touch with you and your experts to help
+to be sure that we are putting together the kind of legislation
+that can help avoid these problems in the future.
+You made a statement earlier. This is a race that has no
+finish line. I think that is accurate. I think it is also
+accurate that this is a marathon that has to be run at a
+sprinter's pace because there will be continual innovative
+hacking. I noticed this morning, to Senator Carper's point,
+that while the President was in Hanoi in negotiations with
+Chairman Kim, there was an increase apparently--this is a
+report, take it as such--in North Korean hacking, commercial
+hacking of U.S. targets. It is something that we are going to
+have to continually assess, and government is not often good at
+that. We put a law in place, as Senator Carper said. We do not
+do the proper oversight and follow up, and we sometimes get
+behind the curve. We want your ongoing cooperation with this
+panel to be able to put together what makes sense and then to
+update it as necessary, because you are going to both be in
+your companies engaged in this for a long time into the future.
+Thank you again for being here.
+Senator Carper. Mr Chairman, just a unanimous consent (UC)
+request, if I could, to enter for the record articles from
+February 16th, New York Times,\1\ ``Chinese and Iranian hackers
+renew their attacks on U.S. companies''; and the Wall Street
+Journal is I think as recently as yesterday, ``Iranian Hackers
+Have Hit Hundreds of Companies in Past Two Years.'' I would ask
+they be considered and included in the record.
+---------------------------------------------------------------------------
+\1\ The New York Times articles referenced by Senator Carper
+appears in the Appendix on page 108.
+---------------------------------------------------------------------------
+Thank you.
+Senator Portman. Thank you all for your testimony.
+Senator Carper. Thanks to all of you.
+Senator Portman. OK. We will now call our second panel of
+witnesses for the hearing. Please come forward and take a seat.
+This is the expert panel that is going to give us
+information about how to solve so many of the problems we just
+talked about. We welcome you. We are going to start by
+introducing the panel.
+Alicia Cackley is here with us. She is Director of
+Financial Markets and Community Investment at the Government
+Accountability Office (GAO). We appreciate GAO's work on this
+issue and on this report.
+Second, we have Andrew Smith with us, who is Director of
+the Bureau of Consumer Protection at the Federal Trade
+Commission (FTC).
+Third, we have John Gilligan with us. Mr. Gilligan is the
+president and chief executive officer at the Center for
+Internet Security (CIS).
+Again, it is the custom of the Subcommittee to swear in all
+witnesses, so at this time, I would ask you to stand up again
+and raise your right hand. Do you swear the testimony you will
+give before this Subcommittee will be the truth, the whole
+truth, and nothing but the truth, so help you, God?
+Mr. Smith. I do.
+Ms. Cackley. I do.
+Mr. Gilligan. I do.
+Senator Portman. Please be seated. Let the record reflect
+that all the witnesses answered in the affirmative.
+Your written testimony will all be made part of the record,
+so if you could keep your oral presentation to 5 minutes, that
+would be great. Mr. Smith, I think we told you you would go
+first, so we are going to call on you first.
+TESTIMONY OF ANDREW SMITH,\1\ DIRECTOR, BUREAU OF CONSUMER
+PROTECTION, U.S. FEDERAL TRADE COMMISSION
+Mr. Smith. Thank you. Chairman Portman, Ranking Member
+Carper, and Members of the Subcommittee, I am Andrew Smith, the
+Director of the Bureau of Consumer Protection at the Federal
+Trade Commission. I appreciate the opportunity to present the
+Commission's views on how Congress can help the FTC further its
+efforts to prevent data breaches in the private sector.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Mr. Smith appears in the Appendix on
+page 69.
+---------------------------------------------------------------------------
+My written statement represents the views of the
+Commission, but this opening statement represents my views
+alone and not necessarily the views of the Commission or of any
+individual Commissioner.
+Let me begin by summarizing the FTC's current efforts to
+protect consumers by promoting data security and preventing
+data breaches.
+Our work has three primary areas of focus. The first is
+enforcement. For nearly two decades, the FTC has been the
+Nation's leading data security enforcement agency. We are
+charged with enforcing data security requirements contained in
+specific laws such as the Children's Online Privacy Protection
+Act (COPPA), Fair Credit Reporting Act (FCRA), and the Gramm-
+Leach-Bliley Act (GLBA). But we also enforce Section 5 of the
+FTC Act, which prohibits unfair or deceptive practices,
+including unfair and deceptive practices with respect to data
+security.
+In this law enforcement role, the Commission has settled or
+litigated more than 60 actions against businesses that
+allegedly failed to take reasonable precautions to protect
+their customers' personal information. For example, we have
+brought cases against manufacturers of consumer products like
+smartphones, computers, routers, and connected toys. We have
+also brought cases against companies like data brokers that
+collect consumers' sensitive personal information.
+Our second area of focus is policymaking. The FTC has
+conducted workshops, issued reports, and made rules to promote
+data security. For example, just this week we announced a
+Notice of Proposed Rulemaking (NPR) to update our Safeguards
+Rule under the Gramm-Leach-Bliley Act. The Safeguards Rule was
+originally issued in 2002 and requires financial institutions
+within the FTC's jurisdiction to implement reasonable process-
+based safeguards to protect personal information in their
+control. The proposed revisions to the Safeguards Rule are
+based on our nearly 20 years of enforcement experience. These
+revisions are intended to retain the process-based approach of
+the original rule while providing financial institutions with
+more certainty with respect to the FTC's data security
+expectations.
+Our third area of focus is business education. The
+Commission has issued numerous guidance materials for business,
+including a guide called ``Start with Security'' in 2015, a
+series of columns in 2017 called ``Stick with Security,'' and
+last year, a comprehensive small business cyber education
+campaign, which includes written guidance, how-to videos, and
+training materials for businesses. These materials distill the
+lessons learned from our enforcement actions in a succinct and
+accessible manner. We have vigorously used our existing
+authority to protect consumers, but this authority is limited
+in some important respects, and the Commission has called on
+Congress to enact comprehensive data security legislation that
+includes rulemaking, civil penalty authority, and enhanced
+jurisdiction for the FTC.
+First, the legislation should give the FTC the authority to
+issue data security rules under the Administrative Procedures
+Act (APA) so that we can keep up with business and
+technological changes. Where we currently have rulemaking
+authority, we have used it, as demonstrated by this week's
+proposed revisions to the Safeguards Rule, which I just
+described.
+Second, legislation should allow the FTC to obtain civil
+penalties for data security violations. Currently, we have
+authority to seek civil penalties for data security violations
+under the Children's Online Privacy Protection Act and the Fair
+Credit Reporting Act. We also can get civil penalties for
+violations of an existing administrative order. But as a
+general matter, we cannot obtain civil penalties in de novo
+cases. To help ensure effective deterrence, we urge Congress to
+enact legislation to allow the FTC to seek civil penalties for
+data security violations in appropriate circumstances.
+Finally, the legislation should extend the FTC's
+jurisdiction over data security to nonprofits and common
+carriers. Entities in these sectors often collect sensitive
+consumer information and significant breaches have been
+reported, particularly in the educational and nonprofit
+hospital sector.
+Thank you for the opportunity to appear before you, and I
+look forward to answering your questions.
+Senator Portman. Thank you, Mr. Smith. Ms. Cackley.
+TESTIMONY OF ALICIA PUENTE CACKLEY,\1\ DIRECTOR, FINANCIAL
+MARKETS AND COMMUNITY INVESTMENT, U.S. GOVERNMENT
+ACCOUNTABILITY OFFICE
+Ms. Cackley. Thank you, Chairman Portman, Ranking Member
+Carper. My name is Alicia Puente Cackley, and I am a Director
+in the Financial Markets and Community Investment Team at the
+Government Accountability Office. I am pleased to be here today
+to testify about Internet privacy and data security issues.
+---------------------------------------------------------------------------
+\1\ The prepared statement of Ms. Cackley appears in the Appendix
+on page 79.
+---------------------------------------------------------------------------
+My statement will discuss the Federal Trade Commission's
+role and authorities for overseeing Internet privacy and
+stakeholders' views on potential actions to enhance that
+Federal oversight. My testimony is primarily based on our
+January 2019 report on Internet privacy as well as prior GAO
+reports on various privacy issues.
+As you are aware, the United States does not have a
+comprehensive Internet privacy law governing the collection,
+use and sale, or other disclosure of personal information. In
+prior work, we have found that gaps exist in the Federal
+privacy framework, which does not fully address changes in
+technology in the marketplace. At the Federal level, FTC
+currently has the lead in overseeing Internet privacy using its
+statutory authority under Section 5 of the FTC Act to protect
+consumers from unfair and deceptive practices.
+However, to date, FTC has not issued regulations for
+Internet privacy other than those protecting financial privacy
+and the Internet privacy of children, which were required by
+law.
+For FTC Act violations, FTC may promulgate regulations, but
+is required to use procedures that differ from traditional
+notice and comment processes and that FTC staff said add time
+and complexity.
+Stakeholders GAO interviewed had varied views on FTC's
+oversight of Internet privacy. Most industry stakeholders said
+they favored FTC's current approach: direct enforcement of its
+unfair and deceptive practices statutory authority, which they
+said allows for flexibility. Other stakeholders, including
+consumer advocates and most former FTC and the Federal
+Communications Commission (FCC) Commissioners GAO interviewed,
+favored having FTC issue and enforce regulations.
+Stakeholders identified three main areas in which Internet
+privacy oversight could be enhanced.
+First, through statute. Some stakeholders told GAO that an
+overarching Internet privacy statute could enhance consumer
+protection by clearly articulating to consumers, industry, and
+agencies what behaviors are prohibited.
+Second, through rulemaking. Some stakeholders said that
+regulations can provide clarity, fairness, and flexibility.
+Third, through civil penalty authority. Some stakeholders
+said FTC's Internet privacy enforcement could be more effective
+with authority to levy civil penalties for first-time
+violations.
+Recent data breaches at Federal agencies, retailers,
+hospitals, insurance companies, consumer reporting agencies,
+and other large organizations highlight the importance of
+ensuring the security and privacy of personally identifiable
+information collected and maintained by those entities. Such
+breaches have resulted in the potential compromise of millions
+of Americans' personally identifiable information which could
+lead to identity theft and other serious consequences.
+These recent developments regarding Internet privacy and
+data security suggest that this is an appropriate time for
+Congress to consider comprehensive Internet privacy
+legislation. Although FTC has been addressing Internet privacy
+through its unfair and deceptive practices authority and FTC
+and other agencies have been addressing this issue using
+statutes that target specific industries or consumer segments,
+the lack of a comprehensive Federal privacy statute with
+specific standards leaves consumers' privacy at risk.
+In our January 2019 report, we recommended that Congress
+consider developing comprehensive legislation on Internet
+privacy that would enhance consumer protections and provide
+flexibility to address a rapidly evolving Internet environment.
+Issues that should be considered include: which agency should
+oversee Internet privacy; what authorities agencies should have
+for that oversight, including notice and comment rulemaking
+authority and first-time violation civil penalty authority; and
+how to balance consumers' need for Internet privacy with
+industry's ability to provide services and innovate.
+Mr. Chairman and Ranking Member, this concludes my prepared
+statement. I am pleased to respond to any questions you may
+have.
+Senator Portman. Thank you for your testimony and your help
+on this issue. Mr. Gilligan.
+TESTIMONY OF JOHN GILLIGAN,\1\ CHIEF EXECUTIVE OFFICER, CENTER
+FOR INTERNET SECURITY
+Mr. Gilligan. Chairman Portman, Ranking Member Carper, and
+Members of the Subcommittee, my name is John Gilligan. I serve
+as the Chief Executive Officer of the Center for Internet
+Security, a nonprofit cybersecurity organization. In my oral
+statement this morning, I would like to share my perspectives
+on the logical question that may be asked after this morning's
+testimony, which is: What can be done to prevent major
+cybersecurity breaches?
+---------------------------------------------------------------------------
+\1\ The prepared statement of Mr. Gilligan appears in the Appendix
+on page 90.
+---------------------------------------------------------------------------
+I asked myself a similar question in the early 2000s as the
+Chief Information Officer of the United States Air Force (USAF)
+after the National Security Agency's (NSA) annual penetration
+analysis found our cybersecurity posture to be woefully
+inadequate, despite the Air Force spending literally over $1
+billion a year on cybersecurity. I went to NSA and asked them:
+Where should I start?
+After consulting their offensive and defensive experts, NSA
+came back with a prioritized list of the system weaknesses that
+were most commonly exploited by attackers. By a large margin,
+the most common weakness exploited was misconfigured software,
+that is, software that did not have appropriate security
+settings enabled or software that was not properly patched. As
+a result of their guidance, I launched an initiative in the Air
+Force to ensure security-enabled configurations with up-to-date
+patches for all of our operating systems.
+Based on the positive experience with the Air Force in
+identifying most frequent cyber attack patterns and the
+associated mitigating security controls, the NSA effort was
+subsequently adopted by the private sector in 2009 and became
+known as the ``SANS Top 20.'' In 2015, the effort was
+transitioned to my current organization, the Center for
+Internet Security, and what became named the ``Critical
+Security Controls,'' or just the ``CIS Controls.''
+The Critical Security Controls represent a set of
+internationally recognized prioritized actions that form the
+foundations for basic cyber hygiene or effective cyber defense.
+The controls are regularly updated by a global network of cyber
+experts. The Critical Security Controls have been assessed as
+preventing up to 90 percent of pervasive and dangerous cyber
+attacks. The controls act as a clear, actionable, and free
+blueprint for system and network operators to improve cyber
+defense by identifying specific actions to be done in a
+priority order.
+CIS has analyzed major data breaches over the past 2 years
+and have found in each one the root cause of the breach related
+to the failure to properly implement one or more of the
+Critical Security Controls. The Equifax breach is no exception.
+We found that 5 of the 20 Critical Security Controls were not
+properly implemented by Equifax.
+Many organizations are seeing the value of the Critical
+Security Controls. California, Ohio the Republic of Paraguay,
+the European Technical Standards Organization--have adopted the
+controls as a standard for cybersecurity. The Aerospace
+Industries Association and the Atlantic Council have also
+endorsed the Critical Security Controls.
+As Congress considers ways to improve cybersecurity in the
+United States, I offer the following recommendation. I start
+with the recognition that the NIST Cybersecurity Framework is
+an excellent top-level guidance document that points to other
+more detailed documents and best practices for implementation
+guidance, including the Critical Security Controls. While a
+logical construct, this approach has some unintended
+consequences. In particular, government and private sector
+organizations who wish to implement the NIST Cybersecurity
+Framework must then select for implementation from among the
+very comprehensive lists of standards, guidelines, and best
+practices that are referenced in the Framework.
+This same problem is magnified for organizations that are
+required to comply with multiple high-level frameworks that are
+similar to the NIST Cybersecurity Framework. For example,
+financial organizations are required to certify against the
+Payment Card Industry (PCI), security framework. Organizations
+with international presence are often required to follow the
+International Standards Organization (ISO), cybersecurity
+frameworks and so on.
+While the individual policies and regulations are well
+intended, they are contributing to much confusion and
+inefficiency in achieving the common goal of effective cyber
+defense.
+Recognizing that our multiple cybersecurity frameworks and
+duplicative policies have contributed to great confusion, I
+would recommend that NIST be chartered to develop a single
+cybersecurity implementation guideline that can be used to
+satisfy the requirements of the NIST Cybersecurity Framework,
+PCI, ISO, Institute of Electrical and Electronics Engineers
+(IEEE), and similar general security frameworks. This
+implementation guideline should provide clear guidance on what
+constitutes basic cyber hygiene and specify a prioritization
+for implementation of appropriate controls. I note that the
+United Kingdom and Australia have done exactly this with the
+Australian Signals Directorate's ``Essential Eight'' and the
+United Kingdom National Cyber Security Center's ``Cyber
+Essentials.'' I offer the Center for Internet Security's
+Critical Security Controls as a point of departure or a model
+for such an effort.
+This concludes my remarks. I look forward to your
+questions.
+Senator Portman. Thank you, Mr. Gilligan. Thanks to all
+three of the witnesses. As we heard this morning, these data
+breaches have become a fact of doing business, haven't they? It
+is a matter of constantly keeping up. It never ends.
+The best estimate we have, the most recent data we have
+comes from the first half of 2018, and that is there were 291
+data records compromised every second. I do not think that has
+slowed down. It has probably increased. It is an ever present
+danger to consumers, to businesses, to our government, and to
+our national security.
+Mr. Smith, I found your testimony interesting. As has been
+alluded to today, 50 States have different stands on this. Most
+States have passed their own breach notification laws. In fact,
+I think every State has some sort of breach notification law,
+don't they, Mr. Gilligan?
+Mr. Gilligan. I believe that is the case.
+Senator Portman. Yes. That is good but they vary
+significantly from State to State. Let me ask you this, Mr.
+Smith: What benefit would there be from having a single
+standard at the Federal level for breach notification
+legislation given, again, this climate we have of increased
+technological interconnectedness and the number of breaches we
+are seeing?
+Mr. Smith. Right. It seems like there would be some benefit
+to uniformity. I should, though, say that our current
+Commission, as you know, is composed of five Commissioners. All
+of them are new within the last year or so, and they have not
+had an opportunity to testify on whether or not they would
+support a uniform data breach notification standard. Past
+Commissions have supported such a uniform notification
+standard.
+Senator Portman. But in your personal capacity this
+afternoon, what is your opinion?
+Mr. Smith. I was interested, actually, by what Mr. Sorenson
+said when he said, yes, it was a challenge, but it was not
+necessarily their primary challenge. I worked at the FTC in the
+early 2000s, and at that time California had passed its first-
+in-the-Nation data breach notification standard. We dealt with
+it under the ChoicePoint breach, which was a huge breach at the
+time. We started looking at whether we should have a uniform
+standard, and, in fact, the Commission, I believe, testified in
+favor of it at that time. Bills were introduced in 2006 to say
+we need a national standard, every State is going to enact
+their own standard. Well, every State has, and the sky has not
+fallen.
+I feel as though companies have probably figured out how to
+comply. I do have to say that I think there is always a benefit
+to uniformity in terms of ease of compliance. But from what I
+can tell in the market, companies seem to be able to comply
+with this multiplicity of standards.
+Senator Portman. Ease of compliance is one issue, and I do
+think that is something we will hear about from the private
+sector that they would prefer to know what the standards are
+and not to perhaps even inadvertently not follow a standard
+that is different State to State. But beyond that, it is about
+protection. It about the consumer.
+Mr. Smith. Right.
+Senator Portman. It is about the government's security and
+so on. Do you think there is some benefit to that, in other
+words, having a high standard that we can, therefore, ensure we
+have better security?
+Mr. Smith. One of the critical aspects of any kind of a
+breach notification standard is the trigger for notification. I
+think that in the earlier panel it was mentioned that there is
+a 72-hour notice requirement in GDPR. From the perspective of
+someone who focuses on consumer protection, I want to get
+notices to consumers that are useful, that give actionable----
+Senator Portman. Accurate.
+Mr. Smith. Accurate, give them actionable information. I
+think the worst thing--and we have seen it in some of these
+breaches--is piecemeal notification. One notice goes out, ``Oh,
+we thought that was breached, and you should do this in
+response.'' Then another notice goes out, ``Oh, we have
+discovered this other asset was breached.''
+Senator Portman. This adds to the frustration that people
+already feel.
+Mr. Smith. It adds to the frustration. You need to give a
+company time to investigate. They have to investigate quickly.
+Give them time to investigate, figure out who was affected, and
+what information was compromised and what consumers can do to
+protect themselves as well as develop the systems to respond--
+the 800 lines, the credit monitoring, things like that. So, 30
+days, 45 days, something like that. The FTC has a rule that
+applies to breaches of certain health care information where
+the standard is as quickly as possible, but in no event longer
+than 60 days. I do not know if that is the right cut or not,
+but you need to give people a little bit of time to conduct a
+thorough investigation.
+Senator Portman. I do not disagree with that, but I think
+60 days is excessive given----
+Mr. Smith. Could well be.
+Senator Portman [continuing]. The fast-moving nature of
+this and the potential for people's information to be
+compromised.
+On the Administrative Procedures Act, I noted you talked
+about that in your oral remarks. I think the Administrative
+Procedures Act rulemaking probably does give us more
+flexibility. In other words, as I said earlier to the previous
+panel, we want to be able to respond quickly to a changing
+threat because it is going to be evolving. However, there is
+concern that unless it was specifically related to rulemaking
+authority for cybersecurity legislation, it could get out of
+hand.
+Can you speak to that for a moment? One, do you think rules
+under the APA are necessary, and do you think that will add to
+flexibility? Second, how do you narrow it to being sure that it
+is responsive to the congressional actions we might take on
+this one issue?
+Mr. Smith. Right. The Commission has testified in favor of
+APA rulemaking for data security only. I think what folks
+imagine would be a bill like several that we have seen
+introduced, where Congress says, Companies, you shall assess
+risk and develop a plan to keep data safe and maybe provide
+some other boundaries for what the program ought to look like,
+and, FTC, you shall have rulemaking authority under the
+Administrative Procedures Act, to execute only that law, right?
+Not APA rulemaking authority for everything in the world.
+What we have right now--and it was referred to by Ms.
+Cackley--is rulemaking authority under the Magnuson-Moss
+Warranty Act, which requires us not only to do Notices of
+Proposed Rulemaking and taking of comments; we have to do
+Advanced Notices of Proposed Rulemaking. We have to have
+hearings. We have to issue interim reports. We have to allow
+for interim appeals.
+What that means--it is not impossible to do, but what it
+means is that, from soup to nuts, a ``Mag-Moss'' rule takes us
+10 years.
+Senator Portman. Yes, it slows down the process
+considerably.
+One final point, and then I will go to Senator Carper. On
+the nonprofits you mentioned, you said that private carriers
+and nonprofits should be under the FTC rubric for this purpose.
+Can you give us a couple of examples of that? I am thinking
+about hospitals where there had been some breaches as an
+example where sensitive medical information could be released
+inadvertently sometimes, sometimes through hackers.
+Mr. Smith. Right. Hospitals are the issue. If it is medical
+information, health care information, and it is a hospital,
+then that will be covered by Health Insurance Portability and
+Accountability Act of 1996 (HIPAA), and we work closely with
+the Department of Health and Human Services (HHS) and the
+Office of Civil Rights (OCR) to enforce and administer HIPAA
+standards.
+What we have seen with nonprofit hospitals are breaches of
+employee data, not covered by HIPAA, and that is a real
+challenge. We have also seen breaches at educational
+institutions. We have seen breaches at common carriers, and
+there is, I think, a bit of an open question about the Federal
+Communications Commission's authority to address those.
+Senator Portman. Jurisdiction over that, yes.
+Mr. Smith. Jurisdiction to address those breaches.
+Senator Portman. Thank you. All things to look at. Senator
+Carper.
+Senator Carper. Thank you for your really illuminating
+testimony this morning. You were sitting out in the audience,
+and I do not know what you were thinking about, but you came to
+the table prepared, and it is very much appreciated.
+One of the things that is always helpful to me when we have
+a panel of well-informed, thoughtful witnesses is to see where
+do you think you agree, and the question would be: Where do you
+think you agree as a panel with respect to what Congress should
+do next? Would you just start us off, Ms. Cackley?
+Ms. Cackley. Senator, I think where certainly my testimony
+and Mr. Smith's testimony were in agreement was around the need
+for legislation and what some of the elements of that
+legislation could include, which is to say notice and comment
+rulemaking authority, civil penalty authorities. Those were the
+things that would best help the FTC or whichever agency
+Congress chooses to invest with this issue, oversight over this
+issue, the necessary tools to be able to get the job done.
+Senator Carper. All right. Thank you.
+Mr. Smith, where do you think the three of you agree on
+what we should be doing next, our to-do list, if you will?
+Mr. Smith. Particularly with respect to the statutory
+authority for the Federal Trade Commission to make rules in the
+area of data security and enforce using civil penalties and
+also the expanded jurisdiction, we certainly agree on that. I
+agree with Mr. Gilligan from CIS about the importance of these
+useful rubrics like the CIS Critical Security Controls to
+educate businesses and to focus their attention on things that
+really matter. For a lot of businesses, I think that data
+security is sort of an insurmountable obstacle. It is beyond
+anyone's comprehension. These types of rubrics I think help
+businesses to focus their attention in the right place.
+We have done the same thing this week with our GLBA
+Safeguards Rule. The rule began in 2002 and at the time was
+quite influential, but it is very basic. It requires companies
+to have good data security, conduct data assessments, and
+appoint people to be responsible. In our new rule, which is
+somewhat longer, we offer more specifics about encryption and
+penetration testing and some of the other best practices, which
+provides businesses with an auditable standard, provides them
+with clear information about our expectations, and also,
+candidly, provides us with more ability to enforce.
+Senator Carper. Mr. Gilligan, same question. Where do you
+agree?
+Mr. Gilligan. I think there is fundamental agreement that
+this is a complex issue. There are a number of regulatory
+bodies--Federal Trade Commission being one--who have
+jurisdictions over parts of our economy. One of the functions
+that the Center for Internet Security provides is what we call
+the ``Multi-State Information Sharing and Analysis Center,''
+where, under funding from Congress and under DHS sponsorship,
+we provide security support for State, local, tribal, and
+territorial governments.
+Included in State, local, tribal, and territorial is almost
+every different domain that you might imagine, and they are all
+struggling dealing with cybersecurity. While I am personally
+not an expert in data breach reporting, I can say that the
+States and local governments are struggling trying to deal with
+all of the well-intended regulations that I mentioned in my
+testimony. I think some consolidation of that and
+simplification and, as I suggested, perhaps using something
+like the Critical Security Controls as the technical
+implementation foundation. That is where most organizations
+need relief--and that needs to be continuously updated. That is
+what most organizations need help to focus on the problem, and
+as I said, the breaches that have been discovered invariably
+are the result of failure to implement very simple controls in
+a comprehensive way.
+Senator Carper. I asked my staff to gather a handful of
+tips for consumers, for regular folks, to follow if they become
+a data breach victim, and the short list--it is not a
+comprehensive list, but one of those is change your password.
+Another would be to contact your bank or your credit card
+company. A third would be to contact a credit reporting bureau.
+A fourth would be to sign up for credit monitoring. That is for
+folks who had become a breach victim.
+Mr. Gilligan, what would you suggest that consumers can do
+to protect themselves prospectively, not after they become a
+victim but prospectively? Any tips?
+Mr. Gilligan. I think it would be largely parallel to the
+list you just mentioned. One of the things that I would
+recommend is that all consumers freeze their credit reporting,
+which is often a vehicle through which their particular
+personal information is compromised.
+I think having good hygiene with regard to passwords, with
+regard to software updates and use of security software are
+also things that all consumers should do on a regular basis in
+order to protect themselves.
+Senator Carper. Mr. Smith, Ms. Cackley, anything you want
+to add to that list?
+Mr. Smith. I would direct consumers to our website,
+FTC.gov, where we have a tremendous amount of information about
+how to protect yourself in the event of a data breach, both
+general information as well as specific information. For
+example, we have pages that are dedicated to tax identity
+theft. We have a page dealing with connected toys. Just a
+couple of months ago, in December 2018, there was a phishing
+scam where consumers received what appeared to be authentic
+emails from Netflix saying, ``You need to provide us with your
+payment information again.'' We developed a specific page or
+consumer education to deal with that because it was an
+important threat to consumers.
+We also built pages for the Marriott breach and the Equifax
+breach that gave specific information for consumers who had
+received those notices about what they could do to protect
+themselves, including some of the measures that your staff
+mentioned.
+Finally, when consumers believe that they may be a victim
+of identity theft, they need to go to Identitytheft.gov, which
+is operated by the FTC, and there we have tools such as the
+identity theft affidavit that you can use with the credit
+bureaus to have fraudulent information removed from your credit
+report, as well as receive other rights under the Fair Credit
+Reporting Act.
+Senator Carper. All right. Thank you.
+Ms. Cackley, one last word?
+Ms. Cackley. I would say just that consumers need to
+educate themselves, thinking prospectively. They need to
+understand what data is potentially available to other people,
+what companies are collecting their data, and how they can set
+privacy controls potentially or do whatever else they can to
+keep themselves safe.
+Senator Carper. Terrific. Thank you. You had to wait here
+for a while in order to share your thoughts with us, but for us
+it was well worth the wait and we thank you very much.
+Senator Portman. I cannot tell you how much we appreciate
+your testimony and also the ongoing work with us on this
+because we have some real expertise here.
+By the way, with regard to the FTC--I think I speak for
+Senator Carper on this, too--we really want you to feel
+responsible. In other words, one of the concerns that I have
+had is there is so much of this going on, breaches, some of
+which relate to private companies, some, as you mentioned
+earlier, nonprofits. Many people are concerned about where
+their information is going, even if it is not a business per se
+that you would normally think of as we saw in the earlier
+panel, but even any of these websites where, you are giving
+information and that information is then being given out to
+other people. Folks want to know about it. I hope--and maybe
+Ms. Puente Cackley can do some work on this going forward--that
+you all feel empowered to be that one stop for a consumer. If
+they have a concern, they can go to your website and figure out
+both what is going on with the specific issue, as we talked
+about earlier, if there has been a breach at a big company and,
+they can find out what the information is about how they can
+protect themselves, but also just general information.
+I assume you feel you have that responsibility already, but
+we want to be sure that whatever legislation we do squarely
+puts that responsibility, frankly, and accountability on the
+FTC. Any thoughts on that?
+Mr. Smith. We are the country's only general jurisdiction
+consumer protection agency. Of course, we have a lot of
+consumer protection agencies--the Food and Drug Administration
+(FDA) or the Securities and Exchange Commission or the banking
+agencies. We are the only ones who take a general view to the
+whole marketplace, and we believe that should Congress pass
+legislation with respect to data security or privacy, we are
+the agency that is best equipped to enforce and administer that
+statute, not only because of our more than 20 years' experience
+with privacy and data security--in fact, if you look at the
+Fair Credit Reporting Act, which has been around since 1970,
+and we have been in charge of enforcing and administering it--
+but also just our general know-how with respect to how to
+protect consumers and our focus on consumer harm, whether it is
+deceptive practices or unfair practices. We have the goods to
+show for it, right? We have brought 60 cases plus in the data
+security area and the same in the privacy area.
+Finally, I would say that I think that, unlike an agency
+that has specific jurisdiction, I think we are less susceptible
+to capture. If you look at the more than 100-year history of
+the FTC, we have proven remarkably immune to that, and I would
+worry about a special agency dealing with privacy in terms of
+the potential for regulatory capture.
+Senator Portman. I think that is consistent with where we
+would like to go with legislation just to affirm that and to
+make sure there is a clear line of responsibility.
+My final question is about Ohio, of course, and it is to
+Mr. Gilligan, because he mentioned Ohio in his list of States
+and countries that have put in place some kind of an Internet
+security control system. We have recently in Ohio established
+our Center for Internet Security Controls as a standard for
+cyber defense after passing the Ohio Data Protection Act. Could
+you discuss briefly the role of the CIS controls within the
+Ohio Data Protection Act and how legislation of this kind can
+incentivize companies to implement some of these baseline cyber
+controls we have talked about today?
+Mr. Gilligan. Thank you, Senator. The Ohio legislation is
+ground-breaking legislation in that for the first time it
+provides specific guidance with regard to expectations for
+cybersecurity. As you mentioned, it does reference a couple of
+the Federal guidelines, specifically it references several NIST
+documents. But the Critical Security Controls is only one of
+the references that really provides specific implementation
+guidance, and so we believe that that is the type of guidance
+that is required.
+As you know, the Ohio legislation is voluntary, and the
+intent of it is really to provide positive incentives to those
+doing business within Ohio to improve their status of
+cybersecurity, and we think that is sort of the right way to
+go, to provide a clear definition of what are the expectations,
+encourage through positive rewards organizations to comply with
+those best practices, and to serve as an example for industry
+as well.
+Senator Portman. Thank you, Mr. Gilligan. Senator Carper.
+Senator Carper. Mr. Chairman, before we close, I just want
+to thank a couple members of our staff from the majority side
+and the minority side by name and insert for the record the
+names of some other folks who have worked on this. We have been
+at this for a while. There are some people who have come and
+gone, and I want to just have those names entered for the
+record: on the majority staff, Andy Dockham, and Patrick
+Warren, especially for their hard work, and there are others, I
+know, as well.
+On the minority staff, I want to thank Roberto Berrios,
+Brandon Reavis, Meeran Ahn, and John Kilvington; our law
+clerks, Conor Daly, Justin Azar, and Taylor Burnett, who helped
+prepare for this hearing. We have a number of folks, former
+staff, former law clerks, who have gone on to other pursuits,
+but we are grateful to them. We will enter those names for the
+record. We are only as good as the people we have behind us,
+and we are blessed by the folks that sit behind us and help us.
+Senator Portman. Thank you, Senator Carper. I thank the
+witnesses for their testimony this morning. Both panels I
+thought were very informative. I also want to thank your staff,
+Senator Carper, and you for leading on this important issue of
+protecting consumer information. That is how we work here. It
+is a nonpartisan approach, and my staff also deserves
+recognition for doing a great job in working with our witnesses
+and others to make sure this was a thorough investigation.
+As with our other investigations, we are going to be
+looking at legislation, so we want your continued help on that.
+I look forward to working with Senator Carper on that.
+The hearing record will remain open for 15 days for any
+additional comments or questions by any of the Subcommittee
+Members, and with that, this hearing is adjourned.
+[Whereupon, at 12:32 p.m., the Subcommittee was adjourned.]
+A P P E N D I X
+----------
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

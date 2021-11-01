@@ -1,0 +1,395 @@
+- EXAMINATION OF THE GAO AUDIT SERIES OF HHS CYBERSECURITY
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+EXAMINATION OF THE GAO AUDIT SERIES OF HHS CYBERSECURITY
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS
+OF THE
+COMMITTEE ON ENERGY AND COMMERCE
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+JUNE 20, 2018
+__________
+Serial No. 115-142
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Printed for the use of the Committee on Energy and Commerce
+energycommerce.house.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+35-126 PDF
+WASHINGTON : 2019
+--------------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail, [email protected]
+COMMITTEE ON ENERGY AND COMMERCE
+GREG WALDEN, Oregon
+Chairman
+JOE BARTON, Texas
+FRANK PALLONE, Jr., New Jersey
+Vice Chairman
+Ranking Member
+FRED UPTON, Michigan
+BOBBY L. RUSH, Illinois
+JOHN SHIMKUS, Illinois
+ANNA G. ESHOO, California
+MICHAEL C. BURGESS, Texas
+ELIOT L. ENGEL, New York
+MARSHA BLACKBURN, Tennessee
+GENE GREEN, Texas
+STEVE SCALISE, Louisiana
+DIANA DeGETTE, Colorado
+ROBERT E. LATTA, Ohio
+MICHAEL F. DOYLE, Pennsylvania
+CATHY McMORRIS RODGERS, Washington
+JANICE D. SCHAKOWSKY, Illinois
+GREGG HARPER, Mississippi
+G.K. BUTTERFIELD, North Carolina
+LEONARD LANCE, New Jersey
+DORIS O. MATSUI, California
+BRETT GUTHRIE, Kentucky
+KATHY CASTOR, Florida
+PETE OLSON, Texas
+JOHN P. SARBANES, Maryland
+DAVID B. McKINLEY, West Virginia
+JERRY McNERNEY, California
+ADAM KINZINGER, Illinois
+PETER WELCH, Vermont
+H. MORGAN GRIFFITH, Virginia
+BEN RAY LUJAN, New Mexico
+GUS M. BILIRAKIS, Florida
+PAUL TONKO, New York
+BILL JOHNSON, Ohio
+YVETTE D. CLARKE, New York
+BILLY LONG, Missouri
+DAVID LOEBSACK, Iowa
+LARRY BUCSHON, Indiana
+KURT SCHRADER, Oregon
+BILL FLORES, Texas
+JOSEPH P. KENNEDY, III,
+SUSAN W. BROOKS, Indiana
+Massachusetts
+MARKWAYNE MULLIN, Oklahoma
+TONY CARDENAS, California
+RICHARD HUDSON, North Carolina
+RAUL RUIZ, California
+CHRIS COLLINS, New York
+SCOTT H. PETERS, California
+KEVIN CRAMER, North Dakota
+DEBBIE DINGELL, Michigan
+TIM WALBERG, Michigan
+MIMI WALTERS, California
+RYAN A. COSTELLO, Pennsylvania
+EARL L. ``BUDDY'' CARTER, Georgia
+JEFF DUNCAN, South Carolina
+Subcommittee on Oversight and Investigations
+GREGG HARPER, Mississippi
+Chairman
+H. MORGAN GRIFFITH, Virginia
+DIANA DeGETTE, Colorado
+Vice Chairman
+Ranking Member
+JOE BARTON, Texas
+JANICE D. SCHAKOWSKY, Illinois
+MICHAEL C. BURGESS, Texas
+KATHY CASTOR, Florida
+SUSAN W. BROOKS, Indiana
+PAUL TONKO, New York
+CHRIS COLLINS, New York
+YVETTE D. CLARKE, New York
+TIM WALBERG, Michigan
+RAUL RUIZ, California
+MIMI WALTERS, California
+SCOTT H. PETERS, California
+RYAN A. COSTELLO, Pennsylvania
+FRANK PALLONE, Jr., New Jersey (ex
+EARL L. ``BUDDY'' CARTER, Georgia
+officio)
+GREG WALDEN, Oregon (ex officio)
+C O N T E N T S
+----------
+Page
+Hon. Gregg Harper, a Representative in Congress from the State of
+Mississippi, opening statement.................................
+1
+Prepared statement...........................................
+2
+Hon. Diana DeGette, a Representative in Congress from the state
+of Colorado, opening statement.................................
+2
+Hon. Greg Walden, a Representative in Congress from the State of
+Oregon, prepared statement.....................................
+4
+Witnesses
+Sherri Berger, Chief Operating Officer, Centers for Disease
+Control and Prevention
+Suzi Connor, Chief Information Officer, Centers for Disease
+Control and Prevention
+Beth Killoran, Chief Information Officer, U.S. Department of
+Health and Human Services
+Greg Wilshusen, Director, Information Security Issues, Government
+Accountability Office
+Submitted Material
+Subcommittee memorandum..........................................
+6
+EXAMINATION OF THE GAO AUDIT SERIES OF HHS CYBERSECURITY
+----------
+WEDNESDAY, JUNE 20, 2018
+House of Representatives,
+Subcommittee on Oversight and Investigations,
+Committee on Energy and Commerce,
+Washington, DC.
+The subcommittee met, pursuant to call, at 1:00 p.m., in
+room 2123, Rayburn House Office Building, Hon. Gregg Harper
+(chairman of the subcommittee) presiding.
+Present: Representatives Harper, Griffith, Brooks, Collins,
+Barton, Walberg, Walters, Costello, Carter, Walden (ex
+officio), DeGette, Castor, Tonko, Clarke, and Ruiz.
+Staff Present: Jennifer Barblan, Chief Counsel, Oversight
+and Investigations; Karen Christian, General Counsel; Ali
+Fulling, Legislative Clerk, Oversight and Investigations/
+Digital Commerce and Consumer Protection; Jennifer Sherman,
+Press Secretary; Alan Slobodin, Chief Investigative Counsel,
+Oversight and Investigations; Peter Spencer, Professional Staff
+Member, Energy; Jessica Wilkerson, Professional Staff Member,
+Oversight and Investigations; Julie Babayan, Minority Counsel;
+Chris Knauer, Minority Staff Director, Oversight and
+Investigations; Miles Lichtman, Minority Policy Analyst; Kevin
+McAloon, Minority Professional Staff Member; and Samantha
+Satchell, Minority Policy Analyst.
+OPENING STATEMENT OF HON. GREGG HARPER, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF MISSISSIPPI
+Mr. Harper. Good afternoon. We are here today to hold a
+hearing examining the ongoing GAO audit series of HHS
+cybersecurity programs.
+Since the Committee submitted its request to GAO in 2013,
+GAO has performed three audits of major operating divisions
+within HHS. Today's hearing will provide an opportunity for the
+subcommittee to learn more about GAO's findings over this
+series of audits as well as the steps taken by HHS and its
+operating divisions to respond to these findings.
+Given that GAO has completed three of these audits, today's
+hearing will also provide an opportunity to examine HHS
+cybersecurity roles and responsibilities. These GAO audits
+provide a valuable opportunity for HHS and its operating
+divisions to reflect on its cybersecurity capabilities and
+improve from one to the next. Today's hearing will allow us to
+explore whether or not HHS has indeed taken advantage of these
+opportunities in the way that we would hope and expect that the
+Department has.
+Given the sensitivity of some of the findings identified by
+GAO, we have determined that it is appropriate for the bulk of
+this hearing to take place in a closed session. After opening
+remarks by Ranking Member DeGette, the subcommittee will vote
+to enter a closed session and then proceed from there.
+I want to thank our witnesses for appearing today.
+And I now recognize Ms. DeGette for any public comments
+before we vote to go into closed session.
+[The prepared statement of Mr. Harper follows:]
+Prepared statement of Hon. Gregg Harper
+Good afternoon. We are here today to hold a hearing
+examining the ongoing GAO audit series of HHS cybersecurity
+programs. Since the Committee submitted its request to GAO in
+2013, GAO has performed three audits of major operating
+divisions within HHS.
+Today's hearing will provide an opportunity for the
+Subcommittee to learn more about GAO's findings over this
+series of audits, as well as the steps taken by HHS and its
+operating divisions to respond to these findings. Given that
+GAO has completed three of these audits, today's hearing will
+also provide an opportunity to examine HHS cybersecurity roles
+and responsibilities.
+These GAO audits provide a valuable opportunity for HHS and
+its operating divisions to reflect on its cybersecurity
+capabilities and improve from one to the next. Today's hearing
+will allow us to explore whether or not HHS has indeed taken
+advantage of these opportunities in the way that we would
+hope--and expect--that the Department has.
+Given the sensitivity of some of the findings identified by
+GAO, we have determined that it is appropriate for the bulk of
+this hearing to take place in a closed session.
+After opening remarks by Ranking Member DeGette, the
+Subcommittee will vote to enter closed session and then proceed
+from there.
+I want to thank our witnesses for appearing today, and I
+now recognize Ms. DeGette for any public comments before we
+vote to go into closed session.
+OPENING STATEMENT OF HON. DIANA DEGETTE, A REPRESENTATIVE IN
+CONGRESS FROM THE STATE OF COLORADO
+Ms. DeGette. Thank you, Mr. Chairman.
+As you know, this committee has conducted a series of
+oversight work focused on cybersecurity, such as at the
+Department of Energy and HHS. GAO is doing critical work in
+testing the cyber defenses at various HHS agencies, and this
+report is the latest in that series.
+To that end, I look forward to examining these issues in
+more detail in executive session and to hearing what
+commitments these agencies can make to address the
+vulnerabilities.
+And, with that, I yield back.
+Mr. Harper. Ms. DeGette yields back.
+The chair recognizes himself for a unanimous consent
+request and to offer a motion.
+Because of the sensitive nature of this hearing,
+particularly its implications for national security, and after
+consultations with the minority, I will offer a motion that the
+subcommittee go into executive session.
+I yield to the ranking member for any comments on this
+procedure.
+Ms. DeGette. Thank you, Mr. Chairman.
+As I stated before, given the sensitive nature of this
+information, I support your motion.
+Mr. Harper. The chair moves that, pursuant to clause 2(g)
+of rule XI of the rules of the House, the remainder of this
+hearing will be conducted in executive session to protect
+information that might endanger national security.
+Is there discussion on the motion?
+Seeing none, if there is no discussion, pursuant to the
+rule, a recorded vote is ordered. Pursuant to rule XI of the
+U.S. House of Representatives, this will be a roll call vote.
+The clerk call the roll.
+The Clerk. Mr. Griffith?
+Mr. Griffith. Aye.
+The Clerk. Mr. Griffith votes aye.
+Mr. Barton?
+[No response.]
+The Clerk. Mr. Burgess?
+[No response.]
+The Clerk. Mrs. Brooks?
+Mrs. Brooks. Aye.
+The Clerk. Mrs. Brooks votes aye.
+Mr. Collins?
+Mr. Collins. Aye.
+The Clerk. Mr. Collins votes aye.
+Mr. Walberg?
+Mr. Walberg. Aye.
+The Clerk. Mr. Walberg votes aye.
+Mrs. Walters?
+Mrs. Walters. Aye.
+The Clerk. Mrs. Walters votes aye.
+Mr. Costello?
+[No response.]
+The Clerk. Mr. Carter?
+Mr. Carter. Aye.
+The Clerk. Mr. Carter votes aye.
+Chairman Walden?
+[No response.]
+The Clerk. Ms. DeGette?
+Ms. DeGette. Aye.
+The Clerk. Ms. DeGette votes aye.
+Ms. Schakowsky?
+[No response.]
+The Clerk. Ms. Castor?
+Ms. Castor. Aye.
+The Clerk. Ms. Castor votes aye.
+Mr. Tonko?
+Mr. Tonko. Aye.
+The Clerk. Mr. Tonko votes aye.
+Ms. Clarke?
+Ms. Clarke. Aye.
+The Clerk. Ms. Clarke votes aye.
+Mr. Ruiz?
+Mr. Ruiz. Aye.
+The Clerk. Mr. Ruiz votes aye.
+Mr. Peters?
+[No response.]
+The Clerk. Mr. Pallone?
+[No response.]
+The Clerk. Chairman Harper?
+Mr. Harper. Aye.
+The Clerk. Chairman Harper votes aye.
+Mr. Harper. Have all members been recorded?
+The clerk will report the vote.
+The Clerk. Mr. Chairman, on the vote, there were 12 ayes
+and 0 nays.
+Mr. Harper. The motion passes. The remainder of the hearing
+will be closed to the public and open only to our witnesses, to
+the members, and to essential staff.
+We will briefly recess to clear the room.
+[Whereupon, at 1:05 p.m., the subcommittee proceeded in
+closed session.]
+[Material submitted for inclusion in the record follows:]
+Prepared statement of Hon. Greg Walden
+Mr. Chairman, thank you for holding today's hearing. As you
+explained, we are here today to examine the state of
+cybersecurity at CDC, and what the findings of this audit may
+mean for HHS cybersecurity more broadly. However, it is
+important to keep in mind that the issues and potential
+consequences of GAO's findings at the CDC go far beyond simply
+deficient technical controls.
+In 2013, this Committee requested that the GAO examine in
+detail the information security controls at four key HHS
+agencies--CMS, FDA, CDC, and NIH. Three of those audits are now
+complete, and the NIH is up next. Two years ago, upon the
+release of the FDA audit, the Committee had to call FDA senior
+leadership in a snowstorm to impress upon them to importance of
+closing the 165 vulnerabilities--many of them incredibly
+serious-identified by that GAO audit immediately.
+We had hoped that the CDC audit would be better, but in
+many ways it is worse. Not only are there more technical
+recommendations--184 in this case--but they are more severe.
+And, nearly a quarter of them appear to be duplicative of the
+vulnerabilities in the FDA audit. That includes, by the way,
+the vulnerability that caused the Committee to call over to FDA
+in a snowstorm.
+CDC today will discuss their efforts to date to remediate
+the findings cited by GAO once GAO made them aware of the
+various issues. I am glad that the CDC recognizes the severity
+of the GAO's findings, and is aggressively moving to mitigate
+these vulnerabilities. CDC also engaged a US-CERT ``hunt'' team
+at the Committee's request to investigate potential intrusions.
+When I spoke with Dr. Redfield yesterday he told me that fixing
+these problems is a top priority.
+We have many questions that I hope we can get answers to
+today. For example, why did it take a third-party audit to
+highlight the significant dangers that CDC's information
+technology strategy created? Why didn't CDC recognize this
+danger itself? And finally, if these findings and their
+potential consequences were fully recognized over a year ago,
+why wasn't the Committee told until the release of the
+restricted report last month?
+Chairman Harper highlighted some of the concerns around
+certain vulnerabilities like Finding 38, which CDC has
+confirmed existed in its vulnerable configuration for nearly 7
+years. The implications of this finding are astounding. For
+nearly 7 years, Finding 38 may have allowed a remote, Internet-
+based attacker to access any CDC server, workstation, or other
+networked device, including such CDC systems as the ones on
+which the Federal Select Agent Platform or the Strategic
+National Stockpile program depend. These are serious threats
+with potentially grave consequences. And to make things worse,
+8 other GAO findings suggest that CDC's audit and intrusion
+detection capabilities were, and remain, so poor that CDC may
+not have detected whether Finding 38 or other critical findings
+were leveraged to penetrate the CDC.
+The severity of the findings at CDC show that we are still
+viewing cybersecurity as primarily a ``tech'' problem, when in
+fact we have moved far beyond that. The vulnerabilities at CDC
+were not merely a missing IT control deserving of a failing
+audit grade, but a national security threat. And because the
+appropriate amount of weight was not given to that fact a year
+ago, we are now even less well-positioned to understand what
+may have happened to--or, perhaps more accurately, who got
+inside--CDC's networks in the nearly 7 years that the Finding
+38 vulnerability existed.
+I greatly appreciate the hard work of the GAO, and I know
+the CDC does as well. The team that has done these audits at
+the Committee's request does incredible work. We must not lose
+sight of the context in which these vulnerabilities exist.
+There are malicious actors that wish to cause us great harm,
+and have already exploited vulnerabilities across the Federal
+Government. This hearing is a critical step in gaining a better
+understanding of what happened, so that we many ensure that all
+parties understand the potential consequences, and we may
+better position ourselves to ensure that it doesn't happen
+again.
+I want to thank our witnesses for testifying and look
+forward to today's discussion. Thank you, and I yield back.
+----------
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

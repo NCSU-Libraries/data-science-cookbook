@@ -1,0 +1,1753 @@
+- VA LOGISTICS MODERNIZATION: EXAMINING THE RTLS AND CATAMARAN PROJECTS
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+VA LOGISTICS MODERNIZATION: EXAMINING THE RTLS AND CATAMARAN PROJECTS
+=======================================================================
+HEARING
+before the
+SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS
+of the
+COMMITTEE ON VETERANS' AFFAIRS
+U.S. HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+TUESDAY, MAY 8, 2018
+__________
+Serial No. 115-58
+__________
+Printed for the use of the Committee on Veterans' Affairs
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://www.govinfo.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+35-486
+WASHINGTON : 2019
+COMMITTEE ON VETERANS' AFFAIRS
+DAVID P. ROE, Tennessee, Chairman
+GUS M. BILIRAKIS, Florida, Vice-
+TIM WALZ, Minnesota, Ranking
+Chairman
+Member
+MIKE COFFMAN, Colorado
+MARK TAKANO, California
+BRAD R. WENSTRUP, Ohio
+JULIA BROWNLEY, California
+AMATA COLEMAN RADEWAGEN, American
+ANN M. KUSTER, New Hampshire
+Samoa
+BETO O'ROURKE, Texas
+MIKE BOST, Illinois
+KATHLEEN RICE, New York
+BRUCE POLIQUIN, Maine
+J. LUIS CORREA, California
+NEAL DUNN, Florida
+KILILI SABLAN, Northern Mariana
+JODEY ARRINGTON, Texas
+Islands
+JOHN RUTHERFORD, Florida
+CONOR LAMB, Pennsylvania
+CLAY HIGGINS, Louisiana
+ELIZABETH ESTY, Connecticut
+JACK BERGMAN, Michigan
+SCOTT PETERS, California
+JIM BANKS, Indiana
+JENNIFFER GONZALEZ-COLON, Puerto
+Rico
+Jon Towers, Staff Director
+Ray Kelley, Democratic Staff Director
+SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS
+JACK BERGMAN, Michigan, Chairman
+MIKE BOST, Illinois
+ANN MCLANE KUSTER, New Hampshire,
+BRUCE POLIQUIN, Maine
+Ranking Member
+NEAL DUNN, Florida
+KATHLEEN RICE, New York
+JODEY ARRINGTON, Texas
+SCOTT PETERS, California
+JENNIFER GONZALEZ-COLON, Puerto
+CONOR LAMB, Pennsylvania
+Rico
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public
+hearing records of the Committee on Veterans' Affairs are also
+published in electronic form. The printed hearing record remains the
+official version. Because electronic submissions are used to prepare
+both printed and electronic versions of the hearing record, the process
+of converting between various electronic formats may introduce
+unintentional errors or omissions. Such occurrences are inherent in the
+current publication process and should diminish as the process is
+further refined.
+C O N T E N T S
+----------
+Tuesday, May 8, 2018
+Page
+VA Logistics Modernization: Examining The RTLS and Catamaran
+Projects.......................................................
+1
+OPENING STATEMENTS
+Honorable Jack Bergman, Chairman.................................
+1
+Honorable Kathleen Rice, Acting Ranking Member, U.S. House of
+Representatives................................................
+3
+WITNESSES
+Ms. Tammy Czarnecki, Assistant Deputy Under Secretary for Health
+for Administrative Operations, Veterans Health Administration,
+U.S. Department of Veterans Affairs............................
+4
+Prepared Statement...........................................
+23
+Accompanied by:
+Mr. Alan Constantian, Deputy Chief Information Officer and
+Account Manager for Health, Office of Information and
+Technology, U.S. Department of Veterans Affairs
+Mr. Nicholas Dahl, Deputy Assistant Inspector, General for Audits
+and Evaluations, Office of Inspector General, U.S. Department
+of Veterans Affairs............................................
+6
+Prepared Statement...........................................
+26
+Accompanied by:
+Mr. Michael Bowman, Director for Information Technology and
+Security Audits Division, Office of Inspector General,
+U.S. Department of Veterans Affairs
+VA LOGISTICS MODERNIZATION: EXAMINING THE RTLS AND CATAMARAN PROJECTS
+----------
+Tuesday, May 8, 2018
+U.S. House of Representatives,
+Committee on Veterans' Affairs,
+Subcommittee on Disability Assistance
+and Memorial Affairs,
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 2:08 p.m., in
+Room 334, Cannon House Office Building, Hon. Jack Bergman
+[Chairman of the Subcommittee] presiding.
+Present: Representatives Bergman, Poliquin, Dunn,
+Arrington, Rice, Peters, and Lamb.
+OPENING STATEMENT OF JACK BERGMAN, CHAIRMAN
+Mr. Bergman. Good afternoon. This hearing will come to
+order. Please have a seat.
+I want to welcome everyone to today's hearing on VA's
+efforts to modernize its medical supply chain.
+Ordering, stocking, and locating medical equipment and
+supplies are fundamental to VA's mission of providing medical
+care to our veterans. Unfortunately, these logistics functions
+seem to have degenerated in recent years. We read about them in
+the press on a regular basis.
+The Real-Time Location System, or RTLS, and Catamaran
+point-of-use projects were conceived as technological leaps
+forward, enabling VA medical centers to manage logistics more
+efficiently. Catamaran was intended to replace the 25-year-old
+Generic Inventory Package, or GIP, VA's primary inventory
+system. Catamaran included modern point-of-use capabilities and
+analytics tools. And a $55 million contract was awarded in
+September 2013, with a potential value of $275 million.
+Expectations were high, and VA began pilot implementations
+in 22 facilities, including Pittsburgh and Washington, D.C.
+Unfortunately, early results were overwhelmingly negative. In
+Pittsburgh, users reported the software was plagued by login
+failures, slow loading times, malfunctions, and problems
+integrating with VistA. Catamaran was generally cumbersome and
+inefficient, not any better than the existing inventory system.
+In 2015, the Pittsburgh medical center decided to revert to
+GIP. That eventually happened, after the VA central office
+originally ordered Catamaran to remain in place but eventually
+relented.
+Meanwhile, in Washington, D.C., Catamaran was similarly
+unsuccessful. The Office of Inspector General has demonstrated
+that, unlike in Pittsburgh, the D.C. medical center's logistics
+operation was already in disarray before Catamaran came along.
+The staff had largely abandoned GIP and fallen into a pattern
+of tracking inventory manually, in a disconnected fashion, in
+various areas of the hospital.
+It remains a matter of debate to what extent Catamaran was
+ever used in D.C. up until VA halted the project and terminated
+the contract in August of 2016. What is clear is Catamaran was
+a harmful distraction. OIG has reported that logistics at the
+D.C. medical center got worse due to a variety of factors in
+2015 and 2016 during the Catamaran implementation that
+occurred.
+The Subcommittee has determined that logistics operations
+are actually in worse shape today than they were before
+Catamaran began. I hope to determine the reasons for this
+today.
+I will now turn to the Real-Time Location System, which is
+still ongoing.
+The RTLS project entails attaching radiofrequency
+identification tags to a range of medical equipment, some
+supplies, and surgical instruments in the catheterization lab
+and the sterile processing department. With RTLS, VA aims to
+count and track the physical locations of these assets in real-
+time on one computer screen.
+VA awarded the RTLS contract, which originally had a
+potential value of $543 million, in June of 2012. After a
+series of modifications, the contract is scheduled to end next
+month.
+An initial pilot in VISN 23, in the Northern Great Plains,
+very quickly became an implementation throughout nearly the
+whole country, before test results had ever come back from VISN
+23. The test results in March 2015 were troubling. There were
+over 200 defects, and the RTLS could only track equipment
+accurately 40 percent of the time.
+This led to conflict between VA and the contractor.
+Specifically, VA threatened to terminate the contract if a
+satisfactory corrective action plan was not produced. Over a
+year later, in June 2016, there were still almost 50 defects.
+The contractor blamed VA's inadequate WiFi, and VISN 23
+withdrew from the project.
+According to the OIG, there were also cybersecurity
+deficiencies. The contractor connected RTLS to VA's network
+before receiving authority to operate.
+In September 2016, VA and the contractor signed a global
+settlement agreement that remains sealed. I requested a copy on
+April 12, and VA has so far declined to provide it. But what we
+do know is that the contract was extended through June 2018,
+its requirements were significantly reduced, and the contractor
+was released from any liability for its performance up to that
+point.
+The facilities slated to receive the RTLS asset tracking
+capability, its main component, were cut from 92 to 47. The
+facilities scheduled to receive RTLS in the catheterization
+labs and sterile processing departments were also pared down.
+The temperature monitoring component of RTLS was almost
+completely eliminated. Today, VA still has a significant amount
+of work to do to meet even these reduced goals.
+The question before us today is: What should be done with
+the RTLS program, how much has been spent, and what has the VA
+gotten for the money? The goalposts have been lowered, but can
+they be met? And how much additional investment will that
+require? The contract's expiration is only weeks away.
+I now yield to Miss Rice, who has graciously agreed to fill
+in for Ranking Member Kuster, for any opening statement or
+remarks she may have.
+OPENING STATEMENT OF KATHLEEN RICE, ACTING RANKING MEMBER
+Miss Rice. Thank you, Mr. Chairman.
+Good afternoon. And I want to thank the Chairman for
+holding this important hearing. I also want to thank all of our
+witnesses for coming here today.
+I continue to be alarmed at the number of mismanaged and
+failed information technology programs at VA. Attempts to
+modernize VA's IT infrastructure always seem to hit
+implementation roadblocks, cost overruns, and result in
+products that are unusable for the frontline employees
+entrusted with delivering health care and benefits to our
+veterans. It is not surprising that IT is one of the five areas
+of concern GAO identified when it decided to place the Veterans
+Health Administration on its high-risk list.
+In its testimony today, the Office of Inspector General yet
+again finds that VA faces significant challenges in managing
+its IT development projects. Whether it is VA's inability to
+manage its medical supply inventory at the Washington, D.C., VA
+Medical Center, too many false starts on an interoperable
+electronic health record with DoD and now the delayed signing
+of the contract with Cerner, or even delayed deployment of the
+caregiver IT system, it seems VA witnesses frequently shift the
+blame on the Office of Information and Technology during
+oversight hearings when things go wrong.
+As late as March of this year, the D.C. VAMC was still
+delaying treatment for veterans due to medical supply
+shortages. It has been over a year since Congresswoman Kuster
+led Committee Members on an oversight visit to the D.C. VAMC
+after the OIG reported that patients were being put at risk due
+to care delays. This site visit revealed that supplies were not
+being tracked by any inventory management system or any
+automated system to process sterile supplies, not the GIP
+system, nor the RTLS, the Real-Time Location Service, nor
+Catamaran system. Due to failed management of RTLS and
+Catamaran, the medical center did not know when it was running
+low on some supplies and, in other cases, was ordering too many
+supplies that remained unused.
+It took extra dedication and commitment from clinical staff
+to ensure no patients were harmed. However, veterans sometimes
+had procedures delayed or canceled. This significantly
+increased patients' risk of harm, in part due to a failed IT
+project that made it difficult for the medical center to manage
+its medical supply chain and ensure sterile equipment was
+processed and available to providers when they needed it to
+treat patients.
+OIG found in its review of the RTLS project that, due to
+inadequate project management, VA did not have assurance that
+it received an effective return on the $451 million it invested
+in RTLS or that Hewlett-Packard met the contract requirements
+because the contract was mismanaged. This mismanagement caused
+delays in veterans' care and wasted taxpayer dollars. It is
+beyond unacceptable.
+We are holding the hearing today to get the necessary facts
+so we can be sure that VA is properly managing its medical
+supply chain. We cannot have what happened at the D.C. VAMC
+take place in other VA hospitals and clinics around the
+country.
+According to the OIG, VA needs enhanced discipline,
+oversight, and resource management to support successful IT
+development. I look forward to hearing from VA about how the
+agency plans to enforce discipline, resource management, and
+ensure proper oversight so we can get this project back on
+track and prevent any future risk of harm for our veterans.
+Thank you, Mr. Chairman. I yield back.
+Mr. Bergman. Thank you, Miss Rice.
+I now welcome the members of our first and only panel, who
+are seated at the witness table.
+With us today from VA, we have Ms. Tammy Czarnecki, the
+Assistant Deputy Under Secretary for Health for Administrative
+Operations in the Veterans Health Administration. She is
+accompanied by Mr. Alan Constantian, the Deputy Chief
+Information Officer and the Account Manager for Health in the
+Office of Information and Technology.
+Also on the panel we have Mr. Nicholas Dahl, Deputy
+Assistant Inspector General for Audits and Evaluations,
+representing the VA Office of Inspector General. He is
+accompanied by Mr. Michael Bowman, the Director for the
+Information Technology and Security Audits Division in the
+Office of Inspector General.
+I ask that the witnesses please stand and raise your right
+hand.
+Mr. Bergman. Let the record reflect that all witnesses have
+answered in the affirmative.
+Ms. Czarnecki, you are now recognized for 5 minutes.
+STATEMENT OF TAMMY CZARNECKI
+Ms. Czarnecki. Good afternoon, Chairman Bergman, Acting
+Ranking Member Rice, and Members of the Subcommittee. I
+appreciate the opportunity to discuss the Department of
+Veterans Affairs' Real-Time Location System project and the
+point-of-use program.
+I am accompanied today by Dr. Alan Constantian, Deputy
+Chief Information Officer, Office of Information and
+Technology.
+In 2011, VA chartered several major transformation
+initiatives. Two of these initiatives included the RTLS project
+and the point-of-use program.
+The RTLS project was chartered to automate processes and
+improve health care services that VA provides to veterans. In
+June of 2012, VA awarded a contract to Hewlett-Packard
+Enterprise Systems. The contract's scope encompassed design,
+installation, testing, and maintenance of RTLS. Task orders
+were to be issued against the contract, which had a ceiling of
+$543 million.
+The RTLS project is jointly managed by OI&T and VHA per a
+memorandum of understanding signed in 2011 by the Under
+Secretary for Health and the Chief Information Officer. The
+RTLS solution utilizes COTS technology and software to directly
+support patient care delivery and outcomes.
+RTLS requires extensive infrastructure to be installed
+throughout the hospital, with design and installation generally
+taking 1 to 2 years. Fargo VAMC was the first site to complete
+installation and test the system in March of 2015. VA
+identified several issues, and the contractor was charged to
+correct them.
+In September of 2016, VA made a program decision to realign
+the RTLS program and entered into negotiations, with the shared
+goal to expedite the implementation of RTLS. To capture the
+agreements made during these negotiations, VA modified the
+existing RTLS contract and executed a global settlement
+agreement, resulting in an implementation strategy to decouple
+the applications, allowing each application to be tested and
+deployed on their own schedule. Additionally, it was agreed
+that the vendor would install additional technology to improve
+the accuracy, and a new deployment schedule was issued through
+2018.
+The deployment of RTLS was accelerated, with many positive
+outcomes, continuing through present. The sterile processing
+solution has been successfully implemented at 60 facilities.
+With over 1.4 million surgical and dental instruments being
+tracked, VA can be assured instruments have been through the
+required steps of the sterilization process and the right
+instruments are being delivered to the right operating room for
+the right procedure. Also, the cath lab solution has been
+deployed at 28 facilities and is generating notable supply
+savings.
+VHA and OI&T have continued to align and improve project
+management processes following the conclusion and the
+publication of the OIG report. The RTLS deployment efforts have
+been managed utilizing sound project management principles. VA
+will perform continual risk assessments to assure that risks
+associated with deploying RTLS on the VA network are minimized.
+Moving to the point-of-use program, a point-of-use system
+provides asset visibility down to the point at which the asset
+is used. VA defines our point of use as our medical supply
+rooms located throughout the medical center.
+The point-of-use program was envisioned and intended to
+provide an integrated supply chain solution capable of
+providing consolidated data. The consolidated data would be
+used to effectively manage consumable medical supply
+inventories throughout the hospital.
+Shipcom Wireless was awarded the point-of-use contract on
+September 23rd of 2013. While the first and second options of
+the contract were exercised, contract requirements were not
+being met. The contract was not meeting operational or
+contractual deliverables, and, after further review and based
+on a new return-on-investment analysis, it was determined that
+the point-of-use program would not see a break-even in the
+investment for over a decade. These figures were deemed
+unsustainable, and the decision was made not to exercise future
+option periods of the contract.
+A plan has been derived to transition the 22 sites that had
+converted to Shipcom's Catamaran system, including the D.C. VA,
+back to the VA's Generic Inventory Package. In January and
+February of 2017, the point-of-use program team traveled to the
+sites to educate the staff on a tour to transition the data.
+RTLS has made significant improvements in the efficiency
+and safety of health care for our veterans. It's critical that
+we continue to move forward with the gains that we have made
+thus far. Your continued support is essential to providing care
+for veterans and families.
+Mr. Chairman, this concludes my testimony. My colleagues
+and I are prepared to answer any questions.
+[The prepared statement of Tammy Czarnecki appears in the
+Appendix]
+Mr. Bergman. Thank you, Ms. Czarnecki.
+Mr. Dahl, you are recognized for 5 minutes.
+STATEMENT OF NICHOLAS DAHL
+Mr. Dahl. Mr. Chairman, Congresswoman Rice, and Members of
+the Subcommittee, thank you for the opportunity to appear
+today.
+The focus of my comments are the OIG's review of whether VA
+effectively managed the RTLS project to meet cost and schedule
+targets and performance and security needs.
+OIG audits in recent years establish that IT systems
+development at VA is a longstanding high-risk challenge, with
+projects susceptible to cost overruns, schedule slippages, and
+performance problems.
+In June 2012, VA awarded a contract with a $543 million
+ceiling to Hewlett-Packard Enterprise Services to deploy RTLS
+nationwide over the course of 5 years. The RTLS procurement and
+implementation process was a cooperative effort between VHA,
+the Office of Acquisitions and Logistics, and the Office of
+Information and Technology.
+VA was required by policy to manage the RTLS project under
+VA's Project Management Accountability System, which was a
+project management system intended to establish a discipline to
+ensure that an IT project's customer, project team, vendors,
+and stakeholders would focus on a single compelling mission--
+that is, achieving on-time project delivery. PMAS used
+incremental product build techniques, with delivery of new
+functionality tested and accepted by the customer in cycles of
+6 months or less.
+We received a complaint alleging VA management failed to
+comply with VA policy and guidance when it deployed RTLS assets
+without appropriate project oversight and that RTLS assets were
+deployed without meeting VA information security requirements.
+We reported management failed to comply with VA policy and
+guidance when it deployed RTLS assets without appropriate
+project oversight. Specifically, the RTLS Project Management
+Office, or PMO, did not follow guidance from the Technical
+Acquisition Center to use an incremental project management
+approach during the acquisition and deployment of RTLS assets
+to compensate for known project management risks. Also, the
+RTLS PMO did not comply with VA policy requiring the use of
+PMAS for all acquisitions and delivery of RTLS assets.
+Despite the guidance from the Technical Acquisition Center
+and VA policy, the RTLS PMO did not ensure the vendor could
+meet contracted functionality requirements, such as accurate
+asset tracking, on the initial $7.5 million task order before
+ultimately committing a total of $431 million to the same
+vendor for further RTLS deployments.
+VHA had awarded the initial task order to deploy RTLS in
+VISN 23 with an expected delivery date in December of 2013.
+However, initial operational testing in March 2015 identified
+245 functionality defects that resulted in the issuance of a
+contract cure notice to the vendor.
+In June 2016, the cure notice was still unresolved, as
+significant defects, including the inability of RTLS to meet
+contract requirements for asset tracking, remained outstanding.
+In September 2016, VHA renegotiated the RTLS contract due
+to the vendor's inability to implement a functional RTLS
+solution. The renegotiation was intended to expedite the
+implementation of RTLS in each VISN. VA executed a global
+settlement agreement that resulted in extensive changes to the
+vendor's contract requirements, to include expiration of task
+orders, reduction in the scope of RTLS applications deployed,
+extension of the contract period of performance, and commitment
+of $431 million to the vendor as of December 2016. According to
+the agreement, VA also released the contractor from any
+liability claims related to prior performance on the contract.
+We also substantiated the allegation that VA deployed RTLS
+assets without meeting VA's information security requirements.
+We reported inadequate oversight of RTLS risk management
+activities left VA mission-critical systems and data
+susceptible to unauthorized access, loss, or disclosure.
+Consequently, VA's internal network faced unnecessary risks
+resulting from untested RTLS system security controls.
+We reported VA must exercise cost control, sound financial
+stewardship, and discipline in RTLS development. As a result of
+inadequate project management, VA lacked assurance of an
+effective return on the $431 million invested in RTLS. We
+provided recommendations for improving controls over the VA's
+oversight of system development projects, and VHA and OI&T
+concurred with our recommendations.
+Our review of the RTLS project demonstrates VA continues to
+face challenges in managing its IT development projects. VA has
+taken some actions to address issues we identified in our RTLS
+report and in other recent reports. However, it remains to be
+seen whether the actions will effectively improve VA's ability
+to meet cost, schedule, performance, and security goals when
+managing mission-critical system initiatives.
+Mr. Chairman, this concludes my statement. We would be
+happy to answer any questions you or other Members of the
+Subcommittee may have.
+[The prepared statement of Nicholas Dahl appears in the
+Appendix]
+Mr. Bergman. Thank you, Mr. Dahl.
+The written statements of those who have just provided oral
+testimony will be entered into the hearing record.
+We will now proceed to questioning. We'll begin--Miss Rice,
+you're recognized for 5 minutes.
+Miss Rice. Thank you, Mr. Chairman.
+So who--I'm just trying--I can't read any names. Mr. Dahl,
+so this is what I want to ask you about. The contract cure
+notice the VA had issued to Hewlett-Packard in 2015 was still
+unsolved by June of 2016, including RTLS's inability to meet
+fundamental contract requirements for asset tracking and
+software functionality.
+Instead of terminating the contract, it was renegotiated.
+HP's responsibilities were reduced by nearly 50 percent, and
+the vendor was released from any liability claims related to
+prior performance of the contract.
+Can you explain why the VA decided to renegotiate the
+contract with HP?
+Mr. Dahl. Well, I think VA may be better suited to answer
+that question.
+Miss Rice. The VA? Oh, yeah, you're the--all right. I'm
+sorry. Yeah.
+Mr. Dahl. I would speculate the VA management was concerned
+that the contractor was behind schedule and there were concerns
+as to whether they would be able to deliver this system on time
+and within costs.
+Miss Rice. Ms. Czarnecki, maybe you could--
+Ms. Czarnecki. Yes. So there was a number of items that
+were--remember, the RTLS was new in the medical space at that
+time. So there were a number of items that were in the contract
+that there were differences of opinion between the contractor
+and VHA--for example, location accuracy.
+As Mr. Dahl stated, initially there was only a 40-percent
+location accuracy. So in the contract we had placed that we
+needed to have location accuracy for asset tracking. Their
+definition of location accuracy and our definition was
+different. We needed clinical accuracy. We needed to know that
+piece of equipment was in that particular room so that we could
+go to that room, get that piece of equipment, and move it.
+So there were a number of clarifications. So the contractor
+wasn't necessarily wrong; there were definition differences
+between the contractor and VHA in a number of the areas. And so
+those needed to be clarified, and that was part of the change.
+The second piece of it is, initially, VHA went into the
+contract saying that if you were getting asset tracking, cath
+lab, and SPS, you had to have all of those installed and tested
+at the same time. Part of the settlement agreement is that we
+decoupled those so that each one of those applications were
+independent and could be tested and deployed.
+Miss Rice. So can you pinpoint how this mismanagement
+occurred and how the VA is going to ensure that this doesn't
+happen again?
+What I fail to see in all of these hearings that we have is
+any level of accountability. I mean, you're talking about a
+half a billion dollars being spent on a system that was totally
+mismanaged. It doesn't seem like there was a proper protocol
+for how it was going to be implemented.
+I just don't understand--the process, maybe, is what I
+don't understand. Do you learn from these instances of
+mismanagement, and who is accountable?
+Ms. Czarnecki. So, in this case, it takes 1 to 2 years to
+deploy the infrastructure. And, as I stated, in this particular
+case, they were getting two applications, both asset tracking
+as well as sterile processing. And so, when it went into
+testing, that was when we identified errors--not errors, but
+deficiencies, things that were not working the way we
+anticipated that they would work.
+And so, yes, we have learned from those. We issued a cure
+notice. We didn't do any further deployments until after the
+global settlement agreement. We continued the infrastructure
+work, but we didn't test or deploy anything further until we
+were sure that the contractor was able to meet the
+deliverables.
+Miss Rice. So the accountability?
+Ms. Czarnecki. I believe that there is accountability
+throughout the entire process. There was a senior-level project
+manager, both from IT as well as VHA, that worked with the
+contracting--or with the vendor. And I believe we held the
+vendor accountable as well as our own staff.
+Miss Rice. How did you hold the staff accountable?
+Ms. Czarnecki. With the staff being held accountable, the
+staff were required to work through the process with the
+vendor. There was a list of items that needed to be negotiated,
+definitions to be clarified, and so I believe that we worked
+through those issues.
+I don't believe that there was any intention not to have a
+working, functional RTLS system, but this was new in the
+medical space at that time. It was the largest deployment of a
+real-time tracking system in health care. It was a definition
+problem. And we have run into this before, where clinical
+people do not necessarily speak the same language as the
+business community. And those ended up not being performance
+issues but, rather, clarification of requirements.
+There needed to be very clear definitions of what each and
+every requirement was. And I think that we have learned that,
+as well, going forward, as we talk about what does, and I'll
+use, ``accuracy'' mean. There is a very big difference between
+what I think clinical accuracy is as a nurse and what the
+vendor thought accuracy was. The accuracy for them was ``it's
+in the director's suite.'' The accuracy for me, ``it's in the
+director's suite, it's in the director's office''--
+Mr. Bergman. We have to move on. The gentlelady's time has
+expired.
+Miss Rice. Thank you, Mr. Chairman.
+Mr. Bergman. Okay.
+Dr. Dunn, you are recognized for 5 minutes.
+Mr. Dunn. Thank you very much, Mr. Chairman.
+And welcome, to the panel. I'm going to ask everybody to
+try to keep their answers concise, because, as you can see,
+we're on the clock. So let me start with Ms. Czarnecki.
+In your testimony, you described site assessments that were
+conducted to determine where to implement or where to pilot
+Catamaran. How were those sites chosen? And, in retrospect,
+were the chosen sites good choices?
+Ms. Czarnecki. I don't know how the sites were selected.
+Mr. Dunn. Okay. So, in retrospect, would you say that we
+made good choices in site selection?
+Ms. Czarnecki. I do believe we made good choices in site
+selections. We chose a mix of both small and large facilities.
+Mr. Dunn. Okay.
+So, now we know that the D.C. medical center actually had a
+lot of problems ahead of time. Logistically, they were
+struggling. Did the people managing these choices know that the
+D.C. medical center had trouble with logistics?
+Ms. Czarnecki. I do believe they knew that there were
+trouble with logistics. They thought the Catamaran system would
+actually help that.
+Mr. Dunn. So they thought that was the solution. All right.
+So let's turn to the RTLS. Again, Ms. Czarnecki, you
+represent health, and, Mr. Constantian, you represent IT, I
+believe, right? All right. So this is a question for both of
+you. Who should have been in charge of the RTLS implementation
+from each of your organizations, and who actually was in
+charge?
+Ms. Czarnecki. I'll start with that one.
+This was a--RTLS is like a medical device, like an
+anesthesia monitor--
+Mr. Dunn. I know what it is.
+Ms. Czarnecki [continued].--or a medical screen in a
+colonoscopy suite. So it was a mix of VHA and OI&T. So there
+were components--there were 22 task orders--
+Mr. Dunn. The question was who was supposed to be in
+charge, not what is RTLS.
+Ms. Czarnecki. It's comanaged.
+Mr. Dunn. So it's at, what, 50/50? Is there--did you have
+the right people from your department, Mr. Constantian, in
+charge, and did you, Ms. Czarnecki?
+Ms. Czarnecki. Yes. I had a senior-level project manager
+who was certified in project management principles.
+Mr. Dunn. And the same guy actually did it? So it wasn't
+one person said--okay.
+And the same for you?
+Mr. Constantian. Sir, we had a senior lead for this
+implementation. There was a departure. We filled the position
+later. There was a gap, but now we have a senior lead again in
+OI&T.
+Mr. Dunn. Mr. Dahl, what would a well-run project look like
+in the VA or in the civilian world with this kind of
+implementation?
+Mr. Dahl. I would say as we've learned, that this was new
+in the medical space, the RTLS, I think that following an
+incremental approach from the start may have been more prudent,
+in that they probably should have made sure that the things
+that needed to be functional were functional before deploying
+elsewhere.
+Mr. Dunn. We've heard testimony that this is some novel
+technology in the health care space. I'm a physician. I've
+worked in a lot of hospitals, in and out of the military. This
+is not that novel. I mean, we track millions of pieces of
+equipment through multiple hospital systems. Some of them are
+State, some of them are--many of them are private, you know,
+HCA-type hospitals.
+This is not rocket science, and it's not something that
+hasn't been done. It is mature technology that's used
+throughout the business world. Walmart does it, Target does it,
+PetSmart does it. Why can't the VA do it?
+Maybe that's a question for Mr. Dahl. You're the one who
+inspects people, or--go ahead.
+Mr. Bowman. I do think VA has the capability of managing
+these kind of projects. They just chose a big-bang approach as
+opposed to an agile, incremental approach. If you break the
+project up in smaller pieces and get the end-user involved
+early on, you discover early on whether or not your contract
+requirements are being met.
+Mr. Dunn. We've actually had this problem with the EMR, as
+well, right? I mean, this is the same sort of failure to
+implement?
+Mr. Bowman. This is a theme that has showed up in various
+IT development projects over the years.
+Mr. Dunn. It has. And, obviously, it's a disappointment to
+see that we can throw away so many billions of dollars and
+actually tread water, not making any headway on that.
+My time is about to expire, so I will yield. But let the
+record reflect that it is disappointing that we can't implement
+mature technology in an agency that is so very well-resourced.
+Mr. Chairman, I yield back.
+Mr. Bergman. Thank you.
+And, Mr. Lamb, you're recognized for 5 minutes.
+Mr. Lamb. Thank you, Mr. Chairman.
+Ms. Czarnecki, I have a question about the policies in
+place, if any, to identify potential conflicts of interest.
+In Pittsburgh, there was a former VA regional director who
+was identified by our local paper as having an advising role to
+Shipcom, which was one of the contractors that the VA hired to
+do the tracking in the Catamaran system.
+Can you tell me about any policies that would have caught
+that on the front end or that prevented it? Or if they don't
+exist, is that ever discussed?
+Ms. Czarnecki. I'll need to take that one for the record.
+I'm not sure. I'm not sure if general counsel reviewed that or
+not.
+Mr. Lamb. Okay. Are you aware of the incident that I'm
+talking about, where the former regional director was--
+Ms. Czarnecki. Yes, I am.
+Mr. Lamb. Okay.
+Now, I think in the gentleman's previous question we were
+just starting to get into the issue of coordination and project
+implementation between the VHA headquarters and regional VA
+systems. So I'm not sure which of the witnesses is best to
+answer this, but could somebody talk about, going forward,
+what's the best way to allow the regional VA systems to have
+input into a policy or system change like this from the
+beginning so that they can actually implement it more
+successfully than was done here?
+Ms. Czarnecki. So the regions are called our VISNs. And our
+medical centers did, in fact, have input into the RTLS project
+as well as Catamaran. They're involved from a project
+management standpoint, a contracting officer representative is
+part. And then the staff do get to give us feedback and input.
+It's just like trialing any other product, where you would have
+your staff providing ongoing feedback.
+Mr. Lamb. Well, Mr. Bowman, from what you were saying, this
+wasn't done in an incremental manner. Is that right?
+Mr. Bowman. That's correct.
+Mr. Lamb. Would you say that there is an opportunity to do
+that differently in the future by trying this maybe in one
+region and not others or trying--I mean, can you kind of
+address that issue?
+Mr. Bowman. So we recently received a corrective action
+plan in response to our report from VHA and OI&T. And they laid
+out a case where they're using incremental methodologies to
+change the way they're deploying RTLS, which is breaking up the
+application into discrete functionality. That way, they're not
+having to have so many interdependencies that they have to
+resolve.
+So that would be a case where they're changing their
+approach. And so far, from what I hear, they're achieving
+success doing it that way.
+Mr. Lamb. Okay. Thank you.
+Mr. Chairman, I yield the remainder of my time.
+Mr. Bergman. Thank you.
+Mr. Arrington, you're recognized for 5 minutes.
+Mr. Arrington. Thank you, Mr. Chairman.
+I want to first of all congratulate my colleague Mr. Lamb
+on his election victory, and I look forward to getting to know
+you better. And we're glad you're on our Committee, and honored
+to serve with you. So congratulations to you and your family.
+There is not a more perennial issue of disappointment to me
+in the lack of management of the big beast, bureaucratic beast
+of the VA than IT systems. I mean, I have heard this is the--I
+don't know how many stanzas of the same song, but it's getting
+really old.
+So I'm going to ask the same questions I ask at, it seems
+like, every one of these meetings where we can't get IT systems
+right. But let's start by just answering this in a very simple
+way, in a very quick way.
+Ms. Czarnecki, what are we trying to achieve with RTLS?
+What happens to our customer if RTLS or these logistics
+management systems aren't in place? If they're not in place or
+they're not working, what happens to our customer, the veteran?
+Ms. Czarnecki. For RTLS--and I'll use sterile processing as
+the example. Every single instrument is tracked to make sure
+that it is reprocessed appropriately. The trays are built,
+delivered to the right operating room for the right patient.
+Mr. Arrington. So, potentially, if we don't get this right,
+they're not getting the right device or therapy to the right
+patient? It's that serious? I mean, that sounds like life or
+death. That's a public safety issue. Am I overstating it?
+Ms. Czarnecki. Potentially, we couldn't miss a step in the
+reprocessing of sterilization--
+Mr. Arrington. So, I mean, we could have unsterilized
+equipment? I mean, this is serious.
+And we have--our veteran patients who are coming in, where
+do they go if they feel like this thing is just all jacked up
+and you just can't get it right, they don't have any confidence
+you can get it right? Where do they go? Where can they go so
+they can have peace of mind that a health care provider is
+actually going to take care of them and manage all these things
+so they get the right therapy, the right device, it's sterile,
+and it's well-suited to put them on the path of healing? Where
+do they go if you guys can't get it right?
+Ms. Czarnecki. I hate to say this, but it could happen in
+any health care--
+Mr. Arrington. I know it could happen anywhere, but where
+would they go if they couldn't get it at the VHA? Can they
+access other hospitals? I mean, who's competing for their
+business?
+Here's my point: Too many veterans are trapped in this
+system, and it's failing them.
+Who has been fired on account of losing hundreds of
+millions of dollars? Because that's what I'm hearing. We've
+lost hundreds of millions of dollars. Now I'm going to talk
+about the shareholder. We're fiduciaries for the taxpayers. Who
+has been fired on account of hundreds of millions of dollars?
+Because I can tell you, outside of the fantasy world of the VA,
+people would lose their jobs over that.
+How many people have been fired in the mismanagement of the
+Catamaran and the RTLS?
+Ms. Czarnecki. I really don't have that information.
+Mr. Arrington. I can tell you. Nobody has been fired.
+But I'll ask Mr. Dahl. Maybe he knows.
+How many people were fired over this?
+Mr. Dahl. I'm not aware of anyone.
+Mr. Arrington. Nobody gets fired. I've asked that question,
+colleagues have asked that question almost at every hearing,
+and they don't know. And then I ask them to submit it for the
+record. I've never received anything, so I assume that you
+never submitted it.
+There is no accountability. So this is--I almost feel like
+I'm wasting my time at these hearings.
+You say that these are jointly managed between the OI&T and
+the VHA. So, you know, the old saying, if multiple people are
+accountable, nobody is accountable.
+Who is ultimately accountable for information technology
+systems, the enterprise architecture? Who's ultimately
+responsible at the VA for all of this?
+Mr. Constantian. Sir, enterprise architecture is the
+responsibility of the Office of Information and Technology.
+Mr. Arrington. And who is the head of that office?
+Mr. Constantian. The Chief Information Officer.
+Mr. Arrington. And where is he or she?
+Mr. Constantian. At the VA central office.
+Mr. Arrington. How long have they been in that office?
+Mr. Constantian. Mr. Sandoval was appointed Acting in that
+role 2, maybe 3 weeks ago.
+Mr. Arrington. Two or 3 weeks ago. I think there is a
+really issue with continuity over there, but there's certainly
+an issue of accountability.
+I know I've gone over my time. I'm not even close to
+finishing, so I hope we get more opportunities. I yield back,
+Mr. Chairman.
+Mr. Bergman. Thank you.
+Mr. Peters, you're recognized for 5 minutes.
+Mr. Peters. Thank you, Mr. Chairman.
+I mean, I share Mr. Arrington's frustration. I will say
+that we voted for the Accountability Act here in order to give
+more flexibility for hiring and firing. And I did that in good
+faith. And what I saw was that the people who have been fired
+are cooks and gardeners. And those people didn't cost anything
+close to millions of dollars. And I think that I feel a little
+bit taken advantage of, because that was not the intent of the
+vote that I took. The intent was to get to things like this.
+And I will just say, too, you know, when you were
+testifying about the mismatch between what doctors say and what
+IT people say, that's not the first time we've heard this. And
+I was trying to remember what it was. It was the Medical/
+Surgical Prime Vendor Program too.
+And I would maybe direct this to Mr. Dahl. What is the
+appropriate response for the Department to take, so that when
+we do these--these are novel contracts, but, you know, you can
+lose $5 million before you lose $500 million. What should they
+be doing up front to make sure that these people are speaking
+the same language and, if they're not, that we catch it early
+and we don't spend so much money, waste so much money down the
+line that we're having a hearing like this?
+Mr. Dahl. In this case, the approach was they awarded that
+initial task order where they were going to deploy this in a
+VISN. It was a $7.5 million task order. So, in theory--
+Mr. Peters. Right.
+Mr. Dahl [continued].--that would seem like a reasonable
+approach.
+But that was due--they awarded that task order in 2012. It
+was due to be completed in late 2013. They didn't get to
+operational testing on that until March of 2015, so they had
+already slipped about 15 months. That's when they identified
+some deficiencies. But, in the meantime, they had been awarding
+additional task orders before they knew that it was functional
+in that VISN.
+I assume that there was a desire to get this RTLS up and
+running across the enterprise, but, with this unproven
+technology, we really believe that they should've been taking a
+more incremental approach.
+Mr. Peters. This is gasoline on the fire. I mean, we would
+all be upset if they lost $7.5 million, right? But before
+figuring out whether this would work, before figuring out
+whether the doctors and the IT people were speaking the same
+language, we went and deployed the same thing over and over
+again, even though it was behind schedule. That's what
+happened, right?
+So, you know, I'm at a little bit of a loss, what to do
+now. I mean, we're going to be under the gun on the budgets.
+Now the Congress is talking about spending a trillion dollars a
+year in deficits in good times. And we can't have this kind of
+money wasted. We got nothing for this.
+And I know we're still paying for this, right? Is that
+right, Mr. Dahl?
+Mr. Dahl. Yes.
+As Mr. Bowman noted, we did recently get an action plan
+from VHA and OI&T in response to our recommendations. They're
+portraying to us that they have gone to a more incremental
+approach and they are making progress. Of course, we haven't
+done any follow-up on that yet to validate or verify that.
+Mr. Peters. We also--we probably can't blackball this
+contractor either, I don't suppose, can we, because of the
+process concerns about that, right?
+Mr. Dahl. I would have to defer to probably the Office of
+Acquisition and Logistics on that, whether there's grounds for
+that.
+Mr. Peters. Well, $500 million, $420 million, whatever it
+is, I guess--I don't--I think we're being taken advantage of. I
+think taxpayers are being taken advantage of. I'm a big fan of
+the VA. I would not describe VA as a failure. I think it gets
+overstated sometimes. But this is really outrageous.
+And I just think the fact that I've heard this same song
+about the doctors not being able to speak the same language as
+the IT people--one, I have heard of that in other contexts.
+That's a management issue. That's a cultural issue that you've
+recognized you've got to get a hold of; you can't do this
+again.
+And the fact that we spent $7 million to figure out if it
+worked, and no one could wait to figure out if it was working?
+You know, it's just shameful to spend that kind of money,
+especially when we all know it's novel. So please don't come
+back to me again with this kind of stuff.
+And as to the Accountability Act, I would say, you know,
+this is exactly what this is meant for, not for cooks and
+gardeners. It's outrageous that my vote was taken advantage of
+in that way, because it's the middle management that's the
+problem in the VA, to the extent there's a problem in the VA,
+and it's not being dealt with.
+I yield back.
+Mr. Bergman. Thank you.
+Mr. Poliquin, you're recognized for 5 minutes.
+Mr. Poliquin. Thank you.
+This nice staffer right in front of me, could you get back
+a little bit so I can make sure I can see everybody at the
+table? Thank you very much.
+Mr. Dahl, make sure I get this straight. Make sure I
+understand this. You're in the IG's office, right?
+Mr. Dahl. Yes, sir.
+Mr. Poliquin. Okay. So you've got the VA that's trying to
+figure out how to control and keep track of their inventory,
+right?
+Okay. So, roughly around 2012, they implement or they
+started to implement a Catamaran system, right? It's one of
+these systems. Right? And then within a year they implement a
+second system called RTLS. Is that correct, roughly?
+Mr. Dahl. I think it's the other way around.
+Mr. Poliquin. Okay. Okay. But you see my point? Okay.
+And, first of all, Ms. Czarnecki, why would you implement
+two programs or two systems, start them at effectively the same
+time? Why? Tell me.
+Ms. Czarnecki. This was during a time where we were trying
+to transform, and we had what we called T21 initiatives. And
+these were two different initiatives. One was for the supply
+chain. The other was sterile processing, cath lab, asset
+tracking--
+Mr. Poliquin. Could you have combined them together? In
+hindsight, could you have done that?
+Ms. Czarnecki. I'm not sure the technology would've been
+able to combine those.
+Mr. Poliquin. Who made that decision to have two programs
+going forward?
+Ms. Czarnecki. I believe that was made at a leadership
+level.
+Mr. Poliquin. Okay.
+Ms. Czarnecki. These were all projects that were--
+Mr. Poliquin. You've got to make sure that we get this from
+your office, who that person was. I want to know if that person
+is still at the VA, and, if so, I want to speak to that person.
+Okay. Let's go down the path here a little bit more. This
+has been discussed a moment ago. I think, Mr. Dahl, you've
+mentioned it. I think Mr. Peters did too.
+To start this thing off, you spent about $7.5 million of
+taxpayer money to see if this thing would work. And then,
+within a short period of time, you found out it wouldn't. But
+then you expanded it anyway to 19 different sites, right? You
+spent about 430 million bucks to do that, and the thing was a
+complete failure, right?
+Okay. Who made that decision?
+Ms. Czarnecki. I believe that the Deputy Under Secretary
+for Health made the decision to go ahead.
+Mr. Poliquin. Okay. Who's that person?
+Ms. Czarnecki. That person would have been Bill Schoenhard.
+Mr. Poliquin. Okay.
+Dennis, I want to make sure that we know this fellow, and I
+want to get him on the phone if he's still at the VA. Okay?
+Is that person still at the VA?
+Ms. Czarnecki. No, sir.
+Mr. Poliquin. Okay. Where is that person?
+Ms. Czarnecki. That person's retired.
+Mr. Poliquin. Okay. How about the other person I mentioned?
+Is that person at the VA? The first person we mentioned, was
+that person at the VA?
+Ms. Czarnecki. No, that person is not at the VA.
+Mr. Poliquin. Retired also?
+Ms. Czarnecki. I believe deceased.
+Mr. Poliquin. Okay.
+All right. Let me ask you this: When this mess that has
+happened over the past 5 or 10 years, which has cost about, I
+think Mr. Peters said, about 400 million bucks, roughly--okay?
+There is a settlement agreement with the RTLS contractor,
+correct? Who negotiated that settlement agreement?
+Ms. Czarnecki. That was negotiated between Dr. Stone and
+Hewlett-Packard and--
+Mr. Poliquin. Who is Dr. Stone?
+Ms. Czarnecki. Dr. Stone, at that time, was the Principal
+Deputy Under Secretary.
+Mr. Poliquin. Okay. Is he still with the VA?
+Ms. Czarnecki. No, he's not.
+Mr. Poliquin. Where is he?
+Ms. Czarnecki. He left the VA about a year and a half ago.
+Mr. Poliquin. Where is he now?
+Ms. Czarnecki. I don't know.
+Mr. Poliquin. Okay. You're going to find out. Dennis will
+find out. Okay.
+Mr. Dahl, have you taken a look at this agreement with the
+contractor?
+Mr. Dahl. No, I don't believe--like the Chairman said, I
+don't believe that we've seen the entire agreement. I think we
+may have seen pieces of it, but VA has not shared that
+agreement.
+Mr. Poliquin. Why not?
+Okay. Jack, we have subpoena power here, don't we, Mr.
+Chairman?
+Do you need help getting that contract settlement
+agreement? Do you have subpoena power?
+Mr. Dahl. We have subpoena power.
+Mr. Poliquin. So what's the problem?
+Mr. Dahl. We reported on the result of that global
+settlement agreement, how it led to decrease in the scope of
+the project, and that was what we reported.
+Mr. Poliquin. Okay. So let me get this straight. So the
+vendor who screwed this whole thing up and the folks within the
+VA that allowed this to happened, hired the vendor in the
+beginning, now you're going through a settlement agreement
+after we've lost 400 million bucks, and you can't get the
+complete terms of the settlement agreement. Is that right? So
+we don't know if the folks that screwed this up have been given
+more time and less liability, correct?
+Mr. Dahl. Our understanding is they have been relieved of
+liability for any issues that happened before the settlement.
+Mr. Poliquin. Okay. So let me get this straight. So they've
+lost $400 million of taxpayer money, which has put some of our
+veterans at risk from a health standpoint, and we've relieved
+them of liability going forward, or liability that they
+could've incurred going backwards?
+Mr. Dahl. It may not be an accurate statement to say--
+Mr. Poliquin. But we don't know, because we don't have the
+contract settlement agreement, right?
+Mr. Dahl. No. What I'm saying is I'm not sure it's an
+accurate statement to say that we lost the entire $430 million.
+I think VA has gained some value from this system. It's just
+hard for us to assess--
+Mr. Poliquin. How much? How much?
+Mr. Dahl. I couldn't answer that question.
+Mr. Poliquin. Okay. But we need that settlement agreement,
+don't we?
+Mr. Dahl. You may find it interesting.
+Mr. Poliquin. Good. Who do we get it from?
+Mr. Dahl. Acquisition and Logistics.
+Mr. Poliquin. Ms. Czarnecki, do you have that contract
+settlement agreement?
+Ms. Czarnecki. We'll get you a copy.
+Mr. Poliquin. Do you have the contract settlement
+agreement?
+Ms. Czarnecki. Do I have the contract?
+Mr. Poliquin. Who signed the contract settlement agreement?
+Did you sign the contract?
+Ms. Czarnecki. No, I did not.
+Mr. Poliquin. Who signed the contract?
+Ms. Czarnecki. Dr. Stone.
+Mr. Poliquin. Who's no longer with the VA. Okay. But we
+have a copy of the contract somewhere? You've got it somewhere?
+Ms. Czarnecki. Yes. Somewhere we have a copy of the
+contract.
+Mr. Poliquin. Okay. Good. We're going to make sure Dennis
+gets the contract, and we're going to make sure Mr. Dahl gets
+the contract.
+Is there any reason why we can't get that contract, Mr.
+Dahl?
+Mr. Dahl. I missed that, sir.
+Mr. Poliquin. Any reason why we can't ask for it? Am I not
+supposed to ask for the contract and settlement agreement?
+Mr. Dahl. No. I would think it would be well within your
+rights to ask for it.
+Mr. Poliquin. Okay. Have you asked for the contract?
+Mr. Dahl. Did we ask for it?
+Mr. Poliquin. Did you ask for it?
+Mr. Bowman. Yes, we did.
+Mr. Poliquin. And who said no?
+Mr. Bowman.--we did ask to--
+Mr. Poliquin. And who said no?
+Mr. Bowman [continued].--go over the settlement agreement--
+Mr. Poliquin. And who said no?
+Mr. Bowman. I believe that we got a majority of it. Not
+sure if we got the complete settlement agreement.
+Mr. Poliquin. Who said no? Who decided to withhold how much
+of that contract settlement agreement? Who was it?
+Mr. Bowman. Could we take that for the record, please? And
+we can give you a more accurate response.
+Mr. Poliquin. This is unbelievable. I'm not even sure I
+want to yield back my time; I'm having fun doing this. What a
+mess.
+Anybody embarrassed here?
+We've got 7 million veterans we're trying to take care of.
+We've got a budget that's gone up from, I don't know, from $90
+billion to $187 billion over 8 years. We can't keep track of
+stethoscopes and tongue depressors?
+We're losing our pants on deals, and after the deal, after
+we find out we've lost it all, we relieve them of
+responsibility. This is unbelievable.
+I yield back my time, but before I do, I want to make it
+short and clear: We want that contract settlement agreement.
+Thank you.
+Mr. Bergman. Thank you.
+In case you haven't figured out--have any of you testified
+in the last 18 months before this panel before?
+Ms. Czarnecki. No, sir.
+Mr. Constantian. Yes, sir, I have.
+Mr. Bergman. You know probably what I'm about to say,
+because you've heard it before, the lack of a sense of urgency
+in all accounts. And the point is we are living one more
+example here, that the need for the sense of urgency on the
+part of everyone within the VA, because when the men and women
+who serve our country in uniform--they have a sense of urgency
+in what they do, and shame on anyone, especially in the VA or
+on this Committee, who doesn't have that same sense of urgency
+when it comes to meeting those veterans' needs and getting it
+done right.
+I'll claim my time here for my 5 minutes.
+Ms. Czarnecki, I'd like to start with the money question.
+How much was spent on the Catamaran point-of-use project up
+until its termination? And how much has been spent on RTLS to
+date? What is the total?
+Ms. Czarnecki. So Catamaran is still going through an
+equitable adjustment, but so far, $117 million. And for RTLS,
+we have obligated $360 million.
+Mr. Bergman. Okay. So you said $117 million or $171
+million?
+Ms. Czarnecki. I believe we have so far paid out $117
+million.
+Mr. Bergman. Okay. Now, we know how much we've paid out.
+How much additional funding is going to be necessary to finish
+RTLS?
+Ms. Czarnecki. My understanding is that we are ending this
+contract, so it will be roughly around $360 million.
+Mr. Bergman. So another $360 million?
+Ms. Czarnecki. No, no, total. We've already obligated the
+$360 million. We are finishing the work on this contract.
+Mr. Bergman. So no more money. We're just terminating,
+finishing the contract?
+Ms. Czarnecki. Right. That's my understanding.
+Mr. Bergman. Okay. So no more funds expended.
+Ms. Czarnecki. No more funds expended. We will be looking
+at our return on investment in the business cases of the
+equipment that has been deployed, the applications that have
+been deployed, to determine if we want to further expand.
+Mr. Bergman. Okay. So you're just terminating the contract
+when it expires, not renewing it?
+Ms. Czarnecki. Right. Not renewing.
+Mr. Bergman. Okay.
+And, again, Ms. Czarnecki, I understand that the chief
+logistics officers in the VISNs inspect the medical center
+logistics departments annually. Is that correct?
+Ms. Czarnecki. Yes, they do.
+Mr. Bergman. Okay. So it's also my understanding that VISN
+5 did not conduct any logistics inspections of the D.C.
+facility, in 2016 or 2017. That was during the OIG's
+investigation when the supply issue was under intense scrutiny.
+How do you explain the fact, when there's a lot of bad
+things going on that you can see, why weren't there
+inspections?
+Ms. Czarnecki. There was actually an inspection done in
+2017 by the program office. We actually had people from the
+program office who staffed the D.C. medical center through
+November of 2017. Their staffing was down to 40 percent of what
+they should have had.
+Mr. Bergman. Okay. Well, I'll tell you what. What was the
+result of the inspection?
+Ms. Czarnecki. They were not, in fact, using the Catamaran
+system. They did not have an inventory management system. They
+were not using GIP. They were using paper systems.
+Mr. Bergman. So, basically, they weren't complying with any
+of the directives. That was determined during an inspection.
+Were the people in charge on a daily basis monitoring the fact
+that they weren't doing what they were supposed to be doing
+with RTLS or Catamaran or whatever else?
+Ms. Czarnecki. The Chief Logistics Officer at the medical
+center would've been ultimately responsible. The medical center
+director was aware of the issues as well. Both of them have
+since been removed from their positions.
+Mr. Bergman. ``Removed'' as in still employed by the VA, or
+removed and terminated?
+Ms. Czarnecki. The medical center director was terminated.
+I believe the Chief of Logistics was also terminated, but I'm
+not positive if he voluntarily left or if he was terminated.
+Mr. Bergman. Okay.
+Mr. Dahl, your colleagues in the Office of Inspector
+General conducted the investigation at the Washington, D.C.,
+medical center's logistics and supply practices. As I mentioned
+in my opening remarks, there seem to be varying accounts as to
+the extent Catamaran was ever used there at all. What did your
+office observe?
+Mr. Dahl. The team that was there determined that Catamaran
+was never fully used at the D.C. medical center and that, prior
+to the Catamaran, they weren't using the GIP fully before the
+transition to Catamaran as well.
+Mr. Bergman. So they were a little bit behind the power
+curve, as we might say in flying, already. Why would we even
+consider choosing them if they're already struggling to do
+their day-to-day operations? Why would we choose them as a
+pilot site or a test site if they don't have their act together
+on the front end?
+Ms. Czarnecki. We thought that installing the Catamaran
+system would actually assist them. The Shipcom organization
+came in and built the inventory system for them, so they did
+utilize it for a very short period of time. But it's something
+that you need to maintain, and as soon as folks were not paying
+as much attention, they quit maintaining the system and went
+back to their paper system.
+Mr. Bergman. Okay.
+I see my time has expired here. I'm going to ask my
+colleagues, would anyone like a second round of questions?
+You're good? Okay.
+I'm going to ask one final one here as I go into the
+closing remarks.
+I heard you mention that, in trying the Catamaran system or
+RTLS, there was nothing like this that existed in the health
+care system, in hospitals around the country, outside of
+federally run.
+So why would VA try to eat this elephant, if you will, in
+one bite without having any reference point to start from, as
+far as success or failures, in--whether it be Humana, pick your
+hospital chain that is run around the country. Why would VA
+gamble the valuable, limited taxpayers' dollars focused on the
+veterans? Why would they gamble on being a lab for this? What
+was the risk management involved with that?
+Ms. Czarnecki. So Catamaran is an integrator of software.
+Automated supply chain systems do exist and have existed in
+private sector. Perhaps this wasn't the best choice for us. We
+had made an incorrect assumption that, with a COTS product, it
+was off-the-shelf and that we would be able to implement it
+fairly easily. That did not happen.
+RTLS was kind of new for the health care space back in
+2010. It's being used widely now to manage sterile processing,
+cath labs, track patients, track providers, frankly, so I know
+where a doctor is, whether he's in the OR, or whether he's in
+clinic. So I think that VA wanted to be on the cutting edge and
+make sure that our veterans had the latest technology.
+We have received benefit from the RTLS system. We are
+seeing cost savings every day in our cardiac cath labs. Our
+sterile processing--
+Mr. Bergman. But is the VA, given the fact of maybe its
+decentralized nature of some of the operations and the fact
+that I think we've seen before that some of the VISNs don't
+necessarily coordinate and talk with one another--and when you
+put test sites together or pilot programs together, unless you
+focus the group and hold the people accountable for that
+mission of ``here is what we're trying to accomplish, here are
+our timelines, here are the metrics that we are trying to
+achieve,'' it would seem to me that the VA is not the place
+capable of doing as complex a technology project as objects
+this. And, therefore, because it's not the right place, the
+veterans' care potentially suffers much more than it should.
+So, I guess it concerns me that we are trying to do too
+much, when we may not have the expertise and the tight
+coordination to actually assess the results of what it is we're
+trying to achieve.
+So I would ask that you would submit for the record any and
+all disciplinary action taken as a result of poor performance
+relating to the Catamaran and RTLS projects so that we know who
+in fact was held accountable for those failures.
+With that, I'd like to thank the witnesses for your
+testimony. The panel is now excused.
+The failure of the Catamaran point-of-use system and the
+rocky experience with the RTLS to-date should serve as
+cautionary tales. What the two efforts have in common, beyond
+both being logistics technology projects, is that they are
+complex collaborations between the Veterans Health
+Administration and the Office of Information and Technology.
+Nearly everything VA does in the medical arena relies on
+software, and most of the Department's software impacts that
+medical care.
+In RTLS specifically, many of the problems encountered were
+not just the result of the two organizations struggling to
+cooperate; they were the result of VHA deliberately avoiding
+OI&T and its processes. Although the events in question took
+place several years ago, this sort of friction, the natural
+friction between bureaucracies, between VHA and OI&T, has been
+an issue since OI&T was first established in 2006.
+We have to get it right, because the stakes are
+dramatically increasing. The Electronic Health Record
+Modernization Program, which we have been awaiting since last
+year, is perhaps the largest medical information technology
+collaboration in the history of the Federal Government. Its
+scope and its scale are challenging enough, and the VA cannot
+afford this sort of organizational infighting.
+The Committee is committed to exercising vigorous oversight
+of the Cerner implementation. We are united on this issue. This
+is bipartisan.
+This morning, we approved H.R. 4245 in markup, the EHRM
+Oversight Act. I am proud to cosponsor the legislation with
+Ranking Member Walz, Chairman Roe, and Ranking Member Kuster.
+I believe that the many lessons learned through the RTLS
+project are directly applicable to the Electronic Health Record
+Modernization. RTLS, without a doubt, produced some tangible
+benefits despite its setbacks. And, by all means, it is
+preferable to learn these lessons in a half-billion-dollar
+project--that's ``half-billion'' with a ``B''--before taking on
+the $16 billion project. But VA cannot--I repeat, cannot--
+repeat the same mistakes again. That will be totally
+unacceptable.
+We will continue to monitor the RTLS as it enters what I
+hope are its final months, not years.
+I ask unanimous consent that all Members have 5 legislative
+days to revise and extend their remarks and include extraneous
+material.
+Without objection, so ordered.
+I would once again like to thank my colleagues and all our
+witnesses and the audience members for joining us here this
+afternoon.
+With that, the hearing is now adjourned.
+[Whereupon, at 3:16 p.m., the Subcommittee was adjourned.]
+A P P E N D I X
+----------
+Prepared Statement of Tammy Czarnecki, MSOL, MSN, RN
+Good afternoon Chairman Bergman, Ranking Member Kuster, and Members
+of the Subcommittee. I appreciate the opportunity to discuss the
+Department of Veterans Affairs (VA) Real-Time Location System (RTLS)
+project and VHA's Point-of-Use (POU) program. I am accompanied today by
+Dr. Alan Constantian, Deputy Chief Information Officer, Office of
+Information and Technology (OIT).
+Introduction
+In 2011, VA chartered several major transformation initiatives,
+including two to improve Health Care Efficiency, the RTLS project and
+the POU program. RTLS project was chartered to automate processes and
+improve health care services that VA provides to Veterans. The primary
+objectives of RTLS are tracking medical and surgical instruments
+through sterile processing, automating inventory management of
+specialized medical supplies in Cardiology, extending utilization and
+safety of medical equipment by knowing its location in real time, and
+monitoring temperature of medication storage areas. In addition to
+improving operational efficiency, these RTLS applications create a
+safer system of care for Veterans. VA planned to deploy RTLS in several
+phases within the Veterans Integrated Service Networks (VISN) and
+Consolidated Mail Outpatient Pharmacies, with the goal of deploying
+RTLS to all VA medical facilities.
+The VHA POU program was chartered to acquire and install a
+Commercial-Off-The-Shelf (COTS) supply chain management system to
+effectively manage the consumable medical supply inventories throughout
+the medical center. An effective supply chain management system would
+allow visibility of stock levels of consumable supplies by employing
+different technologies to provide data to minimize stock outs, decrease
+process inefficiencies, and create cost savings by reducing excessive
+supply inventories.
+The RTLS and POU programs had separate and distinct functions
+relating to health care operations and the VHA supply chain. RTLS
+centered on medical equipment and instrument tracking and specialized
+medical supplies specifically in the Cardiac Catheterization (Cath)
+Lab, while POU focused on all consumable supplies used in patient care.
+Deployment of RTLS
+While basic RTLS technology (otherwise known as Radio Frequency
+Identification) is commonplace in several industries, it is relatively
+new to health care. VA conducted market research through site visits,
+industry days, and limited scope demonstrations. We defined
+requirements and determined an acquisition strategy. In June 2012, VA
+awarded a firm-fixed-price, indefinite delivery, indefinite-quantity
+contract to Hewlett Packard Enterprise Services (HPES). The contract
+scope encompassed design, installation, testing, and maintenance of
+RTLS. Task orders were to be issued against the contract, which had a
+$543 million ceiling. The two initial task orders issued were for
+deployment of RTLS in VISN 23 and for system design standards and
+interface development. Sixteen task orders were subsequently issued. As
+of April 2018, the total awarded value was $345 million against the
+contract.
+The RTLS project is jointly managed by VHA and OIT, per a
+Memorandum of Understanding signed in 2011 by the Under Secretary for
+Health and the VA Chief Information Officer. The RTLS solution utilizes
+COTS technologies and software to directly support patient care
+delivery and outcomes. VHA established a Project Management Office to
+assist VHA facilities with the procurement and deployment of RTLS and
+to coordinate project execution with OIT. Contracting Officer
+Representatives (COR) were assigned to manage each task order,
+typically a VISN-level biomedical engineer for VISN task orders, or an
+information technology (IT) project manager for IT task orders.
+RTLS requires extensive infrastructure to be installed throughout
+entire hospital buildings, with design and installation generally
+taking 1-2 years. Consistent with objectives of the major
+transformation initiative, installation progressed simultaneously at
+facilities to achieve transformational benefits across VA. The Fargo VA
+Medical Center (VAMC) in VISN 23 was the first site to complete
+installation and test the system in March 2015. VA identified several
+defects, and the contractor was formally charged to correct them. The
+progress on deployment in other facilities was delayed or halted while
+Fargo VAMC discrepancies were investigated. During that time, VISN 23
+and VISN 8 task orders expired.
+With technology projects of the scope and complexity of RTLS, it is
+common to periodically reassess the program and adjust the approach to
+achieve the best outcome and minimize programmatic and cost risks. In
+September 2016, VA made a program decision to realign the RTLS program
+and entered into negotiations with HPES with a shared goal to expedite
+the implementation of the RTLS solution. Specifically, to capture the
+agreements made during these negotiations, VA modified the existing
+RTLS contract and executed a Global Settlement Agreement that resulted
+in a realigned implementation strategy, agreement on system
+requirements, improved clarity of location accuracy objectives, and a
+new deployment schedule through 2018. Changing the implementation
+strategy to deploy applications independently and in phases has led to
+positive deployment progress.
+Positive Outlook
+The deployment of RTLS accelerated following the contract
+renegotiation, with many positive outcomes continuing through the
+present. VHA is realizing benefits from all RTLS applications. The
+Sterile Processing solution has been successfully implemented at 60
+facilities. With 1,000,000 surgical and dental instruments being
+tracked, the right instruments are being delivered to the right
+Operating Room for the right surgical procedure. The Cath Lab solution
+has been deployed at 28 facilities and is generating notable supply
+cost savings. In fiscal year (FY) 2017, one VAMC reduced Cath Lab
+supply costs by $700,000 due to more efficient management. Many VISNs,
+including VISNs 8 and 23, are utilizing the Sterile Processing and Cath
+Lab solutions.
+Asset Tracking deployment, the most infrastructure-intensive RTLS
+application, has also progressed. Asset Tracking has enhanced the
+safety, utilization, and maintenance of medical equipment. For example,
+one hospital remediated a safety issue with 300 infusion pumps within 2
+weeks because all infusion pumps were quickly located. Without RTLS, it
+would have taken 2 months and significantly more labor hours to
+complete the safety remediation. Infusion pumps administer medication
+intravenously and equipment errors may lead to patient harm. VA intends
+to use RTLS to track location of its entire fleet of 35,000 infusion
+pumps, which will have immense positive impact on patient safety. An
+additional example of the efficacy of RTLS is that it allows hospital
+staff to proactively retrieve equipment for cleaning after patient use,
+thus maximizing availability of equipment for patient care. Asset
+Tracking installation is substantially complete at 32 sites, with
+system testing in progress. 105,000 equipment assets are tagged for
+real time location awareness.
+VHA is gathering benefits data and will assess the return on
+investment over the next year. The early measures of success in both
+Cath Lab and Sterile Processing is positive and has led to increased
+interest from other VHA facilities to implement the solutions.
+VHA and OIT Response to OIG Report Findings
+In September 2015, the VA Office of the Inspector General (OIG)
+received an allegation claiming VA management failed to comply with VA
+policy and guidance when it deployed RTLS without appropriate project
+oversight. OIG conducted an official review, spanning the time period
+during and after completion of the Global Settlement Agreement. The
+review resulted in three findings that VA contested, but agreed to
+implement to further strengthen the program.
+OIG recommended that VA apply additional resources and implement
+improved integrated project management controls for the remainder of
+the project. VHA and OIT have continued to align and improve project
+management processes following the conclusion of the contract
+renegotiation and publication of the OIG report. More than 100 gate
+reviews have occurred since October 2017 at various steps in the
+deployment and testing process.
+The OIG finding that VA did not follow an incremental project
+management approach was based on an interpretation of VA policy
+regarding management of IT projects. The September 29, 2017, OIG
+Report, ``Review of Alleged Use of Wrong VA Funds to Purchase
+Information Technology Equipment,'' concluded that the use of medical
+funds for RTLS was appropriate. The RTLS deployment efforts have been
+managed utilizing sound project management practices. For example, gate
+reviews are conducted for various milestones, and deployment work in
+several VISNs was paused following unsuccessful testing at the Fargo
+facility. Additionally, planned investments were suspended pending
+successful deployment of RTLS at lead facilities.
+OIG identified the need for VA to implement improved risk
+assessment oversight to identify potential vulnerabilities that may
+adversely affect other VA systems. VA conducted risk assessments prior
+to previous RTLS deployments and an Authority to Operate was in place
+for all systems that were deployed to the network. VA will perform
+continual risk assessments to assure that the risks associated with
+deploying additional RTLS systems on the VA network are minimized.
+The VHA POU Program
+A POU system provides asset visibility to the asset's POU. VA
+defines our POU as the medical supply rooms scattered in the wards and
+other clinical care facilities located throughout VAMCs. POU systems
+rely on enabling processes and technologies to include automated
+storage units, bar coding, and Kanban. The premise behind Kanban
+involves using a highly visual cue, such as an empty bin, to signal the
+need for replenishment. The VA system would utilize an integrating
+software system to bring these capabilities together to improve asset
+management efficiency. POU system software provides a fully integrated
+and intuitive platform through which an organization can analyze,
+monitor, and conduct the majority of data-driven tasks. There is an
+opportunity to collect, store, and administer data analysis through a
+single convenient portal, ensuring seamless communication within an
+organization. Integration would also allow for optimal tracking,
+collection, and analysis of data on all tasks, records, information,
+and activities performed within a system. This would increase
+efficiency on a large scale, ensuring smoother operations and improved
+productivity.
+On April 11, 2013, the Executive Decision Memorandum creating the
+VHA POU program was funded with $58 million of FY 2013 expiring funds.
+The POU program was envisioned and intended to provide an integrated
+supply chain management system capable of providing consolidated data
+to facilitate supply chain management. The consolidated data would be
+used to effectively manage consumable medical supply inventories
+throughout the VAMC, including the secondary (patient care area)
+inventory level, decreasing excessive stock levels, decreasing process
+inefficiencies and providing costs savings opportunities, and providing
+for expanded use of medical and surgical vendor contracts.
+In June 2013, an acquisition package was assembled and provided to
+the contracting office, Program Contracting Office - East. VA solicited
+a full and open competition request for proposals, ultimately netting
+three proposals. The competitive range reduced the number of offerors
+for consideration to two. Both offers were evaluated in accordance with
+the source selection plan and based upon their technical proposal.
+Shipcom Wireless, Inc., a small disadvantaged business, was awarded the
+contract on September 23, 2013.
+The contract required 20-35 assessments and implementations in each
+contract period. Assessments were to document current state of
+technology, inventory management processes and procedures, and stock
+levels in each facility. After an assessment was completed, the
+Contractor was to propose a POU solution, including automation, storage
+equipment, and processes, designed to create efficiencies and provide
+data to manage inventory stock levels. During the base period of the
+contract 27 site assessments were completed, but due to contractor and
+government delays, only 8 of the 27 sites were implemented with the
+Contractor's solution (Catamaran). The first option period was
+exercised in September 2014 and while no new assessments were
+completed, 14 more sites were implemented. The contractor was
+significantly behind schedule, and because there were other
+implementation delays, it became apparent that they would not be able
+to complete the required number of facilities within the contractually
+specified time period. Thus, modifications to the contract were
+executed. The second option period was exercised in September 2015, but
+due to schedule delays, assessments for this period did not begin until
+December 2015. VHA leadership was committed to the continuation of the
+program, and the Contractor was required to submit a corrective action
+plan, outlining a schedule catch up. No assessments or implementations
+were completed in the second option period as the Contractor proposed
+significant changes to the contract pricing to complete the work.
+In April 2016, a new Contracting Officer and COR were assigned to
+the project who in turn reiterated to the contractor that the contract
+was firm-fixed-price and clearly restated the contract requirements and
+deliverables. The Program Office worked with the vendor to identify
+specific shortcomings in the required site assessment reports, such as
+lack of site implementation plans, billing and invoicing deficiencies,
+and insufficient site documentation and equipment inventory records.
+On June 3, 2016, a corrective action plan was submitted by the
+vendor requesting another time extension for an additional $59.9
+million to complete the contract requirements. This corrective action
+plan did not provide corrective actions based on governmental concerns,
+rather it proposed additional work and additional costs to the
+performance work statement already part of the contract. The contractor
+was unable to complete site assessment reports in accordance with the
+contract requirements despite numerous attempts to review report
+deficiencies and to provide guidance to correct said deficiencies. The
+Program Office also began investigating the recurring costs of future
+software licenses and maintenance. Research showed that these costs
+would be an estimated $54 million per year, even with a proposed
+decrease in license fees. This figure was deemed unsustainable based on
+the following: a new Return on Investment analysis was performed by the
+Veterans Engineering Resource Center, utilizing the vendor's new
+implementation costs and extension request. The result of this analysis
+indicated that the POU program would not see a ``break even'' on the
+investment of $275 million for over a decade.
+In addition to escalating costs proposed by the vendor, the Shipcom
+POU solution, including its supporting Catamaran software, was not
+meeting contractual requirements, nor was it meeting the intended
+operational needs of the program to ``establish an integrated supply
+chain system that was capable of providing consolidated data to
+facilitate supply chain management.'' The decision was made to stop
+further assessments and implementations and not exercise future option
+periods of the contract.
+Upon decision to discontinue the contract effort, a plan was
+derived to transition the 22 sites that had converted to the Catamaran
+system, including the DC VAMC, back to VA's Generic Inventory Package
+(GIP). The POU program team pulled the consumable supply inventory data
+from the Catamaran system and uploaded that into GIP using the Excel
+tool. Over the course of seven weeks in January and February 2016, the
+POU program team traveled to the sites to educate the facility staff on
+use of the tool and to transition the data.
+Conclusion
+RTLS has significantly improved the efficiency and safety of health
+care of our Veterans. Patient safety and infection control are improved
+because surgical instruments are being tracked through sterile
+processing. Utilization, safety, and maintenance of medical equipment
+are improved. Cost savings are being realized in Cath Labs. In order to
+sustain these efforts, we ask Congress for continued support of VA
+modernization by investing attention and financial resources into this
+process automation system that is crucial in keeping our Veterans safe.
+It is critical that we continue to move forward with the current
+momentum and preserve the gains made thus far. Your continued support
+is essential to providing care for Veterans and their families. Mr.
+Chairman, this concludes my testimony. My colleague and I are prepared
+to answer any questions.
+Prepared Statement of Nicholas Dahl
+Mr. Chairman, Congresswoman Kuster, and Members of the
+Subcommittee, thank you for the opportunity to discuss the Office of
+Inspector General's (OIG) report, Review of Alleged Real Time Location
+System Project Mismanagement. \1\ Our statement today focuses on our
+review of whether VA effectively managed the Real Time Location System
+(RTLS) project to meet cost and schedule targets, and performance and
+security needs. I am accompanied by Mr. Michael Bowman, Director, OIG's
+Information Technology and Security Audits Division.
+---------------------------------------------------------------------------
+\1\ Published on December 19, 2017.
+---------------------------------------------------------------------------
+BACKGROUND
+Since 2000, the VA OIG has identified Information Technology (IT)
+Management as a major management challenge because VA has a history of
+not properly planning and managing its critical IT investments. OIG
+audits in recent years established that IT systems development at VA is
+a long standing high-risk challenge, susceptible to cost overruns,
+schedule slippages, performance problems, and in some cases, complete
+project failures. VA continues to face challenges in developing the IT
+systems it needs to support VA's mission goals.
+In 2011, the Veterans Health Administration (VHA) selected RTLS as
+the technology to provide tools to assist in the automation and
+improvement of operations and health care services that VHA provides to
+its veterans. RTLS was created to support VA's Health Care Efficiency
+major transformation initiative and to enable VHA to achieve clinical
+objectives, administrative process efficiency, and total asset
+visibility. In particular, RTLS uses multiple technologies for locating
+and tracking medical equipment. VHA intended to deploy it at all
+medical facilities nationwide.
+In June 2012, VHA awarded a firm-fixed-price, indefinite-delivery,
+indefinite quantity negotiated contract with a $543 million ceiling to
+Hewlett Packard Enterprise Services to deploy a nationally integrated
+RTLS solution over the course of five years. This solution was to
+include commercial off-the-shelf technologies and software
+applications. The RTLS procurement and implementation process was a
+cooperative effort between VHA, the Office of Acquisitions and
+Logistics, and the Office of Information and Technology (OIT).
+VA policy required that the RTLS project be managed under VA's
+Project Management Accountability System (PMAS). PMAS was a project
+management system intended to establish a discipline to ensure that an
+IT project's customer, project team, vendors, and all stakeholders
+would focus on a single compelling mission-achieving on-time project
+delivery. PMAS used incremental product build techniques for IT
+projects with delivery of new functionality, tested and accepted by the
+customer, in cycles of six months or less.
+REAL TIME LOCATION SYSTEM PROJECT
+We received a complaint alleging VA management failed to comply
+with VA policy and guidance when it deployed RTLS assets without
+appropriate project oversight. The complainant also stated that VA
+deployed RTLS assets without meeting VA information security
+requirements. Consequently, we focused our review on whether VA
+effectively managed the RTLS project to meet cost and schedule targets,
+and performance and security needs.
+In December 2017, we reported that management failed to comply with
+VA policy and guidance when it deployed RTLS assets without appropriate
+project oversight. Specifically, we concluded the RTLS Project
+Management Office (PMO) did not follow guidance from VA's Technology
+Acquisition Center (TAC) to use an incremental project management
+approach during the acquisition and deployment of RTLS assets to
+compensate for numerous known project management risks. We also
+reported that the RTLS PMO did not comply with VA policy requiring the
+use of the PMAS incremental oversight processes for all acquisitions
+and delivery of RTLS assets. Despite TAC guidance and VA policy, the
+RTLS PMO did not ensure the vendor could meet contracted functionality
+requirements on the initial $7.5 million task order, such as accurate
+asset tracking, before ultimately committing a total of $431 million to
+the same vendor for further RTLS deployments.
+VHA had awarded an initial $7.5 million task order to deploy RTLS
+to one of its Veterans Integrated Service Networks (VISN) with an
+expected delivery date in December 2013. \2\ However, during initial
+VISN operational testing in March 2015, VHA identified 245
+functionality defects that resulted in the issuance of a contract cure
+notice \3\ to the vendor. By June 2016, the cure notice was still
+unresolved, as 46 significant defects were still outstanding including
+RTLS' inability to meet contract requirements for asset tracking and
+software functionality. Overall, the VISN task order included more than
+20 contract modifications that resulted in changes to the project's
+scope and schedule, and significantly increased the final task order
+costs. The VISN allowed this task order to expire on the contract end
+date in July 2016 and ended its participation with the RTLS project.
+---------------------------------------------------------------------------
+\2\ VISN 23 - VA Midwest Health Care Network (Eagan, Minnesota and
+Lincoln, Nebraska)
+\3\ Per FAR 49.607, a cure notice informs the contractor of a
+specific failure and gives them an opportunity to cure the defect
+within 10 days.
+---------------------------------------------------------------------------
+In September 2016, VA renegotiated the RTLS contract due to the
+vendor's inability to implement a functional RTLS solution. The
+renegotiation was intended to realign RTLS and expedite the
+implementation of the RTLS solution in each VISN. Specifically, VHA
+executed a Global Settlement Agreement that resulted in extensive
+changes to the vendor's contract requirements, to include expiration of
+task orders for two VISNs, reduction in the scope of RTLS applications
+deployed, extension of the contract period of performance through June
+2018, and commitment of $431 million in total costs to the vendor as of
+December 2016. According to the agreement, VA also released the
+contractor from any liability claims related to prior performance on
+the contract.
+We also found that VA deployed RTLS assets without appropriate
+project oversight because management failed to provide effective
+oversight of the RTLS project from acquisition through development and
+implementation. Specifically, VA's Office of Planning and Policy's
+Enterprise Program Management Office provided minimal oversight of RTLS
+project management activities. Further, the RTLS PMO did not follow
+project implementation policy, including adherence to VA's PMAS process
+and lacked the oversight authority to ensure success of an enterprise
+level deployment involving information technology.
+We also substantiated the allegation that VA deployed RTLS assets
+without meeting VA's information security requirements. VA's
+fundamental mission of providing benefits and services to veterans is
+dependent on the Department deploying secure IT systems and networks.
+VA's information security program and its practices are designed to
+protect the confidentiality, integrity, and availability of VA systems
+and data. Specifically, we reported the RTLS PMO and OIT personnel
+deployed RTLS assets without the appropriate system authorizations
+needed to connect such devices to VA's network. This inadequate
+oversight of RTLS risk management activities left VA mission critical
+systems and data susceptible to unauthorized access, loss, or
+disclosure. Consequently, VA's internal network faced unnecessary risks
+resulting from untested RTLS system security controls.
+Given the uncertainty of the project, future RTLS cost estimates
+are unknown. Further, we reported, that VA must exercise cost control,
+sound financial stewardship, and discipline in RTLS development. VA
+also must demonstrate that RTLS is a worthwhile investment, providing
+taxpayers with a good return on investment. Consequently, we stated
+that it is imperative that VA use incremental and validation-based
+project oversight processes to ensure that VA does not incur additional
+project costs without achieving RTLS required functionality. VA's
+failure to deliver a successful RTLS solution will prevent the
+Department from achieving its Health Care Efficiency goals of facility
+automation, administrative process efficiency, and total asset
+visibility. As a result of inadequate project management, VA lacked
+assurance of an effective return on the $431 million invested in RTLS
+and that deployed assets were operating in accordance with contract
+requirements.
+We provided several value added recommendations for improving
+controls over VA's oversight of system development projects. This
+included recommendations addressing the need for VA to apply additional
+resources and implement improved integrated project management controls
+for the remainder of the project to restrict further RTLS cost
+increases and the need to enforce the use of incremental project
+management and validation controls on all remaining RTLS task orders to
+ensure such efforts will provide an adequate return on investment.
+The Executive in Charge, Office of the Under Secretary for Health
+and OIT's Acting Assistant Secretary concurred with our
+recommendations. The Executive in Charge reported VHA and OIT are
+addressing program resourcing and project management controls and will
+implement improved controls. Management also stated that OIT committed
+a senior project manager resource and VHA will pursue approval of
+increased staffing. Additionally, an RTLS Governance Council, which
+will have responsibility for defining cost, scope, and schedule
+performance metrics, is in development. Furthermore, the Executive in
+Charge reported the RTLS Governance Council will assure implementation
+of project management oversight that includes organizational risk
+management for technology deployment. Regarding the information
+security finding, the Acting Assistant Secretary reported that OIT will
+conduct risk assessments prior to future deployments to minimize risks
+associated with the deployments. The OIG will monitor implementation of
+planned corrective actions to ensure that our recommendations are
+addressed.
+CONCLUSION
+Our recent work demonstrated that VA continues to face challenges
+in managing its IT development projects. Our review of RTLS indicated
+VA needs enhanced discipline, oversight, and resource management to
+support successful IT development. VA has taken some actions to address
+issues we identified in our RTLS report and in other recent reports;
+however, it remains to be seen whether the actions will effectively
+improve VA's ability to meet cost, schedule, performance, and security
+goals when managing mission-critical system initiatives.
+Mr. Chairman, this concludes my statement. We would be happy to
+answer any questions you or Members of the Subcommittee may have.

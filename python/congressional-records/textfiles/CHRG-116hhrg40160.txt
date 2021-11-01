@@ -1,0 +1,2390 @@
+- EXAMINING THE USE OF ALTERNATIVE DATA IN UNDERWRITING AND CREDIT SCORING TO EXPAND ACCESS TO CREDIT
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+EXAMINING THE USE OF ALTERNATIVE
+DATA IN UNDERWRITING AND CREDIT
+SCORING TO EXPAND ACCESS TO CREDIT
+=======================================================================
+HEARING
+BEFORE THE
+TASK FORCE ON FINANCIAL TECHNOLOGY
+OF THE
+COMMITTEE ON FINANCIAL SERVICES
+U.S. HOUSE OF REPRESENTATIVES
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+JULY 25, 2019
+__________
+Printed for the use of the Committee on Financial Services
+Serial No. 116-42
+[GRAPHIC IS NOT AVAILABLE IN TIFF FORMAT]
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+40-160 PDF
+WASHINGTON : 2020
+--------------------------------------------------------------------------------------
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+MAXINE WATERS, California, Chairwoman
+CAROLYN B. MALONEY, New York
+PATRICK McHENRY, North Carolina,
+NYDIA M. VELAZQUEZ, New York
+Ranking Member
+BRAD SHERMAN, California
+PETER T. KING, New York
+GREGORY W. MEEKS, New York
+FRANK D. LUCAS, Oklahoma
+WM. LACY CLAY, Missouri
+BILL POSEY, Florida
+DAVID SCOTT, Georgia
+BLAINE LUETKEMEYER, Missouri
+AL GREEN, Texas
+BILL HUIZENGA, Michigan
+EMANUEL CLEAVER, Missouri
+SEAN P. DUFFY, Wisconsin
+ED PERLMUTTER, Colorado
+STEVE STIVERS, Ohio
+JIM A. HIMES, Connecticut
+ANN WAGNER, Missouri
+BILL FOSTER, Illinois
+ANDY BARR, Kentucky
+JOYCE BEATTY, Ohio
+SCOTT TIPTON, Colorado
+DENNY HECK, Washington
+ROGER WILLIAMS, Texas
+JUAN VARGAS, California
+FRENCH HILL, Arkansas
+JOSH GOTTHEIMER, New Jersey
+TOM EMMER, Minnesota
+VICENTE GONZALEZ, Texas
+LEE M. ZELDIN, New York
+AL LAWSON, Florida
+BARRY LOUDERMILK, Georgia
+MICHAEL SAN NICOLAS, Guam
+ALEXANDER X. MOONEY, West Virginia
+RASHIDA TLAIB, Michigan
+WARREN DAVIDSON, Ohio
+KATIE PORTER, California
+TED BUDD, North Carolina
+CINDY AXNE, Iowa
+DAVID KUSTOFF, Tennessee
+SEAN CASTEN, Illinois
+TREY HOLLINGSWORTH, Indiana
+AYANNA PRESSLEY, Massachusetts
+ANTHONY GONZALEZ, Ohio
+BEN McADAMS, Utah
+JOHN ROSE, Tennessee
+ALEXANDRIA OCASIO-CORTEZ, New York
+BRYAN STEIL, Wisconsin
+JENNIFER WEXTON, Virginia
+LANCE GOODEN, Texas
+STEPHEN F. LYNCH, Massachusetts
+DENVER RIGGLEMAN, Virginia
+TULSI GABBARD, Hawaii
+ALMA ADAMS, North Carolina
+MADELEINE DEAN, Pennsylvania
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+DEAN PHILLIPS, Minnesota
+Charla Ouertatani, Staff Director
+TASK FORCE ON FINANCIAL TECHNOLOGY
+STEPHEN F. LYNCH, Massachusetts, Chairman
+DAVID SCOTT, Georgia
+FRENCH HILL, Arkansas, Ranking
+JOSH GOTTHEIMER, New Jersey
+Member
+AL LAWSON, Florida
+BLAINE LUETKEMEYER, Missouri
+CINDY AXNE, Iowa
+TOM EMMER, Minnesota
+BEN McADAMS, Utah
+WARREN DAVIDSON, Ohio
+JENNIFER WEXTON, Virginia
+BRYAN STEIL, Wisconsin
+C O N T E N T S
+----------
+Page
+Hearing held on:
+July 25, 2019................................................
+1
+Appendix:
+July 25, 2019................................................
+41
+WITNESSES
+Thursday, July 25, 2019
+Evans, Lawrance L., Managing Director, Financial Markets and
+Community Investment, U.S. Government Accountability Office
+(GAO)..........................................................
+10
+Girouard, Dave, CEO and Co-Founder, Upstart Network, Inc.........
+11
+Johnson, Kristin N., McGlinchey Stafford Professor of Law, Tulane
+University Law School..........................................
+8
+Rieke, Aaron, Managing Director, Upturn..........................
+6
+Wu, Chi Chi, Staff Attorney, National Consumer Law Center (NCLC).
+5
+APPENDIX
+Prepared statements:
+Evans, Lawrance L............................................
+42
+Girouard, Dave,..............................................
+54
+Johnson, Kristin N...........................................
+57
+Rieke, Aaron.................................................
+74
+Wu, Chi Chi..................................................
+80
+Additional Material Submitted for the Record
+Lynch, Hon. Stephen F.:
+Written statement of the Cato Institute's Center for Monetary
+and Financial Alternatives.................................
+96
+Domino: A Blog About Student Debt............................
+99
+Written statement of the Financial Data and Technology
+Association of North America (FDATA North America).........
+102
+Written statement of FICO....................................
+105
+Written statement of VantageScore............................
+107
+McHenry, Hon. Patrick:
+Written statement of the Cato Institute's Center for Monetary
+and Financial Alternatives.................................
+111
+EXAMINING THE USE OF ALTERNATIVE
+DATA IN UNDERWRITING AND CREDIT
+SCORING TO EXPAND ACCESS TO CREDIT
+----------
+Thursday, July 25, 2019
+U.S. House of Representatives,
+Task Force on Financial Technology,
+Committee on Financial Services,
+Washington, D.C.
+The task force met, pursuant to notice, at 10:02 a.m., in
+room 2128, Rayburn House Office Building, Hon. Stephen F. Lynch
+[chairman of the task force] presiding.
+Members present: Representatives Lynch, Scott, Gottheimer,
+Lawson, Axne, McAdams, Wexton; Hill, Luetkemeyer, Emmer,
+Davidson, and Steil.
+Ex officio present: Representative McHenry.
+Also present: Representatives Green, Himes, Porter;
+Gonzalez of Ohio, and Hollingsworth.
+Chairman Lynch. Good morning. The Task Force on Financial
+Technology will come to order.
+Without objection, the Chair is authorized to declare a
+recess of the task force at any time.
+Also, without objection, members of the full Financial
+Services Committee who are not members of this task force are
+authorized to participate in today's hearing consistent with
+the committee's practice.
+Today's hearing is entitled, ``Examining the Use of
+Alternative Data in Underwriting and Credit Scoring to Expand
+Access to Credit.'' I now recognize myself for 4 minutes to
+give an opening statement.
+I want to thank everyone for being here at our second
+Financial Technology Task Force hearing. Today's hearing will
+focus on the use of alternative data, the financial and
+nonfinancial data that is not traditionally used by national
+consumer reporting agencies in credit underwriting. With an
+estimated 26 million consumers lacking in any credit history,
+and another 19 million with an outdated or short credit
+history, lenders have looked to other means of assessing the
+creditworthiness of applicants.
+As a result, alternative data has become a hot topic. It
+has the potential to expand credit access but also raises
+concerns over the nature and sources of its data points. There
+is also significant regulatory uncertainty surrounding its use.
+Today, we will hear testimony and discuss questions on all of
+these issues. The promise of fintech lending has been to lower
+costs and bring new consumers into the market. This promise has
+been fueled by data points outside of the traditional factors
+used by underwriters like payment history and credit
+utilization. Today, lenders use an array of financial and
+nonfinancial data in their decision-making. Some factors, such
+as utility bill or rent payments, resemble traditional factors.
+Others, such as living in public housing, who your friends are,
+and what their credit scores are, your ZIP Code, your reading
+choices, educational attainment, educational institutions, and
+driving habits or online shopping habits, are a significant
+departure from traditional factors.
+We know that Facebook has up to 52,000 data points on each
+of its 2.7 billion daily users, and they sell access to that
+data to its advertisers. Use of this and other data can
+potentially help 45 million Americans who might have trouble
+accessing credit with traditional factors alone. Take for
+instance, a 28-year-old woman in a modest-paying job, or maybe
+with 2 very modest paying jobs, who has never had a credit card
+or taken out a personal loan or mortgage loan. She might find
+herself denied access to credit based on traditional factors,
+even though she is working 12 hours a day. But a lender using
+alternative data might take into account that she went to a
+reputable school, had a job with a reputable employer, and
+always pays her rent and utility bills on time. In that case,
+they might approve her application for credit. It is very
+likely we have one or two staffers working here on Capitol Hill
+who fit that exact description.
+However, it is not hard to imagine a similar scenario with
+much different results. Say, a young man with a decent but
+short credit history might be right on the cusp of being deemed
+creditworthy by traditional factors. However, a lender using
+alternative data sees in his rental history that he moves
+frequently, moves around a lot. In the last few years, he has
+had several domiciles. They may also see he doesn't have a
+college degree and that his Facebook friends have below average
+credit scores. So, they deny him access to credit.
+Unfortunately, this probably describes a number of our military
+personnel as they repeatedly move domiciles as a result of
+multiple redeployments during their careers.
+Without question, there are instances when using
+alternative data in credit underwriting has potential positive
+impacts. However, right now, oversight of its use is either
+highly fragmented or completely nonexistent, leading to
+uncertainty for lenders and potential harm for consumers. That
+is why we are here today, to better understand how to harness
+the benefits and mitigate the harms of using alternative data.
+I look forward to the testimony of our witnesses and the
+discussion of our Members. With that, I now recognize the
+ranking member of the task force, the gentleman from Arkansas,
+Mr. Hill, for 5 minutes for an opening statement.
+Mr. Hill. I thank the chairman. I appreciate you convening
+this hearing and I appreciate our witnesses appearing today. We
+are grateful for your advice and counsel today. Analyzing the
+use of alternative data in the marketplace lending industry is
+an important sector within our broader study of the fintech
+ecosystem. I am pleased that we were able to bring everybody
+together and do a deeper dive on this topic.
+Marketplace or fintech lenders are categorized through
+their digital or online focus and have recently emerged and
+grown quite a bit over the last decade. According to S&P
+Global, marketplace lending grew by 30 percent in 2017. They
+provide unsecured credit to individuals and working capital to
+small businesses. They have unique funding models with
+financing provided by investors, credit facilities,
+securitization, and, of course, balance sheet cash.
+Typically, these lenders currently lend through two primary
+models: a bank partnership model, in which a bank originates
+the loan, which is generally sourced and served by the
+marketplace lender; or a direct lender model, in which a
+marketplace lender acquires the applicable regulatory licensing
+in all of the States of our country.
+To help determine a borrower's creditworthiness,
+marketplace lenders often use some form of alternative data,
+hence the topic today. Traditional lenders typically have used
+FICO scores, 3 years of tax returns, payment history for credit
+cards, mortgages, or student loans in order to establish a risk
+profile for their borrowers.
+However, marketplace lenders robustly combine FICO scores
+with alternative data points to better gauge a borrower's
+character and economic situation. Examples of these data points
+include education level, employment status, utility and rent
+payments, et cetera. Analyzing these data points has the
+potential to widen the universe of borrowers and provide
+greater access to affordable credit.
+Importantly, a report by TransUnion outlined that lenders
+that utilized alternative data were able to lend to an
+additional 66 percent of borrowers in current markets and 56
+percent in new markets.
+Today, we will explore concerns about how alternative data
+can best comply with critical fair lending requirements, which
+will be discussed in more depth. However, I do want to remind
+my colleagues that we don't want overregulation to stifle
+innovation and prevent the American consumer from now being
+able to access affordable credit through this new methodology.
+As to compliance obligations, obviously, I want to
+highlight some of the ongoing issues that have been evolving
+within the marketplace lending industry. The Treasury report--
+which I regularly reference in these hearings--released a year
+ago now, provides a comprehensive review of the fintech sector.
+It has a robust analysis of this industry. It generally favors
+innovation, but identified certain important policies that need
+to be highlighted and discussed today, such as codify the
+valid-when-made doctrine, codify the role of the bank as the
+true lender of a loan that is made, allowing the testing of new
+credit models and data sources for financial institutions, and
+think through this issue of special charters or harmonization
+of this process across our States.
+The report also mentioned the third-party lender guidance.
+I know the FDIC and the OCC have been focused on this due to
+the rise of marketplace lenders and strong bank partnerships.
+As a former community banker, I well understand the compliance
+responsibilities around vendor partner, due diligence,
+onboarding of new partnerships, and board of director reviews.
+Also, as a result, as a banker, I understand the importance
+of banks maintaining a robust level of safety and soundness and
+constantly facing changing technology but assuring a vigor in
+compliance on both data security and privacy.
+I look forward to hearing the thoughts of the panel today,
+and over the years, I think this is going to be a fascinating
+way for Mr. Lynch and I to make recommendations to our full
+Financial Services Committee on how we can broaden marketplace
+lending. So, with that, I would like to yield the balance of my
+time to my friend, the ranking member of the Full Committee,
+Mr. McHenry of North Carolina.
+Mr. McHenry. Thank you. And, look, technology is creating
+new pathways for more consumers to access the financial system.
+That is a good thing. We are talking about people who are
+otherwise credit invisible or lack enough credit history to
+finance things like a mortgage, credit cards, or other loans.
+Alternative data draws on nontraditional sources of financial
+history, including bill payment history in areas like mobile
+phones, that are now essential ingredients, with 81 percent of
+Americans owning a smartphone at this point or using a
+smartphone, and rent. And by harvesting this type of data about
+the consumer, lenders have a more holistic picture about the
+consumer to whom they are lending.
+Yet, this new era is not without its challenges. We need to
+ensure that alternative data remains nondiscriminatory and that
+consumer data and privacy are protected. So, it is our job to
+ensure responsible innovation continues to be a driving force
+of the American economy, but in particular, in financial
+services. I yield back.
+Chairman Lynch. The gentleman yields back.
+The Chair now recognizes the gentleman from Georgia, Mr.
+Scott, for 1 minute for an opening statement.
+Mr. Scott. Thank you very much, Chairman Lynch, and let me
+commend you and Mr. Hill for providing this excellent
+bipartisan leadership on what I refer to as the thrilling new
+frontier. We are in a situation now where technology is moving
+at such a rapid pace, and where we need to look at where we
+need to adjust the sails and make sure everybody has an
+opportunity to be able to participate in this. And, of course,
+as we look at this scoring technology, we look at how it is
+impacting our financial system. There is no group that needs
+our help more than the 26 million Americans who have no credit
+history. There are also 19 million Americans who have a very
+limited credit history. And when you put the totality of the
+unbanked and the underbanked in there, we can see that we must
+not leave these parts of our population behind.
+So, I am looking forward to this, to making sure that we
+determine effectively how data is used in lending decisions and
+credit scoring, so all the American people can participate in
+this glorious new frontier.
+Thank you, Mr. Chairman.
+Chairman Lynch. I thank the gentleman. On behalf of this
+bipartisan task force, I want to welcome our distinguished
+panel. I would like to welcome the testimony of: Chi Chi Wu, a
+staff attorney with the National Consumer Law Center, based in
+Boston, my hometown; Aaron Rieke, managing director at Upturn,
+which is a nonprofit focused on promoting equity and digital
+technology through research and advocacy; Kristin Johnson,
+McGlinchey Stafford Professor of Law at Tulane University Law
+School; Lawrance Evans, Managing Director of Financial Markets
+and Community Investment at the Government Accountability
+Office; and Dave Girouard, founder and CEO at Upstart, which is
+a fintech lender focused on direct-to-consumer loans.
+Witnesses are reminded that your oral testimony will be
+limited to 5 minutes. And without objection, your written
+statements will be made a part of the record.
+Ms. Wu, you are now recognized for 5 minutes to give an
+oral presentation of your testimony.
+STATEMENT OF CHI CHI WU, STAFF ATTORNEY, NATIONAL CONSUMER LAW
+CENTER (NCLC)
+Ms. Wu. Mr. Chairman, Ranking Member Hill, and members of
+the task force, thank you for inviting me to testify today. I
+am testifying on behalf of the low-income clients of the
+National Consumer Law Center. We have heard several times today
+that there are tens of millions of consumers who are credit
+invisible. The topic of this hearing, alternative data, is
+often promoted as the solution. The thing is, alternative data
+includes lots of different types of data used in lots of
+different ways. Some types of data and uses can be helpful;
+others can hurt. As we say, the devil is in the details.
+The number one consideration for alternative data should be
+consumer choice. That should be the touchstone for all data
+collection. Now, we have heard with respect to the Equifax data
+breach a repeated complaint: Hey, none of us gave Equifax
+permission to collect our data.
+Let's get this right with respect to alternative data.
+Let's make sure it is the consumer's choice, that consumers
+make knowing and affirmative decisions to allow the use of this
+data, and the data is only used in the ways that consumers give
+permission for and expect. Another consideration for
+alternative data is whether it is used to create second-chance
+scores for just credit-invisible consumers or whether it is
+dumped wholesale into traditional credit reports where it might
+damage the records of consumers who already have a score. We
+want to give credit-invisible consumers a chance to be seen
+without hurting any of the nearly 200 million consumers who are
+already visible.
+As for types of data, bank account transaction data has
+shown a lot of promise, but it is also a juicy target. Debt
+collectors would love to get ahold of it. And bank account data
+can include sensitive information, such as where a consumer
+shops. There should be appropriate guardrails for sharing bank
+account data.
+Rent payment information is another type of data looks
+promising, specifically when no additional late payments are
+reported. But we don't want to penalize tenants who invoke
+their rights to withhold rent over poor conditions.
+Payday loan information, in contrast, is probably harmful.
+It is designed to lead to a cycle of debt, and just reporting
+it can hurt a consumer. And it is probably not necessary
+because most payday borrowers actually have credit records.
+Gas and electric utility data can be potentially harmful if
+added in the wrong way. If reported monthly without giving
+consumers a choice, it has the potential to hurt tens of
+millions of low-income consumers by adding new reports of 30-
+or 60-day late payments. In contrast, efforts to include
+utility data on a voluntary basis could be useful, and new
+voluntary products show there is no need for utility credit
+reporting where the consumer has no choice.
+And then, of course, there is Big Data--things like social
+media profiles, web browsing history, and behavioral data.
+There are a lot of unanswered questions about the
+predictiveness and the accuracy of Big Data. Some of it is also
+troubling because it strongly reinforces inequality. For
+example, education, that is, what kind of degree a consumer
+has, is highly correlated with the income and education of
+one's parents. And using social media profiles, particularly
+friend networks, raises concerns about racial disparities,
+given who most people's friends and families are likely to be.
+Speaking of racial disparities, we know there are
+tremendous racial disparities with respect to traditional
+credit scores. It is the result of centuries of slavery and
+discrimination which led to the huge racial wealth gap.
+Alternative financial data is also likely to have racial
+disparities for the same reasons. The critical question is
+whether the alternative data or algorithms lessen or increase
+racial disparities and whether it is more predictive or less
+than traditional models.
+These two questions are closely tied to the test for
+disparate impact under the Equal Credit Opportunity Act. If the
+alternative data is less predictive, there is less of a
+business justification for it, under the disparate impact test.
+On the other hand, if it creates less of a racial disparity, it
+could be a less discriminatory alternative than traditional
+scoring.
+In terms of regulation, all third-party alternative data
+used for credit should be considered a consumer report under
+the Fair Credit Reporting Act (FCRA). Unfortunately, several
+courts of appeals haven't respected the plain language of the
+FCRA and its broad coverage. We urge Congress to reaffirm this
+broad coverage, because the FCRA has critical protections. One
+of the key issues with alternative data is accuracy, the FCRA
+addresses accuracy, and it gives consumers the right to dispute
+errors.
+The FCRA, as well as the ECOA, also requires notices for
+the purpose of transparency, requiring lenders to disclose the
+source and type of information so consumers aren't left in the
+dark as to the reasons for credit decisions. Having black boxes
+to evaluate creditworthiness should be a thing of the past. I
+thank you for the opportunity to testify and I look forward to
+your questions.
+[The prepared statement of Ms. Wu can be found on page 80
+of the appendix.]
+Chairman Lynch. Very good, thank you.
+Mr. Rieke, you are now recognized for 5 minutes.
+STATEMENT OF AARON RIEKE, MANAGING DIRECTOR, UPTURN
+Mr. Rieke. Chairman Lynch, Ranking Member Hill, and
+distinguished members of the task force, thank you for the
+opportunity to testify today. We are here because approximately
+45 million Americans do not have access to credit because there
+is a lack of quality data with which to underwrite them.
+Alternative data can certainly help. I want to echo Ms. Wu and
+say that the devil is in the details, and to suggest that we
+are really talking about two categories of data here:
+conventional data; and fringe data.
+Conventional data consists of things like various payment
+histories, bank account balances, information about an
+individual person's financial capacity. Fringe data consists of
+things like social media data, information that may be
+correlated with this financial capacity but is much further
+removed.
+Conventional data is promising; fringe data raises
+concerns. To understand why, think about traditional FICO
+credit scores. These credit scores are not conceptually
+complex. Most of their predictive value comes from people's
+payment histories. That is really the number one factor in the
+recipe of FICO scores. The logic is simple. If a consumer is
+keeping up with their current financial obligations, it is
+reasonable to predict that they can take on new financial
+obligations. As it turns out, the same basic logic applies to
+many kinds of conventional data. The best available evidence
+suggests that bill payment histories are similarly predictive
+and can help otherwise unscoreable consumers access credit.
+Another example, cash-flow data obtained from a consumer's
+bank account with their express permission, can provide an
+immediate high-quality picture of that person's ability to
+repay a loan, even without a credit bureau being involved at
+all. That is conventional data.
+The story gets murkier when we talk about fringe data.
+Expansive data sets about people's social connections, the
+kinds of websites they visit, where they shop, and how they
+talk do not have the same simple, intuitive connection to each
+individual's ability to repay a loan. These can yield blunt
+stereotypes that might be predictive, but for the wrong
+reasons.
+Let me offer you an analog analogy. Imagine I offered to
+build you a credit-scoring model that relied on a person's ZIP
+Code. That should feel intuitively wrong. I want to unpack why.
+First, we know that geography reflects deep-seated social
+inequities. The result would almost certainly be textbook
+disparate impact.
+Second, judging from ZIP Codes would paint with too broad a
+brush. It would do little to help many of the unscoreable
+consumers we seek to help most who already live in low-income
+neighborhoods. Latching on to traditional markers of wealth and
+privilege aren't going to get us to where we want to be. My
+point is that thousands of behavioral data points thrown into a
+complicated, machine-learning, artificial intelligence model
+can actually act and behave just like a ZIP Code. In the
+absence of rigorous public scrutiny, we should be skeptical of
+fringe data.
+I want to note, because Facebook was brought up in opening
+remarks, that Facebook has for a number of years had a policy
+that prohibits third parties from using Facebook users' data
+for any kind of eligibility purpose. So, if you see a start-up
+company touting their use of Facebook data, ask them why they
+are violating Facebook's policies. That may not be the case
+forever, but I think today that indicates that we are not ready
+to embrace this new data set. In short, this task force should
+focus its efforts on encouraging the use of alternative data
+that is closely related to loan performance, has an
+understandable relationship with an individual applicant's
+creditworthiness, and has been evaluated for compliance with
+anti-discrimination laws.
+Fortunately, this is all doable. More collection and use of
+alternative data makes the Fair Credit Reporting Act and the
+Equal Credit Opportunity Act more important than ever before. I
+would urge Congress to ensure that new kinds of alternative
+data are only used for credit underwriting, where we have
+researched and understood their role, and not for things like
+employment and insurance.
+Finally, as you are all aware, thanks to the advocacy of
+Ms. Wu and her colleagues, any new policies around alternative
+data must respect important State and local consumer
+protections. Thank you again for the opportunity to testify,
+and I welcome your questions.
+[The prepared statement of Mr. Rieke can be found on page
+74 of the appendix.]
+Chairman Lynch. I thank the gentleman.
+Ms. Johnson, you are now recognized for 5 minutes for a
+summary of your testimony.
+STATEMENT OF KRISTIN N. JOHNSON, MCGLINCHEY STAFFORD PROFESSOR
+OF LAW, TULANE UNIVERSITY LAW SCHOOL
+Ms. Johnson. Good morning, Chairman Lynch, Ranking Member
+Hill, Ranking Member McHenry, members of the committee, and
+members of the task force. Thank you for inviting me to
+participate in this hearing to discuss the use of alternative
+data in credit underwriting and credit scoring. I am a
+professor of law and associate dean of faculty research at
+Tulane University Law School, but I have previously worn other
+hats. I was an analyst at Goldman Sachs, a vice president and
+associate general counsel at JPMorgan, and an associate at a
+New York law firm with a globally recognized transactional
+practice. During my tenure in financial services and as an
+academic, I have learned a few things about financial markets,
+including the lesson that credit is a critical resource.
+Individuals and families increasingly rely on credit to
+finance household purchases and overcome significant
+unanticipated expenses. Without access to credit on fair and
+reasonable terms, it can be extraordinarily expensive to be
+poor. For families with fragile financial circumstances, credit
+may serve as a lifeline, enabling consumers to meet short-term
+debt obligations and to pay for education, transportation,
+housing, medicine, childcare, and even food.
+Two critical developments create promise for the 26 million
+Americans referenced earlier as credit invisible, those without
+credit histories, and the 19 million Americans who have thin,
+impaired, or stale credit histories described as unscoreable.
+First, the birth of Big Data. The collection, storage, and
+analysis of vast volumes of consumer data fuels artificial
+intelligence or automated decision-making platforms. Similar to
+the proliferation of AI in health care, employment, criminal
+law, surveillance, and communications, the rise of AI in
+finance monetizes consumer data. Consumers' web browsing,
+click-stream data, and social media networking, which we could
+describe as consumers' digital interface, is matched with or
+paired with consumers' financial transactions, checking and
+saving account cash flows, and credit and debit card
+transactions, fueling data mining and engendering a new set of
+behavioral criteria we can describe as alternative data.
+While fintech firms integrating alternative data offer
+great promise, it is very much worth noting that this new
+species of financial market intermediaries also presents great
+concerns. In my limited time this morning, I note three
+challenges that arise when we integrate and endeavor to
+regulate alternative data.
+First, alternative data may, as mentioned earlier,
+disadvantage vulnerable, marginalized consumers, particularly
+those who are members of legally protected classes. Under the
+behavioral scoring model, your friends on Facebook, the people
+in the pictures you post on Instagram, and those you chat with
+on WhatsApp--I am happy to deconstruct that later for those
+unfamiliar--may signal more than whether or not you have street
+cred. These connections may determine the interest rate on your
+next mortgage.
+It is not yet clear how these new sources of data will
+impact credit invisibles and unscoreables, groups often
+disproportionately comprised of women and people of color.
+Unsavory lending practices, detestable marketing tactics, and
+usurious interest rates have too often plagued these
+marginalized consumers.
+Second, learning algorithms evaluate facially neutral,
+alternative data, yet may result in variables that function as
+proxies for protected traits or result in decisions that may
+have a disparate impact on members of legally protected
+classes.
+Consider, for example, Amazon's recent experiment with an
+algorithm tasked with reviewing resumes for a software
+programmer position. Armed with the resumes of previous hires
+and general instructions regarding qualifications, the
+algorithm went rogue. Because previous hires were predominantly
+men, the algorithm began to discount references to women,
+including references to women's chess club captain or all-
+women's colleges. Unknowingly, the algorithm replicated
+historic discriminatory hiring biases. In credit decisions,
+these results may be actional, as noted earlier, under the
+Equal Credit Opportunity Act and fair lending and fair housing
+regulations.
+Finally, alternative data raises concerns regarding
+consumer privacy and cybersecurity concerns. Beyond Equifax's
+settlement this week, there is more breaking cybersecurity
+news. A 20-year-old computer programmer successfully launched a
+cyber attack against another nation's national revenue agency,
+signaling that it is imperative to ensure that any entities
+that collect, store, and transfer consumer data have developed
+sufficient security mechanisms.
+CRAs may also struggle with respect to the obligation to
+describe and explain adverse credit decisions. Because of the
+inscrutable nature of learning algorithms, they are non-
+intuitive, opaque, and their operations are not often easily
+explained.
+Finally, in my written testimony I note as well that there
+is an even newer class of emerging financial intermediaries
+within the fintech ecosphere, or ecosystem--blockchain-based
+CRAs. I reference in my written testimony Bloom, one example of
+a blockchain-based credit reporting agency or an entity that
+will operate in a manner similar to a credit reporting agency,
+that is also presumably to rely on alternative data.
+For these reasons, I encourage and urge Congress to think
+carefully about comprehensive legislation outlining the
+appropriate uses for alternative data and data governance,
+storage, transfer, and cybersecurity protections, as well as
+enforcement of antidiscrimination norms.
+[The prepared statement of Ms. Johnson can be found on page
+57 of the appendix.]
+Chairman Lynch. Mr. Evans, you are now recognized to give
+us a 5-minute summary of your testimony.
+STATEMENT OF LAWRANCE L. EVANS, MANAGING DIRECTOR, FINANCIAL
+MARKETS AND COMMUNITY INVESTMENT, U.S. GOVERNMENT
+ACCOUNTABILITY OFFICE (GAO)
+Mr. Evans. Thank you very much, Chairman Lynch. I am
+pleased to appear before you, Ranking Member Hill, Ranking
+Member McHenry, and the members of the task force to discuss
+the use of alternative data in underwriting. My testimony is
+largely based on our December 2018 report, which covered
+several fintech lending issues. The problem with the current
+credit-granting ecosystem has been well-articulated, namely its
+limits in its ability to reach certain borrowers. We know that
+alternative data provides an opportunity to improve the status
+quo by expanding access to credit, improving prices, speeding
+up decision-making, and preventing fraud, but it is also
+important to know that some of what we refer to as alternative
+data is not new.
+However, the types of alternative data available have
+expanded significantly due to the ability to secure large
+volumes of consumer and behavioral information, including data
+on consumer spending and shopping habits, internet browsing
+history, online social media networks, educational
+affiliations, and other factors that may not have a clear nexus
+with creditworthiness.
+In combination with analytic techniques like machine-
+learning, these factors provide predictive power for fintech
+companies looking to enhance their ability to determine who is
+eligible for credit. But alternative data is not a panacea.
+Depending on the specifics of these data and the analytical
+techniques used to extract information from them, these
+innovative approaches can bring significant risk. One of the
+major concerns is that usage of that data may produce lending
+outcomes that result in disparate impacts or violations of fair
+lending laws, unintentionally in some cases.
+For example, according to a Federal Reserve newsletter, it
+has been reported that some lenders consider whether a person's
+online social network includes people with poor credit
+histories, which can raise concerns about discrimination
+against those living in disadvantaged areas.
+Another concern is that there may be a lack of transparency
+about what alternative data are being used and how they
+ultimately factor into credit decisions. This potential opacity
+could raise issues, not only for consumers, but for fintech
+firms themselves looking to comply with fair lending
+requirements. It may also be unclear whether a borrower has the
+ability to dispute the accuracy of the information used.
+The great challenge ahead is to manage the risk-reward
+balance of innovation and ensure our experience with
+alternative data does not mimic our experience with alternative
+mortgage products leading up to the financial crisis. To better
+ensure the risks are managed without stifling innovation, which
+is extremely important, policymakers and regulators will need
+to sort through a number of different tradeoffs and
+considerations.
+In the meantime, implementing key recommendations that GAO
+has offered to regulators would assist them in addressing some
+important deficiencies as we see them. Fintech lenders and
+their banking partners we spoke to indicated they face
+challenges due to regulatory uncertainty about the appropriate
+use of alternative data. Representatives of one bank said that
+a fintech partner's use of alternative data may be attractive
+from an innovation and business perspective, but the bank would
+likely hesitate to use this data due to regulatory uncertainty.
+While Federal agencies monitor the use of alternative data,
+they have not provided firms with the types of communication
+that they need to really think through the appropriate use of
+this data in the underwriting process.
+We believe coordinated guidance from the regulators may
+better position fintech lenders and their bank partners to
+responsibly use alternative data. In our prior work, we have
+also recommended that agencies formally evaluate the
+feasibility and benefits of adopting knowledge-building
+initiatives. We believe these initiatives will help firms
+understand the applicable regulations, improve regulators'
+knowledge of fintech products, and facilitate interactions
+between all parties.
+Chairman Lynch, Ranking Member Hill, Ranking Member
+McHenry, and members of the task force, this concludes my
+opening statement. I look forward to any questions you may
+have.
+[The prepared statement of Mr. Evans can be found on page
+42 of the appendix.]
+Chairman Lynch. Thank you, Mr. Evans.
+Mr. Girouard, you are now recognized for 5 minutes.
+Welcome.
+STATEMENT OF DAVE GIROUARD, CEO AND CO-FOUNDER, UPSTART
+NETWORK, INC.
+Mr. Girouard. Chairman Lynch, Ranking Member Hill, Ranking
+Member McHenry, and members of the Task Force on Financial
+Technology, thank you for the opportunity to participate in
+today's conversation. My name is Dave Girouard, and I am co-
+founder and CEO of Upstart, which is a leading artificial
+intelligence lending platform. I founded Upstart more than 7
+years ago, in order to improve access to affordable credit. In
+the last 5 years, almost $4 billion in bank quality consumer
+loans have been originated on our platform, using a model that
+combines alternative data with AI and machine-learning
+algorithms to determine a borrower's creditworthiness.
+Concerns about fairness in algorithmic lending,
+particularly in the use of alternative data, are well-founded.
+As a company focused entirely on reducing the price of credit
+for the American consumer, fairness is an issue we care about
+deeply. In the early days at Upstart, we conducted a
+retroactive study with a large credit bureau, and we uncovered
+a jarring pair of statistics: Just 45 percent of Americans have
+access to bank quality credit, yet 83 percent of Americans have
+never actually defaulted on a loan. This is not what we would
+call fair lending.
+The FICO score was introduced in 1989 and has since become
+the default way that banks judge a loan applicant, but in
+reality, FICO is extremely limited in its ability to predict
+credit performance because it is narrow in scope and inherently
+backward-looking.
+At Upstart, we decided to use modern technology and data
+science to find more ways to prove that consumers are indeed
+creditworthy, to bridge that 45 percent versus 83 percent gap.
+We believe that consumers are more than their credit scores,
+and by going beyond the FICO score and including a wide variety
+of other information such as a consumer's employment history
+and educational background, we have built a significantly more
+accurate credit model.
+While most people believe a better credit model means
+saying no to more applicants, the truth is just the opposite.
+Because Upstart's model is more accurate, we have significantly
+higher approval rates and lower interest rates than a
+traditional model.
+But we also understood that consumer protection laws
+weren't to be taken lightly. Thus, we proactively met with the
+appropriate regulator, the Consumer Financial Protection Bureau
+(CFPB), before launching our lending program. After several
+years of good-faith efforts between Upstart and the CFPB to
+determine the proper way to measure bias, we demonstrated that
+our AI-driven model doesn't result in unlawful disparate impact
+against protected classes of consumers.
+Because AI models change and improve over time, we
+developed automated tests with the regulators' input, in order
+to report on the impact of our credit decisions across
+underserved groups on a quarterly basis. We have been providing
+this information to the CFPB for the last 18 months. Moreover,
+we were able to report to the CFPB that our AI-based system
+improved access to affordable credit; specifically, our model
+approves 27 percent more consumers and lowers interest rates by
+3.57 percentage points compared to a traditional lending model.
+For near-prime consumers in the 620 to 660 FICO range, our
+model approves 95 percent more consumers and reduces interest
+rates by 5.42 percentage points compared to a traditional
+model. And, most importantly, Upstart's model provides higher
+approval rates and lower interest rates for every traditionally
+underserved demographic. That is the type of consumer benefit
+we should all get excited about.
+In September 2017, Upstart received the first ever no-
+action letter from the CFPB, recognizing that Upstart's
+platform improves access to affordable credit without
+introducing unlawful bias. The concern that use of alternative
+data and algorithmic decisioning can replicate or even amplify
+human bias in lending is well-founded. However, in Upstart's
+experience, the fair-lending laws enacted in the 1970s and the
+substance of fair-lending enforcement, that is, monitoring and
+testing the impact on actual consumers who apply for loans,
+translates very well to the AI-driven world of today.
+But in reality, the path we walked at Upstart is
+insufficient to create a robust and competitive market that
+will maximize financial inclusion and credit access. In our
+early days at Upstart, we couldn't know for certain whether our
+model would be biased. It wasn't until loans were originated
+that we were able to demonstrate that our platform was fair. As
+an early-stage startup, this was a risk worth taking, but it is
+not a risk a large bank would have considered.
+If broader and deeper financial inclusion among American
+consumers is important to this committee, it is worth
+considering rulemaking or legislation that will provide some
+type of limited sandbox for model development and testing. By
+combining regulatory support with model innovation, with
+rigorous and standardized testing, we can ensure that we don't
+forego the clear and obvious benefits that AI and alternative
+data can offer to the American consumer. Thank you.
+[The prepared statement of Mr. Girouard can be found on
+page 54 of the appendix.]
+Chairman Lynch. Thank you. I now yield myself 5 minutes for
+questioning. Thank you all. This is a great group. One of the
+nicer things about this task force is that it is bipartisan,
+and we are here for the same purpose: We are looking for
+guidance. We have an assortment of issues that we are
+confronting. Obviously, the banking industry is transformed, I
+think, because of technology so that we have an old banking
+culture that is very much rule-based, and it seems to be
+merging or morphing into this sort of tech hybrid where you
+move fast and break things. And so, there is that clash of
+cultures.
+But I can generally group our concerns into four areas. One
+is the whole issue of companies vacuuming up this personal
+data, this behavioral surplus, as Shoshana Zuboff describes in
+her book, ``The Age of Surveillance Capitalism.'' And under
+what conditions do consumers have a choice in terms of what
+gets vacuumed up and what gets used in terms of the algorithms
+that are employed to judge their creditworthiness or on other
+matters. There is that whole permission aspect that Ms. Wu and
+Ms. Johnson both raised. Actually, all of you, I think,
+addressed that in some regard.
+Then the data use, how that gets used, what data is
+permissible to use and what is not. Then, one of the concerns
+that this committee has is regarding the security of that data.
+We had Facebook in, and Mr. Marcus, who is heading up their
+Libra cryptocurrency project. And it is obvious from our
+history with Facebook, that Facebook does not do privacy well,
+and so we worry about that. If you look at the terms of service
+agreement, the one that is on your phone with Facebook, it is
+about 20 pages long. And if you look at it closely, it
+basically is the opposite of a privacy agreement. It basically
+gives Facebook the ability to gather all your data and then
+sell it to their advertisers. And if you don't agree, if you
+don't click, ``I agree,'' you don't get Facebook. So, I am
+worried about fintechs using that same sort of adhesion
+contract to get people to surrender their data, in order to get
+the value of what Mr. Girouard has described, which is perhaps
+lower rates, better access to credit, all the benefits that
+might flow from one of the fintech lenders.
+And then, lastly, we are struggling with how to hold people
+accountable with financial data. Should there be--I asked Mr.
+Marcus, but he wasn't forthcoming with an answer--I asked him,
+I said, would you accept fiduciary liability for the
+mishandling of consumers' personal financial data because of
+the consequences that can occur because of that mishandling?
+So, Ms. Wu, let's talk about, how do we get into this? How
+do we introduce this permission regime where people can--and,
+Ms. Johnson, I will go to you on this as well--how do we
+introduce this? Right now, it is a permissionless vacuuming up
+of data. How do we change the paradigm and the model from what
+we have now to a more rule-based, if you will, structure with
+some of the fintech that is emerging?
+Ms. Wu. Thank you for the question, Chairman Lynch, it is
+an excellent one. There is the sort of limited issue of
+alternative data for credit purposes, where we would urge that
+any legislation always be on an opt-in basis, that consumers
+have a choice, and that that choice be real and meaningful,
+that it not be in mice type of 20 pages of fine print that you
+mentioned. From a broader perspective of privacy in general,
+yes, we all should have more control over our own data, the
+right to opt in, opt out, or even have our data deleted.
+Chairman Lynch. Very good.
+Ms. Johnson?
+Ms. Johnson. I think that Ms. Wu's point is absolutely
+consistent with what our expectations ought to be. I think the
+challenges are two-part, one part technical, so I might defer
+to Mr. Girouard to respond as to how their model might address
+this very specific and technical point. But for AI to be
+effective, as I describe in my written testimony, there has to
+be a certain quantity or volume of observations available. They
+have to be uniform to a certain extent, and that facilitates
+the learning algorithm's ability to work through the data in a
+manner that is exceptionally efficient and reduces operating
+costs, thereby enabling fintech lending platforms to reduce the
+cost of borrowing for consumers.
+One of the challenges I am very curious about how we will
+navigate is the extent to which we are rightly asking that
+consumer's consent prior to their data being used, and how we
+reconcile that with how machine-learning algorithms operate.
+So, I think there is a gap there that we have to have enough of
+a conversation about, to be successful in crafting regulation.
+The other thing I just mentioned really quickly about
+consent is that the extent that the data is being gathered
+really may be the point of departure for some of our concerns.
+In many instances, consumers are completely unaware that the
+data is being gathered. And in some instances, they are
+voluntarily giving the data over for the better credit
+opportunities or reduced price credit opportunities, which is
+disconcerting, to be quite honest, because it suggests those
+who are most vulnerable might be exposed to--or exploited, in
+fact, by arrangements whereby they share the most intimate
+details of their financial lives or their personal lives for
+the purpose of getting better access to credit.
+Chairman Lynch. Thank you very much. I now yield to my
+friend, the gentleman from Arkansas, Mr. Hill, for 5 minutes.
+Mr. Hill. Thank you, Mr. Chairman.
+And, again, thanks to the panel. This is another really
+excellent panel that has been assembled for the task force
+work, and I think all of you bring a great perspective.
+Certainly, this issue of customer choice is an important
+one, and we all are frustrated, I think, with moving away from
+passwords into a more robust authentication, which is critical
+to a digital world, critical to fintech being successful,
+whether you are working at the biggest bank in the country or a
+great startup. We need to get beyond ``password1'' and our name
+as authentication, and we have been talking about that a lot.
+Secondly, this issue of, I own the data, I am the consumer,
+and I am allocating you some data for a project we are working
+on together, and so broadening that transparency in access to
+my data for the purpose of taking a decision that I want to
+have with an online partner. These are really important areas
+and thank you for bringing those up.
+Mr. Girouard, I want to talk a little bit about your model
+and the alternative use or, as was described by Mr. Rieke, your
+expansion, I would say, of conventional data. I will ask if you
+use ``fringe data'' or not, as he defined it, but we will find
+out. But I am very impressed that you have been working 18
+months with the CFPB, which is a beloved institution in
+Washington and certainly in this committee and, therefore, has
+imminent authority over that relationship. And congratulations
+for having a no-action letter. We think that is a great
+improvement for CFPB operations as an absolutely serious
+comment and a great way for them to demonstrate the ability for
+fintech innovation in a mini sandbox if you want to call that a
+derivative of that.
+My first question is, the conventional data you expand
+beyond FICO, what is the nature of that in your business?
+Mr. Girouard. Sure. I want to say first thatthe data we use
+in our models comes entirely from two sources: one, is a credit
+reporting agency; and two, is directly from the consumer
+themselves. So we aren't ``hoovering data in many places.'' We
+don't take data from Facebook, et cetera. What we to do is
+include information--and I had mentioned a couple of them--
+somebody's work history, where do they work, are they a nurse,
+are they a policeman, et cetera, their educational history, the
+degree of education obtained, their area of study. These are
+things that are unique to our model. We also look at some
+behavioral things when they interact with us, what sort of--how
+much--what size loan do they ask for, how did they find us,
+things of this nature. These all end up being helpful and
+predictive toward our model.
+Mr. Hill. Do you consider that--of course, it is provided
+by the customer. They are seeking the loan, so they have
+granted you permission to do that. Are you also seeing their
+cash-flow data for a period of months by access to their bank
+account in making your determination?
+Mr. Girouard. Today, that is not something we do. We do
+request and, with consent, get access to a bank account really
+for verification purposes and to avoid fraud and such. But it
+is, as of today, not part of our credit decisioning.
+Mr. Hill. You talked about how you are doing that, and, of
+course, the CFPB is learning, too, and you keep some of your
+credit, and your partner bank has some of your credit
+originated by you on their books, and then you securitize
+credit. So, for the loans that you keep and for the loans that
+are on the bank's books, of course, those are being reviewed by
+compliance officials for compliance with all fair lending laws
+and the like? Isn't that right?
+Mr. Girouard. Sure. There are many layers of oversight and
+governance over what we do. The vast majority, almost all
+Upstart loans are originated through bank partners--some of
+which are FDIC-regulated, and some of which are OCC-regulated.
+So, we are beholden to all of them and go through very regular
+audits and such.
+Mr. Hill. What is your view of what statutorily ought to
+change about the creation of a sandbox at our bank regulatory
+agencies? What does that mean to you? I see it in your
+testimony. You don't really explain what you mean by that. How
+do you define it?
+Mr. Girouard. Our belief, as I said, is that the right way
+to handle regulation for alternative data, and the use of
+alternative data is actually to measure the outcome, to look at
+its impact on consumers and whether there is bias in the
+outcome. The challenge with that, and the way the world works
+today, is, you don't know until you originate the loans. So,
+you are taking on some risk that, during that period of
+evaluation of building and testing that model, you could be in
+violation of the law, of fair-lending laws. The sandbox concept
+is, how do you actually make progress there? How do you
+actually build a better model that is both more effective and
+more accurate, but also fair and unbiased without testing and
+moving? And the notion of a sandbox is to provide some freedom,
+not just for a startup like we were 5 years ago, but to a large
+financial institution, a bank, to do the same thing.
+Mr. Hill. This is like a phase one or a phase two clinical
+trial in the drug research industry. How long do you think that
+would take and how much of a Big Data set would that be, in
+just your world of personal lending, do you think would be
+necessary to prove out a concept like that, analytically? 18
+months?
+Mr. Girouard. Yes. That is--
+Mr. Hill. Do you look at it in time, or do you look at it
+in total data set, or both?
+Mr. Girouard. It is a little of both.
+Mr. Hill. Because you have to go through the economic cycle
+of these borrowers, to some degree, some seasoning of these
+borrowers.
+Mr. Girouard. That is really about the efficacy question,
+meaning, does this model work well? But the fairness question
+actually is answered quite quickly because you know right away
+who you are approving andwho you are not approving.
+Mr. Hill. Thank you. I yield back, Mr. Chairman.
+Chairman Lynch. The Chair now recognizes the gentleman from
+Georgia, Mr. Scott, for 5 minutes.
+Mr. Scott. Mr. Evans, let me start with you, because in
+your testimony you provide a very good survey of the literature
+of the potential benefits of alternative data, but you also
+mention the risks. First of all, I think it would be helpful if
+you gave us some examples. What are we talking about when we
+say alternative data? What would that be?
+Mr. Evans. This could range from data that we have had
+significant experience with, like on-time rental payments,
+mobile payments, and the like. But it could also be data that
+we glean from your digital footprint online or your browser
+history.
+Mr. Scott. But these data points also must uphold the fair
+lending laws and standards that we have in place. I think the
+critical question is, how do we strike the balance? How do we
+strike the necessary balance, particularly given the innovative
+nature, the rapidity of our technology moving?
+Mr. Evans. Excellent question. And there are two things
+that I would point out from our body of work. One, we looked
+across the globe, and we looked at some of the innovative
+things other countries were doing, and they were things like
+the regulatory sandboxes, and innovation offices. We have to
+understand the technology, and the way to understand the
+technology is to engage. We have recommendations that are open
+to regulators to make sure they are carefully thinking through
+whether these innovation offices and other types of knowledge-
+sharing initiatives would be appropriate here in the United
+States.
+Also, guidance is extremely important because it sets the
+rules of the road. It sets parameters. And if the fintech firms
+aren't getting that kind of guidance, they are not--
+Mr. Scott. And do you think the regulators are living up to
+that? Do you think they are giving this guidance properly now?
+Mr. Evans. I would say no. There are certainly places where
+you can find good information from the Federal Reserve and
+others, but they haven't communicated this guidance in a
+written, formal way, so that people understand that this is
+relevant guidance for firms to follow. When you get many
+touches across the fragmented regulatory system, it is helpful
+to know that the guidance is coordinated; it is not coming from
+just one regulator.
+Mr. Scott. Ms. Johnson, you said something in your
+statement that I agree wholeheartedly with: you said that
+credit is a critical choice. It is almost a life-and-death
+choice. Can you imagine not having a checking account? Not
+having a savings account? Not having a credit card? Not having
+any history in this time? And yet, we have almost 60 million
+Americans in that shape. How critical, in your words, is this,
+at this point, with our unbanked, and if we fail in this
+ability to make the alternatives work, what would that look
+like? How serious is this situation facing hese 60 million
+unbanked, or what you refer to as invisibles, and making them
+visible?
+Ms. Johnson. This is a great question. Thank you. I think I
+might dissect or sort of bifurcate the question into two parts,
+one part just being thoughtful at the outset about the idea
+that credit, as we are describing it, originates from--or the
+decision-making process, or determinations about credit,
+originates from an evaluation of eligibility, right? The notion
+that credit reports are used merely for credit is mistaken. We
+know that credit reports might be used in other processes to
+determine employment and access to other resources. So, in some
+instances, we are talking about credit and the data that is
+evaluated to determine whether or not someone has access to
+credit, as a gateway. This is a sort of a gateway to a variety
+of critical access, to a variety of critical and important
+resources in our society. Credit is a critical resource and
+credit reports are a critical factor in the lives of
+individuals because it may impact their ability to access other
+resources beyond credit, right?
+Mr. Scott. Yes.
+Ms. Johnson. That is the first point, just to segregate out
+the ideas that what we are evaluating here, the data that is
+being gathered, there are many important impacts with respect
+to that data, that are beyond just simply whether or not one
+qualifies for a credit card or a home mortgage loan. Although,
+access to those resources is important as well.
+I would also underscore--Congresswoman Porter was one of my
+colleagues in the academy before joining you all here on the
+committee and in Congress, and her work has historically, along
+with others, underscored the significance of the financial
+status of individuals as impacting a variety of elements of
+their lives, and your point underscores that as well. I just
+suggest that credit and the data that is being gathered for the
+purposes of evaluating credit will impact access to financing,
+but it impacts access to a number of other things, including
+education.
+Mr. Scott. And, Mr. Chairman, may I just ask this--one of
+the values of--
+Chairman Lynch. The gentleman has gone a minute-and-a-half
+over. Go ahead, though.
+Mr. Scott. Thank you. One of the values of the fintechs is
+that they are now providing help and services to the unbanked
+that our traditional banks are not doing, will not do. And I am
+not going to ask you to answer that, but I am sure you will
+agree that that is an area we can develop more of, to use our
+emerging fintechs to be a valuable asset, because many of the
+existing actors in the financial services industry are not
+going to touch these unbanked and underbanked. But, anyway,
+thank you.
+And thank you, Mr. Chairman. I'm sorry.
+Chairman Lynch. Quite all right.
+The Chair now recognizes the ranking member of the full
+Financial Services Committee, the gentleman from North
+Carolina, Mr. McHenry, for however much time he may consume.
+Mr. McHenry. I will respect the Chair. Thank you, Mr.
+Lynch. And thank you, Mr. Hill, for your leadership.
+It is my hope that this task force can--we can build some
+consensus around financial technology. This is a nonideological
+space in an otherwise highly polarized Washington. And I think
+it shows that we can use technology to get better societal
+outcome--well, the same or better societal outcomes that we
+seek in current law.
+We have very important provisions of law that have been put
+in place through a massive amount of work to ensure that we
+don't discriminate against people based off of what I would
+describe as superficial reasons. And that work, where you are
+located, what you look like, who your parents were, any of that
+stuff, right?
+And what we see now in China is that you have this--you
+have a social score as well. And it is political connections
+and all of this stuff. And I hear this underlying the whole
+panel, we don't want that. Just because you tweet and you are a
+jerk on Twitter doesn't mean you are uncreditworthy. Or if you
+follow nuts on the left or the right on Twitter, that should
+not make you more or less creditworthy.
+Getting into the fundamentals of this, how you use
+alternative data, Mr. Girouard, you brought this up. Let's talk
+about the sandbox approach that Mr. Hill brought up in his
+question.
+So, the question of innovation and financial inclusion, I
+think, should go hand-in-hand. What are the benefits of a
+sandbox approach, Mr. Girouard, in your view?
+Mr. Girouard. As someone who has gone through the process,
+as we did over 4 years, frankly, with the CFPB, the sandbox
+isn't to our advantage. We already walked the walk and walked
+over the coals.
+But honestly, in the interest of the American consumer, you
+want a robust environment where not just small companies but
+the largest banks have an opportunity to innovate in modeling
+and in credit decisioning, because it can only benefit the
+consumer.
+A sandbox is necessary because--let me just give an
+example. In the very early days of our lending, I met with the
+CEO of one of the top banks in the country, one of the largest
+card issuers in the country, and his words to me were, ``I love
+what you are doing. I am really glad you are doing it, because
+we will never be able to do that.''
+And I think honestly, it may be to my business advantage
+that that is the case, but it is not to the American consumer's
+advantage. We need innovation across the industry, not just in
+unsecured personal loans, but in mortgages, in auto lending, in
+HELOCs, in all flavors of credit.
+Mr. McHenry. What will the benefit be if you use
+alternative data and somebody has, under a traditional score,
+less than A-plus credit, but you see through alternative data
+that they actually pay their rent, they pay their cellphone
+bill, and they have never missed those payments, it enhances
+that credit score, right?
+Others, it would actually say that that credit score is not
+as good, because they are not paying or they continue to have
+issues.
+There is this picking and choosing, when you say, we only
+want to use good stuff, if it is alternative data. Well, that
+is not representative that everyone is a good credit risk,
+right? How do you prove that out in terms of ensuring it is not
+discriminatory based off of our traditional metrics under
+Federal law?
+Mr. Girouard. Let me just say, the important background is
+that FICO and income, which are the two anchors of almost any
+lender, are terribly biased. And they are so biased that the
+additional of alternative data, whether that is education,
+whether that is the name of the company you work for--there are
+a variety of other things--actually reduces the bias and the
+credit decisioning, because the baseline is so biased itself.
+That is why it represents such an opportunity.
+The other really important--
+Mr. McHenry. Okay. Across the panel, does anybody disagree
+with that statement?
+Ms. Johnson. I would add something.
+Mr. McHenry. But any disagreement with the contents in the
+last 5 sentences of what Mr. Girouard said?
+Anyone on the panel?
+Ms. Johnson. There is bias certainly in the existing data,
+because it is the result of systemic--we just talk about data
+collection for algorithms generally. We have to acknowledge
+that at the outset, the data that is being collected is biased.
+One of the best and easiest, most accessible examples,
+would be in criminal law enforcement. To the extent that an
+area is overpoliced by police in a particular city or area,
+there will be more arrests in that area--
+Mr. McHenry. No, but I am talking about consumer credit,
+and I am talking about the specifics of this. That is a larger
+societal issue. We are the Financial Services Committee and not
+the Judiciary Committee. That is a major issue; I certainly
+understand that. And I appreciate that.
+But let's talk about what we are going to fix here in the
+Financial Services Committee. When you say that alternative
+data can be an enhancement--and I understand all of the caveats
+that all of you in a very loyal sort of way, if I would say,
+say, yes, it has great opportunities but there are risks. Of
+course there are, right?
+But when we are talking about getting unbanked or credit
+invisible people and making them visible, I think that is a
+proper societal tradeoff in order to get more people into the
+world of being banked, rather than underbanked or unbanked.
+And so, I appreciate the hearing. And with that, Mr.
+Chairman, I yield back.
+Mr. Scott [presiding]. Thank you, Mr. McHenry.
+The gentleman from New Jersey, Mr. Gottheimer, is
+recognized now for 5 minutes.
+Mr. Gottheimer. Thank you, Mr. Chairman, and thank you to
+all of the witnesses for being here today. I appreciate it.
+Traditional information used to make lending decisions and
+establish credit scores often does not account for the 26
+million customers and consumers without a credit history or the
+19 million consumers with a short or outdated credit history to
+form a credit score, groups that are often labeled as thin file
+or credit invisible.
+Thankfully, lenders and CRAs have started using alternative
+data to make lending decisions, determine credit scores, and
+expand consumers' access to data.
+I personally believe that this is the future in the era of
+renting and Venmo and Uber, that we need to give the next
+generation of consumers the ability to build a stronger credit
+file through nontraditional data sources. That is why I am
+working on the Credit Access and Inclusion Act, legislation
+that would allow the reporting of certain alternative data like
+rent and telecom payments to consumer reporting agencies to
+help thin-file consumers build their credit scores and
+hopefully access credit.
+We also must ensure traditional credit bureaus and those
+using alternative financial service data still comply with the
+Fair Credit Reporting Act, also known as FCRA.
+Ms. Wu, if I can start with you, how can we ensure that
+alternative data sources comply with FCRA data furnishing
+requirements?
+Ms. Wu. Thank you for the question, Congressman Gottheimer.
+One of the things we need to clarify is that any time
+third-party data is used for credit decisioning, it should be
+covered by the Fair Credit Reporting Act.
+The example of Facebook, for example. Facebook may have a
+disclaimer in its website saying you are not supposed to use it
+for credit. But if they are doing it wink, wink, nudge, nudge,
+and lenders are using it for credit, it should be covered by
+the Fair Credit Reporting Act.
+And so Congress should clarify that, but I also want to say
+in the area of sandboxes, the devil is also in the details.
+Sandboxes shouldn't be a license to ignore things like the Fair
+Credit Reporting Act and the requirements for accuracy,
+predictiveness, and notices.
+Mr. Gottheimer. Thanks for your answer.
+Just a follow-up to that, what kinds of alternative
+information would you seek to use that is not already shared by
+applicants or regularly requested as part of loan applications,
+rental payments, bank statements, and, of course, under the
+Fair Credit Reporting Act?
+Ms. Wu. First of all, the most important aspect is consumer
+choice. The consumer should be allowed the option of sharing it
+or not. So if they want to share their bank account data, if
+they want to share their utility payment or rent payment data,
+they should be permitted to. But if they don't want to, if they
+want to say, hands off my data, that also should be respected.
+And then the lender should consider that in the same way they
+consider credit data.
+The other side of this equation of alternative data is, are
+the lenders actually going to use it? We have seen lenders who
+won't even upgrade to the latest FICO model, let alone use an
+alternative score. So, one of the tough parts is actually
+getting the lenders to look at it.
+And I think one of the things that this committee has done
+that is useful is passing Chairman Lynch's bill giving the CFPB
+authority to regulate the scoring models. We have heard from
+Mr. Evans that there needs to be guidance from the regulators.
+The best thing to do is have the experts at the CFPB review
+these models and ask, is this predictive, is this accurate,
+does this create disparate impact? And the bill that this
+committee passed does that.
+Mr. Gottheimer. Do you see that changing with some of the
+financial institutions? I know that many aren't considering
+other datasets. Do you see that changing? Is there a desire
+to--how is the trend line on that? What do you think would
+really spur that along?
+Ms. Wu. I think the things that will spur it along are
+things like, Fannie Mae and Freddie Mac are going to be needing
+to update their scoring models, and we have actually encouraged
+the use of pilots, limited pilots with alternative scores.
+Mr. Gottheimer. And are we seeing good news out of that?
+Are we getting more access to credit for people? I really am
+grateful for your leadership in this space, because I think it
+is very, very important that more people have access who should
+get it, who qualify for it, but just because of traditional,
+the way we have done things forever, they are not getting
+access to it, or because it is so black box that you don't know
+what is in it. And I think that lack of transparency also has a
+big impact.
+Ms. Wu. Fannie and Freddie have not adopted the new scoring
+models yet, but some of the other testing that has gone on has
+shown some promise.
+Again, the devil is in the details. We need to be careful.
+There is going to be some disparate impact. But the thing about
+the disparate impact test is, it doesn't say, okay, there are
+some racial disparities you have to stop. Are there more racial
+disparities or less? Is it predictive? Predictiveness is so key
+here. And if it is not predictive, you shouldn't be using it.
+Mr. Gottheimer. Thank you so much. I yield back.
+Mr. Scott. Thank you. The gentleman from Ohio, Mr.
+Davidson, is recognized for 5 minutes.
+Mr. Davidson. Thank you, Mr. Chairman. I thank our
+witnesses, and I thank all of my colleagues for thoughtful
+questions and good dialogue. And hopefully, this will yield
+some progress in this really important space.
+Mr. Girouard, I want to follow up where Mr. Hill left off
+when he was talking with you about how much time would this
+take and how would a sandbox work in a regulatory framework
+where we have maybe provided certainty for this path with
+legislation.
+And in your response to him, you said, well, we don't
+really need 18 months; you can know pretty quickly whether it
+is discriminatory or not; i.e., is it working? And I just want
+to pick up from there, because it seems incomplete.
+Because if you give credit to everyone at low rates or,
+say, free, it is not discriminatory; it is all free to
+everyone, whomever shows up, or it is a fixed rate for
+everyone, no matter what, it is not discriminatory.
+But if there is a massive default rate, it really doesn't
+work, right? You do care about defaults, correct? How far into
+that process could we know is it both nondiscriminatory and
+actually effective in the sense that it provides a useful tool?
+Mr. Girouard. That is a good question. It certainly varies
+based on the nature of the product. A mortgage, for example,
+plays out over many, many more years. But you do need enough
+data, you do need to understand both fairness and efficacy.
+Fairness can be sorted out fairly quickly. Efficacy takes time.
+You need to see how a loan performs.
+Mr. Davidson. Is it really fair to give money to somebody
+who has no hope of repaying it?
+Mr. Girouard. No, it is actually against everybody's best
+interest to do that. Ability to repay--
+Mr. Davidson. Efficacy is inherently linked to fairness is,
+I guess, the point. And so, I am just curious. If you look at
+probabilistic models and you look at the statistics and say,
+hey, if you have this pattern, is there a dataset that shows
+what the--95 percent certainty, 99 percent certainty, what
+range of probability of payment history in the early years,
+could you say the sandbox has produced an effective tool so
+that it is both nondiscriminatory and it is efficacious?
+Mr. Girouard. Congressman, you are asking exactly the right
+questions. The sandbox has to be defined in a way that allows
+the lender to decide if this new model works. And it won't be
+the same sandbox for every type of credit product for a variety
+of reasons--
+Mr. Davidson. Okay. That gives me concern, because there is
+no real hope to pass a law that could provide certainty. It is
+essentially like, go negotiate your own deal with a regulator.
+Mr. Girouard. With all due respect, I think rulemaking
+could absolutely define a sandbox in terms of number of loans,
+how long the sandbox can operate for, the total dollars in it.
+There is no question in my mind that a reasonable process could
+define rules that put a sandbox in place for the major areas of
+credit for consumers. That would make a significant improvement
+in the ability to see innovation in this area.
+Mr. Davidson. Yes. Thanks for your expertise, and I
+appreciate your experience in the matter.
+Mr. Rieke, your background in privacy at the FTC is
+interesting, because so much of this links on privacy. And in
+the United States, particularly in banking, with Gramm-Leach-
+Bliley, financial institutions have a carveout where they treat
+data differently.
+In a way, financial institutions, and frankly all sorts of
+institutions, if they were looking at their balance sheet, they
+might treat their dataset as a valuable asset. Consumers,
+however, don't necessarily realize that some places they are
+considered to have a property right in their data. Is it an
+asset for both?
+And as people give up this data, one of the concerns is,
+how do we reconcile the de facto impact of GDPR and the looming
+patchwork of privacy laws coming in the United States and
+Congress' failure to act on privacy with that framework so that
+consumers can control their data some and not find themselves,
+well, wait, I was denied credit. Well, yes, you blocked all
+access to your background, if you go to the far end. And on the
+other hand, the idea that, gee, if you click these terms and
+conditions, anything that is in it is fair game.
+How do we regulate privacy in this space with respect to
+credit?
+Mr. Rieke. That is a great question. I think the FCRA is a
+strong start. If you squint at the text of the FCRA, what comes
+out of that is if your data is used for important eligibility
+purposes, certain rights and protections attach.
+Now, the FCRA is pretty old now. And as Ms. Wu said, if I
+am giving permission to Facebook to hand my data over to a
+lender, it is questionable whether that framework would attach.
+But I think looking at the spirit of the FCRA, which was
+created especially for these concerns and were some expansion
+so that statute might make sense for the digital age, would be
+where I would start.
+Mr. Davidson. All right. Thank you. My time has expired and
+I yield back.
+Mr. Scott. Thank you.
+And now the gentlewoman from Virginia, Ms. Wexton, is
+recognized for 5 minutes.
+Ms. Wexton. Thank you very much.
+And thank you to the panelists for coming today. This is
+really fascinating, and you are giving us all a lot to wrap our
+heads around.
+Mr. Girouard, I am really interested in your model and
+especially the fact point--the datapoint that it reduces
+interest rates by 5.42 percentage points and approves 95
+percent more consumers in that near-prime area.
+What kind of response are you getting from lenders about
+your model? Are they enthusiastic about it?
+Mr. Girouard. By lenders, do you mean banks we partner or
+mean to partner with?
+Ms. Wexton. Yes.
+Mr. Girouard. Thank you, Congresswoman. I would generally
+say there is a lot of excitement about the potential for a
+model like this to be able to serve more customers, to be able
+to build on their side, lower the risk of lending. A more
+accurate model is intuitively compelling to a bank officer.
+Having said that, there certainly remains a lot of concern
+about regulatory uncertainty. And there is not in any sense a
+clear-eyed statement or a sense from the regulators how to
+think about this area of technology to a bank. A no-action
+letter that we received from the CFPB is a great start. It is
+not by any sense a panacea, because there are many other
+regulators. There are many limits to a no-action letter, so
+there is plenty of room for either regulatory action or
+rulemaking to provide more clarity.
+Ms. Wexton. I understand that there is some question about
+regulatory certainty. But are the lenders willing to accept
+that your model is a more accurate credit reporting model?
+Mr. Girouard. I think I can comfortably say yes. I am
+almost universally seen acknowledgment that our model is more
+accurate and more inclusive.
+Ms. Wexton. Okay. And Ms. Wu had indicated that one of the
+things that we should consider is making any of these
+alternative datapoints that are being used for credit to be
+considered as a report under the FCRA.
+Would that impact your ability to create this algorithm, or
+is that something that would not be an issue for you?
+Mr. Girouard. FCRA is to cover third-party data, data
+reported to--and then can be shared with a lender. And that is
+one part of our data. The other part, which is important to us,
+is the data that a consumer, with our consent, with their
+consent, submits to us.
+And again, that can be--if they are stating their income to
+you. That is not something generally a credit reporting agency
+has information on.
+There will always, at least in my mind, be two paths for
+data to come to a bank and a lender, one through FCRA-related
+data, through credit reporting agencies, and the other provided
+by the consumer themselves. And they are both important.
+Ms. Wexton. Okay. Thank you.
+And, Ms. Wu, you had also indicated that there should be an
+opportunity for consumers to opt out of these alternative
+datasets being used for credit purposes, is that correct?
+Ms. Wu. Thank you for the question, Congresswoman.
+I actually would urge that it would be an opt-in process,
+that any time you are creating these large new datasets,
+consumers give their written authorization to have their
+utility or their bank account information included, to be
+considered.
+Ms. Wexton. So, they would have to affirmatively opt in--
+Ms. Wu. Yes.
+Ms. Wexton. --and then get it used.
+Okay. And I guess a part of that would be a declination or
+a refusal to opt in could not be used against them, right? It
+wouldn't factor into the algorithm, but it wouldn't be down
+counted for not--
+Ms. Wu. If they already have a traditional credit file and
+score and they decline to opt in to alternative data, we would
+say the lender should go ahead and use the traditional credit
+score. If they don't opt in, then the data can't be used,
+obviously.
+Ms. Wexton. All right.
+Ms. Johnson, as a law professor, I know that you are
+familiar with the difference between de jour discrimination and
+de facto.
+Is there a way to be proactive in this space and make sure
+that we don't end up with de facto discrimination in these
+algorithms, or is it always going to be retrospective, looking
+back and seeing what the analysis provides us?
+Ms. Johnson. Thank you for the question, Congresswoman.
+I think that there is a way for us to be thoughtful in
+advance of the release of these types of products in financial
+markets.
+I think earlier, Chairman Lynch referenced the ``move fast,
+break things'' mantra that was adopted by a number of
+technology firms, and now as fintech firms are entering into
+spaces and operating, as Mr. Girouard mentioned, without clear
+regulatory guidance, there will be a temptation to use
+information or data, alternative data, to facilitate what may
+be faster, more efficient, lower-cost credit evaluation
+processes.
+We do have some knowledge in advance of the types of data
+that tends to lead to bias or discrimination, based on a long
+history of legislation and court decisions and agency actions
+in this space.
+I think one of the things we can do is really identify red
+flags and target areas. Some of the data Ms. Wu mentioned
+earlier and has been talked about over the course of this
+hearing, that it is useful and be thoughtful about would be
+rental payment history, but there are any number of reasons
+why--and Ms. Wu's organization and others have thought about--
+that information may disadvantage or utility bill payment may
+disadvantage certain--
+Mr. Scott. Ms. Johnson, the time is running out.
+Ms. Johnson. Thank you very much.
+Ms. Wexton. I yield back.
+Mr. Scott. Thank you very much.
+The gentleman from Missouri, Mr. Luetkemeyer, is now
+recognized for 5 minutes.
+Mr. Luetkemeyer. Thank you, Mr. Chairman.
+Mr. Girouard, since all banks are required to follow the
+ECOA and you partner with a lot of banks, what due diligence
+and ongoing monitoring does your company provide your bank
+partners to ensure that 100 percent certainty for those banks
+of no fair-lending violations?
+Mr. Girouard. Sure. That is a very good question. For sure,
+providing this technology to banks is not for the faint of
+heart. There is what I would say is a process of probably more
+than a year of them getting to understand and do diligence on
+our processes, fair lending being just one of many, to make
+sure that loans originated using this type of system are within
+the law. And also, of course, that the creditworthiness is
+real, the efficacy of the model is real. So, there is real,
+significant work before anything happens, before any
+relationship is signed.
+After the fact, there is a constant reporting and auditing
+like function. The same report that we provide for CFPB for all
+loans, we can do for an individual bank. And that gives the
+bank comfort that we are actually monitoring on a regular basis
+to make sure the loans originated in their name, under their
+charter, are within the bounds of fair lending regulation.
+Mr. Luetkemeyer. I would like to follow up on the previous
+colleague's questions here with regards to the no-action
+letter.
+I am assuming that because you have a no-action letter, it
+is very helpful when you go approach other banks to become
+partners with them. Because it would sort of seem like you
+are--it is a get-out-of-jail free card from the standpoint that
+you have already been sort of preapproved by CFPB, that the
+modeling you are doing is something that falls within the
+guidelines of everything.
+How important is that no-action letter whenever you start
+negotiating with the other entities?
+Mr. Girouard. It is certainly very important. And the
+reason we were willing to invest information and be as
+transparent as we were for several years with CFPB, I think, it
+is important because it demonstrates to banks that we are not a
+``move fast and break things'' company. That may be the name--
+or sort of a label you want to paint Silicon Valley startups
+with. But we are not in that class. We are a company that takes
+regulation and working transparently with regulators seriously.
+However, as I said earlier, it is absolutely not a panacea.
+They care about the FDIC, they care about the OCC, they care
+about State regulators, all of whom could decide to accept the
+CFPB's no-action letter and its conclusions or could choose not
+to. And that is why I think ultimately it is important to
+clarify regulation.
+Mr. Luetkemeyer. Why do you think more entities like you
+have not gone the no-action letter route? There are not very
+many, if any, that have done this, is that correct?
+Mr. Girouard. There is none other to date, as far as I am
+aware.
+Mr. Luetkemeyer. Why do you think that you are the only one
+that has done this? It would seem to me to give you a marketing
+advantage from the standpoint--if I am a bank and you come to
+me and you say, look, I have already had my modeling fall
+within the guidelines of the CFPB and all of the other entities
+out here that are regulating this, and I will continue to put
+these processes in place to protect the integrity of our data,
+it looks to me like you have to a win/win there. Why is there
+nobody else doing that?
+Mr. Girouard. My only conclusion I can draw from that is
+one of a few things. Number one, they are not actually using
+alternative data in a meaningful way.
+Number two, they are using it, but they have found another
+way, another path to creating comfort that they are within the
+bounds of fair lending laws.
+Or, three, they are using it, but they are not using it
+responsibly. And I don't necessarily know which of those is the
+answer.
+Mr. Luetkemeyer. Very good.
+Mr. Evans, your testimony points out that CFPB has
+developed fair lending examinations related to credit models
+and the Federal banking regulators have issued guidance to the
+depositor institutions on third-party or vendor management,
+including fintechs. However, despite this regulatory framework,
+there seems to be a disconnect between lenders and fintechs and
+the regulators that provide uncertainty in the fintechs' place.
+Can you explain this?
+Mr. Evans. Well, yes. And I think it goes back to
+ultimately the fragmented nature of the regulatory system.
+Fintechs experience uncertainty in that regard, because there
+are a number of actors in that particular space.
+CFPB's position on one thing may differ from the Federal
+Reserve or the OCC's position. And so oversight of fintech
+lending requires significant coordination. And the knowledge-
+building initiatives that I talked about in my opening
+statement would allow regulators to really understand the
+fintech products and ensure that the regulatory framework is
+adaptable and flexible.
+Mr. Luetkemeyer. Okay. Very good. I see that my time has
+expired. Thank you.
+Thank you, Mr. Chairman.
+Chairman Lynch. The Chair now recognizes the gentleman from
+Texas, Mr. Green, for 5 minutes.
+Mr. Green. Thank you, Mr. Chairman. And I thank you and the
+ranking member for hosting this hearing.
+I would also like to thank Mr. McAdams for allowing me to
+proceed at this time. In fact and in truth, it would be his
+turn, and he has allowed me to have the opportunity to proceed.
+I would like to move first, if I may, and rather
+expeditiously to Mr. Girouard.
+Sir, in the model that you currently utilize, do you
+maintain the traditional credit score and then do you add these
+other, what you are calling, alternative datapoints to the
+traditional score?
+Mr. Girouard. We do. We vary--we use FICO score. We use--
+Mr. Green. That is going to be enough, because I have a lot
+to cover. I appreciate it.
+Mr. Girouard. Okay.
+Mr. Green. Thank you. I don't mean to be rude, crude, and
+unrefined.
+Mr. Girouard. Not at all.
+Mr. Green. Okay. Thank you.
+Friends, I started with Mr. Girouard for a reason. What we
+are calling alternative data, in most circumstances--there may
+be some that I am not covering--is really additional data. It
+is additional data. My bill that I have is not about
+alternative data, alternative meaning one or another. It is
+about additional data. It is about what Mr. Girouard does when
+he takes the traditional data and then he adds what we are
+calling alternative, but it really is more data that we are
+adding. We are not leaving out the traditional scores.
+My bill does not require consumers to opt in. Consumers do
+this of their own volition. They can allow their additional
+data to be scored, and it can help a good many consumers, as
+evidenced by what Mr. Girouard has called to our attention.
+The bill is a bill that has metamorphosed. I confess that
+initially we used the term, ``alternative,'' but we soon
+realized that when people heard the term, ``alternative,'' they
+assumed that we were somehow going to negate what was already
+there as a traditional score.
+Now, understanding that we are talking about additional--we
+are talking about the utilities, we are talking about the rent,
+but we simply added to what is already there, and in doing
+this, I think we will give many consumers the opportunity to
+own a home, and to make purchases that they would not
+ordinarily be able to make.
+Those that don't opt in will not be--they won't have that
+traditional score in any way encroached upon, infringed upon.
+It won't have an impact on that. Only those who opt in.
+With that said, I want to give you an opportunity to ask me
+a question. Let's turn the tables, if you don't mind, so that
+we can become as clear as possible, perhaps perspicuously, so
+that there is a better understanding of what this bill is
+about.
+I am not going to debate persons who want to have an
+alternative credit scoring model. That is perfectly acceptable
+to me. I would only suggest that if we focus on this bill, that
+we use the term, ``additional credit scoring.''
+Questions from any member of the panel, please?
+Ms. Johnson. I have a question actually.
+Mr. Green. Thank you.
+Ms. Johnson. And Mr. Girouard may answer it, but it grows
+directly out of your question. Thank you, Congressman, for
+inviting us to ask.
+In the first instance, we have described credit invisibles
+as those who do not have a traditional credit score under the
+FICO criteria.
+To the extent that inclusion is our goal, which I think is
+bipartisan motivation for the committee and our thoughtfulness
+today--if inclusion is the goal and the idea that you propose
+is that alternative data is additional data supplementing an
+already robust methodology for analyzing consumer--the
+likelihood of consumer default or predicting creditworthiness,
+I am not sure I follow how credit invisibles are actually
+captured if the data that is being used is not the primary
+source of evaluation.
+Mr. Green. If I may answer, because there are only 32
+seconds left.
+You could be a great Member of Congress, by the way, with
+your question.
+Here is how they are captured. Because they can opt in. And
+if they have nothing more, that will be there, plus the
+nothing, plus the something. I hate to be so elemental with the
+explanation. But what I want to do is make it as clear as
+possible that what we are doing is leaving the traditional,
+whatever it happens to be, and then we bring these additional
+points of data to the scoring process.
+Now, given that my time is almost up, and by some standards
+up, I see--
+Mr. Scott. Will the gentleman yield for a moment?
+Mr. Green. I will yield and beg that the Chair would not
+look at the clock, if you will, please.
+Mr. Scott. Okay. Very quickly, I think another part of
+this--
+Chairman Lynch. The gentleman will suspend. We can't be
+doing this. You are over. If the gentleman wants to conclude
+his thought, he can, but--
+Mr. Green. I can't yield?
+Chairman Lynch. The gentleman's time has expired. I'm
+sorry.
+The Chair now recognizes the gentleman from Ohio, Mr.
+Gonzalez, for 5 minutes.
+Mr. Gonzalez of Ohio. Thank you, Mr. Chairman, and Ranking
+Member Hill for holding this hearing today, and thank you to
+our witnesses. I believe this area is an incredible opportunity
+to explore how new technologies can be deployed to allow more
+Americans to gain access to credit. That is sort of the promise
+or the hope, anyway, of the machine-learning technology.
+And I share the sentiment that Ms. Johnson just raised,
+which is the goal is to expand credit to as many Americans as
+possible.
+Mr. Girouard, I want to focus on your company specifically
+in the context of the sandbox. And so, we will go there.
+Bear with me for a second. You were founded in 2012,
+according to Crunchbase anyway, and have raised, I think it was
+$144 million in total funding.
+At what point did you start working with the CFPB directly
+in the funding stream?
+Mr. Girouard. I believe our first meeting with the CFPB was
+either in 2012 or 2013, about that time.
+Mr. Gonzalez of Ohio. Okay. So really, from the beginning,
+this was a concerted effort and a decision on your part?
+Mr. Girouard. That is correct.
+Mr. Gonzalez of Ohio. Okay. How big was the A, if you are--
+I don't know if you are allowed to share that, but--
+Mr. Girouard. I'm sorry?
+Mr. Gonzalez of Ohio. How big was the series A run,
+roughly? I will tell you where I am going so you can maybe
+answer this.
+I want you to talk about the benefits of the sandbox in
+terms of allowing for more startups to enter this space.
+Because you talked about the big banks potentially being able
+to get into it. But I want to see more innovation. You guys
+have an incredible team. I was on your site, a bunch of ex-
+Googlers and very smart folks. I know there are plenty of folks
+in Silicon Valley who would love to get into this space.
+How would the sandbox enable that?
+Mr. Girouard. The sandbox brings some clarity, which tends
+to make the money flow in terms of these companies, first of
+all, more entrepreneurs wanting to enter this space. When you
+have a very highly regulated area with a lot of confusion, most
+entrepreneurs will opt for something else.
+If you want more entrepreneurial effort in this area,
+bringing clarity will bring both the interest of the
+entrepreneurs and the money from the investors, and that will
+create companies that are going to make a difference over time.
+Mr. Gonzalez of Ohio. So, one of the benefits of the
+sandbox is not just that it gives Wells Fargo a chance, but
+that it gives the next group of startups a chance as well?
+Mr. Girouard. Without question.
+Mr. Gonzalez of Ohio. Great. And then I want to shift to
+some of the data privacy laws that you have kind of alluded to
+as well.
+California's privacy law is going to be coming into effect.
+And we hear a lot throughout the industry about the problems
+that is going to create.
+Can you comment on how you see it affecting your business
+specifically and AI in general?
+Mr. Girouard. Sure. I believe there are real issues related
+to privacy and large technology companies that need to be
+addressed, and I know are being addressed. And I am very
+appreciative of our home State, California, taking the lead on
+this.
+We are, of course, already preparing, reviewing, and
+planning to adapt our practices, our product, to the California
+law. What I would just generally add, of course, is a business
+like ours operates at a national level, so it would certainly
+be a step forward for us to have something of that sort, sort
+of managed at a Federal level more than at a State level. But
+having said that, we appreciate that is not the way the world
+works, and we will adapt to California's law.
+Mr. Gonzalez of Ohio. Yes. I think one of my concerns--and,
+again, that I keep hearing is when you have this patchwork of
+50 different State laws and you want to operate all over the
+country, as does everybody, you are creating--not you--but
+California has created a bit of chaos. And I know one thing
+this committee is committed to is to solving that, which I am
+excited about.
+And then I guess kind of with my last question, as we are
+thinking through what that national standard should be, what is
+it about what the California law that you like, and what is it
+that you think should be changed or different?
+If you are not comfortable answering, that is fine.
+Mr. Girouard. I am not sure I am comfortable enough to try
+to state that here. Thank you.
+Mr. Gonzalez of Ohio. Okay. Thanks. With that, I yield
+back. Thanks.
+Chairman Lynch. The gentleman yields back.
+The Chair now recognizes the gentleman from Utah, Mr.
+McAdams, for 5 minutes.
+Mr. McAdams. Thank you, Mr. Chairman.
+I want to thank the panelists for being here today. And I
+care deeply about expanding financial inclusion. But I want to
+make sure we are supporting an environment where all Americans
+can access credit.
+I do know that credit decisions can mean the difference
+between a family qualifying for a home or a loan to buy a car
+and the incredible life consequences that those decisions have
+for each and every potential borrower.
+We need to have appropriate consumer protections, and
+consumer protections shouldn't be ignored while we get the dial
+right to maximize the benefits while minimizing any potential
+negative impacts.
+But I want to zero in on that balance, the potential
+benefits and the potential harm or questions that are raised
+from the use of alternative data.
+First, speaking towards the benefits, we have heard
+testimony today that these alternative data factors are giving
+lawmakers more confidence in who they can responsibly lend to,
+meaning more consumers have access to credit, ideally at
+competitive rates.
+My first question is to you, Mr. Girouard. What percentage
+of your loan portfolio would you estimate that your company can
+make loans to because of the inclusion of alternative data
+sources?
+Or stated another way, if you were only allowed to use
+traditional data sources, what percentage of your customers
+would you not be able to lend to because you couldn't assess
+their creditworthiness?
+Mr. Girouard. Thank you, Congressman. That is a great
+question.
+That is exactly the data that I presented in my up-front
+statements. What the CFPB asked us to do is to look at our
+model, if we removed all what you might call alternative data
+and used only traditional data.
+The difference is, among the general population, we
+described as--and this is among people who have applied for
+loans at Upstart--is about 27 percent. More people are approved
+because of the alternative data. But importantly, when you look
+at the near-prime segment, which is people with somewhat lower
+FICO scores, it is a 95 percent increase in approvals.
+So, it is a very significant difference in improvement on
+who we can approve due to the alternative data that we include.
+Mr. McAdams. Thank you. And further on that point, some
+alternative data factors are now being used to include--or
+maybe not furthering the point--but in a different direction.
+Some of those alternative data factors are now being used to
+include online behavioral data such as online shopping habits,
+and social network connections.
+My next question is for Mr. Rieke. I believe you made this
+distinction in your testimony between the types of datapoints
+and the conventional alternative data.
+Out of curiosity, how much of these alternative data
+sources are moving the needle on a credit score? And I am not
+referring to alternative data such as bill payments, or online
+utility payments, of which I think most Americans would
+intuitively understand why that could be included in this
+credit score. But the online shopping habits, social network
+usage, how much does that affect an individual's data score?
+Are we talking 5 points of credit? One point? Fifty points?
+And for someone who has a thin credit file, how much are these
+factors weighted compared to traditional data factors?
+Mr. Rieke. The short answer is, we don't know. Most of the
+fringe alternative data that has to do with social media and
+shopping habits and web behavior, there is a lot more hype than
+reality, in terms of what I have been able to ascertain in our
+research. There are a lot of start-up companies making some
+pretty strong claims to the media, and then maybe once they
+hire a lawyer kind of backing off of those or starting to
+practice overseas.
+And so there is some academic research studies that showed
+web signals like what website you come from, whether you are
+using an iPhone or Android phone, can really help kind of
+narrow in on what kind of person you are, mostly because those
+are proxies for wealth.
+But in terms of the real science and research around the
+predictiveness of fringe alternative data, it is really hard to
+say, because companies hold that data close, and I think there
+is a lot less of that really happening in the United States
+today because of issues with the ECOA.
+Mr. McAdams. Do consumers understand what information on
+them is being collected and used in their credit decisions, and
+are there industry standard practices on disclosure?
+Mr. Rieke. I am not aware of any kind of formal industry
+standard best practices. There are some private businesses,
+like Credit Karma, that do, in my view, a pretty good job of
+showing the basic FICO score factors and helping people make
+sense of that. I have seen nothing resembling that for more
+complex or fringe datasets.
+Mr. McAdams. Ms. Wu?
+Ms. Wu. If I may address that, Congressman, the Fair Credit
+Reporting Act and the Equal Credit Opportunity Act do require
+that if someone is turned down or priced higher for credit, a
+notice goes out explaining what the reasons were. That is
+really, really important because of the impact these decisions
+have on people's lives.
+One of my concerns is with machine-learning and AI, where
+the machine itself is determining what factors to use. How do
+you make sure consumers have adequate information about what is
+going on inside the black box?
+The other thing that I wanted to quickly mention is another
+type of nonfinancial data that is being used, and Upstart is
+using, which is education. And I worry about the impact of
+using education as a form of alternative data. Because we know
+of the great inequality and racial disparities in terms of what
+kind of degrees people get.
+Mr. McAdams. Thank you, Ms. Wu.
+My hope would be that we can use this data to not only
+expand access to credit for more individuals but it can also be
+used as a form of improving financial literacy, if individuals
+know what data is being used and what things they might do as
+individuals to move the needle as well. And hopefully, that
+doesn't include unfriending their friends on Facebook.
+Thank you. And I yield back.
+Chairman Lynch. I thank the gentleman.
+The gentleman from Florida, Mr. Lawson, is now recognized
+for 5 minutes.
+Mr. Lawson. Thank you, Mr. Chairman.
+And I welcome the witnesses to the committee.
+You might have already responded on this particular issue,
+but it is important to me. As most of you know, credit reports
+do not tell the full story of one's economic status. As a
+matter of fact, they could have a false narrative, depending on
+the circumstances.
+It is estimated that the use of alternative data such as
+utility payments, rent payments, cellphone payments, and other
+forms could expand access to credit to over 40 million
+consumers here in the United States.
+Can everyday payments such as rent payments or cellphone
+payments paint a more accurate picture of someone's ability to
+pay? Are we headed in the right direction by saying that this
+would be a true picture of the individual's ability to get
+credit?
+And everyone--all of you, if you care to respond to that,
+it would be great. I would just like to know--and you might
+have already talked about it. But this is talked about all over
+the place, especially in Florida, where we have a high
+concentration of students in my district, about 80,000 or
+90,000 of them.
+So, I am anxious to know what your statement is going to
+be. And will I tell you, the reason being is when I was coming
+out of college, I was given all of these credit cards, Exxon,
+all of them, and so I started using them. And because the
+invoices, I guess, were going to the dormitory where I used to
+live, nobody forwarded them to me.
+When I got ready to try to get a loan or do some other
+thing, it came up. And it had been over 1 year or 2 years or
+so. And I just thought maybe, because I had graduated from
+school, they just gave me free credit. I didn't know. And that
+is one of the things that affects a lot of students, because
+they move around to different places.
+That is the reason I wanted to bring that question up and
+have all of you respond to it.
+Ms. Wu. Congressman, that is a great point. And you are
+absolutely right. Traditional credit scores and credit reports
+often don't reflect the true financial behavior of a consumer,
+precisely because of things like your experience or the fact
+that there are a lot of negative marks for things like medical
+debt, where people got sick and debts were sent to debt
+collectors.
+And we know that even among people with a subprime score,
+most of them, if you give them credit, will pay it back.
+Something like 80 percent of consumers who score a 600 will pay
+it back.
+So, alternative data could be useful, especially things
+like bank account data or rent, and if people choose, if
+consumers want to supply their utility and cellphone payments.
+Again, the devil is in the details; how you do it is important.
+Second-chance scores are better than putting this information
+in the traditional credit reports.
+We are concerned about factors that lead to more inequality
+or reflect inequality. As Mr. Rieke said, using geographic
+neighborhood or using what kind of degree you have, because we
+know that over 36 percent of non-Hispanic whites have a college
+degree, but less than 16 percent of Hispanics and 23 percent of
+African Americans do. So, if you use whether or not a consumer
+has a college degree, it is going to have some stark racial
+disparities.
+Mr. Rieke. Congressman, I want to just say I think the
+question of ability to repay is a really good target for this.
+We are talking about expanding access to credit, but we are not
+doing anyone any favors by giving them predatory products or
+too many credit products. That can destroy lives.
+So, I think ability to repay is a really important nexus
+between this question of alternative data and what are we
+trying to find out, but also a pretty strong consumer
+protection standard.
+Ms. Johnson. And I would just echo the earlier reflections.
+Thank you, Congressman, for this very important question about
+a really important demographic: students.
+We know from the New York Federal Reserve that households
+face $13 trillion in debt as of the end of the year, fourth
+quarter 2018, and $1.5 trillion in student debt.
+Student debt for a particular population, and most recently
+graduated generations of students, is staggering and crippling.
+And unlike past generations, these students are moving out of
+their parents' houses later, and they are having extended job
+searches.
+So, the predatory credit card tactics, the idea of drawing
+them into spaces where their credit histories will be marred,
+or they won't have credit histories at all because of how long
+it is taking them to dig themselves out of educational debt,
+really does prompt a need, a very significant need for
+alternative mechanisms, pathways for them to gain access to
+credit.
+I think we are all just thoughtful about how to do that in
+a way that is effective for consumers, protects their privacy,
+and is thoughtful about discrimination.
+Mr. Lawson. Mr. Chairman, I know I am out of time, so I
+yield back.
+Chairman Lynch. I thank the gentleman.
+We have agreed to just do one more brief round of
+questioning, so I yield myself 5 minutes for questioning.
+In our discussions with Facebook, in an effort to try to
+get some accountability on the protection of personal financial
+data, the issue of assigning fiduciary responsibility for the
+handling of information was suggested. And I would say that the
+response from Facebook was evasive, to be generous.
+What about that concept that there would be liability for
+mishandling the financial data that we surrender to fintech
+companies? Is that something that is workable, do you think,
+Ms. Wu?
+Ms. Wu. I thank you for the question, Chairman Lynch. I
+think that whether you call it a fiduciary duty, or you have
+legal duties or legal accountability for losing someone's data,
+there should be a regulatory scheme in place that holds Big
+Data companies, whether they be credit bureaus or Facebook, to
+accountability for losing sensitive personal information and
+data.
+Chairman Lynch. Yes. I guess I should just put a finer
+point on that.
+When I say ``fiduciary'', I mean in the classic financial
+services sense where a fiduciary is required to handle that
+information in the best interest of the customer, and not sell
+it or deploy it for other purposes. That is what I am getting
+at.
+I am trying to make sure what happens with personal
+financial data is not what happened with general data that is
+being vacuumed up and used and deployed without the knowledge
+or consent, meaningful consent, of individual consumers. That
+is what I am trying to get at.
+Ms. Johnson?
+Ms. Johnson. Yes. I'd just say thank you, Congressman.
+We have examples and models of how to protect financial
+transaction data that exist in current regulation. The Gramm-
+Leach-Bliley Act, for example, specifically requires that
+financial institutions disseminate initial and annual privacy
+notices to customers regarding financial transactions. The
+provision of the Gramm-Leach-Bliley Act that I am describing
+enables consumers to specifically opt out in certain instances
+of other uses of financial data.
+It also requires financial institutions to anonymize data,
+essentially to the extent that they use data for other
+purposes, to aggregate the data and ensure that the data is
+anonymous and not directly reflective or you couldn't easily
+discern that it refers to a particular consumer based on the
+profile.
+Now, I will say that data scientists at Princeton and
+Stanford recently published a study illustrating that they
+could successfully decode, if you will, anonymized data and
+establish users' identities based on social networking
+profiles. The idea that this could happen is obviously
+concerning and gives us pause.
+But I do think that we have some examples in existing
+legislation and regulation that could offer a point of
+departure for having a conversation about how to create
+accountability, responsibility, and transparency for anyone
+who--or entities who are gathering, storing, and distributing
+personal consumer financial information.
+Chairman Lynch. Great. Let me just jump over to Mr.
+Girouard. I pulled up Upstart's terms of service agreement. And
+it is a lot shorter than Facebook's. Thank you very much. It is
+about 8 pages.
+But there is one section in here on limitation of
+liability. And it says the customer--``you agree that all
+access and use of the site and its contents and your use of the
+products and services is at your own risk.''
+In no event shall we or any lender be held liable for any
+damages, including direct or indirect, special, incidental or
+consequential damages, losses or expenses arising in connection
+with the site or any linked site or use thereof or inability to
+use by any party or in connection, or for failure of
+performance, error, omission, interruption, defect, delay in
+operation, transmission, computer viruses, et cetera.'' It is
+very, very broad.
+And this is one of those things where you have to click,
+``I agree.'' And either you agree to all of this or you don't
+use the site, you don't use Upstart.
+Is that fair to the consumer, do you think?
+Mr. Girouard. Chairman Lynch, I certainly wish we had a
+better option. But it is a complicated world. And certainly a
+business needs to protect its interests.
+Somebody could say the internet crashes and I was in the
+middle of getting a loan, and that just cost me my ability to
+buy a home or do something else.
+Chairman Lynch. This basically shuts off the consumer from
+any recovery at all under any circumstances. I understand cases
+like that where the technology breaks down, you could say in
+that case, we don't accept any liability.
+But in the terms of this, it is airtight where, you
+basically block off any type of accountability; you are beyond
+reach by this agreement. This is the type of thing I worry
+about.
+And I just--
+Mr. Girouard. It is a fair concern. I genuinely believe we
+have the highest consumer ratings we have ever found in our
+industry in terms of our respect and the way we treat customers
+or prospective customers.
+Chairman Lynch. I appreciate that. I am just concerned that
+no one has any recourse based on the terms of this agreement.
+With that, I yield to my friend, the gentleman from
+Arkansas, for 5 minutes.
+Mr. Hill. Thank you, Mr. Chairman.
+Just following up on that, Mr. Girouard, that particular
+thing he read, which obviously we haven't read, but I admired
+him in real-time going to your website--and it is a thing of
+beauty. And that is the difference between the House and the
+Senate, Ms. Johnson. You seem rather concerned about our
+technological capabilities here.
+That is really talking about your--the connectivity between
+the customers and you, isn't it, protecting you from liability,
+from the internet or from the website or the connection? Isn't
+that what that is mostly addressing?
+Mr. Girouard. Certainly. Any commercial agreement between a
+consumer and a business has to have reasonable protections in
+it. I am not an attorney, let me just admit that. So, for me to
+say what is an appropriate limitation of liability is not
+something I am probably equipped to speak about today.
+Mr. Hill. But we appreciate that. And that is something
+that we all deal with in any kind of commercial transaction.
+And I think it is made worse sometimes over the internet,
+because you don't have any kind of face-to-face explanation and
+it is a little bit more passive. But I think making sure
+consumers know what they are getting into is important.
+Mr. Evans, I wanted to ask you. I read your testimony--
+thanks for it--about this harmonization between the regulatory
+agencies. You have urged them to adopt a harmonized approach to
+guidance under use of alternative data and also on the sandbox
+issue.
+Did they give you a timeframe when they would have a
+harmonized view on that?
+Mr. Evans. They did not. They all agreed with the
+recommendation and appreciated the spirit of it.
+Mr. Hill. Right. I think that is something we have all
+talked about here. We will be certainly pressing them for this
+more unified approach on vendor due diligence and an IT exam,
+guidance on what is an appropriate bank risk profile in this
+arena, how to do the board review of vendor due diligence. All
+of this is important.
+Mr. Evans, did you, in your work on this, see any reason to
+make statutory changes to the Fair Credit Reporting Act or the
+Equal Credit Opportunity Act?
+Mr. Evans. There are certainly some issues. The scope of
+the work didn't allow us to rigorously collect all the evidence
+for us to provide a conclusion on that, but for sure, the
+complexity of some of the algorithms could limit the type of
+information that a company is able to provide if they were to
+deny credit to an individual.
+Mr. Hill. Yes. I read the reliability of data point in your
+testimony, and we have talked about that with other witnesses
+at previous panels, with just asking the simple question, using
+an AI-based model, a machine-learning model, that uses
+additional data, just as Mr. Girouard has described, we have
+asked the question, is it auditable? And in the instances that
+we have had, the answer has been consistently yes. And the
+evidence of that is not hypothetical because the loans
+originated are subject to a fair lending exam by a commercial
+bank or portfolio buyer. And then, of course, in Mr. Girouard's
+case, they are also auditable by the CFPB's analysis of this
+data. So, as long as a commercial bank is a partner in it, from
+my point of view, that seems like the disparate impact test,
+the HMDA test if it would be a mortgage, or fair lending, or
+equal opportunity type assessments would be made. Is that
+generally your view from the work that you did? While you may
+have found six industry stakeholders who you had concerns
+about, it is doable to validate a model and have an audit trail
+as to how the determination was made, isn't it?
+Mr. Evans. In the models that we considered, I would say
+yes, but I would say our work was limited to the fintech
+companies we actually talked to. There could be classes of
+models that--
+Mr. Hill. Yes, but the obligation is on that user, that
+innovator, whether it is a bank partner or a fintech nonbank
+partner, to demonstrate that they comply with all the
+compliance obligations of the Federal Government.
+Mr. Girouard, you have said already, it is auditable, and
+the CFPB audits it, and then your bank partner audits it. That
+is correct, right, you can validate your model and backtrack
+it?
+Mr. Girouard. That is correct.
+Mr. Hill. And one question that didn't come up today--I
+didn't hear it--is back-testing. We have had the most ideal
+circumstances of the past 11 years, thanks to the unbelievable
+policies of our Federal Reserve, so that we have a very benign
+interest rate environment, we have rising real wages, we have a
+rising economy. What about back-testing your $4 billion you
+have originated? Looking back under more adverse credit
+circumstances, what have you learned?
+Mr. Girouard. Sure. That is a valid concern, and certainly
+any lender, to earn its stripes, really needs to perform
+through an economic cycle. First, we test the best we can by
+simulating higher unemployment. So, there are ways we can
+simulate higher unemployment and look at the impact we expect
+it to have on our loan portfolio.
+Second, because there actually are recessions, what I might
+call microrecessions in parts of the country, small parts of
+the country, we can actually look at loan performance in those
+particular areas. It is not a perfect proxy, but it is a way to
+understand how our loans would perform in a weaker economy.
+Mr. Hill. I thank the panel, and I yield back, Mr.
+Chairman.
+Chairman Lynch. The gentleman yields back.
+The Chair now recognizes the gentleman from Georgia, Mr.
+Scott, for 5 minutes.
+Mr. Scott. Yes, Mr. Lynch, this has indeed been a very,
+very informative hearing, and our panelists are well-prepared
+and very informative. Thank you for this. As I said in my
+opening statement, we are at a new frontier here, and it is an
+exciting frontier. But let's go back to the alternative data
+because I think that is really the fundamental foundation of
+this hearing.
+Now, there are different kinds of alternative data that I
+am hearing. So, you may say a utility bill, or you may say your
+online habits, or you may say your educational attainment. Tell
+me, how does a lender weigh these? Would they give more
+preference to your educational attainment? Does that have the
+same weight as your utility bill? How is it used by lenders
+when they are making these underwriting decisions? Let me start
+with you, Ms. Wu--or is there anybody who has an immediate
+answer to this? Or if we don't have an answer to it, don't you
+think we should?
+Mr. Girouard. I am glad to answer, Congressman, as one who
+does exactly what you are asking about. Traditional lending
+systems are what you might describe as rules-based. Okay? A
+series of, if the person's FICO is between this and that, if
+their income is between this and that, here is what we can
+offer them. That is what you might call a rules-based system.
+These newer models, what are sometimes termed machine-learning
+or AI, are far more sophisticated than that. What they really
+do is they look at the history of loans and the data that has
+come in about those loans, and it learns about how each of
+those factors actually impacted the performance of the loans.
+So, it is not a human sitting there trying to evaluate whether
+education or FICO or something else is more predictive. The
+software will learn over time what is the best combination of
+that information, that will be the most accurate model.
+The goal of a company like Upstart is to build a more
+accurate model, which tends to lead to higher approval rates,
+and we do that by relying on the software to do things that
+humans can't realistically do, which is to consider not two or
+three variables, but hundreds or maybe even a thousand
+variables, and that results in a more accurate credit model.
+And, fortunately, it also results in one that approves more
+people at lower rates.
+Mr. Scott. So, you are saying that the machine has a more
+accurate ability to give a certain alternative data more weight
+over the other? I guess what I am asking is, is there more
+benefit for one type of alternative data to be helpful to the
+unbanked or underbanked? There is a variety of things. Maybe
+also added in there, did he serve in the service? What was his
+rank? Was she a schoolteacher? What was the caliber of her
+employment structure? Do you see what I am saying? There seems
+to me that if we just put all this up to the machine, I am not
+sure it is giving it--there ought to be some weight here.
+Ms. Wu. That is a great point, Congressman Scott, and
+something I am concerned about. Because data that kind of looks
+like credit, as Mr. Rieke said, rent or bank account or utility
+bills, everybody, if they have a good history, can benefit from
+that. But if you are talking about things like education, how
+many college grads really are credit invisible? Are we really
+expanding access to credit if we say, we will give you a higher
+score if you graduate from college, especially if you graduate
+from an elite institution?
+Mr. Scott. Right.
+Ms. Wu. And then, in terms of machine-learning, one thing I
+want to add is, yes, it might be up to the lender to give that
+weight, but the lender has to be able to explain it. And if all
+this data is going into a big black box and the machine is
+deciding what is more important or not, you have to be able to
+put it on a piece of paper and explain to the consumer what was
+more important. The law requires it, because we need
+transparency in lending.
+Mr. Scott. Yes. Thank you, Mr. Chairman. Great panel.
+Mr. Evans. And so there is--I'm sorry.
+Chairman Lynch. If you can be quick, Mr. Evans.
+Mr. Evans. There is an important tradeoff to think about:
+transparency versus predictability. And that is something we
+have to grapple with and it is something about which the
+regulators can offer guidance.
+Chairman Lynch. Thank you very much. I appreciate that.
+The Chair now recognizes the gentleman from Florida, Mr.
+Lawson, for 5 minutes.
+Mr. Lawson. Thank you.
+Mr. Hill. Mr. Chairman, I need to just, I think, politely
+object. I thought we were going to do just ourselves for a
+final round of questioning, and I have no more Members here.
+And so, with all due respect to my friends, that is not really
+what we agreed to, so--
+Chairman Lynch. Okay. I understand the gentleman is short
+on time, and I totally respect him, but when I asked for a
+second round, I meant a second round for the Members.
+Mr. Hill. But you said a second round for the two of us,
+sir.
+Chairman Lynch. Sir, I was not aware that that is the way
+you understood that.
+Mr. Hill. That is the way you said it, and that is the way
+I understood it.
+Chairman Lynch. Perhaps I meant the two of us, meaning the
+two sides. I know the gentleman had no other--
+Mr. Hill. We have no other Members, so I think just in
+fairness under the rules, with the deference of Mr. Scott being
+the last questioner, that would be appreciated.
+Chairman Lynch. The gentleman, Mr. Green, has yielded and--
+Mr. Lawson. I yield back.
+Chairman Lynch. --the gentleman, Mr. Lawson, agrees as
+well?
+Mr. Lawson. Yes.
+Chairman Lynch. Okay.
+Without objection, the Chair moves to include in the record
+of this hearing a letter from the Cato Institute, Center for
+Monetary and Financial Alternatives, dated July 24, 2019; a
+letter from the Financial Data and Technology Association,
+dated July 23, 2019; and also an article from the Student
+Borrower Protection Center, entitled, ``Educational Redlining:
+The Use of Educational Data in Underwriting.'' Without
+objection, it is so ordered.
+I would like to thank our witnesses for their testimony
+today.
+The Chair notes that some Members may have additional
+questions for this panel, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+This hearing is now adjourned.
+[Whereupon, at 12:12 p.m., the hearing was adjourned.]
+A P P E N D I X
+July 25, 2019
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

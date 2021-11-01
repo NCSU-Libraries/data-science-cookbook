@@ -1,0 +1,3389 @@
+- EXPLORING THE CRYPTOCURRENCY AND BLOCKCHAIN ECOSYSTEM
+[Senate Hearing 115-453]
+[From the U.S. Government Publishing Office]
+S. Hrg. 115-453
+EXPLORING THE CRYPTOCURRENCY AND BLOCKCHAIN ECOSYSTEM
+=======================================================================
+HEARING
+BEFORE THE
+COMMITTEE ON
+BANKING,HOUSING,AND URBAN AFFAIRS
+UNITED STATES SENATE
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+ON
+EXPLORING THE OPPORTUNITIES AND CHALLENGES SURROUNDING THE
+CRYPTOCURRENCY AND BLOCKCHAIN ECOSYSTEM
+__________
+OCTOBER 11, 2018
+__________
+Printed for the use of the Committee on Banking, Housing, and Urban
+Affairs
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Available at: https: //www.govinfo.gov/
+___________
+U.S. GOVERNMENT PUBLISHING OFFICE
+34-525 PDF
+WASHINGTON : 2020
+COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS
+MIKE CRAPO, Idaho, Chairman
+RICHARD C. SHELBY, Alabama
+SHERROD BROWN, Ohio
+BOB CORKER, Tennessee
+JACK REED, Rhode Island
+PATRICK J. TOOMEY, Pennsylvania
+ROBERT MENENDEZ, New Jersey
+DEAN HELLER, Nevada
+JON TESTER, Montana
+TIM SCOTT, South Carolina
+MARK R. WARNER, Virginia
+BEN SASSE, Nebraska
+ELIZABETH WARREN, Massachusetts
+TOM COTTON, Arkansas
+HEIDI HEITKAMP, North Dakota
+MIKE ROUNDS, South Dakota
+JOE DONNELLY, Indiana
+DAVID PERDUE, Georgia
+BRIAN SCHATZ, Hawaii
+THOM TILLIS, North Carolina
+CHRIS VAN HOLLEN, Maryland
+JOHN KENNEDY, Louisiana
+CATHERINE CORTEZ MASTO, Nevada
+JERRY MORAN, Kansas
+DOUG JONES, Alabama
+Gregg Richard, Staff Director
+Mark Powden, Democratic Staff Director
+Jonathan Gould, Chief Counsel
+Kristine Johnson, Economist
+Laura Swanson, Democratic Deputy Staff Director
+Elisha Tuku, Democratic Chief Counsel
+Corey Frayer, Democratic Professional Staff Member
+Dawn Ratliff, Chief Clerk
+Cameron Ricker, Deputy Clerk
+Shelvin Simmons, IT Director
+James Guiliano, Hearing Clerk
+Jim Crowell, Editor
+(ii)
+C O N T E N T S
+----------
+THURSDAY, OCTOBER 11, 2018
+Page
+Opening statement of Chairman Crapo..............................
+1
+Prepared statement...........................................
+21
+Opening statements, comments, or prepared statements of:
+Senator Brown................................................
+2
+Prepared statement.......................................
+21
+WITNESSES
+Nouriel Roubini, Ph.D., Professor of Economics, Stern School of
+Business, New York University..................................
+3
+Prepared statement...........................................
+22
+Peter Van Valkenburgh, Director of Research, Coin Center.........
+5
+Prepared statement...........................................
+36
+Responses to written questions of:
+Senator Heller...........................................
+103
+Senator Sasse............................................
+103
+Senator Cotton...........................................
+108
+Senator Reed.............................................
+112
+Senator Warner...........................................
+113
+Senator Cortez Masto.....................................
+117
+Additional Material Supplied for the Record
+Letters to the Committee submitted by Chairman Crapo and Senator
+Brown..........................................................
+121
+(iii)
+EXPLORING THE CRYPTOCURRENCY AND BLOCKCHAIN ECOSYSTEM
+----------
+THURSDAY, OCTOBER 11, 2018
+U.S. Senate,
+Committee on Banking, Housing, and Urban Affairs,
+Washington, DC.
+The Committee met at 10:01 a.m., in room SD-538, Dirksen
+Senate Office Building, Hon. Mike Crapo, Chairman of the
+Committee, presiding.
+OPENING STATEMENT OF CHAIRMAN MIKE CRAPO
+Chairman Crapo. This hearing will come to order.
+Today the Committee will continue its exploration of the
+opportunities and challenges surrounding the cryptocurrency and
+blockchain ecosystem.
+Prior to the introduction of Bitcoin and underlying
+blockchain ledger in 2009, there was no similar solution to the
+double-spend problem--where the same digital currency could be
+spent more than once--which did not require a third-party
+intermediary.
+While Bitcoin, the first decentralized cryptocurrency, has
+been around for nearly a decade now, cryptocurrencies have
+gained particular attention in the past 2 years, due in part to
+their meteoric rise and subsequent fall in value last year.
+Advancements since Bitcoin's creation have expanded
+blockchain's uses and given way to things like ``Initial Coin
+Offerings,'' a method of crowdfunding that has become popular
+in the cryptocurrency community.
+While the technologies underpinning cryptocurrencies have
+the ability to transform the composition of, and ability to
+access, capital and the financial system, much of the recent
+news about cryptocurrencies has been negative, focusing on
+enforcement actions, hacks on international exchanges, and
+concerns raised by various regulators and market participants.
+To that end, in February of this year, the Committee held a
+hearing with the SEC and CFTC to examine their oversight roles
+of cryptocurrency-related products and activities under their
+respective jurisdictions.
+Since that hearing, the agencies have made strides to
+provide further clarification on their thinking surrounding
+cryptocurrency-related issues. But some regulatory and
+oversight questions still remain.
+The regulatory questions, price volatility, and reports of
+things like pump-and-dump schemes have raised a lot of
+questions
+surrounding the cryptocurrency and blockchain ecosystem that
+need to be better understood.
+Blockchain networks have the potential to improve processes
+for things like smart contracts, payments and settlement,
+identity management, and even things yet undiscovered.
+In order to move forward in a productive way and give these
+innovations the room to flourish and develop in a safe and
+sound way, we need to sort through the static and better
+understand what exactly are the opportunities and challenges
+facing this ecosystem.
+For example, the Committee would benefit to hear about: the
+use of cryptocurrencies and derivative products as a store of
+value or medium of exchange or payment; the current and
+potential applications of blockchain technology; and the
+regulatory issues surrounding the various facets of the
+ecosystem and how they can be improved.
+I look forward to hearing about this and other issues from
+our witnesses today.
+Senator Brown.
+OPENING STATEMENT OF SENATOR SHERROD BROWN
+Senator Brown. Thank you, Chairman Crapo, for holding this
+hearing. And thanks to the two witnesses. Mr. Van Valkenburgh,
+welcome, and, Dr. Roubini, welcome to the Committee.
+Today's hearing happens to fall just shy of the tenth
+anniversary of Bitcoin and the blockchain being introduced to
+the world--October 31, 2008. We were in the midst of a global
+financial crisis. You cannot blame some Americans for hoping
+that an alternative banking system could be created that would
+be superior to the one in shambles at that time.
+Bitcoin, and other cryptocurrencies like it, promised to
+make payments faster and easier and cheaper, and to eliminate
+our reliance on risky financial institutions whose failures
+harmed workers and families in all of our communities.
+The last 10 years, unfortunately, have shown that
+misconduct, fraudulent investment schemes, and cybersecurity
+threats are not unique to the traditional financial system.
+When a cryptocurrency goes bust or a poorly supervised exchange
+fails, it is often hardworking Americans left holding the bag.
+We want to see innovations in the financial system,
+innovations that help Americans keep more of their money by
+avoiding fees or that make it easier to borrow for a small
+business startup.
+But so far, despite all the energy and investment dedicated
+to finding a use for the blockchain, there are few real-world
+applications and an alarming number of scams.
+Cryptocurrency prices have swung wildly over the last year.
+Inexperienced investors who were hoping to get in on the next
+big financial innovation have seen the value of these
+investments fall by more than 75 percent from their peak.
+Though they have raised billions of dollars from investors,
+few if any Initial Coin Offerings (ICOs) have registered with
+the SEC. Chair Clayton told this Committee in a February
+hearing, ``Every Initial Coin Offering I have seen is a
+security.''
+Last month, the New York Attorney General released a report
+on several cryptocurrency trading platforms that pointed to
+evidence of widespread manipulation and identified several
+exchanges that do not follow ``anti-money-laundering'' or
+``know your customer'' requirements.
+With a decade of experience, much of the irrational
+exuberance around cryptocurrencies and blockchain technology
+has subsided, and we have an opportunity to set more realistic
+expectations for how these innovations might be used to promote
+a fairer and more competitive economy.
+I hope this technology will prove useful, particularly in
+helping people who are unbanked or underserved by the
+traditional financial system. I understand why individuals
+might be interested in it. But at this point, it is easier to
+see the malign impacts on society as a whole than the
+constructive ones. That is why we look forward to your
+testimony.
+Thank you. Chairman Crapo. Thank you, Senator Brown.
+Today we are fortunate to have two witnesses from different
+perspectives whose in-depth knowledge of cryptocurrencies will
+be an asset to the community.
+First we will hear testimony from Dr. Nouriel Roubini,
+Professor of Economics and International Business at NYU's
+Stern School of Business. And then we will hear from Mr. Peter
+Van Valkenburgh, Director of Research at Research and Advocacy
+Group, Coin Center.
+Dr. Roubini, you may proceed--oh, before you do, as I
+always do, I remind you to please try to pay attention to the
+clock and keep your initial remarks to 5 minutes. You will have
+opportunities to respond and add during questions. And I remind
+my colleagues of the same limitations that they have on their
+questioning time.
+With that, Dr. Roubini, please proceed.
+STATEMENT OF NOURIEL ROUBINI, Ph.D., PROFESSOR OF ECONOMICS,
+STERN SCHOOL OF BUSINESS, NEW YORK UNIVERSITY
+Mr. Roubini. Thank you. Chairman Crapo, Ranking Member
+Brown, and Members of the Committee, thank you for the
+opportunity to testify today on the topic of the cryptocurrency
+and blockchain ecosystem.
+My name is Nouriel Roubini. I am a professor of economics
+at New York University. I am an expert of the global economy,
+of asset and credit bubbles, and of financial crises.
+In summary, my views on this ecosystem are as follows:
+First, crypto is the mother or father of all scams and
+bubbles, a bubble that has finally gone bust this year.
+Second, blockchain is the most over-hyped technology ever,
+and it is no better than a glorified database.
+Let me elaborate on these points.
+First, a recent study showed that 81 percent of all ICOs
+were scams to begin with, 11 percent of them have been failing
+or are dead, and only 8 percent are still traded on exchanges.
+Second, after a massive bubble in 2017, Bitcoin has fallen
+by 70 percent. This year, other major cryptocurrencies have
+fallen by 80 percent, and thousands of other ones have fallen
+by 95 percent. This entire asset class is literally imploding
+now. Just yesterday, major cryptocurrencies plunged another 10
+percent in a day.
+Third, these assets are not currencies. Calling them
+``cryptocurrencies'' is nonsense. They are not a unit of
+account. They are not a means of payment. They are not a stable
+store of value. Bitcoin can do only five transactions per
+second. Visa can do 25,000 per second. Nobody uses Bitcoin for
+transactions apart from criminals and terrorists. Cryptomining
+is also an environmental disaster as the system wastes massive
+amounts of energy.
+Fourth, there is a revolution in financial services, but it
+has nothing to do with blockchain or crypto. It is called
+``FinTech,'' and it is based on a combination of AI, big data,
+and Internet of Things (IOT). And it is already being used
+daily by billions of people for billions of financial
+transactions. There is no blockchain in FinTech.
+Fifth, the crypto-ideological utopia is a libertarian dream
+of full decentralization of all human transactions--no
+governments, no central banks, no corporation, no banks, no
+trusted institutions. It is totally utter nonsense.
+Sixth, crypto-land is now subject to the opposite and
+dangerous trend: massive centralization. Mining is centralized
+and controlled by oligopolies in authoritarian countries like
+China and Russia. Trading has centralized 99 percent of all
+transactions occurring on nonsecure, centralized exchanges that
+are being hacked on a daily basis. Development is centralized
+as the technological elite is police, prosecutor, and judge.
+They arbitrarily change the code and ``fork'' coins into new
+ones when things go wrong. And wealth is massively concentrated
+in crypto-land. The Gini coefficient of inequality for Bitcoin
+is worse than North Korea. It is quite an achievement.
+Seventh, there is massive price manipulation in crypto-
+land: widespread pump-and-dump schemes, spoofing, wash trading,
+insider trading. Coins like Tether that are created by fiat and
+used to manipulate upward prices. Massive criminality.
+Eighth, ICOs associated with security tokens are
+noncompliant securities that break all security laws. They are
+mostly scams, and even the SEC created a fake website to warn
+investors of such initial coin scams.
+Ninth, utility tokens and widespread tokenization would
+mean a return to the Stone Age of barter. Even the Flintstones
+knew better than crypto as they used clam shells as their own
+one currency.
+Tenth and final point, corporate blockchain--so-called
+enterprise DLT--are glorified databases and they have nothing
+to do with blockchain. They are private rather than public.
+They are permissioned rather than permission-less. They are
+based on trusted authorities verifying transactions rather than
+being trustless. They are not distributed on millions of
+computers but, rather, on a few selected control ledgers or
+databases. They do not use cryptographic games or tend to get
+transactions but, rather, trusted permissioned authorities.
+In summary, they claim to be blockchain, but they have
+nothing to do with blockchain. And 90 percent of all
+corporations experimenting with them have decided that they are
+no better than traditional databases, and since they are more
+costly and less efficient than databases, they will not use
+them. Only 1 percent of all CIOs say that there will be any
+adoption of DLT in their organizations, and 80 percent of all
+CIOs have no interest in this technology.
+It is no wonder as no organization, government,
+corporation, or bank would ever want to put on a public,
+permission-less, distributed, trustless ledger all these
+transactions with customers and suppliers. It does not make
+sense, and it is not going to happen. So blockchain is a lot of
+hype and almost no reality, as an expert senior analyst
+recently concluded.
+Thank you for your interest, and I am happy to answer any
+questions.
+Chairman Crapo. Thank you, Dr. Roubini.
+Mr. Van Valkenburgh.
+STATEMENT OF PETER VAN VALKENBURGH, DIRECTOR OF RESEARCH, COIN
+CENTER
+Mr. Van Valkenburgh. Chairman Crapo, Ranking Member Brown,
+Members of the Committee, thank you for the opportunity to
+speak with you today. My name is Peter Van Valkenburgh, and I
+am the Director of Research at Coin Center, an independent
+nonprofit focused on the public policy issues affecting
+cryptocurrency and public blockchain networks.
+What is Bitcoin? Bitcoin is the world's first
+cryptocurrency, and it works because of the world's first
+public blockchain network.
+What does Bitcoin do? It is simple. It lets you send and
+receive value to and from anyone in the world using nothing
+more than a computer and an internet connection.
+Now, why is it revolutionary? Because unlike every other
+tool for sending money over the internet, it works with the
+need to trust a middleman. The lack of any corporation in
+between means that Bitcoin is the world's first public digital
+payments infrastructure. And by ``public,'' I simply mean
+available to all and not owned by any single entity.
+Now, we have public infrastructure for information, for
+websites, for email. It is called the ``Internet.'' But the
+only public payments infrastructure that we have is cash, as in
+paper money, and it only works in face-to-face transactions.
+Before Bitcoin, if you wanted to pay someone remotely over
+the phone or the internet, then you could not use public
+infrastructure. You would rely on a private bank to open their
+books and add a ledger entry that debits you and credits the
+person you are paying. And if you both do not use the same
+bank, well, then there will be multiple banks and multiple
+ledger entries in between.
+With Bitcoin, the ledger is the public blockchain, and
+anyone can add an entry to that ledger, transferring their
+bitcoins to someone else. And anyone, regardless of their
+nationality, race, religion, gender, sex, or creditworthiness,
+can for absolutely no cost create a Bitcoin address in order to
+receive payments digitally. Bitcoin is the world's first
+globally accessible public money.
+Is it perfect? No. Neither was email when it was invented
+in 1972. Bitcoin is not the best money on every margin. It is
+not yet accepted everywhere. It is not used often to quote
+prices, and it is not always a stable store of value. But it is
+working, and the mere fact that it works without trusted
+intermediaries is amazing. It is a computer science
+breakthrough, and it will be as significant for freedom,
+prosperity, and human flourishing as the birth of the internet.
+And Bitcoin is just the beginning. If we can replace private
+payments infrastructure, then we can replace other private
+choke points to human interaction as well.
+Now, why should we want to build more public
+infrastructure? Why should we embrace blockchains over
+corporate intermediaries? Why should we tolerate their
+inefficiencies and work to make them better? Why should we want
+the pioneers of this technology here in the United States and
+not fleeing overseas? A simple reason: Because the corporate
+intermediaries providing today's critical but privately owned
+infrastructure are becoming fewer, larger, and more powerful,
+and their failures are increasingly grave.
+So roughly half of all Americans, 143 million people, had
+their Social Security numbers exposed to hackers because of a
+breach at Equifax. The SWIFT network has relayed hundreds of
+millions of dollars in fraudulent transactions because of
+hacked member banks in Bangladesh, Vietnam, Ecuador, and
+Russia. The FBI suspects now that the largest of these hacks
+was perpetrated by North Korea.
+Corrupt, low-level employees at an Indian bank, Punjab
+National, were able to fraudulently certify SWIFT messages,
+stealing $1.8 billion. It is the largest electronic bank
+robbery in history. In fact, it is the largest bank robbery in
+history.
+In October 2016, an estimated 1.2 million internet-
+connected devices were hacked and turned into a botnet that for
+several hours made prominent websites unavailable across Europe
+and North America, including CNN and Fox News, the New York
+Times and the Wall Street Journal.
+Increasingly, physical machines are being connected to the
+internet to augment their capabilities. They are wired through
+servers that are owned and maintained by private and trusted
+intermediaries--the so-called Internet of Things. Pacemakers
+from St. Jude's Hospital have been hacked, baby monitors from
+TRENDnet have been hacked, and jeeps from Jeep have been hacked
+to the point where they can be remotely commandeered and driven
+off the road.
+Now, those vulnerabilities are inescapable in systems that
+have single points of failure. It does not matter if the point
+of failure is a corporation or if it is a government. There
+should not be a single point of failure. Similar choke points
+existed before the internet. If you wanted to deliver a
+message, you would have to go through one of three television
+broadcasters or a handful of newspapers. Private corporations
+are essential, but no critical infrastructure should rely on
+one or two. The internet removed single points of failure in
+communications infrastructure and ushered in a wave of
+competition among new media corporations building on top of its
+public rails.
+Blockchains can similarly disintermediate critical payments
+and IOT infrastructure. The technology is not yet ready to
+answer all of those questions today, but it is our best hope.
+And as with the internet in the 1990s, we need a light touch,
+pro-innovation policy to ensure that these innovations flourish
+in America for the benefit and security of all Americans.
+Thank you, and I look forward to your questions.
+Chairman Crapo. Thank you, Mr. Van Valkenburgh. And I would
+like to start with you. Your testimony details three particular
+areas where decentralized computing can be useful and helpful:
+electronic cash, identity, and the Internet of Things. Some use
+cases like Bitcoin already exist, while others are conceptual.
+Cryptocurrencies like Bitcoin have experienced volatile price
+fluctuation over the past year.
+I am going to ask you first and then, Dr. Roubini, I will
+ask you to comment on this as well. Where do you see things
+going in the next year or so? Under what conditions do you see
+market value stabilizing?
+Mr. Van Valkenburgh. Thank you, Chairman Crapo. Much of the
+ongoing volatility that we are seeing I think stems from a
+struggle to find a level for something brand new. So when
+tulips were first introduced to the Netherlands from Arabia and
+they became very popular amongst the rich set, it was hard to
+find a price, and a lot of irrational exuberance pervaded those
+markets. We saw volatility in equity markets when trading joint
+stock companies became a new phenomenon, the South Sea and
+Mississippi bubble. And we saw volatility in the dot-com
+companies when the internet was brand new. Finding a level is
+very difficult.
+Fortunately, we are now beginning to see institutional
+investment coming online with respect to Bitcoin and eventually
+other cryptocurrencies as well. We have got CFTC-regulated
+Bitcoin derivatives markets, and that means that we will have,
+I think, better sell side research from the institutional
+investment class, and there will be the possibility for people
+to take short positions and rationalize the market.
+Now, key to this effort is more institutional grade
+products that are regulated by the proper authorities. So we
+have CFTC-related derivatives. We could use ETFs regulated by
+the SEC where there is institutional-grade custody and where
+there are known accounting standards and where purchasers know
+where they stand.
+We could also use better custodians in general. Comptroller
+Otting at the Office of the Comptroller of the Currency has
+revitalized the process of offering FinTech charters to new
+companies offering new services that do not look like
+traditional banks. A nationally chartered bank that custodies
+cryptocurrency is something that I think would bring more
+rationality to these markets.
+Chairman Crapo. Thank you.
+Dr. Roubini, would you comment on the same issue?
+Mr. Roubini. Yes, cryptocurrencies are not scalable, are
+centralized, they are not decentralized, and they are not
+secure. Bitcoin is five transactions per second, and there is a
+massive concentration of the mining among, about half of those
+are the Chinese, Russian, and others' miners. So you say you do
+not rely on trends at institutions. You are relying on an
+oligopoly of individuals that are shady in countries that you
+have no control.
+There are solutions that claim that in the future are going
+to be scalable, but the only way they achieve scalability, like
+proof of stake, is going to lead to even more cartelization of
+mining. Once you have cartelization of mining, there is no
+security. If I lose my credit card or somebody steals my bank
+account, I call and it is blocked. I have deposit insurance. I
+have lender of last resort
+support of the financial system. Yes, I pay a fee. If somebody
+is hacking your crypto wealth, it is gone forever, no deposit
+insurance, no lender of last resort, no solution on the
+immutable hacking of your wealth. There is no security in this
+space, there is no scalability in this space, and there is
+massive centralization that is very risky, and it is not going
+to change.
+Chairman Crapo. Well, thank you. I only have about a minute
+left, so as a follow-up, many of the projects or use cases for
+decentralized computing, as Mr. Van Valkenburgh's testimony
+refers to it, are still in the conceptual phase or are not
+being widely adopted as of yet. Are there particular factors
+hindering implementation or adoption of blockchain or
+decentralized computing solutions? And what are the most
+meaningful steps that market participants or regulators can
+take to create certainty or promote a safe path forward? I
+would like you each to take about 30 seconds to answer me,
+please.
+Mr. Van Valkenburgh. So decentralized computing-use cases
+are hard challenges. As I said, email was invented in 1972, and
+it took 20 years for those systems to be friendly enough for
+consumers to want to use them to send messages. We have got
+choke points that are vulnerable on the internet today that
+could be made better with blockchains. For one, the DNS system,
+which was the hack that brought the websites and made them
+unavailable, the New York Times and----
+Chairman Crapo. I will have to stop you there and go to Dr.
+Roubini.
+Mr. Roubini. Well, there is no government or corporation or
+bank that is going to use a public, decentralized, permission-
+less system. It will be very risky to let millions of computers
+somewhere in China verify your transaction. Therefore, all
+enterprise DLT is private, is permission, is based on trust. So
+the idea of decentralization is never going to fly. Ask any
+corporation or any bank. No one of them is going to go to a
+decentralized system. It is nonsense.
+Chairman Crapo. Thank you.
+Senator Brown.
+Senator Brown. Thank you, Mr. Chairman.
+Dr. Roubini, let us assume blockchain technology and some
+cryptocurrencies overcome the issues that you raise in your
+testimonies. Are there applications that could be beneficial on
+a broad scale to address problems in the financial sector?
+Mr. Roubini. Well, I do believe that there is some
+innovation. As I pointed out, if you are talking about
+enterprise DLT or corporate blockchains, the systems that are
+private, they are permissioned, they are not distributed, they
+have trusted authority to authorize transactions, and in my
+view these are just glorified databases. They are being called
+``blockchain,'' but they are not, and we can improve the
+efficiency of source of a transaction, financial and corporate,
+by having an integration of databases to reduce the transaction
+cost. But I do not think that we are going to go to a solution
+that is based on a public, permission-less, and trustless
+system. Nobody is going to accept it, no government, no
+corporation, or no bank.
+So there is lots of work we can do of improving, and as I
+pointed out, the revolution in FinTech that is going to lead to
+banking services to the poor and unbanked is a revolution, is a
+revolutionizing payment system, credit allocation, insurance,
+asset management, capital transactions. It has nothing to do
+with blockchain. You have AliPay and WeChat Pay in China. We
+have Venmo, Square, PayPal in the United States. We have UPI
+systems in India. We have M-Pesa used by poor farmers in Kenya
+and all over Africa. Billions of transactions done by billions
+of people every day. That is the FinTech revolution.
+What is the penetration of blockchain after a decade?
+Twenty-two million users and half of them are not using it.
+After a decade of the internet, with 1 billion users, the
+penetration of blockchain and crypto is collapsing. You have
+falling users, collapse of 80 percent of transactions, and
+transaction costs as a share of transaction have gone through
+the roof. It is the opposite of any successful technology in
+the financial sector or the internet. It is just the opposite.
+Senator Brown. Thank you.
+Mr. Van Valkenburgh, it is one thing for tech billionaires
+or the Winklevoss twins to be investing in a complex and poorly
+regulated market, but I am concerned about families who risk
+their savings. What is the profile of the average person who is
+investing in this market, whether it is Bitcoin or buying into
+ICOs and other unestablished technologies?
+Mr. Van Valkenburgh. So the profile of your average
+investor is technologically sophisticated because you have to
+deal with things like private and public keys or at least
+understand how the company that you are working with is
+securing them if it is coin base or some other exchange. And it
+is usually younger people who are interested in these new
+alternatives, perhaps because they feel like the legacy
+financial system has in some ways disappointed them, and they
+are looking for alternatives, I think in good faith.
+Now, that said, are they safe? Are they being protected?
+Are there good regulations in place? Exchanges in the United
+States are regulated by the Federal Government for anti-money-
+laundering purposes, so FinCEN was one of the first out of the
+gate. America led here, and the rest of the world needs to
+catch up. FinCEN said exchanges are money services businesses,
+we need KYC, we need suspicion activity reporting.
+From a consumer protection standpoint, though, they are
+regulated by the States. You have to get a money transmission
+license in every State where you have customers, assuming the
+State regulator for money transmission licensing has opined on
+the question of whether cryptocurrency exchanges fit their
+definition of money transmission or do not.
+That regime is not entirely rational. These are natively
+global payments networks, and you are going State by State to
+get licenses from the proper authorities. And you are going to
+have 53 or so criminal background checks. The next one is not
+going to make you more or less secure for your customers.
+Also, money transmission licensing regimes, they look for
+custody risk, which is important to safeguard against. But they
+do not deal in other investor protection concerns like
+manipulation and
+transparency in markets. I think it is about time that we had a
+serious policy conversation in this country about whether that
+State-by-State approach is reasonable and whether it is the
+best way to protect consumers. Federal preemption and an
+alternative Federal license for these companies, perhaps one
+that also polices from market manipulation and supervises for
+that, would be, I think, a wise choice that would make America
+a leader and protect our consumers.
+Senator Brown. Thank you.
+Chairman Crapo. Senator Kennedy.
+Senator Kennedy. Thank you, Mr. Chairman. Thank you,
+gentlemen.
+Professor--well, let me reverse this. Mr. Van Valkenburgh,
+how long has cryptocurrency and blockchain technology been in
+existence?
+Mr. Van Valkenburgh. That is an excellent question. So
+cryptocurrency and public blockchain networks have been around
+since 2008, 2009, when Satoshi Nakamoto invented them. But the
+blockchain that Mr. Roubini has described, the permissioned
+one, that has been around since the 1980s. It is actually older
+than I am. It is not a particularly innovative technology. It
+is just an Excel spread sheet. I think we actually in most
+cases agree on that point.
+Senator Kennedy. Let me interrupt you. Let us say 10 years.
+How is our world better off as a result of blockchain
+technology and cryptocurrency? Briefly.
+Mr. Van Valkenburgh. So right now it is mostly anecdotal,
+quite frankly, because these things are not used widely, just
+as email was not used widely in the 1970s and 1980s until the
+1990s. We have got a long runway. But, briefly, I have one
+example.
+So the World Bank has found that in developing economies
+women are 20 percent likely to have a financial account at a
+bank, and accounts under their names are often controlled by
+their male relatives. There is a woman in Afghanistan, Roya
+Mahboob, who was a leading tech entrepreneur and wanted to pay
+her employees, most of whom were female coders. In order to get
+around this issue where she was unable to pay her female
+employees or their husbands were actually confiscating their
+money, she paid them using Bitcoin.
+Senator Kennedy. OK. I see your point.
+Professor, how do you think, if at all, the world is better
+off as a result of us separating into cryptocurrency and in
+blockchain technology?
+Mr. Roubini. I do not think the world is better off. There
+is a significant need for improving financial services, and as
+I pointed out, there is a revolution in financial services
+called ``FinTech'' based on AI and big data and so on, and it
+is used legally by billions of people, especially digital
+payment systems that are already available right now. They are
+low cost, they are efficient. They are used literally by
+billions of people all over the world, including billions of
+people even in Africa. That is really revolutionizing. If you
+are a poor farmer in Kenya, use M-Pesa. You can make a payment
+system. You can buy and sell your goods. You can get micro
+credit. You can do everything at very, very low cost, and these
+technologies are spreading everywhere. If you go to crypto,
+five transactions per second. You cannot do anything. You
+cannot be scaled.
+Senator Kennedy. That is what I want to ask you about. Let
+us set aside the Initial Coin Offerings and Bitcoin and all
+that. Let us talk about blockchain technology. You do not see
+any potential there?
+Mr. Roubini. As I said, the only applications that are
+going to be acceptable by any private or public institutions
+cannot be based on a decentralized, permission-less, trustless
+system. Today there is no decentralization. The mining is
+controlled by a bunch of people in China, Belarus, Georgia, and
+Russia. And this is not a system that you want. There is a
+whole paper by a scholar at Princeton University showing there
+is a threat coming from China to Bitcoin because 75 percent of
+all mining of bitcoin is in China, and they are going to start
+to use it to manipulate at their own will. Therefore, do we
+want to rely on a private system? Yes. Do we want to rely on
+trusted permissions? Yes. Do we want to rely on a system that
+is kept private and safe? Yes. But it has nothing to do with
+blockchain. Blockchain means that you are relying on a
+cryptographic game where hundreds of thousands of computers
+verify transactions. There is no institution that is going to
+ever do that. So the solutions are back to basics.
+Senator Kennedy. Let me let Mr. Van Valkenburgh answer
+that, too.
+Mr. Van Valkenburgh. So Mr. Roubini has brought up FinTech.
+He has brought up WePay and AliPay, which are innovations in
+China that are bringing lots of people into the financial
+system. It is important to point out that those are extremely
+large databases, and every Chinese citizen ends up with their
+full transaction history unencrypted in those databases, and
+the Chinese government, quite openly, has said that they can
+look at every financial record of every citizen in their
+country because of that FinTech innovation. That is a single
+point of failure in multiple regards. Those databases get
+hacked. Then those transactions are public to the world. But it
+is also a single point of failure in the fact that it is
+effectively government control and total surveillance over the
+population and every financial interaction they make in the
+world. It is a tool for totalitarians.
+Senator Kennedy. Thank you, gentlemen. Very interesting.
+Senator Brown. [Presiding.] Senator Jones.
+Senator Jones. Thank you, Senator Brown. Thank you both for
+being here today. This is just an area that I am still learning
+a lot, and I want to move a little bit away from the financial
+markets per se, as I think most people--I am an old prosecutor,
+and I am concerned as much as anything with regard to the law
+enforcement aspect of this.
+One thing that I learned as a prosecutor and as a lawyer is
+it seems like the bad guys are always two, three, or a dozen
+steps ahead of emerging technologies. I have learned as a
+Senator in looking at nations like Russia and China and North
+Korea that they also seem to be way ahead of the game when it
+comes to cybersecurity and those issues.
+So my question is just really generic for both of you, and
+I will start with you, Mr. Van Valkenburgh. Talk to me a little
+bit about the dangers of cryptocurrency as it pertains to law
+enforcement, money laundering, human trafficking, drugs, the
+whole 9 yards in which emerging technologies can be exploited
+by the bad guys to really wreak havoc in our systems. Let us
+talk about that a little bit, and if you could address briefly,
+you know, what we can do in this early stage to try to prevent
+that. And then I will go to you, Mr. Roubini. I would like to
+just focus on those two as my questions.
+Mr. Van Valkenburgh. Thank you, Senator Jones. You are
+absolutely right. Criminals are usually the earliest adopters
+of new technologies. In fact, I think if criminals are not
+using your technology, your technology is not worth anything.
+Senator Jones. Good point.
+Mr. Van Valkenburgh. So, you know, stock car racing and
+souped-up cars, ultimately NASCAR, was a phenomenon that was
+born out of bootleggers outrunning the cops during Prohibition.
+Technological innovation and ultimately something not so bad,
+but moments of disruption and things we need to worry about.
+Now, with Bitcoin I think it is actually a positive story,
+especially here in the United States. As I said, FinCEN, our
+financial surveillance regulator, was fast out of the gate
+globally, first out of the gate to say that cryptocurrency
+exchanges need to know their customers and need to do
+suspicious activity reporting. So when you are getting onto the
+Bitcoin network by buying bitcoins in an exchange, your name is
+going to be taken down if you are buying at a U.S. exchange.
+Now, what about transactions within the Bitcoin network
+that are not in an exchange? Well, they are public, on the
+public ledger that I have been talking about, and we have
+phenomenal law enforcement in this country that I have had the
+pleasure of meeting who have become extremely adept at
+analyzing that big data and finding and de-anonymizing or
+identifying a Bitcoin address as belonging to somebody involved
+in moving the proceeds of crime. I have even talked to folks
+who have said that they now prefer working cases where the
+illicit funds are moving through the Bitcoin network rather
+than calling up five or six international correspondent banks
+that do not keep good records or have shell accounts. There is
+one record to query, and it is perfect. If it was not, it would
+not work.
+Senator Jones. All right. Mr. Roubini?
+Mr. Roubini. Senator, you are absolutely right.
+Cryptocurrencies and blockchain have been used by criminals, by
+terrorists, by human traffickers, by tax evaders, just to
+engage in a variety of criminal activities. It is correct that,
+in principle, law enforcement authorities can go after this
+stuff. You know, the Silk Road was using Bitcoin for lots of
+transactions. They cracked it, and then they got arrested and
+prosecuted. But, of course, a system that in principle is
+supposed to be anonymous--and not just anonymous at the
+domestic level but globally--implies significant risk to
+enforcement.
+Steve Mnuchin, Secretary of the Treasury, said we cannot
+allow Bitcoin and cryptocurrencies to become the next Swiss
+bank
+account. We have spent the last 20 years at the G-20 level to
+try to crack down on offshore financial centers, and now you
+have a tool that would allow anybody not to declare their
+income, not to declare their wealth, not to declare their
+capital gains. It is not going to be acceptable. Are we going
+to really go and find a system so that everybody is registered
+and everybody has to declare their income, their wealth, their
+capital gains, and their taxes? We are very far away from it,
+let alone other types of criminal activity.
+Senator Jones. Did you want to respond real quick?
+Mr. Van Valkenburgh. I did want to touch on one point.
+Senator Jones. Still quick, because I have 30 seconds.
+Mr. Van Valkenburgh. Steve Mnuchin's point was that the
+United States has pioneered the policy here, that we have
+classified exchanges as money services businesses and we
+require information from them. He was saying we do not want the
+rest of the world to not follow suit. His reference to Swiss
+banks was basically to say, ``Hey, Switzerland, you should
+follow our lead.''
+Senator Jones. All right. Well, thank you both. And, you
+know, just for reference, Mr. Van Valkenburgh, I am headed to
+the NASCAR race in Talladega this weekend. I will make sure
+they are not running moonshine around the track.
+[Laughter.]
+Mr. Van Valkenburgh. Not too much moonshine, Senator.
+Senator Jones. Thank you.
+Senator Brown. Senator Toomey.
+Senator Toomey. Thank you, Senator Brown. Thanks to both of
+you for being here. This is a very helpful discussion.
+It seems to me ICOs have featured some incredible scams.
+There are some that are very obvious. The volatility of Bitcoin
+has been breathtaking.
+On the other hand, central banks over time have not had the
+greatest record of preserving the value of the meeting exchange
+that they are responsible for. We have discussed the friction
+in the payment systems that we have now, and I think FinTech is
+offering fabulous new ways to minimize that friction. But there
+will always be some friction, and even if they become extremely
+efficient, which they are, the payment system will still be in
+a fiat currency everywhere.
+Dr. Roubini, you point out that bitcoin, for instance, is
+not really a unit of account, it is not a medium of exchange,
+and it is not a store of value. And I think that is true, but
+it did strike me that those are all issues of scale. Anything
+can be a currency if it is acceptable to enough people. It then
+takes on those characteristics.
+What I think I hear you saying is that it is simply
+intrinsic to the nature of the underlying technology that it is
+fundamentally not scalable, that it cannot become widely enough
+used to achieve those characteristics that we normally use to
+define a currency. And that is what I am trying to understand.
+Why is it intrinsically--unless you disagree and that there is
+a different reason, but I thought I understood you to be
+suggesting that it just intrinsically cannot be scaled. Is that
+right?
+Mr. Roubini. Yes. Some of it is quite technical, but
+Vitalik Buterin who invented the theorem called ``impossibility
+trinity'' that says in blockchain you cannot have at the same
+time scalability, decentralization, and security. So proof of
+work that is the one that Bitcoin is based is not scalable,
+only five transactions per second. You could say it is
+decentralized in principle, but it is not decentralized because
+80 percent of the mining is done by six oligopolies. And once a
+situation of this sort is centralized, it is not secure.
+Now, there are dozens of other consensus mechanisms that
+people are working in order to make it scalable.
+Senator Toomey. OK, let me just--I just want to explore a
+couple of these things a little bit more, and let me give Mr.
+Van Valkenburgh a chance to respond.
+First of all, is Bitcoin forever limited to five
+transactions per second, or is there any way to expand that
+scale? And, second, does an oligopoly on mining really matter?
+My understanding is there is ultimately a finite number of
+bitcoins that can be mined. And does it matter who mines them?
+Mr. Van Valkenburgh. Thank you, Senator Toomey.
+First of all, five transactions per second, we can do a lot
+more. There are multiple layers being built on top of Bitcoin
+today that do effectively things like batch settlement. So in
+just one or two transactions to the blockchain, you could have
+thousands of transactions.
+Now, that sounds like we are reinventing the correspondent
+banking system and adding more centralized trust into it. It is
+not quite that. That is because the batch settlement can be
+done by a robot. Bitcoin is digitally native, so you can have
+smart contracts that manipulate and batch transactions
+together.
+We have an M&M machine in our office. You would normally
+press a button and an M&M would come out. We have rigged it to
+work with lightning network payments, which are these second-
+level solutions, such that you can pay per the M&M with a fee
+that is about 0.002 cents, an incredibly negligible fee. If we
+can run transactions like that in a test net or in early days
+of a new layer, we can do all kinds of transactions per second.
+On the question of Vitalik Buterin's trilemma, it is not an
+impossibility theorem. It is a trilemma. It is true. It is hard
+to have scale and decentralization and integrity of the data.
+Vitalik himself said it is not impossible. It is just a problem
+worth striving for. It is the kind of thing that American
+innovators and entrepreneurs should be working on.
+Senator Toomey. Very quickly, does it matter that there is
+an oligopoly on the mining?
+Mr. Van Valkenburgh. That is an excellent question. So it
+is worth asking, once you have a lot of mining power, what harm
+can you do? The Bitcoin protocol is decentralized not because
+it distributes power but because it checks power. What can a
+powerful person do to a weak person in the system? Bitcoin pits
+ambition against ambition, like our Federalist system here in
+the United States. And what I would say is you cannot do much.
+You cannot change the number of bitcoins in circulation. You
+would not be able to make that block and have it accepted by
+the network. You cannot reallocate or move other people's funds
+on the blockchain. The worst you can do is during the time when
+you have leveraged massive and costly resources, you can slow
+down the network and block transactions. It is a denial-of-
+service attack, something that all internet systems are
+vulnerable to, even the FinTech that Dr. Roubini talks about.
+Senator Toomey. Thank you very much.
+Senator Brown. Senator Warren.
+Senator Warren. Thank you, Mr. Chair.
+So virtual currencies are an interesting innovation that at
+least theoretically could provide benefits to consumers. But
+they also at the same time could empower scammers and
+criminals, and the challenge here, I think, is for us to try to
+figure out how to nurture the productive uses of virtual
+currencies while protecting consumers from scammers and other
+sorts of threats.
+Now, one argument I often hear is that cryptocurrencies are
+decentralized, that anyone can mine new currency, unlike our
+current system, which relies on a central bank to perform that
+function.
+Dr. Roubini, I know you are a skeptic of that claim. Could
+you just say a word about why?
+Mr. Roubini. First of all, I am in favor of digital payment
+systems, but we can have digital payment systems without having
+cryptocurrencies. And as I pointed out, in the United States,
+in China, in India, in Africa, in Europe, there are tons of
+digital payment systems that do billions of transactions every
+day, they are used by billions of people, at low cost. So it is
+not the question of being in favor of only cash or a digital
+payment system. The FinTech allows you to do that. In the
+case----
+Senator Warren. No, I understand that. The question I am
+asking about is about decentralization, the claim that
+cryptocurrencies have the benefit because they are
+decentralized, and I said you are skeptic of that.
+Mr. Roubini. It is false. The miners are all centralized,
+and it is a problem because, one, you can have 51 percent
+attacks, and those kind of attacks have occurred every day on
+smaller cryptocurrencies. So you can steal the money, and it is
+gone forever, those of such attacks. And people say, well, if
+you do it on Bitcoin, you are destroying Bitcoin. But if you
+have an oligopoly, what does an oligopoly do? They increase the
+prices, increase their margins of profit. If you look at the
+transaction costs in the space, they have gone through the roof
+as miners get their share of transaction. In the last year,
+they have gone up by 200 percent because they are using that
+oligopoly power to impose higher fees. It is an oligopoly. That
+is why it is inefficient.
+Senator Warren. So let me ask you the question then about
+the consequence of this concentration that you see. Is that
+inherent in the cryptocurrency or is it something that
+Government could do something about?
+Mr. Roubini. It is inherent because there are economies of
+scale in mining, and these economies of scale that are in proof
+of work become worse once we get to scalable systems like proof
+of stake where whoever has a greater stake to begin with can do
+more of the mining. So there is massive concentration already
+in proof of work. People say that is not scalable, we are going
+to move to proof of stake. The proof of stake is going to
+become an even more concentrated cartel by definition of the
+system. You need massive
+mining factories all over China or Iceland to do the scale of
+transaction. You cannot do it on a laptop. That is why you lead
+to concentration in oligopolies.
+Senator Warren. OK. So you are saying it is inherent here.
+You know, these new technologies create these new
+opportunities, but if we are not careful, they can follow the
+same old patterns of they make the rich richer and they leave
+everybody else behind.
+I want to ask about another one, and we will see if we can
+get these together because I want to ask Mr. Van Valkenburgh,
+according to reports, more than $1.1 billion of cryptocurrency
+was stolen in the first half of 2018. Why is cryptocurrency so
+easy to steal? And what should we be thinking about to secure
+it?
+Mr. Van Valkenburgh. So those thefts were primarily with
+regard to newer cryptocurrencies who had experienced massive
+price increases and were being secured by exchanges or
+businesses, usually overseas, who did not scale their security
+in line with the value that was rising. That was a speculative
+bubble. I would not disagree with Dr. Roubini at all on that
+account. That was irrational, and it was triggered by this ICO
+market, which is largely fraud or unregistered securities
+issuance, which is, of course, not permitted.
+So Bitcoin was not involved in the majority of the amounts
+that you are talking about there. It was these smaller
+currencies.
+Senator Warren. You know, I worry, though, because a lot of
+small investors get into the virtual currency market through
+Initial Coin Offerings, or ICOs, which allow companies to raise
+money by creating and selling these new virtual currencies. And
+you have just described a huge bubble around one of these.
+In 2017, companies raised more than $6 billion using ICOs,
+a record that has been broken by April of this year. So let me
+ask you, Mr. Van Valkenburgh, a study came out earlier this
+year that said that 80 percent of ICOs in 2017 were scams. SEC
+Chairman Jay Clayton has suggested the right approach to
+uncovering the scams and protecting investors is to regulate
+ICOs as security offerings, and I just want to ask if you agree
+with that approach. I know we are over time, but if I could
+just permit the witness to answer.
+Mr. Van Valkenburgh. I do agree with that approach. As I
+said, the majority of ICOs have either been unregistered
+securities issuance or scams, as Chairman Clayton has said. The
+SEC has made very careful and deliberate policy here. I think
+they have done an excellent job. They released a report helping
+people understand these things. They created a website helping
+them understand them in a visual, physical way. And they have
+brought targeted enforcement actions that I think have started
+to chill these markets and make them more rational.
+That said, I think you can do a token sale and comply with
+securities laws, as you should, and we are seeing the emergence
+of companies doing that, selling only to accredited investors,
+or--and I think this will happen in the near future--even doing
+public registration and offering tokens to shareholders.
+Senator Warren. But what I hear you saying at its core is
+that an unregulated market puts consumers at risk, and what is
+critical is to get the right regulations in place.
+Mr. Van Valkenburgh. Often our current regulations.
+Securities laws worked well for the last 100 years, or almost,
+and I think they will continue to.
+Senator Warren. All right. Thank you.
+Senator Brown. Senator Van Hollen.
+Senator Van Hollen. Thank you. Thank you both for being
+here.
+Dr. Roubini, you mentioned your support for digital payment
+systems innovation, and FinTech clearly has reduced
+inefficiencies in the payment system. It has not yet succeeded
+in getting the Fed, though, to move to a real-time payment
+system, something I have been pushing hard for, because the
+current system where it takes time still to clear checks has
+really been hurting a lot of lower-income people who are living
+paycheck to paycheck. I was pleased to see the Fed recently
+announce that it is going to try and accelerate this effort.
+Do you have an opinion on using innovation to get to real-
+time payment system as the Fed is moving toward, I hope?
+Mr. Roubini. Yes, I am all in favor of it, and technology
+can be used to achieve that particular result. In principle,
+you know, the banks have access to the balance sheet of the
+Fed, but you could have a system where every corporation or
+individual has access to that balance sheet. You do not need to
+have a blockchain for that. You have it on one ledger. It is
+secured by the Fed. And if you do that, however, you have
+consequences, because right now the deposits in the banking
+system are essentially forms of money that are sent to the
+payment system. If you go to a central bank in digital currency
+and you have everybody accessing that one, then there will be
+massive disintermediation of private deposits, and then the
+banks have to fund themselves in a different way.
+So there is talk about going in that direction, of opening
+up the balance sheet of the central bank to everybody, but it
+has important consequences for the financial system.
+The point, however, is that you can do all these things,
+but you don't need blockchain. Or if you want a system----
+Senator Van Hollen. I am not disagreeing----
+Mr. Roubini.----it is not going to be a public one where a
+bunch of miners in China are going to verify the transactions
+of our financial system. That does not make any sense.
+Senator Van Hollen. I am not disagreeing with you, Dr.
+Roubini. I have just been pushing--I have been disappointed the
+Fed has not moved more quickly to implement a real-time payment
+system, and I think that fact is a drag on a lot of consumers.
+While I have got you here, though, I do want to ask you a
+question of where you see the economy going, because you are
+one of the people who predicted the 2008 financial crash. You
+not only predicted it, but you predicted the mechanics and the
+economic and financial forces behind it. And you have written
+about your concern about the economy around 2020, a concern I
+share, and I just want to note your article of September 11th,
+``Is the next financial crisis already brewing?'' where you
+talk about the fact that the stimulus, which was the sort of
+tax cuts, which added $1.8 trillion to our debt, was ill-timed,
+that it will create a drag on the economy in a number of years,
+and that you foresee difficult economic times ahead.
+Given that you predicted the 2008 financial crash, I
+thought I would take the time to get your opinion on where we
+are headed right now.
+Mr. Roubini. Well, in brief, I would say this year growth
+is going to be because of the stimulus close to 3 percent. It
+is going to be less than 3 percent next year. My concerns are
+about 2020, one, because we will have a fiscal cliff; second,
+because the Fed, rightly, with an overheating economy has to
+gradually increase interest rates. Short rates are going to go
+higher, long rates are going to go higher. The dollar is going
+to strengthen. Credit spreads are going to widen. That
+tightening of financial condition is going to slow economic
+growth.
+I worried about protectionism and trade wars slowing down
+economic growth, and I also worried about other stagflationary
+policies like restricting migration, restricting capital
+inflows and outflows and FDI, restricting investment in the
+environment and not having an infrastructure plan, reducing
+growth and increasing inflation.
+We also know that asset prices are faulty, and if there is
+a shock to growth, there could be a significant correction. So
+those combination of factors may lead to a stall of economic
+growth by 2020.
+Senator Van Hollen. Well, you summarized it very well, and
+my question to you, if you could just take a moment and talk
+about something many of us have said is likely to happen, which
+is when you have an economy that was already on a rapidly
+rising trajectory, and you add to that a huge amount of debt,
+how that creates a fiscal drag and crowds out private
+investment down the road and actually slows down the economy
+after the overheating period is over. Can you just talk about
+that for a second?
+Mr. Roubini. Yeah, briefly. It is the first time we have a
+$2 trillion fiscal stimulus in peacetime without a recession.
+That leads to higher short-term and long-term interest rates.
+It leads to overheating and forces the Fed to hike more, soon,
+and faster. It leads to a stronger dollar. And it also leads to
+a larger current account and trade deficit. If the savings of
+the Government reduce, our trade deficit is 2 percent of GDP,
+it is going to go toward 3 percent and, therefore, the
+protectionist pressure may increase over time. So it is an ill-
+advised fiscal stimulus.
+Senator Van Hollen. Thank you. I appreciate it.
+Chairman Crapo. Senator Cortez Masto.
+Senator Cortez Masto. Thank you. Thank you, gentlemen, for
+being here.
+I would like to go back to Senator Jones' conversation with
+you when it comes to identifying sex trafficking, drug
+trafficking, money laundering, and I just want some
+clarification. Mr. Van Valkenburgh, does Bitcoin or any similar
+platform have a protocol in place to detect when its
+cryptocurrency is being used by individuals to facilitate sex
+trafficking, drug trafficking, or money laundering? Is there a
+protocol in place?
+Mr. Van Valkenburgh. So Bitcoin is a peer-to-peer network
+of persons running software around the world, and that software
+is developed itself by people around the world. It is a
+voluntary system, if you will, so there is no corporate form to
+set and guarantee policies across all users.
+That said, there are several intermediaries who are
+building their businesses on top of Bitcoin, just as you saw
+several companies build their businesses on top of the shared
+and open internet back in the 1990s. And those businesses,
+especially those that are based and regulated here in the
+United States, do have those policies for identifying and
+policing illicit use of the network, and they do file
+suspicious activity reports, and they do register with FinCEN,
+which is our financial surveillance authority.
+Senator Cortez Masto. So it is going to be incumbent upon
+those businesses, basically what you are saying, working with
+law enforcement to identify when this technology they are
+utilizing is engaging in illicit activity?
+Mr. Van Valkenburgh. That is right, Senator.
+Senator Cortez Masto. Would you agree with that, Dr.
+Roubini?
+Mr. Roubini. Well, I do agree that in the United States
+there are rules about KYC/AML that are being implemented. But
+suppose you are involved in human trafficking and you are
+setting up a Bitcoin account somewhere in a jurisdiction or
+offshore financial center where these KYC/AML rules are not
+being followed, and then you are doing those activities and
+using these foreign accounts, and it is anonymous, it is very
+hard to crack down on them, and, therefore, you are not under
+the scope of U.S. legislation, and you have created an asset
+class that allows this massive level of anonymity. So unless
+you have a global agreement first at the G-20, but then covers
+the rest of the world that makes sure that those rules are
+applied by everybody else, you have created a massive loophole
+that allows terrorists, traffickers, tax evaders, or criminals
+to do it more easily than in the past. That is a major risk.
+Senator Cortez Masto. Thank you, Dr. Roubini.
+Yes, please?
+Mr. Van Valkenburgh. First of all, I would just be
+interested in how you can use something that is not money to
+evade taxes, but that is a separate issue. I will say that with
+respect to international exchanges, I absolutely agree that we
+should have a unified global approach to ensure that there is
+KYC. But I will disagree that if you are just transacting on
+the blockchain, even using the account that you originally
+created in an overseas authority that did not collect
+information, that it is, as Dr. Roubini says, anonymous, it is
+not anonymous at all. And I have spoken with several law
+enforcement officials and investigators who, as I said, enjoy
+doing their blockchain investigations because they can track
+every transaction with perfect fidelity on the block chain,
+very different than the international correspondent banking
+system where you have shell accounts and bad records and
+records all over at different institutions.
+A good example of this is BTC-e, which was an exchange
+based somewhere in Eastern Europe that was being used to
+launder money. FinCEN, in combination with the DOJ, brought an
+investigation. They looked at the blockchain. They found
+transactions all from that exchange heading to a wallet, all
+the fee transactions. They said, OK, this was the person
+running this illicit enterprise, and they ultimately were able
+to identify him based on that
+information, and they arrested him when he was, I think, on
+holiday in Greece. His name is Alexander Vinnik.
+Senator Cortez Masto. I appreciate that. And the reason why
+I asked the question, because I think it is important as we go
+down this path and we are looking at the use of this new
+technology that we continue to study it. That is why Senator
+Toomey and I introduced the Fight Illicit Networks and Detect
+Trafficking Act. The bill would require the GAO to study how
+virtual currencies like Bitcoin and other online marketplaces
+use, buy, sell, facilitate the financing of goods and how it is
+affiliated, if any, with illicit activity.
+So let me move on because I am running out of time. I am
+curious, Dr. Roubini, I also sit on Energy and Natural
+Resources. We have had this conversation about the use of
+blockchain technology in the energy sector and how it is going
+to be a game changer for the energy sector. Have you studied
+the use of this blockchain technology in any other sectors
+other than the financial sector? Have you looked at it and its
+use in the energy sector at all?
+Mr. Roubini. Well, I have not looked at it in the energy
+sector, but, of course, people talk about using it in the case
+of commodities. My point is that even if you use what is called
+``blockchain technologies'' to do transactions, say, in energy
+and commodities, you are never going to use a public,
+trustless, permission-less, peer-to-peer distributed system. It
+does not make any sense. So if you are using it private,
+permission with trusted authorities, that is not a blockchain.
+It is a system where you have trusted authority with verified
+transactions that say these sets of transactions are OK. So
+there are sophisticated versions of databases, but they are not
+blockchain. They are not based on cryptographic consent
+mechanisms that let a bunch of people in China or Russia
+authenticate your transactions. No commodity exchange, no
+commodity business is going to let that happen. It is going to
+be private and permissioned. So it is not a blockchain. I think
+it is a misnomer calling these things ``blockchains.''
+Senator Cortez Masto. Thank you.
+Chairman Crapo. [Presiding.] Thank you. And that does
+conclude our questioning. I apologize to the witnesses. I had
+to step out. I am also a member of a couple other committees,
+and one of them was having a markup that I had to vote at. So I
+apologize that I was absent for part of your answers.
+For Senators wishing to submit questions for the record,
+those questions are due in 1 week, on Thursday, October 18. And
+to our witnesses, we ask that you respond to those questions as
+quickly as you can. And, again, thank you for being here today.
+Obviously, there is a significant difference of opinions on
+these issues, but I do not think there is any disagreement that
+these are critical issues that we need to face and deal with.
+With that, thank you for being here today, and the hearing
+is adjourned.
+[Whereupon, at 11:03 a.m., the hearing was adjourned.]
+[Prepared statements, responses to written questions, and
+additional material supplied for the record follow:]
+PREPARED STATEMENT OF CHAIRMAN MIKE CRAPO
+Today, the Committee will continue its exploration of the
+opportunities and challenges surrounding the cryptocurrency and
+blockchain ecosystem.
+Prior to the introduction of Bitcoin and underlying blockchain
+ledger in 2009, there was no similar solution to the double-spend
+problem--where the same digital currency could be spent more than
+once--which did not require a third-party intermediary.
+While Bitcoin, the first decentralized cryptocurrency, has been
+around for nearly a decade now, cryptocurrencies have gained particular
+attention in the past 2 years, due in part to their meteoric rise and
+subsequent fall in value last year.
+Advancements since Bitcoin's creation have expanded blockchain's
+uses and given way to things like ``Initial Coin Offerings,'' a method
+of crowdfunding that has become popular in the cryptocurrency
+community.
+While the technologies underpinning cryptocurrencies have the
+ability to transform the composition of, and ability to access, capital
+and the financial system, much of the recent news about
+cryptocurrencies has been negative, focusing on enforcement actions,
+hacks on international exchanges, and concerns raised by various
+regulators and market participants.
+To that end, in February of this year, the Committee held a hearing
+with the SEC and CFTC to examine their oversight roles of
+cryptocurrency-related products and activities under their respective
+jurisdictions.
+Since that hearing, the agencies have made strides to provide
+further clarification on their thinking surrounding cryptocurrency-
+related issues.
+But, some regulatory and oversight questions still remain.
+The regulatory questions, price volatility and reports of things
+like pump-and-dump schemes have raised a lot of questions surrounding
+the cryptocurrency and blockchain ecosystem that need to be better
+understood.
+Blockchain networks have the potential to improve processes for
+things like smart contracts, payments and settlement, identity
+management and even things yet undiscovered.
+In order to move forward in a productive way and give these
+innovations the room to flourish and develop in a safe and sound way,
+we need to sort through the static and better understand what exactly
+are the opportunities and challenges facing this ecosystem.
+For example, the Committee would benefit to hear about: the use of
+cryptocurrencies and derivative products as a store of value or medium
+of exchange or payment; the current and potential applications of
+blockchain technology; and the regulatory issues surrounding the
+various facets of the ecosystem and how they can be improved.
+______
+PREPARED STATEMENT OF SENATOR SHERROD BROWN
+Thank you, Chairman Crapo, for holding this hearing. And thank you
+to Mr. Van Valkenburgh and Dr. Roubini for your testimony.
+Today's hearing happens to fall just shy of the tenth anniversary
+of Bitcoin and the blockchain being introduced to the world--October
+31, 2008. Back then we were in the midst of a global financial crisis,
+and you can't blame some Americans for hoping that an alternative
+banking system could be created that would be superior to the one in
+shambles at that time.
+Bitcoin, and other cryptocurrencies like it, promised to make
+payments faster, easier and cheaper, and to eliminate our reliance on
+risky financial institutions whose failures harmed workers and families
+during the crisis.
+Unfortunately, the last 10 years have shown that misconduct,
+fraudulent investment schemes, and cybersecurity threats aren't unique
+to the traditional financial system. When a cryptocurrency goes bust or
+a poorly supervised exchange fails, it's often hardworking Americans
+left holding the bag.
+We want to see innovations in the financial system, innovations
+that help Americans keep more of their money by avoiding fees or that
+make it easier to borrow for a small business startup.
+But so far, despite all the energy and investment dedicated to
+finding a use for the blockchain, there are few real-world applications
+and an alarming number of scams.
+Cryptocurrency prices have swung wildly over the last year.
+Inexperienced investors who were hoping to get in on the next big
+financial innovation have seen the value of these investments fall by
+more than 75 percent from their peak.
+Though they have raised billions of dollars from investors, few if
+any Initial Coin Offerings have registered with the SEC. Chair Clayton
+told this Committee in a February hearing, ``Every ICO I've seen is a
+security.''
+And last month, the New York Attorney General released a report on
+several cryptocurrency trading platforms that pointed to evidence of
+widespread manipulation and identified several exchanges that don't
+follow ``anti-money laundering'' or ``know your customer''
+requirements.
+With a decade of experience, much of the irrational exuberance
+around cryptocurrencies and blockchain technology has subsided, and we
+have an opportunity to set more realistic expectations for how these
+innovations might be used to promote a fairer and more competitive
+economy.
+I hope this technology will prove useful, particularly in helping
+people who are unbanked or underserved by the traditional financial
+system. And I understand why individuals might be interested in it. But
+at this point, it is easier to see the malign impacts on society as a
+whole than the constructive ones.
+I look forward to the witnesses' testimony.
+______
+PREPARED STATEMENT OF NOURIEL ROUBINI, Ph.D.
+Professor of Economics, Stern School of Business, New York University
+October 11, 2018
+Chairman Crapo, Ranking Member Brown and Members of the Committee,
+thank you for the opportunity to testify today on the topic of the
+Cryptocurrency and Blockchain Ecosystem.
+My name is Nouriel Roubini and I am a Professor of Economics at the
+Stern School of Business at New York University. I am an expert of the
+global economy, international financial markets, asset and credit
+bubbles and their bust, and the related financial crises. I was one of
+the few economists warning about and predicting in advance the Global
+Financial Crisis of 2007-2009 and I am one of the leading global
+scholars on the topic of bubbles and financial crises. My most recent
+book ``Crisis Economics: A Crash Course in the Future of Finance'' is a
+seminal treatise on the topic of asset bubbles and financial crises. I
+have written dozens of papers and other contributions on the topic of
+bubbles and their bust and the causes and consequences of financial
+crises.
+Crypto Bubble (2017) and Crypto Apocalypse and Bust (2018)
+It is clear by now that Bitcoin and other cryptocurrencies
+represent the mother of all bubbles, which explains why literally every
+human being I met between Thanksgiving and Christmas of 2017 asked me
+first if they should buy them. Especially folks with zero financial
+literacy--individuals who could not tell the difference between stocks
+and bonds--went into a literal manic frenzy of Bitcoin and Crypto
+buying. Scammers, swindlers, criminals, charlatans, insider whales and
+carnival barkers (all conflicted insiders) tapped into clueless retail
+investors' FOMO (``fear of missing out''), and took them for a ride
+selling them and dumping on them scammy crappy assets at the peak that
+then went into a bust and crash--in a matter of months--like you have
+not seen in any history of financial bubbles.
+A chart of Bitcoin prices compared to other famous historical
+bubbles and scams--like Tulip-mania, the Mississippi Bubble, the South
+Sea Bubble--shows that the price increase of Bitcoin and other crypto
+junk-coins was 2X or 3X bigger than previous bubbles and the ensuing
+collapse and bust as fast and furious and deeper. Bitcoin rapidly
+exploded in 2017 from $1k to $10k and then peaked almost at $20k in
+December 2017 only to collapse to below $6k (down 70 percent from that
+peak) in a matter of 4 months and it has been close to $6k since then.
+And a 70 percent capital loss was a ``good'' deal compared to thousands
+of alt-coins (otherwise better known as ``sh*tcoins'') that have lost
+on average 95 percent of their value since the peak. Actually calling
+this useless vaporware garbage a sh*tcoin is a grave insult to manure
+that is a most useful, precious and productive good as a fertilizer in
+agriculture.\1\
+---------------------------------------------------------------------------
+\1\ My apologies to the Members of the Senate Banking Committee for
+using the scatological term ``sh*tcoin'' but the term is standard in
+the crypto jargon and there are more than 500,000 references to it in a
+Google search of this technical term. See: https://www.google.com/
+search?q=shitcoin&oq=shitco&aqs=chrome.0.0j69i57j0l4.3571j0j8&sourceid=c
+hrome&ie=UTF-8.
+---------------------------------------------------------------------------
+Now that the crypto bloodbath is in full view the new refuge of the
+crypto scoundrels is ``blockchain,'' the technology underlying crypto
+that is now alleged to be the cure of all global problems, including
+poverty, famines and even diseases. But
+as discussed in detail below blockchain is the most over-hyped--and
+least useful--
+technology in human history: in practice it is nothing better than a
+glorified spreadsheet or database.
+The entire cryptocurrency land has now gone into a crypto-
+apocalypse as the mother and father of all bubbles has now gone bust.
+Since the peak of the bubble late last year Bitcoin has fallen by about
+70 percent in value (depending on the week). And that is generous.
+Other leading cryptocurrencies such as Ether, EOS, Litecoin, XRP have
+fallen by over 80 percent (or more depending on the week). While
+thousands of other cryptocurrencies--literally scam-coins and scam-
+tokens--have fallen in value between 90 percent and 99 percent. No
+wonder as a recent study showed that 81 percent of all ICOs were scams
+in the first place, 11 percent of them are dead or failing while only 8
+percent of them are traded in exchanges. And out of this 8 percent the
+top 10 coins traded--after Bitcoin--have lost between 83 percent and 95
+percent of their value since peak with an average loss of over 90
+percent. This is a true Crypt-Apocalypse. No wonder that a recent study
+this week argued and conclude that the crypto industry is on the
+``brink of an implosion.''\2\
+---------------------------------------------------------------------------
+\2\ https://www.newsbtc.com/2018/10/09/juniper-research-the-crypto-
+industry-is-on-the-brink-of-an-implosion/.
+---------------------------------------------------------------------------
+No asset class in human history has ever experienced such a rapid
+boom and total utter bust and implosion that includes thousands of
+different crypto-assets.
+Crypto is not money, not scalable
+To be a currency, Bitcoin--or any cryptocurrencies--should be a
+serviceable unit of account, means of payments, and a stable store of
+value. It is none of those things. No one prices anything in Bitcoin.
+Few retailers accept it. And it is a poor store of value, because its
+price can fluctuate by 20-30 percent in a single day. And since its
+price has been so unstable or volatile almost no merchant will ever use
+it as a means of payment: the profit margin of any merchant can be
+wiped out in a matter of minutes--if he or she accepts Bitcoin or any
+other cryptocurrency--by the change in the dollar price of a
+cryptocurrency. Proper means of payments need to have stable purchasing
+power; otherwise no one will ever use them.
+As is typical of a financial bubble, investors were buying
+cryptocurrencies not to use in transactions, but because they expected
+them to increase in value. Indeed, if someone actually wanted to use
+Bitcoin, they would have a hard time doing so. It is so energy-
+intensive (and thus environmentally toxic) to produce, and carries such
+high transaction costs, that even Bitcoin conferences do not accept it
+as a valid form of payment (https://slate.com/technology/2018/01/the-
+most-important-block
+chain-conference-of-the-year-wont-take-bitcoin-for-last-minute-
+sales.html). Paying $55 dollars of transaction costs to buy a $2 coffee
+cup is obviously never going to lead Bitcoin to become a transaction
+currency.
+Until now, Bitcoin's only real use has been to facilitate illegal
+activities such as drug transactions, tax evasion, avoidance of capital
+controls, or money laundering. Not surprisingly, G20 member states are
+now working together to regulate cryptocurrencies and eliminate the
+anonymity they supposedly afford, by requiring that all income- or
+capital-gains-generating transactions be reported. Even the U.S.
+Treasury Secretary Steve Mnuchin has publicly stated that we cannot
+allow cryptocurrencies to become the next Swiss bank account.
+Since the invention of money thousands of years ago, there has
+never been a monetary system with hundreds of different currencies
+operating alongside one another. The entire point of money is that it
+allows parties to transact without having to barter. But for money to
+have value, and to generate economies of scale, only so many currencies
+can operate at the same time.
+In the United States, the reason we do not use euros or yen in
+addition to dollars is obvious: doing so would be pointless, and it
+would make the economy far less efficient. The idea that hundreds of
+cryptocurrencies could viably operate together not only contradicts the
+very concept of money with a single numeraire that can be used for the
+price discovery of the relative price of thousands of good; it is
+utterly idiotic as the use of multiple numeraires is like the stone age
+of barter before money was created.
+Supply of crypto is massive. Bitcoin is deflationary
+But so, too, is the idea that even a single cryptocurrency could
+substitute for fiat money. Cryptocurrencies have no intrinsic value,
+whereas fiat currencies certainly do, because they can be used to pay
+taxes. Fiat currencies are legal tender and can be used and are used to
+buy any good or service; and they can be used to pay for tax
+liabilities. They are also protected from value debasement by central
+banks committed to price stability; and if a fiat currency loses
+credibility, as in some weak monetary systems with high inflation, it
+will be swapped out for more stable foreign fiat currencies--like the
+dollar or the euro--or real assets such as real estate, equities and
+possibly gold. Fiat money also is not created out of thin air: these
+liabilities of a central bank such as the Fed are backed by the Fed
+assets: their holdings of short term and longer term Treasury
+securities (that have near AAA sovereign credit status in the United
+States) and holding of foreign reserves including gold and other stable
+foreign currencies. The usual crypto critique of fiat currencies that
+can be debased via inflation is nonsense: for the last 30 years
+commitment to inflation targeting in advanced economies and most
+emerging markets has led to price stability (the 2 percent inflation
+target of most central banks) and for the last decade the biggest
+problem of central banks has been that achieving the inflation target
+of 2 percent after the GFC has become extremely difficult as, in spite
+of unconventional monetary policies, the inflation rate has
+systematically undershot its 2 percent target.
+Instead 99.9 percent all cryptocurrencies instead have no backing
+whatsoever of any sort and have no intrinsic value of any sort; and
+even the so-called ``stable coins'' have only partial backing at best
+with true U.S. dollars reserves or, like Tether, most likely no backing
+at all as there has never been a proper audit of their accounts.
+As it happens, Bitcoin's supposed advantage is also its Achilles's
+heel, because even if it actually did have a steady-state supply of 21
+million units, that would disqualify it as a viable currency. Unless
+the supply of a currency tracks potential nominal GDP, prices will
+undergo deflation.
+That means if a steady-state supply of Bitcoin really did gradually
+replace a fiat currency, the price index of all goods and services
+would continuously fall. By extension, any nominal debt contract
+denominated in Bitcoin would rise in real value over time, leading to
+the kind of debt deflation that economist Irving Fisher believed
+precipitated the Great Depression. At the same time, nominal wages in
+Bitcoin would increase forever in real terms, regardless of
+productivity growth, adding further to the likelihood of an economic
+disaster.
+Worse, cryptocurrencies in general are based on a false premise.
+According to its promoters, Bitcoin has a steady-state supply of 21
+million units, so it cannot be debased like fiat currencies. But that
+claim is clearly fraudulent, considering that it has already forked off
+into several branches and spin-offs: Bitcoin Cash and Bitcoin Gold.
+Ditto for the various forks and spin-off of Ether from the Ethereum
+cartel. It took a century for Coca Cola to create the new Coke and call
+the old one Coke Classic. But it took 3 years to Ethereum to dump the
+first ETH into Ethereum Classic and create and brand new spin-off, ETH.
+Moreover, hundreds of other cryptocurrencies are invented every
+day, alongside scams known as ``Initial coin offerings,'' which are
+mostly designed to skirt securities laws. And their supply is created
+and debased every day by pure fiat and in the most arbitrary way. So
+cryptocurrencies are creating crypto money supply and debasing it at a
+much faster pace than any major central bank ever has. No wonder that
+the average cryptocurrency has lost 95 percent of its value in a matter
+of a year.
+At least in the case of Bitcoin the increase in supply is
+controlled by a rigorous mining process and the supply is capped--at
+the limit--to 21 million bitcoins. Instead, most other alt-coins
+starting with the leading ETH, have an arbitrary supply that was
+created via pre-mining and pre-sale; and the change of supply of that
+and thousands of other cryptocurrencies is now subject to arbitrary
+decision of self-appointed ``central bankers.''
+And the biggest scam of all is the case of ``stable coins''--
+starting with Tether--that claimed to be pegged one-to-one to the U.S.
+dollar but are not fully collateralized by an equal backing of true
+U.S. dollars. Bitfinex--behind the scammy Tether--has persistently
+refused to be properly audited and its creation of fiat Tether has been
+systematically used to prop up manipulate upward the price of Bitcoin
+and other cryptocurrencies according to a recent academic paper.\3\
+---------------------------------------------------------------------------
+\3\ https://www.bloomberg.com/news/articles/2018-06-13/professor-
+who-rang-vix-alarm-says-tether-used-to-boost-bitcoin.
+---------------------------------------------------------------------------
+Financial crises occurred well before fiat currencies and central
+banking; and are now less virulent thanks to central banks and
+fiat money.
+Another totally false argument is that asset and credit bubbles are
+caused by central banks and the existence of fiat currencies. Any
+student of financial crises knows that asset and credit bubbles were
+widespread before fiat currencies and central banks were created; see
+for example Tulipmania, the Mississippi Bubble and the South Sea
+Bubble. These bubbles and their busts were frequent, virulent and had
+massive economic and financial costs including severe recessions,
+deflations, defaults and financial crisis.
+Central banks--instead--were initially created not to provide goods
+price stability but rather to provide financial stability and avoid the
+destructive bank, sovereign and currency runs that do occur when a
+bubble goes bust. Indeed, the Fed was created in 1913 when the last of
+many bubbles gone bust that had caused massive bank runs led to the
+realization that an institution that could provide with lender of last
+resort to the financial system was needed. That and the creation of
+deposit insurance after the Great Depression is the reason why bank
+runs are so rare. And the purpose of fiat currencies whose supply is
+regulated by credible and independent central bank is to reduce the
+frequency, virulence and severity of economic recessions, deflations
+and asset and credit bubbles gone bust. And indeed the economic and
+financial history of the United States and other countries shows that
+severe economic recessions, depressions, deflations and financial
+crises are less frequent and less costly after the creation of fiat
+currencies and central banks.
+Crypto-currencies instead have not and will never have the tools to
+pursue economic and financial stability. The few like Bitcoin whose
+supply is truly constrained by an arbitrary mathematical rule will
+never be able to stabilize recessions, deflations and financial crises;
+they will rather lead to permanent and pernicious deflation. While the
+rest--99 percent--have an arbitrary supply generation mechanism that is
+worse than any fiat currency and, at the same time, will never be able
+to provide either economic or price or financial stability. They will
+rather be tools of massive financial instability if their use were to
+become widespread.
+The real revolution in financial services is FinTech and it has nothing
+to do with Blockchain or Crypto
+The financial-services industry has been undergoing a revolution.
+But the driving force is not overhyped blockchain (https://medium.com/
+@pavelkravchenko/decline-of-blockchain-hype-and-rise-of-a-common-sense-
+8de5789a794d) applications such as Bitcoin. It is a revolution built on
+artificial intelligence, big data, and the Internet of Things.
+Already, thousands of real businesses are using these technologies
+to disrupt every aspect of financial intermediation. Dozens of online-
+payment services--PayPal, Venmo, Square and so forth--have hundreds of
+millions of daily users in the United States. Billions more use similar
+low cost, efficient digital payment systems all over the world: AliPay
+and WeChat Pay in China; UPI-based systems in India; M-Pesa in Kenya
+and Africa. And financial institutions are making precise lending
+decisions in seconds rather than weeks, thanks to a wealth of online
+data on individuals and firms. With time, such data-driven improvements
+in credit allocation could even eliminate cyclical credit-driven booms
+and busts.
+Similarly, insurance underwriting, claims assessment and
+management, and fraud monitoring have all become faster and more
+precise. And actively managed portfolios are increasingly being
+replaced by passive robo-advisers, which can perform just as well or
+better than conflicted, high-fee financial advisers.
+Now, compare this real and ongoing FinTech revolution that has
+nothing to do with blockchain or cryptocurrencies with the record of
+blockchain, which has existed for almost a decade, and still has only
+one failing and imploding application: cryptocurrencies.
+Buterin's inconsistent trinity: crypto is not scalable, is not
+decentralized, is not secure
+There is a deeper fundamental flaw and inconsistency in the crypto/
+blockchain space. As Vitalik Buterin correctly wrote a while ago there
+is a fundamental ``inconsistent trinity'' in blockchain: you cannot
+have at the same time scalability, decentralization and security.
+Bitcoin, for example, is partially decentralized--even if its
+mining is now massively centralized--but it is not scalable given its
+proof of work (PoW) authentication mechanism--that allows only for 5 to
+7 transactions a second. And it is secure--so far--but at the cost of
+no scalability. And since its mining is now massively centralized--as
+an oligopoly of miners now control its mining--its security is at risk.
+Supporters of crypto have been promising forever--Buterin spoke of
+Proof of Stake (PoS) in 2013--systems that are vastly scalable. But
+leaving aside that PoS is not live yet and Ethereum is still based on
+PoW, the reality is that once Proof of Stake is properly launched it
+will be massively centralized and thus not secure. The whole logic of
+PoS is to give greater voting power to those who have a stake in a
+coin--those who own it the most and mine it the most. But that leads to
+a massive centralization problem. Even Bitcoin that is based on PoW has
+seen a massive centralization and concentration of mining power in a
+small oligopolistic group. This problem of concentration of mining
+power among an oligopoly becomes much worse with PoS as those with
+greater initial stake--and Ethereum is massively
+concentrated in ownership of ETH--will get a greater stake over time.
+So the problems of oligopolistic cartelization of mining power that is
+already very serious in PoW will become exponentially worse in PoS.
+More generally, while cryptography scientists are busy inventing
+every day another ``consensus'' mechanism and there are dozens of new
+ones after PoW and PoS and their variant the reality is that--given
+Buterin's inconsistent trinity it will never be possible to create a
+consensus mechanism that is scalable while also being decentralized and
+secure.
+One solution to the problem of scalability is to use many alt-coins
+rather than increasing the block size of each blockchain; but that
+solution is highly inefficient and is not secure. A second solution is
+to increase the block size; but then nodes running on a smaller
+computer or laptop would drop out of the system as they will not be
+able to store every transaction or state. So you would end up relying
+on a small number of super-computers for running the blockchain; so you
+end up with an oligopoly with market power, concentration and lack of
+security. A third solution is where most of the crypto industry is
+trying to go, i.e., merge mining and variant of proof of stake. In this
+system there are many chains but all such chains share the same mining
+power or stake. But this approach increases the computational and
+storage demands on each miner by a massive factor that most miners will
+not be able to support. So this solution is a backdoor way of
+increasing the size of the blocks. Thus, it leads to only very few
+powerful miners to participate into this proof of stake, i.e.,
+participating in merge-mining each chain. So it leads again to
+centralization, oligopolies of mining and thus lack of security.
+Whichever way you try to slice it blockchain leads to
+centralization and lack of security. And this fundamental problem when
+you try scalability will never be resolved. Thus, no decentralized
+blockchain will ever be able to achieve scalability that is critical to
+make it useful for large scale financial or any other type of
+transactions. Indeed, even those blockchains that do not have any
+scalability, like Bitcoin and those based on PoW, have massive mining
+concentration problems. The nature of mining implies that any form of
+mining has economies of scale that require massive scale--think of the
+massive energy hogging mining factories of crypto-land--and lead to
+massive oligopolistic concentration of power and lack of security.
+With the centralization of power comes a serious problem of lack of
+security, starting with 51 percent attacks. Supporters of crypto argue
+that it would not be in the interest of an oligopoly of miners to start
+a 51 percent as it would destroy their source of income/fees. But
+leaving aside that such an attack would allow them to steal the
+underlying assets--worth is some cases dozens of billions of dollars as
+in the case of BTC. The main problem is any oligopolistic cartel will
+end up behaving like an oligopoly: using its market power to jack up
+prices, fees for transactions and increase its profit margins. Indeed,
+as concentration of mining has increased over the last year transaction
+costs of crypto--as measured by miners' fees divided by number of
+transactions--have skyrocketed.
+No security in cryptocurrencies
+So even PoW that is not scalable leads to concentration/
+centralization and thus lack of security. PoS and other authentication
+mechanisms that are scalable are much worse: bigger concentrated
+oligopolistic cartels and thus lack of security.
+Also 51 percent attacks are not a theoretic possibility that is
+impossible in practice. Dozens of successful 51 percent attacks have
+occurred recently. In smaller coins with a small market capitalization
+you don't even need a 51 percent hash power to mount a successful 51
+percent attack. And since market cap is low a few hundreds of thousands
+of dollars--or at best a couple of millions--are sufficient to mount a
+successful 51 percent attack whose gain is a 10 to 20X multiple of the
+cost of the attack. No wonder that dozens of successful 51 percent
+attack have occurred recently against smaller cryptocurrencies.
+Fundamental flaws of lack of security in crypto land go well beyond
+the fact that mining is highly concentrated in oligopolies in shady and
+nontransparent and unsecure jurisdictions--China, Russia, Belarus,
+Georgia, etc. It also goes beyond the possibility and reality of
+massive and regular 51 percent attacks.
+There is a deeper and more fundamentals set of security flaws in
+crypto land. Conventional payment systems based on fiat currencies,
+central banks and private banks are scalable and secure but
+centralized; so they resolve Buterin's inconsistent trinity principle
+by giving up decentralization and relying on trusted permissioned
+authorities to resolve the ``double spend'' problem.
+Instead, blockchains and cryptocurrencies not only are not scalable
+and are massively centralized; they are also massively not secure.
+When I use traditional financial systems based on fiat currencies
+there are many levels and layers of security. First I rely on
+institutions with a reputation and
+credibility built over time; there is also deposit insurance that
+guarantees the value of my deposits; there is the lender of last resort
+role of central bank to avoid runs on solvent but illiquid banks;
+sometimes even there is even the bailout of systemically important too-
+big-to-fail (TBTF) institutions with provisos to control this TBTF
+moral hazard. More importantly, a depositor or credit card holder is
+made whole with little effort when fraudulent transaction occur and
+someone tries to steal your money or make a fraudulent charge on your
+credit card. Society pays a small fee--in a number of ways--to ensure
+such safety but depositors and credit card holders are happy to pay
+such a modest fee in exchange for transaction security. So while many
+breaches of security may occur--as there are main weak points in the
+system--the system is secure and individual users of the system are
+also secure.
+In crypto land instead there are none of these institutions that
+provide security: no deposit insurance, no lender of last resort
+backstop, no insurance of hacked and stolen funds. And the breaches of
+security are massive and escalating. It is now clear that while Bitcoin
+has not been hacked yet the centralized exchanges that hold the
+cryptocurrencies of millions of depositors can be and have been hacked
+on a regular scale. And once your crypto assets are stolen they vanish
+in the vast anonymous void of crypto and cannot be found and retrieved
+any more. The vast hacking of centralized exchanges has led to the
+developments of dozens of decentralized exchanges (DEX) but 99 percent
+of all trading is on centralized exchanges and some security flaws of
+DEX imply that even the so called ``secure'' DEX are not secure at all.
+Once a hacker steals your private key--whether it is stored on an
+online wallet, laptop, phone, computer or tablet or centralized
+exchange your crypto wealth is stolen and gone forever.
+Given these massive security problems of crypto the solutions to
+these severe security problems are all variants of going back to the
+stone age: do not put your long private key--that no human can memorize
+ever--on any digital device but rather write it down on a piece of
+paper and hide it in a hole where hopefully no one will find it or no
+insect or rat will destroy it. Or spend a fortune to put your crypto
+assets into ``cold storage'', i.e., a digital storage that is
+disconnected from anything online. The latter is the stone age
+equivalent of hiding your wealth into deep caves that cannot be found
+by anyone. But leaving aside the cost of such stone age security
+solutions the implication becomes that your crypto wealth--hidden in
+deep cold storage--cannot be easily traded or used for transactions of
+any sort. This is the contemporary equivalent of mining gold deep from
+the ground and then hiding it in the form of gold ingots back deep in
+the ground.
+Even such security solutions are not safe: criminals who know that
+access to your private key is access to your entire crypto wealth
+forever are now specializing into gunpoint robberies of crypto
+investors and whales (also known as ``crypto robberies''). At gunpoint
+you are forced to provide your private key and then your wealth is gone
+for good. No wonder that crypto conferences have entire sessions
+devoted to secure your insecure crypto assets.
+Traditional banking systems have found secure solutions to such
+criminal security problems: even if a robber forces you at gunpoint to
+reveal the pin of your ATM card the amount of cash that can be
+withdrawn is limited to a small amount; similarly wire transfer of a
+significant size are subject to various forms of identity verification.
+o there is no way that your entire wealth can be stolen with a click as
+it happens daily in crypto land. While crypto relies on stone age
+technologies and cannot even resolve such security problems.
+Decentralization is a self-serving ideology
+Blockchain's ideology is politically born out of the same mentality
+as libertarian right wing conspiracies or extreme left anarchism: all
+governments, central banks, moneys, institutions, banks, corporations,
+entities with reputation and credibility build over centuries are evil
+centralized concentrations of power that literally need to be
+destroyed.
+So the utopian crypto future will be one of libertarian
+decentralization of all economic activity, transactions and human
+interactions. Everything will end up on a public decentralized
+distributed permission-less, trustless ledger; or better millions of
+ledgers on computers that are now already consuming more energy than
+Canada to verify and confirm transactions without the use of evil
+centralized institutions. This extreme right wing ideology of crypto
+has been studied in detail in the
+academic book by David Golumbia ``The Politics of Bitcoin: Software As
+Right Wing Extremism.''\4\
+---------------------------------------------------------------------------
+\4\ https://www.upress.umn.edu/book-division/books/the-politics-of-
+bitcoin.
+---------------------------------------------------------------------------
+But the reality is just the opposite: a bunch of self-serving
+greedy white men--very few women or minorities are allowed in the
+blockchain space--have pretended to create billions of wealth out of
+nowhere while pretending to care about billions of poor and unbanked
+human around the world. It is a total pretense as crypto-land is the
+most centralized scam in human history where greed for Lambos and
+ostentatious consumption is greater than any Gordon Gecko ever.
+There are hundreds of stories of greedy crypto-criminals raising
+billions of dollars with scammy white papers that are nothing but
+vaporware and then literally stealing these billions to buy Lambos,
+expensive cars, villas in the Caribbean and the French Riviera. These
+large scale criminals stealing dozens of billions make the small and
+petty Wolf of New York robbing small investors in criminal penny stock
+manipulation schemes looks an amateur.
+But the most shameful of such near-criminals is a crypto guru--that
+was formerly investigated for pedophilia and who has put his home and
+operation--together with a group of crypto scammers--in Puerto Rico
+after a devastating hurricane that killed thousands and nearly
+destroyed the island.
+Under the high-flatulent pretense of wanting to help the millions
+who lost homes and their livelihood to the hurricane by using
+``blockchain'' and new crappy cryptocurrencies these literal blood-
+suckers live in super-luxury mega mansions in the island and use the
+island's tax laws to enrich themselves and avoid paying their Federal
+taxes. They are emblematic of a widespread crypto culture that
+shamelessly pretends to care about the billions of poor and unbanked
+just to enrich itself. At least the Wolf of New York had no pretense of
+wanting save the world, end global poverty and the tragic misery of a
+Puerto Rico devastated by a hurricane.
+Decentralization is a myth: massive centralization and concentration of
+oligopolistic power and cartels among miners, exchanges,
+developers, wealth holders.
+The reality is one of a massive centralization of power among
+miners, exchanges, developers and wealth holders, the total opposite of
+the lie of a decentralized system.
+First, miners are massively centralized as the top four among them
+control three quarters of mining and behave like any oligopolist:
+jacking up transaction costs to increase their fat profit margins. And
+when it comes to security most of these miners are in nontransparent
+and authoritarian countries such as Russia and China. So we are
+supposed not to trust central banks or banks when it comes to financial
+transactions but rather a bunch of shady anonymous concentrated
+oligopolists in jurisdictions where there is little rule of law?
+A recent study by a scholar at Princeton University is aptly titled
+``The Looming Threat of China: An Analysis of Chinese Influence on
+Bitcoin.''\5\ In summary the conclusions of this paper are as follows:
+``As Bitcoin's popularity has grown over the decade since its creation,
+it has become an increasingly attractive target for adversaries of all
+kinds. One of the most powerful potential adversaries is the country of
+China, which has expressed adversarial positions regarding the
+cryptocurrency and demonstrated powerful capabilities to influence it.
+In this paper, we explore how China threatens the security, stability,
+and viability of Bitcoin through its dominant position in the Bitcoin
+ecosystem, political and economic control over domestic activity, and
+control over its domestic internet infrastructure. We explore the
+relationship between China and Bitcoin, document China's motivation to
+undermine Bitcoin, and present a case study to demonstrate the strong
+influence that China has over Bitcoin. Finally, we systematize the
+class of attacks that China can deploy against Bitcoin to better
+understand the threat China poses. We conclude that China has mature
+capabilities and strong motives for performing a variety of attacks
+against Bitcoin.''
+---------------------------------------------------------------------------
+\5\ https://arxiv.org/pdf/1810.02466.pdf.
+---------------------------------------------------------------------------
+Everything that this study argues about the nefarious impact of
+China on Bitcoin can be said and applied to any other cryptocurrency
+and to the role of Russia in the crypto eco-system.
+Second, all trading is centralized as 99 percent of all trading
+occurs on centralized exchanges while hundreds of decentralized
+exchanges have no trading, no liquidity are collapsing. And centralized
+exchanges are being hacked daily as there is not security in keeping
+crypto assets in a wallet; and once hacked your wealth is gone forever.
+Third, development is centralized as Vitalik Buterin--creator of
+Ethereum--is named as ``benevolent dictator for life''. And there is
+nothing immutable in the ``code is law'' motto as the developers are
+police, prosecutors and judges: when something goes wrong in one of
+their buggy ``smart'' pseudo-contracts \6\ and massive hacking
+occurs, they simply change the code \7\ and ``fork'' a failing coin
+into another one by arbitrary fiat,\8\ revealing the entire
+``trustless'' enterprise to have been untrustworthy from the start.
+---------------------------------------------------------------------------
+\6\ https://davidgerard.co.uk/blockchain/ethereum-smart-contracts-
+in-practice/.
+\7\ https://www.coindesk.com/the-dao-bitcoin-development/.
+\8\ https://www.cbc.ca/news/technology/ethereum-hack-blockchain-
+fork-bitcoin-1.3719009.
+---------------------------------------------------------------------------
+``Smart Contracts'' are neither smart nor contracts. As a recent
+study has shown ``smart contracts on Ethereum are worse than even
+nonfinancial commercial code; as of May 2016, Ethereum contracts
+averaged 100 obvious bugs (so obvious a machine could spot them) per
+1000 lines of code. (For comparison, Microsoft code averages 15 bugs
+per 1000 lines, NASA code around 0 per 500,000 lines.)''\9\
+---------------------------------------------------------------------------
+\9\ https://davidgerard.co.uk/blockchain/ethereum-smart-contracts-
+in-practice/.
+---------------------------------------------------------------------------
+Fourth, wealth in crypto-land is more concentrated than in North
+Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the
+quite unequal United States): the Gini coefficient for Bitcoin is an
+astonishing 0.88 (https://www.business
+insider.com/bitcoin-inequality-2014-1).
+Quite a feat to create an asset class where inequality is greater
+than that of Kim Jong-un land.
+So decentralization is just a total myth invented by a bunch of
+whales whose wealth is fake; now that the retail suckers who bought at
+the peak have literally lost their shirts these crypto ``whales'' are
+fake billionaires as liquefying their wealth would crash the price of
+the ``asset'' to zero.
+Crypto is not the internet nor will it ever be
+Blockchain's boosters would argue that its early days resemble the
+early days of the internet, before it had commercial applications. But
+that comparison is simply false. Whereas the internet quickly gave rise
+to email, the World Wide Web, and millions of viable commercial
+ventures used by billions of people in less than a decade,
+cryptocurrencies such as Bitcoin do not even fulfill their own stated
+purpose (https://www.project-syndicate.org/commentary/why-bitcoin-is-a-
+bubble-by-nouriel-roubini-2018-01?barrier=accesspaylog.)
+The comparison with the early days of the internet is nonsense as
+even the early internet in the early 1990s saw a rapid boom of
+applications and explosion of user adoption: email became widespread
+and thousands of useful website used by millions of people for useful
+purpose sprang overnight. The boom in web sites creation was so vast,
+rapid and massive that early on directories of such web site--such as
+the start of Yahoo--and search engines became necessary to navigate the
+richness of information of the World Wide Web (WWW).
+The WWW went live in 1991 and by 2000--nine years later--it already
+had 738 million users; and by 2015 the number of users was 3.5 billion.
+Crypto has been around for over a decade now and in 2018 the number
+of crypto wallets was only 22 million and out of this figure the number
+of active Bitcoin users is only between 2.9 and 5.9 million and
+falling. And the number of crypto transactions has collapsed by at
+least 75 percent between 2017 and 2018.
+Successful new technologies have a few key features: exponential
+increase of the number of users, exponential increase of the number of
+transaction, sharp and persistent fall of transaction costs. That is
+the history of the internet--almost one billion users in a decade since
+start and billions of billions of transactions in the first decade--and
+is also the history of financial markets where trading activity--say in
+equity markets--includes an exponential increase in users, exponential
+and permanent increase in number of transactions and a sharp fall in
+transaction costs (as measured by falling bid-ask spreads and by the
+collapse of brokers' fee for equity transactions).
+Crypto land is just the opposite: the number of users in a decade
+is still barely 22 million globally and, after the bust of crypto in
+2018, the active users are a fraction of that number; the number of
+transactions on crypto exchanges in 2018 has collapsed and is down
+between 75 percent and 80 percent; same for the size of transaction
+values given the collapse of crypto asset prices; and transaction costs
+are surging through the roof rather than falling as measured by the
+total value of miners revenue as a share of the number of transactions.
+And after over a decade crypto land has not a single killer app.
+So crypto and blockchain are not like the early years of the
+internet that was booming in every dimension in its first decade; it is
+instead literally collapsing and imploding in every possible dimension.
+It is a failing set of technologies.
+ICOs are not compliant securities when they aren't outright scams
+Initial coin offerings have become the most common way to finance
+cryptocurrency ventures, of which there are now nearly 1,600 and rising
+(https://coinmarketcap.com/all/views/all/) . In exchange for your
+dollars, pounds, euros, or other currency, an ICO issues digital
+``tokens,'' or ``coins,'' that may or may not be used to purchase some
+specified good or service in the future.
+Thus it is little wonder that, according to the ICO advisory firm
+Satis Group, 81 percent of ICOs are scams (https://medium.com/
+@sherwin.dowlat/cryptoasset-market-update-b678aeda4c5e) created by con
+artists, charlatans, and swindlers looking to take your money and run.
+It is also little wonder that only 8 percent of cryptocurrencies end up
+being traded on an exchange, meaning that 92 percent of them failed. It
+would appear that ICOs serve little purpose other than to skirt
+securities laws that exist to protect investors from being cheated.
+If you invest in a conventional (noncrypto) business, you are
+afforded a variety of legal rights--to dividends if you are a
+shareholder, to interest if you are a lender, and to a share of the
+enterprise's assets should it default or become insolvent. Such rights
+are enforceable because securities and their issuers must be registered
+with the State.
+Moreover, in legitimate investment transactions, issuers are
+required to disclose accurate financial information, business plans,
+and potential risks. There are restrictions limiting the sale of
+certain kinds of high-risk securities to qualified investors only. And
+there are anti-money-laundering (AML) and know-your-customer (KYC)
+regulations to prevent tax evasion, concealment of ill-gotten gains,
+and other criminal activities such as the financing of terrorism.
+In the Wild West of ICOs, most cryptocurrencies are issued in
+breach of these laws and regulations, under the pretense that they are
+not securities at all but rather ``security tokens.''\10\ Hence, most
+ICOs deny investors any legal rights whatsoever. They are generally
+accompanied by vaporous ``white papers'' instead of concrete business
+plans. Their issuers are often anonymous and untraceable. And they
+skirt all AML and KYC regulations, leaving the door open to any
+criminal investor.
+---------------------------------------------------------------------------
+\10\ We will discuss below the other scam of so-called ``utility
+token.''
+---------------------------------------------------------------------------
+Jay Clayton, the chairman of U.S. Securities and Exchange
+Commission, recently made it clear that he regards all cryptocurrencies
+as securities, with the exception of the first mover, Bitcoin, which he
+considers a commodity (https://finance.yahoo.com/news/sec-ico-tokens-
+regulated-securities-205650102.html). The implication is that even
+Ethereum and Ripple--the second- and third-largest crypto-assets--are
+currently operating as unregistered securities.\11\ Gary Gensler, a
+former chairman of the Commodities and Futures Trading Commission who
+now teaches a course on blockchain (https://www.project-syndicate.org/
+commentary/blockchain-technology-limited-applications-by-nouriel-
+roubini-and-preston-byrne-2018-03?barrier
+=accesspaylog) (the technology underlying cryptocurrencies) at MIT, has
+also suggested as much (https://www.bloomberg.com/news/articles/2018-
+04-23/ether-ripple-may-be-securities-former-cftc-head-gensler-says).
+---------------------------------------------------------------------------
+\11\ A legal scholar such as Preston Byrne has shown that Ripple
+Labs has created XRP; see https://prestonbyrne.com/2018/09/20/for-the-
+last-time-ripple-created-xrp/.
+---------------------------------------------------------------------------
+And legal scholars such as Preston Byrne have not only confirmed
+that they Ether was created makes it a clear security.\12\ They have
+also shown that the creation of Ethereum may have been a criminal
+insider con job where a small group of whale--starting with the
+billionaires who created this scheme--pretended to make a market-based
+``pre-sale'' of Ether but they instead sold to themselves--most likely
+at bargain basement prices--a great fraction of the ETH created in the
+pre-sale. And so far regulators have done nothing to investigate, let
+alone, prosecute such a cartelized scam.
+---------------------------------------------------------------------------
+\12\ https://prestonbyrne.com/2018/04/23/on-ethereum-security/.
+---------------------------------------------------------------------------
+Tokenization: cartels aimed to gouge consumers. No numeraire and return
+to barter
+So hundreds of ICOs that have raised billions of dollars from
+investors in recent years have been technically illegal as they are
+noncompliant securities hiding under the label of ``security tokens''.
+Even worse, the business model behind most of the remaining ones--the
+so-called ``utility tokens''--is simply to fleece customers, as
+Izabella Kaminska of the Financial Times and Martin Walker of the
+Center for Evidence-Based Management recently demonstrated in a report
+(http://data.parliament.uk/writtenevidence/committeeevidence.svc/
+evidencedocument/treasury-committee/digital-currencies/written/
+82032.html) for the U.K. House of Commons Treasury Committee.
+In normal business transactions, customers can buy goods and
+service with conventional currencies. But in an ICO, customers must
+convert that currency by buying into a limited pool of tokens in order
+to make a purchase. No legitimate business that is trying to maximize
+profits would require its customers to jump through such hoops of first
+buying an ``utility token'' before being able to transact goods or
+services.
+In fact, the only reason to restrict a purchase to token-holders is
+to create an illegal cartel of service providers who are safe from
+price competition and in a position to gouge their customers. Consider
+Dentacoin, a ridiculous cryptocurrency that can be spent only on dental
+services (and which almost no dentist actually accepts). It would be
+hard to come up with a better illustration of why business cartels are
+illegal in all civilized countries.
+Of course, the crypto-cartels would counter that customers who
+incur the cost of buying a token will benefit if that token appreciates
+in value. But this makes no sense. If the price of the token rises
+above the market value of the good or service being provided, then no
+one would buy the token. The only plausible reason for forcing the use
+of a token, then, is to hike prices or bilk investors.
+Beyond facilitating illegal activity, crypto-tokens obfuscate the
+price-discovery benefits that come when a single currency operates as a
+unit of account. In a crypto-utopia, every single good and service
+would have its own distinct token, and average consumers would have no
+way to judge the relative prices of different--or even similar--goods
+and services. Nor would they have any real certainty about a token's
+purchasing power, given the volatility of crypto-token prices.
+Imagine living in a country where instead of simply using the
+national currency, you had to rely on 200 other world currencies to
+purchase different goods and services. There would be widespread price
+confusion, and you would have to eat the cost of converting one
+volatile currency into another every time you wanted to buy anything.
+The fact that everyone within a given country or jurisdiction uses
+the same currency is precisely what gives money its value. Money is a
+public good that allows individuals to enter into free exchange without
+having to resort to the kind of imprecise, inefficient bartering on
+which traditional societies depended.
+That is precisely where the ICO charlatans would effectively take
+us--not to the futuristic world of ``The Jetsons,'' but to the modern
+Stone Age world--that is worse than ``The Flintstones''--who at least
+used clam shells as their money and understood the importance of a
+single numeraire--where all transactions occur through the barter of
+different tokens or goods. It is time to recognize their utopian
+rhetoric for what it is: self-serving nonsense meant to separate
+credulous investors from their hard-earned savings.
+Massive manipulation: pump-and-dump, spoofing, wash trading, front
+running, exchanges conflicts of interest, Tether scam
+There is now massive evidence--from serious press investigations
+and academic studies--that the entire crypto-land is subject to
+massive, systematic and widespread price manipulation of every sort
+known in the annals of criminal manipulation: pump-and-dump schemes,
+wash trading, spoofing, front-running, serious conflicts of interest
+between exchanges and their customers, vast insider trading, creation
+of pseudo stable coins that are rather fiat cryptocurrencies that are
+used only to prop up Bitcoin and other cryptocurrencies. While price
+manipulation does occur in a variety of financial markets, there are
+strict laws against it and it is subject to draconian criminal
+prosecution; thus, it is the exception rather than the rule. While
+criminal price manipulation and insider trading is systemic in crypto
+land. For example, various investigations by the Wall Street Journal
+have shown that hundreds of criminal ``pump-and-dump'' chat rooms exist
+on the Telegram chap app that are aimed only at systematically
+manipulating the price of hundreds of cryptocurrencies.\13\
+---------------------------------------------------------------------------
+\13\ https://www.wsj.com/graphics/cryptocurrency-schemes-generate-
+big-coin/.
+---------------------------------------------------------------------------
+In 2018 cryptocurrency values fell by 90 percent on average from
+their December peak. They would have collapsed much more had a vast
+scheme to prop up their price via outright manipulation not been
+rapidly implemented (https://coinreport.net/teetering-tether/). But,
+like in the case of the sub-prime bubble, most U.S. regulators are
+still asleep at the wheel while having started investigations months
+ago.
+The mother of all manipulations in the crypto land is related to
+Tether and Bitfinex--a shady crypto exchange--that is its backer.
+Bitfinex--behind the scammy Tether--has persistently refused to be
+properly audited and has hopped on four continents changing every
+season the shady bank that provides it banking service linked to fiat
+dollars. And the supply of Tether is increased randomly--by hundreds of
+millions of chunks at a time via pure fiat--as a way to manipulate and
+prop up the value of Bitcoin and the entire related cryptocurrency
+system. Tether has already created by fiat billions of dollars of a
+``stable coin'' that has never been audited. The creation of fiat
+Tether has been systematically used to prop up manipulate upward the
+price of Bitcoin and other cryptocurrencies according to a recent
+academic paper by a leading scholar at the University of Texas. Without
+such outright criminal manipulation the price of Bitcoin would now be
+about 80 percent lower than its current value, i.e., about $1200 rather
+than the current $6500.\14\
+---------------------------------------------------------------------------
+\14\ https://www.bloomberg.com/news/articles/2018-06-13/professor-
+who-rang-vix-alarm-says-tether-used-to-boost-bitcoin.
+---------------------------------------------------------------------------
+No killer app in crypto/blockchain after a decade: only ponzi schemes
+Even supporters of crypto and blockchain do admit that there no
+killer app in crypto or blockchain even after a decade of developments
+and attempts. And as shown above the comparison with the early days of
+the internet is utter nonsense as the internet had massive adoption and
+many early killer apps or websites.
+The only think that Crypto/Blockchain is DAPPS or Distributed Apps.
+But recent studies show that 75 percent of the highly illiquid and
+bared used DAPPS are Krypto-Kitties, Pyramid and Ponzi schemes and
+Casino games. And the Ethereum community is doing nothing--literally
+nothing to stop or block such Ponzi games as it parasitically
+financially profits from them. The remaining 25 percent of DAPPS are
+decentralized exchanges that no one uses as 99 percent of all crypto
+trading occurs on centralized exchanges. So pretty much most DAPPS are
+scams or useless gimmick and their transaction volumes are close to
+zero. Pretty much no adoption of anything. So the comparison with early
+days of the internet is nonsense.
+The energy consumption of crypto is an environmental disaster
+The environmental costs of the energy use of Bitcoin and other
+cryptocurrencies is so vast that has been correctly and repeatedly
+compared to an environmental disaster. No need to repeat how such
+energy mis-use and waste is massive--larger than the energy use per
+year of a mid-sized advanced economy. Such an environmental disaster
+has shamed even supporters of crypto who have become defensive given
+the embarrassing evidence of such energy costs and pollution.
+But now zealot supporters of crypto are pretending that this
+environmental disaster can be minimized or resolved soon. Since using
+millions of computers to do useless cryptographic games to secure the
+verification of crypto transactions is a useless waste of energy--as
+the same transactions could be reported at near zero energy costs on an
+single Excel spreadsheet--crypto zealots argue that such costs could be
+massively reduced if crypto moves from energy-hogging PoW to less
+energy-wasteful Proof of Stake. But as we discussed above in detail,
+scalability of crypto transactions via PoS will be massively
+concentrated in dangerous oligopolies--even more so than PoW--and
+therefore such centralization of mining power will lead to most severe
+problems of security. So, there is no free lunch here. Either crypto
+keeps on using energy-hogging and environmental-disaster PoW or it will
+become an insecure, centralized, and dangerous system.
+The other argument made by crypto zealots is that other financial
+activities--such as gold mining or running the traditional financial
+system--hog a lot of energy. Those apologies are utter nonsense. The
+mining of gold or the provision of financial services produces value
+added and output to the economy that is 1000X than the pseudo value
+added of crypto mining. And financial services provide payment and
+other services to billions of people daily in hundreds of billions of
+daily transactions. So of course their use of energy will be larger
+than crypto. Crypto is used by 22 million folks globally--less than 5
+million active ones today--and its entire market cap is 200 billion--
+not the 300 trillion of global financial and real assets--and is
+producing value added that is a few billions a year--new crypto mining.
+But its energy use cost is already about $5 billion a year. So
+comparing the energy use of useless, inefficient and tiny crypto to the
+services of financial institutions serving daily billions of people is
+utter nonsense of comparing apples and oranges or, better, crypto
+parasites with useful financial services (payments, credit, insurance,
+asset management, capital market services) used by billions. That is
+why a recent scholar has defined Bitcoin as being ``as efficient as a
+lame hippopotamus with an hangover.''\15\
+---------------------------------------------------------------------------
+\15\ https://prestonbyrne.com/2018/10/05/bitcoin_hippo/.
+---------------------------------------------------------------------------
+Blockchain is most overhyped technology ever, no better than a
+glorified spreadsheet or database
+And why is blockchain no better than an Excel spreadsheet or
+database?
+There is no institution under the sun--bank, corporation,
+nonprofit, Government, charity--who would put on public, decentralized,
+peer-to-peer permission-less, trust-lees, distributed ledgers its
+balance sheet, P&L, transactions, trades, interactions with clients and
+suppliers. Why should all this information--mostly proprietary and
+highly valuable--be on a public ledger and authenticated by some
+random, not transparent and shady group of ``miners''? No reason and
+thus there is NO institution whatsoever using a public, permission-less
+distributed technology.
+The only applications of blockchain--so called ``enterprise DLT''--
+have in reality absolutely nothing to do with blockchain. They are
+private not public, they are centralized not decentralized, they are
+not distributed as they are on a few controlled ledgers not millions of
+public ones, they are permissioned with very few legitimate individuals
+authorized to add and change the ledgers rather than being permission-
+less, they are based on trusted authorities that have reputation and
+credibility build over time rather than being trustless, they are not
+peer-to-peer as a centralized and permissioned intermediary is in
+charge of authentication. In other term they are called blockchains but
+they are not blockchains as they have nothing to do with a public
+distributed ledger technology.
+So all so called ``decentralized'' blockchains end up being
+centralized private permissioned databases, i.e., effectively no
+improvement over using an Excel spreadsheet rather than hogging more
+energy than most large-sized economies to put private information on
+millions of computers all over the world.
+And no wonder as no person or firm or institution in authority in
+the private or public sector would ever allow all of its transactions
+to be verified by an oligopoly of shady nontransparent agents in
+autocratic countries where all power is centralized. So it is no
+surprise that any institution under the sun after experimenting with a
+pilot ``blockchain'' dumps it into the garbage bin or turns it into a
+private permissioned database that is no ``blockchain'' in any
+dimension but its misleading name.
+Also as for the underlying pseudo-blockchain technology, there are
+still massive obstacles standing in its way. Chief among them is that
+it lacks the kind of basic common and universal protocols that made the
+internet universally accessible (TCP-IP, HTML, and so forth): there are
+1000s different ``blockchain'' incompatible with each other and totally
+lacking the critical ``inter-operability'' that the internet had from
+the beginning. More fundamentally, its promise of decentralized
+transactions with no intermediary authority amounts to an untested,
+Utopian pipedream (https://www.ft.com/content/b5b1a5f2-5030-11e7-bfb8-
+997009366969). No wonder blockchain is ranked close to the peak of the
+hype cycle of technologies with inflated expectations (https://
+www.project-syndicate.org/commentary/why-bitcoin-is-a-bubble-by-
+nouriel-roubini-2018-01?barrier=accesspaylog).
+So blockchain is one of the most overhyped technologies ever
+(https://www.project-syndicate.org/commentary/why-bitcoin-is-a-bubble-
+by-nouriel-roubini-2018-01?barrier=accesspaylog). Blockchains are less
+efficient than existing databases. When someone says they are running
+something ``on a blockchain,'' what they usually mean is that they are
+running one instance of a software application that is replicated
+across many other devices.
+If it is truly distributed the required storage space and
+computational power is substantially greater, and the latency higher,
+than in the case of a centralized application. Blockchains that will
+incorporate ``proof-of-stake'' or ``zero-knowledge'' technologies will
+require that all transactions be verified cryptographically, which
+slows them down. Blockchains that use ``proof-of-work,'' as many
+popular cryptocurrencies do, raise yet another problem: they require a
+huge amount of raw energy to secure them and are not scalable. This
+explains why Bitcoin ``mining'' operations in Iceland are on track to
+consume more energy this year than all Icelandic households combined
+(http://www.bbc.co.uk/news/technology-43030677).
+Blockchains can make sense in cases where the speed/verifiability
+tradeoff is actually worth it, but this is rarely how the technology is
+marketed. Blockchain investment propositions routinely make wild
+promises to overthrow entire industries, such as cloud computing,
+without acknowledging the technology's obvious limitations.
+Consider the many schemes that rest on the claim that blockchains
+are a distributed, universal ``world computer.'' That claim assumes
+that banks, which already use efficient systems to process millions of
+transactions per day, have reason to migrate to a markedly slower and
+less efficient single cryptocurrency. This contradicts everything we
+know about the financial industry's use of software. Financial
+institutions, particularly those engaged in algorithmic trading, need
+fast and efficient transaction processing. For their purposes, a single
+globally distributed blockchain such as Ethereum would never be useful
+and they will never use it.
+Another false assumption is that blockchain represents something
+akin to a new universal protocol, like TCP-IP or HTML were for the
+internet. Such claims imply that this or that blockchain--among
+thousands that are incompatible with each other--will serve as the
+basis for most of the world's transactions and communications in the
+future. Again, this makes little sense when one considers how
+blockchains actually work. For one thing, blockchains themselves rely
+on protocols like TCP-IP, so it isn't clear how they would ever serve
+as a replacement.
+Furthermore, unlike base-level protocols, blockchains are
+``stateful,'' meaning they store every valid communication that has
+ever been sent to them. As a result, well-designed blockchains need to
+consider the limitations of their users' hardware and guard against
+spamming. This explains why Bitcoin Core, the Bitcoin software client,
+processes only 5-7 transactions per second, compared to Visa, which
+reliably processes 25,000 transactions per second (https://www.project-
+syndicate.org/commentary/blockchain-technology-limited-applications-by-
+nouriel-roubini-and-preston-byrne-2018-03?barrier=accesspaylog#).
+Just as we cannot record all of the world's transactions in a
+single centralized database, nor shall we do so in a single distributed
+database. Indeed, the problem of ``blockchain scaling'' is still more
+or less unsolved, and is likely to remain so forever.
+Although we can be fairly sure that blockchain will not unseat TCP-
+IP, a particular blockchain could eventually set a standard for
+specific private permissioned, not general and public, applications,
+just as Enterprise Linux and Windows did for PC operating systems. But
+betting on a particular ``coin,'' as many investors currently are, is
+not the same thing as betting on adoption of a larger ``protocol'' that
+does not require the use of any coin. Given what we know about how
+open-source software is used, there is little reason to think that the
+value to enterprises of specific blockchain applications will
+capitalize directly into any coin.
+A third false claim concerns the ``trustless'' utopia that
+blockchain will supposedly create by eliminating the need for financial
+or other reliable intermediaries. This is absurd for a simple reason:
+every financial contract in existence today can either be modified or
+deliberately breached by the participating parties. Automating away
+these possibilities with rigid ``trustless'' terms is commercially
+nonviable, not least because it would require all financial agreements
+to be cash collateralized at 100 percent, which is insane from a cost-
+of-capital perspective (https://preston
+byrne.com/2017/12/10/stablecoins-are-doomed-to-fail/).
+Moreover, it turns out that many likely appropriate applications of
+blockchain in finance--such as in securitization or supply chain
+monitoring--will require permissioned centralized intermediaries after
+all, because there will inevitably be circumstances where unforeseen
+contingencies arise, demanding the exercise of discretion. The most
+important thing blockchain will do in such a situation is ensure that
+all parties to a transaction are in agreement with one another about
+its status and their obligations before a trusted and permissioned
+central authority verifies the transaction.
+It is high time to end the hype. Bitcoin is a slow, energy-
+inefficient dinosaur that will never be able to process transactions as
+quickly or inexpensively as an Excel spreadsheet. Ethereum's plans for
+an insecure proof-of-stake authentication system will render it
+vulnerable to manipulation by influential insiders. And Ripple's
+technology for cross-border interbank financial transfers is already
+left in the dust by SWIFT, a nonblockchain consortium that all of the
+world's major financial institutions already use (https://
+www.swift.com/our-solutions/swift-gpi#). And the technology behind
+Ripple is different from its coin XRP: some may use the technology/
+protocol but no one will use the underlying coin whose value has
+collapsed. Ditto for Ether versus Ethereum. Similarly, centralized e-
+payment systems with almost no transaction costs--Faster Payments,
+AliPay, WeChat Pay, Venmo, Paypal, Square--are already being used by
+billions of people around the world who are doing billions of low cost/
+fee secure transactions.
+Ultimately, private permissioned blockchain's uses will be limited
+to specific, narrow well-defined, and complex applications that require
+transparency and tamper-resistance more than they require speed. So
+they are not truly a ``blockchain''.
+A case in point, among hundreds of other cases, is the recent
+announcement of the IBM food ``blockchain'' going live with a major
+supermarket giant being on board with this project. Leave aside that
+the success of such a project--as any other Enterprise DLT one--is more
+than sketchy as there is no general accepted protocol to make this
+system inter-operable among thousands of users and customers. The key
+issue is--as the IBM spokesman quoted in the article say--that this
+system ``obviously requires the growers, the suppliers, and the
+retailers all to be part of the solution, sending in information in a
+trusted and permissioned fashion and we link it all together.''\16\ So
+this alleged blockchain system is trusted not trustless, permissioned
+not permission-less and managed and linked strictly by IBM, not a
+distributed peer-to-peer consensus mechanism managed by millions of
+anonymous computers. Therefore, this project has nothing to do with
+blockchain, as defined in standard terms. It is a traditional database
+with the usual key elements of a private, permissioned databased
+managed by centralized and trusted authorities. And the same exact
+model is the base of any other Enterprise DLT: none of them have
+anything substantial to do with blockchain even if they use this faddy
+and catchy label.
+---------------------------------------------------------------------------
+\16\ https://www.coindesk.com/ibm-food-supplychain-blockchain-
+carrefour-live-production/.
+---------------------------------------------------------------------------
+Enterprise DLT/Blockchain: All hype and no reality
+This is also the reason why corporate blockchains or Enterprise DLT
+are another fad this is now fading and imploding, as a recent Bloomberg
+analysis revealed.\17\ Most companies will halt their blockchain or DLT
+tests this year; and in 90 percent of the cases ``the experiments will
+never become part of a company's operations.'' An analyst from
+Gartner--the leading tech research firm--concluded: ``The disconnect
+between the hype and the reality is significant--I've never seen
+anything like it. ``In terms of actual production use, it's very
+rare.''
+---------------------------------------------------------------------------
+\17\ https://www.bloomberg.com/news/articles/2018-07-31/blockchain-
+once-seen-as-a-corporate-cure-all-suffers-slowdown.
+---------------------------------------------------------------------------
+And the interest in corporate blockchain is collapsing: ``Only 1
+percent of chief information officers said they had any kind of
+blockchain adoption in their organizations, and only 8 percent said
+they were in short-term planning or active experimentation with the
+technology, according to a Gartner study. Nearly 80 percent of CIOs
+said they had no interest in the technology.''
+Crypto is corrupt eco-system full of charlatans, con-men, self-
+interested insiders and scammers. But I have NO conflict of
+interest
+Crypto-land is an eco-system of con artists, self-serving peddlers,
+scammers, carnival barkers, charlatans, and outright criminals. While
+every successful technological revolution includes some bubbles and
+some scammers, most of the real ones--like the internet--create real
+goods and services that billions of folks use around the world even
+after the initial frothiness and bubble has burst. And the criminal and
+scamming element in real technological revolutions is the exception,
+not the systemic rule that it is in crypto land. Scams in
+cryptocurrencies were so widespread and systemic that the SEC had to
+create a fake website that parodies the scammy ICO to warns investors
+of the plethora of scams and criminal enterprises that infest and
+dominate crypto land.\18\
+---------------------------------------------------------------------------
+\18\ https://www.marketwatch.com/story/the-sec-created-a-mock-ico-
+website-to-show-just-how-easy-it-is-for-investors-to-get-fleeced-2018-
+05-16.
+---------------------------------------------------------------------------
+This scammy eco-system is consistent with the idiotic crypto
+jargon: HODLers are suckers who have hold on their collapsing
+cryptocurrencies even after they lost 90 percent of their value; Lambos
+refer to the crypto obsession with stealing investors' money to buy
+luxury energy hogging cars; Whales are large early crypto billionaires
+who are stuck with their fake wealth after the suckers of retails
+investors--who bought into the FOMO of the peak 2017 bubbles--lost 90
+percent of their investments; those suckers are also called BagHolders.
+The entire crypto jargon is not of a new industry developing a creative
+disruptive technology but that of an industry of con artists,
+criminals, scammers and carnival barkers.
+Unlike all self-interested crypto insiders and scammers who talk
+and spin their book 24/7 and use a media/press eco-system of pseudo-
+journalists to spin their endless fake news I have zero position and
+financial interest in this entire space. I have zero long or short
+position in any coin or cryptocurrency and any blockchain business
+venture. And even my support of nonblockchain FinTech is not driven
+from any direct or indirect financial interest; I have zero exposure to
+FinTech ventures. Bitcoin or any crypto-asset could go ``To The Moon''
+or crash to zero and I would not make a penny either way. The only
+thing that is at stake is my personal, intellectual and academic
+reputation.
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+------
+RESPONSES TO WRITTEN QUESTIONS OF SENATOR HELLER FROM PETER VAN
+VALKENBURGH
+Q.1. In your opinion are cryptocurriencies a security or a
+commodity?
+A.1. Typically the term cryptocurrency refers to completely
+decentralized digital currency networks and their related
+scarce tokens, like Bitcoin and Ethereum, that have no issuer
+and no central party that controls these networks. These are
+commodities and not securities. The SEC has made it clear that
+Bitcoin is not a security, while the CFTC treats it as a
+commodity.
+Q.2. How does the current regulation of cryptocurrencies in the
+United States compare to what other countries are doing?
+A.2. The Library of Congress has published a comprehensive
+breakdown of cryptocurrency regulation nation-by-nation, we
+recommend this as a resource to the Senator if he has country-
+specific questions.\1\ Approaches by the G20 member states
+vary, however, application of existing Anti-money laundering
+controls to financial institutions dealing in cryptocurrencies,
+as FinCEN did in 2013, is a common approach. We do not believe
+that nations should ``eliminate the anonymity'' that
+cryptocurrencies may afford; to do so would harm the legitimate
+privacy interests and rights of citizens. Rather, we believe
+that states should balance the rights of their citizens to
+privacy against the need for law enforcement to obtain
+information about criminal activities. This balance has already
+been struck in the context of existing forms of money, like
+cash transactions, and mere application of these same laws to
+financial institutions dealing in cryptocurrency is the best
+path forward. FinCEN has already offered guidance explaining
+why existing laws apply and all major U.S. cryptocurrency
+exchanges of which we are aware now comply with these data
+collection obligations. The worse case is for these developers
+to be forced overseas through bad policy.
+---------------------------------------------------------------------------
+\1\ https://www.loc.gov/law/help/cryptocurrency/world-
+survey.php?loclr=ealrr.
+---------------------------------------------------------------------------
+------
+RESPONSES TO WRITTEN QUESTIONS OF SENATOR SASSE FROM PETER VAN
+VALKENBURGH
+Q.1. Blockchain, or decentralized computing, clearly has the
+potential to be disruptive to traditional banking operations,
+but it can also enhance our efforts to rein in money
+laundering.
+Q.1.a. How does the investigative process for tracking down
+criminal money on the public Bitcoin network compare with our
+methods for tracking down criminal money within traditional
+financial institutions?
+A.1.a. In several ways, transacting with Bitcoin is far more
+public than transacting using the legacy financial system.
+Banks, although obligated under law to identify customers, may
+nonetheless (A) keep imperfect records of transactions; they
+may (B) fail to maintain records from many years ago; and (C)
+there will be several banks with independent records in unique
+data formats that must be obtained, aggregated, and merged in
+order to get a full picture of a person's financial history.
+Bitcoin, by contrast, (A) has a perfect record of all
+transactions made globally (because if a transaction is not in
+the blockchain it does not exist), (B) has a record that is
+maintained from the start of the network in 2009 to the present
+with full copies kept redundantly across several tens-of-
+thousands of independently owned computers the world-over, and
+(C) has a single record that is complete rather than partial
+records scattered across several institutions. Finally, Bitcoin
+transactions are far more transparent than physical cash
+transactions, which leave no record whatsoever.
+Q.2. Will FinCEN's regulatory approach, requiring crypto-
+currency exchanges to know their customers and engage in
+suspicious activity reporting, lead to the stifled growth of
+cryptocurrencies, as their main appeal for users is their
+anonymity and decentralization?
+A.2. No. These technologies offer several benefits beyond
+anonymity. Interoperability is just one of many other benefits.
+Using cryptocurrency hardware and software developers have
+instant access to payment networks that can be built into their
+consumer products (even a smart light bulb can have a Bitcoin
+wallet and verify Bitcoin payments) without any need to seek
+and maintain a relationship with a bank or payments provider.
+We have a paper, Open Matters, that goes into this issues in
+greater detail.
+Q.3. At what point of regulation would cryptocurrencies fail to
+provide any real or perceived advantages over existing
+currencies?
+A.3. The primary value of cryptocurrencies is not their lack of
+regulation. Their primary value stems from the fact that they
+are natively digital, easy for machines to interoperate with,
+worthy of trust even if there is no trusted party within the
+system, and available to users with nothing more than free
+software and an internet connection. Unless regulation quite
+literally banned persons from using these tools (and perhaps
+even then) they will always have certain advantages over
+existing currencies.
+Q.4. Mr. Valkenburgh, is there a danger if other countries
+decide not to follow America's lead in classifying these
+exchanges as money services, considering our lack of control
+over this global currency?
+A.4. Those who would use these tools for crime will find ways
+to access exchanges overseas and do their business on
+unregulated and unsurveiled platforms. If approaches differ
+overseas, there will be gaps in law enforcement's ability to
+track cryptocurrency payments just as the same would be true
+with respect to traditional financial networks.
+Q.5.a. Will blockchain change the way Government agencies work,
+including how census data and public records are stored and
+maintained?
+A.5.a. Public blockchain networks may allow for greater
+integrity and transparency of records, just as the Bitcoin
+blockchain provides integrity and transparency of records
+related to Bitcoin transactions.
+Q.5.b. If so, how far out are we from these practices, in your
+opinion?
+A.5.b. We do not believe that blockchain technology is yet
+mature enough to warrant wide implementation in the public
+sector. Premature adoption could mean poor security for public
+data and it could also result in agencies adopting
+technological means that are rapidly made obsolete by newer
+developments. We've yet to see clear technological winners and
+losers in this space and much remains uncertain. This is a
+necessary stage in the evolution of new technologies. Just as
+the Government should not have immediately switched to email
+systems for messaging in the 1970s or immediately to the web
+for public communications in the 1990s, Government should
+carefully watch but generally not use public blockchain
+networks today. Limited pilot programs may prove the best
+approach. These systems required about 20 years maturation
+before they were truly ready for widespread public sector
+usage. Perhaps a similar time horizon is likely here, however
+prediction is difficult, especially about the future.
+Q.6.a. What about efforts to move health records to the
+blockchain ecosystem, particularly as interoperability
+continues to be an issue in this space?
+A.6.a. This would be a good use case given that the health
+record issue primarily revolves around the need for a universal
+log of access permissions over records that can be transactions
+(e.g., one doctor granting another permission to view a chart)
+and interoperable between several otherwise mutually
+mistrustful (from a data-security standpoint) institutions and
+persons including hospitals, issurers, governments, and
+patients. However, privacy over health data and availability of
+data in emergencies is paramount and public blockchain networks
+may not yet be mature enough to warrant such critical usage.
+Q.6.b. In your view, should Government play a role in
+facilitating this exchange of date?
+A.6.b. We believe it is still premature for Government to play
+a role in promoting usage of public blockchain networks for
+critical information such as patient records.
+Q.7. Where is there potential for blockchain technology outside
+of financial services?
+A.7. Public blockchain networks have great potential to improve
+security and competition within the growing Internet of Things.
+Firstly, open blockchain networks allow for a truly
+decentralized data-structure for device identity (a bulb in
+this home's kitchen) and user access authorization (the user
+with address 0xE1A . . . is the only person who can turn me on
+and off). The redundant and
+decentralized nature of data on these networks can ensure that
+these systems have true longevity, and that a manufacturer's
+decision to end support for a product will not destroy the
+user's ability to securely access the product's features.
+Second, open blockchain networks can help ensure that devices
+are interoperable and compatible because critical
+infrastructure for device communication, data storage, and
+computation can be commoditized and shared over a peer-to-peer
+network rather than be owned (as a server warehouse is owned)
+by a device manufacturer that may be reticent to opening its
+costly platform to competitors. Last, device payments for
+supporting and maintaining that networked infrastructure or
+allowing the device's user to easily engage in online commerce
+can be made efficient by utilizing the electronic cash systems
+that only open consensus mechanisms can facilitate. For more,
+please see our paper Open Matters.
+Q.8. Does the explosion of FinTech and digital payment systems
+compliment an emerging crypto market or detract from its
+usefulness?
+A.8. The explosion of FinTech systems underscores the
+importance of cryptocurrency and public blockchain technology.
+As we move to a world where all economic activities will be
+mediate through digital payments platforms we risk an erosion
+of our privacy and autonomy. If massive centralized databases
+are used to record and mediate payments rather than
+blockchains, the administrators of these databases will become
+incredibly powerful and also incredibly vulnerable to cyber
+attack. For example China's economy is increasingly cashless.
+Cash accounted for 96 percent of payments in 2012, today that
+number is below 15 percent. Today mobile payment platforms like
+AliPay and WePay account for over $16 trillion annually--over
+100 times than in the United States. Everything you buy is
+noted by these financial intermediaries and can be used as an
+input to your Social Credit score. As an Alibaba executive told
+a Chinese magazine in 2015, the company judges the purchases
+consumers make. ``Someone who plays video games for 10 hours a
+day, for example, would be considered an idle person, and
+someone who frequently buys diapers would be considered as
+probably a parent, who on balance is more likely to have a
+sense of responsibility.'' This is a self-evident threat to the
+privacy of citizens but it also jeopardizes their freedom and
+autonomy. The centralization of these platforms and the
+unavailability of cash alternatives means that a citizen
+disfavored by his government (perhaps a bit too idle) can, with
+little effort, be blocked from transacting and systematically
+excluded from economic life.
+Q.9. Some say that cryptocurrencies are more secure from
+privacy attacks than traditional currencies given their
+decentralized, anonymous nature and use of a private key, with
+individuals alone maintaining access to their data. Others
+counter that these same features actually make these currencies
+less secure.
+Where do you fall on this spectrum and what evidence
+supports your viewpoint?
+A.9. Cryptocurrencies are more secure from attacks than
+traditional currencies because transactions occur on a public
+blockchain (thefts are immediately evident) and individuals can
+control their own keys (meaning that no single organization's
+negligence would inherently endanger everyone's security). That
+said, once cryptocurrency is stolen, there is no centralized
+party who can reverse the transactions. Thus while these tools
+may be less vulnerable to attack; attacks may be harder from
+which to recover.
+Q.10. Currently, it appears that many users view
+cryptocurrencies more as an investment opportunity than a
+viable, useable currency. Cryptocurrency is highly volatile and
+lacks any substantive backing. Our fiat currency, while not
+tethered to a material commodity, is backed by the Federal
+Government and is partly secured by its usability as a payment
+for taxes.
+Can crypto, as a purely digital currency with no backing,
+ever be practically and reliably used as a common currency?
+A.10. Even with its current volatility Bitcoin can be useful as
+a store of value or as a currency substitute in regions of the
+world where sovereign currencies have been debased or are
+otherwise unavailable to persons wishing to transact.
+Similarly, even with its current volatility these currencies
+may be superior for micropayments (which are non-economical if
+interchange fees are larger than the amount being transacted)
+or for machine-to-machine payments (because devices cannot have
+bank accounts). It's difficult to speculate about the future of
+digital currency volatility, just as all economic prediction
+under uncertainty is fraught. However, we could imagine that if
+a large number of persons used these currencies for payments
+and wealth storage rather than as speculative investments, the
+volatility may smooth.
+Q.11.a. You've stated that Vitalik's trilemma is a challenge
+and not an impossibility.
+Can you expand, conceptually, on how a system could be
+scalable, decentralized and secure?
+A.11.a. Several efforts are underway to achieve these values
+simultaneously. We can discuss Bitcoin alone to give an
+example. Bitcoin is already highly secure. While individual
+exchanges with poor security practices have been hacked, the
+blockchain itself has never been hacked. Bitcoin, however,
+lacks some level decentralized because of the concentrated
+power of proof-of-work miners, but solutions are already being
+implemented to address this issue.
+Currently the lumpy bits of Bitcoin's mining distribution
+are made up of powerful ``mining pools.'' Several individual or
+business miners will voluntarily join a pool in order to obtain
+more smoothed out payments than if they mined by themselves. A
+single miner working alone may win a new block reward once
+every 2 years but several working together will win regularly
+and can divide the profits pro rata amongst themselves. A pool
+administrator is the entity who shows up on the blockchain as
+generating the blocks for the pool--so one administrator may
+seem to have 20 percent of the mining power but she is merely
+aggregating mining power from hundreds of participants. If a
+pool administrator attempts to attack the network or simply is
+considered too powerful then individual people tend to leave
+the pool, meaning that administrator's share of power in the
+system declines. This is a natural check on too much
+centralization. The root cause of this problem, however, is
+that the pool administrator is the one who chooses which
+transactions to put into a block. This is why a powerful pool
+could afford its administrator the ability to censor
+transactions. There's already a fix for this, however, and it's
+called BetterHash. In BetterHash pools, the individual
+participants of a pool get to choose which transactions they
+want to include when they perform the work and send it to the
+administrator. Thus the administrator has no ability to censor
+transactions and only plays a role in smoothing economic
+returns for participants. This decreases the centralization of
+Bitcoin without decreasing scalability or security.
+Similarly, the Lightning Network increases scalability but
+does not require increased block sizes to accomplish that feat.
+Larger blocks would increase the infrastructure costs of mining
+which would inherently increase centralization (fewer parties
+can afford the higher fixed costs of getting started), so
+Lightning can enable scalability without increasing
+centralization. BetterHash and Lightning are merely two
+examples of technical solutions to Vitalik's trilemma. It is a
+challenge being addressed by brilliant developers, not an
+impossibility.
+Q.11.b. How far away are we from developing such a system and
+is there a place for cryptocurrency without it?
+A.11.b. This is difficult to predict. It was impossible to
+stream high definition video over the internet in the early
+1990s but many had reasonable predictions that it would
+eventually work. Even without the scalability or
+decentralization improvements described above, cryptocurrencies
+like Bitcoin can play an important role as a store-of-value for
+persons without access to traditional financial tools and
+networks, or persons looking to hedge risks inherent in those
+networks.
+------
+RESPONSES TO WRITTEN QUESTIONS OF SENATOR COTTON FROM PETER VAN
+VALKENBURGH
+Q.1. The United States has long been the world's most appealing
+market for development and innovation, creating economic
+opportunity for millions of people. Within the cryptocurrency
+space however, the United States appears to be lagging behind
+other countries in the race to become the development and
+innovation leader.
+Perianne Boring, president and founder of the Chamber of
+Digital Commerce, said in a June New York Times piece that our
+current crypto regulatory regime is, ``unorganized and
+incredibly complicated,'' Michael Arrington, founder of
+Arrington XRP Capital, said recently that he will cease
+investing in American companies, ``until the SEC clarifies
+token rules.'' He further stated he is looking to move his
+operations out of the United States due to the regulatory
+uncertainty surrounding the space.
+In order to make the United States a market leader, should
+the SEC create a sandbox that allows for regulatory
+experimentation and innovation in the currency and blockchain
+market?
+A.1. The best thing the SEC can do to make the United States a
+market leader is to create greater regulatory certainty around
+their application of securities laws to tokens. Specifically,
+the SEC should clarify that securities laws do not apply to
+functional tokens
+powered by decentralized networks (e.g., Bitcoin, Ethereum, and
+others) but do apply to promises of future tokens made by
+promoters to investors. By and large, the recent statements of
+Director Hinman and the remarks of Chairman Clayton create this
+certainty. We do not prefer a sandbox approach because it, by
+necessity create bespoke regulatory standards for individual
+companies, eroding the uniformity of the rule of law and
+offering preferential treatment to select firms.
+Q.2. Most Americans want to work in legitimate blockchain and
+cryptocurrency operations. Is our legal system set up to make
+American the best place to be?
+A.2. Our constitutional protections for free speech and
+prohibitions on warrantless search make America a welcoming
+home for developers of cryptocurrency and public blockchain
+software. However, two policies could be improved to make the
+United States more friendly to innovators. The State-by-State
+licensing regime for money transmitters has costly redundancies
+and inappropriately tailored compliance obligations.\1\ Tax
+policy could also be improved, even small transactions in
+cryptocurrency trigger capital gains tax such that basis must
+be calculated and taxes paid whenever minor purchases, e.g., a
+cup of coffee, are made using cryptocurrency.\2\ Finally, while
+the current policy of the SEC with respect to classifying
+tokens as cryptocurrencies as securities is wise, as described
+above, it could be codified to provide additional certainty
+that future administrations or interpretations do not confuse
+this application of law.
+---------------------------------------------------------------------------
+\1\ See our research on State money transmission licensing here:
+https://coincenter.org/entry/federal-alternative-to-state-money-
+transmission.
+\2\ H.R. 3708, https://www.govtrack.us/congress/bills/115/hr3708.
+Q.3.a. Is there anything Congress should do to ensure that we
+don't wake up in 5 years and find that all the cryptocurrency
+---------------------------------------------------------------------------
+and blockchain experts are in China or Russia?
+A.3.a. Congress could pass laws that preempt State money
+transmission licensing obligations (as described above) and
+create new uniform and reasonably calibrated consumer
+protections in their stead. Congress could pass laws that
+rationalize tax treatment with respect to small transactions
+and capital gains (as described above). Congress could pass a
+law codifying the current interpretation of the SEC with
+respect to which technologies are and are not securities (as
+described above).
+More generally, Congress can continue to honor and protect
+our constitutional freedoms by not passing laws that would seek
+to abridge those freedoms in return for the illusion of
+security. The freedom of persons to write software code related
+to these technologies (as guaranteed by the 1st Amendment) and
+the freedom from warrantless search (as guaranteed by the 4th
+Amendment) are America's best advantages with respect to
+providing a friendly home for developers building these
+critical technologies. These are freedoms not enjoyed by
+persons living in repressive regimes such as China or Russia.
+While new technologies will inevitably present challenges for
+law enforcement and financial surveillance regimes, it is
+imperative that we do not chip away at these freedoms
+and destroy the dynamism and liberty at the heart of American
+ingenuity. Attempts to ban the publication and distribution of
+cryptography-related software, for example, would backfire:
+these technologies exist and cannot be uninvented. They will
+proliferate globally whether we want them to or not. Better
+that America lead in these technological discoveries and
+pioneer a free society. This will not only preserve American
+ideals, it will inevitably make the stability of repressive
+regimes less tenable as their people adopt American tools, and
+clamor for American freedoms.
+Q.3.b. And is there any national security risk for the United
+States if other countries are more welcoming, in terms of
+business & regulatory climate, of these new technologies?
+A.3.b. Yes. The internet was the single greatest creator of
+jobs and prosperity in the late 20th century. America was a
+welcoming home for innovators building these systems and
+therefore continued to prosper culturally and economically.
+Public blockchain technologies will likely offer similar
+prosperity to the nations that host its pioneers. Moreover,
+these systems (both the internet and public blockchain
+networks) will continue to be essential to the security of
+critical infrastructure both civilian and military. Ignoring
+these technologies or forcing innovation overseas could prove
+disastrous if it leads to the further erosion of American
+expertise in cybersecurity and automation.
+Q.4. I've recently heard from several financial institutions
+who have seen a growing interest in digital currency purchases.
+These banks and credit unions want to be able to meet customer
+demand while at the same time protect their customers from
+potential market volatility and other risks.
+As the cryptocurrency market continues to grow, do you
+believe the Federal Government, particularly the financial
+regulatory agencies, should play a more active role in
+providing guidance to financial institutions on the purchase of
+cryptocurrencies?
+A.4. As described earlier, a Federal alternative to State money
+transmission licensing would provide more cost-effective
+regulation of the businesses that exchange cryptocurrencies for
+customers. Additionally, we welcome the OCC's FinTech charter
+and anticipate clearer guidance on how chartered banks can
+safely hold cryptocurrencies on behalf of their customers.
+Public Sector
+Preamble: Governments across the world are exploring using
+blockchain technology to improve government efficiency and
+public services. Central banks have experimented as well.
+Q.5.a. Do you believe blockchain technology is mature enough to
+begin implementing within the public sector?
+A.5.a. We do not believe that blockchain technology is mature
+enough to warrant wide implementation in the public sector.
+Premature adoption could mean poor security for public data and
+it could also result in agencies adopting technological means
+that are rapidly made obsolete by newer developments. We've yet
+to see clear technological winners and losers in this space and
+much remains uncertain. This is a necessary stage in the
+evolution of new technologies. Just as the Government should
+not have immediately switched to email systems for messaging in
+the 1970s or
+immediately to the web for public communications in the 1990s,
+Government should carefully watch but generally not use public
+blockchain networks today. Limited pilot programs may prove the
+best approach.
+Q.5.b. If so, what are some of the applications for blockchain
+in our Government that you expect could be successful?
+A.5.b. Limited pilots could include using blockchain technology
+for identity and access control systems.
+Q.6. Would you suggest the Federal Reserve consider using
+blockchain in its operations, as some other central banks are
+doing?
+A.6. Blockchains are most useful when there is not a single
+party that everyone is willing to trust. Without this trusted
+party to maintain a centralized ledger of transactions,
+blockchains present an alternative in systems where parties are
+mutually distrustful. Given that we are (and will likely
+remain) willing to trust the Federal Reserve's decisions with
+respect to monetary policy, there seems little reason not to
+also trust them to build and maintain centralized ledgers (such
+as FedWire) for clearing and settlement between banks.
+Blockchains are not efficient or necessary in such
+applications.
+Law Enforcement benefits from a thriving crypto/block-
+chain industry
+Preamble: Similar to the way the creation of anti-virus
+software was necessary to combat computer viruses obtained
+through the internet, new technology will be required to track
+and prevent crypto or blockchain-related illicit financial
+activity.
+Q.7. What regulatory changes can Congress or the executive
+branch make to ensure that American companies have the best
+ability to develop the necessary technology and help law
+enforcement combat illegal activity in the crypto and
+blockchain space?
+A.7. The best step that Congress and the executive branch can
+take, is allowing security researchers to do their work
+unfettered by ill-conceived rules and laws intended to prevent
+illicit finance by placing limits on fundamental technological
+research and development. Anti-virus software manufacturers
+must--by necessity--obtain, study, and even publish virus
+software publicly in order to develop these defenses. The same
+is true for persons doing research into blockchains and their
+illicit use. Technology inevitably leads to arms races between
+criminals and law enforcement. Laws that try to deny persons
+access to these new technologies, whether by banning their
+publication or otherwise limiting public access, do not benefit
+law enforcement, instead these ill-conceived policies benefit
+criminals who--by definition--have no respect for law and would
+therefore have a monopoly on the development and use of these
+tools should they be banned or made hard to obtain through law.
+------
+RESPONSES TO WRITTEN QUESTIONS OF SENATOR REED FROM PETER VAN
+VALKENBURGH
+Q.1.a. Ten or twenty years from now, what is the best case
+scenario for our economy, especially for consumers and mom-and-
+pop businesses, with respect to cryptocurrencies?
+A.1.a. These technologies will be as generative for prosperity
+and freedom as the internet has been. The best case scenario is
+that good policies encourage innovators to build public
+blockchain technology here and that America is able to reap the
+job growth and cultivate the security expertise inherent in
+those efforts.
+Q.1.b. What is the worst case scenario?
+A.1.b. The worse case is for these developers to be forced
+overseas through bad policy.
+Q.1.c. What should we be doing now at the Federal level to
+drive toward the best case scenario?
+A.1.c. Congress could pass laws that preempt State money
+transmission licensing obligations and create new uniform and
+reasonably calibrated consumer protections in their stead.\1\
+Congress could pass laws that rationalize tax treatment with
+respect to small transactions and capital gains.\2\ Congress
+could pass a law codifying the current interpretation of the
+SEC with respect to which tokens and cryptocurrencies are and
+are not securities.
+---------------------------------------------------------------------------
+\1\ See our research on State money transmission licensing here:
+https://coincenter.org/entry/federal-alternative-to-state-money-
+transmission.
+\2\ H.R. 3708, https://www.govtrack.us/congress/bills/115/hr3708.
+---------------------------------------------------------------------------
+More generally, Congress can continue to honor and protect
+our constitutional freedoms by not passing laws that would seek
+to abridge those freedoms in return for the illusion of
+security. The freedom of persons to write software code related
+to these technologies (as guaranteed by the 1st Amendment) and
+the freedom from warrantless search (as guaranteed by the 4th
+Amendment) are America's best advantages with respect to
+providing a friendly home for developers building these
+critical technologies. These are freedoms not enjoyed by
+persons living in repressive regimes such as China or Russia.
+While new technologies will inevitably present challenges for
+law enforcement and financial surveillance regimes, it is
+imperative that we do not chip away at these freedoms and
+destroy the dynamism and liberty at the heart of American
+ingenuity.
+Attempts to ban the publication and distribution of
+cryptography-related software, for example, would backfire:
+these technologies exist and cannot be uninvented. They will
+proliferate globally whether we want them to or not. Better
+that America lead in these technological discoveries and
+pioneer a free society. This will not only preserve American
+ideals, it will inevitably make the stability of repressive
+regimes less tenable as their people adopt American tools, and
+clamor for American freedoms.
+------
+RESPONSES TO WRITTEN QUESTIONS OF SENATOR WARNER FROM PETER VAN
+VALKENBURGH
+Q.1. Many have speculated that blockchain technology or
+decentralized computing will revolutionize every aspect of our
+economy.
+Why haven't we seen a breakout star application using
+decentralized computing yet?
+A.1. The internet may be a good analogy to answer this
+question. Development of the networking standards that would
+become the internet that we know today began as early as the
+1960s. Email, arguably the first ``killer app'' was not
+invented until the mid-1970s. Even then, it was not in wide use
+until the commercial internet began to grow in the 1990s. It
+wasn't until 1991 that the web (which is synonymous for most
+with the internet) was invented, and the first web browser
+(Mosaic) was not released to the public until 1993. Google was
+founded in 1998 and Facebook in 2004. So, given that
+decentralized computing is as radical and experimental a
+departure from existing technology as the internet was when it
+was first being developed, it may not be surprising that in the
+10 years since Bitcoin was invented we have yet to see a
+mainstream ``killer app.''
+Q.2. What is the best use case you've heard of for blockchain
+technologies or decentralized computing and their prospects for
+development and launch?
+A.2. The best use case is payments without the need for a
+third-party intermediary. This is what cryptocurrencies like
+Bitcoin provide today. Perhaps more exciting from a commercial
+vantage point is the promise they hold to make true
+microtransactions economically feasible for the first time.
+Q.3. What led to the collapse in cryptocurrency prices this
+year? Did the introduction of the Bitcoin futures contract have
+anything to do with it?
+A.3. This is beyond the scope of my expertise.
+Q.4. What approaches are other countries taking toward the
+regulation of cryptoassets? Are they appropriate?
+A.4. The Library of Congress has published a comprehensive
+breakdown of cryptocurrency regulation nation-by-nation, we
+recommend this as a resource to the Senator if he has country-
+specific questions.\1\ Approaches by the G20 member states
+vary, however, application of existing Anti-money laundering
+controls to financial institutions dealing in cryptocurrencies,
+as FinCEN did in 2013, is a common approach. We do not believe
+that nations should ``eliminate the anonymity'' that
+cryptocurrencies may afford; to do so would harm the legitimate
+privacy interests and rights of citizens. Rather, we believe
+that states should balance the rights of their citizens to
+privacy against the need for law enforcement to obtain
+information about criminal activities. This balance has already
+been struck in the context of existing forms of money, like
+cash transactions, and mere application of these same laws to
+financial institutions dealing in cryptocurrency is the best
+path forward. FinCEN has already offered guidance explaining
+why existing laws apply and all major U.S. cryptocurrency
+exchanges of which we are aware now comply with these data
+collection obligations.
+---------------------------------------------------------------------------
+\1\ https://www.loc.gov/law/help/cryptocurrency/world-
+survey.php?loclr=ealrr.
+Q.5. Mr. Roubini, in his testimony, describes Vitalik Buterin's
+``inconsistent trinity'' in blockchain--that you cannot have at
+---------------------------------------------------------------------------
+the same time scalability, decentralization, and security.
+Q.5.a. Is that an accurate description?
+A.5.a. It is not an accurate description, as Buterin has stated
+himself to Roubini. Firstly, what Roubini refers to as the
+``inconsistent trinity'' or ``impossible trinity'' was posited
+by Buterin as the ``scalability trilemma,'' and that is how
+computer scientists refer to the problem. This trilemma simply
+states that is it difficult--not impossible--to achieve
+decentralization, scalability, and security at the same time in
+a crypto network. However, it is not an either-or proposition;
+it's a matter of tradeoffs along a scale.
+Q.5.b. Do you believe proof of work consensus is scalable?
+A.5.b. It is likely that proof-of-work consensus can scale
+efficiently. Proof-of-work does, indeed, use large amounts of
+electricity (discussed in the next answer), however the number
+of transactions on the network does not affect the amount of
+energy used. Thus a Bitcoin network processing only five
+transactions per second would use about as much electricity as
+one processing thousands per second. Miner energy usage moves
+up or down with the amount of competition between miners, not
+the number of transactions being validated. Digital signature
+validation uses a trivial amount of computing power. A 3-year-
+old laptop can verify a signature in a matter of milliseconds,
+and the energy used would be undetectable in an electrical
+bill.
+Why is there so much competition driving so much energy
+usage? Economics. Bitcoins are expensive, and every 10 minutes
+one miner will get 12.5 new ones. This competition is healthy
+because it means that the effort spent securing the network
+scales automatically with the value of the transaction data on
+the blockchain. So the more value there is riding on the
+Bitcoin network, because individuals value it more as reflected
+in the price, the more resources will rationally be devoted to
+the network's security. That makes for a noteworthy contrast
+with data secured by, say, Equifax or any other big data
+company where effort spent securing data scales with a
+corporate management team's estimation of risks and fear of
+liability.
+This competition may get less fierce as time goes on. The
+reward of new bitcoins halves every 4 years until it goes
+effectively to zero. Miners will keep working because they can
+also collect fees that users of the network add to their
+transaction messages, but the total take-home payment for a
+winning miner will probably be less than it is today even if
+the price of a bitcoin continues to rise. Smaller rewards will
+mean less computing power dedicated to winning and less
+electricity consumed.
+Q.5.c. What do you think of his argument that proof of stake
+results in a centralization and concentration of mining power?
+Does that concern you?
+A.5.c. Credible estimates have concluded that a single proof-
+of-work-based cryptocurrency like Bitcoin consumes as much
+power annually as a developed nation like Ireland. And as the
+value of Bitcoin grows, the energy consumption is estimated to
+grow even greater. And that's just for a single of the many
+cryptocurrencies that rely on a proof-of-work consensus
+mechanism.
+Q.6. In light of last week's report from the UN's Panel on
+Climate Change that the world has at most a decade to
+comprehensively address climate change, shouldn't all
+cryptocurrency efforts be
+focused on less energy intensive, proof-of-stake-based crypto-
+currencies?
+A.6. Whether cryptocurrencies are contributing to climate
+change is not exclusively a question about the consensus
+mechanism that they use. Perhaps more important is what kind of
+energy they use.
+Energy use is not bad in and of itself. It is greenhouses
+gases that are bad, but it's not a given that Bitcoin will, on
+net, worsen greenhouse emissions in the long run. In fact, if
+Bitcoin mining becomes the dominant driver of energy
+consumption on the planet, then that could be a good thing for
+the environment. Just as the consumer electronics revolution
+drove the massive computing efficiencies known as Moore's law;
+the Bitcoin revolution could drive a similar explosion of
+innovation in clean efficient energy.
+Aluminum smelting consumes about 3 percent of the entire
+global supply of energy, yet we don't read articles raising the
+alarm on unibody MacBook Pros like we see about Bitcoin.
+Smelting isn't often thought of as a problem because heavy
+industry drives electricity efficiency. Why? Because heavy
+industry is a big consumer, so they're always looking for the
+cheapest possible source of electricity.
+Heavy industry can generally be based anywhere, and
+electrical costs tend to be a large percentage of their total
+costs. Electricity is 40-45 percent of costs to chemicals
+manufacturing (like chlorine production) and a whopping 30-50
+percent of costs to steel and aluminum smelting. That means
+that heavy industry will base itself where costs are lower, and
+that will tend to be wherever electricity is affordable because
+its production is more efficient. Demand drives supply and thus
+rewards those who develop cheaper modes of electricity
+generation. Lately that has roundly been a green affair. The
+cheapest electricity on the planet is now wind and solar
+energy. Geothermal and hydroelectric are also top contenders
+and don't have to deal with storage issues.
+However, electricity costs may not always be top of mind
+for your typical heavy industry proprietor. They may put up
+with expensive, dirty energy if other costs drive their
+decisionmaking. Industries also like to be where their
+customers are, where it is cheap to ship material inputs like
+metal, and where governments grant them subsidies in order to
+encourage industrial growth.
+But electricity costs matter even more to a Bitcoin miner
+than typical heavy industry. Electricity costs can be 30-70
+percent of their total costs of operation. Also, Bitcoin miners
+don't need to worry about the geography of their customers or
+materials shipping routes. Bitcoins are digital, they have only
+two inputs (electricity and hardware) and network latency is
+trivial as compared with a truck full of steel. One miner moved
+an entire GPU farm across the United States because of cheap
+hydroelectric power in the Pacific Northwest and, in his words,
+``it's worth it!'' That's also why we see miners in Iceland or
+other places with excess capacity. Aside from beautiful vistas
+you can find abundant geothermal and hydraulic power in the
+land of volcanoes and waterfalls.
+If Bitcoin mining really does begin to consume vast
+quantities of the global electricity supply it will, it
+follows, spur massive growth in efficient electricity
+production--i.e., the green energy revolution. Moore's Law was
+partially a story about incredible advances in materials
+science, but it was also a story about incredible demand for
+computing that drove those advances and made semiconductor
+research and development profitable. If you want to see a
+Moore's-Law-like revolution in energy, then you should be
+rooting for, and not against, Bitcoin. The fact is that the
+Bitcoin network, right now, is providing a $200,000 bounty
+every 10 minutes (the mining reward) to the person who can find
+the cheapest energy on the planet. Got cheap green power?
+Bitcoin could make building more of it well worth your time.
+Q.7. I've heard a lot about how a lack of a clear regulatory
+framework for cryptocurrencies, particularly regarding the
+status of whether or not a token is a security, is hindering
+innovation.
+Q.7.a. What would be the effect in the cryptocurrency industry
+of the SEC setting out clear guidelines for determining whether
+or not a crypto asset is a security?
+A.7.a. Lack of clarity has led high-quality entrepreneurs and
+investors to avoid risking time and capital on otherwise
+promising novel projects and business models. It has also
+allowed scammers to pretend the securities laws don't apply to
+the schemes they are pedaling. Greater clarity would allow
+investors and entrepreneurs to come safely off the sidelines,
+and would make clear that certain schemes are frauds. That
+said, the SEC has done an admirable job, in a relatively short
+period of time, of providing much of the clarity that
+innovators have sought.
+Q.7.b. Do you think Congress should take action?
+A.7.b. The SEC has been slowly, but surely, providing the
+needed clarity by explaining how it interprets the securities
+law. In particular, see a speech given in June by the Director
+of the SEC's Division of Corporation Finance, William
+Hinman.\2\ There are still certain questions that remain open,
+and to the extent the SEC does not answer them it may be
+appropriate for Congress to do so, but there's no reason to
+think the SEC won't continue to provide further clarity.
+---------------------------------------------------------------------------
+\2\ https://www.sec.gov/news/speech/speech-hinman-061418.
+---------------------------------------------------------------------------
+Q.7.c. What would you propose?
+A.7.c. At this point, to take a wait-and-see approach. That
+said, the guidance contained in the Hinman speech was just
+that--guidance--and the securities laws could be interpreted
+differently by a future Commission. It might be useful for
+Congress to codify the principles outline in the Hinman speech.
+------
+RESPONSES TO WRITTEN QUESTIONS OF SENATOR CORTEZ MASTO FROM
+PETER VAN VALKENBURGH \1\
+---------------------------------------------------------------------------
+\1\ Peter is Director of Research at Coin Center, the leading
+independent nonprofit research and advocacy group focused on the public
+policy issues facing cryptocurrency technologies such as Bitcoin. This
+testimony is based largely on a report published by Coin Center. See
+Peter Van Valkenburgh, ``Open Matters: Why Permissionless Blockchains
+are Essential to the Future of the Internet'' Coin Center (2016)
+https://coincenter.org/entry/open-matters.
+---------------------------------------------------------------------------
+Q.1. If a State were to use a stable Blockchain token as a
+store of value, would that be considered coinage?
+A.1. The Constitution permits Congress to coin money in Article
+1, Section 9 and denies States the power to coin or to print
+their own money in Article 1, Section 10. This is called the
+coinage clause. If a State merely used an existing blockchain
+token or crypto-
+currency for payments or investment purposes, this would not,
+we believe, be coinage. If on the other hand a State decided to
+create and issue its own Blockchain token, then the State may
+well be coining money, contravening the constitution.
+Q.2. What is the best way to crack down on the use of
+cryptocurrencies to finance illegal transactions dealing with
+drug and sex trafficking?
+A.2. Applying existing Bank Secrecy Act recordkeeping and
+reporting requirements to financial institutions even when
+those institutions deal in cryptocurrencies for their customers
+is the best way to crack down on the use of these tools for
+illegal transactions. FinCEN made these obligations clear to
+businesses holding and transmitting cryptocurrencies in its
+2013 Guidance and since then all major U.S. cryptocurrency
+exchanges of which we are aware now comply with the Bank
+Secrecy Act. The data provided by these regulated exchanges to
+FinCEN and law enforcement is essential to identifying illicit
+uses of the technology.
+Q.3. What are G20 member states doing to regulate crypto-
+currencies and eliminate the anonymity they supposedly afford?
+A.3. The Library of Congress has published a comprehensive
+breakdown of cryptocurrency regulation nation-by-nation, we
+recommend this as a resource to the Senator if she has country-
+specific questions.\2\ Approaches by the G20 member states
+vary, however, application of existing anti-money laundering
+controls to financial institutions dealing in cryptocurrencies,
+as FinCEN did in 2013, is a common approach. We do not believe
+that nations should ``eliminate the anonymity'' that
+cryptocurrencies may afford; to do so would harm the legitimate
+privacy interests and rights of citizens. Rather, we believe
+that states should balance the rights of their citizens to
+privacy against the need for law enforcement to obtain
+information about criminal activities. This balance has already
+been struck in the context of existing forms of money, like
+cash transactions, and mere application of these same laws to
+financial institutions dealing in cryptocurrency is the best
+path forward. FinCEN has already offered guidance explaining
+why existing laws apply and all major U.S. cryptocurrency
+exchanges of which we are aware now comply with these data
+collection obligations.
+---------------------------------------------------------------------------
+\2\ https://www.loc.gov/law/help/cryptocurrency/world-
+survey.php?loclr=ealrr.
+Q.4. Do you think bank customers should be able to buy
+cryptocurrency from their bank accounts without worrying that
+---------------------------------------------------------------------------
+their bank account could be closed if they do?
+A.4. Yes. If customers are unable to buy cryptocurrency though
+regulated financial institutions they will be more likely to
+seek cryptocurrency through unregulated channels, e.g., face-
+to-face trading for cash. This would decrease the amount of
+information available to law enforcement investigating illicit
+transactions.
+Q.5. Should cryptocurrency customers have their cryptocurrency
+purchases taxed? Such as sales tax, capital gains, etc.?
+A.5. State sales tax is generally only imposed on purchases of
+tangible personal property and not on purchases of intangible
+property except for State-specified digital goods. See, for
+example, TAM--2015-1(R)--Issued July 28, 2015 by the New Jersey
+Tax Authority.\3\ Cryptocurrency sold as an investment should
+be taxed as a capital gain and the IRS has clearly articulated
+this policy.\4\ We believe there should be an exemption from
+capital gains taxation for small sales of cryptocurrency made
+for retail purposes, e.g., when someone uses Bitcoin to buy a
+cup of coffee. This would mirror an exemption from capital
+gains taxation for purchases made in foreign currency, e.g.,
+when someone buys a baguette with euros they purchased in
+advance of a trip to Europe. A bill has been introduced in the
+House that would create this exemption.\5\
+---------------------------------------------------------------------------
+\3\ https://www.state.nj.us/treasury/taxation/pdf/pubs/tams/tam-
+2015-1.pdf.
+\4\ Notice 2014-21 https://www.irs.gov/pub/irs-drop/n-14-21.pdf.
+\5\ H.R. 3708, https://www.govtrack.us/congress/bills/115/hr3708.
+Q.6. Should initial coin offerings be regulated as securities,
+---------------------------------------------------------------------------
+commodities, or currencies? Are they legitimate investments?
+A.6. If an initial coin offering meets the existing test used
+by the SEC to determine whether an offering should be
+registered as a security then is should be regulated as such.
+This test, known as the Howey test, is met when a purchaser
+invests her money in a common enterprise with an expectation of
+profits dependent on the promised efforts of the ICO promoter
+or some other third party. Tokens traveling on a blockchain
+that is functional and decentralized (rather than merely a
+hypothetical future blockchain being promised by an ICO issuer)
+are not securities and should be regulated as commodities and
+as currencies if they are used as currency substitutes. While
+several ICOs have been fraudulent; many have also been
+legitimate investments in new technologies.
+Q.7. Should cryptocurrencies have the same investor
+protections, the same rules against market manipulation and
+market fraud? Should they have adequate disclosures and
+investor protections? The same as bonds and stocks have?
+A.7. Cryptocurrency offerings that qualify as securities as
+described above should have identical investor protections as
+traditional securities including adequate disclosures. This is
+the official policy of the SEC at present. Cryptocurrencies
+that are not securities are commodities and the CFTC has
+authority to police these cryptocurrency spot-markets where
+there is evidence of fraud and manipulation.
+The Securities and Exchange Commission, the Commodities
+Futures Trading Commission and the Financial Crimes Enforcement
+Network are all underfunded. Monitoring these constant new
+cryptocurrencies is putting a further strain on their
+resources.
+Q.8. Please provide, if any, letters to legislators or
+statements from crypto firms seeking appropriations for
+regulators so they can better monitor these investments.
+A.8. Apologies, but we are aware of no such letters. Coin
+Center is not an industry association; we are a nonprofit
+research and advocacy organization focused on educating members
+of the Government on the subject of public blockchain
+technologies.
+Q.9. What funding level for these agencies would virtual
+currencies and Blockchain firms support to ensure consumer and
+investor protections?
+A.9. We do not have an opinion on this matter.
+Q.10. Last summer, Forbes and the New York Times published a
+story about hackers stealing mobile phone numbers. Hackers
+stole phone numbers, reset someone's password and then looted
+their virtual currency wallets. It looks like telephone-based
+security is not safe.
+Q.10.a. Can you describe steps owners of cryptocurrencies
+should do to prevent these thefts? What about the exchanges
+themselves? And the phone companies? And Federal and State
+agencies?
+A.10.a. Phone numbers have been used as a second factor for 2-
+factor-authentication at many cryptocurrency exchanges. This
+means that the customer must remember and enter a password to
+login but she must also repeat a unique and ever-changing code
+that is sent to her by text message. It is true that hackers
+have convinced phone companies to assign numbers to the
+hacker's mobile phones in order to fraudulently obtain this
+second factor for log-in. It is true that some hackers have
+succeeded in stealing funds with this approach. Users should
+not rely on phone numbers for 2-factor-authentication. They
+should use device-specific tools like Google Authenticator
+instead. These tools cannot be reassigned to other devices by
+phone companies. Federal and State agencies should ensure that
+phone companies do not reassign phone numbers of their
+customers without robust proof that the request is coming from
+the customer themselves and not from a hacker.
+Q.11. How can we either avoid mobile phone hacks or tell people
+that doing financial business on a mobile phone could open you
+up to theft?
+A.11. Nothing about mobile phones makes activities performed
+while using them inherently vulnerable to hacking. The problem,
+as described above, is that the phone's number is assigned by a
+phone company to an individual's device and hackers can
+convince phone companies to improperly reassign numbers by
+impersonating subscribers over the phone. This vulnerability
+stems from centralized companies being incapable of properly
+securing the integrity of data and ledgers related to their
+customers. Longer term, public blockchain networks could
+provide an alternative method of storing and maintaining the
+integrity of user data, just as the Bitcoin blockchain secures
+the data relevant to all Bitcoin transfers, without relying on
+trusted third parties like phone companies.
+Q.12. In your testimony, you mentioned women from an African
+nation who were paid in bitcoin to retain their earnings
+instead of being forced to give their income to their husbands.
+How were the women able to spend their bitcoins? On what goods
+and services? How were those goods and services priced? What
+exchange fees were charged for transactions?
+A.12. The woman I mentioned is Roya Mahboob and she is from
+Afghanistan. The primary use of Bitcoin in her story is as a
+store of value for women, as an alternative to savings
+accounts, which banks will not offer women, or cash which will
+often be stolen if stored in the home. As such, I am not aware
+of any details about spending activities. You can read more
+about Mahboob's story here: https://www.ibtimes.com/afghan-
+tech-entrepreneur-uses-bitcoin-empower-women-2575881.
+Additional Material Supplied for the Record
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

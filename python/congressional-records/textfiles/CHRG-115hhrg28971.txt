@@ -1,0 +1,2078 @@
+- [H.A.S.C. No. 115-68] ADDRESSING PHYSIOLOGICAL EPISODES IN FIGHTER, ATTACK, AND TRAINING AIRCRAFT
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+[H.A.S.C. No. 115-68]
+ADDRESSING PHYSIOLOGICAL EPISODES
+IN FIGHTER, ATTACK, AND
+TRAINING AIRCRAFT
+__________
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON TACTICAL AIR AND LAND FORCES
+OF THE
+COMMITTEE ON ARMED SERVICES
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+HEARING HELD
+FEBRUARY 6, 2018
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+28-971
+WASHINGTON : 2019
+SUBCOMMITTEE ON TACTICAL AIR AND LAND FORCES
+MICHAEL R. TURNER, Ohio, Chairman
+FRANK A. LoBIONDO, New Jersey
+NIKI TSONGAS, Massachusetts
+PAUL COOK, California, Vice Chair
+JAMES R. LANGEVIN, Rhode Island
+SAM GRAVES, Missouri
+JIM COOPER, Tennessee
+MARTHA McSALLY, Arizona
+MARC A. VEASEY, Texas
+STEPHEN KNIGHT, California
+RUBEN GALLEGO, Arizona
+TRENT KELLY, Mississippi
+JACKY ROSEN, Nevada
+MATT GAETZ, Florida
+SALUD O. CARBAJAL, California
+DON BACON, Nebraska
+ANTHONY G. BROWN, Maryland
+JIM BANKS, Indiana
+TOM O'HALLERAN, Arizona
+WALTER B. JONES, North Carolina
+THOMAS R. SUOZZI, New York
+ROB BISHOP, Utah
+JIMMY PANETTA, California
+ROBERT J. WITTMAN, Virginia
+MO BROOKS, Alabama
+John Sullivan, Professional Staff Member
+Doug Bush, Professional Staff Member
+Neve Schadler, Clerk
+C O N T E N T S
+----------
+Page
+STATEMENTS PRESENTED BY MEMBERS OF CONGRESS
+Tsongas, Hon. Niki, a Representative from Massachusetts, Ranking
+Member, Subcommittee on Tactical Air and Land Forces...........
+3
+Turner, Hon. Michael R., a Representative from Ohio, Chairman,
+Subcommittee on Tactical Air and Land Forces...................
+1
+WITNESSES
+Cragg, Clinton H., Principal Engineer, NASA Engineering and
+Safety Center..................................................
+4
+Joyner, RDML Sara A., USN, Navy Physiological Events Action Team
+Lead, U.S. Navy................................................
+6
+Nowland, Lt Gen Mark C., USAF, Deputy Chief of Staff for
+Operations, U.S. Air Force.....................................
+8
+APPENDIX
+Prepared Statements:
+Cragg, Clinton H.............................................
+32
+Joyner, RDML Sara A..........................................
+39
+Nowland, Lt Gen Mark C.......................................
+52
+Turner, Hon. Michael R.......................................
+29
+Documents Submitted for the Record:
+[There were no Documents submitted.]
+Witness Responses to Questions Asked During the Hearing:
+[There were no Questions submitted during the hearing.]
+Questions Submitted by Members Post Hearing:
+Mr. Gaetz....................................................
+75
+Ms. Tsongas..................................................
+73
+Mr. Turner...................................................
+67
+ADDRESSING PHYSIOLOGICAL EPISODES IN FIGHTER, ATTACK, AND TRAINING
+AIRCRAFT
+----------
+House of Representatives,
+Committee on Armed Services,
+Subcommittee on Tactical Air and Land Forces,
+Washington, DC, Tuesday, February 6, 2018.
+The subcommittee met, pursuant to call, at 3:30 p.m., in
+Room 2118, Rayburn House Office Building, Hon. Michael R.
+Turner (chairman of the subcommittee) presiding.
+STATEMENT OF HON. MICHAEL R. TURNER, A REPRESENTATIVE FROM
+OHIO, CHAIRMAN, SUBCOMMITTEE ON TACTICAL AIR AND LAND FORCES
+Mr. Turner. Everyone, take a seat. We are under the
+pressure of votes. They are going to happen sometime around
+4:00, 4:15, so we are going to try to make certain we get
+through everybody's statements and maybe some initial comments.
+So beginning with my opening comments, the subcommittee
+meets today to receive an update on how the Departments of the
+Navy and the Air Force are addressing physiological episodes
+[PE] in tactical and training aircraft. I would like to welcome
+our distinguished panel of witnesses. We have Mr. Clint Cragg--
+is that correct? Okay--Principal Engineer from the NASA
+[National Aeronautics and Space Administration] Engineering and
+Safety Center [NESC]; Rear Admiral Sara Joyner, Physiological
+Episodes Action Team Lead for the U.S. Navy; and Lieutenant
+General Mark Nowland, Air Force Deputy Chief of Staff for
+Operations. I want to thank each of you for your service and
+for your important testimony today.
+For over 2 years now, this subcommittee has held briefings,
+hearings, and conducted site visits regarding the occurrences
+of physiological episodes, or PEs, in tactical and training
+aircraft. As I stated before, I believe Navy leadership was
+initially slow to respond to this issue that is having a direct
+effect on overall readiness and affecting the confidence of our
+pilots, as well as their ability to perform their missions.
+Because it is not just that these events are occurring; it
+is also the anxiety that these events occur in succession. As a
+result of the subcommittee's activity, the National Defense
+Authorization Act [NDAA] for fiscal year [FY] 2017 included
+legislation that required an independent report of the Navy's
+efforts to resolve these issues. That report was delivered to
+the subcommittee in mid-December, and a copy has been provided
+to members' offices.
+According to the report, the Navy was addressing the PE
+problem as an aircraft problem, not a human problem. We have to
+acknowledge that physiological episodes happen to people, not
+aircraft. I was just talking to the Secretary of the Air Force,
+and the human body as a sensor is perhaps different than just
+our technological sensors and can give us a gap in the
+information or data that we are receiving, but we have to trust
+those pilots, those human responses and reports that we are
+having of these issues.
+The report also concludes that the F/A-18 systems that
+support human health are ``complex, dynamic, and interactive.''
+As a result, the more complex, dynamic, and interactive a
+system is, the more important it is to have a well-coordinated
+systems approach to design and operations.
+Finally, the report notes that the physiological episodes
+will persist in the F/A-18, and all high-performance aircraft,
+if there is a piecemeal approach to human systems integration.
+Our witness, Mr. Cragg, was the primary author of this report,
+and he is prepared to provide the subcommittee with a summary
+of the report's findings and recommendations.
+On September 15th of last year, Ms. Tsongas and I visited
+the Naval Air Station Pax [Patuxent] River to receive briefings
+on the root cause and corrective action processes from members
+of the Navy's Physiological Episodes Action Team [PEAT]. We
+spoke with engineers and pilots and learned about the Navy's
+process to find the root cause of these events. We were also
+briefed on the Navy's attempts to alert and protect the aircrew
+and monitor the system.
+Additionally, we spoke with engineers at some of the labs
+who are analyzing specific portions of the primary systems that
+make up the Environmental Control System, ECS, and the On-Board
+Oxygen Generating System, OBOGS. I believe the Navy has taken a
+step in the right direction by establishing a formal action
+team directly responsible for addressing physiological
+episodes. The team is led by our Navy witness today, Rear
+Admiral Joyner.
+However, despite these efforts, pilots are continuing to
+experience physiological episodes, and I am concerned about the
+increased frequency. For example, since the subcommittee's last
+event in May of last year, the Navy as well as the Air Force
+have continued to report incidences of PE in aircraft.
+This past summer, the Navy made the decision to ground T-45
+training aircraft due to increasing occurrences of pilots
+experiencing hypoxia symptoms in the aircraft. The decision was
+made after a significant number of instructor pilots at all
+three T-45 training locations refused to fly the aircraft due
+to safety concerns with the oxygen systems. It is an incident
+that we were very concerned about in this committee that would
+have to go to the level of the pilots themselves intervening
+and refusing to fly, prior to leadership understanding the need
+to intervene.
+The Air Force grounded F-35 Joint Strike Fighters [JSF] at
+Luke Air Force Base in June of last year due to oxygen
+problems, and the F-35 fleet has experienced 29 physiological
+episodes to date.
+In early December of last year, the subcommittee was
+informed that 13 A-10 aircraft at Davis-Monthan Air Force Base
+have been grounded due to problems with the oxygen systems. And
+just last week, the Air Force grounded all T-6 training
+aircraft at six operating locations due to an increasing rate
+of unexplained physiological episodes in the T-6 aircraft.
+There is no doubt this remains a complex problem to solve
+that requires a well-coordinated systems approach to include
+all factors, such as the aircraft, the pilot, and the
+environment. So in closing, we need to be reassured that this
+remains a top priority for the Navy and the Air Force and that
+the two services are coordinating efforts and that such a
+systems approach to solve this problem is being taken.
+The increasing frequency of these physiological episodes is
+having a direct effect on overall readiness, and as such we
+expect to receive your professional assessments on what we as
+members of this subcommittee can do to help you address this
+critical problem. In addition to effects on readiness, this has
+a direct correlation and effect on morale.
+Before we begin with witnesses' opening statements, I would
+like to turn to my good friend from Massachusetts, Ms. Niki
+Tsongas, for any comments that she may want to make.
+[The prepared statement of Mr. Turner can be found in the
+Appendix on page 29.]
+STATEMENT OF HON. NIKI TSONGAS, A REPRESENTATIVE FROM
+MASSACHUSETTS, RANKING MEMBER, SUBCOMMITTEE ON TACTICAL AIR AND
+LAND FORCES
+Ms. Tsongas. Thank you, Mr. Chairman, and good afternoon to
+our witnesses. It is good to have you here. And I want to thank
+Chairman Turner for holding this hearing and continuing the
+subcommittee's focus on this really important issue.
+One of the reasons for today's hearing is a completion of
+the independent review of the Navy's efforts to address
+persistently high rates of physiological episodes experienced
+by aviators in F/A-18 aircraft, a critical issue since these
+episodes can put a pilot's life at risk.
+The review was mandated by the fiscal year 2017 NDAA and
+conducted by the NASA Engineering and Safety Center under the
+leadership of Mr. Clinton Cragg, who is here with us today, and
+I would like to thank you, Mr. Cragg, and your entire team for
+your diligent work on the report.
+I am also pleased that Rear Admiral Joyner is with us
+today, but I must point out that the Navy has decided to move
+the Admiral out of her current position overseeing the
+service's response to physiological episodes after less than a
+year in the position. While I understand that the Navy is
+working to find another talented officer to take over the
+position, I do believe that making the change so soon sends an
+unfortunate message to the entire Navy aviation community,
+including their families. This important issue deserves unified
+leadership and I would urge Navy leadership to prioritize
+continuity in this position moving forward.
+After reviewing the report, it appears its findings and
+recommendations fall into three broad categories. First, it
+makes several findings and recommendations related to the,
+quote, ``human factors'', unquote, underlying the Navy's
+physiological episode problem. The report states upfront that,
+quote, ``Physiological episodes happen to people, not
+aircraft'', unquote. It goes on to point out numerous areas
+where human factors research, data gathering, and testing is
+needed to provide a true end-to-end understanding of the
+problem. I will have several questions on some of the issues
+raised in the report in this area.
+Second, the report points out several specific concerns
+with the design and specifications of the F/A-18 aircraft
+related to aircrew life support. It places particular attention
+on the aircraft's oxygen generation and cabin pressure systems,
+raising significant questions regarding both.
+Finally, the report examines internal Navy organizational
+challenges that may be making it much harder to address the PE
+issue. In particular, the report focuses attention on the need
+for the Navy's medical community to be more tied into the
+Navy's ongoing lines of effort.
+And of special concern to me, given what we learned about
+the situation the Navy faced this summer in its T-45 training
+community, the report also raises concerns about, quote, ``a
+breakdown of trust in leadership within the pilot community,''
+unquote, regarding the Navy's efforts on this issue.
+I know that hundreds of dedicated people in the Navy are
+working very hard to address this problem. But the report
+points out that we have a long way to go and that in some areas
+we can do much, much better. I am hopeful that the Navy is
+carefully examining the findings of this report and acting on
+them as quickly as possible and hope to learn more on this
+front today.
+The other reason for today's hearing is to get an update
+from the Air Force on its challenges with its own physiological
+episodes, most recently in F-35A, A-10s, and T-6A aircraft
+fleets. In the case of the T-6A, the Air Force's fleet remains
+grounded. We need to know the full story of what happened and
+how the Air Force plans to stay ahead of this problem moving
+forward. I look forward to today's testimony and yield back.
+Mr. Turner. Thank you, Ms. Tsongas. Without objection, all
+our witnesses' prepared statements will be included in the
+hearing record.
+Mr. Cragg will begin, followed by Admiral Joyner and
+General Nowland. Mr. Cragg.
+STATEMENT OF CLINTON H. CRAGG, PRINCIPAL ENGINEER, NASA
+ENGINEERING AND SAFETY CENTER
+Mr. Cragg. Chairman Turner, Ranking Member Tsongas, and
+members of the subcommittee, thank you for this opportunity to
+discuss the NASA Engineering and Safety Center's, or NESC's,
+independent assessment of the Navy's efforts to understand and
+mitigate the F/A-18 fleet physiological episodes.
+Mr. Turner. I am sorry, sir. If I could interrupt you for a
+second, if you could move that microphone to in front of you,
+because we are not hearing you-- they are directional. If you
+could point it at you, there you go. Thank you.
+Mr. Cragg. Too complicated for me. I am honored to be
+serving as the lead for this NESC team. The NESC performs
+independent testing, analysis, and assessments to help address
+some of NASA's tougher challenges.
+We can draw upon technical experts from all 10 NASA
+centers, from industry, from academia, and other governmental
+agencies. This allows us to bring the country's best experts to
+bear on the problems and challenges of NASA programs.
+In February 2017, the U.S. Navy's Naval Air Systems Command
+requested NASA's assistance in assessing the Navy's efforts to
+understand the causes of physiological episodes affecting
+aircrew on their F/A-18 fleet. In March of 2017, the NESC
+assembled a multidisciplinary team with a broad range of
+expertise that included flight surgeons, life support system
+experts, engineers, and several subject matter experts.
+In the course of this investigation, the team reviewed data
+from a variety of sources, visited multiple manufacturing sites
+and Navy commands, and held numerous discussions with
+knowledgeable personnel. The NESC team's findings and
+recommendations are based on this data and not an exhaustive
+review of all F/A-18 documentation.
+To address the complex causes of physiological episodes,
+the NESC team used a multi-systems trends analysis approach and
+formed the following resulting findings. First and foremost,
+physiological episodes are a human phenomenon. Although the
+Navy has put a significant effort into investigating the
+physiological episodes, the bulk of their efforts to date have
+been directed at the aircraft, rather than human physiology.
+Centering our investigation on the human element revealed new
+information about the character of physiological episodes.
+Second, hypoxia--determined to be the most prevalent cause
+of physiological episodes--is not a condition of insufficient
+oxygen in the breathing gas. It is insufficient delivery of
+oxygen to tissues of the body, importantly, the brain.
+Third, a key reliable On-Board Oxygen Generating System
+performance is uniform operating conditions, which the F/A-18
+design and dynamic operating environment rarely provides.
+Fourth, the F/A-18 program has a large amount of aircraft
+performance data, but a shortage of evidence related to human
+health and performance in an F/A-18 environment.
+Fifth, the F/A-18 systems that support human health are
+complex, dynamic, and interactive. This requires a well-
+coordinated systems approach to design requirements,
+interfaces, and operations.
+Finally, an unacceptable number of physiological episodes
+will persist in the F/A-18 program if there continues to be a
+piecemeal approach to the human systems integration.
+The NESC team made the following observations regarding the
+Navy processes. Until recently, the absence of a single leader
+to coordinate and prioritize the Navy's physiological episodes
+efforts resulted in organizational stove-piping and exclusion
+of key stakeholders. Investigations have been structured as if
+the physiological episodes were isolated events, rather than a
+series of related events.
+Furthermore, troubleshooting efforts used a top-down
+approach that emphasized component-level behaviors instead of
+evaluating the performance of the system as a whole. In this
+case, the system means the aircraft, the pilot, and the
+environment.
+The NESC team asserts that a dedicated, coordinated, cross-
+organizational, and cross-discipline program--under the
+direction of a single leader with clearly defined authority--
+would improve the U.S. Navy's effectiveness in finding and
+fixing the causes of physiological episodes.
+The NESC team has identified a number of near- and long-
+term recommendations. Near-term tasks are focused on gathering
+key evidence about human health and performance and
+understanding hypoxia in the F/A-18 flight environment. Long-
+term tasks which may provide substantial benefit include
+utilizing a data-driven causal analysis effort, updating the F/
+A-18 to conform to MIL-STD-3050 [Military Standard], and
+developing a systems-level understanding of bleed air
+management systems.
+In conclusion, and although key data is lacking, the NESC
+believes that the majority of F/A-18 physiological episodes are
+a result of hypoxia. This hypoxia, it is believed, is caused by
+a combination of issues affecting the various stages of oxygen
+delivery process, including those stages within the human.
+We applaud the Navy's efforts to gather the necessary data
+to resolve these issues. The NESC report has provided a
+conceptual framework to view the issue of physiological
+episodes in a new light and offers recommendations that may
+guide future processes and technological improvements.
+I thank you for the opportunity to testify before the
+subcommittee and look forward to your questions.
+[The prepared statement of Mr. Cragg can be found in the
+Appendix on page 32.]
+Mr. Turner. Admiral Joyner.
+STATEMENT OF RDML SARA A. JOYNER, USN, NAVY PHYSIOLOGICAL
+EVENTS ACTION TEAM LEAD, U.S. NAVY
+Admiral Joyner. Mr. Chairman, Representative Tsongas, and
+distinguished members of the subcommittee, thank you for the
+opportunity to appear before you today to discuss the
+Department of the Navy's ongoing efforts to address
+physiological episodes, or PEs, in fighter and attack and
+training aircraft.
+Addressing PEs remains the Navy's number one safety
+priority and encompasses naval and Marine Corps aviation
+communities. We have implemented numerous technical and
+operational measures to mitigate the risk to our aircrew.
+Utilizing every resource available to resolve these issues, the
+Department of the Navy has engaged a broad spectrum of internal
+and external partners, including subject matter experts from
+the United States Air Force, National Aeronautics and Space
+Administration, Federal Aviation Administration, industry,
+academia, medical communities, and the Navy's dive communities.
+In addition, we have established regular fleet communication to
+share all data and progress related to PEs.
+I would like to first focus on the efforts of the
+Physiological Episodes Action Team, or PEAT. In April 2017, the
+Chief of Naval Operations directed a comprehensive review of
+PEs be conducted. As a result, the PEAT was formed to serve as
+a single-source Navy and Marine Corps entity which unites both
+Department of Defense [DOD] and non-DOD entities as a cohesive
+force to combat PEs.
+The PEAT follows three lines of effort: Warn the aircrew,
+fix the machine, protect and prevent. Our efforts rely on
+understanding of an inherently challenging environment
+encountered at altitude and its effects on the human body.
+The PEAT has served to synchronize efforts to resolve
+physiological episodes between NAVAIR [Naval Air Systems
+Command], Commander Naval Air Forces, Bureau of Medicine and
+Surgery, the Naval Safety Center, our industry partners, and
+academia.
+Coordinating multiple agencies, the PEAT's focus is on
+finding the root causes of PEs, correcting deficiencies that
+they are identified, and equipping existing agencies with long-
+term resources to address PE issues effectively.
+Additionally, the PEAT is responsible for providing timely
+information to aircrew and maintainers regarding past PEs,
+present research, ongoing mitigation efforts, and future plans.
+Direct fleet engagement has been established where
+representatives from the PEAT, NAVAIR, and the Naval Safety
+Center are available for frank and direct dialogue with
+aircrew, providing an open forum between warfighters and
+leadership.
+We provide a response triage reports to aircrew to improve
+feedback and communication. These efforts combined have made a
+great impact in restoring aircrew confidence in their equipment
+and the efforts to resolve the PE problem.
+Why haven't we solved the issue yet? Our incredibly
+talented engineers at NAVAIR have worked diligently to ensure
+the aircraft are operating according to required specifications
+and that material solutions met engineering requirements. As
+our aircraft capabilities have advanced, we have encountered
+challenges in how to best support the human in the cockpit in
+an ever more dynamic environment.
+Today, we benefit from oxygen systems that no longer limits
+prolonged operations. Rather it is limited only by the
+constraints of fuel, ordnance, and human endurance. Routinely
+operating for 8 hours or longer on a combat mission, by flying
+higher, faster, and longer, we have come to realize that there
+are aspects of our operational environment that need to be more
+fully understood.
+The NASA report was valuable in reminding us that we need
+to consider not just what we were most comfortable with
+addressing--the engineering elements--but also the human
+performance element of the aviation environment.
+The effects of pressure and breathing gas composition on
+the human body. It became apparent that in order to discover
+physiological episode root causes, we needed to start with the
+human, the aviator, and the cockpit. The close relationship
+between our aeromedical specialists and our engineers had
+atrophied, and we are working actively to restore this
+relationship in combatting PEs.
+Today we acknowledge that there is more we need to learn
+about human physiology in a pressurized environment and
+incorporate that into our engineering design. We are moving
+forward to close our knowledge gap through research and
+instrumentation on humans in flight and to develop a thorough
+and holistic understanding of environmental challenges in the
+flight regime that results in PEs.
+I would like to thank Congress for supporting the Navy's
+and our efforts to address PEs. We were able to combine
+congressional funding with other resources to immediately put
+into motion research and material solutions to address
+physiological episodes, as well as expedite longer-term
+solutions.
+We are moving forward in optimizing the cockpit environment
+with measurable improvements, providing our aviators with every
+tactical advantage in a dynamic environment in which they
+operate. It is appropriate that I appear today with our Air
+Force partners. Not present today are our international
+partners who continue to assist us in gathering data and
+providing solutions to the PE issue.
+Right now, the Royal Australian Air Force and the Swiss Air
+Force fly with instrumentation to gather further data in
+support of our efforts. I have no doubt that through our
+coordinated efforts we will be successful in resolving this
+issue for the U.S. Navy, the Marine Corps, the Air Force, and
+our international partners.
+Thank you for the opportunity to present our progress
+today. I look forward to your questions.
+[The prepared statement of Admiral Joyner can be found in
+the Appendix on page 39.]
+Mr. Turner. General Nowland.
+STATEMENT OF LT GEN MARK C. NOWLAND, USAF, DEPUTY CHIEF OF
+STAFF FOR OPERATIONS, U.S. AIR FORCE
+General Nowland. Chairman Turner, Ranking Member Tsongas,
+and distinguished members of the subcommittee, thank you for
+the opportunity to provide an update on our physiologic events
+within your United States Air Force.
+Today I will address some of the risk our airmen face
+defending our Nation, as well as multiple initiatives underway
+to address physiological events. Operating high-performance
+aircraft is fundamental to air superiority. Inherently, the
+nature of our profession means there will always be risk to the
+human body. It can be caused by unforeseen mechanical issues in
+our increasingly complex aircraft or by overstressing our
+bodies when we are max performing those aircraft to their
+combat capability.
+As the Deputy Chief of Staff for Operations, I believe that
+training our pilots is the critical factor between life and
+death. Whether it is executing the right procedures during in-
+flight emergency or the maneuvers necessary to defeat an
+adversary in combat, training is paramount. Therefore, we make
+sure it goes hand-in-hand with material solutions when we
+implement recommendations for physiologic events.
+The Air Force tracks and provides historical data on
+physiological events. And even though the probability that Air
+Force pilots will experience a physiological event remains much
+less than 1 percent per year, the Air Force takes flight safety
+very serious. The service investigates every incident that may
+impact our most valuable asset, our people.
+And we are in complete agreement with actually the NASA
+report. This is really about people, as we have discovered over
+our incidents over time. The Air Force increased the budget of
+our 711th Human Performance Wing nearly by $60 million over the
+past 10 years, which goes back to the F-22 incidents we had,
+because we recognized we needed to look at the human element
+here. This funding has supported multiple research vectors into
+hypoxia, biomechanics, and toxicology studies.
+Additionally, the Air Force was able to add five pilot
+physicians last year. I have Dr. Bill Mueller behind me who is
+an example of those. He is a rated Air Force pilot, but he is
+also a physician, so he flies the airplanes that were actually
+out there and able to talk to the aviators. This unique
+critical program qualifies aerospace physicians to fly the
+airplane and then care for the airmen.
+We have also made organizational changes to the
+Headquarters Air Force Operations staff. I have appointed a
+general officer to be the singular point of contact for
+physiologic events. We learned from the Navy essentially.
+Brigadier General Bobbi Doorenbos will integrate the flow of
+information during physiological event investigations. She
+couldn't be here today because she has something with her
+family, her father, but she is hand-in-hand with Admiral
+Joyner.
+General Doorenbos provides a single nexus to pass
+information from aircrew to senior leaders and across multiple
+stakeholders. We continuously strive to improve our processes
+which we share information between multiple agencies and our
+joint partners during these events. The Air Force stood up an
+investigative team called the Characterizing and Optimizing the
+Physiological Environment in Fighters. Typical, we have a five-
+letter name as opposed to the Navy's four. We call it COPE
+Fighter. This multiple service interagency team identifies
+solutions to optimize human performance and minimize
+unexplained physiologic events in our high-performance
+aircraft.
+But they are not always high-performance aircraft. So I
+would like to provide a quick update on our T-6, which is our
+primary trainer, which is critical to United States Air Force.
+The trainer fleet experienced multiple unexplained
+physiological events since the beginning of 2018. The first one
+happened at Columbus on the 19th of January, and I happened to
+be there on the day when it happened. It was an extremely cold
+day.
+We took an operational pause last Friday after we had
+multiple events across the fleet, to include Sheppard and
+Vance--and if you remember, Vance had had previous events. We
+did it because we needed to think about the safety of our
+student pilots and the instructors. This pause will remain in
+effect until we are certain that aircraft and procedures ensure
+flight safety.
+Major General Patrick Doherty, the commander of the 19th
+Air Force and our Air Education and Training Command, and his
+wing leaders are actively meeting in person with T-6
+instructors and student pilots to discuss the current situation
+and to listen to their concerns. We have learned this from our
+F-22 Raptor, our F-15, and our F-35. Direct interface with the
+leadership to the pilots is critical.
+But it is also critical that they meet with the spouses,
+because we need to ensure the family members that we put safety
+first and to explain what actions we are undertaking to repair
+and return the fleet to flying status. The key is trust. If the
+aircrew doesn't trust their system, the family doesn't trust
+the Air Force, we lose. That is why training is critical to
+this whole as we move forward.
+In our experience, we have studied the OBOGS, the onboard
+generating systems, and for the most part, we have not really
+discovered anything that is not working properly. We had some
+A-10 issues, which was a maintenance issue. We think we are
+discovering in the T-6 it is a maintenance issue right now. The
+system and the way the systems work is sound. Maintaining it is
+the critical factor.
+Your Air Force T-6s have flown 2.1 million hours with a
+physiological rate of 1.95. That means 1.95 incidents for every
+100,000 hours flown. But in 2018, the rate is soaring. So what
+is going on? That is why we paused to look at it. But we also
+need to get in the training, and we totally agree with the
+Navy--I mean with the NASA. We need to instrument our pilots.
+We are looking into that as we move forward.
+I thank you for the opportunity to provide you an update,
+and I appreciate the opportunity to answer any questions.
+[The prepared statement of General Nowland can be found in
+the Appendix on page 52.]
+Mr. Turner. General Nowland, I got to tell you, I could not
+be more disappointed by your presentation. I mean, we have
+hearing after hearing after hearing on this, and we have this
+report in front of us, and the report and the presentation that
+we have is that the human factor is not being taken into
+consideration and your answer is training.
+Now, I got to tell you, what I have in front of me--and I
+just had the Secretary of the Air Force in my office, and she
+does not agree with you. And I am glad, because you didn't
+ground your aircraft, your T-6 aircraft, just last week because
+of training. And this is a significant issue, and it is not
+just listen and talk. This is pure safety.
+Now, when we first started having hearings on this, the
+issue that individuals who are testifying before us came forth
+with was the difficulty to replicate the conditions in which
+the physiological episode happened. No one ever came to us and
+tried to blame the pilots and say it is just an issue of
+training. There is something wrong with the systems that these
+pilots are relying on for their lives and that we are asking
+them to rely on.
+Now, I was just telling the Secretary--and I mentioned this
+in the very first hearing that we had on this--I had this issue
+when I was a mayor, and it was with my firefighters and their
+breathing apparatus and equipment. And we, too, could not
+replicate anything that was happening with their equipment
+except situation after situation they found themselves in where
+their breathing apparatus was failing. And it had an impact of
+morale on the entire fire department.
+And what I am stunned by is that here I am--and I don't
+even know how many hearings we have had on this--and I still
+have someone who is representing one of the most important
+service branches for our pilots come and say this is an issue
+of training and listening and we need to talk to spouses. I
+mean, I have this report in front of me, and one of the
+headlines on this report is ``No Physiological Monitoring of
+the Pilot's Breathing Air Has Been Conducted.'' This isn't an
+issue of talking.
+I mean, the Secretary of the Air Force is concerned that
+the T-6 training aircraft are grounded not because somebody
+doesn't have training. Now, I realize what they have done in
+the past, but I realize what they are doing now. And I realize
+the problem that we had in the failure of the leadership in the
+Navy because we had pilots that refused to fly because the
+leadership of the Navy continued to treat this as if it was not
+a physiological episode that was happening to people, but that
+it was something that, because they were not able to replicate
+it, didn't need to be addressed.
+Now, we asked for this report and to move forward with
+this, because we didn't feel like we were getting the right
+answers. But if you continue to come before us and say this is
+just an issue of training the pilots, I mean, you know,
+General, should we start doing hearing training where we ask
+you to come before us and then let's have you hold your breath
+for a minute during the first hearing, and the second hearing
+we will have you hold your breath for the second for 2 minutes
+during the second hearing? It makes no sense.
+Mr. Cragg, give us some sense here. I know the OBOGS system
+has been tested. There are certainly concerns of maintenance.
+There are certainly concerns of where to identify this. But
+clearly something is wrong for these number of pilots to have
+these incidences and these planes to be grounded versus just we
+just have to train them to understand what happened when the
+incidents happen.
+What should be happening to try to fix this so our planes
+fly again and people can get the training and our pilots have
+the confidence in their equipment?
+Mr. Cragg. Well, sir, as we looked at the situation, we
+tried to come up with some hypotheses on what was causing the
+problems with the pilots. And we went through and looked--at
+least on the Navy side, we went through and looked at all the
+cases and our flight surgeons came up with a consensus that
+over 80 percent of those cases were due to hypoxia.
+Then we looked at the systems onboard the aircraft, and
+they have what is called an OBOGS degrade light, which comes on
+when the percentage of oxygen gets below certain values. So
+what we--we did a little further digging and found out that
+many or most of the physiological episodes that occurred
+happened without this OBOGS degrade light on. So in other
+words, they were getting enough proper oxygen in the cockpit.
+And so when we went to look further, what we found was
+there is hardly any information on the human in the cockpit. We
+don't have the amount of oxygen in his mask, the amount of
+CO2 [carbon dioxide] in his mask, the kind of
+pressure that you would want to know about in the cockpit, the
+breathing rates, those kind of things where we could do some
+kind of physiological assessment of what is happening to the
+pilot.
+CO
+Now, in our report, you may have noticed we had an oxygen
+diagram that showed how oxygen was--how we think oxygen is
+being taken away in little certain steps by different
+circumstances like an aircrew vest that is too tight, maybe
+they didn't have enough water to drink before they went on a
+flight, some things like that. But what we really need is to
+get a picture of the pilot, and we don't have that yet.
+Mr. Turner. Do you have any sense that that step is being
+taken? I mean, because as we try to do the data, pulling just
+off of these systems that are producing the oxygen, and being
+unable to replicate it, do you see any steps that are occurring
+to be able to get that data of what the human is experiencing?
+Mr. Cragg. Absolutely. As a matter of fact, I get a weekly
+summary from the Navy on what they are doing to assist in the
+physiological episodes. And the one I got end of last week,
+they have made some remarkable progress on getting those type
+of instruments in the cockpit that are going to measure just
+those things we talked about.
+Mr. Turner. What is the data saying?
+Mr. Cragg. Well, I haven't seen the data, but what they
+have is they are out testing it with the VX-23, I guess it is,
+so--I mean, it is a heck of a lot further on than it was when
+we delivered our report.
+Mr. Turner. Admiral, what are you finding?
+Admiral Joyner. So where we are today is, we went to what
+was easy in T-45. We put in a system that could do cockpit
+pressure and oxygen delivered at the regulator outside of the
+OBOGS system to the pilot, because we could do that. And when
+we did that on the T-45, we had the discovery that we had a
+flow problem in that aircraft, and that was able to give us
+that.
+But that was an easier solution than what we are pursuing
+right now. What he is speaking of is something called an AMS--
+it used to be called AMS, now it is called VigilOX--which is an
+attempt to measure breathing gas at the pilot. And we have
+tried several systems so far, and there are a lot of
+difficulties. It is probably one of the most difficult aspects
+of this problem. We are working closely with the Air Force to
+do this, and we are leveraging a lot of their early findings in
+F-22.
+So we are--these systems come forward. They are not
+perfect, but we have flown three flights now with the VigilOX
+system. We are just starting to collect the data. And it is
+really early with the three flights. Right now we don't see a
+lot of problems with the oxygen----
+Mr. Turner. I know you can't tell us anything that is
+conclusive, but are you at least being able to capture
+something that indicates that there is a problem?
+Admiral Joyner. We are able to capture the information of
+what is being delivered at the pilot level. Right now it will
+take those medical professionals and those researchers for us
+to better understand the data that is being delivered--because
+it is not apparent from the data that we are seeing what the
+shortfall would be, but it is three flights in, so it is very
+immature at this point. We are taking those steps. Those steps
+were brought forward by the 711th Human Performance Wing, some
+of their early work with the system, and through NASA prompting
+and also the oxygen labs at NAVAIR, there is a lot of work to
+make these systems work and make the data actually speak to us.
+Mr. Turner. So speak to us about the F-35. Apparently 29
+physiological episodes have occurred. What can we learn from
+what you are doing now? And how does that apply to the F-35?
+Admiral Joyner. I would say with the F-35, I talk to them
+constantly. A through C. I am sure the general also is
+collecting that data, as well. They enjoy an airframe that
+speaks to you more clearly than any other airframe we have ever
+had. So if I take my legacy Hornet, you are looking at my 1978
+Corvette. If I go to a Super Hornet, I am looking at maybe a
+2016 Lincoln Navigator. And I am in a JSF, I am flying the
+newest and greatest, and it is telling us more data than we
+have ever had.
+So they are actually accelerating a lot of their learning,
+and they just finished testing their OBOGS system, and they
+have a good understanding of that system. And it was a very
+positive outcome. But obviously we have issues that we have to
+pull apart that are not--we haven't discovered yet at this
+point.
+Mr. Turner. Ms. Tsongas.
+Ms. Tsongas. Thank you. I would like to talk about the role
+of the medical community, as you have wrestled with these very
+troubling episodes. And I think one of the--obviously the
+finding that we are all most taken by from the independent
+report is that this is so much about people.
+So I am going to quote again from it, just to sort of
+restate that. So chapter 12 states the following. Quote, ``PEs
+happen to people, not to aircraft. The U.S. Navy is addressing
+the PE problem as an aircraft, not a human problem. Remembering
+that PEs afflict people and not aircraft may help focus
+activities on better understanding human systems, human system
+requirements, and human system impacts caused by conditions of
+flight.''
+Later, in Appendix A of the report, it goes further and
+says, quote, ``The naval medical community as a whole has not
+been involved with attempting to solve the PE issue.'' From the
+beginning, PEs have been viewed as an engineering issue. And
+you have even referenced that, Admiral Joyner. ``Therefore, a
+proactive investigative U.S. Navy medicine effort never really
+got underway,'' unquote.
+As an example of a lack of U.S. Navy medical involvement,
+the report points out that the decision to deploy hyperbaric
+chambers to treat altitude-induced decompression illness
+appears to have been taken at the operational level. That is to
+say that it was made without any senior-level medical
+involvement. So, Mr. Cragg, can you please elaborate on these
+statements in the report and what you and your team think
+should be done about it?
+Mr. Cragg. Well, I think we were clear that the medical
+community needed to get involved. And I am happy to say that
+they currently are. One of the flight surgeons on my team
+participates with this meeting of naval medical people that is
+just now getting underway to help support the PE processes that
+Admiral Joyner has started.
+You know, it is unfortunate, but when everybody was saying
+this was an engineering problem, they weren't asked, and so
+they didn't participate.
+Ms. Tsongas. And were you surprised to find that?
+Mr. Cragg. Yes, we were actually very surprised to find
+that. And----
+Ms. Tsongas. So now that we found this to be a real
+shortcoming, Admiral Joyner, these two findings and this
+particular example, you know, are obviously quite troubling.
+And I think most members would assume that the Navy's medical
+community would be tightly integrated in all aspects of
+addressing the PE issue. Those of us here certainly would be.
+So what is the Navy currently planning to do in this area
+of its overall PE response? And is there a plan going forward
+for U.S. Navy medical to be involved and in some way that we
+can depend upon?
+Admiral Joyner. Yes, ma'am. Part of the standup of the PEAT
+was to bring in the Bureau of Medicine and Surgery underneath
+the PEAT in order to coordinate those efforts better. And that
+is what having a single entity to try to bring this entire
+fabric together has allowed us.
+So what did we do? We set up something called the
+Aeromedical Scientific Advisory Board, environmental advisory
+board, and they are a group of professionals, both medical,
+academia, oxygen specialists, our research scientists, some of
+the ones from Dayton, Ohio, toxicology out of our NAMRU [Naval
+Medical Research Unit] Dayton group, that are dedicated to
+advising us as we move forward on the PE issue.
+We also have an aeromedical team that is immediately
+involved in all the responses on the flight lines and analyzing
+and making sure that we are coming up with clinical practice
+guidelines that are coherent and are tied in well with that
+research community and with our medical community.
+And then on top of that is we have the root cause
+corrective analysis team who has--one of the members is an
+operator who has become a flight surgeon, much like the Air
+Force was talking about, General Nowland was talking about, and
+we have those professionals, as well, involved in the root
+cause analysis to make sure that we don't lose that human
+element as we go forward to try to find the root cause of the
+PE. So those are several examples.
+Ms. Tsongas. Have you found that by engaging the medical
+community in a more structured way, has it changed your
+clinical practice guidelines? So, for example, have you
+revisited the treatment you might--the ways in which you dealt
+with hypoxia or dealt with decompression illness?
+Admiral Joyner. I think it has standardized the response
+across the flight line, and it has energized further research
+in those areas that we are not as knowledgeable as we need to
+be for what the type of treatment should be. We also engage
+NASA, has been involved in several case reviews for us on some
+of the difficult issues of what the treatment should be.
+So we are extending beyond even within our internal
+resources to external resources like NASA, Duke oxygen
+specialists, and other people that we are bringing onboard to
+better understand this problem. So I think it has increased the
+scope. It has increased our consistency with the clinical
+practice guidelines. And we know that the chambers themselves,
+it is a do no harm. We know that they improve in conditions
+under those treatments, and we are not going to stop treating
+them effectively until we can find something better. But we
+have a full research community dedicated to finding out better
+ways to treat our aviators at this point.
+Ms. Tsongas. Thank you, I yield back.
+Mr. Turner. They have called votes. I think we can get to
+Mr. Kelly and Mr. Langevin, and then we will take a break. Mr.
+Kelly.
+Mr. Kelly. Thank you, Mr. Chairman and the Ranking Member.
+This is a very important issue. I think most of the people in
+here have either soldiers--I mean, sailors or airmen that are
+affected, airpeople, airwomen. I have Columbus Air Force Base,
+and, General Nowland, we just talked beforehand. And I know
+your son just graduated from there, so I know that you are
+personally invested in getting this right, because you have got
+skin in the game. And I think that applies to all of us who
+have served.
+I kind of agree--there is multiple issues. And we haven't
+figured it out at any level, and we have got to figure this
+out, what is causing this, whether it is maintenance, whether
+it is lack of training, whether it is the improper use of
+equipment, whether it is the equipment itself. We have been
+going over this a long time, but it is critical that we get it
+right and that we get it right quickly, but it is more
+important that we get it right.
+What type of--I don't see any movement in finding the
+solution, and that is very, very difficult. So, I mean, you
+have got to start with seeing what those are. What things do
+you think or is there any indication that we are getting close
+to finding at least what is causing it, whether it is the
+maintenance of the system, which I heard you say, General
+Nowland--and I think that is important. If we don't maintain
+the system right and don't do that, then we get those episodes.
+Do either of you--and this would--anybody on the board, do
+we have any idea what may be causing this?
+General Nowland. Congressman Kelly, thank you very much.
+And, Chairman Turner and Ranking Member Tsongas, and the
+distinguished members, if you got the impression from my
+testimony that we are blaming pilots, we are not. We are not.
+When I meant training, I am talking holistic training,
+exactly back to your part. Part of our suspicion with the T-6
+is that the time change technical order for the On-Board Oxygen
+Generating System does not exist. We are formulating it right
+now. So we never trained our technicians on how to maintain
+that piece of equipment.
+What we found in the F-22s is the equipment that we had--
+the aircrew flight equipment, the life support equipment, we
+didn't have our crews trained properly to wear the equipment
+properly, and we noticed the valve on the chest was part of the
+solution.
+Back to the altitude chambers, we have 10 altitude
+chambers, but the altitude chamber that we did training 10
+years ago or 20 years ago is different than what we do today.
+So it is a holistic view of all of it.
+So I think right now our suspicion is that the maintenance
+of our On-Board Oxygen Generating System for our T-6s, after
+having flown them for 2.1 million hours, needs to be repaired.
+So we believe there is a repair that--but we don't know that
+for sure.
+The human physiological episode, we absolutely believe--as
+I said with the NASA--that that--we have got to collect data.
+We have ear cups data that we use in the F-35 that allows us to
+take the blood. One of the things that we found is when we have
+a physiological episode, we do not have the time quite right,
+because the blood alkalinity changes. So we are putting testing
+equipment that will meet the aircrew right at the airplane to
+try to get the best data that we can get from the pilots in the
+meantime.
+So to answer your question, sir, we are working multiple
+solutions. We think it is maintenance on the T-6 right now.
+Mr. Kelly. One other quick question. And this is to both of
+you. Grounding of the T-6 or the T-45 or whatever equipment, we
+already have a pilot shortage across the board. What impact
+does this have on the training pipeline? And what are we doing
+to make sure that we don't have a prolonged impact which gets,
+you know, the accordion effect as we go in time?
+General Nowland. Sir, General Doherty, the 19th Air Force
+commander, is working two solution sets. One is trying to get
+the On-Board Oxygen Generating System to work properly. The
+second one is an interim solution where we would modify the
+CRU-60, which is what we connect our oxygen mask to, take it
+off of the onboard generating system, use the ambient pressure,
+and then modify the flight profile so that we stay between
+6,000 and 7,000 feet on cabin pressure, and then we would stop
+all solos. We would always fly our crews dual as we working the
+simultaneous. We lose 700 sorties a day right now with the T-6
+grounding. That will have an effect on our pilot training.
+Admiral Joyner. For the T-45, we have turned the curve. Our
+rate is maybe one-fifth of what it was at the point where we
+were approaching the grounding, and that is a significant
+change. We assess that we have identified the flow problem in
+the T-45 as being the primary issue. We have taken steps to
+mitigate it. We have long-term steps to solve it.
+For right now, though, we have a training impact that is--
+we are trying to absorb in all different phases of flight
+through our follow-on training. We are bringing the Reserves to
+bear against the training problem. We are extending the
+resources of the contract support that we have on the T-45. And
+we are trying to buffer that impact across the system, longer
+term relying on some of our aviators to operate longer on a
+volunteer basis at sea in order to try to blend this across the
+system.
+But there are impacts. And you can't deny those. We are
+just trying to mitigate them at this point.
+Mr. Kelly. Thank you, Chairman. My time is expired.
+Mr. Turner. Thank you. Before I get to Mr. Langevin,
+General, thank you for clarifying that. This is our fifth
+hearing and briefing on this. We just sort of expect a
+progression of shared values on issues, and I appreciate your
+clarifying your language, because when we began this, as Mr.
+Cragg has said, it is not just the human value, the pilot value
+is not being honored. I appreciate you making that
+clarification statement. Because there is at times when you
+have something like this the question of, is it real? And this
+committee certainly believes that what is occurring is real.
+Mr. Langevin.
+Mr. Langevin. Thank you, Mr. Chairman. I want to thank our
+witnesses for being here today. It is a very important issue
+that we need to get to the bottom of.
+I haven't heard a whole lot that makes clear sense of all
+this yet, except for some of the information I have before me
+right now, so I will put this out there and then ask Mr. Cragg
+to respond first. But the NASA review report states on page 15
+that, quote, ``A problem with the breathing gas system as a
+whole is that the onboard oxygen generation system gets fed
+last. The enormous amounts of cooling air required for the
+avionics and radars (especially on the E/A-18G Growlers) means
+that the ECS [environmental control system] controls
+preferentially direct flow to them'' instead of the OBOGS.
+Then finding 10-7 of the report states that, and I quote,
+``Avionics flow has priority over cabin flow in some
+operational cases . . . data from the PE flights has directly
+demonstrated cases in which high avionics flow results in lower
+than required cabin airflow.''
+Finally, observation 10-2 in the report states that, and I
+quote, ``The Navy appears to have little insight into elements
+of the ECS control programming logic. Discussions with
+engineering teams at the Patuxent River and fleet support
+activity North Island suggest that the logic programming
+control sets were not part of the contract deliverable for the
+F-18 and, therefore, may no longer be documented in any form.''
+So if I had to summarize these three statements, it would
+be that the crew's airflow comes last. But the Navy doesn't
+seem to know exactly why that is the case. So given the
+aircraft can't operate without its crew, one would think that
+the opposite would be true.
+So, Mr. Cragg, to you, would you agree with the overall
+assessment? And what else would you like to add to what is in
+the report on this subject?
+Mr. Cragg. Thank you. Yes, I would agree with that
+statement. The Navy does not fully understand the pressure
+control logic, because as you mentioned, it wasn't part of the
+F-18 design that was supplied to the Navy by Boeing.
+But this somewhat gets to the theme--one of the themes of
+our report that we think the Navy needs to do some human system
+integration where they look at all aspects of what is going on
+with the human, what is going on with the environment, and how
+the system of the airplane itself operates. And if they don't
+have an idea of how the logic control portion of a key
+component, the environmental control system, that is a
+deficiency.
+And they need to do that. They need to figure out how that
+operates so--you know, one, they can troubleshoot the system
+properly, but at the other side, they need to do this human
+system integration where they put everything together and
+understanding exactly how your systems operate is key to that.
+Mr. Langevin. Admiral Joyner, I also have several questions
+for the Navy following the statements in the report. First of
+all, what can be done to fix this? Does the Navy have all the
+technical data on the F/A-18 to address this issue? And if
+airflow to the crew was given first priority on the aircraft,
+how would that affect mission systems? And then finally, does
+the Navy have an effort in place with Boeing to address this
+design issue in the current and new
+F/A-18s?
+Admiral Joyner. I would say I vary in my opinion and my
+status on the ECS system. The OBOGS is the primary system that
+is fed. And cooling air is not removed from the OBOGS system in
+order to feed it elsewhere. There are instances where if the
+avionics are overheating that it won't pull it from the OBOGS,
+it will pull it from the cooling for the pilot in order to make
+sure the avionics function. None of us want our avionics to
+shut down, because it will result in an ejection, and that is
+not something we want to see.
+So overall, I would say that when I look at the ECS system
+on the F/A-18, we need to regulate it better. That is where our
+emphasis has been. Due to the timing of the legacy system in
+the
+F/A-18, a lot of what is available on the ECS system is analog.
+It is in vaults and it is stored elsewhere. We have access to
+those, but it is not as simple as looking it up on a system.
+You have to go find that. And we are working directly with
+Boeing to make sure we have access to all the support material
+we need.
+The engineers at NAVAIR reassure me and have walked me
+through the system to explain to me why they know that the
+pressure system and how they have tested it, but we realize we
+want to test it further on the OBOGS system, and we are taking
+advantage of the 711th lab that they have that they are able to
+do dynamic testing that recreates the flow that is given to
+that system in the OBOGS. So we are going to take advantage of
+that testing, as well, to do dynamic testing, not just point
+testing.
+Mr. Langevin. Did I understand you, though, that you
+completely disagree with NASA's findings that the OBOGS system
+is fed last?
+Admiral Joyner. My understanding of the system is that
+OBOGS is prioritized first, ECS is second. The third system
+that goes is the avionics cooling, except if it starts to
+compromise those avionics systems. And then we are going to
+pull heat but not pressure out of the system. The F/A-18 has a
+lot of pressure, and it is--from what I see to date, it is more
+about regulating that pressure, because we are causing over-
+pressurization at times within that system. And that is an
+issue that we have to--we are putting in eight corrections to
+the ECS system in order to try to regulate that pressure better
+and try to smooth the flow.
+So we realize that our concentrator, our OBOGS system,
+could have a better system and we are pursuing that, but we
+don't necessarily agree that the--how it is prioritized is done
+incorrectly.
+Mr. Turner. We are going to have to take a recess. We do
+have votes we have to run to. And I know Mr. Gaetz has
+questions, and we will be returning for those.
+[Recess.]
+Mr. Turner. Okay, we will call the hearing back to order.
+Please have a seat. Mr. Gallego, your questions, please.
+Mr. Gallego. Thank you. My question is about the GGU-12 On-
+Board Oxygen Generation System on our F/A-18s.
+At three separate points in the report, NASA advises us of
+testing and practices for the critical system that seem
+abnormal. First, the report states that the Navy and Boeing
+have not followed well-known industry best practices in a
+system that is critical to the life support of our F/A-18
+aircrews. Further, it appears that current test equipment does
+not simulate real flight conditions actually encountered by the
+F/A-18s.
+So if that is true, it could generate false positive
+results, as we are hearing from now, that may conceal
+underlying problems with the system as it operates under real
+conditions. And third, it appears that some of the underlying
+design specifications for the
+F/A-18's oxygen generation system are decades, decades out of
+date and do not reflect the latest scientific knowledge on
+aircrew breathing demands.
+One of the report's key recommendations to bring these
+specifications up to date to conform to standards developed in
+2015. So, Mr. Cragg, taken together, these examples from the
+report indicate that the breathing system of the F/A-18 has
+serious problems. Do you agree?
+Mr. Cragg. Yes, sir.
+Mr. Gallego. And how would you summarize what these
+problems are?
+Mr. Cragg. Well, I would say unfortunately the original
+OBOGS specifications were not put through the human systems
+integration process that would have highlighted the fact that
+it cannot deliver for all conditions, like high-stress portions
+of the flight. That is why a key recommendation of our report
+is to re-examine the OBOGS in light of the human system
+integration effort. And additionally, as you pointed out, some
+of the testing that is done on the OBOGS doesn't utilize in-
+flight conditions. But I understand they are getting better and
+closer to the real thing.
+Mr. Gallego. They are getting better and closer to the real
+thing. Is there a time period we understand that this is going
+to be happening?
+Mr. Cragg. I think you have got to ask the Navy that, sir.
+Mr. Gallego. Lieutenant General Nowland, while you are not
+Navy, do you have anything to add to Mr. Cragg's answer?
+General Nowland. On the F/A-18, no, sir, I do not.
+Mr. Gallego. Okay. I think many of us are a little anxious
+to see some form of conclusion or time period, especially
+involving the lives of our service members. I yield back.
+Mr. Chairman, I yield back.
+Mr. Turner. Mr. Carbajal.
+Mr. Carbajal. Thank you, Mr. Chairman. Thank you all for
+your service and for addressing us today.
+The report makes two statements regarding leadership and
+communications within the naval aviation community that I want
+to touch on.
+First, in finding 10-29, it states that, quote, ``There has
+been a breakdown of trust in leadership within the pilot
+community'' and that ``one notable area leading to a lack of
+trust in leadership is the completion of Parts A/B/C of the
+Physiologic Episode report. Once these questionnaires are
+completed, they disappear through the `system,' only to be
+examined months later. None of the pilots interviewed ever
+received official word as to the cause of the incident or the
+mitigation the U.S. Navy would be taking to reduce the
+likelihood of a repeated event.''
+Second, with regard to feedback from aviators, the report
+observation 10-20 points out that, quote, ``The Navy has not
+conducted a fleet wide survey of their F/A-18 air crew to
+understand the PE problem from the human perspective, where
+these events actually occur.''
+Taken together, it appears that the communication issue
+noted in the Navy's own comprehensive review conducted earlier
+this year remains a problem.
+Rear Admiral Joyner, what is the Navy doing to get feedback
+on PE event investigations back to the crew members that
+experience them?
+Admiral Joyner. Yes, sir. What we do right now is we have a
+quick look that we are doing. We start in T-45s, where we try
+to come back at the 48-hour point, and we brief out our quick
+look response of what we are receiving from the Parts A, B and
+C, and information that we receive from the aircraft itself.
+And we present that to the aircrew. Approximately 30 days
+later, we come back with a full report, which outlines what we
+found on the aircraft as far as any system failures, any
+additional information we were able to derive from the data
+sets.
+So in F/A-18, we are using Slam Stick data, which tests the
+pressure inside the cockpit. We are getting the OBOGS
+information for any type of malfunctions we are able to find.
+We also have a quick response force that falls in on the
+aircraft. And rather than breaking the system, as we have
+historically, we holistically analyze a system with a team on
+station that includes a medical professionals. It includes
+engineers. A Boeing rep [representative] is also onboard. And
+the pilots are also involved with the pilot maintenance and the
+aviation physiology, the aeromedical safety officer, all fall
+in on the aircraft to do this analysis and try to figure out
+root cause for each of the events.
+That is all communicated back to the pilots. Part of that
+communication plan is also what we call the PE road show, which
+is--I just returned from Japan doing one out there, both Atsugi
+and Iwakuni, and we addressed the pilots directly on what we
+are finding with their aircraft, different trends. We are
+getting a health monitoring system up online that basically
+shows the prognostic health of their airframes by BUNO [bureau
+number], and we are showing them on their aircraft what we are
+seeing with the data. So the feedback loop has been
+strengthened, and we are making sure that we are getting that
+back down to the deckplates, to the aviators, site by site.
+The second part is the survey. We just completed the survey
+last Friday. We did get over 500 responses out of our aviation
+community, but we also did maintainers, as well. It was a large
+response. We got about 22 percent of aviators and maintainers
+responded to the survey. And that survey is designed to go
+ahead and solicit that feedback and get information about
+different things that have impacted the pilots and how they are
+operating.
+So we did take both of those onboard, and we did move
+forward on them quite regularly. And then we also have the
+weekly newsletters and engagements that we do with the fleet. I
+go site to site.
+Mr. Carbajal. And was this done, this survey of the F/A-18
+community, as well?
+Admiral Joyner. Yes, sir, that was F/A-18 and T-45.
+Mr. Carbajal. Great. May I ask how long this feedback loop
+has been in place?
+Admiral Joyner. The T-45 feedback loop has been in place
+for roughly I think 3 months. When we stood it up and went back
+to flying, back in September timeframe, we realized that we
+needed to push that information down. And so in September, the
+T-45 led the way, and now we have brought that onboard with F/
+A-18 and we started that roughly November, December timeframe.
+Mr. Carbajal. Great. Thank you very much, Mr. Chair. I
+yield back.
+Mr. Turner. Mr. Panetta.
+Ms. Tsongas.
+Ms. Tsongas. Thank you all for being here. I am sorry for
+the break, but appreciate your patience. Admiral Joyner, I just
+have a couple of quick questions, really only take a yes or no
+answer, or a maybe if it is not clear that it is one or the
+other.
+The report states in finding 10-20 that there has been no
+definable effort to use the OBOGS laboratory at the 711th Wing
+at Wright-Patterson Air Force Base to assess effects on OBOGS
+output gas. Is there currently a plan in place to conduct this
+testing?
+Mr. Turner. I was going to ask that, but I felt like I had
+a conflict, so thank you for asking that. I did not ask her to
+ask that, but that is important. That is in the report, and
+that is a question.
+Admiral Joyner. Yes, ma'am. We are intending to use the
+711th Dynamic Testing Lab that they have on site.
+Ms. Tsongas. It is an important resource, and it is a shame
+it took this study to lead to that. Does the Navy intend to
+issue a request for proposal in the near future for a new On-
+Board Oxygen Generation System for the F/A-18?
+Admiral Joyner. Yes, ma'am.
+Ms. Tsongas. Does the Navy intend to develop and install a
+new cabin air pressure monitoring and alerting system for the
+F/A-18?
+Admiral Joyner. Yes, ma'am.
+Ms. Tsongas. Does the Navy intend to design and replace the
+F/A-18's cabin pressure regulator valves?
+Admiral Joyner. Yes, ma'am.
+Ms. Tsongas. Is the Navy doing----
+Admiral Joyner. We are looking into a suitable replacement
+for that. We have gone through to repair them and to make sure
+that the maintenance, when they come back out to the fleet, is
+accurate. We are looking at a couple of different options for
+that valve, but right now we have concerns about some of the
+solutions we have been offered. So I wanted to clarify that.
+Ms. Tsongas. Okay. Is the Navy doing upgrades to the ECS
+software on F/A-18s and EA-18Gs to deal with icing in the ECS-
+related water lines?
+Admiral Joyner. Yes, ma'am.
+Ms. Tsongas. And is the Navy planning to install an
+automatic backup oxygen system in the T-45?
+Admiral Joyner. Yes, ma'am.
+Ms. Tsongas. Is it planning to do so for F/A-18s?
+Admiral Joyner. It is not at this time.
+Ms. Tsongas. Thank you.
+Mr. Turner. Admiral, help us. We have had a total of five
+now hearings and briefings. Ms. Tsongas and I both traveled to
+you and have received briefings on this. We asked for this
+report, and, Mr. Cragg, thank you so much for the detailed
+information that is in this, and this is very, very helpful,
+of, unfortunately, things that aren't happening after things
+that aren't happening after things that aren't happening.
+This has got to be fixed. This has got to stop. And I don't
+have confidence that we are getting nearer to that. I believe
+that there are a number of things that are being done and a
+number of things that are not being done that are now being
+done because the report said to do them.
+But this would seem to me to be something that needs to be
+done quickly and expeditiously and that this should not be a
+research project. This should be a fix-it project. Help me get
+some sense that we have in place things that are going to do
+that, knowing that this started with our having an
+understanding that pilots had to revolt and say, ``I won't
+fly'' because the chain of command wasn't even recognizing
+their complaints and their incidences, you know, all the way to
+there is still a sense of morale of lives are at risk.
+Help us get a sense that the work that we are doing and the
+work that you are doing is going to result in something.
+Admiral Joyner. Right now, T-45s are fully operational.
+They operate every day. We have over 27,000 flight hours. We
+have had six events in those aircraft, all mild in nature, one
+of which was a system failure that was identified by the
+system.
+So we have turned the corner on T-45. We have long-term
+corrections in place, design changes to the aircraft to fully
+address it, so we are not declaring victory. We have an RCCA,
+root cause corrective analysis, team that goes line by line,
+starting with the human, ending with the human, trying to find
+root cause for both the T-45 and the F/A-18.
+Industry is involved. Aeromedical is involved. NASA helps
+consult and keep us on track so that we don't lose sight of
+things that may be falling out. We have a long-term goal of
+adding a robust human systems integration effort on par with
+our aircraft design requirements and engineering force. So we
+are looking to fully integrate them within our efforts.
+On F/A-18, we are turning the corner. We see now that we
+are able to influence the pressure response on the aircraft. We
+have been able to make noticeable and observable, measurable
+changes to the F/A-18, which are resulting in a better, more
+stable ECS system. There are long-term design changes in place
+to ensure that we further stabilize that system and we have an
+OBOGS concentrator that we are looking for a request for
+proposal.
+We are open to added things that are found along the way in
+order to make sure that we are not missing anything. That root
+cause effort is a longer-term effort that will lead us--the
+medical force outcomes will take more time. Those are fully
+funded through the FYDP [Future Year Defense Program] type of
+efforts to fully define pressure and oxygen requirements for
+pilots. We are working with the Air Force actively, and we are
+pursuing all those answers long term.
+I don't--every day I ask myself, what else could we be
+doing that we are not doing? I turn to NASA and I ask those
+questions. I work with the Air Force. And we make sure in
+academia, as well. And we want to make sure that we are not
+missing a single thing, and we have gotten your assistance, as
+well, which is helping us do those efforts.
+So all I can tell you is, my effort doesn't stop. I will
+have somebody who will relieve me in this effort, and we won't
+stop until we resolve it.
+Ms. Tsongas. I want to thank Mr. Cragg for this very
+important study that I think has helped create a path forward.
+And I appreciate, Admiral Joyner, the seriousness of purpose
+you have brought to this effort. Again, as I said in my opening
+remarks, I am very concerned that you are being rotated out in
+less than a year into this effort and remain very hopeful that
+somebody will be put in your place who can stick with it a
+little longer, because we know change does lead to setbacks.
+And we can't afford to lose any more time.
+And just wanted to say, as we are here, as we sit here
+today, new F/A-18s are rolling off the production line at a
+cost of about $69 million per aircraft. At some point, paying
+$69 million for an aircraft we know has serious problems with
+its life support system has to be questioned. So I am not
+calling for stopping production, but it seems clear that the
+Navy and Boeing need to work together and come up with
+improvements to the F/A-18 that make them safer for our brave
+men and women in the military to operate, because we know it
+puts their lives at risk, and to make sure every single new F/
+A-18 has those improvements built in from day one and we are
+not back here a good number of years hence revisiting these
+same problems yet again.
+Thank you, and I yield back.
+Mr. Turner. Thank you. Mr. Cragg, many times this committee
+authorizes a request for a report to be done. You and NASA have
+outdone yourselves. This was a phenomenal and excellent report.
+It is great to see that work product translated from our
+request. And thank you for the dedication of which you
+approached this.
+Appreciate all of your efforts for this. I hope as we get
+to our--what will have to be a sixth hearing and/or briefing on
+this, that we have a greater sense--although, Admiral, I
+appreciated your closing comments of things that you are
+accomplishing--a greater sense that this is being advanced in a
+way that hopefully the committee can feel as if it is being
+done in a way that our oversight is no longer necessary and
+these can be just incidences that go into reports instead of
+incidences that in the aggregate require congressional action.
+Thanks. With that, we will adjourn.
+[Whereupon, at 5:40 p.m., the subcommittee was adjourned.]
+=======================================================================
+A P P E N D I X
+=======================================================================
+PREPARED STATEMENTS SUBMITTED FOR THE RECORD
+February 6, 2018
+=======================================================================
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+=======================================================================
+QUESTIONS SUBMITTED BY MEMBERS POST HEARING
+February 6, 2018
+=======================================================================
+QUESTIONS SUBMITTED BY MR. TURNER
+Mr. Turner. a) By centering your investigation on the human
+element, what new information was revealed?
+b) What were the shortages of evidence related to human health in
+an F/A-18 environment that you encountered?
+Mr. Cragg. 4a: 1. NASA flight surgeons, reviewing pertinent
+Physiological Episode (PE) Medical information as a whole instead of
+just individual cases, determined that > 80 percent of the PEs were
+Hypoxia related. 2. The human system, specifically the requirements for
+meeting human needs, was not represented in the integrated end-to-end
+description of the F/A-18. This omission made it difficult for system
+hardware engineers to find end-of-the line problems when isolated
+individual systems appeared to be working well.
+4b: There was and is hardly any data or measurements being taken in
+the F/A-18 that addresses the human response to the flight environment.
+Data needed includes:
+i. breathing patterns (rate, depth, volume) in flight
+ii. cabin pressure
+iii. Oxygen levels, flow and pressure in the breathing gas system
+iv. Exhaled CO2 levels in the mask
+Data such as the above serve two purposes: 1) as a monitor of human
+health in the dynamic flight environment, and 2) as specific diagnostic
+checks on components of the integrated life support system.
+Data that was collected included inflight sorbent tube samples from
+EA-18 Growlers of pilot breathing gas. This data, when investigated by
+NASA, demonstrated an unambiguous relationship between increased
+contamination and the occurrences of PEs. The Navy did not and has yet
+to conduct proper analysis on these samples. It is important to note
+that the relationship is one of correlation; NASA did not conclude that
+contamination was the cause of PEs.
+Mr. Turner. a) Is the U.S. Navy capable of solving the PE problem?
+b) Has the Navy been forthcoming with all of their data?
+Mr. Cragg. 6a: Yes. When the NASA investigation started, the NASA
+team saw dedicated individuals across the U.S. Navy doing their best to
+find and fix the PE problem. However, they weren't working together in
+an organized way, and their central focus was on the plane--not on the
+pilot and importantly, not on the dynamic plane/pilot/environment
+interaction.
+6b: Yes. The Navy quickly provided us with everything we asked for.
+Mr. Turner. The report notes in several observations and findings
+that your team found specific design problems with the F/A-18's
+environmental control system, onboard oxygen generation system, and
+CRU-103 regulator. Can you explain those in detail?
+Mr. Cragg. The F/A-18's Environmental Control System (ECS) is fed
+high pressure air from a direct connection to the engine that varies in
+its pressure whenever the pilot changes the throttle. The ECS feeds
+other systems that must account for these pressure changes. One of
+these systems, the cabin pressure control system, is prone to
+instability which leads to pressure excursions in the cockpit. Others,
+like the onboard oxygen generation system (OBOGS) and CRU-103
+regulator, appear to be delivering oxygen to the pilot in a manner
+inconsistent with nominal pilot performance for some flight regimes.
+Put simply, all evidence supports that the pilot is not getting the
+stable cabin pressure and breathing oxygen supply that he/she needs in
+some cases, due to complex system interactions and deficiencies in the
+design of the jet as an integrated system.
+However, more generally and more importantly, these problems are
+rooted in the lack of a (human system) ``requirements driven'' approach
+to the design and engineering of the integrated environmental control
+system, onboard oxygen generation system, and CRU-103. While these
+systems may indeed meet individual documented requirements; it remains
+evident that documented requirements are insufficient to
+comprehensively support pilot physiological needs. There remains a
+dearth of data surrounding the pressure and breathing performance needs
+of a human being operating the F/A-18; and by extension a dearth of
+data to support or refute when these performance needs are being met or
+not met operationally by the aircraft.
+Put simply again; the ECS, OBOGS, and CRU-103 were specified based
+on an evolution of operational history and aircraft design legacy,
+rather than validated performance data used to evaluate pilot demands
+in the tactical jet flight environment. While this approach for
+hardware design is sufficient to support pilot performance in most
+cases; it supports no understanding of where the actual performance
+envelope lies, and therefore no ability to anticipate or evaluate when
+the performance envelope may be exceeded and result in a Physiological
+Episode. Additionally, the GGU-12 OBOGS unit and oxygen delivery
+schedule falls significantly short of meeting the newest requirements
+of MIL-STD-3050. This new standard collects the best information on
+meeting pilot breathing requirements for aircraft using OBOGS. The NASA
+team also pointed out that the CRU-103 pilot breathing regulator, while
+capable of providing additional pressure during periods of high-g
+force, as is done for example in the F-22, is not used in this manner
+in the F/A-18. This minor change in usage has been found to help pilots
+breath more easily during high-stress combat maneuvers. NASA has not
+monitored the continuing execution of the program. However, the agency
+has been informed that the Department of Defense has fully accepted
+NASA's finding that Physiological Episodes happen to people, not
+aircraft. According to the DOD, these findings have driven their Navy
+Physiological Episode Action Team (PEAT) to shape a holistic strategy
+that examines Physiological Episodes as an interactive condition
+between the human and the aircraft. Although physiological monitoring
+is not a near-term capability, the DOD has indicated the PEAT is
+aggressively pursuing acceleration opportunities and accelerating
+mitigations to the fleet, where DOD is looking at mechanical fixes to
+the machine but also directly assessing human health and performance in
+the cockpit.
+Mr. Turner. The report notes numerous concerns with the Navy's
+``Human System Integration'' process. One finding stated that the
+process is ``deficient''. Can you elaborate on those concerns?
+Mr. Cragg. The Navy's Human System Integration process is indeed
+``deficient.'' The Finding in question states: F10-30: Currently the
+Human-Systems Integration (HSI) process within the U.S. Navy is
+deficient; it appears to be associated with a decrease in the available
+subject matter expertise in the fields of Aerospace Medicine,
+Physiology, Human Factors Engineering, Cognitive Psychology, and Human
+Systems Integration, as well as organizational barriers to meaningful
+interaction amongst these disciplines across the U.S. Navy. NOTE: This
+finding is similar to one made in the USAF F-22 Life Support System
+review several years ago. In 2012, NASA was asked by the USAF to
+provide a review of the F-22 Life Support System. One of the major
+findings was a significant increase in the work-of-breathing for pilots
+during flight. This issue was primarily the result of a lack of
+thorough human-machine interface testing in the flight environment. The
+work-of-breathing theory was evaluated by simply instrumenting a pilot
+wearing standard aircrew flight equipment and placing them in a
+centrifuge configured to replicate the life support system an
+operational F-22 aircraft. These data led to improvements in the F-22
+design and in the human performance associated with piloting an F-22.
+In 2012, USAF General Gregory S. Martin testified before Congress
+that (from the NASA report):
+``Over the past 20 years, the capabilities and expertise of the
+USAF to perform the critical function of Human Systems Integration have
+become insufficient, leading to:
+--The atrophy of policies/standards and research and development
+expertise with respect to the integrity of the life support system,
+altitude physiology and aviation occupational health and safety.
+--Inadequate research, knowledge, and experience for the unique
+operating environment of the F-22, including routine operations above
+50,000 feet.
+--Diminution of Air Force Materiel Command (AFMC) and Air Force
+Research Laboratory (AFRL) core competencies due to de-emphasis and
+reduced workforce to near zero in some domains.''
+Many of these same underlying Human-Systems Integration
+deficiencies are evident in F/A-18.
+Human-Systems Integration (HSI) is defined as the
+``interdisciplinary technical and management processes for integrating
+human considerations within and across all system elements; an
+essential enabler to systems engineering practice'' (Haskins, 2007).
+The goal of HSI is to integrate the human into the system as a critical
+element; the human is as critical to system design considerations as
+the hardware or software.
+With regard to fighter aircraft, the interaction of the human with
+the aircraft (i.e., human factors) is one particular domain that
+demands a great deal of attention because of the complexities involved,
+and because of significant consequence associated with failure. This
+domain is the comprehensive integration of human capabilities and
+limitations (physical, sensory, cognitive, and team dynamics) into
+systems designed to optimize human interfaces and facilitate human
+performance in training, operation, maintenance, support, and
+sustainment of a system. The Department of Defense has formalized the
+role of HSI. There are nine domains of HSI: manpower, personnel,
+training, human factors engineering, occupational health, environment,
+safety, habitability, and human survivability. A commonly accepted HSI
+success story was the development of the F119 engine for the F-22 by
+Pratt & Whitney. Because both the USAF and Pratt & Whitney were
+dedicated to HSI the development constantly included the human element.
+The resulting design increased ease of assembly, maintenance, and
+repair thereby reducing overall labor costs, servicing frequency, and
+number of tools required. The USAF elevated the visibility of this
+process and the contractor also shared in this vision by creating
+testing facilities designed to better evaluate the engine to ensure
+reliability. Ultimately, the key to successful HSI is the fervent
+commitment from top-level leadership in maintaining the integral nature
+of HSI. This has not been the case in the F/A-18.
+To maintain the combat edge, weapon systems must change over their
+life cycle. This is a fact. However, these changes must be
+appropriately evaluated using an HSI analysis to explore the potential
+impact to the human. The F/A-18 life cycle has been extended for years
+beyond what was originally planned and has undergone a number of
+modifications ranging from structural to digital. There is a vast
+difference between the original F/A-18A ``Hornet'' and the EA-18G
+``Growlers''. The oxygen system changed from liquid oxygen (LOX) to the
+OBOGS. The EA-18G received advanced radar, various electronics counter-
+measures components, and a second aircrew member who acts as the
+Weapons Systems Operator (WSO). These changes impacted the demand for
+engine bleed air but no rigorous assessment was conducted to determine
+if the engine bleed air can meet these demands while maintaining
+appropriate OBOGS oxygen concentration and flow throughout all phases
+of flight. Just as the aircraft changes over time, new understandings
+of human physiology also occur that must be considered in terms of the
+overall system. Indeed, even during initial design phases, assumptions
+about the human are made and sometimes these assumptions are not valid.
+Thus, the requirements based on incorrect assumptions or an incomplete
+understanding of human physiology can be costly to correct. In 1993, a
+study identified that pilots could over-breath the on-board oxygen
+generation system (OBOGS). A recommendation was made to change MIL-D-
+85520 to require the oxygen systems of tactical aircraft to produce
+peak inspiratory flow rates of at least 260 LPM (NAVAIR TM-93-59 SY).
+This recommendation was not implemented. It is noteworthy that MIL-STD-
+3050 (2015) now contains a similar minimum flow requirement. During the
+early stages of the spike in reports of F/A-18 PEs, the Navy assumed
+that the PEs resulted from a defect in the aircraft. The aircraft was
+taken out of service and inspected. No consideration was given to the
+integration of the human and machine during flight operations. While an
+inspection could determine if a component was operating within spec in
+a controlled environment, it remained unknown if the component
+performed as expected on the aircraft during dynamic flight.
+Furthermore, it remained unknown if these established specifications
+met the demands of the human system during flight, and if they
+continued to meet those demands following various system changes. The
+human was not considered as a critical element; the HSI was deficient.
+As new information about the machine and the human is learned, we now
+recognize that the physiologic requirements determined for the original
+system design were already partially inadequate. Due to the increased
+cooling needs in latest models of the F/A-18, this inadequacy has
+increased. The greatest concern is the lack of data to answer the
+question: how inadequate?
+It's impractical to instrument an entire system of any significant
+complexity, however, key pieces of information are required to
+correctly diagnose problems. For example, the F/A-18's pressure
+fluctuations are difficult to assess because there is no inlet or
+output sensor that directly records these data for analysis. This is a
+knowledge gap in terms of characterizing and assessing the machine
+performance. Similarly, there are critical knowledge gaps in
+characterizing the human system. In fact, the most important data
+required to identify and solve PEs is entirely absent; there is no data
+collected to objectively define the human physiological experience in
+the cockpit during operational flight. There is no routinely recorded
+data about oxygen pressure, flow, or percentage. Additionally, there is
+little data on pilot breathing rates, breathing volume, cabin pressure,
+etc. Without data, the human subjective report of a PE cannot be
+compared with in-flight exposure and potential causal factors cannot be
+confirmed or dismissed. Furthermore, without measurements to
+characterize the current conditions, it will be challenging to know if
+the results of the Navy's changes positively or negatively impacted the
+human. To be clear, the PE rate is a deeply insufficient metric as
+human participation can be influenced by various factors far easier
+than data. This is a hindrance to exploring and assessing the validity
+of any solution.
+Like the USAF in 2012, the Navy's critical core competency of HSI
+expertise has atrophied due to a lack of investment and support.
+Currently, the emphasized expertise is aircraft engineering solutions.
+The best way to affect change for a human-machine system is by
+integrating the human into the system and assessing that integration
+with each subsequent design modification. Without appropriate HSI
+expertise at the table, the most integral, intelligent, and valuable
+part of the system--the human--isn't represented.
+Mr. Turner. In the FY17 NDAA, this Congress directed the Secretary
+of the Navy to conduct an independent review of the plans, programs,
+and research of the Department of the Navy with respect to
+physiological episodes affecting aircrew of the F/A-18 Hornet and F/A-
+18 Super Hornet aircraft, as well as the efforts of the Navy to prevent
+and mitigate the effects of such physiological events. This
+subcommittee is interested in hearing what the Navy found valuable from
+NASA's report and how are you using NASA's findings today to inform
+future efforts with the F/A-18 series aircraft?
+Admiral Joyner. The Navy found NASA's report useful in identifying
+organizational constructs that were not working well to respond to the
+urgent issue of physiological episodes (PEs), including communication
+shortfalls, stove-piping of information, and lack of a single clear
+leader for PE efforts. NASA's recommendations provided a catalyst for
+reorganization and the adoption of a broader view of the Naval Air
+Systems Command's (NAVAIR's) systems engineering boundaries when
+addressing the PE problem, specifically inclusion of the human factors
+and physiological needs in system design and function of the aircraft.
+Additionally, NASA bolstered support for a comprehensive Root Cause
+Corrective Action (RCCA) investigation that the Navy has fully embraced
+as the path to solving the PE issue. Below are NASA's 8 key
+recommendations and the Navy's actions: 1. Measure parameters that
+directly assess human health and performance. Make measurements in the
+cabin environment whenever possible. The Navy is exploring every option
+to measure and record meaningful data in the cockpit. Several
+development efforts are ongoing in coordination with PMA-202, the
+Aircrew Systems Program Office and the Navy Bureau of Medicine and
+Surgery (BUMED) to field sensors that can directly measure human
+performance and physiological response while not being intrusive or
+interfere with cockpit duties. While human-mounted sensor technology
+matures, integration of multiple sensors in the aircraft cockpit and
+aircrew flight gear continues. One example of a newly fielded sensor is
+the SlamStick, a small pressure sensing and recording device carried in
+aircrew pockets. SlamSticks are carried on every F/A-18 and E/A-18
+sortie. Data is downloaded after flight and uploaded to a central
+database for analysis. This data has been used extensively to
+characterize and understand the cockpit environment.
+Mr. Turner. Navy leadership has consistently said physiological
+episodes are the number one safety priority within Naval Aviation as it
+is directly related to aircrew health. This Congress has consistently
+asked what it can do to help in this effort. As a result, the Budget
+Request for Fiscal Year 2018 was shaped to provide the financial
+resources required to address the issue. Can you briefly describe to
+the subcommittee what solutions are being accomplished with these
+funds?
+Admiral Joyner. To address issues in the T-45, the Navy received
+resources in FY18 in the form of additional O&M funds which are funding
+the ongoing T-45 Root Cause and Corrective Action (RCCA)
+investigations. The funds will also be utilized to fund a contract with
+the OEM (Boeing) to support the RCCA and provide Field Service
+Representatives (FSRs) at all Chief of Naval Air Training (CNATRA) T-45
+training sites. Some examples for T-45 include: Enhanced Emergency
+Oxygen System (EEOS). Maximizes the oxygen storage capacity of the
+emergency oxygen system for retrofit of the SKU-10/A (F-18) and SKU-11/
+A (T-45) Seat Survival Kit Assembly. T-45 Oxygen Concentrator.
+Obsolescence issues with the T-45 OBOGS concentrator (GGU-7A), coupled
+with a need for additional reliability and safety enhancements drive a
+need for a replacement OBOGS concentrator. The GGU-25 was designed in
+2008 by Cobham and was partially tested for use with the T-45. In FY18,
+the Navy funded F/A-18 PE efforts targeting three primary areas. The
+first was to fully fund all the RCCA requirements. The RCCA is
+investigating 427 branches on the fault tree. Closure of these branches
+will require a massive data collection effort and engineering analysis.
+Below are some of the examples of RCCA efforts underway being funded by
+FY18 budget: Flight test--Multiple flight test effort are ongoing to
+collect data in support of the RCCA. The major effort is the extensive
+instrumentation of an F/A-18C to execute a flight test plan that will
+fully characterize the dynamics of the ECS and breathing gas delivery
+systems. Manned and Unmanned aircrew and life support systems testing
+(KBRWyle Brooks, San Antonio)--will test aircrew and life support
+systems using pressure chambers and centrifuge to create realistic
+operational conditions to characterize and measure performance in a
+controlled environment.
+Mr. Turner. The subcommittee understands the Navy stood up the
+Physiological Episodes Action Team (PEAT) to unify mitigation efforts
+across Naval Aviation, and address shortfalls in communication and data
+sharing between PEAT core members and external fleet stakeholders.
+While the subcommittee believes establishing the PEAT for these
+purposes makes sense for the Navy, we are interested in hearing what
+the PEAT is doing to find synergies within the Department of Defense,
+and how are these efforts being executed to find a solution?
+Admiral Joyner. Finding synergies between organizations is part of
+the PEAT charter, which did not limit the team from looking outside of
+the Department of the Navy or Department of Defense. There are several
+aspects to investigating PEs: from analysis of the aircraft,
+determining what system effects are on the human, and developing
+strategies for current and future aircraft. The PEAT has engaged a
+broad swath of internal and external partners, including subject matter
+experts from United States Air Force (USAF), National Aeronautics and
+Space Administration, Federal Aviation Administration, industry,
+academia, medical, and dive communities. In addition, we've established
+regular fleet communication to share all data and progress related to
+PEs. While investigating the aircraft, we have leveraged work that was
+done by the USAF while conducting a review of the F-22 aircraft in
+2012. Specifically, the methodology of using a Root Cause Corrective
+Action team and performing a rigorous analysis of root cause has
+enabled us to employ high-velocity learning and not repeat mistakes of
+past efforts. While determining human and physiological understanding,
+the PEAT has employed the efforts of the Naval Medical Research Unit-
+Dayton (NAMRU-D) to actively research multiple topics where medical
+understanding is immature. NAMRU-D enjoys a strong partnership with the
+USAF 711th Human Performance Wing (HPW) providing complementary
+capabilities for aeromedical research while supporting cross service
+collaboration in both research and experimentation. As we continue to
+research strategies for future aircraft, it should be noted that we are
+currently developing joint solutions for two shared aircraft-the T-6
+and the F-35, and we are embedded with the Joint Program Office as well
+as the USAF's PE team, being led by Brig Gen Doorenbos. We are sharing
+information and resources, which will yield a higher quality product
+for the warfighter.
+Mr. Turner. The Chairman and Ranking Member of this subcommittee
+visited Naval Air Station Patuxent River, Maryland, on 15 September
+2017 in an effort to see firsthand what the Navy is doing to address
+physiological episodes. It was a very informative visit and impressive
+to see the number of both active duty service members and DOD civilians
+dedicated to solve the current issues affecting F/A-18 and T-45
+aircraft. As it was thoroughly described during the visit, could you
+please briefly explain to the subcommittee the processes set in place
+when a physiological event happens, how the investigative process is
+performed and what the feedback mechanism is to return findings and
+information back to the aviators?
+Admiral Joyner. Physiological Episode (PE) reporting protocol
+commences when aircrew reports physiological symptoms during or after
+flight. Safe recovery and aircrew treatment are prioritized above any
+and all data collection or reporting requirement. Aircrew are met
+plane-side by an ambulance for initial evaluation and treatment, if
+required. The data collection and reporting effort are guided by three
+Naval Safety Center forms, Parts A/B/C. Part A is used to capture the
+aircrew's narrative of the flight and PE event, mission type and
+profile, environmental conditions and self-reported aircrew symptoms.
+Part B directs the aircraft be placed in a ``down'' status and
+prescribes numerous diagnostics tests and inspections of the aircraft
+and aircrew flight gear as well as a thorough review of the aircraft
+maintenance history. Part C documents the medically relevant data
+collected during post-flight evaluation by a flight surgeon, including
+previous medical history, 24-hour physiological and human factors
+history, all post PE findings and treatment. The reporting squadron is
+assisted by the PE Rapid Response Team (PERRT). Upon report of a PE,
+the squadron's Safety Officer (or duty officer in his absence) will
+notify the cognizant Aeromedical Safety Officer (AMSO--aerospace
+physiologist), flight surgeon, and Naval Aviation Technical
+Representative or Field Service Representative. The PERRT is
+collectively responsible for ensuring all data collection and reporting
+requirements are complete. Additionally, they will assist the squadron
+in the decision to return both the aircraft and aircrew to flight. The
+data collected by the PERRT, including SlamStick cockpit pressure data,
+recorded aircraft flight data, and post-flight findings are immediately
+shared with all stakeholders for review and analysis. Ideally, there is
+enough data within the first 24 hours to provide immediate feedback to
+aircrew and the squadron on causality of the PE. In some cases, where
+more extensive testing or engineering investigation is needed, feedback
+may be delayed up to 30 days. Ultimately, PE information that is
+collected and investigated is submitted into the Naval Safety Center's
+WESS Aviation Mishap and Hazard Reporting System (WAMHRS) as a hazard
+or mishap investigation report. The hazard or mishap investigation
+report is released using WAMHRS providing a link to the report. This
+link is transmitted to safety personnel using a collection of email
+addresses called a community of interest. This provides feedback on
+evidence, analysis, causal factors and recommendations to prevent
+recurrence as well as subsequent endorsements and responses to
+recommendations in the report.
+Mr. Turner. The NASA report states that ``The Navy has not
+conducted a fleet wide survey of their F/A-18 air crew to understand
+the PE problem from the human perspective, where these physiological
+events actually occur''. Why has such a survey not been conducted?
+Admiral Joyner. The Physiological Episode Action Team, in concert
+with Naval Postgraduate School (NPS) developed and administered a
+comprehensive aircrew survey. The survey was broadly distributed
+amongst F/A-18, EA-18, and T-45 aircrew and maintainers. The survey
+concluded 02 Feb 2018. Over 1,400 responses were received, reflecting
+participation from 21.6 percent of the Fleet, which is considered
+statistically significant to provide a representative sample of Fleet
+opinion. NPS, in conjunction with the Center for Naval Analysis, are
+currently compiling and analyzing the data and results which will be
+used to inform the Root Cause Corrective Action investigation.
+Mr. Turner. The NASA report notes that the F/A-18's oxygen
+monitor--the CRU-99--does not log data, but that the plan to replace it
+with the more advanced CRU-123 was cancelled. Is that the case and if
+so why was this upgrade canceled?
+Admiral Joyner. The CRU-123 program was launched to incorporate a
+low pressure warning and data logging capability for the aircraft's
+oxygen system. Funding constraints at the time resulted in these
+requirements being allocated to a new oxygen monitor: the CRU-123. PMA-
+265 spent years developing the CRU-123 for the F/A-18. Numerous
+setbacks eroded confidence in the manufacturer's ability to produce a
+product that would meet the reliability requirements for the F/A-18.
+The Navy cancelled the CRU-123 program for the F/A-18 after a lengthy
+development effort in which the CRU-123 repeatedly failed qualification
+standards and was unable to survive the harsher operating conditions
+encountered by the F/A-18 as opposed to the T-45 which has successfully
+flown with CRU-123. PEAT acknowledged the need for data logging, and
+current planning includes the installation of a limited number of CRU-
+123s to assist in data collection while waiting for Cabin Pressure and
+OBOGS Monitoring System (CPOMS) development and fielding. In addition
+to needing a robust and reliable system for this critical function, the
+Navy shifted course to the CPOMS to take advantage of additional
+capabilities that could provide aircrew increased real-time in-cockpit
+situational awareness of critical life support systems' health. CPOMS
+will incorporate a digital display that will replace the current analog
+cabin pressure altimeter and provide an easy to read display of cabin
+pressure and warnings for schedule deviations of cockpit pressure,
+oxygen concentration and flow. CPOMS also has critical growth potential
+for desired features such as integrated cautions and warnings on
+current aircraft displays, and the ability to automatically perform
+actions, such as selection of emergency oxygen under certain degraded
+conditions or system malfunctions. The requirement to log critical
+OBOGS performance data is now allocated to the CPOMS and the new
+concentrator for the F/A-18, which is in development by the Aircrew
+Systems and F/A-18 and EA-18G program (PMAs-202 and 265) concentrator.
+This new approach will provide data recording on the aircraft's data
+bus, which is a significant improvement over the earlier approach to
+record it remotely on the CRU-123.
+Mr. Turner. How is the Air Force addressing physiological events,
+and onboard oxygen generation system issues with sister services?
+General Nowland. The Headquarters Air Force Unexplained Physiologic
+Event (UPE) Integration Team and the Navy's Physiological Episodes
+Action Team (PEAT), both led by General Officers, continue to work
+closely together to investigate in a complimentary manner. Together,
+they have engaged abroad range of internal and external partners,
+including subject matter experts from the Air Force and Navy, National
+Aeronautics and Space Administration (NASA), Federal Aviation
+Administration (FAA), Industry, academia, along with medical and dive
+communities to resolve these issues.
+One area where the USN and USAF are working together is in aircrew
+air quality assessment. The 711th Human Performance Wing has developed
+systems to test aircrew air quality in flight such as the real time air
+quality sensor (RTAQS) which is in-line air supply monitor that detects
+contaminants and elucidates OBOGS function. It is being used to
+baseline T-6 (USN/USAF), T-45 (USN), and F-18 (USN) aircraft and is
+also prepared for use in the F-16 (USAF). Additionally, we have
+established an OBOGS lab that allows us to replace flight conditions
+and test the performance of OBOGS to detect abnormal performance. This
+lab has been used to support both USAF and USN UPE investigations.
+Another area of collaboration is in aircrew physiological sensing.
+The 711th HPW in collaboration with industry, academia and government
+partners have developed several aircrew physiological state sensing
+systems. Some, such as VigilOx and Mask Sensing System (MASES), monitor
+inhaled and exhaled air but others assess tissue oxygen saturation,
+core temperature, heart rate, etc. VigilOx is slightly ahead of some of
+these other technologies and is undergoing verification and validation
+testing. Due to the urgency of the UPE issue, it has been flight tested
+in the T-38 (USAF) and F-18 (USN). Four devices have been delivered,
+two for testing and one each to the USAF and USN for preemptive
+operational assessments. Our end goal with this sensor development is
+to feed into an autonomous life support system that will adjust to keep
+the pilot in a physiologically safe condition.
+Finally, the 711th Human Performance Wing has a robust
+collaborative relationship with Naval Aeronautical Research Unit-Dayton
+(NAMRU-D). The 711th HPW with NMRU-D have collaborated with several
+academic, governmental, and industry partners in exploring how the
+human body responds to the unique stressors of the flight environment.
+We continue to explore such topics as hypocapnia, hyperoxia, hypobaria,
+work of breathing, contamination, pulmonary function, and environmental
+priming--all issues that may precipitate ``hypoxia-like'' symptoms. The
+711th HPW's unique location with NAMRU-D is particularly fortunate as
+this affords the two organizations to leverage each other's expertise
+and move forward as one entity on many of the research efforts.
+Mr. Turner. Why is root cause attribution to physiological events
+so difficult to ascertain?
+General Nowland. The root cause for Unexplained Physiologic Events
+(UPEs) has been difficult to ascertain, primarily due to the lack of
+in-flight cockpit sensors to verify both the content of the breathing
+gas mixtures from the oxygen system (oxygen concentration, flow,
+pressure), and the physiologic status of the aircrew (expired oxygen/
+carbon dioxide levels, heart rate, respiratory rate, blood oxygen
+saturation). Such sensors are currently in development and will be able
+to objectively determine the root cause of physiologic events by
+measuring these variables and characterizing the integration between
+the human, the cockpit environment, and aircrew flight equipment. Until
+such sensors are in place, investigations to assess the cause of UPEs
+must resort to modeling human physiological response based on
+extrapolated assumptions of aircraft system performance as gas
+delivery, rather than the actual data itself. In addition to the lack
+of sensors, the extremely low rate of UPEs makes it difficult to
+identify trends which could be used to indirectly identify possible
+root cause of these events.
+The two principal means to mitigate the hazards associated with
+high altitude flight are to provide increased concentrations of oxygen
+in aircrew breathing gas mixtures (to prevent hypoxia), and to
+pressurize cockpits to prevent adverse effects associated with a
+hypobaric environment. In modern aircraft, cockpit pressurization is
+provided by engine bleed air supplied to the Environmental Control
+System (ECS). Oxygen for the breathing gas mixture comes from either a
+Liquid Oxygen Supply or an ``On-Board Oxygen Generating System (OBOGS),
+which also uses engine bleed air to supply breathing gas to aircrew.
+The non-specific nature of UPE symptoms (e.g., lightheadedness,
+headache, confusion) and the complexity of the interaction between the
+oxygen system, aircrew flight equipment, and the aircrew, makes it
+challenging to identify the root cause of many Pes.
+Current aircrew monitoring systems undergoing testing and
+evaluation at the 711th Human Performance Wing include, Canary,
+VigilOx, physiologic health status of isolated personnel (PHYSIO), and
+mask sensing system (MASES).
+______
+QUESTIONS SUBMITTED BY MS. TSONGAS
+Ms. Tsongas. The committee has been examining the issue of elevated
+PE rates in F-18 aircraft for more than two years. Throughout that
+time, we have been told that improvements to the GGU-12 onboard oxygen
+generation system were an important part of reducing the risks of such
+events. As a result, I was troubled by several things the NASA report
+had to say about this specific piece of critical equipment on F-18s.
+First, in paragraph 10.2.2 the report states that ``The first and most
+significant thing to note about the GGU-12 is the disconnect between
+best practices of pressure swing absorption systems and operating
+conditions of the GGU-12 . . . Best engineering practices for effective
+gas separation using PSA is constant conditions. [However], the GGU-12
+is fully dynamic--nothing about the GGU-12 is constant.'' The report
+further states that ``The GGU-12 is tested in the lab and in the field
+with clean, dry air with a fixed flow rate and fixed inlet pressure.
+This does not match any actual operating conditions. The GGU-12 testing
+program does not adhere to the best practice summarized by `fly what
+you test and test what you fly'.''
+Finally, the report's finding 10-1 has this to say about the
+underlying design standards for the GGU-12: ``The NESC team found
+evidence that traced the oxygen peak flow rate requirement to outdated
+information from the 1960s, which apparently neglected to address newer
+information on pilot breathing demands document in Navy TM-93-59-SY.
+The GGU-12 OBOGS maximum performance requirement does not meet human
+system demand requirements for flow and oxygen concentration during all
+phases of flight.'' Does the Navy have a plan to upgrade the OBOGS
+system in the F-18? What is the schedule? Is there a cost estimate?
+When would fielding commence and be complete? When will Navy OBOGS
+systems in F-18s meet the updated military specifications published in
+2015?
+Admiral Joyner. NASA is correct that best practices for a Pressure
+Swing Adsorption (PSA) technology is to maintain constant operating
+conditions. While this practice is well suited for a stationary
+industrial air separation plant, it certainly presents a challenge for
+an advanced high altitude all weather fighter aircraft operating in
+extreme conditions. The F/A-18 OBOGS actually represents a significant
+step forward in the maturation of supply air integrity and stability.
+The F/A-18 was the first fighter attack aircraft to move the bleed air
+supply from a direct engine bleed port where the temperature and
+pressures vary widely, to a diversion off of the aircraft's
+Environmental Control System (ECS) where the temperature, pressure, and
+water content of the air supply is significantly more stable. The F/A-
+18 was also first to introduce a redundant bleed air route that
+continues to provide source air to the OBOGS in the event of an ECS
+failure. Finally, the GGU-12 was fully qualified across environmental
+conditions which include bleed air temperatures ranging from -15 to
++250F and in ambient temperatures from -65 to +160F. In actuality, the
+GGU-12 as installed in the F/A-18 receives conditioned air from the ECS
+that are well within these design parameters. Regarding testing, NASA
+is confusing routine performance checks with qualification testing. The
+GGU-12 was fully qualified against robust temperature and pressure
+extremes that exceed the actual environment in which it operates.
+Decades of reliable performance would attest to this assertion as well
+as more recent checks conducted to support the Root Cause Corrective
+Action (RCCA) investigation. It is true that many of the performance
+checks conducted by the fleet are performed at ground level using
+hangar air with flow conditions that are not reflective of aggressive
+flight. However, it is incorrect to assume that these conditions are
+inadequate to identify a failing system. It is noteworthy that the U.S.
+Navy is the only service that performs routine testing of the OBOGS for
+prognostic health monitoring. This test, which is performed on the
+aircraft every 84 days is designed to catch a failing OBOGS before it
+results in an aborted flight or physiological event. This comprehensive
+system test checks the system's ability to produce oxygen, the health
+of the sieve beds, the timing circuits, the accuracy of the low oxygen
+warning sensor, the oxygen plumbing integrity, and the ability of the
+system to enunciate failure conditions. In addition, the GGU-12 is
+removed from the aircraft every 400 flight hours for a more stringent
+off-aircraft test. This approach is in compliance with MIL-STD-3050. It
+is fair to say, however, that there is a dearth of information across
+the services and our international partners regarding the life and
+longevity of an OBOGS. The validity of the pass/fail criteria used by
+the Navy is being validated under a surveillance program to better
+understand the natural degradation in OBOGS. To date, none of the 28 F/
+A-18 or 28 T-45 aircraft that have undergone this very demanding test
+have shown significant degradation in their molecular sieve or carbon
+monoxide catalyst. NASA is also incorrect in applying the
+recommendation of Navy TM-93-59-SY to the GGU-12 oxygen concentrator.
+The intent of TM-93-59-SY was to establish dynamic breathing
+requirements for OBOGS plumbing and breathing regulators. The F/A-18
+OBOGS plumbing is designed to absorb the pneumatic shocks and cyclic
+flow demands of human breathing. It does this by using a 100 cubic inch
+plenum for each cockpit. The size of the plenum and the diameter of the
+oxygen plumbing are designed to maintain the oxygen pressure at the
+pilot's breathing regulator so that it performs well. Thousands of data
+files from F/A-18 and EA-18G operations using pilot monitoring
+equipment have confirmed that there is more than adequate supply
+pressure being provided at the pilot's breathing regulator to meet
+human system demand requirements. The primary shortcomings of the GGU-
+12 center on the lack of oxygen concentration control and the lack of
+recorded data. Both of these requirements are new since the CY2015
+release of MIL-STD-3050. PMA-265 and PMA-202 are developing a new
+concentrator for the F/A-18 that will address these issues.
+______
+QUESTIONS SUBMITTED BY MR. GAETZ
+Mr. Gaetz. I understand that many in the military and aerospace
+communities feel that the reasons for the physiological events plaguing
+military aviation are mechanical. However, in light of the continuing
+problems with hypoxia in our front-line fighter and training aircraft,
+has anyone within your respective Services collaborated with academic
+institutions with known expertise in human performance and aerospace
+physiology/medicine. Has that option been talked about or explored in
+any way?
+Mr. Cragg. We believe this question is better answered by both the
+U.S. Navy and the U.S. Air Force.
+Mr. Gaetz. I understand that many in the military and aerospace
+communities feel that the reasons for the physiological events plaguing
+military aviation are mechanical. However, in light of the continuing
+problems with hypoxia in our front-line fighter and training aircraft,
+has anyone within your respective Services collaborated with academic
+institutions with known expertise in human performance and aerospace
+physiology/medicine. Has that option been talked about or explored in
+any way?
+Admiral Joyner. Yes, Navy is actively engaging with academia. The
+Johns Hopkins University Applied Physics Laboratory will assist in
+contaminant evaluation of the collected Hydrocarbon Detectors and
+Sorbent Tube Adapters. The Naval Air Systems Command (NAVAIR)
+Educational Partnership Program will be hiring a PhD Chemist from St.
+Mary's College to assist in PE efforts. Also, NAVAIR AIR-4.6 has hired
+Aeromedical experts to consult on the review of PEs in the Aviation
+Environment Scientific Advisory Board. Stanford University's ``Hacking
+4 Defense'' will start working on this problem in April 2018. This is a
+no-cost collaboration with graduate and undergraduate students who will
+look at the OBOGS-Hypoxia linkage with a naive/fresh set of eyes.
+Members of the team will be from disciplines that include pre-med,
+computer science, engineering, etc. Stanford University has recently
+done work with the U.S. Navy to include proposals to prevent/reduce PEs
+with Special Warfare SEAL Delivery Vehicle drivers caused by multiple
+ascents/descents during long missions.
+Mr. Gaetz. I understand that many in the military and aerospace
+communities feel that the reasons for the physiological events plaguing
+military aviation are mechanical. However, in light of the continuing
+problems with hypoxia in our front-line fighter and training aircraft,
+has anyone within your respective Services collaborated with academic
+institutions with known expertise in human performance and aerospace
+physiology/medicine. Has that option been talked about or explored in
+any way?
+General Nowland. The Air Force remains committed to solving
+unexplained physiologic events across the fighter and training
+aircraft. Academic institutions play a vital role in helping understand
+the role of human factors in physiologic episodes. The 711th Human
+Performance Wing (HPW), the Air Force's aeronautical research facility,
+with Naval Medical Research Unit--Dayton (NAMRU-D) have collaborated
+with several academic institutions like Case Western Reserve
+University, Norwegian University of Science and Technology, and the
+University of Notre Dame in exploring how the human body responds to
+the unique stressors of the flight environment. We continue to explore
+such topics as hypocapnia, hyperoxia, hypobaria, work of breathing,
+contamination, pulmonary function, and environmental priming--all
+issues that may precipitate ``hypoxia-like'' symptoms.
+The Air Force continually explores additional options to
+collaborate with other academic institutions to leverage their
+expertise in contribution to help better understand the problem space.
+Institutions like Embry-Riddle Aeronautical University have specialized
+expertise the Air Force can leverage to help identify human errors
+associated with physiologic episodes; provide data-driven
+recommendations for addressing human error; and recommend improvements
+for current human factors data collection.
+[all]

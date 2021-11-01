@@ -1,0 +1,2383 @@
+- IMPLEMENTATION OF ELECTRONIC HEALTH RECORD SYSTEMS AT THE DEPARTMENT OF VETERANS AFFAIRS (VA) AND THE DEPARTMENT OF DEFENSE (DOD)
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+IMPLEMENTATION OF ELECTRONIC HEALTH
+RECORD SYSTEMS AT THE DEPARTMENT OF
+VETERANS AFFAIRS (VA) AND THE DEPART-
+MENT OF DEFENSE (DOD)
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+OF THE
+COMMITTEE ON VETERANS' AFFAIRS
+U.S. HOUSE OF REPRESENTATIVES
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+WEDNESDAY, JUNE 12, 2019
+__________
+Serial No. 116-17
+__________
+Printed for the use of the Committee on Veterans' Affairs
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://www.govinfo.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+40-766
+WASHINGTON : 2021
+--------------------------------------------------------------------------------------
+COMMITTEE ON VETERANS' AFFAIRS
+MARK TAKANO, California, Chairman
+JULIA BROWNLEY, California
+DAVID P. ROE, Tenessee, Ranking
+KATHLEEN M. RICE, New York
+Member
+CONOR LAMB, Pennsylvania, Vice-
+GUS M. BILIRAKIS, Florida
+Chairman
+AUMUA AMATA COLEMAN RADEWAGEN,
+MIKE LEVIN, California
+American Samoa
+MAX ROSE, New York
+MIKE BOST, Illinois
+CHRIS PAPPAS, New Hampshire
+NEAL P. DUNN, Florida
+ELAINE G. LURIA, Virginia
+JACK BERGMAN, Michigan
+SUSIE LEE, Nevada
+JIM BANKS, Indiana
+JOE CUNNINGHAM, South Carolina
+ANDY BARR, Kentucky
+GILBERT RAY CISNEROS, JR.,
+DANIEL MEUSER, Pennsylvania
+California
+STEVE WATKINS, Kansas
+COLLIN C. PETERSON, Minnesota
+CHIP ROY, Texas
+GREGORIO KILILI CAMACHO SABLAN,
+W. GREGORY STEUBE, Florida
+Northern Mariana Islands
+COLIN Z. ALLRED, Texas
+LAUREN UNDERWOOD, Illinois
+ANTHONY BRINDISI, New York
+Ray Kelley, Democratic Staff Director
+Jon Towers, Republican Staff Director
+SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+SUSIE LEE, Nevada, Chairwoman
+JULIA BROWNLEY, California
+JIM BANKS, Indiana, Ranking Member
+CONOR LAMB, Pennsylvania
+STEVE WATKINS, Kansas
+JOE CUNNINGHAM, South Carolina
+CHIP ROY, Texas
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public
+hearing records of the Committee on Veterans' Affairs are also
+published in electronic form. The printed hearing record remains the
+official version. Because electronic submissions are used to prepare
+both printed and electronic versions of the hearing record, the process
+of converting between various electronic formats may introduce
+unintentional errors or omissions. Such occurrences are inherent in the
+current publication process and should diminish as the process is
+further refined.
+C O N T E N T S
+----------
+Wednesday, June 12, 2019
+Page
+Implementation Of Electronic Health Record Systems At The
+Department Of Veterans Affairs (VA) And The Department Of
+Defense (DoD)..................................................
+1
+OPENING STATEMENTS
+Honorable Susie Lee, Chairwoman..................................
+1
+Honorable Jim Banks, Ranking Member..............................
+3
+WITNESSES
+Mr. John Windom, Executive Director, Office of Electronic Health
+Record Modernization, Department of Veterans Affairs...........
+4
+Prepared Statement...........................................
+31
+Accompanied by:
+Dr. Laura Kroupa, Chief Medical Officer, Office of Electronic
+Health Record Modernization, Department of Veterans
+Affairs
+Mr. John Short, Chief Technical Officer, Office of Electronic
+Health Record Modernization, Department of Veterans
+Affairs
+Mr. William J. Tinston, Program Executive Officer, Defense
+Healthcare Management Systems, Department of Defense...........
+6
+Prepared Statement...........................................
+34
+Accompanied by:
+Maj. Gen. Lee E. Payne, M.D., Assistant Director for Combat
+Support, Defense Health Agency, Department of Defense
+Dr. Lauren Thompson, Director, Interagency Program Office,
+Department of Defense, Department of Veterans Affairs..........
+8
+Prepared Statement...........................................
+37
+IMPLEMENTATION OF ELECTRONIC HEALTH RECORD SYSTEMS AT THE DEPARTMENT OF
+VETERANS AFFAIRS (VA) AND THE DEPARTMENT OF DEFENSE (DOD)
+----------
+Wednesday, June 12, 2019
+Committee on Veterans' Affairs,
+U. S. House of Representatives,
+Washington, D.C.
+The Subcommittee met, pursuant to notice, at 10:19 a.m., in
+Room 210, House Visitors Center, Hon. Susie Lee presiding.
+Present: Representatives Lee, Lamb, Cunningham, Banks,
+Watkins, and Roy.
+Also Present: Representative Roe
+OPENING STATEMENT OF SUSIE LEE, CHAIRWOMAN
+Ms. Lee. Good morning. This hearing will come to order. I
+would like to welcome everyone.
+And last week, the Subcommittee on Technology Modernization
+heard from the prime contractors on the programs to implement
+electronic health record systems at the Department of Defense
+and the Department of Veterans Affairs. Today, we continue
+oversight of these programs with testimony from the Departments
+accountable for their implementation.
+In providing oversight, it is important that we have the
+proper time to review documents and receiving the DoD testimony
+at 10:30 p.m. last night certainly does not optimize our
+ability to do our job. Accountability, obviously, is a big part
+of this effort, perhaps the most important.
+In the history of failed efforts to implement information
+technology throughout the Federal Government, more often than
+not, technology was not the problem; rather, it was a failure
+of leadership and management. The questions most often asked
+are after failed technology implementations were: Who is in
+charge? Who is accountable to the taxpayers and Congress? And
+the answers often are a confusion of finger pointing and a
+leadership vacuum. And after every failed project, there are
+lessons learned and promises to do before.
+Before us today, we have the leadership of the respective
+offices for VA's electronic health record modernization and the
+DoD's health care management system modernization. We also have
+the current director of the Interagency Program Office.
+We are at a moment in time when critical decisions must be
+made in order to advance the implementation of this program,
+but we are doing so without a fully functioning joint
+governance structure. For months, this Subcommittee has asked
+for a joint proposal to address the longstanding programs with
+the existing IPO, and as of March 1st, we now have the Federal
+electronic health record modernization program office, or
+FEHRM, and we will hear testimony about the initial
+organizational plans.
+We have a one-page slide right here about a three-phased
+plan, but it is hard to find where the governance and
+accountability is in this plan. We are also missing a plan
+about staffing and resources. Based on the timeline for
+implementation, it appears that it will come too late to
+address the critical decisions that must be made now.
+Further, I wonder whether the DoD and VA are invested in
+the idea of true joint governance and transparency since both
+declined to provide feedback on a potential legislative
+solution to finally create a single accountable joint-
+governance office with a role to promote and facilitate
+interoperability between the Departments for health records and
+beyond.
+I hope I am wrong and that the VA and DoD do want a real
+solution in a functional governance structure. I would like to
+believe that after we made this investment, are prepared to
+spend at least $16 billion in taxpayer money on modernizing
+health records for our servicemembers, veterans, and their
+families, that we are prepared to do this right.
+Joint governance is not the only challenge DoD and the VA
+are facing now. The time for VA's first go-live is March 2020,
+and that is fast approaching. There are many key decisions and
+tasks that have yet to be completed. We are concerned that the
+VA has left itself with very little margin for error. There are
+many lessons to be learned from the Department of Defense,
+which now has its ongoing struggles, and I hope we will get
+some transparency about that today.
+But my questions really come down to these: Why not spend
+the time to get the governance right? Why not take the time to
+get the infrastructure in place? And why not leave yourselves
+room to do the necessary testing and training to ensure a
+successful rollout?
+This Subcommittee has been clear that we want to work with
+the VA, even if that means delay, as long as the VA is
+transparent and accountable. Why insist on leaving yourselves
+very little margin for error when history is not on your side
+for successful IT implementations. What is the VA doing to
+mitigate risk and ensure that the final product delivered to
+clinicians and veterans is the best it can possibly be,
+understanding that opportunities for improvement and innovation
+should be part of the management of the EHRM?
+I would like to get these answers to these and other
+questions, and we are asking for transparency and
+accountability now to pave the way for implementation ahead and
+what we owe to our servicemembers and veterans.
+I thank all the witnesses for being here and I look forward
+to their testimony. And I would like to now recognize my
+colleague, Ranking Member Jim Banks, for 5 minutes to deliver
+his opening remarks that he may have.
+Mr. Banks?
+OPENING STATEMENT OF JIM BANKS, RANKING MEMBER
+Mr. Banks. Thank you, Madam Chair.
+I would like to begin by thanking our witnesses, are
+especially our DoD witnesses for appearing today. You do so
+voluntarily, and I sincerely appreciate it.
+Anyone who watched our contractor hearing last week or any
+of our Subcommittee hearings know that we think that
+cooperation between DoD and VA on electronic health records is
+very important.
+Lack of cooperation has been the graveyard of all of the
+previous efforts. I have no doubt that it is a high priority
+for each of you. Case in point, you have spent much of the last
+9 months hammering out a joint-management structure. I want
+EHRM and MHS Genesis to succeed. I want to support your
+decisions.
+But it is not reasonable to expect this Subcommittee to
+endorse decisions that we have scant details about; decisions
+that are the product of a secretive process. By all accounts,
+DoD and VA are getting close to standing up the Federal
+Electronic Health Record Modernization Program Management
+Office, the FEHRM, to jointly manage EHRM and MHS Genesis.
+I understand the desire to make the agreement in private
+before disclosing anything. The problem is, though, there has
+been no agreement. Compromise has been elusive because the
+stakes were so high and both sides were apparently dug in so
+deeply.
+My hope was, and still is, for this Committee and the Armed
+Service Committee, which I am also proud to serve on, to help
+mediate the situation. No one wanted the FEHRM to be stood up
+this late, but this is the reality. We are now 4 months out
+from the go-live dates for MHS Genesis wave 1 and 10 months out
+from the go-live date for VA's initial operating capability
+sites. The opportunity for the FEHRM to have impact is right
+now. It is time for a candid discussion of the Department's
+vision to integrate EHRM and MHS Genesis.
+However, I am more interested in what the FEHRM will
+accomplish than how it will be structured, or which individuals
+will lead it. I expect it to solve real problems, or better
+yet, prevent them from happening in the first place.
+Since taking on this assignment 1 year ago, I have seen and
+heard enough to have some serious concerns. VA and DoD are
+different animals. VHA and the military health system have
+cultures, priorities, organizational structures, and even
+missions that are quite different. I happen to believe that
+they should be more closely integrated in the future.
+But if we force them into a one-size-fits-all solution now
+and ignore these realities, it may very well break them.
+Healthcare is a roughly ninety-billion-dollar enterprise in VA,
+and it is one of the 3 core missions of the Department.
+Military health care is a critical component of force
+readiness; both are personally important to me.
+But electronic health records are simply not central to the
+DoD mission in the same way that they are to the VA mission.
+DoD is in a unique position with the creation of the Defense
+Health Agency and the consolidation of the military services
+treatment facilities into one organization.
+I understand MHS Genesis is a critical element in
+accomplishing that, so preserving the schedule is paramount. I
+have also seen for myself that AHLTA and CHCS are incredibly
+difficult on popular EHR systems; on the other hand, while the
+structure of VA is not changing at all, the Department is
+implementing the MISSION Act and Community Care is growing in
+importance.
+VA is not replacing VistA because it works poorly--in fact,
+some clinicians like it very much--VA is replacing Vista
+because it has fallen too far behind to meet the needs of the
+future. A single longitudinal DoD-VA health record would be a
+major accomplishment.
+But as Dr. Roe can attest, any EHR implementation is
+disruptive, at best, and traumatic, at worst. In order for the
+cost and time and disruption to be worthwhile, VA also needs
+true interoperability with the community providers. Attaining
+that 9 years from now is simply not good enough.
+I believe Congress has a duty to spell out its expectations
+and a time to make impact is right now. That is why I will be
+offering two amendments in the National Defense Authorization
+Markup Act that is going to occur today. The first puts in
+place requirements to ensure the FEHRM has qualified
+leadership. The second calls for DoD and VA to develop a
+comprehensive interoperability strategy to accomplish strategic
+goals and defines interoperability for the first time.
+Unfortunately, the Armed Service Markup happens to be going
+on simultaneous with this hearing, and Madam Chair, with your
+forbearance, I have to be present there to advocate for these
+amendments. So, I will be heading back there, but I appreciate,
+once again, all of you being here today for this important
+discussion.
+And with that, Madam Chair, I yield back.
+Ms. Lee. Thank you, Mr. Banks.
+I would now like to introduce our witnesses we have before
+the Subcommittee. First, we have John Windom, who is the
+Executive Director of the Office of Electronic Health Record
+Modernization at the Department of Veterans Affairs. Mr. Windom
+is accompanied by Dr. Laura Kroupa, Chief Medical Officer for
+OEHRM, and John Short, Chief Technical Officer for OEHRM.
+William Tinston is the Program Executive Officer for the
+Defense Healthcare Management Systems at the Department of
+Defense. Mr. Tinston is accompanied by Major General Lee Payne,
+the Assistant Director For Combat Support at the Defense Health
+Agency.
+And we have Dr. Lauren Thompson, who is the Director for
+the DoD-VA Interagency Program Office.
+Welcome. We will now hear from the prepared statements from
+our panel Members. Your written statements, in full, will be
+included in the hearing record.
+Without objection, Mr. Windom, you are recognized for 5
+minutes.
+STATEMENT OF JOHN WINDOM
+Mr. Windom. Good morning, Madam Chair Lee, Ranking Member
+Banks, who just departed, Dr. Roe, Congressman Lamb, your
+respective support staffs, good morning. Thank you for the
+opportunity.
+I am accompanied by Dr. Kroupa, ma'am, as you mentioned,
+who is my chief medical officer; Mr. John Short, who is my
+chief technology and integration officer.
+First, I want to take this opportunity to personally thank
+you and the Members of the Subcommittee for your unwavering
+support of the EHR modernization effort. Without your steadfast
+support, VA would not be able to deliver this critical
+capability in support of our veterans.
+On June 5th, 2017, VA announced the decision to replace
+VistA, its existing legacy system, which is costly to sustain,
+and cannot deliver commercially available critical capabilities
+to meet the evolving needs of the health care market. Though
+the decision, VA is working to adopt the same EHR solution as
+the Department of Defense, allowing patient data to reside in a
+single hosting site, using a single common system.
+This initiative will ultimately enable the seamless sharing
+of health information, deliver enhanced analytics, improve care
+delivery and coordination, and provide clinicians with the
+requisite data and tools to support patients safely.
+On May 17th, 2018, VA awarded a contract to Cerner
+Corporation, leveraging an existing commercial off-the-shelf
+solution in pursuit of interoperability objectives within the
+VA, between VA and DoD, and with community providers. This
+contract contains the necessary conditions to foster innovation
+and keep pace with the evolving commercial technology.
+To the end, OEHRM hosted an industry day on May 29th, 2019,
+with over 750 registered industry executives and leaders and
+over 450 companies in attendance. VA and OEHRM leadership
+presented a status update on EHRM modernization efforts,
+consistent--what are--and your demand for transparency.
+In coordination with OEHRM, Cerner Corporation and Booz
+Allen Hamilton, our support contractor, informed attendees on
+the way to provide value-added programmatic support to the EHR
+modernization initiative.
+Now, I want to highlight three important aspects of the EHR
+modernization effort which will contribute to the overall
+success of the program. First, given the size, scope, and
+complexity of the EHR modernization effort, VA plans to deploy
+its new EHR solution in slightly under 10 years. The plan will
+evolve as technology advances and efficiencies are further
+identified. VA's approach involves deploying a solution at
+initial operating capability sites in the Pacific Northwest to
+mitigate risk and to solidify processes, procedures, and
+allowing enterprise initiatives before deploying to additional
+sites. Additionally, the IOC sites will further hone
+governance, configuration management, and a myriad of other
+implementation and change management strategies we intend to
+employ.
+VA targeted the Pacific Northwest Region based on DoD's
+deployment of the EHR solution. By deploying in the same
+region, VA will be able to immediately demonstrate
+interoperability and reduce potential risk at the VA sites.
+Second, VA has involved and is instituting a changed
+management strategy that involves engaging users in the field
+early in the process to determine their specific needs and
+quickly alleviate their concerns; furthermore, OEHRM
+established clinical councils that include nurses, doctors, and
+other end-users from the field to support assessments and
+configurations of workflows. These clinical councils meet
+during the 8 scheduled national workshops which educate this
+diverse frontline, clinical end-user community, enabling them
+to validate workflows, ensuring the new EHRM solution meets the
+VA's needs. To date, VA has completed 5 national workshops,
+with the remaining scheduled to occur throughout the remainder
+of the fiscal year.
+Finally, VA and DoD currently work with the Interagency
+Program Office to facilitate governance, collaboration, and
+decision-making. To further promote a comprehensive, rapid, and
+agile decision-making authority in support of interoperability
+objectives, DoD and VA are co-developing a joint
+organizational/management structure.
+To execute this strategy, DoD and VA proposed establishing
+a FEHRM, Federal Electronic Health Record Modernization Office,
+responsible for effectively adjudicating functional, technical,
+and programmatic decisions in support of DoD's and VA's
+integrated EHR solutions. This strategy will optimize the use
+of DoD and VA resources, while minimizing risks, promoting
+interoperability without compromising patients' safety.
+As demonstrated by our efforts, it is clear that VA is
+committed to providing the best care to our Nation's veterans,
+including access to a single longitudinal electronic health
+record. The effort to support one of VA's top priorities to
+modernize the VA health care system and ensure VA remains a
+source of pride for our veterans, beneficiaries, employees, and
+the taxpayers.
+Madam Chair, this concludes my opening remarks. I am happy
+to answer any questions that you or the Subcommittee may have.
+Thank you, again.
+[The prepared statement of John Windom appears in the
+Appendix]
+Ms. Lee. Thank you, Mr. Windom.
+Mr. Tinston, you are now recognized for 5 minutes.
+STATEMENT OF WILLIAM J. TINSTON
+Mr. Tinston. Madam Chair and distinguished Members of the
+Subcommittee, it is an honor to testify before you today. I
+represent the Department of Defense, as the program executive
+officer, Defense Healthcare Management Systems. Our mission is
+to transform the delivery of health care, advance data sharing
+through modernized electronic health records for
+servicemembers, veterans, and their families.
+In July 2015, the DoD awarded a contract to the Leidos
+Partnership for Defense Health, to deliver a modern,
+interoperable EHR, designed to share data with our Federal and
+private sector partners. This modern, secure, connected EHR,
+known as MHS Genesis, provides a state-of-the-market,
+commercial, off-the-shelf solution, consisting of Cerner
+Millennium, and industry-leading EHR, and Henry Schein's
+Dentrix Enterprise, a best-of-breed dental module.
+Deploying a capability of this magnitude requires extensive
+coordination and communication with our stakeholders and
+industry partners. It is a complex business. This is not simply
+an IT solution; it is a complex business transformation and
+leadership is key to its success. The right people must be in
+the right place to make decisions and deliver solutions.
+MHS Genesis concluded its pilot deployment in January 2018.
+Our deployment to 4 sites, ranging in both size and capability,
+allowed us to observe the system, assess performance, and
+capture user feedback. We used this information to enhance
+system capabilities as we developed our strategy to deploy our
+next sites, starting in September of this year.
+The VA's decision to implement the same EHR as the DoD and
+the United States Coast Guard will result in a single, common
+record, eliminating the need for interoperability with VA. The
+DoD understands this decision demands extensive collaboration
+and joint decision-making between the Departments, and is
+working daily to ensure efficient workflows and standardized
+processes.
+Cybersecurity is one area of extensive collaboration and
+joint decision-making. The DoD sets the standard for
+cybersecurity and PEO DHMS invests time and resources to ensure
+the common system meets that second degree. Our cyber team is
+co-located with the commercial data center, which strengthens
+our Federal and commercial relationships and allows for
+continuous cyber monitoring. As a result of our efforts, the VA
+will leverage this cyber posture and actively participate in
+critical decisions required to protect the environment.
+We also work closely with our VA partners to ensure we
+maintain system integrity. Recommendations for system
+enhancements are carefully evaluated by our joint workgroups to
+minimize program risks and impacts. For example, we recently
+agreed to accept a Cerner software upgrade, only a few weeks
+following our next site implementation. The timing of the
+upgrade address complexity and a risk to DoD's implementation,
+but it will ensure that VA meets its scheduled initial
+operational capability in March of 2020. Understanding this, we
+knew it was the right decision for the successful
+implementation for both Departments.
+Another example of our collaborative efforts is continuity
+of operations. The Departments have agreed to a joint approach,
+which provides both, technical and programmatic efficiencies,
+and will focus on clinical continuity of operations and IT
+disaster recovery.
+As a prior beneficiary and the son of a veteran, I am
+passionate about the mission and firmly believe we are on the
+right track to improve health care delivery for our
+servicemembers, veterans, and their families. Working with the
+VA, the Coast Guard, and our industry partners, I am confident
+this team is committed to the successful deployment of a modern
+EHR. We are making daily strides in the implementation of an
+enterprise solution that will not only advance care for our
+beneficiary and veteran communities, but will ultimately lead
+to a longitudinal record focused on the patient, not where care
+is delivered.
+Thank you, again, for the opportunity to share our progress
+as we deliver a single, common record for servicemembers,
+veterans, and their families. I look forward to your questions.
+[The prepared statement of William J. Tinston appears in
+the Appendix]
+Ms. Lee. Thank you, Mr. Tinston.
+Dr. Thompson, you are now recognized for 5 minutes.
+STATEMENT OF DR. LAUREN THOMPSON
+Dr. Thompson. Chairwoman Lee, Ranking Member Banks, and
+distinguished Members of the Subcommittee, thank you for the
+opportunity to testify before you today. As the director of the
+Department of Defense-Department of Veterans Affairs
+Interagency Program Office, I am honored to be here.
+The mission of the DoD-VA IPO is to advance data
+interoperability across DoD, VA, and with private-partner
+systems. Providing high-quality health care to servicemembers,
+veterans, and their families is the IPO's highest priority and
+health data interoperability is essential to improving the care
+delivered.
+A key component of meeting the unique needs of our
+beneficiaries and ensuring they receive the best care possible
+is making certain that no matter their status, location, or
+provider, their health data is readily available and accurate,
+or in other words, ensuring health data interoperability.
+DoD and VA represent two of the Nation's largest health
+care systems; together, the Departments serve over--million
+eligible beneficiaries, including servicemembers, veterans, and
+their families. Over 60 percent of the DoD and 30 percent of VA
+beneficiaries receive care from the private sector.
+Currently, the Departments share more than 1.5 million data
+elements daily and more than 430,000 DoD and VA clinicians are
+able to view the real time records of more than 16 million
+patients who receive care from both Departments.
+The fiscal year 2008 National Defense Authorization Act
+directed DoD and VA to develop and implement electronic health
+records systems or capabilities that allow for full
+interoperability of health care data between the DoD and VA,
+instructing the establishment of the IPO to guide both
+Departments in their efforts.
+In January 2009, the IPO completed its first charter,
+aiding the Departments in attaining interoperable electronic
+health data.
+In March 2011, the Secretary of Defense and Secretary of VA
+instructed the Departments to develop a single, integrated EHR.
+In 2013, the Departments decided to pursue modernization of
+their respective EHR systems. In December 2013, the IPO was
+rechartered to lead the efforts of DoD and VA to implement
+national health data standards for interoperability and to
+establish, monitor, and approve clinical and technical
+standards for the integration of health data between the
+Departments and the private sector, in accordance with the 2014
+NDAA and in compliance with the THHS, Office of the National
+Coordinator for Health IT's guidance on standards,
+interoperability for clinical records.
+The IPO acts as the point of accountability for
+identifying, monitoring, and approving the clinical and
+technical data standards and profiles to ensure seamless
+integration of clinically relevant health data between the
+Departments and private-sector providers who treat DoD and VA
+beneficiaries.
+In April 2016, the Departments, with the IPO's assistance,
+met a requirement of the fiscal year 2014 NDAA, certifying to
+Congress that their systems are interoperable with an
+integrated display of data through the Joint Legacy Viewer or
+JLV.
+JLV integrates data from the clinical data repositories of
+both Departments, as well as data on beneficiary encounters
+with private providers who participate in national health
+information exchange. The IPO monitors the usage of JLV and
+other interoperability metrics across the Departments to track
+progress on data exchange and interoperability.
+The IPO collaborates extensively with ONC, other government
+agencies, and industry-standards development organizations to
+advance the state of interoperability across the health
+industry.
+In 2018, Secretaries Wilkie and Mattis issued a joint-
+commitment statement pledging to align strategies to implement
+an integrated EHR system. DoD and VA leaders chartered the
+Joint Electronic Health Record Modernization working group,
+referred to as the JEHRM, to develop recommendations for an
+optimal organization construct that would enable an agile,
+single-decision-making authority to efficiently adjudicate
+functional, technical, and programmatic interoperability issues
+while advancing unity, synergy, and efficiencies.
+On March 1st, 2019, the joint VA-DoD executive leadership
+group approved a course of action, plan of action, and
+milestones, and implementation plan to establish the Federal
+Electronic Health Record Modernization program office, or the
+FEHRM, in a phased manner in order to minimize risk.
+The FEHRM will provide a comprehensive, agile, and
+coordinated management authority to execute requirements
+necessary for a single, seamless, integrated EHR, and will
+serve as a single point of authority for the Departments' EHR
+modernization program decisions.
+FEHRM leaders will have the authority to direct each
+Department to execute joint decisions for technical,
+programmatic, and functional functions under its purview and
+will provide oversight regarding required funding and policy,
+as necessary. This management model creates a centralized
+structure for interagency decisions related to EHR
+modernization, accountable to both, the VA and DoD deputy
+secretaries.
+And interim FEHRM director and deputy director will be
+appointed to work with the implementation team in transitioning
+joint functions into the FEHRM once the FEHRM has an approved
+charter. The interim leaders will manage and execute joint,
+technical, programmatic, and functional requirements and
+synchronize strategies between the two Department EHR program
+offices to ensure single, seamlessly integrated EHR is
+implemented with minimal risk to cost, performance, and
+schedule. The interim leaders will remain in these roles until
+permanent FEHRM director and FEHRM deputy director are
+appointed.
+The permanent director and deputy director will report
+equally to the Deputy Secretary of Defense and Deputy Secretary
+of Veterans Affairs.
+The IPO will continue to support the Departments as it
+transitions to the FEHRM in implementing a single EHR system to
+ensure a seamless, patient-centric experience that will
+ultimately lead to improved care for our servicemembers and
+their families.
+Thank you for the opportunity to speak with you today. I
+look forward to your questions.
+[The prepared statement of Dr. Lauren Thompson appears in
+the Appendix]
+Ms. Lee. Thank you. I will now recognize myself for 5
+minutes for questions.
+Perhaps my first question is, why the name change? Why do
+we just not--I guess this is for Mr. Tinston and Mr. Windom--
+why do we just not continue with the IPO?
+Mr. Tinston. Well, I wasn't--ma'am, I wasn't here when the
+decision was made and the JEHRM working group was put in place.
+I understand why they changed it from JEHRM to FEHRM. It just
+seemed an odd name.
+Ms. Lee. It is really confusing.
+Mr. Tinston. So, internally we talk about it sometimes as
+IPO 2.0 or joint program office, but I can't really explain why
+we went with FEHRM.
+Ms. Lee. Okay.
+Mr. Windom. Ma'am, I can tell you, as we migrated from the
+JEHRM to the FEHRM, only that the JEHRM has a connotation that
+did not reflect the clinical desires, and so in the Federal
+element reflected, I think, an overarching responsibility
+within the Federal space that encompassed DoD and VA. I think
+we are not hard and fast on any name, ma'am; we are just trying
+to be distinguished that we are doing something different than
+is perceived to be occurring now, hence, the name.
+But I can tell you--Bill, I think I can speak for both of
+us--I don't think we have any--
+Ms. Lee. No, I was just curious.
+Mr. Windom [continued]. --issues.
+Ms. Lee. Yes.
+Mr. Windom. Yes, ma'am.
+Ms. Lee. All right. Thank you.
+Dr. Thompson, in your testimony you stated that FEHRM
+leaders will have the authority to direct the Department to
+execute decisions for technical, programmatic, and functional
+functions under its purview. And it sounds--based on that, it
+sounds like the FEHRM has the authority to direct the
+Departments to execute the decisions that have already been
+agreed to.
+And I would like to know what is the FEHRM's role, related
+to the issues that the Departments fail to reach consensus on?
+Dr. Thompson. The intention of the FEHRM is to be the
+deciding authority on issues.
+Ms. Lee. Okay. Thank you.
+What does that mean? Like, who all--can you explain that
+further.
+Dr. Thompson. So, the director and deputy director of the
+FEHRM, who will be hired to report equally to the deputy
+secretaries of the DoD and the VA, will have the authority to
+make decisions, that will then be executed by the respective
+Departments.
+Ms. Lee. Okay. Mr. Windom and Mr. Tinston based on the DoD
+and IPO testimony; it seems like this FEHRM is just getting
+operational. Have your respective agencies signed off on a
+charter, and is that charter operational, functional, and are
+there any establishing documents that you are able to share
+with us?
+Mr. Windom. Ma'am, I would start by saying that the
+documents are in staffing, including the charter, as are the
+persons that will serve as the director and the deputy
+director.
+The concept that Bill and I primarily worked out, this
+three-phase concept, is a concept that was imperative to
+establish because it balances where we feel the greatest risks
+are. And so, the three-phase concept is not to delay, but it is
+to support the proper, efficient, and timely movement of
+resources into the FEHRM to support the decision-making process
+without compromising the risks in our present portfolios. So,
+hence, the three-phase--the second phase would be in support of
+Dr. Kroupa's team solidifying workflows in alignment with DoD
+in that arena. And then the third phase would revolve around a
+critical milestone called IOC, Initial Operating Capabilities.
+As you know, until we demonstrate that it works in an
+operational environment, it really does not make sense to move
+a resource until we solidify our strategies. So, we are being
+consistent with what I heard you say and others regarding
+accountability and regarding understanding that it is the end-
+users that will solidify our success. And so, taking into
+consideration those same end-users is what has driven our
+three-phase strategy.
+Bill?
+Mr. Tinston. Well, I think Mr. Windom addressed very
+clearly that the charters and staffing and the Departments are
+considering their options for who the interim directors and
+intend to pursue permanent hires for the deputy and the
+director of the organization.
+Ms. Lee. Is there a plan that can be shared with us on
+timing on all of this? On timing for the hiring and the
+resources that are being put behind this?
+Mr. Windom. Ma'am, my understanding is that events are
+being coordinated, literally, as we speak, to come over and
+brief your respective staffs on the details, where Bill and I
+will be co-leading an organization that comes over and
+literally gives you those details. We will be prepared to do so
+and offer those details and also discussion points on whatever
+detail you would like, and your staff would like.
+Ms. Lee. Can I expect that in the next week or two weeks?
+Mr. Windom. Ma'am, I would like to kind of get with the DoD
+counterparts to really solidify that date, and we will gladly
+reach out to your staff, through our legislative affairs, to
+solidify that. I really wouldn't want to give you a date in the
+hearing and then--I haven't agreed to mutually with Bill.
+Ms. Lee. Okay. I am over my time, so I yield and will
+recognize Dr. Roe.
+Mr. Roe. Thank you, Madam Chair.
+And just to start with grumbling a little bit, I don't like
+this room. We ought to have the next hearing in the Verizon
+Center. I feel like that is where I am.
+And, two, I actually read this stuff, so I would appreciate
+you all getting this to me a little sooner so I can sit down
+and read it. And I was able to read a few pages before the
+hearing, so I have got the grumbling over.
+There are huge challenges with this. Obviously, your
+organizational structure is one; you are dealing with two
+separate Departments. One of the reasons we are concerned here,
+I know Mr. Lamb and the Chairwoman was not here when DoD and VA
+spent a billion dollars to try to make AHLTA and VistA
+interoperative, and could not.
+So, I think this is a step in the right direction. And I
+guess about 18 months ago, whenever it was, I went to Spokane
+and was able to be there at Fairchild and began to see the
+rollout, and it was a bumpy rollout. And it was not because
+effort was not there.
+Look, I have saluted many generals. I didn't have near as
+much on my sleeve as, General Payne, as you do. So, I know what
+they did, was they saluted and said, Yes, sir, we will try to
+get this job done.
+The problem is that was a--when I saw that, I had
+implemented an electronic health record in own office with
+70,000 charts in our practice. This was 10,000, basically,
+healthy people in a system that really didn't seem like it
+worked all that well. And I know that you had to use the legacy
+reader to get back and get any information.
+And I guess my first question is, I know you, Dr. Payne,
+you are the champion for the providers. I do know that. Isn't
+that correct, you are the person that is looking after them,
+that is sitting down every day at the computer terminal?
+General Payne. Yes, sir. That is correct.
+Mr. Roe. And do you think that the MHS Genesis, as it
+exists at Madigan, Riverton, Oak Harbor, and Fairchild, are
+meeting the needs of the clinicians there now?
+General Payne. Yes, sir. I do. I think we have made
+significant progress since you saw the record in 2017. We have
+made some significant advancements. We learned that network
+stability was really, really important and we requiring that
+well in advance of go-live now.
+We also learned that connecting all of our medical devices
+was critical, and making sure those were all working and well-
+established. All the cybersecurity standards were met before we
+went live.
+Mr. Roe. Well, I know that slowed--I know that the security
+issue was one of the things that held it up, and I think that
+is, hopefully, one of the lessons learned that DoD can pass to
+VA so they don't have to have the same problem that you had.
+Are you rolling out--is what is in Spokane now the same as
+what you are going to roll out, I think it is in California and
+Idaho is the next rollout that DoD is doing; is that correct?
+General Payne. Yes, sir. We start at Travis Air Force Base,
+Mountain Home, Monterey, and Lamar Naval Air Station.
+Mr. Roe. When does that--when do you start standing that
+up?
+General Payne. September.
+Mr. Roe. Of this year?
+General Payne. Yes, sir. It is right around the corner.
+Mr. Roe. And will it be different than what you rolled out,
+or the same thing, that they have now in Riverton and Spokane?
+General Payne. I would like to say that the record has been
+advanced markedly over the past 2 years. Number one, and one of
+the great things about having a commercial off-the-shelf
+product, is that we get regular updates, and we have taken
+those updates, we have integrated those across the system.
+We have also configured the system in a significant amount
+over the past two years. During the stabilization and adoption
+period, we added, to correct a lot of the problems that we were
+seeing initially in the sites.
+We have also, in the past year, conducted 14 sprint
+sessions that were led and directed by the clinicians at the
+IOC sites telling us where they thought they needed the most
+help. So, that has been really well received by the community.
+Mr. Roe. Well, my concern when I looked at it was, as a
+clinician seeing patients. And I was reading, just, again, the
+guide in here, which I find hard to believe, but it says, for
+instance, we can monitor the time a provider spends documenting
+care outside of duty hours, and it was less than 3 percent.
+General Payne. That is correct.
+Mr. Roe. Unless they are not seeing many patients, it
+certainly has been our experience in the private world, I mean,
+you are spending--I just saw a doctor when I got on the
+airplane to fly up here at home, and he was lamenting how many
+hours that he had to spend in entering data, because he had a
+very busy primary care practice.
+The other thing before my time expires is, I was reading
+that, are we going to run the VistA and AHLTA systems with the
+legacy reader throughout the full 10 years of this until it is
+fully implemented or do you turn the switch off in Spokane now,
+so that you can rely on--I have got the information that I need
+in front of me right now?
+General Payne. We do turn off.
+Bill, I don't know if you want to answer that, about the
+legacy system turn-offs? You are probably better than me to
+answer.
+Mr. Tinston. So, we run the JLV, the legacy viewer, while
+we are implementing the 23 sprints and getting to all the
+sites--and that is not 10 years; that is to 2023, when we get
+to all the military treatment facilities. JLV is actually
+embedded as a capability in the electronic health record that
+we are delivering so that we can get to have continued
+interoperability with the VA records, as the VA is bringing
+their records over to the Cerner solution. So, it will continue
+to be used and available, but it is what we are using for
+interoperability while we are in both environments.
+Mr. Roe. Madam Chair, I hope we have a second round. I know
+I am over my time.
+But, I mean, the idea is that we have the Cerner system off
+the shelf and you are running a parallel system with it. Are we
+going to continue doing that, because that is really a
+bureaucratic mess to keep up two systems?
+I yield back.
+Ms. Lee. Thank you, Dr. Roe.
+I now recognize Mr. Lamb for 5 minutes.
+Mr. Lamb. Thank you. And I want to thank Mr. Banks' thanks
+to the witnesses for appearing; we really do appreciate it.
+Mr. Windom, if I could just start with you and make sure I
+understand kind of where we are today in the timeline of
+everything. You noted in your testimony the contract that we
+are dealing with between Cerner and VA is what is known as an
+indefinite delivery, indefinite quantity contract--do I have
+that right--and that was not competitively bid out in the
+market because Cerner was already involved with DoD and the
+Government wanted to continue with Cerner, right?
+Mr. Windom. Sir, VA leadership endorsed what is called a
+determination and findings that allowed us to sole-source
+directly to Cerner Corporation, in support of interoperability
+objectives, which involved being on the same Cerner Millennium
+platform. So, that is what drove--so, a DNF drove the award of
+a sole-source contract.
+Mr. Lamb. Right. Got it. Okay. So, that was never--it
+wasn't put out for bid; it was sort of falling in line with
+what DoD had already done?
+Mr. Windom. Yes, sir. Correct.
+Mr. Lamb. That makes sense.
+Okay. So, under this type of contract, if the go-live at
+the initial sites does not happen in March 2020, is there any
+penalty in the contract for that? Like, will money that has
+been paid to them be recouped if it doesn't happen in March of
+2020?
+Mr. Windom. Sir, the question that you pose spawns a number
+of ``it depends.'' We are committed to the milestone identified
+in March of 2020.
+The IDIQ contract approach allows for flexibility,
+flexibility that may be needed due to variability that is
+introduced that we flat-out didn't know. As you know, we are
+doing current state reviews. Discoveries may be made, such that
+you need to build the rectification of those discoveries or
+problems into your schedule.
+We maintain an integrated master schedule, and in
+understanding of our critical path, we would know clearly when
+something was introduced to our critical path. Right now, our
+critical path revolves around clinical workflows, as controlled
+by Dr. Kroupa, in making sure that end-users embrace the
+solution and are educated on the solution. But the bottom line
+is--
+Mr. Lamb. Yeah, but that is not really my question,
+though--if I could just interrupt you--my question is more
+from--I understand that you are doing everything to stay on
+schedule.
+Mr. Windom. Right.
+Mr. Lamb. My question is, if something happens on Cerner's
+end and they just don't perform and March 1st of 2020 comes and
+they just don't go live--they are not ready--does the
+flexibility that you are referring to include the flexibility
+to impose any sort of penalty or sanction on them for not
+fulfilling that goal in the contract?
+Mr. Windom. So, the simple answer, sir, is yes. This is a
+performance-based contract. If Cerner fails to deliver in
+accordance with the performance and terms and conditions of the
+contract, we can withhold money. That would be the simple
+answer.
+Mr. Lamb. You can withhold future money?
+Mr. Windom. We could withhold money. We wouldn't obligate
+additional money if we had yet to rectify the issue that may be
+at hand. So, that would not be good oversight on my part. So,
+sir, we could withhold money. We could withhold work, in
+support of rectifying whatever concerns that have been
+identified that may have caused our milestone to slip.
+But, again, it depends. I don't want to say, because there
+are going to be discoveries that may spawn, potentially, a
+movement. But right now, we are tracking to our March 2020 go-
+live, so I don't really spend a lot of time, sir, speculating
+what may happen. I simply say if performance is breached--
+Mr. Lamb. Again, I hate to cut you off, but you know that
+my time is limited.
+Mr. Windom. Yes, sir.
+Mr. Lamb. I am not asking you to speculate about what may
+happen. I am just asking basic questions about the terms of the
+contract.
+And tell me if I am correct here, it sounds like what you
+are saying is that in your understanding of the contract, if
+Cerner does not perform on schedule, VA has the ability to
+withhold funding from them going forward, yes or no?
+Mr. Windom. That is correct. Yes, sir.
+Mr. Lamb. Okay. Now, Mr. Tinston or General Payne, whoever
+wants to answer this, when DoD went live at the initial sites
+and there were all the problems that people had, you know,
+people were getting the wrong prescription drugs filled and,
+you know, everything that was widely reported at that time, was
+there any taken by DoD against the makers of MHS Genesis for
+those failings?
+Mr. Tinston. Congressman, I wasn't a part of the program at
+that point. I know that the DoD took those issues very
+seriously. We paused the implementation. We went through, as
+General Payne described, the stabilization and adoption period,
+and then set to correcting those, improving the capability of
+the system, and then building a different strategy and a
+different approach to--
+Mr. Lamb. Of course. I mean, you have to fix the actual
+product, and I can tell that is what you all are doing.
+My question, though, is, we have contracted with someone to
+do this work, and was there any sanction or penalty imposed for
+that initial--
+Mr. Tinston. Congressman, I will have to get back to you on
+that. I am not positive.
+Mr. Lamb. That's fine. Now, I take it from everyone--and I
+am basically out of time here--but Mr. Windom, you kind of
+referred to this, do you believe that as of today, Cerner is on
+schedule to do the initial rollout in March of 2020?
+Mr. Windom. Yes, sir.
+Mr. Lamb. Okay. And I just want you all to know that you
+use the terms--Mr. Windom said that we are looking to build an
+interagency program decision-making that was comprehensive,
+rapid, and agile. Mr. Tinston talked about being technically
+and programmatically efficient.
+You should know that that is not how the contractors
+described the current situation, as it stands right now. They
+were with us last week. They said that decisions are slow.
+When I asked them open-endedly, what is the number one
+thing you need to succeed? It is faster decision-making by the
+two Departments, which are two large Departments--I can
+understand how they would be slow--but that is what is driving
+our interest in a more efficient process that is implemented
+quickly.
+So, with that, Madam Chairwoman, I yield back.
+Ms. Lee. Thank you. I now recognize Mr. Watkins for 5
+minutes.
+Ms. Lee. Thank you.
+I now recognize Mr. Watkins for 5 minutes.
+Mr. Watkins. Thank you, Madam Chair.
+I represent Kansas' 2nd Congressional District, think small
+towns, rural communities, and that makes expanded community
+care programs so very important.
+And so, Mr. Short, what systems and mechanisms do you have
+in place to assure that the exchange records with community
+providers runs smoothly?
+Mr. Short. Sir, with our contract with the Cerner
+Corporation, we have their Health Information Exchange that
+they have used in many other partnerships that they have
+through community providers. The process we are working through
+right now is before we Go-Live in March for those processes and
+connections to be in place, so it will grow the connectivity
+and ability for VA to have community partner access data
+exchange at a greater level than we have ever had before.
+Mr. Watkins. That is good to hear. Thanks.
+And, General Payne and Mr. Short, would it be fair to say
+that the considerations for that interoperability are different
+for the DoD as compared to the VA, and so the DoD is
+implementing systems for the first time while the VA is
+replacing systems. Would either of you care to comment on that
+difference?
+General Payne. Just a clarifying question, sir. We are
+implementing systems for the first time. We have had, you know,
+AHLTA, CHCS for 30-plus years for our in-patient systems. I
+think what we are doing is taking multiple separate systems and
+bringing them together in an integrated system, which is a huge
+advantage for us.
+Mr. Short. And, sir, I will add to that. Currently, today,
+DoD and VA both have an HIE, Health Information Exchange, that
+are much smaller than what Cerner is going to provide for us
+later in this year where DoD and VA will both be able to share
+the same Health Information Exchange.
+As you know, VA has a lot of care on the outside with
+MISSION Act, community care, that has potential to grow.
+Obviously, DoD has been on record many times, they have a large
+portion of their care on the outside. So when Cerner launches
+that next year, both DoD and VA will have the ability to get a
+lot more records from the outside than we ever have.
+Mr. Watkins. And just as a clarification, General, what
+major systems or mechanisms do you have in place to exchange
+medical records with TRICARE providers?
+General Payne. I will start and then I think Mr. Tinston
+might be able to add. We use joint legacy viewer today, I want
+to say the number is over 50 health care information exchanges
+we have established with the civilian community, and that is
+going to expand, as Mr. Short pointed out. As we move into a
+Common Well into the future, there will be thousands of health
+information exchange. And we are exchanging information with
+both our civilian counterparts, as well as the VA, on a daily
+and hourly basis.
+Mr. Tinston?
+Mr. Tinston. Well, the number is 59 HIEs that we are
+connected to right now. When we move to Common Well and when we
+are joining VA in the Cerner environment, we get the added
+advantage that any HIEs or networks that we are connected to
+that the VA connects to, we also get to share the advantage of
+that same connection, and vice versa.
+Mr. Watkins. Thank you, Madam Chair. I yield my time.
+Ms. Lee. Thank you. I now recognize myself for 5 minutes.
+I would like to focus a little bit about patient
+identification. As I understand it, the VA and the DoD have
+different patient identification standards, understandably, in
+their medical record number formats; we heard that there has
+been more than some conversations about standardizing them.
+Mr. Short, what is the status of those conversations and
+have you been able to reach a consensus?
+Mr. Short. Ma'am, DoD and VA work together to create what
+is called a Joint Patient Identity Management Service. We have
+taken the back-end systems that we have had connected for many
+years, we have enhanced and created some new business rules.
+The current connections that DoD has feeding MHS GENESIS, as
+they call it, the EHRM platform, we have taken that connection
+and made modifications to it.
+As part of that, we have also had to make sure that every
+veteran had a unique identifier. DoD issues out an EDIPI
+identifier to all soldiers, sailors, airmen, Marines, but many
+veterans in the past didn't have those. So, as part of this, we
+also had those identifiers issued to all veterans that ever
+existed that we have a record of. They could have been a World
+War II veteran that passed away 30 years ago. If we have a
+record of them, they now have been issued this identifier.
+We have completed that in the last couple of months. We are
+down to about three or 400 left that had to go through manual
+checks, because someone with a similar name had similar Social
+Security numbers and they have to manually double check those.
+So that has been put together and in the next couple of
+months that will go into testing, so that service is together,
+that way we feed one system of one identity service to the
+common EHR. Since you have the same population or very similar
+populations, you needed a common interface for identity going
+to the system for patient safety. So we engineered that early
+on in the system, we have put it in place, and testing will
+start in a couple months.
+Ms. Lee. Great, thank you.
+Now that the MISSION Act has been implemented and more
+veterans are going to be receiving their care in the community,
+has there been any conversation around standardizing patient
+identifiers with the VA and community providers?
+Mr. Short?
+Mr. Short. I'm sorry, ma'am, I didn't know who the question
+was to. So we currently today, we work with the HIEs, as I
+mentioned earlier, the health information exchanges, and Cerner
+has Common Well, which General Payne mentioned. So currently
+today, when we send someone out in the community, we have the
+advantage, we have already identified them before we send them
+out, so that part is taken care of. When it is accepted, when
+the community partner accepts them, that our community partner
+exchanges that we work with validate those identities also.
+So we have the advantage of we kind of manage that
+process--or don't kind of, we manage that process through the
+community care referral process. So, from that standpoint, we
+keep that. We have the Social Security number, as well as the
+Veteran identifier I mentioned earlier. We actually track a
+number of identifiers on everybody and we double check that
+inside the VA system, the Identity and Access Management Team
+under VA OI&T, they have a whole process where they use all--a
+large number of identifiers to validate those from the outside.
+Ms. Lee. Okay, thank you.
+After--I would like to now turn to some infrastructure
+questions and after the contract between VA and Cerner was
+signed last year, Cerner completed a current-state review. The
+reports generated indicated the obvious concerns with
+infrastructure, including insufficient network capability,
+outdated hardware, necessary facility modifications. Did the VA
+conduct their own assessment in concert with Cerner?
+Mr. Short. Ma'am, the VA staff went with Cerner when they
+did their current-state review, so it was done in partnership
+along with our government and contract staff. And then, once
+that was completed, there was subsequent reviews done by VA OIT
+for the technical pieces of it and VHA facilities as well.
+Ms. Lee. So I understand now that VA has plans with MITRE
+to perform an assessment as well; has that assessment been
+completed?
+Mr. Windom. Ma'am, I know of no plans with MITRE to conduct
+a technical assessment. We are using a number of other
+entities, but MITRE has not been one. We have got MITRE
+personnel on our staff who participate in some of these
+assessments, but we have not contracted specifically with MITRE
+to go do these assessments.
+Ms. Lee. Okay, so no MITRE request to do an assessment?
+Mr. Windom. No, ma'am.
+Ms. Lee. Have there been any updates made to these
+assessments?
+Mr. Windom. Ma'am, I am going to defer to John Short, my
+CTIO, for that.
+Mr. Short. Yes, ma'am. Cerner did their initial review, we
+had some feedback, we did our review and, as we completed that,
+Cerner updated those current-state reviews. And again, as I
+mentioned, OIT and VHA facilities also did those reviews. Since
+then, we had a meeting in the Pacific Northwest to go over all
+the facility work that needed to be done and put that all under
+plan and action.
+Ms. Lee. Thank you.
+I now recognize Dr. Roe.
+Mr. Roe. Thank you, Madam Chair. A couple of quick
+questions.
+Any concerns about the 10-year rollout, because technology
+changes so fast now, are we afraid--do you think that the
+rollout now is going to look like in 2019 like it is going to
+look in 2027 or '28? Are you going to be able to adapt and make
+those changes as inevitably technology will change?
+Mr. Windom. Dr. Roe, I think you have highlighted an
+important element of the IDIQ contract, indefinite delivery,
+indefinite quantity, where we get to leverage the commercial
+advancements that Cerner undertakes in its commercial
+environment with our own portfolio without incurring additional
+expenses. So we expect to evolve with the commercial market; to
+stay current, we will evolve with the market. And technology,
+as you just highlighted, moves very quickly, so we intend to
+use things like cloud computing and APIs and things that may
+become the prevailing methodologies in the technological arena.
+Mr. Roe. And, Mr. Tinston, I hope that the mentality to
+listen to providers in the MHS system about why they don't like
+it, I think we should, and not just reeducate them about what
+is good about it, but have these providers out there that can
+change it and make it a better system. Are you doing that? Have
+you all done that?
+And, Dr. Payne, you also may want to jump in.
+Mr. Tinston. So the way the DoD has set the program up
+subsequent to the IOC sites, it is designed to do exactly that.
+I have a team of IT business system implementers who make sure
+the IT is right and make sure that it reflects what the medical
+facilities need, and the clinicians need, and then General
+Payne takes care of that. So we are two elements of getting
+this right and he works with the clinicians to make sure that
+on the implementation side we are doing the right thing.
+Mr. Roe. What I found out in implementing an electronic
+health record was you had the IT people that didn't really know
+what we needed, so they put everything in there. And I know I
+would get a stack of paper this much and I am thinking
+somewhere in this pile of you know what there is some
+information I might be able to use if I can find it. And that
+was the frustration I had with it, because we have these cut-
+and-paste things that you end up with misinformation being in
+there and you never can get it out.
+And so are you listening to providers to say, look, I need
+this amount of information in my little silo right here, I
+don't need every question that has ever been asked anybody in
+their life every time I see them, which is what these records
+did. And it wasn't--I don't think it was the IT folks' fault, I
+think they just didn't understand what was clinically important
+to me as a doctor.
+General Payne. As I mentioned to you about our Sprint
+sessions, I think the front-line clinicians, we also have
+clinical communities that are working with the VA councils in
+configuring the record. One of the great things about MHS
+GENESIS is it is configurable; we can adjust the system. As a
+provider, you can adjust it to your likes and dislikes.
+We are working--the other part I really like about this is
+we are part--we are not an isolated--just isolated in DoD, we
+are participating with the Cerner client universe. We visited
+the University of Missouri, the Tiger Institute, to see how
+they are operating. We are about to go to Memorial Hermann
+Hospital in Texas to see how they are implementing MHS GENESIS,
+that is one of the safest hospital systems in the country. And
+we are also, our ophthalmologists are working with Cerner to
+help devise the ophthalmology workflows.
+So I think this record gives us an opportunity we have
+never had before and, with our VA colleagues, I think there is
+a huge amount of power in that.
+Mr. Roe. And this is just a question, Mr. Windom, I read
+this last night, I have no idea what it means. ``VA is
+leveraging several efficiencies, including revised contract
+language to improve trouble ticket resolution based on DoD
+challenges.''
+Could you translate that into something English?
+Mr. Windom. Yes, sir. Sir, that was pre-contract award, so
+there is no contract modification. Basically, our partners in
+DoD shared with us very forthright and honestly some of the
+challenges they were dealing with, with trouble ticket
+management in the Pacific Northwest, and we were able to add
+terms and conditions to our contract to facilitate a high level
+of performance and review by Cerner in adjudicating ours sooner
+rather than later. So, it really is just a lesson learned, sir.
+Mr. Roe. Thank you.
+Mr. Windom. I will be more clear next time.
+Mr. Roe. Thank you. The last couple things. One is a big
+challenge, Dr. Thompson, you know this, across the country is
+interoperability. It is not DoD and VA; it is the private
+sector: how do we share information? And, unfortunately, a lot
+of people don't want to share information, because the
+information they have is power and they can leverage it for
+money. But it is critical for us to be able--as clinicians to
+be able to share clinical information across VA to the
+private--look, it does me no good to have a MISSION Act if I am
+sitting out here and I can't get any information from the VA.
+And, by the way, after I see the patient, if that information
+doesn't end up back at the VA, it doesn't do the patient any
+good.
+I am going to leave one question, you can think about it,
+both of you, because my time is expired, but in this rollout,
+what is the major thing that keeps you up at night?
+And I will end on that. I yield back.
+Ms. Lee. Thank you, Dr. Roe.
+I now recognize Mr. Lamb for 5 minutes.
+Mr. Lamb. Thank you. And if you would like to answer Dr.
+Roe's question, that is I think a major question on all of our
+minds, just sort of a current assessment right now, what is our
+biggest obstacle? Mr. Windom, if we could start with you.
+Between now--let's say between now and March 2020, what is the
+biggest thing that keeps you up at night?
+Mr. Windom. Sir, I have listened to this Committee and I
+have listened to the end users intently, and it is about user
+adoption. The technology will work, the technology will
+support, the embracing of the end user to our change management
+strategies, our education strategy, training strategy, that is
+our critical path element. So the critical path element keeps
+me up.
+I think Dr. Kroupa and her team are doing a great job. I
+would like to pass the question over to her, if you don't
+mind--
+Mr. Lamb. I appreciate that. I was--
+Mr. Windom [continued]. --and--
+Mr. Lamb. --going to move to her anyway.
+Mr. Windom. --but that is what keeps me up.
+Mr. Lamb. And, Dr. Kroupa, are you the one who oversees the
+18 councils and the input from the clinicians?
+Dr. Kroupa. Yes.
+Mr. Lamb. Okay. So if you could just let me know sort of
+what is at the forefront of your mind, but also what are the
+most recent examples that you are hearing from them of issues?
+Dr. Kroupa. I think that the biggest challenge for us in VA
+is, as has been mentioned, we are going from a CPR system,
+which people are very accustomed to, to a commercial system. So
+there has been a lot of education about what does that mean,
+how does the commercial system work, how do we even speak the
+same language as the commercial system.
+I think we are now getting into a phase where the councils
+understand that. They are really hitting their stride in terms
+of understanding how the system works and are able to really
+see the places where we can accept commercial best practice and
+places where there are specialized things that VA needs to do
+for our patient population and for our mission.
+Mr. Lamb. And what are some specific things that they have
+identified recently?
+Dr. Kroupa. So there are some things, some basic things
+like service connection. No one else in the world cares about
+service connected veterans, except for VA. That is not
+something that is in the commercial system to start with. We
+have a lot of programs in VA that other commercial systems
+don't have. We do things with PTSD, with blind rehab, you know,
+a lot of comprehensive--
+Mr. Lamb. No, I am sorry to interrupt. I understand why the
+VA system is different than the commercial clients. What I am
+asking is there a recent example you know of where a clinician
+has flagged for Cerner and for you this thing that you already
+have programmed will not work for me for this reason?
+Dr. Kroupa. There has certainly been a--probably in every
+council, there is something that has been flagged that says we
+need development in this. We need configuration in this to make
+sure that it meets the VA standards.
+Mr. Lamb. But do you know what those are?
+Dr. Kroupa. There is a whole list of those. So those are
+all the things that we are working on now with Cerner to
+rectify.
+Mr. Lamb. Okay. And is there a--is it planned in the
+schedule where before March 2020, some of these clinicians,
+either on the councils or otherwise, are actually going to go
+through like a dry run testing in front of the computer?
+Dr. Kroupa. Yes.
+Mr. Lamb. How is--can you tell me how that is scheduled?
+Dr. Kroupa. Sure, sure. So part of the council process is
+that they validate their decisions from the last time around.
+So they are constantly validating and reviewing the decisions
+they made before they move forward with the next phase. Then we
+have an extensive testing time frame. People from the council
+has already been identified that will be the testers. So that
+we will make sure that their intentions are met in the product
+when it is--before it is ready to go out. And then we will have
+extensive testing in Spokane and Seattle, including mock
+GoLives and a variety of validation events to make sure that it
+is ready to go.
+Mr. Lamb. And do you know when that starts in relation to
+March of 2020?
+Dr. Kroupa. The testing will start in November.
+Mr. Lamb. Okay.
+Dr. Kroupa. That is our current plan.
+Mr. Lamb. Thank you. Mr. Windom, if you would, yes.
+Mr. Windom. Mr. Lamb, may I add just real quickly is that
+we knew at the inception, there are certain capabilities that
+aren't delivered as part of the Cerner integrated solution. We
+knew that. Things like prosthetics, things like long term care.
+These are capabilities that will be interfaced with the
+existing system as Cerner and us, to be frank, walk through the
+coding process to actually integrate it into a solution. So no
+capabilities will be lost. We may interface in the interim and
+then replace the capability in the future as part of our
+overall implementation strategy.
+Mr. Lamb. Right. No, I understand that in general terms. I
+guess, I think I am just a little bit surprised that nobody can
+name a specific instance of where an end user doctor said to
+you guys, ``Hey, the program falls short in this area of
+something that I do and we need to get it fixed,'' and how it
+was fixed. It seems to me that is what you are describing that
+you want to be taking place, but I am just a little concerned
+that we don't have specific examples of that. And you can feel
+free to get back to us later. I understand we are putting you
+on the spot.
+Madam Chairwoman, I yield back.
+Ms. Lee. Thank you. I would now like to recognize Mr. Roy
+for 5 minutes.
+Mr. Roy. I thank the Chairwoman. I appreciate you all being
+here and taking your time to address this Committee. And I
+apologize for missing the first part of it, so hopefully I
+won't repeat anything. We have got redundant duties in another
+Committee. Fortunately, this is a Committee where we actually,
+on a bipartisan basis, tend to try to do something productive.
+So I am glad you all are here.
+Mr. Windom, I might start with you. I understand that the
+VA is pursuing a best of suite strategy with the Cerner
+contract and not a best of breed strategy. Could you please
+explain what that means to you and how you all decided to
+pursue that path?
+Mr. Windom. Sir, a best of breed is an individual set of
+capabilities that are basically daisy chained together, where
+often the government becomes the integrator of those products.
+Where a best of suite is an integrated solution that is built,
+that is developed, that is coded to perform in an integrated
+fashion such that there is no integration requirement in
+between the individual components of the solution. And so AHLTA
+and CHCS on the DoD side, that is an example of two different
+products where the DoD is the integrator between the two. So
+that is how I would describe it to you, sir.
+Best of breed is a set of solutions that are daisy chained
+together to deliver the requisite end state, where a best of
+suite is an integrated set of elements where the end state is
+delivered without the interactions in between each stage.
+Mr. Roy. So quick question, quick follow up on that,
+though, isn't the risk sort of putting all of the eggs in one
+basket, versus having other alternatives and options we might
+be able to have? Especially with modern technology, with APIs
+and all of the different ways that we can, you know, integrate
+across platforms, is that not putting all the eggs in that one
+basket or no?
+Mr. Windom. Sir, we have not restricted innovation in any
+way, shape, or form on even a best of suite platform. So if
+there is capabilities being delivered in the market that we,
+the VA, want to leverage, we have the ability to present that
+to Cerner Solutions set as a requirement in fulfillment of VA
+mission objectives and pursue integration of those, if you
+will, enhancements or improvements.
+So a best of suite does not imply you can't inject new
+capability or innovation into the product line.
+Mr. Roy. Well, on a follow up then, Mr. Tinston, I assume
+DoD also has a best of suite strategy; is that correct? And if
+so, could you please walk me through your thought process
+there?
+Mr. Tinston. We do, in fact, have a best of suite strategy.
+And the idea is that you get an integrated set of capabilities,
+as Mr. Windom said. There may be a best product in this area,
+but what works best in the combination of capabilities that we
+are delivering to clinicians and the patients. So--
+Mr. Roy. Okay. Slightly--I would love to engage on that
+probably for hours, but in our limited time, Mr. Windom, back
+to you. How do you define vendor lock in as it pertains to
+electronic health records, and health IT companies? And what
+would it mean for the VA to become locked into a particular
+company?
+Mr. Windom. Sir, very sensitive in not only my DoD life but
+now to restrictions on the use of intellectual property. You
+know, the open sourcing, the things that allow us, if you will,
+to inject capabilities and not be bound by a solution that we
+have contracted for. So the--having access to code, having
+access in an unrestricted way to bringing in the requisite
+solutions, whether it be apps, you know, applications that are
+now very prevalent, that is where I deem vendor lock is. And in
+our terms and conditions of our contract, we have greatly
+inhibited vendor lock by promoting Cerner opening up their
+gateway to allow better solutions, enhancements to the product
+line that they may not only want to incorporate on behalf of
+the VA before their commercial customers as well. So, sir,
+hopefully that gets to where you were looking for.
+Mr. Roy. Well, on a more specific basis, does buying the
+Cerner Millennium EHR pose the risk of vendor lock in?
+Mr. Windom. No, sir. The terms and conditions, again, we
+have got an innovation CLIN, contract line item number. We have
+got--again, I don't--this is a VA requirement. We drive the
+requirement. We drive the behavior of Cerner and performance of
+the terms and conditions of the contract. We have no desire to
+give up on the innovative talent that the VA brings to bear,
+nor the solutions that are being developed in the market today.
+So we believe we have that relationship in the terms and
+conditions of our contract, and we will exercise it as
+necessary down the road to support, again, our veterans.
+Mr. Roy. And relatedly, does the VA getting rid of its
+patient portal, My HealtheVet, and adopting Cerner's patient
+portal pose the risk of vendor lock in?
+Mr. Windom. Sir, that is--I am going to defer that question
+to Dr. Kroupa, but that is not our strategy. So I am going to--
+we are not getting rid of our patient portal.
+Mr. Roy. Okay.
+Mr. Windom. We have a methodology that we are going to move
+forward with that leverages the qualities of both patient
+portals in our strategy. The key is that this is not a turnkey
+solution set. We can't just turn one thing off and turn
+something on. We know there are benefits in the way our system
+performs. It is not our intent at all to reduce the
+capabilities being provided to our veterans, but to enhance the
+capabilities.
+So Dr. Kroupa, ma'am, did you want to touch on patient
+portal specifically?
+Dr. Kroupa. Certainly, so we have done a side by side
+comparison of what the Cerner portal offers versus My
+HealtheVet. We are working on a strategy of how we can assure
+that the veteran experience is as close to the same across the
+country as we can make that. There will be some transition
+time, but we are basically working with Cerner to upgrade their
+portal to make sure that it offers the information and the ease
+of use of My HealtheVet.
+So we are still working, outlining that strategy, but we
+are constantly working with Cerner to make sure that their
+product gets better to serve our veterans.
+Mr. Roy. Madam Chair, I am a minute over my time. Thank
+you.
+Ms. Lee. Thank you. The Subcommittee has copies of the
+current state reviews and we have received updates and we
+appreciate that very much. I just want to make sure that we
+have every infrastructure report. So besides the CSRs, is there
+any other analysis review about infrastructure readiness?
+Mr. Windom. Ma'am, we have a joint infrastructure plan that
+was co-authored by the OI&T office, headed by the CIO and also
+John Short and our team. We gladly share that with you, because
+what we feel is that the synergy between OI&T and our office is
+essential. They are the managers of the network today. So we
+can provide that if you don't have that.
+John, did you have any other documents that you are hiding
+from me?
+Mr. Short. No, sir, not hiding documents, but OIT, as I
+mentioned, there was other reviews that were done and the
+Office of Information and Technology did create a report on
+Seattle, Spokane, American Lake--we can get that for you.
+Ms. Lee. Can we get that? Thank you.
+Mr. Short. Yes, ma'am.
+Ms. Lee. In the past, you have indicated that you will have
+the infrastructure projects completed within six months of go
+live. And then you just stated that--I just want to ask for
+clarification, you are going to do testing in November. Do you
+need the full infrastructure done for the testing? Are you
+going to sort of test modules while you are completing--like
+how does that timing work out?
+Mr. Windom. Yes, ma'am, there is testing in the operational
+environment and testing outside. The testing outside of the
+operational environment does not require the infrastructure to
+be ready to go. We are sticking to our plan of the
+infrastructure will be ready six months prior to Go-Live. And
+so the testing environment that we build in support of testing
+in a non-operational environment is separate, with possibly
+some connections or interfaces.
+John, did you want to touch on that anymore?
+Mr. Short. Yes, ma'am. Just for clarification. The
+infrastructure needed for Go-Live will be ready in that time.
+But there is still some additional infrastructure work that
+will be completed later, not required for Go-Live, but for a
+better user experience overall, some of those things, but not
+necessarily for operation. But all of the ones necessary for
+testing onsite, necessary for operations onsite, will be done
+in time.
+Ms. Lee. Do you worry that if you implement the
+infrastructure for operation, but it is not optimal and
+ultimately, you said the thing that keeps you up at night is
+the end user experience, and so if you don't have the proper
+infrastructure in place, you actually set yourself back.
+Mr. Windom. Ma'am, I think you are right on point. It goes
+hand in hand. What we do is we build plans to support being
+ready as intended. We would owe you that transparency to your
+staff if we are not meeting what we think our objectives are in
+support of that.
+I have indicated quite a few times that IOC is a period of
+time, initial operating capability. What is available at Go-
+Live, we will continue to update the infrastructure to deliver
+capabilities throughout the IOC process, which is a period of
+time, vice a single point in time. So I wanted to make sure
+that was understood.
+And then obviously tech refreshes will be ongoing to
+support the system operating at the optimal level. As you know,
+we are going to be running VistA and Cerner in parallel for a
+while. And so we know that the infrastructure will not run
+better with two systems, but we intend to--so we intend to make
+the appropriate and prioritize decisions on infrastructure
+upgrades.
+Ms. Lee. So what is your timeline on just beginning the
+infrastructure construction at IOC sites and the ordering of
+the hardware?
+Mr. Short. Ma'am, a lot of that is already taking place.
+Some devices will be arriving soon. Some cabling has been done.
+Wireless infrastructure has been replaced at one facility. So
+all the work is actually ongoing already. We can provide you a
+full schedule, ma'am.
+Mr. Windom. Yes, and ma'am, we would gladly provide you a
+full schedule so you can see all of the spreadsheets that are
+being worked. We are leveraging--this is where I compliment the
+CIO and the OIT. We are leveraging their contracts to the
+maximum extent possible. I mean, we are talking about commodity
+type hardware that they already procure, that we are simply
+being able to leverage their vehicles for efficiencies on our
+side.
+So that is actually a time saving mechanism that is giving
+us schedule back that we appreciate the CIO support in.
+Ms. Lee. Good to hear. Thank you. I now recognize Dr. Roe
+for 5 minutes.
+Mr. Roe. I thank the Chair very much. And we here on this
+Committee are here to try to help roll this out, not get in the
+way. But I would like to be invited to one of your sites, with
+no Power Point presentations, and so I could just sit down with
+nurses, and doctors, and other people using this system and
+actually see how it works. I, personally, would like to do
+that.
+And to Mr. Roy's question, to follow up on what he was
+doing, and I guess anybody can get this here, what other
+functions will this system do? I mean, is it going to--are you
+going to be able to contract with it, schedule with it,
+appointments, what else is the Cerner system capable of?
+Dr. Kroupa. So this is really very a full set of
+capabilities that we have bought from Cerner. So it will have
+the electronic health record, the clinical portions of that. It
+will have the revenue cycle side of things, so scheduling
+appointments, registration, billing, those types of things. It
+will have--we have HealtheIntent, which is the data analytics
+section--
+Mr. Roe. Did you say it would be able to do billing also?
+Dr. Kroupa. It will be part of the billing process, yes. We
+have HealtheIntent, which is the data warehouse side of that,
+where we will be able to do reporting and analytics. It has
+extensive management modules, so that it will help clinical
+managers understand the flow through clinics, the--as you
+mentioned, the time that providers use on the system. So we
+will be able to say that this particular provider is having
+trouble getting through this order set and we need to go help
+and train them, and help them understand the system better. So
+it has an extensive suite of both management and clinical uses.
+Mr. Roe. Well, this is a--look, this is a monstrous
+undertaking that you all are doing, both of you. And there are
+going to be some bumps in the road. There is no question about
+that. So please just share them with us. Look, I have been down
+that road, know how it is. It is disruptive to the practice and
+the clinicians. So if you run across things like that, don't
+sweep them under the rug. Come to this Subcommittee and let us
+know about it. We are here to try to help you, provide what you
+need to get your job done.
+And I think it is one of the most important projects that
+is going on now. At the end of the day, it is not about
+technology, it is about patient care. It is about going into
+the room and seeing a patient with their ailment, and providing
+the absolute best quality of care we can do. It is not about--
+nobody cares about Wi-Fi and 5G and all of that. They just want
+to get well when they come see me. They don't care how they do
+it or come see the doctor. That is what you do and what I do
+when we go in.
+But our job is to make sure all of that other stuff works
+so we can do that. So I would encourage you to be as forthright
+with us as you can be. Mr. Windom or Mr. Tinston, either one,
+it doesn't matter, or both of you can answer this, but who
+decides, or have you all decided who is going to lead the firm?
+Has that decision been made and who made it?
+Mr. Tinston. To my knowledge, Congressman, that decision
+has not been made. So I think the two departments are in
+discussions about who is going to be the interim leadership,
+the interim director and the interim deputy director for the
+firm, and then they are going to pursue permanent hires in the
+future.
+Mr. Roe. Okay. So that hadn't been made yet. Lastly, and I
+will finish up and yield back my time, you have been very--
+thank you all. It has been a very good hearing. Do you see, Mr.
+Windom, any delays that could happen right now? Looking out
+your windshield, do you see anything that would hold you up,
+because if you do, to me, that is fine, if you just--if it
+takes another month or two, I would rather have you get it
+right then get it quick and get it wrong.
+Mr. Windom. Yes, sir. And you have been clear, sir, in a
+number of hearings and we appreciate that support. I will tell
+you March 2020 is where we are tracking for Go-Live. I keep
+pointing to the clinical decision-making process that Dr.
+Kroupa leads. It is about when they are ready. When they are
+ready is when we will go deploy this thing.
+And so we have got our last workshop, I think, in September
+and we will be looking toward where we are in aligning the
+workflows with DoD being involved in those. And I think we,
+obviously, would owe you an interaction to say, ``Sir, here is
+where we are in the workflows.'' But I view that as our
+critical path item. And as you know about the integrative
+master schedule process, my critical path--we can work a myriad
+of things in collateral and parallel, and we are doing that. So
+that critical path element for me is the clinicians and their
+embracing of the solution coming forward.
+So I will--can I come back and see you in November?
+Mr. Roe. Absolutely.
+Mr. Windom. Yes, sir. Okay.
+Mr. Roe. I hope so. I hope I am here in November. One last
+question. When will you know it is interoperable? When will a--
+because we are going to have folks separating from the military
+during this time and they are going to be leaving? When will we
+know you can punch a button and move that medical record over
+from DoD to VA?
+Mr. Windom. I think, and I will defer to John after I make
+just two remarks, is that, sir, I think that is one of the
+benefits of us being in the Pacific Northwest simultaneously
+with the Department of Defense is that you should be able to
+walk from Madigan--after Go-Live, you should be able to walk
+from Madigan and into American Lake and to Seattle Medical
+Center, and to Mann-Grandstaff, and you ought to be able to
+bring up each other's records. That is where we are striving,
+what we are striving for. Let me turn this over--
+Mr. Roe. Yes, I should be able to make a three foot putt,
+but I can't a lot of times and so--
+Mr. Windom. Well, so that is what our testing is going to
+be in support of. That is what our strategy is going to be in
+support of. And we will welcome you out there for the Go-Live
+session to prove that to you.
+Mr. Roe. When will that be?
+Mr. Windom.'' Yes, sir.
+Mr. Roe. When will that be?
+Mr. Windom. March of 2020, sir.
+Mr. Roe. March of 2020?
+Mr. Windom. Yes, sir.
+Mr. Roe. I yield back. Thank you.
+Ms. Lee. Thank you, Dr. Roe. I now recognize Mr. Roy.
+Mr. Roy. Thank you, Madam Chairwoman. Just to follow up
+with a few more questions. I started with Mr. Windom. Does
+using Cerner's HealtheIntent product as the repository for all
+veteran health data pose the risk of vendor lock in, just
+continuing the conversation about lock in?
+Mr. Windom. Sir, we selected a solution to benefit the
+veterans and the active duty servicemembers. So the vendor lock
+thing, I don't know enough about the inter-workings of
+HealtheIntent to be able to give you, and so if you don't mind,
+I will take the look up--
+Mr. Roy. Okay.
+Mr. Windom[continued]. --and I will defer to John and Dr.
+Kroupa for maybe their assessment of the product.
+Mr. Short. Sir, when we were negotiating the contract, we
+required Cerner, upon VA's request, to extract the data from
+Millennium and HealtheIntent into the form and structure that
+we require it in. So if in the future we decided to go
+somewhere else, we could have the data extracted to go
+somewhere else. And obviously that would be a whole effort in
+itself. But we do have that ability, so it is not locked into
+their system.
+Mr. Roy. Okay. And relatedly, you know, in general terms, I
+just want to go back to Mr. Tinston. I understand DoD plans to
+buy HealtheIntent but has not done it yet and is vendor lock in
+a consideration in this decision?
+Mr. Tinston. So we are, in fact, we have a joint team with
+the VA for the implementation of HealtheIntent. We are setting
+up the environments now. I am not worried about lock in with
+HealtheIntent. As John Short just mentioned, the data is not
+Cerner's, but importantly with HealtheIntent, it is a set of
+capabilities built on other products, some of them even open
+source products that are not Cerner exclusive products. So I
+don't see a risk of vendor lock in here.
+Mr. Roy. So just to clarify, you know, the questions that I
+am asking about vendor lock in are not meant to be critical of
+Cerner or anything along those lines. You know, I think, you
+know, obviously, one of the leading companies out in the
+industry. It is meant to just focus in on some of the concerns
+that we might have. This project is very large and difficult,
+and we want to complete the basics before turning attention to
+other stuff.
+But I believe innovation is really important. And as I
+know, I think all of you do, believe it or not, I have a
+masters in Management Information Systems from my previous
+life, which was in 1995, so it is about as useful as, you know,
+having a putter in my hand right now.
+But I do care about these issues and think about them, at
+least analytically, in the way that I would when I was in that
+realm of my life. So the question I would have here that I am
+trying to understand is how we are getting the kind of
+competition and innovation that needs to continue through this
+process, right? And particularly for veterans, I know I hear in
+my district all the time about their concerns, about under
+choice and mission, being able to go access private sector
+health care and having trouble doing so, and trying to make
+sure that we have got the best health records to make that
+process as smooth as possible.
+So one question here, Mr. Windom, is do you know what
+Cerner's market share is now?
+Mr. Windom. I do not, sir.
+Mr. Roy. Okay. My basic understanding is it would sort of
+be in the upper 20s or something in that zip code of the market
+and then do--I assume the answer will be no, but do you know
+what the market share would be if the military health system
+and VA both finish implementing Cerner nationwide? Do you have
+an estimate of what that market share might look like?
+Mr. Windom. I do not, sir.
+Mr. Roy. Okay. We have some rough estimates that that might
+put it in the sort of mid to upper 30s. And again, nothing
+inherently wrong with that per se. We have got a lot of
+industries where there is some significant market dominance. I
+think it is just a question that should influence at least some
+of our thinking about making sure that there is the kind of
+innovation that is necessary. And you know, we are not talking
+about monopoly here, obviously, but we are talking about
+concerns about making sure there is continued innovation.
+So this seems to have been one of VA's considerations when
+it negotiated the contract with Cerner. And so I want to ask
+you one question. The contract says VA will have access to
+Cerner's data architecture, not just the data in the system,
+which VA should already own. VA hailed this as a big victory
+when the contract was signed. What is Cerner doing differently
+to give VA this access and how is VA using it?
+Mr. Short. Sir, on the access to the data models and the,
+so what we have done already, data migration is the main area
+where this hits first. And that is--and there is many elements
+to data migration, many steps. So when we did this, we had to
+map VistA data to the HealtheIntent data model, which CMO staff
+did with--Dr. Kroupa's staff did with Cerner. And then they had
+to be mapped to the Millennium data model so Cerner can move
+that data.
+So the first steps that have been done, and now Cerner is
+taking the next steps over the next couple of months to move
+that into the HealtheIntent model and to the Millennium model.
+And by having access to the data models to be able to map that,
+we can actually make use of all of VA's Legacy data and VistA
+back to 1981 so it can be used by DoD and VA.
+Mr. Roy. Anybody else have any other, anything to add to
+that? Okay. Well, okay. Well, thank you, Madam Chairwoman.
+Ms. Lee. Thank you. Well, this wraps it up. I just want to
+thank you all for your time today and your testimony.
+Certainly, we understand how incredibly complex and important
+this project is and the opportunity to improve care for not
+only our active servicemembers, but our veterans. And,
+certainly, the example that Mr. Tinston provided with the
+nursing, rapid response that helped save a life is obviously
+what we look for as the future of this project and the great
+opportunity we have, not just within the VA and the Department
+of Defense, but for health care, not just across this country,
+but throughout the world. So, not a small undertaking.
+You know, last week--I just want to reiterate this--last
+week, the contractors said that their single greatest risk to
+their success was the timing and their ability to make
+decisions. And, you know, we had the IPO and now--then it was
+the JEHRM and now it is the FEHRM. But still, today, my
+understanding from the questions that were answered today, that
+this is really just still a concept and not an actionable plan,
+at this point.
+And then, layered on top of that, we have the IDIQ contract
+which, you know, according to Mr. Windom, you have clear
+responsibilities that are Cerner's versus yours. So, we are
+happy to hear that you are confident you are on schedule for
+the March 2020 rollout.
+So, my concern is as we get closer and closer and if we
+start to miss deadlines, there is going to be a clear decision
+point when we want to understand who is responsible. And
+without a clear plan on this FEHRM, and I am going to reiterate
+that again, it really puts us and the taxpayers at risk.
+Because, you know, there is going to be a point where Cerner is
+going to say, No, it is your fault. We are going to say, No, it
+is your point.
+That is why it is so important that we have this governance
+structure in place, so we can understand, and we have one point
+of decision-making and one point that can say, this is what
+happened. And we are either going to hold Cerner accountable or
+we are going to hold ourselves accountable.
+And, clearly, especially as Dr. Roe said, you know, we know
+this is an undertaking and when we come up to bumps in the
+road, we would rather than understand them than find out about
+them after the fact.
+And so, I just need to close this out by reiterating, as
+soon as we can see the actionable plan on the FEHRM, it will
+give us a lot more clarity and comfort as we move forward and
+work together with you to try to meet the March 2020 rollout.
+So, best of luck. Continue the great work. Thank you all
+for your service to our country and our veterans and our active
+military members, and we look forward to continuing the
+conversation. Thank you.
+Oh, Members, before we end, will have 5 legislative days to
+revise and extend their remarks and include extraneous
+material. This hearing is now adjourned.
+[Whereupon, at 11:51 a.m., the Subcommittee was adjourned.]
+A P P E N D I X
+----------
+Prepared Statement of John H. Windom
+Good morning Chairwoman Lee, Ranking Member Banks, and
+distinguished Members of the Subcommittee. Thank you for the
+opportunity to testify today in support of the VA initiative to
+modernize its electronic health record (EHR) through the acquisition
+and deployment of the Cerner Millennium (Cerner) EHR solution. I am
+accompanied today by Dr. Laura Kroupa, Chief Medical Officer for the
+Office of Electronic Health Record Modernization (OEHRM), and Mr. John
+Short, OEHRM Technology and Integration Officer.
+My thanks to Congress, and specifically this Subcommittee, for your
+continued support and shared commitment for the program's success.
+Because of your unwavering support, VA has stayed on track for
+implementation, enabling us to continue our mission of improving health
+care delivery to our Nation's Veterans being a responsible steward of
+taxpayer dollars.
+Background
+On May 17, 2018, VA awarded an Indefinite Delivery/Indefinite
+Quantity (ID/IQ) EHR contract to Cerner. Given the complexity of the
+environment, VA has awarded this ID/IQ to provide maximum flexibility
+and the necessary structure to control cost. Through this acquisition,
+VA will adopt the same EHR solution as the Department of Defense (DoD).
+The solution allows patient data to reside in a single hosting site
+using a single common system to enable the sharing of health
+information; improve care delivery and coordination; and provide
+clinicians with data and tools that support patient safety. VA believes
+that implementing a single EHR solution will allow for seamless care
+for our Nation's Servicemembers and Veterans. Since contract award, VA
+has accomplished several key events outlined below.
+Task Orders
+As mentioned earlier, VA awarded the Cerner contract on May 17,
+2018. VA also awarded the first three Task Orders (TO), which are
+project management, Initial Operating Capabilities (IOC) site
+assessments, and data hosting. In September 2018, VA awarded three TOs
+for Data Migration and Enterprise Interface Development, and Functional
+Baseline Design and Development and IOC Deployment. VA leverages the
+ID/IQ contract structure awarding firm-fixed-price TOs as requirements
+are validated. This strategy affords VA the flexibility to moderate
+work and modify implementation and deployment plans efficiently. Since
+contract award, VA has awarded additional TO's to begin activities
+around data migration and IOC deployment. Additional details about the
+TOs are as follows:
+TO 1 - EHRM Project Management, Planning Strategy, and
+Pre-IOC: Cerner will provide project management, planning, strategy,
+and pre-IOC build support. More specifically, the scope of services
+included in this task order are project management; enterprise
+management; functional management; technical management; enterprise
+design and build activities; and pre-IOC infrastructure build and
+testing.
+TO 2 - EHRM Site Assessments - Veterans Integrated
+Service Network (VISN) 20: Cerner will conduct facility assessments, to
+prepare for the commercial EHR implementation, for the following
+Veterans Integrated Service Network 20 IOC sites: Mann-Grandstaff VA
+Medical Center (VAMC) in Spokane Washington; the Seattle, Washington
+VAMC; and the American Lake VAMC in Tacoma, Washington. Cerner will
+also provide VA with a comprehensive current-state assessment to inform
+site-specific implementation activities and task order-specific pricing
+adjustments.
+Task Order 3 - EHRM Hosting: Cerner is funded to deliver
+a comprehensive EHRM hosting solution and start associated services to
+include hosting for EHRM applications, application services, and
+supporting EHRM data.
+Task Order 4 - Data Migration and Enterprise Interface
+Development: Cerner will provide data migration planning refinement,
+analysis, development, testing, and execution. Cerner will support
+enterprise interface planning refinement, design, development, testing,
+and deployment. Cerner will provide a commercially available registry
+selected by VA for IOC as well as details and updates on the progress
+of IOC data migration and enterprise interface development.
+Task Order 5 - Functional Baseline Design and
+Development: Cerner will provide project management, workflow,
+training, change management, and EHRM stakeholder communication.
+Task Order 6 - IOC Deployment: Cerner will provide
+project management; IOC planning and deployment; test and evaluation;
+pre-deployment training; go-live readiness assessment, deployment, and
+release; go-live event; post-production health check and deployment
+completion; post-deployment support; and continued deployment decision
+support.
+Task Order 7 - Technical Baseline: Cerner will provide
+project management; adherence to enterprise technical plans and
+strategies; technical training plans and materials; technical and
+functional analysis; system integration; Health Information Exchange/
+Veteran Health Information Exchange modification; forward-deployed
+hardware; VA-specific functionality integration; and additional
+technical support.
+Task Order 8 - Additional Interface Development for IOC:
+Cerner will provide additional interface development, testing, and
+execution in support of interfaces required for VA's IOC sites. These
+tasks include interface development, integration, testing, deployment,
+sustainment, and maintaining the EHR Master System Integration list.
+Current State Review
+In July 2018, VA and Cerner conducted a Current State Review at
+VA's IOC sites to gain an understanding of the sites' specific as-is
+state, and how it aligns with the Cerner commercial standards to
+implement the proposed to-be state. The team conducted organizational
+reviews around people, processes, and technology. They observed and
+captured current state workflows; identified areas that will affect
+value achievement and present risk to the project; identified benefits
+from software being deployed; and identified any scope items that need
+to be addressed.
+VA reviewed final reports analyzing the Current State Review in
+October 2018 and discovered there are infrastructure readiness areas
+that are in better condition than initially forecasted and areas that
+require slightly more investment due to aging infrastructure. However,
+there were no unexpected major needs or significant deviations from the
+current projected spend plan.
+Model Validation Event
+In September 2018, VA held its Model Validation Event, where VA's
+EHR Council met with Cerner to begin the national and local workflow
+development process for VA's new EHR solution. There was a series of
+working sessions designed to examine Cerner's commercial recommended
+workflows and evaluate the current workflows used at VAMCs. This allows
+VA to configure the workflows to best meet the needs of our Veterans,
+while also implementing commercial best practices.
+Because of Model Validation, VA planned eight national workshops to
+educate diverse clinical end-users and validate workflows to ensure
+VA's new EHR solution meets the Department's needs. During the events,
+VA collaborates with front-line clinicians across VA's enterprise to
+validate workflows ensuring VA's new EHR solution meets the
+Department's needs. To date, VA has completed five national Workshops.
+The remaining workshops are scheduled to occur throughout the rest of
+this fiscal year.
+Cerner Baseline Review
+VA is committed to aligning its workflows closely with commercial
+best practices. As such, VA commissioned Cerner to complete a baseline
+assessment of how closely DoD's Military Health System GENESIS aligns
+with these practices. In September 2018, Cerner presented the results
+of the assessment. VA learned that DoD has a high adoption of
+recommendations and system configuration, which are generally in
+alignment with commercial best practices.
+Organizational Structure and Strategic Alignment with DoD
+On June 25, 2018, VA established OEHRM to ensure that we
+successfully prepare for, deploy, and maintain the new EHR solution and
+the health information technology (IT) tools dependent upon it. OEHRM
+reports directly to VA Deputy Secretary and works in close coordination
+with the Veterans Health Administration and Office of Information
+Technology.
+I currently serve as the program's Executive Director and have
+supported this effort at a leadership-level since its inception. Prior
+to joining VA, I served as the Program Manager for the Defense Health
+Management Systems Modernization, the organization which competitively
+and successfully acquired the Cerner EHR solution on behalf of DoD.
+To ensure appropriate VA and DoD coordination, we emphasize
+transparency within and across VA through integrated governance and
+open decision-making. The OEHRM governance structure has been
+established and is operational, consisting of technical and functional
+boards that will work to mitigate any potential risks to the EHRM
+program. The structure and process of the boards are designed to
+facilitate efficient and effective decision-making and the adjudication
+of risks to facilitate rapid implementation of recommended changes.
+At an inter-agency level, the Departments are committed to
+instituting an optimal organizational design that prioritizes
+accountability and effectiveness, while continuing to advance unity,
+synergy, and efficiencies between VA and DoD. The Departments have
+instituted an inter-agency working group, facilitated by the
+Interagency Program Office, to review use-cases and collaborate on best
+practices for business, functional, and IT workflows, with an emphasis
+on ensuring that interoperability objectives are achieved between the
+two agencies. VA's and DoD's leadership meet regularly to verify the
+working group's strategy and course correct when necessary. By learning
+from DoD, VA will be able to address challenges proactively and reduce
+potential risks at VA's IOC sites. As challenges arise throughout the
+deployment, VA will mitigate adverse effects to Veterans' health care.
+Federal Electronic Health Record Modernization
+DoD and VA are developing a Federal Electronic Health Record
+Modernization (FEHRM) joint governance strategy to further promote
+rapid and agile decision-making. This structure will maximize DoD and
+VA resources, minimize EHR deployment and change management risks, and
+promote interoperability through coordinated clinical and business
+workflows, data management, and technology solutions while ensuring
+patient safety. The FEHRM program office will be responsible for
+effectively adjudicating functional, technical, and programmatic
+decisions in support of DoD and VA's integrated EHR solutions. DoD and
+VA will jointly present the final construct of the plan to Congress,
+including our implementation, phase execution, and leadership plans.
+Implementation Planning and Strategy
+It will take OEHRM several years to fully implement VA's new EHR
+solution and the program will continue to evolve as technological
+advances are made. The new EHR solution will be designed to accommodate
+various aspects of health care delivery that are unique to Veterans and
+VA, while bringing industry best practices to improve VA care for
+Veterans. Most medical centers should not expect immediate major
+changes to their EHR systems.
+VA's approach involves deploying the EHR solution at IOC sites to
+identify challenges and correct them. With this IOC site approach, VA
+will hone governance, identify efficient strategies, and reduce risk to
+the portfolio by solidifying workflows and detecting course correction
+opportunities prior to the deployment at additional sites. As
+mentioned, VA and Cerner have conducted Current-State Reviews for VA's
+IOC sites. These site assessments include a current-state technical and
+clinical operations review and the validation of the facility
+capabilities list. VA started the go-live clock for the IOC sites, as
+planned, on October 1, 2018.
+Further, VA is continuing to work proactively with DoD and experts
+from the private sector to reduce potential risks during the deployment
+of VA's new EHR by leveraging DoD's lessons learned from its IOC sites.
+Most recently, on May 29, 2019, VA held an Industry Day with over 750
+registered industry executives and leaders. OEHRM presented a status
+update on the program. Cerner and Booz Allen Hamilton joined OEHRM to
+inform eligible vendors on ways to potentially provide contracting and
+subcontracting support to the EHRM effort.
+VA is leveraging several efficiencies including revised contract
+language to improve trouble ticket resolution based on DoD challenges;
+optimal VA EHRM governance structure; fully resourced program
+management office with highly qualified clinical and technical
+oversight expertise; effective change management strategy; and using
+Cerner Corporation as a developer and integrator consistent with
+commercial best practices.
+During the multi-year transition effort, VA will continue to use
+Veterans Information System and Technology Architecture and related
+clinical systems until all legacy VA EHR modules are replaced by the
+Cerner solution. For the purposes of ensuring uninterrupted health care
+delivery, existing systems will run concurrently with the deployment of
+Cerner's platform while we transition each facility. During the
+transition, VA will ensure a seamless transition of care. A continued
+investment in legacy VA EHR systems will ensure patient safety,
+security, and a working functional system for all VA health care
+professionals.
+Change Management and Workflow Councils
+Because the program's success will rely heavily on effective user-
+adoption, VA is deploying a comprehensive change management strategy to
+support the transformation to VA's new EHR solution. The strategy
+includes providing the necessary training to end-users: VAMC
+leadership, managers, supervisors, and clinicians. In addition, there
+will be on-going communications regarding deployment schedule and
+anticipated changes to end-user's day-to-day activities and processes.
+VA will also work with affected stakeholders to identify and resolve
+any outstanding employee resistance and any additional reinforcement
+that is needed.
+VA has established 18 EHR Councils (EHRC) to support the
+development of national standardized clinical and business workflows
+for VA's new EHR solution. The Councils represent each of the
+functional areas of the EHR solution, including behavioral health,
+pharmacy, ambulatory, dentistry, and business operations. VA
+understands that to meet the program's goals we must engage frontline
+staff and clinicians. Therefore, the composition of the EHRCs will
+continue to be about 60 percent clinicians from the field who provide
+care for Veterans, and 40 percent from VA Central Office. As VA
+implements its new EHR solution across the enterprise, certain Council
+memberships will evolve to align with contemporaneous implementation
+locations. While deploying in a particular VISN, the needs of Veterans
+and clinicians in that particular VISN will be incorporated into
+national workflows.
+Funding
+With the support of Congress, OEHRM has not experienced funding
+shortfalls that would impact the success of the EHRM initiative.
+Additionally, OEHRM appreciates Congress for providing the program with
+three-year funding availability. This flexibility in funding execution
+is critical, as it allows OEHRM to fund key operations on a timeline
+that aligns with a successful implementation.
+OEHRM's enacted fiscal year (FY) 2019 budget has allowed the
+program to continue the preparation of VA's EHR solution at VA's three
+IOC sites. VA's FY 2020 budget request of $1.6 billion would provide
+the necessary resources for the post Go-Live activities of the IOC
+sites, the in-process deployment of seven sites, 18 new site
+assessments, and 12 site transitions scheduled to begin in 2020.
+OEHRM reviews its lifecycle cost estimate at least once per month
+to reflect actual execution and to fulfill its programmatic oversight
+responsibilities. OEHRM will continue to provide Congress with regular
+updates to ensure that the program is fully funded and to support our
+commitment to transparency.
+Conclusion
+Again, the EHRM effort will enable VA to provide the high-quality
+care and benefits that our Nation's Veterans deserve. VA will continue
+to keep Congress informed of milestones as they occur. Madam Chair,
+Ranking Member, and Members of the Subcommittee, thank you for the
+opportunity to testify before the Subcommittee today to discuss one of
+VA's top priorities. I am happy to respond to any questions that you
+may have.
+Prepared Statement of William J. Tinston
+Chairwoman Lee, Ranking Member Banks, and distinguished members of
+the Subcommittee, it is an honor to testify before you today. We
+represent the Department of Defense (DoD) as the Program Executive
+Officer and the Military Health System (MHS) Electronic Health Record
+(EHR) System Functional Champion responsible for modernizing the
+military's EHR and developing one EHR with the Department of Veterans
+Affairs (VA), which is also interoperable with private sector
+providers.
+The mission of the Program Executive Office, Defense Healthcare
+Management Systems (PEO DHMS) is to transform the delivery of health
+care and advance data sharing through a modernized EHR for
+servicemembers, retirees, and their families. As the information
+technology acquisition provider and part of the Defense Health Agency,
+we support the Quadruple Aim: improved readiness, better health, better
+care, and lower cost; specifically committing to three equally
+important objectives: deploy a single, common inpatient and outpatient
+EHR, eliminating the need for interoperability with the VA; improve
+data sharing with our private sector health care partners; and
+successfully transform the delivery of health care in the MHS through
+advanced tools that provide beneficiaries more control over their
+health care.
+In July 2015, the DoD competitively awarded a contract to the
+Leidos Partnership for Defense Health (LPDH) to deliver a modern,
+interoperable EHR capable of complying with DoD's high cyber security
+standards without compromising performance and designed to share data
+with our Federal and private sector partners regardless of their
+operational platform. This modern, secure, connected EHR, MHS GENESIS,
+provides a state of the market commercial off the shelf solution
+consisting, at its core, of Cerner Millennium, an industry-leading EHR,
+and Henry Schein's Dentrix Enterprise, a best of breed dental module.
+Delivering a capability of this magnitude is a monumental challenge
+and the DoD recognizes this. The deployment and implementation of MHS
+GENESIS is a complex business transformation that requires extensive
+coordination and communication with stakeholders and partners.
+Understanding the importance, the DoD worked directly with the
+functional and technical communities to capture requirements and
+standardize workflows, minimizing variation and increasing the
+capabilities available via an enterprise system.
+MHS GENESIS deployed to its pilot sites in 2017, beginning with
+Fairchild Air Force Base in February. Naval Hospital Bremerton and
+Naval Health Clinic Oak Harbor followed in the summer and our pilot
+officially concluded in January 2018 at Madigan Army Medical Center.
+These four pilot sites continue to use MHS GENESIS today and are safely
+delivering, managing, and documenting health care daily - completing
+more than 100,000 patient encounters each month.
+Lessons Learned
+Deploying to the pilot sites provided an opportunity to observe the
+system and capture user feedback, the intended purpose of a pilot. No
+system is flawless, and deploying to a small clinic, progressing to a
+larger hospital allowed us to assess system performance at various
+levels of capability.
+In January 2018, PEO DHMS, along with the Defense Health Agency,
+implemented an eight week stabilization and adoption period to optimize
+MHS GENESIS, with a specific focus on improving network stability and
+medical device interfaces, governance, training, change management, and
+adoption of workflows.
+As with any transition, leadership is key. Ensuring the right
+people are in place to make decisions significantly impacts a
+successful site deployment. Understanding this, DHA established a
+clear, agile, and accountable management structure to provide guidance
+and policy for effective enterprise decisions. Further, DHA implemented
+processes to ensure network stabilization and medical device
+configuration prior to MHS GENESIS Go-Live.
+To address the change management and training challenges, we
+implemented three fundamental adjustments to the MHS GENESIS training
+strategy: functionally led workflow adoption; role based training
+configuration; and implementation of a peer expert training program.
+Going forward, MHS GENESIS will deploy using a Wave approach. This
+deployment strategy allows optimal use of lessons learned to enhance
+our efforts as we proceed through enterprise- wide deployment.
+Progress and Patient Safety Enhancements
+Statistics revealed significant progress in 2018, ultimately
+improving patient care. For example, we avoided nearly 2,500 duplicate
+lab orders. Further, through new and effective decision support tools,
+MHS GENESIS equips our clinicians with the right tools and resources to
+evaluate a patient's status and quickly determine the best solution.
+Recently at Madigan Army Medical Center, the MHS GENESIS inpatient
+nursing management module alerted the staff to an emergent patient
+situation. The nurses responded to the patient's bedside, identified
+the distressed patient, and activated the rapid response team. The
+patient immediately transferred to the cardiac catheterization lab and
+received a life-saving procedure. This example illustrates the new
+record's improved capabilities over our legacy systems. There are
+markedly improved tools within MHS GENESIS to monitor care and measure
+improvement as well as monitor care to the individual provider. For
+instance, we can monitor the time a provider spends documenting care
+outside of duty hours (current less than 3% of the time). This allows
+us to identify providers experiencing challenges and focus our training
+efforts in this area. Further, with our VA partners, we are now
+connected to a wide range of commercial partners across the globe, who
+are collectively dedicated to improving care and interoperability
+within the DoD, VA, and the nation.
+Joint Engagement
+The VA's decision to implement the same EHR as the DoD and the
+United States Coast Guard (USCG) will result in a single, common record
+enabling more efficient, highly reliable, safe, and quality care,
+ultimately protecting our most important asset - our people. The DoD
+does not take this lightly, and understands this decision comes with
+the practicality of implementation. A single, common record requires
+extensive collaboration and joint decision making to ensure efficient
+workflows and standardized processes.
+Federal Electronic Health Record Modernization Working Group
+On September 28, 2018, the Secretaries of Defense and Veterans
+Affairs signed a Joint Commitment Statement pledging to align VA and
+DoD strategies to implement an interoperable EHR system. In response to
+this commitment, the DoD and VA evaluated program dependencies such as
+infrastructure, incorporation of clinical and business processes, and
+other requirements from the functional, technical, and programmatic
+communities. DoD and VA leadership determined the optimal and lowest
+risk alternative is to re-charter the DoD/VA IPO into the Federal
+Electronic Health Record Modernization (FEHRM) Program Office. The
+FEHRM, which will incorporate key members of the IPO as well as DoD and
+VA program office staff, will provide a more comprehensive, agile, and
+coordinated management authority to execute requirements necessary for
+a single, seamless integrated EHR.
+Another example, of the DoD and VA currently collaborating and
+sharing best practices via joint workshops which focus on system
+standardization and configuration versus customization.
+Specifically, the clinical nursing workshop recently completed an
+extensive process optimization review, identifying and agreeing to more
+than 2,300 workflow process optimizations, reducing nurse charting by
+70%. This significant time savings provides more time for our priority
+- the patient. A DoD clinical nurse at one of our pilot sites
+highlights the improvements provided via MHS GENESIS and our commitment
+to collaboration with the VA in the quote below.
+``Modernization of the DoD Electronic Health Record was a
+necessity. MHS GENESIS became our opportunity. It shined a light onto
+the Military Health System, illuminating the best practices throughout
+the MHS and identifying areas in need of improvement. It caused us to
+breakdown not only the barriers between services and the barriers
+between the DoD and the VA, but also the barriers between all
+specialists within a hospital's or clinic's care continuum. Never
+before have I seen nurses, physicians, surgeons, and transfusion
+technicians sit side-by-side and collaborate as intensely as I witness
+daily with MHS GENESIS. Every day, multi-disciplinary teams work across
+the pilot sites and the country to bring timely, relevant, evidenced-
+based practice to MHS GENESIS. This is more than an Electronic Health
+Record; it is a collaborative health record serving our nation's
+Service Members, Veterans, and beneficiaries. There is much work to be
+done to deploy and optimize MHS GENESIS, but it has been a great leap
+forward in support of the health care of this deserving population.''
+Joint Solutions
+Cybersecurity, the foundation of a joint solution, demands
+practical implementation. The DoD sets the standard for cybersecurity,
+and we invested significant time and resources to satisfy those
+requirements. By co-locating personnel at one commercial DoD/VA data
+center, our people assist with continuous cyber monitoring and are
+engaged in maintaining cyber integrity. Further, this strengthens the
+collaborative Federal and commercial relationship, encouraging the VA
+to leverage these capabilities and actively participate in critical
+activities to uphold the DoD cybersecurity standards. The continuous
+collaborative cyber work will not only benefit DoD and VA users, but it
+will contribute to the development of national standards, raising the
+bar for protecting the patient health information.
+Further, the DoD and VA established workgroups which consists of
+cross-organizational representatives who resolve technical challenges
+and establish new processes to identify enterprise solutions and
+opportunities for both Departments to leverage. They work together to
+minimize the impact to both Department's schedules and ensure the most
+efficient use of program resources. For example, the DoD agreed to
+accept a Cerner software upgrade only a few weeks following its Wave 1
+Go-Live to ensure VA fields its desired baseline solution to meet its
+scheduled Initial Operational Capability Go-Live in March of 2020. The
+timing of the upgrade adds complexity and risks to DoD's Wave 1, but it
+is the right decision for the DoD and VA's successful implementation.
+Patient Centered Delivery
+Patient centered delivery relies on the continued advancement of
+system capabilities, while maintaining system integrity and patient
+data throughout the life of the patient. To support this effort, the
+DoD and VA agreed to the joint execution of HealtheIntent, a data
+warehouse and analytics platform which captures all patient data and
+migrates it into a single, common record that stays with the patient
+throughout their lifetime. Once executed, the Departments agreed to
+numerous decisions, including a joint URL which required collaborative
+decision making.
+Continuous delivery demands established processes to address system
+enhancements and maintain the integrity of the system baseline and the
+hosting environment. Recognizing the significance, the DoD and VA
+established a joint decision making process to evaluate any request
+that would modify the technology solution, ensuring the practical
+implementation of an enterprise solution.
+Conclusion
+MHS GENESIS is on track for full deployment by the end of calendar
+year 2023. In December 2018, the DoD EHR Defense Acquisition Board met,
+and the Assistant Secretary of Defense for Acquisition affirmed MHS
+GENESIS met the criteria for approved deployment to Waves 1-6 beginning
+with Wave 1 in September 2019. The DoD and VA remain committed to
+continued communication and collaboration to ensure the successful
+implementation of a single, common record throughout the MHS, the USCG,
+and the VA.
+Prepared Statement of Dr. Lauren Thompson
+Chairwoman Lee, Ranking Member Banks, and distinguished members of
+the subcommittee, thank you for the opportunity to testify before you
+today. As the Director of the Department of Defense/Department of
+Veterans Affairs Interagency Program Office (IPO), I am honored to be
+here today. The mission of the DoD/VA IPO is to advance data
+interoperability across DoD, VA, and other partner systems. Providing
+high-quality health care to service members, veterans, and their
+families is one of the IPO's highest priorities, and health data
+interoperability is essential to improving the care delivered. A key
+component meeting the unique needs of our beneficiaries and ensuring
+they receive the best care possible, is making certain that no matter
+their status, location, or provider, their health data is readily
+available and accurate, or in other words ensuring health data
+interoperability-the ability of two or more systems or components to
+exchange information and to use the information that has been exchanged
+in a meaningful way.
+The DoD and VA represent two of our nation's largest health care
+systems. Together, the Departments represent over 30 million eligible
+beneficiaries including service members, veterans, and their families.
+A significant amount of their care is provided via the private sector,
+providing more than 60 percent of DoD care and 30 percent for the VA.
+Currently, the Departments share more than 1.5 million data elements
+daily, and more than 430,000 DoD and VA clinicians are able to view the
+real-time records of the more than 16 million patients who receive care
+from both Departments.
+The Fiscal Year 2008 National Defense Authorization Act (NDAA)
+directed the DoD and VA to develop and implement electronic health
+record (EHR) systems or capabilities that allow for full
+interoperability of personal health care information between the DoD
+and VA, instructing the establishment of the IPO to guide both
+Departments in their efforts. In January 2009, the IPO completed its
+first charter, sharing its mission and functions with respect to
+attaining interoperable electronic health data. In March 2011, both
+Secretaries of Defense and VA instructed the Departments to develop a
+single, jointly integrated EHR. In 2013, the Departments decided to
+pursue modernization of their respective EHR systems instead. In
+December 2013, the IPO was re-chartered to lead the efforts of the DoD
+and VA to implement national health data standards for interoperability
+and to establish, monitor, and approve clinical and technical standards
+for the integration of health data between both Departments and the
+private sector.
+INTEROPERABILITY AND DATA SHARING
+The IPO's goal is to support interoperability of clinically
+relevant health data in accordance with the FY 2014 NDAA, and in
+compliance with The Office of the National Coordinator for Health IT's
+(ONC) guidance on standards and interoperability for clinical records.
+Specifically, the IPO is chartered to jointly oversee and monitor the
+efforts of the DoD and VA in implementing national health data
+standards and act as the point of accountability for identifying,
+monitoring, and approving the clinical and technical data standards and
+profiles to ensure seamless integration of clinically relevant health
+data between the Departments and private sector providers who treat DoD
+and VA beneficiaries.
+In April 2016, the Departments, with the IPO's assistance, met a
+requirement of the Fiscal Year 2014 NDAA, certifying to Congress that
+their systems are interoperable with an integrated display of data
+through the Joint Legacy Viewer, or JLV. JLV integrates data from the
+clinical data repositories of both Departments, as well as data on
+beneficiary encounters with private providers who participate in
+national health information exchange networks. The Departments also
+share documents and images with each other and private providers
+through DoD and VA data exchange and access services. The IPO monitors
+the usage of JLV and other interoperability metrics across the
+Departments to track progress on health data exchange and
+interoperability.
+The IPO also serves a convening function, facilitating functional
+and technical discussions across the Departments and interoperability
+information exchange forums with industry. As executive secretary to
+the DoD/VA Interagency IT Steering Committee, a joint CIO-led body, the
+IPO works to ensure DoD and VA's technical alignment, planning, and
+implementation oversight of technical infrastructure and enterprise
+solutions meet the business needs of joint activities.
+The IPO collaborates extensively with ONC, other government
+agencies, and standards development organizations to advance the state
+of interoperability across the health industry. IPO staff participate
+in ONC work groups, and IPO and ONC leaders meet regularly to discuss
+current interoperability initiatives and future collaboration
+opportunities to support national interoperability efforts.
+FEDERAL ELECTRONIC HEALTH RECORD MODERNIZATION PROGRAM OFFICE
+In 2018, Secretaries Wilkie and Mattis issued a Joint Commitment
+Statement pledging to align strategies to implement an integrated EHR
+system. DoD and VA leaders chartered the Joint Electronic Health Record
+Modernization Working Group, referred to as the JEHRM, to develop
+recommendations for an optimal organizational construct that would
+enable an agile, single decision-making authority to efficiently
+adjudicate functional, technical, and programmatic interoperability
+issues while advancing unity, synergy, and efficiencies.
+On March 1, 2019, the joint VA/DoD Executive Leadership Group
+approved a course of action, plan of action and milestones, and
+implementation plan to establish the Federal Electronic Health Record
+Modernization Program Office, or the FEHRM, in a phased manner in order
+to minimize risk. Leveraging the existing 2008 and 2014 NDAA Statute,
+the IPO will be re-chartered into the FEHRM and will provide a
+comprehensive, agile, and coordinated management authority to execute
+requirements necessary for a single, seamless integrated EHR and will
+serve as a single point of authority for Department's EHR modernization
+program decisions. FEHRM leaders will have the authority to direct each
+Department to execute joint decisions for technical, programmatic, and
+functional functions under its purview and will provide oversight
+regarding required funding and policy as necessary. This management
+model creates a centralized structure for interagency decisions related
+to EHR modernization, accountable to both the VA and the DoD Deputy
+Secretaries.
+An interim FEHRM Director and Deputy Director will be appointed to
+work with the implementation team in transitioning joint functions into
+the FEHRM once the FEHRM has an approved charter. The interim leaders
+will manage and execute joint technical, programmatic, and functional
+requirements and synchronize strategies between the two Department EHR
+program offices to ensure the single, seamlessly integrated EHR is
+implemented with minimal risks to cost, performance, and schedule. The
+interim leaders will remain in these roles until the permanent FEHRM
+Director and FEHRM Deputy Director are appointed.
+The permanent Director and the Deputy Director will report to the
+Deputy Secretary of Defense and Deputy Secretary of Veterans Affairs.
+CONCLUSION
+The IPO will continue to support the Departments in implementing a
+single EHR system to ensure a seamless patient-centric health care
+experience that will ultimately lead to improved care for our service
+members, veterans, and their families.
+Enhancing interoperability with private providers who provide care
+to DoD and VA beneficiaries will be of the utmost importance during
+this process to ensure the availability of a complete and comprehensive
+longitudinal health record.
+We will continue our collaboration with ONC and industry partners
+to ensure the DoD and VA are employing the most current industry
+standards, and our industry partners are able to learn from our
+experiences.
+Thank you for the opportunity to speak with you today. I look
+forward to your questions.
+[all]

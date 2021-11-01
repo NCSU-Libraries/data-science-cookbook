@@ -1,0 +1,1574 @@
+- THE ELECTRIC GRID OF THE FUTURE
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+THE ELECTRIC GRID
+OF THE FUTURE
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON ENERGY
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+JUNE 7, 2018
+__________
+Serial No. 115-63
+__________
+Printed for the use of the Committee on Science, Space, and Technology
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://science.house.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+30-326PDF
+WASHINGTON : 2018
+-----------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail, [email protected]
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HON. LAMAR S. SMITH, Texas, Chair
+FRANK D. LUCAS, Oklahoma
+EDDIE BERNICE JOHNSON, Texas
+DANA ROHRABACHER, California
+ZOE LOFGREN, California
+MO BROOKS, Alabama
+DANIEL LIPINSKI, Illinois
+RANDY HULTGREN, Illinois
+SUZANNE BONAMICI, Oregon
+BILL POSEY, Florida
+AMI BERA, California
+THOMAS MASSIE, Kentucky
+ELIZABETH H. ESTY, Connecticut
+RANDY K. WEBER, Texas
+MARC A. VEASEY, Texas
+STEPHEN KNIGHT, California
+DONALD S. BEYER, JR., Virginia
+BRIAN BABIN, Texas
+JACKY ROSEN, Nevada
+BARBARA COMSTOCK, Virginia
+CONOR LAMB, Pennsylvania
+BARRY LOUDERMILK, Georgia
+JERRY McNERNEY, California
+RALPH LEE ABRAHAM, Louisiana
+ED PERLMUTTER, Colorado
+GARY PALMER, Alabama
+PAUL TONKO, New York
+DANIEL WEBSTER, Florida
+BILL FOSTER, Illinois
+JIM BANKS, Indiana
+MARK TAKANO, California
+ANDY BIGGS, Arizona
+COLLEEN HANABUSA, Hawaii
+ROGER W. MARSHALL, Kansas
+CHARLIE CRIST, Florida
+NEAL P. DUNN, Florida
+CLAY HIGGINS, Louisiana
+RALPH NORMAN, South Carolina
+DEBBIE LESKO, Arizona
+------
+Subcommittee on Energy
+HON. RANDY K. WEBER, Texas, Chair
+DANA ROHRABACHER, California
+MARC A. VEASEY, Texas, Ranking
+FRANK D. LUCAS, Oklahoma
+Member
+MO BROOKS, Alabama
+ZOE LOFGREN, California
+RANDY HULTGREN, Illinois
+DANIEL LIPINSKI, Illinois
+THOMAS MASSIE, Kentucky
+JACKY ROSEN, Nevada
+STEPHEN KNIGHT, California
+JERRY McNERNEY, California
+GARY PALMER, Alabama
+PAUL TONKO, New York
+DANIEL WEBSTER, Florida
+BILL FOSTER, Illinois
+NEAL P. DUNN, Florida
+MARK TAKANO, California
+RALPH NORMAN, South Carolina
+EDDIE BERNICE JOHNSON, Texas
+LAMAR S. SMITH, Texas
+C O N T E N T S
+June 7, 2018
+Page
+Witness List.....................................................
+2
+Hearing Charter..................................................
+3
+Opening Statements
+Statement by Representative Randy K. Weber, Chairman,
+Subcommittee on Energy, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+4
+Written Statement............................................
+6
+Statement by Representative Marc A. Veasey, Ranking Member,
+Subcommittee on Energy, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+8
+Written Statement............................................
+10
+Statement by Representative Lamar Smith, Chairman, Committee on
+Science, Space, and Technology, U.S. House of Representatives..
+12
+Written Statement............................................
+14
+Statement by Representative Eddie Bernice Johnson, Ranking
+Member, Committee on Science, Space, and Technology, U.S. House
+of Representatives.............................................
+16
+Written Statement............................................
+17
+Witnesses:
+The Honorable Bruce J. Walker, Assistant Secretary, Office of
+Electricity Delivery and Energy Reliability, Department of
+Energy; Acting Assistant Secretary, Office of Cybersecurity,
+Energy Security, and Emergency Response, Department of Energy
+Oral Statement...............................................
+19
+Written Statement............................................
+22
+Dr. John Sarrao, Principal Associate Director, Science,
+Technology, and Engineering Directorate, Los Alamos National
+Laboratory
+Oral Statement...............................................
+28
+Written Statement............................................
+30
+Mr. Robert Gramlich, President, Grid Strategies, LLC.
+Oral Statement...............................................
+37
+Written Statement............................................
+39
+Dr. Joseph A. Heppert, Vice President for Research, Texas Tech
+University
+Oral Statement...............................................
+55
+Written Statement............................................
+57
+Discussion.......................................................
+61
+Appendix I: Answers to Post-Hearing Questions
+The Honorable Bruce J. Walker, Assistant Secretary, Office of
+Electricity Delivery and Energy Reliability, Department of
+Energy; Acting Assistant Secretary, Office of Cybersecurity,
+Energy Security, and Emergency Response, Department of Energy..
+74
+Dr. John Sarrao, Principal Associate Director, Science,
+Technology, and Engineering Directorate, Los Alamos National
+Laboratory.....................................................
+80
+Mr. Robert Gramlich, President, Grid Strategies, LLC.............
+82
+Dr. Joseph A. Heppert, Vice President for Research, Texas Tech
+University.....................................................
+89
+Appendix II: Additional Material for the Record
+Document submitted by Representative Donald S. Beyer, Jr.,
+Committee on Science, Space, and Technology, U.S. House of
+Representatives................................................
+94
+THE ELECTRIC GRID OF THE FUTURE
+----------
+THURSDAY, JUNE 7, 2018
+House of Representatives,
+Subcommittee on Energy,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+The Subcommittee met, pursuant to call, at 1:07 p.m., in
+Room 2318 of the Rayburn House Office Building, Hon. Randy
+Weber [Chairman of the Subcommittee] presiding.
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. The Subcommittee on Energy will come to
+order. Without objection, the Chair is authorized to declare
+recesses of the Subcommittee at any time.
+Welcome to today's hearing titled ``The Electric Grid of
+the Future.'' I now recognize myself for five minutes for an
+opening statement.
+And by the way, we may have votes called just in short
+order, so we're going to probably be a little quicker than
+normal here, not that anything we do here is very normal.
+Today, we will hear from the Department of Energy (DOE),
+Los Alamos National Laboratory, the private sector, and Texas
+Tech University on research for creating the electric grid of
+the future. The goal of this research is to ensure energy
+delivery systems are reliable, resilient, and secure. A
+reliable grid delivers energy to consumers and businesses on
+demand regardless of the energy sources. A resilient grid keeps
+the energy flowing during an adverse event, such as a
+hurricane, and ensures a restoration of energy once an outage
+has occurred. A secure grid protects our energy infrastructure
+from hostile disruptions due to physical or cyberattacks, which
+are a growing risk as more industrial control systems are
+connected online.
+The DOE Office of Electricity Delivery and Energy
+Reliability (OE) is leading the early-stage research and
+development programs that promise to deliver advancements in
+grid technology. Small but mighty, OE has the least amount of
+funding for applied energy programs at DOE but carries out a
+vital mission through partnerships with industry and research
+conducted by the national labs.
+Los Alamos applies science expertise in physics, network
+science, algorithms, and applied mathematics to develop
+computational modeling and data analytics to help optimize
+modern electrical grids. Los Alamos developed these
+capabilities through its nuclear weapons mission. This kind of
+basic science expertise--with multi-disciplinary applications--
+is part of what makes the national lab system an incubator for
+new technologies and continues to advance research beyond its
+originally intended goals.
+Academia and industry are also partners on grid
+modernization research. Texas Tech University hosts the Global
+Laboratory for Energy Asset Management and Manufacturing, or
+GLEAMM, facility that works to develop innovative power
+technologies and advance next-generation energy delivery
+technology. GLEAMM focuses on wind, solar, battery storage,
+cybersecurity, and microgrid technologies that will all
+encompass the electrical grid of the future.
+Advanced grid technologies can have a significant impact
+when the grid is faced with weather-related events that can
+threaten reliability. This month brings the official start of
+the 2018 hurricane season, and last year, communities in my
+home State of Texas, as well as Florida and Puerto Rico, lost
+power. Modern grid technology in Texas, such as the use of
+smart meters, were able to identify power outages and quickly
+help restore power after Hurricane Harvey.
+Unfortunately, while they have made significant progress
+rebuilding capabilities, there are still communities in Puerto
+Rico without power. That's why DOE, OE, and five national labs
+led by Argonne National Laboratory are working daily to provide
+grid modeling tools to Puerto Rico. The national labs are
+combining their current skills and capabilities in order to
+help Puerto Rico to plan, to operate, and to rebuild a more
+resilient grid. These models help grid operators better predict
+where the highest risk of power disruption could be and
+determine the potential impacts on critical power loads that
+support Puerto Rico's public health and its safety
+infrastructure.
+The national labs hope by improving existing grid models
+the island will be able to make key investments in resilient
+energy infrastructure before the current hurricane season.
+Additional analysis will inform Puerto Rico on long-term
+investment priorities for electrical transmission,
+distribution, renewable energy, battery storage, microgrids,
+and strategic power reserves.
+The partnership between the federal government, the
+national labs, academia, and industry has the potential to
+transform energy delivery systems. As we continue supporting
+advanced grid research, I would like to learn more about how
+DOE can improve the development of new technology and our
+understanding of electrical systems.
+I want to thank our panel of witnesses for their testimony
+today, and I look forward to a positive discussion about grid
+modernization research.
+[The prepared statement of Chairman Weber follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. I now recognize the Ranking Member of the
+Subcommittee, the gentleman from Texas, Mr. Veasey, for an
+opening statement.
+Mr. Veasey. Thank you, Mr. Chairman, and my fellow Texan,
+and everyone else that is here today, our distinguished panel.
+Just last week, I want to remind everybody that a White
+House memo was leaked that raised several questions. It
+detailed a plan to direct the Energy Secretary, also from
+Texas, to use authorities vested in him from the Federal Power
+Act and the Defense Production Act to save coal and nuclear
+power plants. Section 202 of the Federal Power Act has
+historically been used to address energy supply concerns
+related to natural disasters, other major energy shortages.
+Likewise, the Defense Production Act is a Cold-War-era statute
+that allows the President to nationalize elements of U.S.
+industry in the interest of national security.
+This proposal has been roundly criticized by a wide range
+of trusted independent experts, including Wall Street Journal
+editorial page, as poorly justified and legally dubious. Our
+utilities, States, and researchers do the hard work of
+hardening our energy infrastructure to cybersecurity threats
+and national disasters, and meanwhile, the Trump Administration
+is inventing emergencies to bail out coal and nuclear plants
+while ignoring the real problems.
+I'm sure the White House views this legal loophole that
+surfaced in the leaked memo as an easy way to try to fulfill
+campaign promises, which is very bad and very unsound when it
+comes to energy policy. However, the real impact has not been
+thought through by the Administration.
+It would wreak havoc on our energy markets and create a
+number of misaligned incentives. As severe weather, driven by
+climate change, becomes more intense and damaging to the
+electric grid, this Administration wants to address the problem
+by offering financial bailouts and picking winners and losers
+as it relates to coal, and any reasonable person would agree
+that this seems backward. Moreover, it wouldn't do anything to
+make the electric grid more resilient.
+The grid experts that have examined the issue would
+characterize our nation's priorities far differently than this
+politically motivated Administration does. That is why FERC
+unanimously--they unanimously rejected Secretary Perry's last
+proposal to bail out coal and nuclear power plants. And while
+the Trump Administration works with coal CEOs to craft a plan
+to benefit the industry's bottom dollar, the American people
+are being left behind.
+And I look forward to hearing today from Mr. Gramlich today
+on his recent report titled ``A Customer-Focused Framework for
+Electric System Resilience.'' I can't think of a better way to
+approach this issue. The purpose of the electric grid is to
+provide reliable, affordable power to customers. Any
+conversation that does not first consider the customer is not
+worth having.
+And while I am critical of these actions by Secretary Perry
+on grid resilience, I want to be clear that I strongly support
+developing advanced technologies to enable carbon capture on
+coal-fired power plants and the next generation of nuclear
+reactors. In fact, I just introduced a bipartisan bill, H.R.
+5745, the Fossil Energy Research and Development Act of 2018,
+that would authorize activities to support the development of
+technologies and methods for carbon capture, storage,
+utilization, and removal. It is the most comprehensive
+legislative proposal for fossil energy research in Congress
+today. So I certainly have no issues with federal support for
+these energy options. I just think that we need to be a lot
+smarter about how we approach these issues.
+We're very fortunate to have Assistant Secretary Bruce
+Walker with us today. I look forward to hearing justifications
+for the actions proposed by Secretary Perry in the White House
+memo, as it was proposed to FERC. I also look forward to
+hearing your priorities for the Office of Electricity.
+In the fiscal year 2019 budget proposal, the Administration
+requested a severe 37 percent cut to the Office of Electricity
+and reorganization of these investments. I'm sure we'll discuss
+that here shortly. And again, while I'm not opposed to the
+reorganization in concept, I'm curious how splitting DOE's
+smallest energy technology offices into two offices will ensure
+that these activities continue to be a priority in years to
+come.
+And before I close, I also would like to take some personal
+privilege to note that, unfortunately, this will be the last
+time that Joe Flarida will be staffing us here on the Committee
+at least in this Congress. That's because he recently won the
+Bosch Foundation Fellowship and will be heading to Germany in a
+few weeks. I know that staff on both sides of the aisle
+recognize that Joe has done a tremendous job for the
+Subcommittee in his time here.
+Sehr gut, Herr Flarida. Auf wiedersehen. And we look
+forward to seeing you when you come back.
+He played a very key role in negotiating a bipartisan,
+bicameral legislative package, the Department of Energy
+Research and Innovation Act, that has since passed the House
+and is now advancing in the Senate. And he was the lead staffer
+in developing and vetting language for the fossil energy
+research bill that I previously mentioned. That bill has now
+been endorsed by a broad and impressive coalition of
+stakeholders, and I know that would not have happened without
+all the hard work that Joe put into this effort.
+We wish you luck, and I hope that we can find a way to work
+together again. And I know you're going to have a great
+opportunity overseas. Congratulations, Joe.
+And, Mr. Chairman, I yield back.
+[The prepared statement of Mr. Veasey follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you. I'm not sure what you said in
+German, but I did speak with Joe a few weeks back about them
+going over there and told him he needs to learn to speak
+German, but, more importantly, since they're thinking about
+starting a family, he better learn to speak wife. I'm just
+saying. So thank you, Mr. Veasey.
+I now recognize the Chairman of the full committee, Mr.
+Smith.
+Chairman Smith. Thank you, Mr. Chairman.
+The Subcommittee today is going to examine the Department
+of Energy's effort to modernize the electrical grid, and I very
+much look forward to hearing what our witnesses have to say on
+that subject.
+DOE, our national laboratories, and universities across the
+country are working to develop next-generation technologies
+that will make up our future electric grid. This critical
+research and development will help address vulnerabilities that
+range from cyberattacks to natural disasters.
+Another challenge is developing grid-scale battery storage
+and incorporating that into our electric grid. Renewable energy
+and distributed energy resources are changing the way
+electricity is produced and delivered throughout the nation.
+These energy sources are intermittent and depend on the sun to
+shine and the wind to blow. Without the capacity to efficiently
+store the energy produced from renewable energy, these
+resources can only make a minimal contribution to America's
+electricity needs. Energy storage is the key to modernizing the
+grid without sacrificing reliability.
+My home State of Texas offers a ready example of the impact
+battery storage could have on harnessing renewable power. Texas
+is the top wind-producing State in the country, so it's no
+surprise that Sandia National Laboratory chose to partner with
+Texas Tech University on a wind-energy field testing site in
+Lubbock, Texas. The Scaled Wind Farm Technology Facility, or
+SWiFT, brings together academia, industry, and the expertise
+found only at the national laboratories to test and develop
+wind energy technology. While SWiFT's primary objectives are to
+improve wind turbine performance and the efficiency of wind
+energy production, SWiFT also provides a testbed for supporting
+wind power with battery technology.
+Researchers at SWiFT are testing different battery
+chemistries and designs to harness the power of wind energy on
+demand. Breakthroughs in grid-scale battery storage technology
+will help incorporate renewable energy resources into the
+nation's energy mix. But scaling up batteries will necessitate
+addressing cost, efficiency, and size limitation problems. DOE
+research and development can provide these solutions and build
+the foundation for the next fundamental breakthrough in modern
+grid technology.
+And DOE continues to prioritize the Grid Modernization
+Initiative, a crosscutting research program that harnesses the
+skillsets of individual labs to develop new grid technologies.
+At Los Alamos National Laboratory, home to one of today's
+witnesses, researchers are developing new power system designs
+that will improve the reliability and resiliency of the grid.
+With the technical expertise developed through its nuclear
+weapons program, Los Alamos uses applied mathematics and
+advanced modeling capabilities to research multiple energy
+resource delivery systems.
+The national laboratories are also home to the Joint Center
+for Energy Storage Research Energy Innovation Hub. The DOE hub
+brings scientists, engineers, and manufacturers together in
+order to develop transformative energy storage technologies.
+H.R. 589, the DOE Research and Innovation Act, has passed the
+House and authorizes the Department of Energy Energy Innovation
+Hub program to continue this important collaborative research
+effort. By developing a better battery, national labs and
+universities can help the private sector lead the way and bring
+battery storage technology to the energy marketplace. This
+early-stage research will help create a modern, reliable,
+resilient grid, and that's what we all need in this country.
+Thank you, Mr. Chairman, and I'll yield back.
+[The prepared statement of Chairman Smith follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. I thank the gentleman for yielding back.
+It is now my distinct privilege to yield to the Ranking
+Member of the full committee, Ms. Johnson.
+Ms. Johnson. Thank you very much, Mr. Chairman. Let me get
+my breath.
+Let me thank all the witnesses for being here today. DOE's
+Office of Electricity support programs that are critical to
+improving the flexibility and reliability to our electric grid
+while also enabling a broad range of clean energy resources to
+play a far larger role in our nation's power and transportation
+sectors. This is another reason that I'm so concerned about the
+Administration's budget proposal for the Department, which
+would cut funding for this office by 37 percent, and that
+overall cuts includes 62 percent cut to clean energy
+transmission and reliability, a 74 percent cut to smart grid
+research, and an 81 percent energy storage R&D.
+Despite the fact that Secretary Perry has now referred to
+energy storage as the Holy Grail of energy in several
+Congressional hearings, these large proposed cuts to energy
+reliability and resilience research are also curious in light
+of several recent proposals made by the Secretary to take
+unprecedented urgent actions that would prop up uneconomic
+power plants under the guise of ensuring the reliability and
+resilience of our electric grid.
+Independent experts across the political spectrum have
+resoundedly rejected these proposals in favor of far more
+rigorous, well-justified approach to addressing these issues,
+while continuing to make substantial progress toward our
+nation's clean energy future. And I believe Mr. Gramlich will
+be able to discuss more--in more detail. There's no reason that
+we can't have a secure, clean, reliable, and resilient energy
+sector that takes advantage of a broad range of our resource
+and technology options, including renewables, energy storage,
+nuclear power, and fossil fuels with carbon capture without
+going to such an extreme of ill-conceived lengths to save one
+particular resource at the expense of the others.
+Lastly, I'd like to take this opportunity to note sadly
+that this will be the Committee's last hearing staffed by Joe
+Flarida at least for now. He will--he's worked for us over the
+last five years, started out as an intern, and rising to become
+one of the top staffers of our Energy Subcommittee team. He's
+done an outstanding job. He's the son of a nurse. He's a highly
+professional--he's done highly professional work throughout his
+time on the Committee, including developing several
+substantive, well-vetted, bipartisan legislative proposals that
+I'm confident will continue to advance even as he moves to
+bigger and better things.
+He's leaving because he's won the prestigious Bosch
+Foundation Fellowship. In a few weeks, he'll be moving to
+Germany for one year. And I'd like to congratulate you, Joe,
+and wish you well and hope you'll come back to see us after
+you've made our country proud.
+I thank you, Mr. Chairman. I yield back.
+[The prepared statement of Ms. Johnson follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. The gentlelady yields back, and I do echo
+her comments. Can we all give Joe a hand?
+[Applause.]
+Chairman Weber. I will introduce the witnesses. Our first
+witness today is Hon. Bruce Walker, the Department Of Energy's
+Assistant Secretary for the Office of Electricity and the
+Acting Assistant Secretary for the Office of Cybersecurity,
+Energy Security, and Emergency Response. Assistant Secretary
+Walker has more than 25 years of electric utility experience,
+previously working as the Vice President of Asset Strategy and
+Policy at National Grid and Director of Corporate and Emergency
+Management at Consolidated Edison of New York. He is the
+founder of Modern Energy Insights, Inc., and the cofounder of
+Global Smart Grid Federation. Assistant Secretary Walker has
+served as a member of DOE's Electricity Advisory Committee, an
+advisory committee for the Megawatt-Scale Integration Lab, and
+was a member of GridWise Alliance, Incorporated.
+He was confirmed as Assistant Secretary by the United
+States Senate in October of 2017. He holds a bachelor of
+electrical engineering from Manhattan College and a juris
+doctorate in law from Pace University where he was the
+technical editor on the Environmental Law Review. Welcome, Mr.
+Walker.
+Our next witness is Dr. John Sarrao--am I saying that
+right? Okay--the Principal Director for Science, Technology,
+and Engineering at Los Alamos National Laboratory. Previously,
+Dr. Sarrao was the Program Director for Los Alamos Office of
+Science Programs and Matter-Radiation Interactions in Extremes
+facility. From 2013 to 2018, he served as LANL's Associate
+Director for Theory, Simulation, and Computation where he
+applied science-based predictions to existing and emerging
+national security missions.
+Dr. Sarrao has held a number of leadership positions within
+LANL's materials community, including Division Leader of the
+Materials, Physics, and Application Division and Group Leader
+of Condensed Matter and Thermal Physics. He has also served on
+a number of DOE Basic Energy Sciences Advisory Committees
+(BESAC) subcommittees, helping to set strategic directions for
+materials research.
+Dr. Sarrao is a Fellow of the American Association for the
+Advancement of Science, the American Physical Society, and Los
+Alamos National Laboratory. He received his Ph.D. in physics
+from the University of California Los Angeles. Welcome, Doctor.
+Mr. Rob Gramlich, our next witness, is President of Grid
+Strategies, LLC. Prior to his current position, Mr. Gramlich
+oversaw transmission policy at the American Wind Energy
+Association as Senior Vice President for Government and Public
+Affairs, Interim CEO, and Policy Director. He was Economic
+Advisor to FERC Chairman Pat Wood, III, from 2001 to 2005. He
+has served on advisory committees for the United States
+Department of Energy and the North American Energy Standards
+Board as Vice Chair of the Business Council for Sustainable
+Energy and as Interim Executive Director of the Wind Energy
+Foundation.
+Mr. Gramlich has been the recipient of Energy Systems
+Integration Group Award, American Wind Energy Association's
+Technical Achievement Award, and the FERC's Exemplar of Public
+Service Award. He received a bachelor of arts with honors in
+economics from Colby College and a master of public policy from
+the University of California Berkeley. Welcome, Mr. Gramlich.
+I now recognize the Chairman of the full Committee, Mr.
+Smith, to introduce our last witness.
+Chairman Smith. Okay. Thank you, Mr. Chairman. I appreciate
+being able to introduce our last witness today, and that is Dr.
+Joseph Heppert, who is Vice President for Research at Texas
+Tech University. It so happens that my district includes
+Fredericksburg, Texas, which has a satellite campus of Texas
+Tech with about 200 students, and believe me, I leverage that
+to the maximum extent possible.
+We are glad to welcome Dr. Heppert today to hear about how
+Texas Tech is contributing to research that benefits the
+electric grid. Previously, Dr. Heppert served as Associate Vice
+Chancellor for Research at the University of Kansas. He also
+chaired KU's Chemistry Department and was the founding Director
+of the University Center for Science Education.
+Dr. Heppert has been active in projects to improve science
+teaching and science teacher preparation and is the past Chair
+of the American Chemical Society's Committee on Education. He
+is a fellow of the American Chemical Society and currently
+serves as Chair of the American Chemical Society's Committee on
+Budget and Finance.
+Dr. Heppert received a bachelor of science in chemistry
+from San Jose State University and a Ph.D. in inorganic
+chemistry, often thought to be the toughest subject, from the
+University of Wisconsin Madison.
+Dr. Heppert, we welcome you and appreciate what Texas Tech
+is doing.
+I yield back, Mr. Chairman.
+Chairman Weber. Thank you, Mr. Chairman, and thank you to
+all the witnesses for being here today.
+I now recognize Assistant Secretary Walker for five minutes
+to present his testimony.
+TESTIMONY OF THE HONORABLE BRUCE J. WALKER,
+ASSISTANT SECRETARY, OFFICE OF ELECTRICITY DELIVERY
+AND ENERGY RELIABILITY, DEPARTMENT OF ENERGY;
+ACTING ASSISTANT SECRETARY, OFFICE OF CYBERSECURITY,
+ENERGY SECURITY, AND EMERGENCY RESPONSE,
+DEPARTMENT OF ENERGY
+Mr. Walker. Thank you, Chairman. Chairman Weber, Chairman
+Smith, Ranking Member Veasey, and Ranking Member Johnson, and
+distinguished Members of the Subcommittee, I appreciate the
+opportunity today to discuss the priorities and research
+programs within the Department of Energy's Office of
+Electricity and Office of Cybersecurity, Energy Security, and
+Emergency Restoration.
+The Department of Energy is focused on ensuring that the
+energy infrastructure is capable of securing our national
+security. Therefore, the resilience and reliability of the
+nation's electric grid is of the utmost importance. OE and
+CESER collaborate with industry, academia, state and local
+governments, and other energy sector stakeholders on numerous
+research and development programs to achieve these objectives.
+Using the definitions set forth in the Presidential Policy
+Directive 21, resilience is defined as, ``the ability to
+prepare for and adapt to changing conditions and withstand and
+recover rapidly from disruption. Resilience includes the
+ability to withstand and recover from deliberate attacks,
+accidents, or naturally occurring threats or incidents.''
+DOE, which is a national security agency with a
+comprehensive intelligence community-informed view of
+resilience, recognizes that the energy sector has been the main
+focus of cyber and physical threat attacks. I will seek to
+highlight the actions we at DOE are taking to address the very
+real risks we face.
+First, the former Office of Electricity Delivery and
+Reliability has been divided into two separate departments in
+order to significantly increase the focus commensurate with the
+known risk of cyber and physical threats, thereby creating the
+Office of Cybersecurity, Energy Security, and Emergency
+Response, as well as the Office of Electricity.
+My office's first priority is the creation of a North
+American Energy System Resiliency model. This model capitalizes
+on previous national lab work and is being leveraged to fully
+understand the resiliency risks associated with operating a
+highly diversified, regionally isolated grid that supplies
+electric energy for North America. Most importantly, the model
+will include analysis regarding the significant
+interdependencies that have evolved over the last couple
+decades between the various energy infrastructures.
+Significantly, the model will highlight where there are
+strategic opportunities for specific capabilities offered by
+certain types of infrastructure, for example, energy storage
+for frequency control. Most importantly, from DOE's vantage
+point, the model will inform national security investments that
+will improve our overall resiliency capability.
+Another priority for OE is to revolutionize sensing
+technology utilization. The goal is to use high-fidelity,
+reasonable cost-sensing technology to integrate near real-time
+data into the North American grid model. We will also be able
+to use signature recognition and correlation modeling informed
+by artificial intelligence and machine-to-machine learning to
+significantly improve the performance of the grid. Furthermore,
+these efforts will enable strategic investments by highlighting
+system vulnerabilities and enhance the integration of
+distributed energy resources in the use of microgrids and
+energy storage.
+Storage, the Holy Grail of energy, has a huge role to play
+in national security. There are various initiatives within DOE
+focused on storage from pump storage to flow batteries. There
+has never been a time where the availability of megawatt-scale
+storage has been more important. OE is pursuing storage
+technology capable of providing reactive and real-power control
+for bulk and distribution power systems, as well as frequency
+control.
+Working with the national laboratories, OE is pursuing
+three high-probability capabilities: flow batteries using
+aqueous soluble organics, sodium-based batteries, and
+rechargeables--zinc manganese dioxide batteries.
+The potential contributions of storage to enhance national
+security across North America are astounding. OE and CESER are
+members of the Grid Modernization Initiative. The GMI focuses
+on the development of new architectural concepts, tools, and
+technologies that will better measure and analyze, predict, and
+protect the grid. Originally consisting of OE and the Office of
+Energy Efficiency and Renewable Energy, the GMI has been
+expanded to include CESER, the Office of Fossil Energy, and the
+Office of Nuclear Energy to ensure a coordinated and
+comprehensive DOE approach to R&D.
+The Grid Modernization Lab Consortium is part of the GMI,
+and it established a strategic partnership between DOE and the
+national labs. We are presently defining the next multiyear
+plan to continue our efforts for our R&D projects within--with
+our labs.
+In conclusion, the energy sector continues to face
+challenges and threats every day. The Department continues to
+pursue diverse yet targeted R&D projects to further enhance the
+resilience and reliability of our nation's grid and energy
+infrastructure necessary to ensure national security. The
+cutting-edge technologies developed at our national labs and
+the ongoing research and development conducted in collaboration
+with our public- and private-sector partners will continue to
+strengthen the resilience and reliability of the grid for years
+to come.
+Thank you, and I look forward to your questions.
+[The prepared statement of Mr. Walker follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, sir.
+Dr. Sarrao, you're recognized for five minutes.
+TESTIMONY OF DR. JOHN SARRAO,
+PRINCIPAL ASSOCIATE DIRECTOR,
+SCIENCE, TECHNOLOGY,
+AND ENGINEERING DIRECTORATE,
+LOS ALAMOS NATIONAL LABORATORY
+Mr. Sarrao. Chairman Weber, Chairman Smith, Ranking Member
+Veasey, Ranking Member Johnson, members of the subcommittee,
+thank you for the opportunity to address future research
+opportunities for the United States' electric grid and to
+describe the many benefits and reduced risks that would result
+from a more integrated, resilient, and modernized grid
+infrastructure.
+My name is John Sarrao, and I'm the Principal Associate
+Director for Science, Technology, and Engineering at Los Alamos
+National Laboratory in New Mexico. My personal research and
+technical leadership career has emphasized national security
+science from plutonium physics research to advanced materials
+design and discovery to stewarding Los Alamos' high-performance
+computing resources and simulation capabilities.
+Energy security is a national security priority, and Los
+Alamos National Laboratory has contributed meaningfully to
+energy security in general and grid resilience research in
+specific for many years. The challenges that today's domestic
+electricity grid face include the need for enhanced resilience
+against both natural events and external actors, robust
+optimization and control capability for integrating renewables,
+and expanded tools for grid operators to detect anomalies,
+including the effective utilization of machine-learning
+methods.
+In responding to these challenges, Los Alamos brings
+expertise in physics and engineering, applied math and
+statistics, and simulation and computation. We further have a
+proven track record of providing mission-centric reach-back
+expertise in weapons physics and design, including weapons
+effects, high-fidelity and multiscale earth systems modeling,
+and space science and space weather capabilities.
+Finally, Los Alamos is deeply committed to workforce
+development and idea dissemination, hosting a regular Grid
+Science Winter School and Conference to help educate and expand
+the grid research community.
+To further support these efforts, Los Alamos has launched
+the Advanced Network Science Initiative, ANSI. ANSI is designed
+to facilitate cross-project basic and applied research that is
+focused on modeling and understanding the nation's critical
+infrastructures such as electric power, water, petroleum, and
+natural gas.
+Given our demonstrated history in infrastructure analysis
+and grid research, Los Alamos was excited to participate in the
+Grid Modernization Laboratory Consortium, the GMLC, beginning
+in fiscal year 2016. The initiative has allowed a number of
+national laboratories to work together, bringing their
+complementary capabilities to bear on key challenges and
+delivering positive impacts for our electricity grid.
+As we look to the future of grid research both under the
+auspices of GMLC and more broadly, Los Alamos sees several
+important challenges that need to be addressed: first, complex
+threats to U.S. power systems. U.S. power systems are
+potentially vulnerable to large-scale impacts from complex
+threats, including geomagnetic disturbances and electromagnetic
+pulses from a high-altitude nuclear detonation.
+Second, cyber physical threats. Cyber or combined cyber and
+physical attacks on infrastructure can have widespread and
+lasting impacts on critical infrastructure. Developing a cyber-
+physical impact and consequences modeling and simulation
+capability will enable stakeholders to assess the possible
+consequences of different types of cyber attacks on critical
+infrastructure and prioritize additional investments.
+Third, gas-grid coupled systems. Natural gas pipelines are
+a key energy infrastructure for the United States, and they are
+only becoming more so with the addition of supply from
+unconventional natural gas resources. The expansion of central-
+plant natural gas-fired electric generation in the electric
+transmission system and the expected expansion of gas-fire
+distributed generation in the electric distribution system
+would further expand that.
+And fourth, grid-water network coupling and control.
+Potable and wastewater systems are major electrical loads that
+can be controlled to the benefit of both the water and
+electrical systems. With storage naturally built in, potable
+water networks are an infrastructure that could play a key role
+in advanced control and optimization of the electrical system.
+However, these water resources must also maintain their own
+reliability and resilience.
+I appreciate the opportunity in these brief remarks to
+describe some of the future challenges and research
+opportunities for the United States' electric grid that we see
+at Los Alamos. Success in these endeavors would result in a
+more integrated, resilient, and modernized grid infrastructure.
+The Grid Modernization Laboratory Consortium has been a
+positive step forward in addressing these issues, and Los
+Alamos has been proud to play a role in GMLC with our peer
+national laboratories. As we look to the future, we see
+additional challenges in responding to complex threats,
+including cyber-physical challenges, to our grid
+infrastructure, and in considering the integrated systems of
+systems represented by our coupled gas and electrical
+infrastructure at both the transmission and distribution
+scales.
+In closing, I would like to thank you again for the
+opportunity to appear before the Subcommittee. I look forward
+to answering any questions that you might have.
+[The prepared statement of Mr. Sarrao follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Thank you, Doctor.
+Mr. Gramlich, you are recognized for five minutes.
+TESTIMONY OF MR. ROBERT GRAMLICH,
+PRESIDENT, GRID STRATEGIES, LLC.
+Mr. Gramlich. Thank you, Chairman Weber, Ranking Member
+Veasey, and Members of the Subcommittee, for inviting me to
+testify on the electric grid of the future.
+Since modern society requires affordable, clean, and
+reliable electricity for most commercial and personal pursuits,
+there is no infrastructure more important than the interstate
+electric network. While reliability is very high and growing,
+as reported by NERC just today over at FERC across town, the
+grid is evolving rapidly and threats are changing. We need to
+expand grid capacity, implement protections against severe
+weather and cyber and physical attack, and make more efficient
+use of the existing grid.
+DOE's Office of Electricity (OE) can play a key role in
+each of these areas. OE can contribute by continuing research
+development and demonstration of new technologies for the grid,
+promoting grid expansion through permitting and studies,
+developing and bringing grid operations technologies to market,
+developing customer and reliability and resilience options for
+critical uses such as military facilities and hospitals, and
+supporting studies of bulk power system reliability to address
+the evolving resource mix and evolving threats.
+The National Academies of Sciences recently had a
+resilience report that had 12 recommendations. Eight of those
+were for DOE. OE could play a lead role in implementing those
+recommendations.
+Given the importance of a reliable electric grid to modern
+society and the critical role it plays in integrating new both
+centralized and distributed resources and managing various
+threats, OE should have far greater resources than it has. At
+the same time, OE resources and attention should not be
+diverted to support the recently announced presidential
+directive to extend the lives of old coal and nuclear plants.
+Subsidizing such resources will ultimately harm rather than
+help customers, and OE's work on it will detract from its
+otherwise important mission.
+There is no basis for this directive or for DOE action
+under the Federal Power Act, section 202(c); or the Defense
+Production Act. The directive ignores some basic facts about
+electricity. It ignores that coal and nuclear plants are just
+as susceptible to cyber attack as any other facility. It
+ignores the fact that coal plants have fuel delivery
+interruptions and often have mechanical failures during cold
+weather. It ignores the fact that both coal and nuclear plants
+are particularly vulnerable to droughts, and there is some
+evidence to suggest EMP attacks as well. And it ignores that
+coal and nuclear plants shut down in response to voltage
+infrequency deviations and a narrower band of tolerance than,
+for example, wind plants. This is actually what happened in the
+2003 blackout affecting 50 million people when a large
+FirstEnergy coal plant automatically shut itself down.
+The point here is not to--oh, I should also say the
+directive ignores that 50-year-old plants have outage rates
+that are typically three times as high as new plants. So the
+point here is not to criticize any one technology or couple of
+technologies. All technology, all generating resources have
+their strengths and weaknesses and contribute to reliability
+and resilience in different ways, but none of them are
+essential.
+Reliability comes from having reserves. All generators fail
+to operate at some point. In fact, each region already has a
+strategic electric generation reserve. It's called a reserve
+margin, and they are in a significant surplus condition right
+now in most regions. So whether or not there are national
+security interests at stake, the proposed solution will not
+help.
+Due to the futility of this directive, OE should steer
+clear of it and focus on what matters for electricity
+customers. OE's modeling to support the bailout plan should be
+scrutinized carefully so that resources are not diverted from
+valuable work on reliability, resilience, efficiency, and the
+grid's evolution, given changes in the resource mix and
+evolving threats. It will be important for Congress to
+rigorously oversee the Department of Energy and OE specifically
+to ensure that important work gets done and taxpayer dollars
+are not wasted on ill-conceived programs.
+Thank you.
+[The prepared statement of Mr. Gramlich follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. Dr. Heppert, you're recognized for five
+minutes.
+TESTIMONY OF DR. JOSEPH A. HEPPERT,
+VICE PRESIDENT FOR RESEARCH,
+TEXAS TECH UNIVERSITY
+Dr. Heppert. Good morning, Chairman Weber, Chairman Smith,
+and Members of the Subcommittee. I'm Vice President for
+Research and Professor of Chemistry at Texas Tech University,
+and I'm pleased to address you today on behalf of Texas Tech
+University.
+Texas Tech University's original mandate was to serve the
+educational needs of the citizens of West Texas, but its
+ambitions, as framed by its first President, have always been
+to make a mark in education, scholarship, and innovation for
+the nation and the world.
+Today, Texas Tech University--or ``Tech'' as it's often
+referred to--ranks among the major public research universities
+in the United States. As many of you know from working with
+research universities in your states and districts, these
+institutions play a critical innovative role in defining the
+future of energy grid research.
+Both natural hazards and actions by our adversaries can
+pose significant threats to our grid. In--the 2017 hurricane
+season was a harrowing reminder of the intense suffering and
+economic loss that natural events can inflict on regional
+scales. Communities in Texas, Florida, and Puerto Rico were--
+and in some cases continue to be--devastated in the aftermath
+of these storms. Based on modern scientific models of future
+weather events, the world can expect more frequent and more
+intense disruptions of this nature.
+At the same time, there's a growing consensus that future
+conflicts among major military and economic adversaries may
+involve preliminary skirmishes in cyberspace with grid
+infrastructure as a prime target. Indeed, some recent cases
+provide indications that both state and nonstate actors have
+already targeted and demonstrated an ability to threaten our
+grid. On top of this, any grid of tomorrow must be developed
+with the assumption that the market for renewable energy
+generation will only continue to grow and, in turn, provide a
+more decentralized and therefore resilient system.
+In light of these challenges and with generous support of
+the State of Texas, Department of Energy, and partners in
+industry and at the national laboratories, Texas Tech has been
+working hard to address a central question: How can we make the
+U.S. energy grid more secure, reliant, robust, and, perhaps
+most importantly, resilient when under threat?
+Through the pioneering work of faculty at Texas Tech, we're
+providing answers. Dr. BeiBei Ren in Texas Tech University's
+Whitaker College of Engineering has developed a novel
+architecture for smart grids that allows an array of diverse
+power sources to interface with the grid. Her research has
+overcome a major hurdle to enabling reliable, resilient, and
+affordable grid integration of renewables with the real-world
+applicability of helping to rebuild Puerto Rico's communication
+infrastructure post-Hurricane Maria.
+Dr. Stephen Bayne, a senior faculty member in the Whitaker
+College of Engineering's Department of Electrical Engineering,
+is a distinguished power grid researcher. Dr. Bayne's group
+continues to develop techniques that enable grid integration
+when incorporating renewable energy sources and have placed a
+number of instruments across Texas to monitor grids in near
+real time. This research, when coupled with innovative models
+to determine and predict the performance of systems relying on
+distributed generation such as wind, is critical to a more
+resilient and reliable grid.
+In 2015, the State of Texas provided $13 million for Texas
+Tech University and several partners to construct GLEAMM. When
+fully operational later this year, the Global Laboratory for
+Energy Asset Management and Manufacturing will provide a world-
+class distributed generation microgrid and unique platform for
+field-testing certification and optimization of renewables and
+grid systems, new hardware and software solutions for managing
+grid function, and cybersecurity of grid systems. This work
+would not be possible without the support of Secretary Rick
+Perry. His vision as Governor of the State of Texas was
+critical to making this facility possible.
+The innovative team of researchers across Texas Tech
+University is committed to a research vision that enables the
+electric grid of the future. Over the next four years, we
+intend to invest a minimum of $8 million in research into
+cybersecurity and energy grid resiliency to enable the creation
+of a sustainable and diverse energy economy. We're confident
+this investment will help the nation attain its goals in energy
+security, traditional and alternative energy utilization, and a
+21st-century energy grid.
+I'm proud to have the opportunity to share Texas Tech's
+capabilities, our expansive vision for the future, and serve as
+a resource for this subcommittee. I look forward to answering
+your questions. Thank you for this invitation, and, go Tech.
+[The prepared statement of Dr. Heppert follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairman Weber. I'll leave that alone.
+So they've called votes, so we're going to recess, and we
+will reconvene immediately following the last vote.
+[Recess.]
+Chairman Weber. This hearing is now reconvened. I thank the
+witnesses for their testimony. The Chair recognizes himself for
+five minutes of questioning.
+Mr. Walker, in your testimony, you stress that OE's
+priorities are the development of grid modeling capabilities,
+megawatt-scale grid storage, and the Grid Modernization
+Initiative. As the smallest of the applied energy offices at
+DOE, how are you able to accomplish your research and
+development goals with a tight budget, number one? I guess,
+essentially, how does the OE do more with less? What do you
+say?
+Mr. Walker. Thank you, Congressman, for the question. The
+focus with OE is definitely on those three things, as well as
+sensing technology. And how we accomplish our mission is
+through the hard work of the people within OE and CESER working
+in concert with the other applied sciences at DOE, so among
+fossil energy, nuclear energy, and the energy efficiency,
+primarily relying on the platform of the GMI, the GMLC, and
+that's in fact why we expanded the charter to include those
+other applied sciences to be able to leverage and ensure that
+the investments we make are the best across the entire
+department and to leverage the resources, you know, equally
+from a national security perspective.
+Chairman Weber. So prioritize. The programs within OE are
+squarely within the applied energy mission of the Department,
+and OE research goals are closely tied to the needs of the
+energy industry. The Department's fiscal year 2019 budget
+request places an importance on federal funding only toward
+early-stage research programs--only towards early-stage
+research programs. What steps have you taken to ensure
+responsible stewardship of those taxpayer dollars by funding
+only the R&D that cannot be performed by the energy industry?
+Mr. Walker. So at OE we focus very much on early-stage
+research, utilizing our capabilities both on the CESER side, as
+well as OE, to identify where are the cutting-edge technologies
+that will not be, by virtue of the cost and, more importantly,
+the intellectual capability that is realized through our
+national labs. So we identify, using a risk-based approach, how
+to best invest that money.
+Chairman Weber. I thank you. Dr. Heppert, this question is
+for you. In your testimony, you explain how Texas Tech
+University partners with both Sandia National Lab and the
+private industry to conduct research. What is the difference
+between research conducted at the GLEAMM facility and the
+research conducted at the Sandia SWiFT site? And should there
+be more coordination between the national labs and academia on
+grid challenges like those identified in the GMI?
+Dr. Heppert. Sure. I think there's a degree of commonality
+in terms of some of the research. The SWiFT site really has
+been a testbed for understanding windfarms and the fundamental
+impact of atmospherics and of fluid flow through windfarms.
+We've got highly instrumented systems there with radar that can
+help us model that and help us understand the impact of
+environmental circumstances on the performance of those
+systems. So it's really in part about predictive modeling and
+understanding how to optimize the configuration and structure
+of future windfarms, okay?
+The GLEAMM system is really going to be a testbed that will
+allow us to actually connect to some of these existing
+resources in addition to some resources that are held in the
+private sector nearby of both wind power, solar power, and
+battery capabilities. The focus there is really going to be on
+being able to testbed new technologies, both software and
+hardware technologies, to allow us to understand how to better
+integrate those and more seamlessly integrate those systems;
+model in real time, be able to model conditions that are going
+to lead to grid--potentially to grid failure; and understand,
+using artificial intelligence strategies, how we can more
+effectively integrate these; and also how we can improve and
+enhance the economics of utilizing energy from these systems as
+well.
+So I would say on the one side we're talking about looking
+more at the fundamentals of wind, and we're very pleased on
+that side that we'll be helping to cohost the wind blade design
+conference that Sandia has held for many years at Sandia this
+year in Lubbock. But on the other side, we're looking more at
+how we truly integrate these other technologies effectively.
+And it'll be a great testbed for being able to take, as I said,
+both AI technology and new power grid technologies hardware and
+integrate them into a system.
+Chairman Weber. Thank you for that. Can you get the dates
+of that conference to our staff here?
+Dr. Heppert. I'll be happy to do that.
+Chairman Weber. Yes, okay. Thank you.
+At this time the Chair recognizes Mr. Takano for five
+minutes.
+Mr. Takano. Thank you, Mr. Chairman.
+Dr. Heppert and Dr. Sarrao, the Trump Administration has
+proposed a 37 percent cut in fiscal year 2019 for the Office of
+Electricity, or OE, which stewards the largest portion of our
+federal investments in grid research. Within OE, the budget
+proposes a number of steep cuts to important research,
+including a 74 percent cut to smart grid research, a 67 percent
+cut to clean energy transmission and reliability, and an 81
+percent cut to energy storage research and development.
+I just want to know from all of you, what role do you think
+energy storage and the development of battery storage can play
+when it comes to distributing wind and solar, as well as grid
+resilience?
+Dr. Heppert. Well, I would say that the magnitude of the
+cuts you're referring to are quite concerning. We're dealing
+with technologies here that are in--really in development. The
+challenges we're facing in terms of the scale of renewables
+that have to be integrated into the grid has changed
+dramatically over the last five years. The challenges
+associated with both creating a resilient system, understanding
+how to use battery technology effectively in order to create a
+stable microgrid system, a regional grid system, and doing the
+kind of effective modeling on how to optimize those systems,
+those are all landscapes that are changing. And in addition to
+that you'll recognize what we--a number of us talked about with
+regard to the security issues, which is a constantly changing
+landscape as well.
+So I think federal funding is critically important,
+sustained federal funding is critically important for us to be
+able to take advantage and leverage some of the model systems
+that we developed across the country, including what's going on
+within the SWiFT and GLEAMM programs at my institution but also
+other institutions.
+So as far as impact is concerned on our programs, I would
+see, you know, in any one year we're in the vicinity of $2.5
+million worth of funding that could potentially be impacted by
+some of those cuts, and that--again, that would make it very
+difficult for us to leverage the investment that the federal
+government, the national labs, and the State of Texas have
+already made in some of the unique model systems we have on our
+campus.
+Mr. Sarrao. Yes, thank you for the question. As you know,
+certainly a decrease in budget would create challenges. I think
+from a Los Alamos perspective, one of our goals is to use
+capabilities that derive from our broader national security
+mission focused on challenges of grid modeling so that we can
+diversify our efforts in that regard. Certainly, our focus on
+early-stage research, as well as partnerships like the GMLC
+enable--cause us to be as effective as we can be.
+And then to your question about energy storage, I think
+thinking both about fundamental, for example, materials and
+chemistry research and energy storage and how you think about
+that in the broader context of the electricity grid is
+something that our grid modeling efforts help enable so that we
+find the right challenges to focus on to address the problems
+in an environment that's potentially fiscally constrained.
+Mr. Takano. Yes. So, Mr. Gramlich, in your testimony you
+note that the recent DOE grid reliability staff report found
+that, quote, ``Increased deployment of solar and wind does and
+will not negatively impact the operation of the grid.'' Mr.
+Gramlich, what role do you think energy storage and development
+of battery storage can play when it comes to distributing wind
+and solar, as well as grid resilience?
+Mr. Gramlich. Thank you for the question. I think energy
+storage can provide many services to the grid, to customers,
+specifically to distribution systems, transmission systems, and
+it provides services that are typically considered generation
+services, so it's really the only technology that sort of
+provides almost some of everything. It will be, I think,
+important when we get to very high renewable energy futures.
+You can integrate a whole lot of wind and solar I think without
+a huge amount of storage now currently in most regional grids,
+but certainly island systems and other areas require more
+balancing. And, over time, as penetrations of renewable
+variable resources grow, storage will become more and more
+important.
+Mr. Takano. Well, great. Thank you. My time is up, Mr.
+Chairman. I can yield back, please.
+Chairman Weber. Okay. The Chair now recognizes the
+gentleman from Alabama, Mr. Palmer, for five minutes.
+Mr. Palmer. Thank you, Mr. Chairman.
+Mr. Walker, can you speak to the concerns that the more
+connected the grid becomes, the more vulnerable it becomes to
+cyber attacks similar to, you know, what happened in Ireland
+last year?
+Mr. Walker. The--as Dan Coats, our Director of National
+Intelligence, noted, the--we are recognizing more frequent and
+more sophisticated cyber threats. There is no question that the
+grid is vulnerable to cyber threats, whether they're isolated
+or whether they're fully integrated. What is clear, as we
+introduce cyber-enabled technologies through the Internet of
+Things and the advancements of things like smart grids, we
+introduce more and more devices on the system that have the
+capability of being penetrated through cyber, so it is
+extremely important that, as we develop these newer
+technologies and as we integrate additional technology on the
+system, that we do it with a cybersecurity focus.
+We have just recently issued a funding opportunity for $25
+million back into the oil and natural gas as well as electric
+sector to look at the architecture and the design of cyber-
+enabled devices to--in order to stave off the risk as we move
+forward and capitalize on the existing underlying physics of
+the system.
+Mr. Palmer. Well, I understand we want to protect our
+systems from being hacked, but also, I think we've had some
+experiences, particularly in the last few years, with
+hurricanes and in the last couple of decades with Katrina and
+others where we lost whole sections of the power grid, and one
+of my concerns is if we had a major cyber attack or an EMP
+attack is whether or not you have redundant systems. And I
+don't mean just having equipment to replace equipment that's
+been fried basically or whether or not you're--how quickly
+you're able to shift from a technology-controlled system to a
+manual system, whether or not you have trained employees that--
+I see you're nodding your head there.
+Those are the concerns that I have is in terms of
+preparation is how long would it take and, depending on the
+time of year, how serious restoring power would become. And so
+that--Mr. Chairman, I think that's part of what we've got to
+figure out here is in the event that we have an attack like
+that, that, you know, in cases with the storms, it takes
+anywhere from a day to a week. You--that's tolerable. But if
+you get into a situation where you have a massive loss of
+equipment and you can't shift to a manual system, then you
+really got a problem. Our--is that some of the things that----
+Mr. Walker. That's absolutely----
+Mr. Palmer. --I'm sure you're thinking through that.
+Mr. Walker. That's absolutely what we are 100 percent
+focused on. So under the FAST Act, there was a requirement for
+the Secretary to identify defense-critical electric
+infrastructure, and we continue to evolve that list of critical
+infrastructure with an understanding of what the impact is
+across the 16 critical infrastructure sectors throughout the
+United States. And we are developing within OE operational
+strategies that are--we're executing on some of those now to
+better ensure that when we do have those widespread events,
+whether it be cyber or hurricane, that we have capability to
+restore the system, whether that be--and that's one of the
+focuses of having a fuel-secure generation source. When we have
+that, we don't have to rely on the supply chains and the risks
+associated with supply chains that might get realized during
+something like a cyber event or a hurricane where there's
+destruction from, you know, the port all the way to any
+facility.
+Mr. Palmer. Maybe Mr. Gramlich and Mr. Heppert could
+address this, but when you're talking about a massive loss of
+the grid and you look at it in the context of what--what's the
+first thing we do when we have a major storm? We go in with
+food and water and medicine, that sort of thing. And a massive
+loss of the grid, that will be the number one thing because
+most people depend on the grocery store for their food and
+sustenance, things like that. So it's going to become
+absolutely critical that we either have redundant systems or
+the ability to shift to a manual system. And I'll let the
+gentlemen respond to that, Mr. Chairman.
+Mr. Gramlich. I think you're absolutely right, Congressman,
+that preparing for that situation in advance, low probability
+as it may be, is absolutely something that needs to be done.
+Personally, I think the National Academies of Sciences' report
+recently was strong, had good recommendations in that area, so
+I would commend that for more information.
+Dr. Heppert. I'd come back again to the concept that having
+both diverse grids and grids that have survivability at the
+local level where you can go down from a macroscopic grid to a
+microgrid, which will still operate and where you can bring up
+portions of that grid rapidly as the technology becomes
+repaired without risking bringing down the system again as a
+result of the initial insult is something that's really
+critical. That's--I think that's part of the reason that the
+kind of modeling we've been describing and the kind of research
+that we're promoting is really important for the future.
+Mr. Palmer. Mr. Chairman, if I may, if you'll indulge me
+just for a moment here, I worked for a couple of engineering
+companies before running a think tank, and unless things have
+changed dramatically in the last 30 years, we have a patchwork
+grid. It's not a uniform grid. And in some cases that could be
+helpful, but in other cases then a massive loss. Again, I want
+to emphasize--and to your point, it's a low probability, but we
+need to be prepared. A low-probability event could have
+absolutely catastrophic and deadly consequences, so I really
+think that we need to be prepared for that. We need to
+recognize the fact that it is a diverse grid, it's a patchwork,
+and that we have some ability to address that in a relatively
+short amount of time.
+So with that--and you can comment on that as you will, but,
+Mr. Chairman, thank you for indulging me, and I yield back.
+Chairman Weber. Thank you.
+Mr. Tonko, you're now recognized for five minutes.
+Mr. Tonko. Thank you, Mr. Chair, and thank you to our
+witnesses for being here today. Secretary Walker, it's good to
+see you again. Members of this committee may not know it, but
+Secretary Walker and I went through energy deregulation in New
+York State together. And I think it was a bold move. Our
+electric markets--electricity markets may not be perfect, but
+they have blind spots. And I think Congress and States and grid
+operators and regulators can all work together to address some
+of those market failures.
+But in 2018 the toothpaste is out of the tube and drastic
+and unnecessary market interventions under the false pretense
+of an emergency to bail out uncompetitive generators like the
+one being discussed by the Administration I think are
+unacceptable. Mr. Secretary, I will not ask you to respond to
+that, but I hope you will carry that message back to DOE.
+However, I do want to ask you about the future of Puerto
+Rico's grid. As we enter hurricane season, I'm concerned about
+the fragility, the lack of resilience of that system. Can you
+give us a sense of some of the recommendations and work that
+has been done to strengthen Puerto Rico's grid for the long
+term?
+Mr. Walker. Sure. We have been working with Puerto Rico to
+develop a sophisticated modeling system that enables them to
+better operate their grid, and we've been working with the
+technical advisory committee that was established by PREPA's
+board to accomplish that. That model will also help identify
+the relaying setting changes that need to occur in order to
+better optimize the grid so that they don't sustain the
+blackouts that they've recently seen over the last year or two.
+That being said, with the work that had--has been done from
+the emergency restoration component, you know, equipment was
+put back in place consistent with the north--you know, the
+standards--NAS standards, so, you know, the lack of O&M that
+was done on the system in one sense has been cured because the
+weak poles and the weak guying on the transmission system has
+been replaced. They are continuing and still working on one of
+the major transmission lines that goes through the north-south
+corridor. We are still there. DOE is providing technical
+assistance where we can for, you know, any of the technical
+components on the system, and we're still continuing to work
+with FEMA.
+The PREPA is continuing to identify some of the strategies
+that they will employ for, you know, any events that will be
+realized, and, you know, one of the key components is we still
+have a--you know, a significant number of federal resources
+down on the island, including the generators, which were
+supplied for the critical infrastructure, the ones that were
+referred to Congressman Palmer. You know, we recognize that--
+and after the--the after-action reports that we've, you know,
+started to look at with PREPA and FEMA highlight that, you
+know, the 2,000-plus generators that are down there represent
+those critical infrastructure that we really need to make sure
+that we've got, you know, the microgrid capabilities,
+distributed energy resources so that when they do realize an
+event, it has less real impact on the safety and health of the
+people in Puerto Rico.
+Mr. Tonko. Thank you. And, Mr. Gramlich, I would like to
+get your thoughts on this. Americans in Puerto Rico are reeling
+from the most devastating blackout in our nation's history. And
+obviously, Puerto Rico had unique challenges, but it is my
+understanding that many of its greatest grid vulnerabilities
+were damaged transmission and distribution systems, which is
+the cause of most disruptions in our continental United States.
+So Puerto Rico could be a testbed and model for grid
+innovation. Do you have ideas about how Puerto Rico can rebuild
+to have a stronger, more modernized grid?
+Mr. Gramlich. Sure, Congressman. I have not spent much time
+researching Puerto Rico, but, generally, we do have a lot of
+technologies and options that are available to any system that
+may be rebuilding its grid. And in fact, our mainland
+transmission grid is aging, and so we have opportunities to
+improve the technology there as well.
+One key area that DOE and OE specifically support is the
+development of microgrids or backup generation, so when we're
+talking about national security or military bases or others--or
+critical uses or hospitals or police stations or other critical
+needs, recognizing there are still tremendous efficiencies of
+the large grid and large regional markets and all of that, but
+there are also thousands of entry points and risks on such a
+system. So when you're focusing on the end-use customer and
+their critical reliability needs that may exist, those ability
+to have backup generation or islanding capability that DOE can
+help and help bring down the cost for will be very important.
+Mr. Tonko. Yes, it seems as though, in response to their
+need as an island, as a people, we can come up with a nice
+innovative response that will also serve as a template for what
+can be done across the continental United States. So with that,
+Dr. Heppert, I don't know if you wanted to say something, but
+I'm out of time, so--but if the Chair would allow for you to
+comment?
+Dr. Heppert. Sure.
+Mr. Tonko. With that, I would yield back.
+Dr. Heppert. I just wanted to point out that one of our
+faculty members, Dr. Ren, is involved in a collaboration with
+Puerto Rico telecom, which involves a number of national
+laboratories, Pacific Northwest National Lab, Oak Ridge, as
+well as NREL, to implement some innovative new technology for
+democratizing their telecommunications grid and really bringing
+it back. So I think this has been a great example of how that
+partnership that the omnibus bill talks about between the
+private sector, universities, and national laboratories can
+really help to have an impact in real-time on these kinds of
+situations.
+Mr. Walker. Chairman, if I might address Congressman
+Tonko's question?
+Chairman Weber. Go ahead. He needs all the help he can get.
+Mr. Walker. Congressman, this--there are some very specific
+items that we are working with the labs on putting into Puerto
+Rico that are cutting-edge that would--we're basically looking
+to accelerate the commercialization of them and therefore
+utilization on the mainland by putting them in Puerto Rico, so
+things like our darknet, which is the use of the black fiber
+and the optical ground wire, which is on their transmission
+system is one idea. But using correlation through this high-
+fidelity sensing capability to enable optimization of their
+grid is another. That will be utilized in conjunction with the
+development of sophisticated microgrids that have the
+capability to expand and contract similar to some work that's
+being done at the Electric Power Board in Chattanooga with Oak
+Ridge National Lab, so there are a number of very specific
+things that we think Puerto Rico is uniquely poised to be able
+to integrate.
+We've been working--I've been working with Walt Higgins,
+who's CEO, and we've been working--I've been working--my team's
+been working with HUD to help to find the guidance document
+with the supplemental funding that Congress provided all to
+ensure that, you know, these type of technologies, the
+microgrids, the DERs, really do get in.
+And one of the things that, Congressman, is very
+interesting and you're very familiar with, the Greenbank, one
+of the things we've talked about is actually a critical
+infrastructure bank in Puerto Rico and the possibility of that
+to enable those 2,000-plus locations that we previously
+identified through the installation of generation to come up
+with unique ways to basically island themselves and provide the
+capabilities for public health and safety that they do.
+Mr. Tonko. Well, thank you for that info. I think it also
+speaks to the wisdom of not cutting research and innovation
+investments like ARPA-E and all. We are on the cutting-edge,
+we're an innovation economy, and we don't go backward, we need
+to go forward, so I would just say those investments are
+critical to be able to have those responses you just outlined.
+With that, Mr. Chair, I yield back.
+Chairman Weber. The Chair now recognizes the gentleman from
+Virginia, Mr. Beyer, for five minutes.
+Mr. Beyer. Mr. Chairman, thank you very much. And thank all
+of you for being with us this afternoon.
+Secretary Walker, you previously stated on February 20 of
+this year, and I quote, ``We would never use a 202 to stave off
+an economic issue. That's not what it's for.'' And now,
+FirstEnergy Solutions has recently asked the Department to use
+202 to stave off an economic issue. Does that imply or do we
+understand that you won't use a 202 for them?
+Mr. Walker. The 202 application from FirstEnergy is being
+reviewed by my department as we speak.
+Mr. Beyer. Great. Well, thank you. I'm hoping that your
+earlier strong opinion will still prevail.
+You know, the draft grid memo was circulated before the
+National Security Council last Friday, and it's widely
+understood that this draft came from the Department intended to
+fulfill the President's June 1 directive to intervene in
+planned plant closures, but there's been an awful lot of
+pushback from people who are grid operators and grid experts.
+Specifically, the CEO of Exelon, the largest nuclear generator
+in the United States, said the retirement of coal and nuclear
+plants do not constitute a great emergency that warrants urgent
+intervention from the federal government.
+Secretary Walker, the President of Electric--Electricity
+Consumers Resource Council in a study say--the large industrial
+electricity users say the latest DOE proposal would, quote,
+``devastate U.S. manufacturing.'' Have you calculated the costs
+on American businesses, specifically, American manufacturing?
+Mr. Walker. I have not.
+Mr. Beyer. The previous 403 proposal, which was rejected by
+FERC because it was unsubstantiated, they said it was going to
+cost--increase consumer costs by $8 billion annually from PJM
+alone. Now, the new plan nationalized the 403 proposal, so I
+would expect that that $8 billion is going to go up very
+significantly. Again, in putting together this draft plan, have
+you estimated what this will cost the U.S. taxpayer?
+Mr. Walker. I have not.
+Mr. Beyer. I have to give you wonderful credit for being
+able to answer these things very tightly. I would suggest,
+though, as a member of this committee, that moving forward with
+this new proposal, if it's going to devastate U.S.
+manufacturing, if it's going to add way more than $8 billion to
+the electricity cost of our American consumer, this is
+something that you and Secretary Perry and others should look
+very seriously at and should have numbers available for. I
+think it's within purview of--as a member of this committee to
+ask you to go back and do the elementary research and report
+back to the Committee on those two things, please.
+And with that, Mr. Chairman, I would like to submit for the
+record a letter I led with 36 of my colleagues asking that
+Secretary Perry and the Trump Administration cease the false
+narrative that bailing out uneconomic energy sources in
+competitive markets is needed for electrical grid resilience
+and to stop the attempts to use emergency authorities to
+intervene in planned power plant retirements.
+And I'd like to make three official points on the
+inappropriate use of emergency authorities that----
+Chairman Weber. Let me----
+Mr. Beyer. --bail out planned power plant----
+Chairman Weber. Let me say without objection.
+Mr. Beyer. Oh, thank you very much, Mr. Chair.
+[The information appears in Appendix II]
+Mr. Beyer. Number one, unlike these plant retirements in
+the PJM grid, we have a legitimate grid crisis in Puerto Rico.
+Thank you for addressing it, but we still have thousands of
+residents without power. The President himself has still not
+acknowledged the death toll, which we now understand to be
+higher than those lost on 9/11. This is his Katrina.
+Number two, this bailout plan does not actually help coal
+country. This is a short-term talking point that does nothing
+to create good-paying jobs, resilient jobs for the families in
+Appalachian. We need to work together with these resilient,
+industrious, great families to create good-paying jobs that
+will endure.
+And number three, the bailout plan ignores all the experts.
+Instead of listening to those in the universe of the world of
+energy grids and despite knowing what this would cost the
+American public, the Trump Administration is still moving ahead
+perhaps unfortunately likely because someone contributed to the
+campaign, and this is not how our democracy is supposed to
+work.
+Mr. Chairman, I yield back.
+Chairman Weber. I thank the gentleman.
+And we now recognize Dr. Foster from Illinois for five
+minutes.
+Mr. Foster. Thank you, Mr. Chairman, and thank you to our
+witnesses.
+Maybe I'd like to switch over to some sort of high-level
+direction that you need from Congress and the American people
+to think about your specifications for what you want the grid
+to accomplish in terms of reliability because there are--you
+know, people can be concerned about outages that are temporary,
+outages that--the tail risk of having an outage of six months
+or longer that can happen in some disaster scenarios. Insurance
+against the tail risk cost money, and there is a trade-off
+that, you know, everyone in life and every one in business
+faces as to how much we're willing to spend to reduce tail
+risk, you know, how much spare inventory of different
+components we need to have on hand, things like that. And so do
+you feel that you have adequate high-level guidance from
+Congress and the American people about what the specs you're
+shooting for or do you think we need a wider discussion of that
+and related issues?
+Mr. Walker. Congressman, I'll answer the question from
+DOE's perspective. The DOE is one of three organizations that
+fundamentally analyzes the day-to-day operation of the electric
+grid. FERC is the other one, NERC is the other one, and each of
+us has different lenses by which we look at the system. FERC
+looks at it from a market base, NERC from a reliability
+perspective, and DOE looks at it from a national security
+perspective.
+So from a national security perspective, the day-to-day
+reliability is not really something that we take a look at.
+Obviously, it's important. We contribute to it. We make R&D
+investments where it makes sense, but we also look at those
+investments from how they can be utilized from a national
+security standpoint. We recognize, particularly given the
+recent evolution of the grid, particularly its interdependence
+mostly on gas pipelines, that we have now reached a point
+where--different than 20 or 30 years ago where if I lose the
+wrong gas pipeline, I can lose tens of thousands of megawatts
+of generation simultaneously, and that simultaneous loss of all
+those generators can then have deleterious effects through, you
+know, cascading frequency loss, as you well know as a
+physicist. And there are real risks in the system as a result
+of it.
+And, unfortunately, when we built these systems, built the
+gas pipelines, oil pipelines, the electric transmission system,
+things like cybersecurity didn't even exist, and the word
+domestic terrorism was probably not even coined yet. But today,
+we deal with very significant risk every day. And why--while
+some may say it's a low probability, we deal with tens of
+thousands of cyber intrusions on a daily basis. It's just a
+matter of time before the sophistication level increases and
+those penetrations become real.
+We've seen this happen. We all watched the Ukraine event.
+So we can pretend that it doesn't exist, but we have hard
+evidence through actual realization of things like Ukraine that
+these capabilities exist and they're being utilized. And we
+spend our time focused on strategies that enable us to survive
+those type of events and avoid them.
+Mr. Foster. Other comments?
+Mr. Gramlich. Sure, Congressman. There is the North
+American Electric Reliability Corporation (NERC) that is in
+charge of reliability under the ERO provisions of the Energy
+Policy Act of 2005. I think that organization and the
+institutions around reliability need to be--remain in place.
+They are doing a good job. FERC overseas the markets and
+transmission system. Their role needs to be respected. I think
+what we're seeing with this presidential directive is, under
+the guise of national security, a nationalization of the
+electric system, which would be extremely damaging for the
+investment--the private investment that the industry currently
+relies on for all of the reliability and efficiencies that we
+get out of this power system.
+Mr. Foster. Yes, there's a tough situation where if, for
+example, one State decides that, for their own purposes, they
+want to subsidize a class of electrical generation and then if
+you're in a multistate interconnected grid, that looks like
+dumping that will force, you know, other States' generation
+stations to close. And so this is a complex set of problems
+because one state's, you know, necessary subsidy for some
+purpose is another--it's protectionism viewed from other
+states. And in trying to understand how we--as--nationally deal
+with those misaligned incentives between the states and not
+have the federal government come in with yet a third set of
+misaligned incentives for their own political reasons is--will
+be an ongoing challenge.
+And, let's see, I have now negative 19 seconds, so I'll
+yield back.
+Chairman Weber. I thank the witnesses for their valuable
+testimony and the Members for their questions. The record will
+remain open for two weeks for additional comments and written
+questions from members. This hearing is adjourned.
+[Whereupon, at 3:04 p.m., the Subcommittee was adjourned.]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

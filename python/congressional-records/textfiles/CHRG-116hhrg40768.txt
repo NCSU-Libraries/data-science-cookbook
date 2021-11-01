@@ -1,0 +1,2033 @@
+- MODERNIZING HEALTH RECORDS FOR SERVICEMEMBERS AND VETERANS: THE CONTRACTOR PERSPECTIVE
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+MODERNIZING HEALTH RECORDS FOR SERVICEMEMBERS AND VETERANS: THE
+CONTRACTOR PERSPECTIVE
+=======================================================================
+HEARING
+before the
+SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+of the
+COMMITTEE ON VETERANS' AFFAIRS
+U.S. HOUSE OF REPRESENTATIVES
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+TUESDAY, JUNE 4, 2019
+__________
+Serial No. 116-15
+__________
+Printed for the use of the Committee on Veterans' Affairs
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://www.govinfo.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+40-768
+WASHINGTON : 2021
+COMMITTEE ON VETERANS' AFFAIRS
+MARK TAKANO, California, Chairman
+JULIA BROWNLEY, California
+DAVID P. ROE, Tenessee, Ranking
+KATHLEEN M. RICE, New York
+Member
+CONOR LAMB, Pennsylvania, Vice-
+GUS M. BILIRAKIS, Florida
+Chairman
+AUMUA AMATA COLEMAN RADEWAGEN,
+MIKE LEVIN, California
+American Samoa
+MAX ROSE, New York
+MIKE BOST, Illinois
+CHRIS PAPPAS, New Hampshire
+NEAL P. DUNN, Florida
+ELAINE G. LURIA, Virginia
+JACK BERGMAN, Michigan
+SUSIE LEE, Nevada
+JIM BANKS, Indiana
+JOE CUNNINGHAM, South Carolina
+ANDY BARR, Kentucky
+GILBERT RAY CISNEROS, JR.,
+DANIEL MEUSER, Pennsylvania
+California
+STEVE WATKINS, Kansas
+COLLIN C. PETERSON, Minnesota
+CHIP ROY, Texas
+GREGORIO KILILI CAMACHO SABLAN,
+W. GREGORY STEUBE, Florida
+Northern Mariana Islands
+COLIN Z. ALLRED, Texas
+LAUREN UNDERWOOD, Illinois
+ANTHONY BRINDISI, New York
+Ray Kelley, Democratic Staff Director
+Jon Towers, Republican Staff Director
+SUBCOMMITTEE ON TECHNOLOGY MODERNIZATION
+SUSIE LEE, Nevada, Chairwoman
+JULIA BROWNLEY, California
+JIM BANKS, Indiana, Ranking Member
+CONOR LAMB, Pennsylvania
+STEVE WATKINS, Kansas
+JOE CUNNINGHAM, South Carolina
+CHIP ROY, Texas
+Pursuant to clause 2(e)(4) of Rule XI of the Rules of the House, public
+hearing records of the Committee on Veterans' Affairs are also
+published in electronic form. The printed hearing record remains the
+official version. Because electronic submissions are used to prepare
+both printed and electronic versions of the hearing record, the process
+of converting between various electronic formats may introduce
+unintentional errors or omissions. Such occurrences are inherent in the
+current publication process and should diminish as the process is
+further refined.
+C O N T E N T S
+----------
+Tuesday, June 4, 2019
+Page
+Modernizing Health Records For Servicemembers And Veterans: The
+Contractor Perspective.........................................
+1
+OPENING STATEMENTS
+Honorable Susie Lee, Chairwoman..................................
+1
+Honorable Jim Banks, Ranking Member..............................
+2
+WITNESSES
+Mr. Travis Dalton, President, Cerner Government Services.........
+5
+Prepared Statement...........................................
+29
+Accompanied by:
+Mr. David Waltman, Vice President, Strategy and Technology
+Cerner
+Ms. Julie Stoner, Director and Client Accountable Executive
+Cerner
+Mr. Jon Scholl, President, Leidos Health Group...................
+6
+Prepared Statement...........................................
+30
+Mr. Richard Crowe, Executive Vice President, Booz Allen Hamilton.
+8
+Prepared Statement...........................................
+33
+MODERNIZING HEALTH RECORDS FOR SERVICEMEMBERS AND VETERANS: THE
+CONTRACTOR PERSPECTIVE
+----------
+Tuesday, June 4, 2019
+Committee on Veterans' Affairs,
+U. S. House of Representatives,
+Washington, D.C.
+The Subcommittees met, pursuant to notice, at 2:40 p.m., in
+Room 210, House Visitors Center, Hon. Susie Lee presiding.
+Present: Representatives Lee, Brownley, Lamb, Cunningham,
+Banks, Watkins, and Roy.
+OPENING STATEMENT OF SUSIE LEE, CHAIRWOMAN
+Ms. Lee. Okay. Good afternoon, everyone. This hearing will
+now come to order. I would like to welcome you all here,
+welcome Ranking Member Banks.
+And I wanted to start first with an opening statement.
+Today, the Subcommittee on Technology Modernization will hold
+the first in a series of hearings on the implementation of the
+electronic health records at the Department of Veterans
+Affairs. This effort, known as EHRM, is projected to take at
+least 10 years and cost $16 billion. To say it is a major
+undertaking is an understatement.
+It has the potential to transform health care for our
+veterans and to finally realize the goal of having one seamless
+lifetime health record for our servicemembers as they
+transition from the military to veteran status; however, this
+effort also has the potential to fail. VA, unfortunately, does
+not have a great track record when it comes to implementing
+information technology. Decades of oversight by the Government
+Accountability Office and the Inspector General have documented
+a troubled history of failed IT projects, including several
+failed attempts at a modernized electronic health record.
+At the Subcommittee's hearing on April, I asked the IG and
+GAO what it would take for the VA to be successful and it
+really comes down to two things: management and leadership.
+VA's inability to manage IT programs and have accountable
+leadership has plagued many of its recent IT efforts and it
+threatens EHRM. The lack of an accountable joint governance
+structure between the VA and DoD also threatens the success of
+this project.
+After months of requesting information, we have yet to
+receive anything of substance about a proposal to address the
+non-functioning interagency program office. What we have heard
+is not promising. It sounds like it is the status quo with a
+new name.
+Congress first mandated an interoperable health record in
+2008 and it is beyond time for the Department of Defense and
+the VA to have a fully functioning health record systems that
+can talk to one another and support seamless health care.
+Seamless health care is what this effort really is about, and
+it is more than any one system, contractor, or agency. It is
+not about the technology, but about the human interaction with
+the technology.
+The system we are spending at least $21 billion on at both
+the departments is merely a tool that will allow clinicians and
+others to provide the best possible health care experience to
+those that served our country. We owe them nothing less.
+Because this mission is so important and because taxpayers
+have made and will make a significant investment in it, this
+Subcommittee owes it to veterans we serve to ask difficult
+questions and demand full answers at every step of this
+project. We need leadership to be transparent about the
+challenges and accountable for their decisions.
+Additionally, we are aware that there is some rhetoric out
+there about speeding up the EHRM implementation, but I want to
+be very clear that I do not share the opinion that we should
+move faster for the sake of moving faster. We should, instead,
+spend the time getting it right at the initial sites in the
+Pacific Northwest before we move on to other implementation
+stages.
+This spring I spent some time at the Madigan Army Medical
+Center and heard from frontline staff about the problems that
+were experienced when things like testing and training were
+rushed. Further, I visited the Seattle VA and saw the very
+serious infrastructure issues there that threaten or delay or
+to derail the implementation.
+There are many lessons to be learned from the DoD rollout
+of MHS Genesis, including obvious pitfalls that need to be
+avoided by the VA. This Subcommittee will be conducting
+oversight of all of these things.
+For the first time, and thank you very much, we have the
+major contractors involved in both, the VA and DoD efforts
+before us. I am pleased that we can make this happen, because I
+believe it is a real opportunity to examine these programs from
+every perspective and ensure their successful implementation.
+Cerner, Leidos, and Booz Allen Hamilton are part of the
+day-to-day efforts of the EHRM at the DoD and VA and they know,
+intimately, the lessons learned, and they are helping prepare
+for the potential problems ahead. I know we all want the MHS
+Genesis and the EHRM to succeed for our servicemembers,
+veterans, their families, and taxpayers, and I hope we use this
+opportunity to figure out how we get these IT projects right.
+I thank all of the witnesses for being here and I look
+forward to their testimony. I would now like to recognize my
+colleague, Ranking Member Banks for 5 minutes to deliver any
+opening remarks that he may have.
+OPENING STATEMENT OF JIM BANKS, RANKING MEMBER
+Mr. Banks. Thank you, Madam Chair.
+I am pleased to be back here with you to discuss VA's
+Electronic Health Record Modernization, EHRM program. It has
+been just over 1 year since VA awarded its primary EHRM
+contract to Cerner. I continue to believe this program is so
+large and important, not just for our veterans, but also for
+American health care. The status report should happen in
+public. My goal today is to make sure that one is provided.
+We are still in the middle of the beginning, but vague
+conceptual notions are becoming pressing questions and
+decisions with real impacts on people's lives. VA's first site,
+the Mann-Grandstaff Medical Center in Spokane is scheduled to
+go live with the Cerner EHR less than 1 year from now. There is
+an even earlier deadline right around the corner.
+The councils of employees who are test-driving the Cerner
+her and designing the new workflows are scheduled to finish
+their meetings in September. These 18 councils are each at very
+different points in their respective processes. Some are still
+near the beginning, while others are ahead of expectations.
+September through March 2020 will be an intensely active period
+while milestone after milestone must be completed in quick
+succession. The risk of delay is very real.
+Some of my colleagues who do not sit on this Committee have
+expressed frustration with the length of the site-by-site
+implementation. No delay is ever welcome, but taking a few
+extra months to get its right is imminently preferable and
+responsible, compared to cutting corners or rushing a half-
+baked system into use in order to avoid criticism. The reality
+is the performance of this Cerner EHR and VA's initial
+operating capability sites will determine the course of the
+rest of the program, including in all likelihood, whether it
+continues at all.
+Much has changed since our last EHRM hearing. VA and Cerner
+have agreed to an ambitious data-migration plan that hinges on
+repurposing Cerner's HealtheIntent population health software.
+I have some questions about how this will actually work.
+VA has demonstrated some impressive use cases in connecting
+to external apps through the API gateway. The most high-profile
+success is enabling veterans to access their records through
+Apple Health. This sort of capability would have cost the
+Department hundreds of millions of dollars to develop in the
+past, but the partnership was accomplished in about a year for
+a tiny fraction of that. I suspect that there may be some more
+big app partnerships in the near future.
+On the other hand, some things haven't really changed at
+all. Interoperability with the community providers is still the
+elephant in the room. Cerner has some strong interoperability
+offerings inside and outside of the EHR, but millions of
+veterans already get care in the community and no matter how
+long or short the site-by-site implementation may be, they
+rightfully expect their records to follow them.
+The MISSION Act, which is only 2 days away will streamline
+community care administratively. We need a comparable solution
+to deploy the interoperability technology in months, not years,
+and nationwide, not place by place. We can do better than
+repackaged email or fax.
+Relatedly, beyond some platitudes, no innovation strategy
+has been articulated. The Cerner contract contains an
+innovation line item, but it is the smallest line item in the
+contract, and it has not yet been touched. Cerner has a multi-
+hundred-million-dollar research and development budget and VA
+will make up about a quarter of the company's revenue in a few
+years. The Government negotiated extraordinary data rights in
+this contract, but I am still eager to hear how all of this
+investment is supposed to translate into some specific
+advancement to solve VA's specific problems.
+I understand the desire to get the basic EHR in place
+before turning to innovation. That reflects caution and
+modesty, which are both admirable. But it is very important to
+me, and I hope to the rest of this Committee, that innovation
+does not get neglected.
+Finally, in addition to an extraordinarily number of
+decisions to be made, there are bound to be many unforeseen
+issues that will arise that will test the management structures
+that VA, DoD, and these companies have in place. I wish I could
+say I have more confidence in those management structures.
+VA and DoD opted for a single, common system, but after 9
+months of haggling and jockeying for power, a suitable, single,
+common-management structure has still not yet emerged.
+Frustratingly, the Departments have refused to share virtually
+any information with Congress.
+In the absence of a comprehensive solution, the technical
+personnel at EHRM and MHS Genesis have put together some
+effective coordination mechanisms; however, that is unlikely to
+be sufficient to address clinical questions or resolve
+programmatic disputes.
+I appreciate our witnesses from Cerner, Leidos, and Booz
+Allen Hamilton, being here to speak to us directly about these
+issues. Next week, we will hear from the VA and DoD witnesses
+about your work, as I am sure we will do many more times, but
+this is your opportunity here to give us your perspectives and
+I appreciate that very much.
+With that, Madam Chair, I yield back.
+Ms. Lee. Thank you, Mr. Banks.
+I would now like to introduce the witnesses we have before
+the Subcommittee today. Travis Dalton is the President of
+Cerner Government Services, which is leading the health record
+modernization effort at the VA and is a subcontractor on the
+DoD effort. Mr. Dalton is accompanied by David Waltman, Vice
+President for Strategy And Technology, and Julie Stoner,
+Director and Client Accountable Executive.
+Jon Scholl is the President of Leidos Health Group, which
+is the lead integrator for the DoD implementation of MHS
+Genesis. Leidos also has a role in the VA effort as a
+subcontractor.
+And, finally, Mr. Richard Crowe is an Executive Vice
+President at Booz Allen Hamilton, which has a contract to
+support the EHRM program office.
+We will now hear the prepared statements from our panel
+Members. Your written statements, in full, will be included in
+the hearing record.
+Without objection, Mr. Dalton, you are recognized for 5
+minutes.
+STATEMENT OF TRAVIS DALTON
+Mr. Dalton. Thank you, Chairwoman Lee, Ranking Member
+Banks, and distinguishing Members of the Committee.
+My name is Travis Dalton. I am the president of Cerner
+Government Services. Appearing with me are David Waltman and
+Julie Stoner from Cerner. We thank you for the opportunity to
+be here today and for your continued support of the Department
+of Veterans Affairs' Electronic Health Record Modernization
+program.
+Just over a year ago, VA partnered with Cerner to
+proactively transform care for veterans and help them lead
+longer and healthier lives and we remain honored and humbled to
+be a part of this mission and we have assembled a world-class
+partnership to deliver it. EHRM is not just about technology;
+it is about transformation at scale. We realize the size and
+complexity of the VA. This won't be easy, but it is achievable,
+and we are making progress.
+This program will ensure a lifetime of seamless care for
+veterans and servicemembers across the Department of Defense,
+VA, and community providers. VA has a long history of
+innovation and excellent care for all of those who have served
+us. We are building on that foundation together.
+This project will give providers the right tools and data
+at the right time to make the right decision. With EHRM,
+servicemembers and veterans will no longer have to carry stacks
+of paper. Providers will have access to the veteran's record
+wherever they deliver care.
+Using advanced analytics and decision support, we will be
+able to identify, diagnose, and manage chronic conditions,
+combat suicide, opioid, and substance abuse through
+interoperability and workflow tools, operationally move from
+130 disparate systems to one open, modern integrated system
+that is easier and more efficient to update and maintain. It
+won't happen overnight, but we can and will achieve these goals
+together.
+This undertaking is immense. It carries a risk and we don't
+take the challenges lightly. We must deploy at over 1,700
+sites, train over 300,000 VA employees, collaborate with DoD,
+interoperate with the community, aggregate decades of clinical
+data, and update technology. The only way to get there is for
+us to work together: VA, DoD, all of you, our partners here
+today, VSOs, and other stakeholders.
+We are on the right track. We have confidence in Mr. John
+Windom in his leadership of this effort at the VA. That has
+been imperative to our progress. Some examples of that progress
+include, we have established 18 councils made up of VA care
+providers, nationwide center experts, industry leaders, and
+DoD. The councils have completed 5 of 8 national workshops.
+They are making decisions, setting standards, and bringing best
+practices to the table.
+We created an advanced learning academy. Along with Booz
+Allen, we have a robust team in the Pacific Northwest. We have
+completed 18 of 19 road shows to engage providers and we have
+migrated 23 million veterans' health records into the Cerner
+data center. VA and the DoD health data are in the same system.
+We are impressed with the dedication, spirit, and passion
+of the providers we work with inside VA and DoD. We are humbled
+by the opportunity to be in VA medical centers and to interact
+with providers and veterans receiving care.
+This is personal for many of you. I know it is for me. We
+can do this, but it will take all of us working closely
+together. On behalf of Cerner, we are honored to be a part of
+it.
+Thank you, and I look forward to the discussion today.
+[The prepared statement of Travis Dalton appears in the
+Appendix]
+Ms. Lee. Thank you, Mr. Dalton.
+Mr. Scholl, you are now recognized for 5 minutes.
+STATEMENT OF JON SCHOLL
+Mr. Scholl. Thank you, Chairwoman Lee, Ranking Member
+Banks, and Members of the Subcommittee. Thank you for the
+opportunity to provide a contractor's perspective on
+modernizing the health records at the Department of Defense.
+My name is Jon Scholl. I am the president of the Leidos
+Health Group. We are the prime contractor for the DoD Health
+Management System Modernization, also known as DHMSM.
+On a personal note, I graduated from the Naval Academy. I
+am a former submarine officer who deployed to the Western
+Pacific. I have children and a spouse who have been treated in
+the military health system. I have a son who served in the 82nd
+Airborne in Afghanistan and depends on VA services for service-
+related injuries. So, this mission of health records and
+interoperable solutions is very personal for me, as it is for
+many others on my team who have served or have family members
+that served.
+With me today is my senior team associated with this work.
+Debbie Opiekun is the senior vice president for Federal health;
+Doug Barton is the chief technology officer for the health
+group and chief engineer of the DHMSM program; Dennis Nihiser
+is a senior program manager for DHMSM; and Rob Thomas, the
+acting deputy president for the health group.
+To best encourage teaming and sharing lessons within and
+across the DHMSM team, we created the Leidos Partnership for
+Defense Health, which consists of four core partners: Leidos,
+Cerner Corporation, Accenture, and Henry Schein One, as well as
+many other supporting businesses. Together, we are developing
+an integrated, modern, and secure health information system
+that includes an electronic health record system, a dental
+system, identity management capability, cybersecurity, and
+other supporting components. This integrated system is calls
+MHS Genesis and it will provide a solution for managing the
+health and readiness for the DoD, ultimately, the VA, and the
+U.S. Coast Guard.
+Although information sharing is possible today between the
+DoD and VA, it is limited by the fact that these organizations
+have operated systems that are mostly independent from one
+another, largely requiring view only, and some patients still
+carry paper medical records as they move between organizations.
+We know this is a significant frustration to many and,
+appropriately, Congress has directed the agencies to fix this
+longstanding problem. MHS Genesis is ultimately incorporating
+VA-essential requirements is the solution.
+I can assure you that from initial contract award until
+now, we have learned a lot and we will continue to learn. I am
+pleased to be with you today to share some of the insights we
+have gained.
+We work extremely closely with our DoD customer and the
+partnership is committed to executing three equally important
+objectives: one, deploying MHS Genesis on time and on schedule;
+two, continually improving the implementation of MHS Genesis
+based on lessons that we have learned; and, three, successfully
+modernizing the delivery of health care in the military health
+system.
+MHS Genesis is well underway to transforming how health
+care is delivered to nearly 10 million servicemembers and their
+families. The solution consists of integrated commercial
+products designed to help efficiently manage the health of our
+servicemembers, veterans, retirees, and their families. MHS
+Genesis allows clinicians and patients to access needed health
+records and, importantly, ensures our servicemembers receive
+the same standard of care no matter where they are in the
+world.
+The Leidos Partnership for Defense Health went live at the
+initial operating capability sites in 2017. This included four
+military treatment facilities and more than 20 ancillary
+clinics. It allowed the team to pilot MHS Genesis to learn and
+to incorporate feedback into future implementations. This
+learning loop will continue as more facilities go live.
+We are counting on the process of implementing and learning
+in order to accelerate and provide the best solution possible
+in the best possible ways. These initial sites continue to use
+MHS Genesis today to safely deliver care to patients,
+completing more than 100,000 patient encounters every month. In
+our opinion, the intended purpose of the go-live at the initial
+sites was achieved, which was to provide an outstanding health
+information system and to identify areas of improvement and set
+the course for corrections, prior to broader deployment.
+Here's a quick overview of 3 things that we--insights that
+we gain from implementation. One, we refined our approach to
+training. The curriculum is now better aligned to clinical
+processes, also called workflows, and we are using improved
+team-based, roll-based, and just-in-time-based training
+methods. Two, the underlying IT backbone, the networks, the
+computers, the printers, the medical devices, must be mapped
+and tested to support the new system. The implementation at our
+initial pilot sites identified the critical importance of
+validating and revalidating that the necessary infrastructure
+is, in fact, ready. And, three, implementing complex systems is
+fundamentally a people business. Changing clinical processes is
+hard.
+The commercial technologies that comprise the MHS Genesis
+system are operational in health facilities around the world.
+The most challenging work ahead is not only the engineering, to
+ensure that the underlying components continue to work in a
+secure environment, but also work closely with the dedicated
+and amazing medical staff to best placement the MHS Genesis
+solution.
+In closing, Leidos and its partners are confident in our
+ability to placement the integrated tell me if I'm wrong health
+record system, MHS Genesis, across the defense health community
+by the end of 2023. Our team is honored and committed to
+fulfilling this noble mission.
+Thank you, and I look forward to your questions.
+[The prepared statement of John Scholl appears in the
+Appendix]
+Ms. Lee. Thank you, Mr. Scholl.
+Mr. Crowe, you are now recognized for 5 minutes.
+STATEMENT OF RICHARD CROWE
+Mr. Crowe. Good afternoon, Madam Chair Lee, Ranking Member
+Banks, and other Members of the Subcommittee. My name is
+Richard Crowe. I am an executive vice president at Booz Allen
+Hamilton and client service officer for Booz Allen's health
+account.
+In that role, I lead a diverse portfolio of health service
+contracts, including IT and health care operations contracts.
+That portfolio includes our electronics health record
+modernization program management office support contract at the
+Department of Veterans Affairs.
+Booz Allen has a strong demonstrated commitment to serving
+our Nation's veteran population. Booz Allen was founded by a
+veteran, and the company has continuously supported the
+Department of Veterans Affairs since 1952. Booz Allen takes
+great pride in our sixty-five year history of supporting
+veterans, which we do in multiple ways.
+Approximately 30 percent of our over 25,000 employees are
+military-connected, meaning they are veterans in the National
+Guard or military spouses. And Booz Allen invests in helping
+our military-connected employees thrive through career-
+building, best-in-class benefits, formal programs for military-
+spouse support, and support to the military and veteran
+communities through innovative and impactful, nonprofit
+partnerships. We are committed to the Department of Veterans
+Affairs' mission to serve our Nation's veterans.
+I am pleased to be here with you today to discuss Booz
+Allen's support in the role of the VA's Electronic Health
+Record Modernization program. I would like to begin today by
+discussing an overview of the role of the PMO support contract
+in our work, who we support, and how we interact,
+contractually, with the other witnesses here today.
+The role of the PMO contract support: As the VA's PMO
+contractor, our role is to help position the VA for success in
+three main areas. First, we provide search staffing, resources,
+and tools, as well as management, engineering, government
+expertise, to augment the VA program office's own capabilities.
+Second, we help the Government obtain specific skills and
+talent relevant to the EHR implementation for the necessary
+duration at the relevant stage of the implementation process in
+time-bound manner.
+Third, assist the implementing organizations by helping the
+respective workstream leaders break enormous projects into
+discrete, actionable, trackable, and measurable tasks.
+The VA's use of a PMO support contract is consistent with
+other commercial and governmental EHR implementations.
+Who we support: Our role as the PMO contract support, Booz
+Allen works at the direction and supervision of the OEHRM PMO
+under a time-and-materials contract? Our job is to respond to a
+range of VA taskings required for successful EHRM
+implementation. We play a supporting role to the PMO and do not
+have our own independent development scope, nor responsibility
+over specific EHRM development, deployment, and implementation
+tasks.
+Structurally, our team mirrors the VA PMO, in that we are
+organized into workstream pillars which we support at the
+direction of the VA lead. The primary workstream's focus on
+assisting the chief medical officer, Technology Integration
+Office, and program control.
+How we interact with other contractors: We do not have
+independent scope or responsibility for the EHRM
+implementation, nor do we direct Cerner. Our interaction with
+Cerner is at the direction and in support of VA.
+Thank you for the opportunity to testify before the
+Subcommittee today. Booz Allen is proud of the support we are
+providing the VA and we have great confidence in the VA's
+leadership of the EHRM PMO.
+I look forward to your questions.
+[The prepared statement of Richard Crowe appears in the
+Appendix]
+Ms. Lee. Thank you. I will now recognize myself for 5
+minutes of questioning.
+This is for both Mr. Dalton and Mr. Scholl: From a joint-
+governance perspective, how are Leidos and Cerner working
+together to ensure that seamless care and interoperability are
+at the forefront of both of your respective implementations?
+Mr. Dalton. Thanks for the question. I will apologize for
+my voice. My team is happy I can't talk, but it is not very
+helpful in this environment.
+You know, I think the important thing around decision-
+making is that we are really working on focusing on decision-
+making at the lowest levels. We work closely together,
+obviously. We are on their team and they are on our team. We
+have a great working relationship. We know each other. We know
+our skill sets well.
+We have joint working sessions where we work closely
+together. Leidos is closely involved in the workshop process
+with us and the VA. We also have an environment-management
+operating group that consists of VA, DoD, Cerner, and Leidos,
+which is working closely together on a regular basis.
+We have great relationships at the corporate and other
+levels. I think we work closely together in that capacity on
+the solution and we continue to do so.
+I don't know if Mr. Scholl, if you have anything to add to
+that?
+Mr. Scholl. Not much incremental, other than to emphasize
+that we are in operating rhythms, where we are in meetings
+together, we review findings together, we work closely together
+from the lowest levels of our team to the highest levels of our
+organization, including recurring meetings at the most senior
+levels, myself and even our CEOs.
+Ms. Lee. Mr. Dalton, Cerner's monthly project reports list
+delays in decision-making, summarizing carrying over from
+month-to-month. How much of that is a product of a lack of
+effective governance structure on behalf of the VA and DoD?
+Mr. Dalton. I think, look, I mean, it is hard. Clinical
+decision-making is not easy. We have 18 councils. We are
+running a process. We are getting into--I mentioned
+transformation at scale. It is a big project. There is much to
+do. We are getting into difficult decisions around referral
+management, processes, workflow. I think all of those elements
+play into kind of where we are at on status.
+We are also making sure that we are getting national
+representation and local representation as part of this process
+and tuning that into decision-making is not always an easy
+thing to do, but I think all of that has led into kind of where
+we are at today.
+We are behind in a few areas. We know what those areas are.
+We have eyes on the target. We have the ability and the
+reporting to know where they are. We are having daily meetings,
+daily cadence. We are meeting with the DoD and VA. We have
+escalation paths to resolve those.
+Ms. Lee. All right. Thank you.
+This is for Mr. Scholl and Mr. Dalton. For some decisions,
+such as which access card would be used, the resolutions seem
+to take quite a long time to get to. Cerner developed a working
+group in an attempt to provide the DoD and VA with some viable
+options.
+Is that working group something that should exist as part
+of the joint governance structure or was it a workaround due to
+the lack of an effective governance structure?
+Mr. Scholl. I think we had, from inception, always intended
+to have working groups at the Cerner-Leidos level, so I
+wouldn't characterize it as a workaround to anything that DoD
+and VA, you know, are striving for; rather, we view it as our
+mutual responsibility to bring solutions to our respective
+customers.
+Travis?
+Mr. Dalton. Yeah, I am going to let Mr. Waltman comment on
+that.
+Ms. Lee. Okay.
+Mr. Waltman. Yes, ma'am, thank you.
+I agree, I don't think that it represents a lack of or that
+progress was impeded, specifically, by a lack of joint
+governance. This was a very complex decision and a process that
+required a lot of input from within VA, with various
+departments within VA, and stakeholders, especially given the
+complexities of VA's contemplating moving to the U.S. access
+card from General Services Administration. So, there were a lot
+inside-VA decisions that needed to be worked through and I
+think that happened relatively effectively.
+Between the two Departments, there are also decisions that
+need to be made, such as enumerating users of the system with
+an EDIPI, which is the common identifier for the system, and
+the Departments are still working through those. I think there
+are certainly opportunities for a potential joint entity to
+help facilitate some of that decision-making. The EDIPI is a
+good example. Other memoranda of understanding and agreements
+between the Departments for how these systems will operate,
+particularly including privileges and things like that for
+access to the record would be facilitated by joint decision-
+making.
+Ms. Lee. All right. Thank you very much. I yield the
+remainder of my time.
+And now, I would like to recognize Mr. Watkins for 5
+minutes.
+Mr. Watkins. Thank you, Madam Chair.
+Mr. Dalton, we hear the term ``interoperability'' a lot in
+these discussions about electronic medical health records. It
+is more than just sharing data between multiple systems.
+Can you expand on the concept what it means for EHRM and
+how it impacts the care of our veterans?
+Mr. Dalton. I am happy to. Thank you for the question.
+Interoperability to us is more than just--to the community;
+it is many things, as you mentioned. So, our goal and our focus
+is the right data at the right time and the right place so that
+the provider can make a truly informed and best decision. There
+are a number of things that go into that.
+So, we are bringing VA and DoD into a single instance in
+the domain. We have VistA history that is coming into the
+environment. We have got device integration, real time. We have
+reference lab and state PDMP data for opioid-risk scoring. And
+we have also got open-standards-based APIs. All of that is
+interoperability in our mind and allows the provider to have a
+true view of the longitudinal record and make an informed
+decision.
+Mr. Watkins. You mentioned opioid addiction. It and suicide
+are a problem among veterans. Not a day goes by when I don't
+think of a veteran, I served with who committed suicide and so,
+it is a personal issue.
+How can the VA and DoD, creating a single record based off
+of a Cerner platform, support us combatting those efforts?
+Mr. Dalton. With opioid, we have the opportunity to
+integrate into the state prescription drug monitoring programs,
+so we can actually pull that data and have a risk score. So, it
+allows us early identification and allows us to proactively
+look at those issues, inside of the workflow. That is very
+different than a reactive situation or at guessing. So, that is
+one area.
+I think we also have the opportunity to innovate with the
+VA, as it relates to data analytics, predictive modeling, early
+intervention related to suicide and PTSD. That is an area we
+want to focus on with them going forward.
+Mr. Watkins. Thank you, Mr. Dalton.
+Madam Chair, I yield my time.
+Ms. Lee. Thank you. I now recognize Mr. Lamb for 5 minutes.
+Mr. Lamb. Thank you, Madam Chair.
+I want to thank all of you for being with us here today. I
+know it is not easy to come all this way, and I also know we
+may or may not get a chance to be in front of you again for a
+while, just the way this process works out.
+So, for the 3 Cerner witnesses in particular, I would just
+like to ask now, you know, it is June of 2019. We are all
+expecting a go-live, I think it is October 2020, but at some
+point, in 2020 you will be really ramping around next year
+around this time. Is there anything that you don't have from
+the government-VA side or you fear you aren't going to have
+between now and then that could impact the planned launch,
+anything at all?
+Mr. Dalton. I think the primary element we talked about
+earlier is around making quick decisions, so we need to
+continue to focus in that area. You know, it is hard. It is
+complex. I appreciate the commentary around getting it right.
+We also want to get it right, but I think, just, we do need
+that joint decision-making authority. We are operating
+effectively--I believe that--and we are getting things done,
+but there comes a point where you have to have that joint
+capability.
+We have a few examples. I am happy to let the team describe
+what those, sir, if you would like?
+Mr. Lamb. Please. Yeah, please go ahead.
+Mr. Waltman. Yes, thank you. I appreciate the question.
+I agree with Mr. Dalton in that there are a number of
+things that if we can ensure that they are facilitated between
+now and that time, will make things much more effective and
+much more likely to be the success that we all expect them to
+be for veterans and servicemembers. So, for example, there are
+realities of working in a joint environment with the Department
+of Defense that we have to have a common cyber posture between
+the two environments, and there are decisions that the
+Department of Defense needs to make in authorizing, for
+example, assessment strategies for some of the technology, for
+example, container technology, or other decisions regarding
+connections between aspects of the system from VA to DoD.
+And although some of those decisions have been in process,
+we have not seen, between the Departments, all of those at the
+speed that we would like to be able to ensure we maintain the
+expected schedule. So, certainly, joint decision especially in
+that cyber area is one area that I think is very important to
+us.
+Mr. Lamb. Thank you. And just to be clear, have you made
+clear to the decision-makers, the impact that that could have
+on your schedule and the ability to launch this on time next
+year?
+Mr. Waltman. Yes, sir. We absolutely have done that, and we
+continually monitor the status of these decisions and decision
+requests and brief their status and request facilitation and
+updates.
+Mr. Lamb. Okay. Go ahead, Ms. Stoner.
+Ms. Stoner. Yes, thank you for the question.
+We have had a number of items, things that require either
+joint or VA decisions. We have been working closely with the VA
+between workshops, in addition to the surging during the
+workshops to close out those decisions, and while we
+acknowledge that both Departments have different missions,
+there are a number of things that have to be decided on
+jointly; for example, what do particular results appear to the
+clinician for.
+And so, there have been a number of items that we are
+tracking to close out, bringing the two groups together. And as
+Mr. Dalton said, we are seeing progress there, but it is how
+fast and how scalable is that process and how consistent is it
+to be able to do on a regular basis.
+Mr. Lamb. Okay. So, one example was, basically, data and
+cybersecurity and assessment of the technology that is being
+used. Were there any other concrete examples that you can give
+us today? Because if we are going to have the DoD and VA
+decision-makers in front of us regularly, it would be helpful
+to ask about these things.
+Ms. Stoner. So, I think the biggest thing that we are
+looking for is a process by which we always make those
+decisions.
+Mr. Lamb. Okay.
+Ms. Stoner. So, things like results-viewing; that has to be
+consistent across the agencies. How the Department of Defense
+takes on new capabilities that become available because the VA
+has provided them, and as well, how do we continue to push both
+agencies to move on a commercial baseline, take advantage of
+those investments.
+Mr. Lamb. Okay. Thank you.
+Madam Chair, I yield back.
+Ms. Lee. Thank you. I now recognize Ranking Member Banks
+for 5 minutes.
+Mr. Banks. Thank you, Madam Chair.
+A few months ago, Kaiser Health News and Fortune published
+a truly sobering piece of investigative reporting on the EHR
+industry. Any case anyone missed it, I ask unanimous consent to
+enter the article ``Death by a Thousand Clicks'' into the
+record.
+Ms. Lee. Without objection.
+Mr. Banks. What I find most alarming is the issue of gag
+clauses, which are terms that some EHR companies put in their
+contracts threatening buyers with litigation if they speak
+publicly about the problems with the systems.
+Mr. Dalton, has Cerner ever imposed a gag clause, meaning
+any term or condition in any software-license agreement or
+other contract that discourages any user from speaking publicly
+about any subject?
+Mr. Dalton. No, not that I am aware of.
+Mr. Banks. The negotiations between DoD and VA over
+leadership of the Joint Program Management Office, the firm,
+are probably one of the worst-kept secrets in Washington. This
+has been going on since last fall, and the goalpost seems to
+have been lowered to putting interim leadership in place and
+standing up the office in phases through March 2020.
+This question is for everyone who wishes to answer. The two
+Departments that have some technical integration in place, but
+what is going to happen to--hold on--the two Departments have
+some technical integration in place, but what is going to
+happen to the EHRM and MHS Genesis if they don't integrate the
+other aspects? What is the impact on you, the contractors,
+trying to implement these projects?
+And we can start on our right.
+Mr. Crowe. Well, I think we support the PMO on the VA side,
+and so, in that, we support the VA. Specific to your question,
+obviously, strong governance across both of these programs for
+common decisions is going to be critical. I think when you look
+at the proposed firm, this is a ten-year--as you said earlier,
+sir, it is the beginning--it is the middle innings of the
+beginning, and this is a 10-year process. So, it is not
+necessarily inappropriate to take some time and pause to think
+how you want to have this structure come together from a
+governance standpoint.
+So, I know the agencies are talking, and I am not really in
+a position to comment on how they are going to ultimately come
+together.
+Mr. Banks. Mr. Scholl?
+Mr. Scholl. Yeah, thank you.
+If I could play the question back to you and make sure that
+I am answering precisely, Ranking Member Banks, what I thought
+you asked is: How much do we move beyond the pure technical
+integrations into other issues and how important is that to us
+as the contractors?
+Mr. Banks. Yes.
+Mr. Scholl. Much has been said of decision-making and I
+think as the DoD and VA get together and solve the decision-
+making processes to increase speed and efficacy, I think those
+are things that would be required. But we, from the DHMSM
+rollout, feel confident where we are in the decision-making
+inside the DoD program and look forward to working with Cerner
+and the Departments, as they implement new processes and
+procedures to make better decisions.
+Mr. Banks. Mr. Dalton?
+Mr. Dalton. We aren't directly involved in the conversation
+with the firm. We provided some data points and some inputs and
+some thought, and so I just can't comment on specifically where
+the agencies are at in relation to that.
+But it goes without saying when you are in a single
+instance, a single environment, there comes a point in time if
+you can't agree and you can't make some decisions, it is hard
+to proceed forward. They need to maintain standards. There
+needs to be clinical decision-making. There needs to be timing.
+There needs to be joint milestone management. Upgrades will be
+done at the same time.
+So, not only is it difficult to proceed, but you miss out
+on a great opportunity to actually work together and get the
+efficiencies and synergies that the two agencies could get with
+one another by doing so.
+Mr. Banks. So, to Leidos and Booz Allen, how can you
+implement Cerner as a single common instance if they don't have
+some sort of unified management structure, in your opinion?
+Mr. Scholl. Well, you know, the contracts were sequenced in
+time. So, the DHMSM contract started before even the award of
+the Cerner contract. So, I think there is going to be a process
+of the implementation of MHS Genesis and, you know, as the VA
+requirements emerge, then we need to have this joint decision-
+making and process to resolve any conflicts, so we end up with
+a single instance and a single system.
+Ms. Lee. Thank you. I now recognize Ms. Brownley for 5
+minutes.
+Ms. Brownley. Thank you, Madam Chair.
+So, I wanted to go back and follow up on Mr. Lamb's
+questioning. If I understood you correctly, that you said that
+one of the issues in terms of meeting timelines and completion
+dates is, in essence, creating a system of joint decision-
+making. And my understanding of joint decision-making is DoD
+and the VA and all of you, right?
+So, let's just say, hypothetically, that that system isn't
+created. I mean, do you have a timeline to get that? Does the
+VA understand the urgency?
+And, you know, if that isn't established, then it sounds to
+me like you are going to continue to fall behind schedule due
+dates--correct me if I'm wrong. Am I wrong? Yes? No?
+Mr. Dalton. Yeah, I think, as I had commented earlier, we
+are making some decisions and we are proceeding forward, but,
+yeah--
+Ms. Brownley. No, I understand that. But what I don't
+understand is that there are some key decisions that, you know,
+have to be made before you can make another big significant
+step in the process.
+Mr. Dalton. Yes, there are. Correct. Yes, ma'am.
+Ms. Brownley. So, if nothing is done, then sort of some
+key, essential decisions aren't going to be made.
+Mr. Dalton. That is correct.
+Ms. Brownley. Hopefully that won't be the case, but if it
+is the case, is there a place in this process where we, as
+Congress, would understand that those decisions aren't being
+made and that we should anticipate further delays or is that
+simply something that you will make the VA aware of that we are
+not going meet these deadlines because X, Y, and Z, and that is
+as far as the information flow goes?
+Mr. Dalton. We have a process for risk management,
+obviously, that we work with both, Booz Allen Hamilton and the
+VA. We are constantly evaluating risks. We are constantly
+evaluating our integrated master schedule and timeline. I
+believe we provide reporting on a regular basis to Congress,
+and, otherwise, related to that.
+Our goal is for that to be readily transparent to all
+involved so that there is clear decision-making, clear
+understanding, and that we are able to proceed forward.
+Ms. Brownley. Thank you. And for Cerner, too, you indicated
+that, you know, there are a few things that are behind
+schedule, and I think one of those is that you had indicated
+that Cerner is saying that they are going to test every
+function throughout the build phase of the EHR and, actually,
+the VA is holding its last workshop or workflows are being
+developed and fine-tuned, and that is in September/October of
+2019.
+So, that leaves the VA and Cerner less than 6 months to
+complete the design and development, perform these tests on the
+completed system, correct any issues, and then design and
+deliver training to the end-user. So, this time frame, to me,
+seems ambitious, at best, and little room for error.
+Mr. Dalton. I think one major advantage that we have is
+that we are largely using some of the work that we have built
+together off of the DoD. So, much of the workflow and the
+system will be the same, and so, we are able to re-leverage
+some of the work that we have done collectively together on
+behalf of the VA.
+It is consistent with our commercial timelines. We are
+testing in training, and so we feel confident, but we are able
+to leverage that baseline.
+Ms. Brownley. And, you know, there are rumors that the VA
+is looking for another contractor to perform the testing. Do
+you know about that at all?
+Mr. Dalton. I do not know about that.
+Ms. Brownley. Okay. The last thing I wanted to ask is
+around data ownership. And the VA and the DoD's data have or
+will be moved into the Cerner's data center in Kansas City.
+What impact will the data being in a commercial data warehouse,
+have on portability, access, and privacy, and then who
+ultimately owns the data once it is moved to the Cerner's data
+center?
+Mr. Dalton. I am going to pass that to Mr. Waltman.
+Mr. Waltman. Yes, ma'am, thank you.
+So, I think the answers to your questions are VA and
+veterans and the people whose data it is always own the data.
+The data is not owned by Cerner.
+And in terms of access and privacy, first of all, from a
+privacy standpoint, this is probably the most secure health-
+information environment in the world at this point with the
+requirements that have been needed to be met for DoD, and I
+think I am out of time.
+Ms. Lee. You can have a few more seconds.
+Mr. Waltman. Okay. Great.
+And in terms of access, I think that the access for folks
+to use that data, veterans themselves, servicemembers
+themselves, and other companies what are interested in
+providing capabilities to help them will be greatly increased.
+We have APIs that provide access to that information, as
+appropriately managed through our code, program, and so forth,
+and there will be a tremendous ability for vendors and people
+interested in helping veterans to provide capabilities that
+leverage that data being in one place.
+Ms. Brownley. Thank you.
+Thank you, Madam Chair. I yield back.
+Ms. Lee. Thank you. I will now recognize myself for 5
+minutes for questions.
+And I would like to focus a little bit on the different
+contractor responsibilities, and I will start with Mr. Crowe.
+In your testimony, you note that Booz Allen's role is to
+support the program office of EHRM. The executive director for
+EHRM has stated something to the effect that when you think
+that EHRM, think Cerner and Booz Allen.
+How is Booz Allen augmenting the staffing in the EHRM
+office?
+Mr. Crowe. Thank you for the question. That is a good
+question.
+We provide, as I testified, surge support, a variety of
+management, technical, engineering, clinical support. We bring
+folks with significant background in EHR implementation, a lot
+of experience in the Federal space and significant experience
+in supporting the VA directly.
+Tests that are typical for a PMO contractor: We typically
+aggregate data, collect data, support field trips, support a
+variety of engineering reports, studies. We pool this together
+and we present documentations and maintain documents and
+artifacts for the PMO that enable the Government to make
+decisions and move forward in their role as the oversight and
+program management of the effort.
+Ms. Lee. Thank you. The VA stressed the importance of these
+Command Action Teams in the implementation. What is the role of
+the CAT and when will they come into play?
+Mr. Crowe. So, currently, Booz Allen has 30 people,
+approximately 30 people--a bit over--in the Pacific Northwest.
+And the Command Action Team, simply put, is an extension of the
+PMO. They make the PMO extensible to the local PAC Northwest
+facilities helping provide connectivity directly back to
+facilitate, you know, visits out there, information collection,
+deployment, and as we move forward into IOC, they will be
+enabling the IOC.
+Ms. Lee. Okay. Thank you.
+Mr. Dalton, as the prime contractor, Cerner is responsible
+for overseeing I think at least 24 subcontractors. So, I would
+like to just get a basic understanding of which vendor or
+vendors are responsible for certain aspects of the
+implementation. So, specifically, who has the ultimate
+responsibility for training?
+Mr. Dalton. Thank you. I guess I would start by saying, I
+think we are ultimately responsible for everything that
+happens. You know, we purpose built the team based on
+experience with the VA, gaps or needs. It is an ongoing
+process, and so I think we will continue to evaluate. You may
+be aware of it, last week we held an industry day with over 400
+companies in attendance. So, we will continue to evaluate the
+best capabilities.
+As it relates to training, Cerner is going to be doing the
+vast majority of the training for the VA.
+Ms. Lee. Okay. What about testing?
+Mr. Dalton. Again, it is a joint team. It is our team and
+then we have a small business contractor that we are working
+closely with.
+Ms. Lee. Who is that?
+Mr. Dalton. MicroHealth.
+Ms. Lee. And then what about hardware deployment and
+configuration?
+Mr. Dalton. The majority of that, if not most of it, will
+be done by Cerner, but we work closely with Leidos in technical
+areas. Accenture is also on the team, helping us with
+technology and interfaces, as well.
+Ms. Lee. So, you say it is pretty much a 30-30 jointly
+responsible for Cerner?
+Mr. Dalton. In general, I would say we have the majority of
+the responsibility right now.
+Ms. Lee. Okay. At the elbow, support during go-live?
+Mr. Dalton. It will be a combination of Cerner and a number
+of other small business partners, most likely.
+Ms. Lee. Can we get the names of who those are?
+Mr. Dalton. Yeah. And can I provide them post? I don't have
+them.
+Ms. Lee. All right. Thanks. I understand.
+And, then, finally, help desk support?
+Mr. Dalton. That would be done by Cerner Corporation. We
+will, also, again, work closely with our partners from Leidos
+on help desk and sustainment.
+Ms. Lee. Great. Finally, just, you know, Leidos, you were
+the main contractor for DoD, now you are a subcontractor. I am
+trying to get an essence for how the relationships work.
+And so, given these different contractual relationships
+that exist between each of you as the prime vendor and the
+constraints that those different relationships impose, how are
+you communicating with each other and really identifying
+lessons learned from the challenges? How does the day-to-day
+communication work?
+Mr. Scholl. Yeah, thank you. Well, first of all, I would
+lead by saying that in many ways, we have a boundary list
+conversation that goes on. So, in a day-to-day interaction, we
+are not actually reflecting on our respective work shares in a
+contract or things that, you know, that are written down on
+paper, but, rather, we are mission-oriented and trying to solve
+problems. So, that would be just the ethos of team.
+Secondly, we are in operating rhythms, daily, weekly,
+monthly operating rhythms where we are sitting next to one
+another with very defined lessons learned and action plans
+going forward, and that is a team effort. And not only us, but
+also with our customer, the DoD, in the DHMSM program, and I
+would assume, also, Travis does the same thing with the VA, and
+then we are in joint DoD and VA meetings, occasionally, as
+well.
+So, you know, to summarize that, operating rhythms are
+strong and vibrant, and the ethos of the team is very mission-
+oriented.
+Ms. Lee. Great. Thank you. I am now finished with my
+questioning.
+I would now like to recognize Ranking Member Banks for 5
+minutes.
+Mr. Banks. Thank you, Madam Chair.
+Look, this is a huge investment. A lot of money is getting
+invested in this contract. And while there is a lot of
+confusing terminology that gets thrown around in hearings like
+this, I always think it is important to that we get to the
+bottom line. What are our veterans going to get out of this at
+the end of the day?
+So, my first question is for you, Mr. Dalton. Can you
+guarantee me that if completed, EHRM and MHS Genesis will
+produce a single, longitudinal medical record?
+Mr. Dalton. I don't like to make many guarantees in life,
+but that is ultimately, certainly our goal, sir, yes.
+Mr. Banks. Okay. Mr. Dalton, does that mean that each
+person, as he or she moves from enlistment to active-duty to
+reserve to veteran status, will exist in the system as a single
+record and that will be the same record for both, the DoD and
+VA?
+Mr. Dalton. Yes. Longitudinally, yes.
+Mr. Banks. Okay. Mr. Waltman, I want to throw this over to
+you. A true single health record means the patient has a single
+patient locator number in the system. Is each person going to
+have a single patient locator record number in DoD and VA?
+Mr. Waltman. Yes, sir, they will.
+Mr. Banks. Okay. Mr. Waltman, after some debate last year,
+VA and DoD decided to pursue a single common system, a single
+common Cerner instance. The overwhelming majority opinion was
+that that was the right thing to do.
+So, I have a couple more questions to you. First, this has
+been characterized as interoperability, but isn't it more
+appropriate to describe what VA and DoD are doing as pursuing
+or making interoperability unnecessary, in terms of assessing
+each other's records?
+Mr. Waltman. Thank you for that question. So, I think there
+is multiple parts to that. So, having a single record shared
+between two departments will certainly facilitate certain
+aspects of operations between them and for veterans; however,
+there are many, many other sites of care where both,
+servicemembers and veterans, will receive care and all that
+must be integrated into becoming part of the veteran or
+servicemember's health record. So, interoperability between the
+departments and between the departments and other entities of
+care remains critical.
+Mr. Banks. So, stick with that for a moment. What is the
+practical difference between interoperability and the single
+common instance?
+Mr. Waltman. So, I think the practical differences arise in
+how the information is integrated to become meaningful to
+whoever is looking at it at the point of care. The information
+between the DoD and the VA will be simpler to integrate because
+it will be starting from the same basis and the same framework.
+It will be in the same database in many instances.
+However, for legacy information, information outside of
+those two systems of care, that has to also be commonly
+integrated and that is part of interoperability.
+Mr. Banks. Okay. Mr. Waltman, another question: No one has
+fully explained what would happen if the Departments decided to
+go the other route, to each install the Cerner EHR, but to do
+so separately. What would have been lost under that scenario
+and does it indicate some limitations of Cerner's ability to
+interoperate with itself if the EHRs are not identical?
+Mr. Waltman. So, the evolution of the EHR, in general, is
+such that all EHRs have some differences and instantiations or
+deployments of EHRs, even the same her have some differences.
+By implementing both departments in the same common system, we
+eliminate the risk of many, many, many baseline decisions being
+different.
+As Mr. Dalton indicated, we have the DoD system to work
+from as the baseline, and so that creates instant commonality
+between the departments that far exceeds what would be done if
+all of the decisioning were made independently and separately
+for two different instances of the system.
+Mr. Banks. So, if VA and DoD had separate Cerner instances,
+how would that differ from what exists now with the joint
+legacy viewer?
+Mr. Waltman. That would be different in that the joint
+legacy viewer is, of course, read-only, and each Department can
+see the records of their Department and the--Department and
+community providers in a read-only context. Two implementations
+of Cerner would be actually somewhat similar to that, in which
+providers in each Department would be able to see into or see
+information from the other systems, but not be able to interact
+and write with it.
+In this case, both Departments will have providers who are
+able to interact and write to and read from the same record.
+So, that is a big difference between how it would be with two
+instances.
+Mr. Banks. Thank you. My time is expired.
+Ms. Lee. Thank you. I now recognize Ms. Brownley for 5
+minutes.
+Ms. Brownley. Thank you, Madam Chair.
+So, just to follow up on interoperability or maybe not
+interoperability, but what does it really mean with the
+Community Care providers, not just between VA and DoD, but
+Community Care providers?
+Mr. Waltman. Yes, ma'am. Thank you.
+So, the interoperability between Community Care providers
+and either Department will be provided via networks of health
+information exchange. So, of course, once we have implemented
+our health information exchange, the Cerner health information
+exchange for both Departments, which is underway, as we speak,
+then the Departments will have access to literally hundreds and
+hundreds of care provider organizations, as well tens of
+thousands--10,000, at least--providers of care. And that will
+be through the set of networks and health information exchanges
+which Common Well provides access to, care quality from The
+Sequoia Project provides access to, and the eHealth Exchange,
+which VA is already a member of, and has access to many care
+providers.
+So, the network will greatly expand and the ability to
+exchange that information effectively, at scale, will be
+provided by our health information exchange.
+Ms. Brownley. So, that capability, then, is already in the
+marketplace; is that what you are saying, in terms of different
+systems talking to each other?
+Mr. Waltman. Absolutely. It has just not been implemented
+in the integrated extent that we will be able to have the
+leverage to do from VA and DoD.
+Ms. Brownley. Uh-huh. One of the other issues that was
+raised in terms of timeline and meeting timelines is that the
+VA doesn't have the right equipment, doesn't have the right
+computers, in some cases, the Wi-Fi network, the band is not
+large enough to handle the data, and this is at large
+quantities at large scale. Is that something that VA is
+committed to getting done and if they don't, does that slow
+things down?
+Mr. Waltman. Well, we certainly have the understanding that
+VA is entirely committed to doing what is necessary in those
+terms. We have not seen all of the specific plans in that
+regard.
+I know that, for example, in our site assessments, we have
+provided recommendations for what they should have and what
+would be necessary to operate the system, including the
+provider equipment, including forward-deployed hardware that we
+would need to provide, as well as bandwidth and circuits. And
+our belief and understanding is that they are diligently
+working on all of those things.
+Ms. Brownley. So, you have made it clear to the VA what you
+need in order to, you know, proceed on this. And I understand
+that you are having constant communication with them, but they
+haven't given you an affirmative that they are, you know, in
+procurement, they are in the process of receiving this
+equipment and it will be in place by X period of time?
+Mr. Waltman. There are certainly things that we are aware
+of them doing. For example, I know that they have been working
+on circuits for system bandwidth and things like that, and I
+know that they are working on, you know, other aspects of the
+infrastructure required, but the details of that, we would have
+to defer to VA.
+Ms. Brownley. Do you think the VA, at this particular point
+in time, has the correct amount of staff focused on this to be
+able to complete their tasks?
+Mr. Dalton. I think, obviously, as resource-intensive, I
+think they are working closely with Booz Allen in search of
+support and otherwise. We haven't--I haven't seen an instance
+where their lack of staff has hindered our progress at this
+time.
+Ms. Brownley. Thank you. I yield back, Madam Chair.
+Ms. Lee. Thank you. I now recognize Mr. Roy for 5 minutes.
+Mr. Roy. I thank the chair and the Ranking Member. I thank
+y'all's indulgence. I have a competing hearing which I am the
+Ranking Member, so I had to sprint from Rayburn to here. So, I
+apologize for missing your opening statements. I would have
+liked to have heard those, and I hope nothing I am going to ask
+is going to be duplicative.
+You know, I was kind of gearing up for the hearing and
+looking at what y'all were going to be talking about. I have
+just a few questions, and I will start with you, Mr. Dalton, if
+you don't mind. You know, obviously, the MISSION Act allows the
+VA to disclose veterans' medical records to their Community
+Care providers unless the veterans opt-out, right? I think I
+understand that correctly. And this replaces the previous law
+that required the veteran to opt-in because anything could be
+shared, because Community Care was not designated as a bona
+fide reason to be sharing records.
+How is Cerner planning for this new authority to be used in
+the EHR?
+Mr. Dalton. I think from our perspective, our goal is to
+open and interoperable at all times. One of the reasons to do
+this is the modern capability and technology, data liquidity,
+the ability to flow data in and out. Regardless of where anyone
+is seen, our goal would be that the data is all available in
+the right location for the provider to make the right decision.
+You know, that has been our goal since the beginning and that
+is how I would expect us to interact in that capacity.
+Mr. Roy. And I can certainly say from the conversations--
+and I represent Texas 21, which has a significantly veteran
+population, you know, outside of San Antonio--and this would be
+maybe, I think, the issue that I hear most about when I am
+hearing and listening to veterans about what is impacting them
+and their ability to actually use Choice/MISSION, being able to
+get out and this is a significant barrier to that.
+And I guess you guys are doing the market assessments and
+so forth, you know, what do you see that you might need to
+change or adjust in this framework?
+Mr. Dalton. It would be important that the community
+providers are participating in this effort. Our belief is that
+this will actually derive interoperability across the country.
+That those in the community will want to make sure that they
+are interoperating through the--with the VA. So, we believe
+that this could be a significant driver for interoperability.
+Mr. Roy. Get yourself some water.
+Mr. Dalton. Tough day.
+Mr. Roy. Another request is a little more technical in
+nature, and this is back to you, Mr. Dalton, but a quick
+question about the software costs. The most recent report VA
+has provided us indicates a total of $494 and a half million
+has been obligated on Cerner's contracts. How much of that
+represents software licenses and how much of that represents
+work or other work beyond the licenses, do you know?
+Mr. Dalton. I am going to have to provide that post for the
+record.
+Mr. Roy. That is fine.
+Mr. Dalton. I apologize.
+Mr. Roy. Has VA purchased and paid for all of the Cerner
+software that will be used in this project?
+Mr. Dalton. No, they haven't. They are paying as they go.
+Mr. Roy. Okay.
+Mr. Dalton. So, as it is being put into use, it is being
+paid for.
+Mr. Roy. Okay. And what software has VA not yet purchased
+or paid for, do you know?
+Mr. Dalton. They pay for it by a facility, which is by
+solution.
+Mr. Roy. Okay. And how much has the VA obligated and paid
+out for software so far, do you know, or is that another you
+will get back to me on?
+Mr. Dalton. No, I will have to get back to you, sir, with
+the numbers.
+Mr. Roy. Okay. Here's a question, and if I may, a question
+for Leidos, broadly. You spoke about achieving health outcomes
+to enable military readiness, which is very important,
+obviously, to protecting our country. How can that focus on
+military readiness transfer to the VA? What is the DoD doing
+right that the VA can learn from?
+Mr. Scholl. Well, I think there are many things being done
+right. You know, the ultimate objective of the system is to
+move the medical records to a modern, commercial off-the-shelf,
+continually upgraded system. And I think when we do that, we
+achieve outcomes like you are starting to see in the Pacific
+Northwest as it relates to a number of clinical appointments,
+the increase in, you know, detecting, you know, prescription
+errors or other safety events, as well as prescription fill
+rates, things like that. And those will translate into improved
+health and prove readiness and lessons learned for the VA.
+Mr. Roy. Okay. So, one last question--my time is winding
+up--this will be for you, Mr. Crowe. Some questions about the
+role that y'all are playing. First, can you elaborate on what
+you believe the value add is for having a program management
+office? Can you just walk through that and I will leave it at
+that?
+Mr. Crowe. Sure. Thank you.
+First of all, it is a best practice in commercial and
+government on any kind of major rollout of any--particularly in
+electronic health record. So, it is consistent with best
+practices.
+What we have been providing for the VA is surge support in
+a variety of different areas, ranging from electronic health
+record, technical engineering, but it is pretty evenly spread
+across the three pillars that we support, from program control,
+chief medical officer, as well as the technical integration
+office, and it is a range of functions from analysis, data
+collection, aggregation, preparing and maintaining artifacts,
+and supporting the VA in their role of oversight.
+Mr. Roy. Thank you.
+Ms. Lee. Thank you. I now have a few questions about
+expectations.
+So many times when the VA is implemented changes to its
+information technology and different changes, I feel like a lot
+of the potential failure is because of unrealistic expectations
+about what will happen when these changes are made. And I want
+to just set some clarity around the expectations of what the
+Cerner Millennium will achieve.
+There is been talks about veterans having to lug around 30
+years' worth of paper records and that will no longer be the
+case when the Cerner product is implemented. Isn't it true that
+some records, however, will not be migrated or not be available
+in Millennium?
+Mr. Dalton. I am going to pass that to Ms. Stoner.
+Ms. Stoner. Thank you, ma'am.
+There will be some records, particularly on the DoD side,
+just due to a different data-migration strategy, that will not
+be moved over to Cerner Millennium thanks to the acquisition
+approach from the DoD and, therefore, the DNF allowed us to
+take a different data-migration strategy with the VA because of
+our HealtheIntent platform was part of the plan from the
+beginning.
+So, all VA records will be within the Cerner Millennium. As
+DoD rolls out, all of those will also fall in line. Within
+Cerner Millennium, within the physician's workflow, there is
+the ability to access the joint legacy viewer and that will
+remain there forever. Part of that, as part of our training in
+change-management activities, is to make sure that clinicians
+understand where they can see all of that information, whether
+it is from legacy systems, a different location that has not
+yet transitioned over to Cerner Millennium or from the
+community providers.
+Ms. Lee. So, let me clarify. The VA has selected 30 data
+domains and the DoD has chosen 5; is that correct? So, there is
+like 25 data domains that are different--are not--that you are
+just going to be able to view in the legacy viewer?
+Ms. Stoner. Correct, on the DoD side. So, problems,
+allergies, medications, procedure history, and immunization
+history will be available for all patients that have been
+seen--
+Ms. Lee. And then what is the length of time represented in
+that?
+Ms. Stoner. On the DoD side, it is all information, because
+an allergy is an allergy forever, similar with your
+immunization history and things like that.
+On the VA side, it would encompass that 30 years of
+history, as we complete that data migration.
+Ms. Lee. Okay. How does this compare with best practices in
+the commercial sector?
+Ms. Stoner. So, the DoD was similar to what we do
+commercially. I think this represents some of the innovation
+that we are able to do with the VA, kind of exploring this new
+data-migration strategy that would allow for more robust data
+from the beginning. I think it is an opportunity that as we
+prove that out and integrate all of that information over, it
+may change the way we go commercially.
+Ms. Lee. Let me see. Explain how this difference will
+affect the interoperability eventually.
+Ms. Stoner. So, in terms of interoperability between the
+Departments, all of that information will be available to all
+users within the system. So, if a DoD patient has been active-
+duty, changes to veteran status, is now being seen within the
+VA, all of their active-duty information, with the exception of
+some sensitive data, things like that, all of that information
+will be able to be seen by future providers, because it will
+all be inherent in the system.
+Obviously, as time goes, historical data becomes less and
+less relevant in the clinical record, so all of that
+information from day forward will be data in the record.
+Ms. Lee. Okay. Thank you.
+Finally, one question I have about infrastructure. And sort
+of at what point we know that there are incredible
+infrastructure needs that the VA decision-making structure
+around infrastructure makes it, I am just going to say,
+difficult for Cerner to basically proceed. And there is
+certainly kinks in the system in terms of when this
+infrastructure will be purchased, when it will be implemented,
+even to the extent of planning on what exactly is needed.
+At what point do we get alerted that the rollout of
+infrastructure on behalf of the VA is going to affect your
+rollout date? Like, at what point, what is the time lapse that
+you come to us and say, Hey, this is a problem. We are not
+going to make our deadline.
+Mr. Waltman. Yes, ma'am. So, I think that the critical
+aspect there is that at the time that we have to have
+capability ready to be tested in the environments and to ensure
+that those capabilities are ready to meet the training
+requirements and so forth to go-live at the sites, that is the
+drop-dead date for the capability to be there. I think that we
+would have a pretty good idea of whether that looks realistic
+or not, you know, several months before that. So, I think that
+that time frame is not too far from now.
+Ms. Lee. Okay. So, we will know in a couple of months if we
+are ready for you to or if the VA is ready for implementation?
+Mr. Waltman. Or on track.
+Ms. Lee. On track, okay. I am sorry, I am beyond my time,
+and I will recognize Ranking Member Banks for 5 minutes.
+Mr. Banks. Thank you, Madam Chair. You get to have all the
+time that you want.
+Mr. Waltman let's pick up where we left off a moment ago.
+Congress gave the Departments an interoperability mandated in
+2014. They certified that they met it in 2016 based on the
+joint legacy viewer. I believe that you still worked for VA at
+that time.
+Either JLV achieve interoperability and solve the problem
+and the Cerner implementation is unnecessary or JLV did not
+really solve the problem. Both things can't be true. Which one
+is it?
+Mr. Waltman. I think that, sir, as we have talked about,
+there is a continuous evolution of capability in health
+information technology. At the time that the requirements were
+given to the Departments for what needed to happen in regard to
+interoperability, the expectation was to be able to see the
+entire record from each Department in one place. That
+capability was provided in JLV, as I and Chris Miller,
+testified at that time.
+Since then, the Departments have decided, and it has been
+required that they have a system in which they can provide care
+together in the same system. That is beyond the capabilities of
+JLV. So, for the requirements that existed at the time, I think
+that has evolved and the expectations and desires for how to
+provide seamless care, which is the requirement now, requires a
+health record system that both Departments can use together and
+write into and operate from the same system.
+Mr. Banks. All right. So, this will be my last question on
+the single versus separate instances debate, and this question
+is for Cerner, as well. You have established that the single
+instance is going to be more effective in the long run and I
+believe you, but what is downside? Why was there such a heated,
+months-long discussion last year when Genevieve Morris was
+running EHRM, about what VA was giving up in the single
+instance?
+Mr. Waltman. I think, sir, that is a great question. And
+there were lots of important discussions that had to take place
+for both Departments to understand what the extent of
+configurability would be to meet their differing needs to an
+extent. Not every process or every workflow is identical
+between the Departments; however, I think what folks realized
+is that much of the differences between the Departments are
+external, even to the EHR.
+And so, in terms of both Departments understanding that we
+are starting with a commercial baseline and there is a
+configuration band, as Mr. Windom likes to refer to it, in
+which the system can support variability between workflows and
+requirements of the Departments and do so successfully in one
+system. That took a while for people to explore and understand.
+Mr. Banks. All right. Well, I find it hard to believe that
+VA isn't losing any autonomy in the single common system; in
+other words, that VA can have their cake and eat it, too.
+What do you say to that?
+Mr. Waltman. I think that autonomy and operation
+capability, I think I would describe it as this. There are
+certain decisions that were made in the DoD baseline. From the
+last workshop, for example, I was in a meeting where they were
+discussing what went into a drop-down for selections in
+prosthetics workflow. There were already decisions made there,
+and the discussion was around, do those words work for VA, as
+well? Those are kinds of things where VA would have just
+decided what they needed, otherwise; however, what they are--
+so, they may be giving up having to adapt to a few of those
+kinds of decisions or figure out how to integrate and work with
+it, but the benefits far outweigh the challenges in doing that,
+I think, in our view, given that the seamless care providers
+will be able to provide for veterans and servicemembers on both
+sides, far exceeds the limitations imposed by some of those
+word choices and other things in the system.
+Mr. Banks. All right. Mr. Dalton, Cerner's HealtheIntent
+software is a popular health system. Can you explain how
+HealtheIntent is different from the core EHR Millennium?
+Mr. Dalton. HealtheIntent is a product we use to aggregate
+data from multiple data sources and Millennium is the core EHR.
+So, HealtheIntent is a platform that coexists with Millennium
+and we use it to ingest, integrate, normalize, and data into
+the MR.
+Mr. Banks. Okay. That is all I have got. Thank you very
+much. I yield back.
+Ms. Lee. Thank you. I now recognize Ms. Brownley for--you
+are done. Okay.
+I just have a couple more questions I wanted to ask. The VA
+has said some functionalities are not available in Cerner's
+commercial modules, including nutrition, long-term care, base
+of cardiology, and prosthetics. For each of those modules, what
+is Cerner's approach to assessing how it can improve or acquire
+those functionalities to meet VA's needs?
+Mr. Dalton. Working closely with the agency, obviously.
+They have unique needs, based on their patient population. I am
+going to kick it over to Julie to go a little further.
+Ms. Stoner. So, a lot of this process gets identified
+during what we call our current state assessments or current
+state reviews, where we have teams on-site and can understand
+some of the niche workflows, things that are different than
+what we see commercially. For example, the nutrition care or
+example that you provided, that was identified pretty early on
+and then we have been working with the agency to determine what
+is the best path forward; whether it is integrating with a new
+solution that we work with, if it is integrating with something
+that they use at one of their existing facilities, so we can
+still provide that service to them, just in this case, through
+integration, rather than native to the EHR.
+Ms. Lee. How are you using this workshop process to balance
+like what VA's expectations are versus potentially a push to
+meet what is available in the commercial market?
+Ms. Stoner. So, thorough our iterative approach, we have
+had the 8 national--well, we will have 8 national workshops, as
+well as the local workshops. A large part of those workshops is
+change management and training of, what is the capability, how
+does that work into their workflow.
+One of the biggest things in this space is standardizing an
+organization that has been independent for so long with the 130
+different instances of VistA. Each area has been allowed to do
+things a little bit differently. So, I would say the biggest
+challenge has been what does standard in the VA look like and
+how can we integrate that into the EHR.
+And then through the iterative process, we are allowed to
+make a decision. We can configure it, and then in the next
+workshop, provide that back to them to review and react to.
+Sometimes that may mean we have to reverse the previous
+decision, because it sounded like a good idea, but now they
+have seen it in reality, that doesn't quite jibe with what we
+want to do. And that is why we have so many workshops, is to
+allow that ready feedback so that we don't get to the end and
+go live and find out that it doesn't really--
+Ms. Lee. Didn't work. Okay. Thank you.
+Well, I think this is the end of the questioning, and I
+would like to thank all of you for this very helpful
+discussion. We all look forward, when we have our next hearing
+on EHRM on June 12th, and I would like to thank all of you for
+your attendance and hope we can work together, and, obviously,
+have the transparency and the notification that is needed to
+make sure that we remain on track and, obviously, produce a
+successful product that delivers health care to our veterans
+and our servicemembers in a seamless manner. So, thank you very
+much.
+All Members will have 5 legislative days to revise and
+extend their remarks and include extraneous materials, and the
+hearing is now adjourned. Thank you.
+[Whereupon, at 4:00 p.m., the Subcommittees were
+adjourned.]
+A P P E N D I X
+----------
+Prepared Statement of Travis Dalton
+Thank you, Chairwoman Lee, Ranking Member Banks and distinguished
+members of the Committee. My name is Travis Dalton, President of Cerner
+Government Services. Appearing with me are David Waltman and Julie
+Stoner from Cerner.
+We thank you for the opportunity to appear before you today, and
+for your continued engagement and support of the Department of Veterans
+Affairs' (VA) Electronic Health Record Modernization (EHRM) program.
+Just over a year ago, VA partnered with Cerner to proactively
+transform care for Veterans to help them lead longer and healthier
+lives. We remain honored and humbled to be part of this mission, and we
+have assembled a world-class partnership to deliver it.
+Electronic Health Record Modernization is not just about
+technology, but transformation at scale. We realize the size and
+complexity of VA. This won't be easy, but it is achievable and we are
+making progress.
+This program will ensure a lifetime of seamless care for Veterans
+and Service members across the Department of Defense (DoD), VA, and
+community providers.
+The Department of Veterans Affairs has a long history of innovation
+and excellent care for those who have served all of us. We are building
+on that foundation and moving forward together.
+This project will give providers the right tools and data at the
+right time to make the right decisions. With EHRM, Service members and
+Veterans will no longer have to carry stacks of paper records.
+Providers will have access to the Veteran's record wherever they
+deliver care.
+Using advanced analytics and decision support we will be able to:
+better identify, diagnose, treat and manage chronic conditions; combat
+suicide, and opioid and substance abuse through interoperability and
+workflow tools that support clinicians; operationally move from 130
+disparate systems to one open, modern, integrated system that's easier
+and more efficient to update and maintain.
+It won't happen overnight, but we can and will achieve these goals.
+This undertaking is immense. It carries risks and we don't take the
+challenges lightly. We must deploy to over 1,700 sites, train over
+300,000 VA employees, collaborate with DoD to make decisions,
+interoperate with the community, aggregate decades worth of clinical
+data, and update technology.
+The only way to get there is for all of us to work together: VA,
+DoD, all of you, our partners here today, VSO's and other stakeholders.
+We are on the right track. We have confidence in Mr. John Windom
+and his leadership of this effort at VA. That has been imperative to
+our progress. Examples of that progress include:
+We have established 18 councils made up of VA care providers
+nationwide, Cerner experts, partners, industry leaders, and DoD.
+The councils have completed 5 of 8 National Workshops in Kansas
+City. They are making decisions, setting standards, and bringing best
+practices and lessons learned to implement one health record system
+across all VA.
+We created an advanced learning academy to ensure early training of
+super users and advocates for the program.
+Along with Booz Allen, we have a robust team in the Pacific
+Northwest hosting local workshops and implementing our change
+management plan.
+We have completed 18 of 19 roadshows to engage clinicians at each
+VISN.
+We migrated 23.5M Veterans health records consisting of 70 billion
+data records into the Cerner data center. This is the first time that
+VA data is in the same system as DoD health data.
+We are impressed with the dedication, spirit and passion of the
+providers we work with inside VA and DoD. We are humbled by the
+opportunity to be in VA Medical Centers and to interact with clinicians
+and Veterans receiving care. It reminds all of us every day why we work
+so hard on this program.
+This is personal for many of you who have served and so many of us
+who have a history of service in our families. I know it is for me. I
+think about my grandfather and the issues he suffered from upon return,
+and how health record modernization would have helped him.
+We can do this, but it will take all of us working together. On
+behalf of Cerner we are honored to be part of it.
+Thank you and I look forward to our discussion today.
+Prepared Statement of Jon Scholl
+Chairwoman Lee, Ranking Member Banks, and distinguished members of
+the Subcommittee, thank you for the opportunity to provide a contractor
+perspective on modernizing health records at the Departments of Defense
+(DoD) and Veteran's Affairs. It is my privilege to represent Leidos -
+the prime contractor for the Department of Defense on the Defense
+Healthcare Management System Modernization (DHMSM) contract. The Leidos
+Partnership for Defense Health consists of four core partners. They are
+Leidos, which is the prime integrator and developer of the project,
+along with Cerner Corporation, Accenture, and Henry Schein One. The
+Leidos Partnership for Defense Health (LPDH) is complemented by 30
+businesses with expertise in commercial hospitals and the Military
+Health System.
+Together the Leidos Partnership for Defense Health is developing a
+modern, secure, connected Electronic Health Record (EHR) - called MHS
+GENESIS - that will provide a state-of-the-market, commercial-off-the-
+shelf solution consisting of Cerner Millennium, an industry leading
+medical EHR, and Henry Schein One's Dentrix Enterprise, a best-of-breed
+dental record system, as well as several other commercial software
+packages that make the system work together. This team is responsible
+for helping the DoD achieve its mission of standardized care for
+Military members, higher states of readiness for our armed forces, and
+to make possible essential data and record interoperability across the
+DoD, the Department of Veterans Affairs (VA), US Coast Guard, and
+private sector providers.
+Implementing this program is complex and benefits from the holistic
+partnership and collective capabilities brought to bear by the Leidos
+Partnership for Defense Health. I am pleased to share that
+implementation is on track and on budget, and is projected to document
+health across the Military Health System (MHS) by the end of 2023.
+The Mission of Leidos is ``to make the world safer, healthier, and
+more efficient through information technology, engineering, and
+science.'' Implementing MHS GENESIS embodies that mission. For fifty
+years, Leidos has proudly served the interests of our country and
+embraced the mission of our customers. We recognize that our
+responsibilities to the DoD are great because they directly impact the
+health and well-being of our fighting forces and their families. Some
+of us who have served and raised families in the Military recognize the
+need to now replace the current system that has served us for so long.
+We are proud to be a part of this and we are committed to success.
+Objective of Our Work
+Working closely with our DoD customer, the Leidos Partnership is
+committed to executing three equally important objectives: deploying
+the single, integrated inpatient and outpatient EHR; incorporating
+continuous improvement to the implementation of MHS GENESIS through
+lessons learned; and successfully transforming the delivery of
+healthcare in the Military Health System (MHS) to ensure our Service
+members receive the same standard of care no matter where they are in
+the world.
+What is MHS GENESIS?
+MHS GENESIS is a healthcare transformation system designed to
+standardize the delivery of healthcare for nearly 10 million Service
+members and their families. MHS GENESIS is a collection and integration
+of products that will help the DoD and VA efficiently manage the health
+of our Service members, retirees, Veterans, and their families.
+The Defense Healthcare Management System Modernization (DHMSM)
+contract was awarded to Leidos in 2015. At present, the program is on
+schedule to be fully deployed in 2023. While there are many partners
+involved with the DHMSM program and MHS GENESIS system, the program's
+contractor team is led by Leidos. The Leidos Partnership is a team of
+proven innovators who have consistently delivered large, complex
+solutions for the DoD and VA on time and within budget for decades. We
+specialize in delivering patient and clinician-centric tools, training,
+and organizational change management support to offer high-quality
+health care technology. As one of the most experienced IT integrators
+in the federal space, Leidos was chosen as the prime integrator for the
+DHMSM program, and is responsible for the its day-to-day management and
+overall success.
+Once implemented, MHS GENESIS will seamlessly integrate patient
+records so providers spend less time managing records - and more time
+with patients. At completion, the program will have modernized the
+military's healthcare system and enabled patients and clinicians to
+capture and share health data that improves continuity and quality of
+care for all active military, their families, and their beneficiaries.
+MHS GENESIS is currently operating the Pacific Northwest at our
+Initial Operational Capability (IOC) sites. We are proud to report that
+MHS GENESIS is successfully managing more than 100,000 encounters per
+month at military treatment facilities. Children recently born at the
+OB GYN clinic at the Naval Clinic Oak Harbor in Washington State, for
+example, have an MHS GENESIS health record, and should those children
+join the military and eventually become beneficiaries of the Veterans
+Benefits Administration, they will carry the same single health record
+with them throughout their lives. If they choose to go with private
+health care, they will have an MHS GENESIS record that can be
+integrated into a commercial system at any hospital or clinic. This is
+an important differentiator from past efforts by the DoD and the VA.
+Timeline
+The DoD was an early pioneer in the development of a centralized,
+global electronic medical record when it introduced the Armed Forces
+Health Longitudinal Application - or AHLTA - in 2004. At the time, the
+private sector viewed the DoD's in-house EHR solution, like the VA's
+similar system, as advancing the state of healthcare documentation.
+However, by today's standards, DoD's health information technology (IT)
+systems are dated and need replacing. As well, because DoD and VA
+installations evolved independently, the EHR systems are not designed
+to interoperate, and this must be solved. We know this is a significant
+frustration to our veterans, to the agencies, and to Congress.
+In 2013, then Secretary of Defense Chuck Hagel directed DoD to seek
+a commercial off-the-shelf software solution that would better
+integrate military health care records with the VA. This was the first
+step toward creating the single-instance program that DoD and VA are
+now working toward. This is important to highlight - a single-instance
+program is not the same as ``interoperable'', it is much better, as I
+will discuss a bit later.
+In November 2017, the Leidos Partnership for Defense Health
+initiated ``live'' operations of MHS GENESIS in Washington State at our
+initial operational capability sites, which included four military
+treatment facilities and more than 20 ancillary clinics. These IOC
+sites initiated a period of use expressly intended to operate and
+collect ``lessons-learned'' and refine implementation practices that
+can be applied to future sites. The results are impressive: in 2018,
+our pilot sites experienced a 32 percent increase in outpatient
+appointments, a 63 percent increase in new prescriptions and refills,
+and more than 4,500 duplicate lab orders were avoided - improvements
+all achieved while maintaining stable staffing levels at each military
+treatment facility.
+After gathering feedback at these sites intended to enhance the
+system for future deployment, DoD approved its deployment to the first
+wave of military hospitals and clinics, which includes Travis AFB,
+Naval Health Clinic Lemoore, Presidio of Monterey, Mountain Home AFB,
+and surrounding clinics.
+MHS GENESIS will go live at these locations in September 2019.
+We cannot over emphasize how important DoD's intentional and
+methodical approach to implementing, learning and improving is to
+successfully rolling out MHS GENESIS. Implementing a new platform of
+this scale and complexity requires a process with reasonable steps and
+multiple feedback loops.
+What We Have Learned
+The IOC sites, which ranged in size and complexity, allowed for
+feedback to be gathered and incorporated into the refined MHS GENESIS
+deployment strategy. As of today, those four pilot sites continue to
+use MHS GENESIS to safely deliver, manage, and document healthcare -
+documenting more than 100,000 patient encounters each month.
+DoD plans to deploy MHS GENESIS by geographic region-three in the
+continental U.S. and two overseas-in a total of 23 waves. Each wave
+includes an average of three hospitals and 15 physical locations, and
+lasts approximately one year. Waves will run concurrently. This wave-
+based approach allows the DoD and LPDH to take full advantage of
+lessons and experience gained from prior waves to maximize performance
+in subsequent waves. Full operational capability, to include medical
+and dental facilities worldwide, is scheduled to be completed by the
+end of 2023.
+We acknowledge that the IOC go-live effort was not flawless - but
+its intended purpose was achieved - and that was to identify areas for
+improvement and set course corrections to address issues prior to full
+deployment. This may be the most important lesson of the pilot, which
+is that learning is constant and incorporating those lessons as the
+system is developed will make the implementation of MHS GENESIS that
+much more of a success. And I would again emphasize that the initial
+pilot sites are successfully using the system and improving healthcare
+outcomes though its use.
+I'd like to provide you with a quick overview of some of the
+insight we gained from the IOC implementation. They include: improved
+training, necessary infrastructure investments, and change management
+across military treatment facilities.
+Training
+Our partnership has refined its training approach through three
+fundamental changes to the overall strategy. First, workflow adoption
+in key areas is being trained in advance of MHS GENESIS deployment and
+being led by the functional community. Second, training is being
+tailored to focus on role-based workflows that teach the user how to
+perform key tasks using MHS GENESIS. Third, the health system utilizes
+proven commercial best practices that deliver team-based training and
+just-in-time training during and after the system goes live.
+Our pilot deployments provided critical insight on the importance
+of defining user roles and assigning targeted curriculum using a
+scenario and workflow-based approach, thus ensuring the training
+technical environment is in sync with the production environment.
+Infrastructure
+Highly-reliable hosting services are fundamental to enabling the
+delivery of MHS GENESIS. The Leidos Partnership has worked closely with
+DoD technical and cyber threat management leadership to build, deliver,
+and protect hosting services capable of storing personal health
+information and enabling the delivery of effective care.
+Hosting services must be connected to each military treatment
+facility with high-speed/highly-reliable and secure Network Services.
+The DoD's Medical Community of Interest, or MED-COI, is a virtual,
+private network that DoD is investing in to ensure each Wave delivers
+sound connectivity to patient care locations.
+Patient care workflows and services that take place within each
+treatment facility are enabled/supported with a variety of medical
+devices, lab instruments, patient monitors, imaging tools, and end-
+point Electronic Medical/Dental Record access devices. Our Wave
+deployment plan includes a rigorous assessment of existing military
+treatment facilities' equipment against MHS GENESIS requirements,
+followed by ``refreshment as needed,'' which enables clinical staff to
+operate at peak efficiency and effectiveness.
+Change Management
+Implementing systems is a people business and change is hard.
+Fundamentally, the technologies that this system are commercially
+available and in production in hundreds of commercial locations.
+Technically, this system, while complex, is absolutely feasible. The
+most essential challenge is a people-challenge. A program of this size
+and complexity fundamentally changes the way people perform their jobs.
+Thus, we have worked side-by-side with clinicians to better understand
+their workflows in order to design a system that makes the delivery of
+healthcare more efficient and produces better clinical outcomes.
+We have refined our deployment approach to ensure that change
+management begins on day one. Our team works with the staff at each
+military treatment facility to ensure they understand not only how
+things are changing, but also why, enabling greater ownership and
+engagement throughout the implementation process. We have developed
+enhanced materials and resources to address any gaps in order to ensure
+a smoother transition for future Waves. We will continue to refine and
+improve our process with continued feedback from each Wave deployment.
+The Leidos Partnership is fully committed to making this transition as
+seamless as possible for the Military Health community.
+Joint Governance
+The FY2008 National Defense Authorization Act (NDAA) directed the
+creation of an interagency program office for the DoD and VA. The DoD/
+VA Interagency Program Office (IPO) was established to lead EHR efforts
+between the DoD and VA to improve the quality of healthcare, improve
+clinical and patient experiences, and increase interoperability among
+the Departments and the private sector.
+Ultimately, it was the lack of standardization between the
+Departments' policies that inhibited the ability of the DoD and VA to
+implement the technologies available at the time and define long-term
+success. Joint leadership and consensus is fundamental to the ability
+to deliver a single, seamlessly integrated electronic health record.
+Earlier I mentioned the importance of having a single-instance for
+health records keeping. Rather than having two separate systems, as DoD
+and VA have historically had, and have them ``interoperable'' in that
+they can read one another's data, MHS GENESIS is intended to be one
+instance, or one record used across both agencies. I used the example
+of a baby being born at Oak Harbor earlier - that is single instance.
+That child will have one record throughout their life, so long as they
+are in the defense health or VA systems. So in order for this to
+succeed, both programs must be near identical to allow for seamless
+transition of information and data.
+To that end, on September 28, 2018, the Secretaries of Defense and
+Veterans Affairs signed a Joint Commitment Statement pledging to align
+VA and DoD strategies to do just that - to implement the same MHS
+GENESIS system. In response to this commitment, the DoD and VA
+evaluated program dependencies such as infrastructure, incorporation of
+clinical and business processes, and other requirements from the
+functional, technical, and programmatic communities. The DoD and VA
+leadership determined that the optimal and lowest risk alternative was
+to re-charter the DoD/VA IPO into the Federal Electronic Health Record
+Modernization (FEHRM) Program Office.
+The FEHRM, which is intended to incorporate key members of the IPO,
+as well as DoD and VA program office staff, will provide a more
+comprehensive, agile, and coordinated management authority to execute
+requirements necessary for a single, seamless integrated EHR.
+Leadership commitment and alignment is critical to drive change. This
+is especially true when deploying a single, integrated inpatient and
+outpatient EHR, while standardizing enterprise-wide workflows across
+more than 400 military treatment facilities. While the scope of our
+mission remains unchanged, the scale will continue to grow and we are
+prepared to deliver.
+We believe the key to success is to empower the FERHM to make
+decisions that ensure the joint requirements are in place for both the
+DoD and the VA.
+We believe this program office should be small, nimble, and they
+should be an arbiter of key decisions, not an overseer of each program.
+In other words, the FERHM should not be tasked with delivering a
+product, but rather driving requirements that are universal across DoD
+and VA.
+Commitment to Protecting Patient Data
+An essential priority is keeping patients safe and protecting their
+personal data. This principle guides the implementation of MHS GENESIS.
+We work closely with the MHS community to continuously refine and
+enhance the system to meet the needs of the military health community
+based on ongoing, real-time feedback from the testing sites (Fairchild
+Air Force Base, Naval Health Clinic Oak Harbor, Madigan Army Medical
+Center, and Naval Hospital Bremerton).
+Closing
+The Leidos Partnership for Defense Health team collectively brings
+decades of experience implementing healthcare IT solutions in the
+federal space. Together, we have the experience and know-how to deliver
+a project of this magnitude through to completion.
+In closing, I would like to share a quote from Vice Admiral Raquel
+Bono who said, ``We have the potential to create the very best
+healthcare system ever, not just for the military, but for the United
+States, our Nation, and across the world.'' Leidos and its partners are
+confident in our ability to make that vision a reality, by implementing
+the integrated electronic health record system - MHS GENESIS - across
+the military health community by the end of 2023. On behalf of the
+Leidos Partnership for Defense Health, I promise we are committed to
+honoring this noble mission. Thank you and I look forward to your
+questions.
+Prepared Statement of Richard Crowe
+Good afternoon, Chairman Lee, Ranking Member Banks, and other
+Members of the Subcommittee. I am Richard Crowe, an Executive Vice
+President at Booz Allen Hamilton and the Client Service Officer for
+Booz Allen's Health Account. In that role, I lead a diverse portfolio
+of health services matters, including IT and healthcare operations
+service contracts, to include our EHRM Electronic Health Records
+Modernization (ERHM) program management support contract at the
+Department of Veterans' Affairs. I am pleased to be here with you today
+in my capacity as the head of Booz Allen's Health Account to discuss
+Booz Allen's role as an EHRM program management support contractor.
+Booz Allen has a strong, demonstrated commitment to serving our
+nation's veteran population. Booz Allen was founded by a veteran, and
+the company has continuously supported the Department of Veterans
+affairs since 1952. Booz Allen takes great pride in our 65-year history
+of supporting veterans, which we do in multiple ways. Approximately 30
+percent of our over 25,000 employees are military-connected - meaning
+they are veterans, in the National Guard, or military spouses - and
+Booz Allen invests in helping our military connected employees thrive
+through career building, best in class benefits, formal programs for
+military spouse support, and support to the military and veteran
+communities through innovative and impactful nonprofit partnerships. We
+are committed to the Department of Veterans Affairs' mission to serve
+our Nation's veterans.
+The VA contract that brings me before the Committee today is Booz
+Allen's contract to provide Program Management Office (PMO) support for
+the VA's planning for and implementation of the overall EHRM solution.
+This testimony summarizes what we do under that contract, who we do it
+for, and what our role is relative to the other contractors supporting
+EHRM implementation.
+What we do. As the Committee is aware, the VA Office of Electronic
+Health Record Modernization (OEHRM) is overseeing the implementation of
+a new electronic health record (EHR) system to be used across the VA
+healthcare enterprise. It is common for large EHR implementation
+contracts to have a significant PMO, because preparing to go live with
+a new electronic health record system is a complex undertaking.
+Ensuring the continuity and safety of health care delivery is a main VA
+priority and, as the PMO support contractor, we support the VA's
+efforts to better serve and honor the men and women who are America's
+veterans.
+Speaking generally, a PMO support contractor provides the surge
+staffing, resources, and tools, as well as management, engineering and
+governance expertise, to provide additional resources to a government
+program office to augment the government's own capabilities at the
+government's direction. EHRM PMO support contractors allow the
+government to obtain specific skills relevant to the EHR implementation
+at the relevant stage of the implementation process and in a time-bound
+manner. For example, we have engaged a number of individuals with
+Cerner technical expertise (i.e., experience implementing the Cerner
+product as implementation consultants or users of prior EHR
+implementations), as well as clinicians to support the VA in its review
+and execution of key implementation tasks in preparation for initial
+operating capability (IOC). By engaging such individuals on a temporary
+basis during implementation, we provide the specific personnel when the
+VA directs, and the VA is able to reduce its overall long-term spend.
+We also equip the VA with key resources and tools for identifying,
+tracking, and managing risks identified across each of the main PMO
+workstreams. PMO contractors provide key assistance to implementing
+organizations as those organizations work to convert enormous projects
+into discrete, actionable, trackable, and measurable tasks. The VA's
+use of such a PMO support contract is consistent with other commercial
+and governmental EHR implementations, to include the DoD's EHR
+implementation.
+Who we do it for. Booz Allen is working at the direction and
+supervision of the VA under a time and materials contract. In that
+role, our job is to respond to a range of VA taskings required for
+successful ERHM implementation. We do not have our own independent
+development scope nor responsibility over deployment and implementation
+tasks. The actual development and integration are being undertaken by
+Cerner.
+Substantively, the VA determines the support it needs from Booz
+Allen and closely directs our efforts. Those efforts include providing
+program management, administrative, functional, technical, and
+logistical support to the EHRM Program Office as required under our
+contract's Performance Work Statement.
+Structurally, our team mirrors the VA PMO team in that we are
+organized into workstream pillars. For each of those functional areas,
+the government workstream lead is paired with a Booz Allen workstream
+lead who assists their government counterpart. Booz Allen works at the
+direction of the government workstream lead with the approval of the
+Executive Director for VA Electronic Health Records Modernization and
+our Contracting Officer's Representatives (COR). The primary
+workstreams focus on assisting the Chief Medical officer, the
+Technology Integration Office, and Program Control. Additionally, we
+have staff located near the IOC sites as part of the Command Action
+Team (CAT) as a local extension of the broader PMO support.
+Our role relative to Cerner. Booz Allen's work is distinct from
+Cerner's. Cerner is the principal contractor and is the technical.
+While we have some interaction with Cerner in our PMO support role, we
+do not direct Cerner. We support the VA's oversight role. There is no
+contractual relationship between Booz Allen and Cerner, and we do not
+have any technical or implementation responsibility over Cerner's scope
+of work.
+Thank you for the opportunity to testify before the Subcommittee
+today. I look forward to your questions.

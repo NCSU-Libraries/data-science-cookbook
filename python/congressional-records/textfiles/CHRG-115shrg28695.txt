@@ -1,0 +1,2661 @@
+- THE PERFORMANCE OF THE ELECTRIC POWER SYSTEM IN THE NORTHEAST AND MID-ATLANTIC DURING RECENT WINTER WEATHER EVENTS, INCLUDING THE BOMB CYCLONE
+[Senate Hearing 115-498]
+[From the U.S. Government Publishing Office]
+S. Hrg. 115-498
+THE PERFORMANCE OF THE ELECTRIC POWER
+SYSTEM IN THE NORTHEAST AND MID-ATLANTIC
+DURING RECENT WINTER WEATHER EVENTS,
+INCLUDING THE BOMB CYCLONE
+=======================================================================
+HEARING
+BEFORE THE
+COMMITTEE ON
+ENERGY AND NATURAL RESOURCES
+UNITED STATES SENATE
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+JANUARY 23, 2018
+__________
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Printed for the use of the
+Committee on Energy and Natural Resources
+Available via the World Wide Web: http://www.govinfo.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+28-695
+WASHINGTON : 2019
+COMMITTEE ON ENERGY AND NATURAL RESOURCES
+LISA MURKOWSKI, Alaska, Chairman
+JOHN BARRASSO, Wyoming
+MARIA CANTWELL, Washington
+JAMES E. RISCH, Idaho
+RON WYDEN, Oregon
+MIKE LEE, Utah
+BERNARD SANDERS, Vermont
+JEFF FLAKE, Arizona
+DEBBIE STABENOW, Michigan
+STEVE DAINES, Montana
+JOE MANCHIN III, West Virginia
+CORY GARDNER, Colorado
+MARTIN HEINRICH, New Mexico
+LAMAR ALEXANDER, Tennessee
+MAZIE K. HIRONO, Hawaii
+JOHN HOEVEN, North Dakota
+ANGUS S. KING, JR., Maine
+BILL CASSIDY, Louisiana
+TAMMY DUCKWORTH, Illinois
+ROB PORTMAN, Ohio
+CATHERINE CORTEZ MASTO, Nevada
+SHELLEY MOORE CAPITO, West Virginia
+TINA SMITH, Minnesota
+Brian Hughes, Staff Director
+Patrick J. McCormick III, Chief Counsel
+Robert Ivanauskas, FERC Detailee
+Mary Louise Wagner, Democratic Staff Director
+Sam E. Fowler, Democratic Chief Counsel
+Spencer Gray, Democratic Professional Staff Member
+C O N T E N T S
+----------
+OPENING STATEMENTS
+Page
+Barrasso, Hon. John, a U.S. Senator from Wyoming.................
+1
+Cantwell, Hon. Maria, Ranking Member and a U.S. Senator from
+Washington.....................................................
+1
+Murkowski, Hon. Lisa, Chairman and a U.S. Senator from Alaska....
+4
+WITNESSES
+McIntyre, Hon. Kevin J., Chairman, Federal Energy Regulatory
+Commis-
+sion...........................................................
+6
+Walker, Hon. Bruce J., Assistant Secretary, Office of Electricity
+Delivery and Energy Reliability, U.S. Department of Energy.....
+17
+Berardesco, Charles A., Interim President and Chief Executive
+Officer, North American Electric Reliability Corporation.......
+24
+Clements, Allison, President, goodgrid LLC.......................
+50
+Ott, Andrew L., President & CEO, PJM Interconnection, L.L.C......
+55
+van Welie, Gordon, President & Chief Executive Officer, ISO New
+England........................................................
+65
+ALPHABETICAL LISTING AND APPENDIX MATERIAL SUBMITTED
+Barrasso, Hon. John:
+Opening Statement............................................
+1
+Berardesco, Charles A.:
+Opening Statement............................................
+24
+Written Testimony............................................
+26
+Responses to Questions for the Record........................
+136
+Cantwell, Hon. Maria:
+Opening Statement............................................
+1
+The National Academies of Sciences, Engineering, and
+Medicine--A Report entitled ``Enhancing the Resilience of
+the Nation's Electricity System''..........................
+3
+Clements, Allison:
+Opening Statement............................................
+50
+Written Testimony............................................
+52
+Responses to Questions for the Record........................
+143
+King, Jr., Hon. Angus S.:
+Chart entitled ``Natural Gas Prices--Massachusetts vs.
+Marcellus''................................................
+85
+Chart entitled ``Natural Gas and Wholesale Electricity Prices
+Are Linked''...............................................
+87
+McIntyre, Hon. Kevin J.:
+Opening Statement............................................
+6
+Written Testimony............................................
+8
+Responses to Questions for the Record........................
+107
+Murkowski, Hon. Lisa:
+Opening Statement............................................
+4
+Ott, Andrew L.:
+Opening Statement............................................
+55
+Written Testimony............................................
+57
+Responses to Questions for the Record........................
+155
+van Welie, Gordon:
+Opening Statement............................................
+65
+Written Testimony............................................
+67
+Responses to Questions for the Record........................
+166
+Walker, Hon. Bruce J.:
+Opening Statement............................................
+17
+Written Testimony............................................
+20
+Responses to Questions for the Record........................
+119
+THE PERFORMANCE OF THE ELECTRIC POWER SYSTEM IN THE NORTHEAST AND MID-
+ATLANTIC DURING RECENT WINTER WEATHER EVENTS, INCLUDING THE BOMB
+CYCLONE
+----------
+TUESDAY, JANUARY 23, 2018
+U.S. Senate,
+Committee on Energy and Natural Resources,
+Washington, DC.
+The Committee met, pursuant to notice, at 10:18 a.m. in
+Room SD-366, Dirksen Senate Office Building, Hon. Lisa
+Murkowski, Chairman of the Committee, presiding.
+STATEMENT OF HON. JOHN BARRASSO,
+U.S. SENATOR FROM WYOMING
+Senator Barrasso [presiding]. We call this hearing to
+order. I want to welcome everyone here.
+Senator Murkowski will be here shortly for this hearing
+that is titled, ``Examining the Performance of the Electric
+Power System in the Northeast and Mid-Atlantic during recent
+winter weather events, including the Bomb Cyclone.''
+I would like to start by calling on the Ranking Member,
+Senator Cantwell, to give her opening statement.
+STATEMENT OF HON. MARIA CANTWELL,
+U.S. SENATOR FROM WASHINGTON
+Senator Cantwell. Thank you, Chair Barrasso, and good
+morning to everyone. I am sure that Senator Murkowski will be
+here shortly.
+As some people may know, a 7.9 magnitude earthquake hit off
+the coast of Alaska, impacting Kodiak and parts of the Pacific
+Northwest with tsunami warnings that were issued for activities
+that were expected. Those warnings for tsunami waves have been
+recalled, but no doubt, I am sure the Senator is dealing with
+lots of things this morning related to that and other issues.
+I want to thank our witnesses, Chairman McIntyre and Mr.
+Walker, for being here. And I want to thank the staff here.
+We're glad we're back in operation. So we look forward to
+hearing from all our witnesses on the subject on the
+reliability of the grid and its performance.
+Last year Secretary Perry and his staff reviewed the
+reliability of the electricity grid in the light of the
+changing fuel mix, and I was relieved when I saw the staff
+report in August which I thought was fairly balanced. It
+carefully distinguished between the terms ``reliability'' and
+``resilience'', and it described emerging techniques to
+integrate more renewable resources, including synthetic inertia
+and frequency response. It also recommended grid operators
+adopt resilience metrics that still needed to be developed.
+Unfortunately, when Secretary Perry filed his report as a
+proposal to FERC, I was a little more alarmed. The proposal
+ignored the conclusion of the Department's own staff. It was a
+transparent attempt, in my opinion, to prop up the
+Administration's favorite kinds of energies which are getting
+outpaced in the marketplace.
+There were many problems with this proposal. They never
+defined resilience. It picked a single attribute of power
+plants--fuel stored onsite--and it elevated it above all other
+factors. It promised full recovery for coal in some states that
+had chosen to follow a market model years ago. But the biggest
+problem was that it would hit consumers with billions of
+dollars of additional added costs to multiple, independent
+assessments.
+Bailing out coal plants isn't just bad policy, it was a
+breathtaking raid on the consumer's pocketbooks.
+The PJM market monitor found that the Secretary's proposal
+could nearly double the cost of wholesale energy in the
+nation's largest electricity market. So I want to applaud
+Chairman McIntyre and the whole Commission for unanimously
+rejecting the Secretary's proposal. At the heart of that
+rejection, I believe, are consumers. I think the Commission
+wisely reviewed the Federal Power Act's just and reasonable
+standard for electricity rates and found that the Secretary had
+not met this burden of proving that the current rules are
+unjust and unreasonable. Consumers couldn't have asked for a
+better defense.
+Given some of the troubling stories about coal interests
+and lobbying the Department, it has never been more important
+for FERC to maintain its tradition of independence.
+I hope that Secretary's proposal hasn't given resilience a
+bad name. The difference between the grid's recovery from
+hurricanes in Florida and Texas versus Puerto Rico shows that
+resilience really does affect lives and quality of life. It
+deserves more attention.
+So I am pleased that we have Allison Clements testifying
+today, along with our other witnesses. She serves on the
+National Academies Committee that wrote an excellent report
+last summer on grid resilience, and I would like to submit that
+report for the record.
+[The information referred to follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Senator Cantwell. It also has a series of concrete
+recommendations to Congress, to FERC and the Department of
+Energy that I hope we can explore today.
+Again, Madam Chair, thanks to all the witnesses for being
+here and for calling this hearing.
+STATEMENT OF HON. LISA MURKOWSKI,
+U.S. SENATOR FROM ALASKA
+The Chairman [presiding]. Thank you, Senator Cantwell.
+My apologies to our witnesses, as well as our Committee
+members. We have had a busy morning in Alaska this morning. I
+am told all is well, but I appreciate more than ever the value
+of things like the earthquake and tsunami early warning
+systems. It is important that they are there and that they were
+actually operating now that the government is back to order.
+Last week I outlined the busy agenda that we will have this
+year. While we will maintain our focus on legislation and
+nominations, oversight is also a very critical part of our
+role. We are obligated to examine the performance of agencies
+under our jurisdiction. Today is an opportunity to gauge
+whether federal policy is helping or hindering improvements in
+energy system performance.
+While it may not have been up to Alaska standards, the
+cold, snow and ice endured by many in the lower 48, especially
+along the Eastern Seaboard, was quite notable over the holidays
+and into the New Year. While the worst of it occurred over and
+on the shoulders of a holiday period and we didn't reach the
+extremes felt in the 2014 Polar Vortex, we did experience a so-
+called ``Bomb Cyclone'' event.
+I understand that a Bomb Cyclone is a cyclone storm system
+in which the pressure drops precipitously in a short period of
+time. Apparently these happen relatively often off the
+northeast coast but this recent storm was a record-breaker with
+the largest pressure drop in a 24-hour period since 1976. As
+such, it presented a kind of informative stress test for the
+electric power system.
+Now I have often said that federal law and policy must
+enable energy to be affordable, clean, diverse and secure. With
+this hearing, we return to a subject I have been following
+keenly since at least 2010 about how changes in the nation's
+electric grid and the mix of primary electricity sources are
+stressing system reliability and what federal changes may be
+necessary to address those stresses. The Secretary of Energy's
+Notice of Proposed Rulemaking (NOPR) issued in September and
+the recent FERC Order in response were focused on these same
+issues.
+In 2014, following the Polar Vortex, we held a similar
+hearing to examine challenges to the electric system. I said
+then that we needed to redouble a properly scaled and
+continuously improving approach to grid reliability and
+security. I am pleased to see that today's testimony shows that
+there were many lessons learned from that extreme weather
+event.
+For example, there now appears to be improved coordination
+between the electric and the gas systems. The RTOs and FERC
+have reformed market rules and improved business practices,
+NERC has updated its approaches and that is all good news. The
+bad news is that we have not addressed the more difficult and
+fundamental challenges for electric and gas infrastructure.
+For example, gas pipeline infrastructure remains too
+constrained. Broader policy changes are not sufficiently taking
+into account increasing risks that, in future years, system
+operators may have to turn to intentional service
+interruptions, otherwise known as ``load shedding'' or rolling
+blackouts or brownouts, to manage certain peak periods. One of
+our witnesses will speak about the situation in New England,
+which in some respects could serve as a harbinger of challenges
+in other parts of our nation.
+We must ensure that our nation's natural gas supply, which
+is a boon to our economy and to our national security, can be
+reliably delivered to a changing marketplace.
+At the same time, it is not clear what the reliability and
+economic impacts will be of a grid whose primary electricity
+resources are less diverse over time as baseload nuclear and
+coal units continue to retire.
+Meeting all of these challenges, while also strengthening
+competition for the benefit of energy customers, should be a
+shared priority. After all, promoting competition has been a
+tenet of federal electricity policy that has enjoyed wide
+bipartisan support for more than two decades and should remain
+so.
+This morning we will hear from leaders of two agencies
+under our jurisdiction, FERC and the Department of Energy. We
+will hear from the heads of three regulated entities with
+quasi-regulatory responsibilities, the North American
+Electricity Reliability Corporation, or NERC, and the two
+regional transmission organizations, PJM and ISO New England.
+We also have a member of a committee of the National Academies
+of Science, Engineering, and Medicine with us.
+So I welcome each of you to the Committee this morning and
+look forward to your testimony. I would ask that you try to
+limit your testimony to about five minutes. Your full
+statements will be included as part of the record.
+This morning we are joined by the Honorable Kevin McIntyre,
+who is the Chairman of the Federal Energy Regulatory Commission
+(FERC). This is the first time that you have appeared before
+the Committee in your capacity as Chairman. We welcome you.
+The Honorable Bruce Walker is also with us as the Assistant
+Secretary for the Office of Electricity Delivery and Energy
+Reliability at the U.S. Department of Energy (DOE). It is good
+to see you again, Bruce.
+Mr. Charles Berardesco is the Interim President and the CEO
+for NERC, the North American Electric Reliability Corporation.
+We welcome you.
+Ms. Allison Clements is the President of goodgrid LLC.
+Senator Cantwell has mentioned your contributions. We thank
+you.
+Mr. Andrew Ott is the President and CEO for PJM
+Interconnection, L.L.C. Welcome.
+Mr. Gordon van Welie is the President and CEO of ISO New
+England.
+Welcome to each of you.
+Chairman McIntyre, if you would like to begin with your
+comments this morning.
+STATEMENT OF HON. KEVIN J. MCINTYRE, CHAIRMAN, FEDERAL ENERGY
+REGULATORY COMMISSION
+Mr. McIntyre. Yes, Senator.
+Chairman Murkowski, Ranking Member Cantwell and members of
+the Committee, thank you for the opportunity to appear before
+you today to discuss the performance of the electric system
+during the recent weather events.
+I am honored to serve as the Chairman of the FERC. Our
+Commission takes seriously the responsibilities that Congress
+has entrusted to us concerning the reliability of the bulk
+power system (BPS) in this country.
+We are still receiving and reviewing the data related to
+the performance of the bulk power system during the cold
+weather event that has taken place over the past month. Based
+on what we know to date, it appears that notwithstanding stress
+in several regions, overall, the bulk power system performed
+relatively well amid challenging circumstances. Looking
+forward, we must both learn from this experience and remain
+vigilant with respect to challenges to the reliability and
+resilience of the bulk power system.
+The performance of the bulk power system during the 2014
+winter event you referred to, now commonly known as the Polar
+Vortex, did provide useful context for understanding the
+performance of the bulk power system under the more recent
+winter events of the past month.
+During the 2014 Polar Vortex, much of the U.S. experienced
+sustained and, at times extreme, cold weather. The challenges
+presented by these conditions and high electric demand were
+compounded by unplanned generator shutdowns of various fuel
+types. These combined circumstances tested grid reliability and
+power supplies and contributed to high electricity prices.
+Drawing on that experience, FERC took numerous actions, as
+you have referenced, to address reliability and resource
+performance issues. For example, the Commission directed
+Regional Transmission Organizations and Independent System
+Operators, or RTOs and ISOs, as we usually call them, to report
+on fuel assurance issues, and the Commission revised its
+regulations to enhance coordination between the natural gas and
+the electric industries in light of the increasing use of
+natural gas as fuel for electric generation.
+For certain regions, the Commission approved capacity
+market reforms that are intended to increase financial
+incentives for improved resource performance and to penalize
+non-performance or poor performance. The Commission also
+approved temporary winter reliability programs in New England.
+Turning to the winter weather events of the past month, it
+is useful to consider the impact of the recent weather events
+on both the provision of service and the associated costs of
+that service. Importantly, there were no significant customer
+outages that resulted from failures of the bulk power system,
+generators or transmission lines. While there were no
+significant reliability problems during this recent cold
+weather event, wholesale energy prices were high, reflecting
+the stress on the system.
+Higher wholesale energy prices that accurately reflect fuel
+costs and current system conditions can be beneficial sending
+important signals that drive operational and investment
+decisions for both utilities and consumers. We also recognize
+that higher wholesale energy prices are ultimately borne by
+retail customers. And so, the Commission is attentive to the
+potential for behavior that takes advantage of extreme weather
+events.
+Just as the Commission and the RTOs and the ISOs drew
+lessons from the Polar Vortex in 2014 and applied them in ways
+that better prepared us for this recent cold weather event, we
+will examine these more recent events very carefully and seek
+to learn from them.
+I would like to emphasize a few points that the Commission
+made in an order issued a couple of weeks ago on the issue of
+resilience, more generally, referred to by Ranking Member
+Cantwell in her opening remarks.
+On January 8th, the Commission responded to the Proposed
+Rule on grid reliability and resilience pricing submitted to
+the Commission by the Secretary of Energy, and we initiated a
+new proceeding to further explore resilience issues beginning
+with the RTOs and the ISOs. As we stated in our order, we
+appreciate the Secretary reinforcing the importance of the
+resilience of our bulk power system as an issue that warrants
+further attention and, as we said in our order, prompt
+attention.
+The goals of our new proceeding are: First, to develop a
+common understanding among the Commission and industry and
+others as to what resilience of the bulk power system actually
+means and requires; second, to understand how each RTO and ISO
+assess resilience within its geographic footprint; and third,
+to use this information to evaluate whether additional
+Commission action regarding resilience is appropriate at this
+time.
+The Commission directed each RTO and ISO to submit within
+60 days of our order specific information regarding resilience
+of the bulk power system within those respective regions, and
+we invited the other interested entities to file reply comments
+within 30 days after the RTOs and ISOs submit their comments.
+We expect to review the additional material and promptly decide
+whether additional Commission action is warranted to address
+grid resilience.
+In our January 8th order, the Commission also recognized
+that the concept of resilience necessarily involves issues that
+extend beyond our Commission's jurisdiction such as
+distribution system reliability and modernization. For that
+reason, we encouraged RTOs and ISOs and other interested
+entities to engage with state regulators and other stakeholders
+to address resilience at the distribution level and more
+broadly.
+I assure you that the reliability and the resilience of the
+bulk power system will remain a priority of the FERC.
+I look forward to answering your questions.
+[The prepared statement of Mr. McIntyre follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Chairman McIntyre.
+Assistant Secretary Walker, welcome.
+STATEMENT OF HON. BRUCE J. WALKER, ASSISTANT SECRETARY, OFFICE
+OF ELECTRICITY DELIVERY AND ENERGY RELIABILITY, U.S. DEPARTMENT
+OF ENERGY
+Mr. Walker. Thank you.
+Chairman Murkowski, Ranking Member Cantwell and
+distinguished members of the Committee, thank you for the
+opportunity to discuss the issue of grid resilience during the
+recent cold weather affecting the Northeast United States.
+Just two months ago I testified before this Committee
+regarding the response and recovery efforts in Puerto Rico and
+the U.S. Virgin Islands. Secretary Perry and the Administration
+remain committed to supporting this restoration.
+The topic of today's hearing is timely. The resilience and
+reliability of the energy sector are top priorities of the
+Secretary and a major focus of the Department of Energy. In
+fact, the first study requested by the Secretary was the Staff
+Report to the Secretary on Electricity Markets and Reliability.
+The report examined the evolution of the wholesale
+electricity markets, the effect on grid reliability and
+resilience as it relates to wholesale energy and capacity
+markets compensating specific attributes and the connection
+between regulatory burdens and the retirement of baseload power
+plants. Many of the findings contained within the study were
+borne out in recent severe weather events across the nation.
+The last several months have been quite demanding on the
+energy sector. From an extremely active hurricane season to the
+2018 Deep Freeze, we have confronted challenges that tested the
+resilience and reliability of our energy infrastructure in
+different ways.
+During the recent cold snap from late December 2017 to
+early January, the Northeast saw record low temperatures for
+several days; however, customer outages were minimal.
+What was apparent during this weather event was the
+continued reliance on baseload generation and a diverse energy
+portfolio. Without action that recognizes the essential
+reliability services provided by a strategically diversified
+generation portfolio, we cannot guarantee the resilience of the
+electric grid. The grid's integrity is maintained by an
+abundant and diverse supply of fuel sources today, especially
+with onsite fuel capability; however, the real question is
+whether or not this diversity will be here tomorrow.
+Resilience for our electric infrastructure has become more
+important than ever as major parts of our economy are now
+totally dependent on electricity. Even momentary disruptions in
+power quality can result in major economic losses.
+At the same time, we are in the early stages of a large
+transformation of our electric supply system, with this process
+of change likely to continue for many years. Keeping the lights
+on during this transformation will require unprecedented
+coordination and collaboration amongst many parties. DOE is
+committed to work with FERC and regional RTOs and ISOs to
+achieve this mission.
+Stakeholders are facing multiple, connected issues. With
+growing asset stress, the integration of increasing amounts of
+distributed energy resources, growing consumer participation,
+dynamic markets, increasing cybersecurity and physical threats
+and the advent of the Internet of Things, the grid that
+sustained us for over a century must be designed to ensure
+reliability and resilience over the next century.
+Today, the marketplace, rather than engineering principles
+focused on building and maintaining a resilient energy system,
+is driving the design of the system. However, it is clear we
+need an in-depth understanding of the resilience of our
+electricity and related infrastructure in order to know how
+best to either modify existing market structures and/or build
+new resiliency standards into the system.
+To that end, I propose that DOE undertake a detailed
+analysis that integrates into a single, North American energy
+infrastructure model of the ongoing resilience planning efforts
+at the local, state and regional levels, including the
+interconnections between Canada and Mexico and also fills any
+gaps and harmonizes any inconsistencies in various efforts at
+those same levels.
+I understand that we currently do not have funds
+appropriated for such a task, so I am taking this opportunity
+to make my position clear. I believe that building this
+resiliency model should be the top priority for DOE's Office of
+Electricity Delivery and Energy Reliability over the coming
+years as does the leadership of the Department of Energy.
+To address challenges posed by events such as the recent
+cold snap as well as systemic energy infrastructure issues, it
+is critical for us to be proactive and cultivate an ecosystem
+of resilience, a network of producers, distributors,
+regulators, vendors and public partners, acting together to
+strengthen our ability to prepare, respond and recover.
+DOE continues to partner with industry, federal agencies,
+states, local governments and other stakeholders to quickly
+identify threats, to develop in-depth strategies to mitigate
+those threats and rapidly respond to any disruptions.
+Resilience is not a one-time activity but a habit. It is
+not something that cannot be done in 24 or 48 hours before an
+event and many events occur with little or no notice.
+Resilience is approaching our energy infrastructure with long-
+term planning in mind, understanding the future benefits
+resulting from investments made today.
+In conclusion, today we are faced with various threats that
+continually become more frequent and impactful. The energy
+system that provides services throughout the nation are prime
+targets. Accordingly, we need to build upon the reliable system
+we have today, realized from the hard work of FERC and the RTOs
+and ISOs, to make them more resilient to stave the deleterious
+effects of these present and real threats. The near-term
+concern is that energy markets are significantly driving the
+investments being made in generation sources throughout the
+nation.
+Indeed, most of these investments are primarily being made
+to address economic dispatch issues within specific regions.
+This has resulted in a significant reliance, in fact, perhaps
+an overreliance in some instances, on less costly fuel, in this
+case today, natural gas.
+The lack of a comprehensive integrated process to drive
+appropriate investments to improve resiliency that take into
+account energy system interdependencies, critical
+infrastructure susceptibilities, essential reliability services
+as well as affordability, increases the risk of a compromised
+energy infrastructure and thus, the security of this nation.
+Thank you for the opportunity to testify and I look forward
+to your questions.
+[The prepared statement of Mr. Walker follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Assistant Secretary, I appreciate
+your words.
+Mr. Walker. Thank you.
+The Chairman. Mr. Berardesco, welcome.
+STATEMENT OF CHARLES A. BERARDESCO, INTERIM PRESIDENT AND CHIEF
+EXECUTIVE OFFICER, NORTH AMERICAN ELECTRIC RELIABILITY
+CORPORATION
+Mr. Berardesco. Thank you.
+Chairman Murkowski, Ranking Member Cantwell, members of the
+Committee, thank you for holding today's hearing. I'm the
+Interim President and CEO of NERC, the Electric Reliability
+Organization designated by FERC. In addition to developing and
+enforcing mandatory reliability standards for the bulk power
+system, NERC continually assesses reliability and monitors
+system operations, including in New England and the Mid-
+Atlantic.
+My testimony covers four points: NERC's monitoring of the
+bulk power system and our work with stakeholders, industry and
+government; the performance of the system during the recent
+extreme cold weather; how NERC fosters a continuous learning
+environment to improve reliability; and recommendations based
+on NERC's reliability assessments.
+For NERC, severe weather is, among other things, an
+opportunity to learn from events, to improve reliability for
+the future. Even when nothing bad happens, stress on the system
+points to reliability risks that should be addressed. NERC's
+bulk power system awareness group is our eyes and ears on the
+system and an important part of this process. On a daily basis,
+we continuously monitor operations on the grid working with
+NERC's regional entities, reliability coordinators,
+transmission operators and generators.
+In conjunction with NERC's regional entities, we also
+analyze system disturbances that impact, or could impact,
+reliability. In turn, this information is shared with industry
+operators, FERC and DOE.
+In short, these activities provide daily visibility into
+the system and actionable information to improve reliability.
+During extreme weather events NERC operates on an elevated
+basis. Throughout the severe cold weather period, we held calls
+with NERC's regional entities in the affected areas and
+gathered information from the Reliability Coordinators, such as
+ISO New England and PJM, about concerns and issues associated
+with the impending storm. Multiple coordination calls were held
+daily with regional entities and FERC staff to understand fuel
+levels, natural gas availability and other factors such as fuel
+storage and replenishment plans as well as dual fuel
+capabilities.
+During the extreme cold the primary challenge was reliably
+serving electricity demand during a period of near, and in some
+cases, record-setting winter lows. To manage the situation,
+Reliability Coordinators implemented conservative operations,
+emergency procedures and began heightened planning,
+communications and preparation.
+Throughout, the bulk power system remained stable and
+reliable. A diverse generation mix with adequate flexibility
+and backup fuel was key to meeting increased electricity
+demand, and all forms of generation contributed to serving
+load.
+New England experienced, perhaps, the greatest stress to
+the system. The region experienced increased use of fuel oil
+for generation, due to high natural gas prices, combined with
+record-setting consumption of natural gas for heating and other
+uses. Resupply of depleted oil inventories was delayed due to a
+winter storm impacting New England.
+Finally, the loss of the nuclear power station due to a
+transmission system outage removed 685 megawatts of baseload
+generation for several days. But again, throughout all of this,
+in New England and elsewhere, there was no loss of load due to
+BPS conditions.
+Based on the information we reviewed to date, we are seeing
+improved performance this winter compared to past winters of
+similar or worse severity. In part, this is due to actions
+taken from the lessons of the 2014 Polar Vortex.
+NERC's report analyzing the Polar Vortex underscores the
+need for thorough and sustained winter preparation, close
+coordination and communication between generator and system
+operators and reliable fuel supply.
+NERC and the regions, in close coordination with industry
+stakeholders, conduct annual workshops and webinars concerning
+winter weather preparation, provide lessons learned and share
+good industry practices.
+The regional entities are important to leveraging NERC's
+work with industry at the regional level. For example, the
+Reliability First Corporation, whose footprint includes the
+Mid-Atlantic region, conducted 18 onsite visits to generators
+since the Polar Vortex. These engagements are targeted at
+generating facilities that have experienced freezing or cold
+weather-related issues during prior winters and new generating
+facilities. This collaboration helped remedy winter challenges
+and share lessons learned, thereby contributing to improved
+performance.
+While the recent extreme cold weather period was less
+severe than the 2014 Polar Vortex, observations from both
+events point to four recommendations that NERC makes in the
+recent reliability assessments. First, reliable and assured
+fuel supply is essential to electric reliability. In wholesale
+electricity markets NERC recommends that market operators
+develop additional rules or incentives to encourage increased
+fuel security, particularly during winter months. Policies
+should also promote reliable natural gas supply and
+transportation. Second, generator owners and operators should
+maintain and regularly test backup fuel operability. Third,
+regulation of oil-based fuel for backup generation raises a
+potential need for expeditious consideration of air permit
+waivers. And finally, during the extreme cold, a diverse
+generation mix, flexible fuel resources and backup fuel were
+key to meeting increased electricity demand.
+Accordingly, NERC recommends policymakers and regulators
+should consider measures promoting fuel diversity and
+assurance.
+Thank you for this opportunity and I look forward to your
+questions.
+[The prepared statement of Mr. Berardesco follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Mr. Berardesco.
+Ms. Clements, welcome.
+STATEMENT OF ALLISON CLEMENTS, PRESIDENT,
+GOODGRID LLC
+Ms. Clements. Thank you. Good morning.
+Thank you and good morning, Chairwoman Murkowski, Ranking
+Member Cantwell and distinguished members of the Committee.
+I am President of goodgrid, a firm that specializes in
+energy policy and law. In 2016 to 2017, I served on the
+National Academies of Sciences, Engineering, and Medicine
+Committee that produced this consensus report, ``Enhancing the
+Resilience of the Nation's Electricity System.'' While I will
+talk about the report's findings, the views I express today are
+my own, not the Committee's.
+The national dialogue about resilience comes at a critical
+moment. The National Academies Report notes that the U.S.
+electricity grid is increasingly vulnerable to the risk of
+cyber and physical attack and the increased frequency and
+duration of hurricanes, blizzards, floods and other extreme
+weather events caused by climate change.
+The hurricanes you mentioned, Senator Cantwell, in your
+remarks, provide the most vivid examples of the health and
+safety impacts that prolonged electricity outages can have on
+our population, especially our already most vulnerable
+communities.
+Natural disasters reportedly caused $306 billion in 2017,
+making it, by far, the most expensive natural disaster year on
+record.
+As the FERC most recently defined it, resilience is ``the
+ability to withstand and reduce the magnitude and/or duration
+of a disruptive event.'' Importantly, resilience is, at its
+core, a transmission and distribution system concept and not
+one that is specifically focused on power generation types. We
+must distinguish between resilience and reliability, as you
+mentioned. Grid reliability is ensuring that enough generation
+and transmission exists to satisfy all customers' electricity
+needs and avoiding blackouts if a line or a plant goes down.
+While implementing reliability rules is certainly complex,
+the concept itself is relatively straightforward and amenable
+to standards for measuring its sufficiency. Resilience,
+separately, has emerged with this massive new risk brought on
+by the threat of attack and by the impacts of climate change.
+Although the unpredictable nature of the threats, like from
+this mornings canceled tsunami warning, making, defining and
+developing resiliency metrics is difficult; however, existing
+NERC and regional standards for reliability do actually also
+provide some resiliency benefit.
+The recent winter conditions provide three takeaways to
+inform your resilience-related policy thinking.
+First, the transmission system is reliable. We've already
+heard this. Incorporating lessons learned from the 2014 Polar
+Vortex, RTOs reliably managed unexpected outages during the
+Bomb Cyclone, like the manual shutdown of the Pilgrim Nuclear
+Plant in ISO New England. Before we rush to establish
+resilience rules for the transmission system, we should
+determine what markets, planning and operations protocols
+already due in terms of supporting resilience and whether
+additional metrics are necessary. The National Academies Report
+cautions about the difficulties of creating cost-effective and
+non-redundant rules for unpredictable and varied resilience
+needs. This Committee can support the efforts that Chairman
+McIntyre described at FERC on the resilience front.
+Second, efforts to ensure resilience should focus on
+protecting vulnerable communities and ensuring access to
+hospitals, fire stations and other critical services. Despite
+the bulk system reliability in the last month, 80,000 homes and
+businesses had little comfort when they lost power during the
+Bomb Cyclone. To tackle end-use resilience needs where people
+are affected, we depend on resilience planning and emergency
+preparedness at the local and state level. Proactive
+Congressional support outlined in the National Academies
+Report, especially via public-private partnerships, can go a
+long way in supporting this planning and improving resilience.
+Third, renewable energy and distributed energy resources
+are critical components of a reliable grid. The Bomb Cyclone
+and the 2014 Polar Vortex affirmed wind power's role as a
+critical cold weather reliability resource. Wind power
+performed well above its allotted capacity values and did not
+go offline, helping to avoid, generally, helping to avoid price
+spikes and other blackouts.
+Distributed energy resources, especially customers getting
+paid to reduce their power use, can provide significant
+contributions to extreme weather reliability as well.
+This was demonstrated during the Polar Vortex in PJM where
+nearly 3,000 megawatts of voluntary demand reduction played a
+key reliability role. Unfortunately, current ISO New England
+and PJM rules do not provide incentives for economic reductions
+under these conditions in demand and did not facilitate
+significant economic demand response this month, to my
+understanding.
+These takeaways affirm the value of competitive wholesale
+markets and FERC's long tradition of technology-neutral support
+for these markets.
+With the DOE's proposed NOPR behind us, this Committee
+should be wary of other supposed in-market proposals, intended
+to sustain specific types of power generation.
+At this critical moment and through smart resilience
+policy, this Committee has a strong opportunity to support a
+clean, reliable and affordable energy future.
+Thank you.
+[The prepared statement of Ms. Clements follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Ms. Clements.
+Mr. Ott, welcome to the Committee.
+STATEMENT OF ANDREW L. OTT, PRESIDENT & CEO,
+PJM INTERCONNECTION, L.L.C.
+Mr. Ott. Thank you, Chair Murkowski and Ranking Member
+Cantwell and other members of the Committee. I appreciate the
+opportunity to testify in front of you today about PJM's
+experience during the recent cold snap from December 27th to
+January 7th. I wish to offer, also, our perspective on
+activities we need to engage in in the future to ensure that
+our nation's electric infrastructure remains reliable and
+resilient and the supply of electricity is actually met
+efficiently, fairly and cost-effectively.
+As I note in my testimony, we are a FERC-regulated,
+regional transmission organization serving all or parts of 13
+states plus the District of Columbia. We have a population of
+65 million people. So obviously, the reliability of the grid is
+job one for us.
+During recent cold weather, we've experienced three of our
+top ten winter peak demand days of all time. Overall, the grid
+and the generation fleet performed very well. We had very
+sustained high performance throughout the cold snap.
+This cold snap was actually prolonged as compared to the
+Polar Vortex which was much shorter, more deeper cold. This
+cold snap was much more prolonged, and we depended on that
+prolonged improved performance.
+With the support of FERC, we had instituted reforms in our
+capacity market regarding pay for performance based on the
+lessons learned from the Polar Vortex, as the Chairman had
+indicated. And we did see significantly improved performance
+during this cold weather event.
+All resource types, coal-fired generation, gas-fired
+generation, nuclear generation, renewable generation, all
+performed better in this cold weather event than what we saw
+during the Polar Vortex and certainly we see that improvement
+was based on our lessons learned, improvements in investment
+back into those resources to see that they perform well.
+While I can assure you that the grid is reliable today, our
+work is not done. We certainly cannot become complacent. We
+need to look at certain initiatives to undertake, and certainly
+PJM has been undertaking those initiatives to look at the
+resilience of the grid and how we are going to improve the
+robustness and resilience of the grid into the future.
+We look at this from three perspectives: we have to plan
+the grid with an eye toward resilience, go beyond the
+traditional criteria; we need to operate the grid looking at
+the increased risks and increased threats that we see; and
+also, look at recovery of the grid should something happen we
+need to be able to bounce back quickly. So, those are the types
+of things we look at.
+I want to also bring to this Committee's attention some of
+the broader initiatives we'll be actually working in
+partnership with the new FERC Chairman as we go through the
+process of the docket that they opened, as he had mentioned.
+One of the most important things that we have been focused
+on is how does our market, electricity market, actually
+compensate for resources that are providing reliability
+services?
+And we have proposed key reforms and have engaged in
+discussion about key reforms on what we call price formation,
+and I want to spend a little bit of time explaining what that
+means for this Committee and for FERC as a whole.
+Just to be clear, the generating units we call upon to
+serve our customers and produce electricity get paid. They
+recover their offers and their costs and certainly are not
+uncompensated.
+But at times what we find is the total cost of operation of
+those units to provide the reliable power in each day, they
+don't necessarily get those monies in the market. Sometimes the
+market price doesn't reflect the fact that they're online and
+running; therefore, we have to compensate them through what we
+call an ``out-of-market'' payment. To put it in perspective, in
+this recent cold snap normally the out-of-market payments are
+about $500,000 a day for us, which is a very small number
+compared to the total cost of electricity. In the cold snap, we
+saw that increase fairly dramatically to $4 million, sometimes
+$6 million a day.
+What that shows is, so we are running those units to
+provide reliability to the grid, but the fact that they're
+running isn't reflected in the power price, the price of
+electricity. They get paid, but they aren't seeing it in the
+price. Therefore, when they go to sell their electricity
+forward in the market, so they're going to sell it for next
+month or next year, they're selling it at a discount that's not
+reflecting the fact that they were on to serve customers
+reliably in that cold snap.
+So, that's the issue we have to address. That's the issue
+that all resources will benefit from whether it be coal-fired
+resources, gas-fired resources, nuclear, renewable, demand
+response, alternative technologies. If we get the price right,
+all of these resources will see the dollar value of the
+reliability that they're proposing, and that's what we want to
+engage in, is that conversation.
+What we really need, because there's so many things that we
+need to address, we need to put time discipline. We're looking
+for FERC, and certainly we'll work with FERC, to put time
+discipline on these discussions to address these in a timely
+manner.
+I thank you very much. I look forward to questions.
+[The prepared statement of Mr. Ott follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Mr. Ott.
+Mr. van Welie?
+STATEMENT OF GORDON VAN WELIE, PRESIDENT & CHIEF EXECUTIVE
+OFFICER, ISO NEW ENGLAND
+Mr. van Welie. Good morning, Chairman Murkowski, Ranking
+Member Cantwell, members of the Committee. Thank you so much
+for the opportunity to appear before you this morning.
+In 2013, I appeared before this Committee to highlight a
+growing concern in New England which was that we were becoming
+more dependent on natural gas-fired power generation without
+the region making the investment in the natural gas
+infrastructure to supply the fuel to those generators. And
+since that time, we've continued to express our concern over
+the lack of secure fuel arrangements in the region.
+We also highlighted the possibility that both wholesale
+energy prices and emissions would rise when extreme weather
+results in natural gas pipeline constraints.
+In late December and early January, we experienced the
+impacts of the current fuel constraints as bitter cold
+temperatures drove an increase in demand for natural gas in the
+region. We've known for several years that when it gets cold
+the region does not have sufficient gas infrastructure to meet
+demand for both home heating and power generation.
+Constrained pipelines resulted in substantially higher
+natural gas prices causing gas to be priced out of the market.
+As a result, the bulk of the replacement energy was provided by
+burning oil, either through steam generators burning oil or by
+dual fuel units switching from gas to oil.
+These circumstances raise reliability challenges. First,
+the high burn rate for oil-fired generators rapidly diminishes
+oil inventory which inevitably needs to be replaced. And
+however, in a snow or an ice event, replenishment can be
+difficult or even impossible. Second, emission regulations
+limit the run time of oil-fired generators. Finally, both the
+fuel constraints and the rapid depletion of the oil inventory
+dramatically increased the potential of reliability
+consequences of a large transmission or generator outage during
+an extended cold weather event.
+These circumstances caused us to rejoice the operation of a
+number of the oil-fired generators and commit other resources
+into the market in order to manage the fuel inventory through
+the tail end of that extreme weather event.
+So far this winter, we've been fortunate not to experience
+any major contingencies that we could not handle and the bulk
+power system has operated reliably. That said, we know that
+winter is far from over and we will continue to carefully
+monitor regional fuel availability. Regardless of the outcome
+of the remainder of the winter, I believe the last few weeks
+validate our concerns and underscore the importance of a study
+that we released last week.
+In late 2016, we embarked on a study that we call, the
+Operational Fuel Security Analysis, to improve the region's
+understanding of the reliability risks stemming from the lack
+of fuel security.
+Our recent experience leads us to the conclusion that no
+new incremental gas infrastructure will be built to serve power
+generation; therefore, the study does not assume the build out
+of additional gas supply infrastructure for power generation.
+We examined 23 different scenarios to analyze whether or
+not fuel would be available to meet demand and to assess the
+operational risk that materialized, in particular, with the
+retirement of non-gas-fired resources or the outages of
+critical resources in infrastructure on the system. The
+analysis saw that energy shortfalls due to inadequate fuel
+would occur with almost every future fuel mix scenario
+requiring frequent use of emergency actions, including load
+shedding to protect grid reliability.
+So the ISO will discuss the results of this analysis with
+stakeholders, policymakers and regulators in the region
+throughout 2018 to understand the level of fuel security risk
+and hopefully determine what level of risk the region and the
+grid operator should accept.
+It will be costly to remedy these fuel security challenges;
+however, the alternative is negative impacts on system
+reliability, chronic price spikes during cold weather, higher
+emissions when it's more economic to burn oil than natural gas
+and the possibility of further interventions by the ISO into
+the market to delay the retirement of critical resources.
+Wholesale markets and the transformation of New England's
+bulk power system have resulted in significant economic and
+environmental benefits to the region; however, the fuel
+security difficulties are real and they are significant.
+If we're able to meet these challenges I think it will
+result in a more reliable, efficient and clean power grid
+benefiting the entire region.
+I appreciate your Committee's focus on this important
+matter and look forward to any questions that you might have.
+[The prepared statement of Mr. van Welie follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Mr. van Welie, we appreciate it.
+We appreciate the testimony of each of you this morning.
+Senator Manchin has indicated he has a pressing matter
+somewhere else and he asked very politely, so I am going to
+yield my time. You may take the first round of questions.
+Senator Manchin. I begged.
+[Laughter.]
+Senator Manchin. I begged.
+I want to thank Chairman Murkowski. Thank you so much and
+my dear friend, Ranking Member Cantwell, for allowing me to
+have this opportunity, but also for this hearing.
+Full disclaimer: West Virginia, as you know, has been a
+heavy-lifting state for a long time. We are very blessed and
+very pleased to be able to provide the energy the country has
+needed, starting way back when--for building, making the steel
+to build the ships that defend our country. So we are very
+proud of the energy part that we play in this great nation.
+With that, I think you all know that I am an all-in energy
+portfolio and the State of West Virginia is too, even though
+coal has been a dominant factor now that the Marcellus shale
+has come on so strong and Utica and even Rogersville. We have
+been blessed, and we're going to be able to help the country
+for many years to come.
+With that, as you know, I have been vocal about ensuring
+the reliability and resilience of our grid for some years,
+particularly since the Polar Vortex of 2014, which you all
+alluded to, and also the recent cold snap, the cold period that
+we hit.
+I supported the recent Department of Energy grid study and
+its subsequent proposal by FERC rulemaking. I have been asking
+questions about reliability and resilience in this Committee
+for some time and will continue to do so, particularly because
+we continue to see coal and nuclear plants going offline.
+We know the market forces that are at play. But over the
+most recent deep freeze of the Bomb Cyclone, as many are
+calling it, the grid performed well. I think you all recognize
+that, and I applaud each of you in your role, particularly you,
+Mr. Ott, in staying vigilant to make sure West Virginia homes
+stayed warm and the lights stayed on, since PJM is over West
+Virginia.
+I want to stress three points. We need to stay vigilant
+because coal-fired power performed well during the latest cold
+snap, yet many plants are fighting to survive. We need to
+better protect consumers from the shock and hardship of high
+electric bills when these events happen. West Virginia bills,
+as my colleague, Senator Capito will tell you, have risen
+exorbitantly in a very short period of time through no fault of
+its own. And I continue to be concerned that without criteria
+or standards for resilience it is truly hard to know whether
+our grid is actually resilient or not.
+So, for those people who believe that we can do without
+fossil completely, I want us all to be completely honest and
+accurate with them. We cannot. Maybe that day will come in the
+future. It's not here. And for what period of time and how soon
+that will happen, I don't know.
+I want to make sure we can provide what this country needs
+immediately and now and continue to do so for the time that it
+is going to be called upon.
+If I can start with you, Mr. McIntyre, and go down the line
+and ask one question. What would this country have done without
+the backup of coal-fired plants in the Polar Vortex and also
+this last Bomb Cyclone, if you will? And what critical position
+would it have put our country in, if any, so we can put that to
+rest and find out how we can stabilize and keep coal vibrant so
+it is there for that resilience that we need and the
+dependability this country needs?
+Mr. McIntyre. Thank you for the question, Senator.
+Coal did, as you heard from a couple of our witnesses
+here----
+Senator Manchin. Sure.
+Mr. McIntyre. ----perform well alongside other----
+Senator Manchin. I guess the question I am asking, would
+the system have been able to be flexible enough to provide the
+energy we needed during these periods of time?
+Mr. McIntyre. I think in this recent weather event, we
+wouldn't have seen any widespread outages absent coal. That
+said, coal was the key contributor. It wasn't exempt from
+operational problems. There were some issues, as I understand
+it, with frozen coal piles in certain sites and so on. But it
+was, no question, the key contributor.
+I share your overall view that all-of-the-above needs to be
+our philosophy of the different types of resources.
+Senator Manchin. Coal needs to have a place in this energy
+mix.
+Mr. McIntyre. Absolutely.
+Senator Manchin. Okay.
+Mr. Walker?
+Mr. Walker. Yes, sir, thank you for the question.
+So, you said something that I just want to--there's a
+little bit of a nuance. It's whether or not we could or should
+survive without the coal.
+And I think----
+Senator Manchin. There are some people that think that we
+should.
+Mr. Walker. Right.
+And I think it's very important to point out----
+Senator Manchin. I think they're wrong.
+Mr. Walker. ----that the evolution of the electric grid has
+inextricably tied together the vast energy systems throughout
+the United States--coal, natural gas, oil, insomuch as what
+we've done is we've put ourselves in a position where we now
+have more infrastructure to have to protect to ensure the safe
+and reliable distribution of bulk power.
+And so, you know, coal did play an important part here. And
+on average, it presented and provided 38 percent of the load
+during this event.
+So----
+Senator Manchin. Do you think that 38 percent, if it was
+not available, we would have had serious problems?
+Mr. Walker. The markets would have met the need with just
+simply much higher resources, but the point I'm trying to make,
+and perhaps not well, is that when we start relying on those
+other resources, things like natural gas and things like oil,
+we also increase our exposure because now the critical
+infrastructure in this country is not the coal sitting at a
+plant or a nuclear facility where I've got the nuclear fuel
+there. I've got to rely on thousands of miles of pipeline or
+transportation systems to get oil to locations.
+So the challenge to manage this, particularly in facing the
+threats we have today with, mostly, physical and cybersecurity,
+really, really should give us pause to step back and think
+about the diversity mix and whether or not we could ever get
+rid of oil. I think the better question for us is should we get
+rid of oil because it does--or coal, rather.
+Senator Manchin. Yes, I am not worried about oil.
+Mr. Walker. Because each one of those has certain unique
+characteristics that are very important.
+And I apologize for that.
+On page 86 of the staff report there's a chart that defines
+the different values of different types of generation add. And
+it's really, I think, what we have an opportunity going forward
+with and I look forward to working with FERC and the respective
+RTOs, is really finding that optimal mix that gives us the
+diversity for the resiliency and also minimizes our exposure
+from the cyber and physical threats that we face today.
+Senator Manchin. Madam Chair, I know my time is up. Can I
+just ask Mr. Walker--Mr. Ott, with PJM, he's responsible for
+delivering the 56 million, I think, was it 56 million?
+The Chairman. You are pressing your luck here this morning.
+[Laughter.]
+Mr. Ott, if you could reply, please.
+Senator Manchin. Mr. Ott?
+Mr. Ott. I'll make it very short.
+The reality is, again, for this past event, 45,000
+megawatts of the electricity that we delivered which is 40
+percent or more, was coal-fired. We could not have served
+customers without the coal-fired resources. That's the reality.
+The point is, are the prices reflecting the fact that those
+resources are running? My answer is no, it's not. We need to
+fix that. We clearly need it for now. The question is how does
+it transition?
+Clearly some coal plants don't run. They never run. They
+don't produce electricity. They're just hanging on. They should
+go.
+The ones that are running and online every day to serve
+customers should be reflected in the price. So, we need those.
+Some can go. Some have to stay.
+Senator Manchin. Thank you all.
+Thank you, Madam Chairman, for being so considerate and
+kind.
+The Chairman. It is a new day.
+Senator Cantwell.
+Senator Cantwell. Thank you, Madam Chair.
+Mr. Walker, obviously you've heard some of the
+recommendations on resiliency. Which one of those ideas in the
+report stand out to you as good things to implement?
+Mr. Walker. I think the position that FERC is taking in re-
+establishing what was previously the NOPR, in bringing the RTOs
+and the ISOs together to evaluate that the resiliency on their
+respective systems will provide an excellent baseline. And I've
+had the opportunity to meet with Mr. van Welie and go over his
+New England report and looked at the work that was done by PJM
+with the Polar Vortex.
+Those are two fantastic baseline analyses that will enable
+FERC, DOE, the RTOs and the ISOs to move forward with really
+having a fundamental understanding of where the
+interdependencies are on the system so that we can actually
+build a better and more resilient system informed by where the
+actual risk is and not the markets.
+Senator Cantwell. Well, I appreciate your comments about,
+first of all, compromised infrastructure and cybersecurity. I
+mean, given the Quadrennial Energy Review, that is where it
+said we should be spending our attention.
+And I'm reminded of this debate we had in this Committee in
+2015 about just that very issue, where oil and coal were
+competing for rail supremacy, and left upper Midwest utilities
+without the ability to serve their customers, simply because of
+congestion. So the dynamic is changing.
+And so I appreciate Ms. Clements' reports and the
+recommendations of those reports because you are citing the
+changing nature of economics and the challenges that then
+deliver to the utilities and to those who regulate the
+utilities.
+And that is why, Chairman McIntyre, I am so glad that you
+guys resisted what I thought was undue political pressure on
+the NOPR to try to force a bailout.
+I know that last week, Commissioner Chatterjee filed an ex
+parte notice about First Energy, a coal plant transfer. I think
+that was the right thing for him to do. But the news was
+troubling to me because it said to me that there were those who
+were trying to influence FERC on a political aspect as opposed
+to the thorny economic issues that are at stake here.
+What do you plan to continue to do to make sure that FERC
+is an independent agency? I will just give a little context--
+when ENRON manipulated the energy markets, I don't think
+anybody in my state really understood who or what FERC was. But
+after that, I guarantee you, it has become a household word
+because they know it is those that protect them from being
+gouged unfairly on energy prices, something so important to the
+economy of the Northwest.
+Mr. McIntyre. Yes, well, thank you for the question,
+Senator.
+The independence of FERC as an agency, as a federal agency,
+is essential to, first of all, it's that way by design,
+statutorily in its construction.
+And it's very important to me, personally, as I stated here
+in my confirmation hearing. I intend to do my utmost to ensure
+that it lives up to that independence.
+In this particular instance, I am delighted that we had a
+five to nothing vote reflected in our January 8 order. As you
+know, that reflects a bipartisan commission, three Republicans,
+two Democrats. And I'm just so pleased that we were able to
+see, kind of, a common path forward in terms of pursuing this
+very important issue of resilience.
+Senator Cantwell. So, you will make sure that politics
+stays out of it?
+Mr. McIntyre. Thus far, honestly, it hasn't been a problem.
+I have not personally felt any undue influence into any efforts
+to affect my decision-making.
+Senator Cantwell. Great.
+Mr. McIntyre. And I would expect that to continue.
+Senator Cantwell. Great, thank you.
+Ms. Clements, what about the Northeast and getting more
+supply? A lot of attention has been focused on increasing
+natural gas. What are some of the other options? I certainly
+understand the value of supply, but what do you think are some
+of the other solutions for the region for reliance and
+resilience?
+Ms. Clements. Thank you for the question, Senator.
+I think there is a couple of realities that we have to
+start with when we answer that question.
+And one is that this transition toward a different resource
+mix, one that has low marginal cost, free fuel from the sun and
+the wind as a predominant choice on parts of communities, on
+the parts of companies, on the parts of citizens, is already
+underway. It's already happening.
+And what the grid operators have always done as the energy
+mix has transitioned over time from back in the 50s all the way
+up until today, is manage that transition very well. And so the
+idea that this new set of resources coming on can't be reliable
+is a false place to start.
+And then the last reality, to inform. The answer to your
+question is that fuel diversity is one aspect of a resilient
+grid and of a reliable grid. It's not the only aspect.
+So when you're looking at the Fuel Security Report that
+just got released from New England, it is a great input into
+what is the standard regional planning practices for Regional
+Transmission Organizations and Integrated System Operators.
+It's a set. It's a piece. It showed 23 different scenarios. The
+assumptions that are included in the report have yet to be
+vetted through the stakeholder process, and certainly there's
+views by different stakeholders on whether or not those are the
+correct assumptions. But the report doesn't look at energy
+efficiency, the cheapest, most effective resource at protecting
+both resilience and reliability.
+Senator Cantwell. Thank you.
+Ms. Clements. It doesn't look at energy storage or any of
+those other options.
+Senator Cantwell. Thank you.
+Thank you, Madam Chair.
+The Chairman. Thank you, Senator Cantwell.
+Senator Barrasso.
+Senator Barrasso. Thank you very much, Madam Chairman.
+Mr. McIntyre, Wyoming is the nation's leading coal and
+uranium producing state. The industries are responsible for
+thousands of Wyoming jobs, billions in state and local
+government revenues. Coal and uranium also play a critical role
+in the electric grid reliability and resilience.
+During this recent cold snap, coal-fired and nuclear power
+generation resources were critical to meeting the electricity
+demand during the most extreme conditions. I am concerned about
+both the economic impact and the electric reliability impact of
+the continued retirement of these vital resources across the
+country.
+As FERC deals with this grid resiliency question, is the
+Commission going to evaluate pricing of reliability and
+resiliency in terms of the attributes of coal and nuclear
+resources? How do you plan to look at that?
+Mr. McIntyre. Thank you for the question, Senator.
+I don't think we're doing a complete job if we don't take
+that into account. And so, we've been fairly broad in the range
+of the questions that we have put to the boots on the ground
+here which are the RTOs and ISOs. And we need them to give us
+their best-informed views on, not only the operational aspects
+of keeping the lights on, as we say, but also what is needed
+from a market standpoint since they run the organized markets
+and the respective footprints as well. What is needed in a
+market sense to ensure that resources that are indeed
+contributing resilience benefits to our grid are properly
+compensated.
+Senator Barrasso. Alright.
+Now following up on that, both for Mr. van Welie and I'll
+ask you, Mr. Ott, to weigh in as well. Data from the Department
+of Energy shows that New England was heavily reliant on
+baseload coal and nuclear generation during this recent cold
+snap. Specifically, the data shows that at the peak of the cold
+snap, coal-fired generation accounted for 7 percent of the
+dispatch to capacity despite being only 2.6 percent of
+installed capacity in the region, so, really called upon to
+perform. Additionally, nuclear generation accounted for 23
+percent of dispatched capacity despite being only 12 percent of
+the installed capacity.
+Isn't it fair to conclude that when your region needed
+power the most, it was the reliable coal and nuclear power
+plants that were necessary to keep the lights on?
+Mr. van Welie. Well, I think coal and oil definitely, coal
+and nuclear definitely, contributed.
+I think the prospect for coal in New England is limited.
+There are two coal-fired power stations left on the system, one
+of which will retire fairly soon. We have four nuclear
+reactors, one of which will retire soon. And you know, what was
+surprising to us was 35 percent of the energy was coming from
+oil burned in the region, and many of those oil units are 40
+years old.
+So, I think the issue for us in New England is that we are
+definitely transitioning to a different power system as the
+region strives to decarbonize. By definition, we have to reduce
+the amount of fossil fuel burnt in the region.
+The question is, you know, what's the game plan looking
+forward in terms of to do so reliably. And the idea behind the
+study is to demonstrate the consequences of doing nothing, in
+the first instance, which we think are severe and to lay out
+for policymakers the various paths forward.
+I think we're looking forward to engaging a conversation on
+how best to orchestrate that transition.
+Senator Barrasso. Okay.
+Mr. Ott, would you like to add anything about PJM's
+experience?
+Mr. Ott. Yes, sir.
+Certainly from PJM's experience, of course, we have a much
+bigger proportion of our total resource mix being coal and
+nuclear. And in fact, during this recent cold weather event,
+obviously, more than half of the total supply was coal and
+nuclear. And certainly, let me be clear, we couldn't survive
+without gas. We couldn't survive without coal. We couldn't
+survive without nuclear. We need them all, in the moment. And I
+think the key, what we're focused on is, the key is each of
+these bring to the table reliability characteristics. Each of
+these were online when we needed them.
+The point was, as I had made in my opening comments, the
+pricing doesn't always reflect that, therefore, when they go
+sell their energy forward the fact they were on for reliability
+during the cold weather isn't reflected in the forward price.
+That's unfair. It puts them at a disadvantage and we need to
+fix it.
+And I think, really, this debate over there are certain
+coal plants, frankly, that are old and don't run much and
+didn't run during this period. Those need to retire. The ones
+that are online running every day, we need to keep them, and
+that's the reality.
+Senator Barrasso. Are there some specific actions that you
+might recommend that FERC take to ensure that baseload coal and
+nuclear generation resources are paid for the value that they
+bring to the grid?
+Mr. Ott. Yes, certainly. We've discussed that with FERC and
+certainly we'll continue the discussion with the Chairman as
+part of this new docket. And really it focuses on the energy
+price formation that we just discussed in saying we really need
+to take a hard look at that.
+FERC had already looked at fast-start pricing and the
+phenomena I'm describing here, the fast-start pricing won't
+affect that. We need to look at the pricing related to these
+types of events where it's not the resources that flexible and
+moving around, it's the ones that are online and serving
+customers that we need to address.
+Senator Barrasso. Thank you.
+Thank you, Madam Chairman.
+The Chairman. Thank you, Senator Barrasso.
+Senator Smith.
+Senator Smith. Thank you, Madam Chair, for organizing this
+very important hearing and I very much appreciated reading your
+testimony, though I am sorry I missed your comments here today.
+It is apropos because Minnesota is, this morning, digging
+out from a major snow event. And in Minnesota that means a lot
+of snow, not a little bit of snow. And so it is uppermost on my
+mind about the impact of dangerous weather events on the
+resilience of the whole community. I really appreciate how
+important this is to all come together.
+Last week, we heard in this Committee from the
+International Energy Agency Director, Dr. Birol, about
+renewable energy and how renewable energy, like wind and solar,
+is going to be the lowest cost new generation around the world
+within maybe the next 10 years, and how energy storage costs
+are dropping as well.
+So I would be very interested in hearing from this panel
+about how you think these changes will affect the reliability
+and the resilience of the grid. It seems to me that
+diversifying would contribute to that, but I would be very
+interested to know what your perspectives are on this.
+Really anybody.
+Mr. McIntyre. I'll jump in briefly first, Senator.
+And I say again, welcome to Washington.
+[Laughter.]
+Renewable generation is already, clearly, in the column of
+success story. It gets better every year, and it is
+contributing reliably to the satisfaction of our nation's
+electricity needs today. And I expect that trend to continue.
+It performs well during harsh weather, as we heard, including
+improved performance of wind resources in cold weather
+conditions.
+That said, it's still the case that it presents operational
+challenges in that the wind isn't always blowing and the sun
+isn't always shining. So, that presents some realities to it.
+I think that energy storage which your question referenced
+also will be something that will advance the ball significantly
+toward addressing that. It's not so much today, at least in my
+view, a compensation issue, as a technological one. We need the
+technology to take that next big step. But with that, I think
+the picture of that side of the industry is good already and
+improving.
+Senator Smith. Yes, please go ahead.
+Mr. Walker. Senator, thank you for the comment.
+I would note that the diversity that you speak to, I think,
+does in fact add to the capability to provide resilient power.
+And I think, in particular, the integration of the
+renewables provides strategic use of those resources to meet
+certain demands and certain requirements to certain areas that
+they really can have a tremendous level of capability.
+That being said, storage, as I noted in my confirmation
+hearing, I consider it the Holy Grail of the electric system.
+And that being said, it is one of the top five goals in my
+specific department to focus in on really moving grid megawatt
+scale storage forward so that we can integrate that as a
+resource and help enable some of the integration of renewables
+and other resources to be really key parts of our resilient
+grid.
+Senator Smith. Thank you.
+Maybe I could just follow up with Ms. Clements on this?
+What role do you see energy efficiency, and you also have
+talked some about demand response, play in resilience? In
+Minnesota, we've had some success weatherizing homes, for
+example, to lower energy consumption and take some of the
+pressure off the grid. I would be interested in hearing your
+thoughts on that.
+Ms. Clements. Thanks for the question, Senator.
+Energy efficiency is the most underrated resource we have.
+It's the cheapest, by far. We've been talking about it for a
+long time. So perhaps it's not as exciting and new, but the
+potential is still high.
+And a different National Academy's report suggests on the
+order of magnitude of 25 to 30 percent, economy-wide potential
+reductions are available still.
+In the states that have pursued as a policy matter all
+cost-effective energy efficiency, they are taking down
+decreases in total demand at the level of three percent a year.
+Together with other distributed energy resources, like
+demand response, which PJM has provided as high as in some
+years, 12,000 megawatts of resources, meaning that's 12,000
+megawatts of power plants you don't need in certain instances
+and are really exciting.
+I think three things about distributed energy resources, in
+addition to bringing down these numbers of megawatts. They
+provide the flexibility, the resource flexibility, to integrate
+the high penetrations of this lowest cost renewable energy
+potential that you describe. And they can provide the
+flexibility. And finally, they are a great resilience resource.
+If you think about the storage during Hurricane Sandy when
+microgrids were able to island themselves and continue to
+provide power at hospitals and at fire stations. That's a real
+opportunity on the resilience side.
+So, I think that the potential is just tremendous and
+that's where we should start.
+Senator Smith. Thank you very much.
+The Chairman. Thank you, Senator Smith.
+Senator Capito.
+Senator Capito. Thank you, Madam Chair.
+I thank the panel. This is, obviously, of great interest to
+me being the other Senator from West Virginia and coal,
+obviously, a very important part of our, not just our economy,
+but as Senator Manchin said, very proud of the history of
+energy production that we have had in our state. We also have
+the Marcellus shale development which is very exciting.
+Just a quick question. Mr. Ott, Mr. van--if I say your
+name, van Welie? Did I get it right?
+Mr. van Welie. Perfect, thank you.
+Senator Capito. Okay.
+Mr. Ott, he mentioned how many retiring nuclear and coal
+plants are going to be in his area. What is that figure for PJM
+until 2020 say?
+Mr. Ott. Yes, as far as PJM, we do have one nuclear
+station, a 620 megawatt nuclear station, that's scheduled to
+retire coming up before 2020.
+As far as coal plants, we've experienced 20,000 megawatts
+of coal plants retiring previously.
+Senator Capito. Right.
+Mr. Ott. For the next few years we're looking, probably, in
+the 4,000 range of announced. Certainly, there could be more
+go.
+Senator Capito. Which is 17 different units. Is that--that
+is what I have here.
+Mr. Ott. Yes, in that realm.
+But again, some of them have not formally announced. Some
+have formally announced. There are some that are having
+concerns financially, but as far as formally announcing, it's a
+little bit less than that.
+Senator Capito. So, let me continue with you.
+At peak load during the cold snap, natural gas generators
+provided only 48 percent of what you had predicted, and coal
+overtook that. Is that correct? Could you talk about that a
+little bit?
+Mr. Ott. Yes, certainly.
+In PJM, what we saw was the coal during the recent cold
+snap, we saw more coal production than normal. I think it was
+an economic displacement. In other words, the gas prices went
+up, therefore, the gas units dispatched down, coal came on at a
+higher level. So, certainly we saw a lot more coal production,
+coal-fired production, if you will, than we normally would in
+that cold snap.
+Senator Capito. Chairman McIntyre, can you help me with
+this?
+The pricing of natural gas spot prices spiked up to an all-
+time high during this time, maybe 60 times their normal price.
+Do you know that, Chairman?
+Mr. McIntyre. I don't know if it was an all-time high. I
+know that we did experience significant price increases. And as
+I mentioned earlier, that's the kind of thing that can, in a
+broad sense, be helpful. It's important that we have market
+signals that reflect shortages, including in this case, short-
+term spikes in demand.
+Senator Capito. Right.
+Mr. McIntyre. It sends proper signals both to providers of
+the resource and to consumers.
+Senator Capito. Mr. van Welie, do you want to make some
+more comments?
+Mr. van Welie. Well, to affirm what you just said, the
+prices got up in the $100 range. So, if you look at it when the
+pipes aren't constrained, in the $2 to $3 range from an----
+Senator Capito. Well, that gets me to another issue that we
+have, sort of, talked around but certainly in the New England
+area the accessibility to natural gas and the permitting with
+pipelines. I mean, we are having difficultly, even the State of
+West Virginia sometimes, permitting our pipelines.
+The Chairwoman can speak about this as well. New England
+does not seem to have the appetite to permit the pipeline, so I
+read in the Financial Times that says that gas from Russia,
+Arctic is going to warm homes in Boston and there is LNG coming
+from Russia. We have a natural resource in my home state and
+region we would love to be selling our natural gas in this
+country, into the Northeast. So, how do you respond to that?
+Mr. van Welie. Well, I think the first problem in New
+England is to find a customer for the gas pipeline. So I think
+the structural issue is that there's no customer prepared to
+sign the long-term contract to have the pipeline built.
+The second issue is once you have a customer, then you have
+to confront the siting issue. And I'd say there's a siting
+problem both in New England and in New York.
+For us to move the gas from the Marcellus shale into New
+England, you'd have to overcome those two obstacles.
+I think the decision from a policy point of view for the
+region is do regional policymakers want to make those
+investments to relieve those constraints or do they live with
+the constraints and work around them?
+And if you're going to work around the constraints, then
+you either have to turn to alternative fuels, like oil or LNG
+and then in that sense, the Jones Act doesn't make a lot of
+sense to me because we're importing LNG from faraway places
+when we're exporting it from terminals a few hundred miles
+south of us.
+Senator Capito. So, with the Russian LNG that has come in,
+obviously they already have a customer that is purchasing this
+because the supplies got so low during the Bomb Cyclone. Is
+that correct?
+Mr. van Welie. Yeah. So what happens is the dynamic is when
+the LNG inventory of the gas supply drops, you know, below
+certain levels, customers in the gas markets, local
+distribution companies, for example, will start calling for
+spot gas supplies.
+Senator Capito. Right.
+Mr. van Welie. And so, you get contracting happening in the
+world markets for LNG.
+Senator Capito. Interesting to me from another perspective
+is while that is occurring the Russian gas coming here, we have
+two cargo vessels with LNG from our southern ports or Louisiana
+shipping into Europe to try to help them meet their challenge.
+I mean, if we are looking at an overall system here, from
+cost, from emissions and all kinds of things, that does not
+seem to make a whole lot of sense to me.
+Mr. van Welie. It doesn't make a lot of sense to me either.
+Senator Capito. No.
+Thank you.
+The Chairman. And our job is to make sense of all of this.
+[Laughter.]
+Let's go to Senator King.
+Senator King. I hate to follow the admonition to make
+sense. It makes it difficult.
+[Laughter.]
+Mr. van Welie, I very much enjoyed seeing you. I remember
+meeting with you in 2013 about this very issue.
+And first, Madam Chair, I love this panel. We should take
+them with us everywhere. You all have done a really good job of
+illustrating a lot of issues, important issues, in a brief
+time.
+I do want to promote something for the audience and anybody
+interested in these issues, and it is an app called ISO to Go,
+produced by ISO. It gives you moment-to-moment prices all over
+New England, where the demand curve--by the way, Mr. van Welie,
+the demand is exceeding the forecast at this moment by about
+half a megawatt. You may want to call your office----
+[Laughter.]
+----when we finish here.
+But it also gives where all the resources are--renewables,
+oil, gas, coal and nuclear. This is very, very useful. Thank
+you for this. It is incredibly helpful.
+Now I want to put up some visuals, I learn visually, to
+what we have been talking about here today.
+[The information referred to follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Senator King. The bottom red line on this chart is the
+Marcellus shale cost in the region, around in Pennsylvania
+going back to the beginning of December. The blue line is the
+cost in New England. What this tells us is it is not a natural
+gas price problem, it is a delivery problem. And that is what
+we have been talking about today. It is the infrastructure
+problem that we have been talking about.
+The problem with the infrastructure is, does anybody want
+to build a $2 or $3 billion pipeline to deal with this if it is
+not going to be necessary the rest of the year. And that is
+where we get into the tradeoffs between storage and LNG as an
+option and building the infrastructure. I just want to indicate
+how these things all interrelate.
+The other piece is the relationship between what we just
+saw, which is natural gas prices and electricity--an absolute,
+almost entire, straightforward correlation, as you see.
+[The information referred to follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Senator King. This goes back 15 years.
+Hurricanes hit the Gulf. Gas goes up. Electricity in New
+England goes up. Same thing over the winter of 2014, the Polar
+Vortex, and we're up in this area--I saw $32 a megawatt hour
+recently. So these things are all interrelated.
+One of my favorite comments was from a friend of mine in
+Maine who said there is rarely a silver bullet, but there is
+often silver buckshot. That is what we are talking about here
+is a multiplicity of resources.
+Ms. Clements, you talked about efficiency. The cheapest
+kilowatt hour is the one you never use. So we have efficiency
+opportunities. We've got renewables. We've got demand response.
+We've got storage. We've got infrastructure. We've got rate
+structure, Mr. McIntyre. We've got rate structure which will
+influence how we use power in terms of efficiency during the
+day.
+I realize I am making a speech here. If you can find a
+question in here, you are welcome to it.
+[Laughter.]
+Mr. van Welie, talk to me about this, how we deal with
+this. Let's make it specific. Do we build a pipeline or do we
+do more storage?
+Mr. van Welie. So, I think it's going to come down to what
+policymakers decide to do. I think there's two parallel tracks
+in terms of this conversation in New England.
+The one track that we're going to be the lead on is how do
+we make sure that the constraint is appropriately priced in the
+market because, to Chairman McIntyre's point, unless we price
+that constraint, we're not going to get the reliability that we
+seek. I think we learned some things over the past few weeks
+that make us think that we've still got a lot of work to do.
+I think the separate and parallel discussion is how to
+relieve these constraints.
+So to Ms. Clements' point, and I agree with you, energy
+efficiency is one tool in the toolbox.
+Ms. Clements, you may have missed it in our analysis, but
+we take into account and project forward all the energy
+efficiency efforts that the states are making. And the New
+England states have made significant efforts. I think they lead
+the nation now in terms of energy efficiency.
+But I think the evolution is occurring faster than what the
+states are doing with regard to these efficiency investments.
+And my fear, really, is that the retirements will happen more
+quickly than these investments will be made.
+And the other thing, I look out----
+Senator King. One of the problems I see here is that gas is
+the cheapest capital cost, and yet you are taking the price
+risk. That is one of the tradeoffs, but the way our system is
+working now everyone is looking for low rates next year and the
+year after, but we do not have long-term, 15-year power
+purchase agreements that will support the capital investment
+necessary for some of the other options.
+Mr. van Welie. Yes, I think the peakiness of the demand for
+this fuel is the issue. And I think the--we're going to be
+stuck with this problem for a long time. Because if you think
+about where the region is going in the long run, we want to
+take carbon out of transportation and heating which means we're
+going to drive the demand for wholesale electricity up in the
+region. And so, over time we're going to have less utilization
+of the pipeline, but when you need it you're going to really
+need it in a big way. And you can offset some of that through
+electric storage, but our issue really is seasonal storage. So,
+I think the region needs to work through the various
+possibilities and understand what the cost benefit trade----
+Senator King. Again, you are talking about grid level
+storage, but it is hard to justify the cost of grid level
+storage if you only need it two weeks of the year. Correct?
+Mr. van Welie. Exactly. And grid level storage in terms of
+today's technologies are not very useful in a multi-day, multi-
+week event.
+The Chairman. Thank you, Senator King.
+Senator King. Thank you.
+The Chairman. Senator Daines.
+Senator Daines. Thank you, Chair Murkowski, Ranking Member
+Cantwell.
+It seems like each winter and each summer when energy
+demands peak we are reminded of the importance of reliable and
+affordable energy.
+I am from one of those northern states, Montana. We respect
+terms like Polar Vortex and Bomb Cyclones. Of course, in
+Montana, we call that January, but that is the way it goes.
+[Laughter.]
+The importance of keeping the supply on hand to keep the
+lights on and the infrastructure necessary to support that
+system and this winter has been no different.
+This hearing is timely as my office is kicking off planning
+efforts for our Montana Energy Summit. We do this every couple
+years. It will be in Billings in May. We have invited FERC
+Chairman, Kevin McIntyre, to attend, Secretary Perry and
+others. We hope to have important conversations related to
+energy infrastructure and the jobs energy creates in our
+states, and we hope they can both attend.
+As you have probably heard me say more than you want to,
+one critical piece of our energy infrastructure in Montana and
+across the Pacific Northwest is the Colstrip Power Plant. It
+supports about 750 direct jobs, generates enough power for
+about 1.7 million homes and businesses across Montana and the
+Pacific Northwest. Through heavy-handed regulations, litigation
+and some state policies, the future of this plant is actually
+at risk.
+I was out there a couple years ago on a visit that is
+memorable to me. They were taking their boilers down for
+maintenance. It was July. I walked in and they were scrambling.
+The plant manager had been up since early, early morning,
+middle of the night, in July. And so, what's the problem? He
+says, well, here's the problem. He said, we have tremendous
+balanced energy portfolio in Montana. We are truly an all-of-
+the-above state. We are developing our renewables. We have
+great hydro resources. We have wind resources. But this high-
+pressure system moved into the Northwest. And when high-
+pressure systems move in, what happens? The temperature goes up
+and the wind stops blowing, and because they had Colstrip
+down--one of the major units down for boiler maintenance--we
+were struggling to keep up with baseload at that moment because
+the wind stopped blowing.
+We refer to wind as intermittent power, and it is not a
+critique of that renewable source of energy, but we still have
+to solve the storage issue with wind to make it a more reliable
+part of our energy portfolio.
+I just came back from Taiwan last year. It was September.
+If you remember what happened in Taiwan in August, they lost
+electricity to about half the homes across Taiwan. It was a
+major outage. And why? Because they were too aggressively going
+forward on eliminating nuclear energy from their balanced
+portfolio. They had a plant that was ready to go, back in 2014,
+but it was battling some of the regulatory issues to get it up
+and running. With that peak load on a hot day in August, they
+lost their baseload.
+I understand that while a lot of coal-fired generation has
+retired in recent years, New England had to rely on its
+existing coal and oil-fired generation for this winter event.
+And as more states' energy mixes are changing toward more
+renewable generation due to policies and so forth, I remain
+convinced that we must find ways to keep a diverse, truly all-
+of-the-above, energy mix in this nation, especially during
+these peak times of load.
+My question for Mr. Walker: In your experience, how
+important is it to keep a diverse energy portfolio at all
+times, but especially during peak load?
+Mr. Walker. Thank you for the question, Senator.
+I believe it's extremely important. And it's not only
+during peak load, I think it's throughout the year.
+You know, importantly, the diversity of the load provides
+the opportunity for us to build resiliency into the model.
+With the threats we have today with cyber and physical
+security, which are very real. They're emerging. They're
+evolving. They're increasing. And the impact of these could be
+very significant in the country.
+So as we look at the portfolio of generation sources that
+we have, the diversity component is extremely important. And as
+we work with the RTOs and with FERC to evaluate the proposal
+set forth by FERC, those are things that we will identify and
+look at.
+I mentioned earlier on page 86 of the staff report, there's
+a diagram that illustrates the different capabilities of just
+different generation sources, things that provide for the
+baseload, the essential reliability services of each of the
+different types of generators.
+As you look at this, it's like an optimization equation.
+When you look at all the different variables and you look at
+what the underlying goal is, which is to provide a safe,
+reliable and resilient grid, it's about optimizing the
+generation components that we have as well as the underlying
+systems that tie into those generation sources to be able to
+get and achieve the reliability and resilience we need to.
+Senator Daines. My last comment, and I know I am out of
+time.
+My training was in engineering. And so, when I tell this
+quick little story about engineers it is not meant to be
+disparaging because I is one. I was in a debate one time about
+capacity--I was running operations for Proctor and Gamble--and
+the variation and demand and so forth and need to be able to
+have capacity available to cover spikes. We believed it needed
+to be over here and the engineers were off in their ivory tower
+doing some calculations. Thankfully we had a senior executive
+that, kind of, was listening to this Hatfield/McCoy debate, and
+stepped back. He said, first of all, I always err on the side
+of the operation folks because they deal with reality. But
+number two, if an engineer were to design the amount of beds
+needed for a family of three, in terms of capacity, they would
+say you only need one bed for a family of three because on
+average, everybody sleeps eight hours a day.
+[Laughter.]
+It is something to think about as we relate to peak
+capacity.
+Thank you.
+The Chairman. Thank you, Senator Daines.
+Senator Heinrich.
+Senator Heinrich. Senator Daines can get away with that
+because he is an engineer. Unfortunately, I am too. It is a
+curse and sometimes a blessing.
+[Laughter.]
+I wanted to start out and talk a little bit about that
+term, baseload power, because we hear a lot more of it today
+than we did 10 or 15 years ago. And I find that fascinating.
+I grew up in a utility family where my dad was a lineman
+when I was young. He was the manager later. Those were the days
+when coal and nuclear and hydro were the only games in town.
+But I bring that up because I think baseload, oftentimes
+today, is more of a political term than an engineering term. It
+tends to come up, oftentimes, at times when it is, sort of,
+code for trying to subsidize generation that is no longer
+competitive in the marketplace.
+I would just point out that when those coal-fired
+generators go down, and oftentimes that is unplanned
+maintenance and it is not unusual, they are providing zero
+baseload megawatts to the grid. We need to find ways today to
+think about our grid and meet supply and demand together and
+know what the weather is going to be tomorrow and the next day
+so that we can match those things up from whatever generation
+sources we are using.
+I want to go to Mr. Walker first because you said something
+to Senator Manchin, and I do not want to misquote you. I want
+to understand if I understood you correctly that inherently
+coal at a coal generation station is less exposed to the
+threats of physical or cyber threat to the grid than say, oil
+and gas pipelines.
+The reason why I bring that up is because from my
+perspective once you use that coal to generate, you have to get
+it to the customer. You have to do that over transmission lines
+and then distribution lines. And it seems to me that all of
+these infrastructures are equally exposed to those threats.
+You have the same SCADA systems at substations and relating
+to transmission and distribution on the electric grid that you
+would use in pipelines. You have the same physical threats to
+both of those distribution networks.
+So, I do not see the difference in terms of exposure, in
+terms of critical infrastructure. Am I missing something?
+Mr. Walker. No, that's a fair question.
+And I'll be--so what you heard me say, let me reiterate, is
+that what I do believe. And from, you know, the perspective
+that we're taking and I'm taking right now is DOE is focused on
+protecting critical national infrastructure. As FERC deals with
+the marketplace and we focus in on the resiliency, the
+capability that provides that safety and resilience in the
+grid.
+If I have a stockpile of coal, in this sense it's at a
+location for a sufficient period of time, I'm not placing at
+risk the infrastructure as if it were natural gas.
+So, if we take the----
+Senator Heinrich. What if that coal is too frozen or too
+wet to actually burn?
+Mr. Walker. And those are possibilities that were realized
+during the Polar Vortex.
+Senator Heinrich. Right.
+Mr. Walker. So, and I think through much of the work that
+was done after the Polar Vortex, provisions have been placed at
+the utilities and the generation plants that utilize things
+like coal to prevent, you know, through weatherization
+techniques and things like that.
+Senator Heinrich. So when I think of the Polar Vortex or
+even this latest Bomb Cyclone, if I am getting that term
+correct, the unsung hero that I think about that gets very
+little attention is actually demand response.
+I would be curious to hear from the folks at PJM and ISO
+New England, how important is demand response at this point in
+these sorts of events? And has a market been fully implemented
+and are there federal policies in place that assure that demand
+response is allowed to compete as effectively as possible in
+these kinds of events?
+Mr. van Welie. So, a market has been fully developed for
+demand response.
+We speak of demand resources broadly in New England and I
+say they're two categories. The one is passive, demand
+resources like energy efficiency. And that's very well
+developed in New England because of all the state programs
+supporting that investment. The active demand response which is
+active reduction during system events and so forth. We have
+lower penetration in New England, but the market exists. I
+think the issue has been the economics. It's not competitive in
+the market relative to some of the other resources.
+If you'd give me a minute I just wanted to reinforce
+something else you said as well. I think there's a policy
+conundrum here with regard to this discussion between fuel
+diversity and fuel security. I think the policy conundrum is
+that the term fuel diversity is at odds with the idea of a
+competitive wholesale market because it implies a central
+planning orchestration of the different resources on the
+system.
+Whereas the market is what you're really trying to do is
+create a competitive construct where the most economic
+resources come forward to produce the reliability service which
+is why you don't hear us using the term fuel diversity. We use
+the term fuel security.
+Senator Heinrich. Right.
+The Chairman. Thank you.
+Senator Cassidy.
+Senator Cassidy. Thank you.
+Gentlemen, I am going to refer to some testimony we
+actually had in June 2016 from a fellow, Jonathan Peress, who
+is the Director of Air Policy, Environmental Defense Fund. It
+was a very good hearing last time which I will now, kind of,
+raise questions from that.
+Mr. McIntyre, seeing that there was this price spike in
+fuel cost. LNG was imported. It had a spot price going far
+higher in the Northeast. This gentleman last year said that
+there was actually a lot of unused capacity in our Northeast
+pipeline system and that FERC was working to add flexibility to
+the schedule and to better use that capacity.
+One, do you agree with it? It is an assertion from two
+years ago, I guess, a year and a half ago. Do you agree with
+that assertion? And two, has FERC now worked to add flexibility
+in terms of delivering of gas?
+Mr. McIntyre. I know that we have worked on reforms in the
+market structures and practices and schedules in the
+interrelationship between natural gas pipelines which we
+regulate and electric transmission which, of course, is
+critical to gain the power from where it's generated, to where
+it's consumed.
+Senator Cassidy. Now, I think, he was speaking of the gas
+and he said that at times only 54 percent of the capacity was
+used in the Polar Vortex, the event to which he was referring.
+I guess I am asking is that still an issue or has that been
+addressed specifically?
+Mr. McIntyre. Well, we do have, as you heard, I think
+most----
+Senator Cassidy. I had to step out, I am sorry if I missed
+that.
+Mr. McIntyre. No, it's quite alright.
+But Mr. van Welie has presented the situation in New
+England and that is where, indeed, we have ongoing, long-term
+challenges in transportation infrastructure.
+Senator Cassidy. Is that related to lack of efficient use
+of current capacity? And I am sure it is not either/or. Or is
+it due to lack of capacity, sir?
+Mr. van Welie. In New England, it's really lack of capacity
+at this point.
+Senator Cassidy. Now, this gentleman, again, made the point
+and it was very provocative, that if you look at the lack of
+capacity it was only like two weeks out of the year in which
+there was lack of capacity. And his point, it is cheaper to pay
+high spot prices on those two weeks out of the year as opposed
+to pay for the infrastructure that would be underutilized for
+the remaining 50 weeks of the year.
+Any thoughts about that?
+Mr. van Welie. Well, I think it depends on one's view of
+the cost and benefits of rolling blackouts, for example. So I
+think there's a point beyond which we will maintain the supply
+and demand balance by taking demand off the system.
+So I think that's the tradeoff. I mean, one could look at
+it and say it's not worth making an investment in a pipeline
+infrastructure because we only use it a month a year, let's
+say, the incremental capacity. But you have to weigh that
+against the other consequences as well.
+I think what our study attempts to do is to show that we're
+very close to the edge in New England and we need to find a way
+of relieving this constraint, one way or another, either
+through investment in the pipeline infrastructure or continued
+investments in other sources of energy that will take the
+pressure off the gas pipeline and/or reducing demand on the
+systems. Those are the three avenues available to the region. I
+think they differ in implications with regard to cost.
+Senator Cassidy. So, importation of LNG would not be
+adequate for those two to four weeks a year in which you truly
+are constrained?
+Mr. van Welie. Well, I think imports of LNG, if you look at
+our study, we will become much more dependent than today on
+imports of LNG.
+I think our market monitor has raised another question
+which is there are two suppliers of LNG into the region, one of
+which is in Boston, the other which is in New Brunswick,
+Canada. They are pivotal suppliers into the marketplace.
+So one should expect to pay very high prices for natural
+gas when we have these constraints. And I think the policy
+tradeoff is do you want to pay these high prices on an episodic
+basis whenever it gets cold or do you want to soften those
+economics by investing in infrastructure that will relieve
+those constraints?
+Senator Cassidy. But again, this gentleman's point, I don't
+mean to belabor, but I think it is a critical question that
+pipelines are so expensive, particularly a green field
+investment, that it is actually cheaper to do the episodic high
+price than it is to do the infrastructure. Now, he is not here
+to make his point directly, but it sounds almost like you are
+disagreeing with that.
+Mr. van Welie. I think that the region needs to work
+through those cost benefit tradeoffs.
+Senator Cassidy. Okay. I yield back.
+Thank you.
+The Chairman. Thank you, Senator.
+Senator Duckworth.
+Senator Duckworth. Thank you, Chairwoman Murkowski and
+thank you for convening this very important conversation.
+Unfortunately, my two engineering colleagues are not here,
+but I just wanted to remind them that multiple people sharing
+the same bed in the United States Navy is called hot racking
+and there are young sailors, submariners, who are doing it
+right now in order to defend our nation. So, let's say a quiet
+prayer for them of thanks for what they are willing to put up
+with to keep us safe.
+My question goes back to the work that states have been
+doing for renewable energy. Illinois, my home state, has made
+tremendous gains in this area. In addition to requiring 25
+percent renewable energy by 2025, we also prioritize
+investments in jobs training programs that are focused on low
+income individuals to create thousands of clean energy jobs.
+These investments will help make our grid more reliable and
+more resilient, not less, while also creating jobs.
+Ms. Clements, in your opinion, how will Illinois' renewable
+energy policies impact the power system in the context of
+extreme weather events?
+Ms. Clements. Thank you, Senator.
+I think the recent Illinois Energy Act is one of the great
+examples of the smart way that states are leaning into this
+energy transition and saying we are going to use American
+ingenuity to harness the resources that we have and to create
+economic opportunity and jobs from making the grid more
+resilient and reliable.
+By increasing the diversity of the resources on the system,
+through increased wind and solar under the RPS standard in the
+law and through increasing energy efficiency, excuse me, it is
+increasing resource diversity. At this point, nationally, only
+about seven percent of the resource mix is non-hydro
+renewables.
+And when you think about the characteristics, every kind of
+resource has a set of benefits and issues that we've just been
+talking about. And so, narrowing the conversation to just gas
+versus coal and LNG versus new pipelines is an overly narrow
+view of the opportunities.
+The wholesale energy markets have done a good job of what
+they've intended to do which is to provide low-cost, reliable
+energy.
+As the mix changes and as states like Illinois take these
+exciting actions, the markets are going to have to start
+valuing things like resource flexibility that the Illinois Act
+is going to bring in through new distributed energy resources.
+And that's exciting.
+But when we're talking about price formation in the
+markets, let's not forget that we can't undervalue the benefits
+that the renewable energy resources and the distributed energy
+resources and energy efficient are also bringing to the table.
+So, when they're overperforming and providing extra services to
+the grid, they should also be getting paid for those services.
+And so, I think Illinois along with Minnesota and Hawaii
+and New York and California are just showing the way that other
+states can look to as an example.
+Senator Duckworth. Thank you.
+Can you speak a little bit to the cost of the renewables
+during extreme weather events and how they compare to other
+fuels?
+Ms. Clements. Well, on a marginal cost basis, Senator, the
+beauty of renewables, of course, is that the wind and the sun
+are free. And so, they were able to help by, wind, specifically
+in the Polar Vortex and we're still getting the information
+from the Bomb Cyclone, but the, you know, what they served, the
+role that wind, in particular served, was to help avoid those
+price spikes or to mitigate some of those natural gas marginal
+cost price spikes by over-performing at low marginal cost.
+Senator Duckworth. Thank you.
+In every tragedy there is some opportunity, and even though
+four months have passed since Hurricane Maria made landfall and
+clear evidence of the storm remain, the lack of electricity,
+running water, and reliable communications remain a central
+challenge to Puerto Rico as it struggles to return to semblance
+of life.
+I am committed to developing and advancing policy that will
+enable the island to remain operational during the next
+superstorm. And so I would like to see in Puerto Rico some
+investments made so that they are not put in the same place
+that they were in before Maria hit.
+Ms. Clements, in your opinion, will policies that help
+stimulate solar and batteries be useful in this endeavor to
+better position them for the next storm? Because we know with
+global warming and every extreme event, they are going to get
+hit again.
+Ms. Clements. Thanks for the question.
+Absolutely. I mean, I think just as of yesterday, 32
+percent of Puerto Rico's customers remained without power. So,
+that's all of October, November, December and now most of
+January.
+And the government also announced that they're considering
+privatizing the utility. That might help, in and of itself,
+with creditworthiness of the offtakers and bringing in the
+expertise that can really provide that innovative, new model
+grid.
+But anything that the Congress can do to provide those
+incentives, to help get that solar and get that energy storage
+online in Puerto Rico is critical and will facilitate a model
+that, per the National Academy recommendations, can serve as a
+best practice which then can be shared with other states and
+regions within the continental U.S.
+Senator Duckworth. Thank you, and I look forward to working
+with members of this Committee on securing legislation that
+will help us achieve these goals.
+Thank you, Madam Chair.
+The Chairman. Thank you, Senator Duckworth.
+Senator Hoeven.
+Senator Hoeven. Thank you, Madam Chairman.
+I have two questions for each of you, which relate to the
+Bomb Cyclone, but certainly to capacity and reliability.
+One goes back to a question that Senator Daines was getting
+at and that is essentially how do we make sure that we have
+enough baseload power for those type of events, so we are ready
+for those type of events? So one, how do we make sure we have
+enough baseload power? And number two, how are we going to
+build the transmission and the pipelines to make sure that we
+have an adequate distribution system?
+We are running into incredible difficulties building any
+type of pipeline for oil or gas and we are also running into
+the same kind of problems with transmission. So, it is
+actually, whether you are a fan of traditional or renewable
+energy, we are running into the problem of building enough
+infrastructure.
+And I can cite examples to you, including most recently,
+the Dakota Access Pipeline in our state which now moves half a
+million barrels of oil a day to East Coast refineries that need
+our light, sweet crude. If they don't get it from us, they get
+it from Saudi Arabia. I would rather they get it from North
+Dakota.
+So you could each take a swing at it. Those two issues, how
+do we make sure we have enough baseload power, how are we going
+to get people to support building this transmission we need to
+have the reliability we want? Chairman McIntyre, do you want to
+lead the effort here?
+Mr. McIntyre. Why not?
+Thank you, Senator, thank you for the question.
+As to baseload, as was pointed out, it's a term that means
+different things to different people these days. I think of it
+as the big, large-scale power plants that are intentionally
+designed to, kind of, run 24/7, essentially. And that is
+changing as technology changes and the economics of the market
+change.
+To answer your question, how do we ensure we have enough of
+it? I think we ensure we have the right market structures in
+place that compensate those resources, compensate them
+appropriately.
+Second, you raised the question of the difficulty of
+getting sufficient new energy infrastructure built. I fully
+share that concern. It's unquestionably a problem. We have to
+look at ways to mend and improve our permitting processes so we
+can get over some of these obstacles.
+Senator Hoeven. Okay.
+Mr. Walker.
+Mr. Walker. Thank you, Senator.
+With regard to the baseload, one of the things I learned
+early on being an electrical engineer is we're not very
+creative. So, we name things for exactly what they do and
+baseload referred to basically the bottom of the stack, the
+economic stack and for what was going to meet the base
+requirements of load. And I think that, as the Chairman
+recognized, I think recognizing them from a market standpoint
+and placing value on things like the central reliability
+services as part of the economics will help drive that.
+I think also, in recognizing and taking a different
+perspective and looking at it from a resiliency standpoint,
+there are values that will not be captured in the economic
+component that have value to the economic and national security
+of the United States. And I think those, in conjunction with
+the work that FERC does, need to be integrated together to help
+drive the investment.
+And then, once we've identified those critical components
+that are both valuable to the market from an economic
+standpoint to drive costs down and valuable from a physical and
+cybersecurity perspective to ensure the national security, we
+blend those together to help work through the processes.
+DOE works with the states and local, you know, components
+of the United States municipal governments to work through
+these issues, as does FERC. And I think, with the proper data,
+the proper analysis and the evaluation that really identifies
+the right locations, we'll work through the process and get
+them in.
+Senator Hoeven. I like your pin.
+Mr. Walker. Thank you. I got it from Northcom.
+Senator Hoeven. Yes, good job. Glad to see you wearing it.
+Mr. Walker. Thanks.
+Senator Hoeven. Charles? I am not going to take a swing at
+your last name there.
+[Laughter.]
+Mr. Berardesco. Thank you.
+Senator Hoeven. Do pronounce it for me though.
+Mr. Berardesco. Berardesco.
+Senator Hoeven. Thank you.
+Mr. Berardesco. So NERC has identified fuel diversity as
+being critical to the operation of the bulk power system in the
+long run.
+We are in the middle of a significant transformation of our
+system, and having that fuel diversity is what's going to allow
+us to have the reliable operations.
+And I tend to move away from terms like baseload or other
+kinds of adjectives and simply talk about that different
+generation provides different attributes and has different
+risks attached to it.
+So the policymakers need to consider what's the appropriate
+mix of that kind of generation that's going to give you the
+best risk outcome, risk-based outcome, for operating your
+system in a local area.
+But what's really important to us is we move to an
+environment where we are more and more thinking about
+renewables as part of our mix, is the stability of the bulk
+power system behind it. That system is critical in order for
+renewables to, in fact, be attractive to people because to the
+extent that there is no wind or no sun, you're drawing power
+from the grid. And so, having the grid operating reliably is
+critical to the success of renewables being inserted into our
+system.
+And we need to really consider carefully what are the
+attributes that different generations provide to that stability
+of that system and making sure that everyone is fairly
+contributing to that stability of the system from each of the
+different generation portfolios.
+I'm not much of an expert on transmission siting or
+incentives, but I will say just listening to the testimony here
+today, it seems obvious to me, if you're going to move,
+particularly in the case of gas generation, if you're going to
+move to more gas generation is being part of it, whether it's a
+bridge to a more renewable-based system or simply part of the
+basic power structure, you're going to need more capacity. I
+mean, we're hearing that testimony today. So, providing some
+types of incentives that get better capacity for gas, seems to
+me, a fairly important consideration for policymakers going
+forward.
+Senator Hoeven. Well, you have to get support for siting
+it.
+Ms. Clements?
+Ms. Clements. Thank you.
+I go with the description of baseload as an operating
+characteristic, as a sum subset of power plants and that we are
+going to, as we move forward, we're able to move away from that
+particular characteristic as the primary goal.
+However, the sheer number of megawatts that resources
+provide on the system is important and we've got lots of power,
+the country, across the country, planning reserve margins are
+very strong and so, from, in general, how do we have enough?
+There's already lots there.
+Senator Hoeven. So go to the infrastructure piece then?
+If you have the power you have to get it to where you need
+it.
+Ms. Clements. Absolutely. And I think this is an
+opportunity for the Committee to have real bipartisan work
+together on a well-designed policy to build out transmission
+lines to support the movement of wind from the windy places to
+the cities that need it and the sun from the sunny places. That
+development has to uphold environmental protections and it has
+to be done carefully, but it can be done well.
+Senator Hoeven. It has to uphold environmental protections,
+but you have to build it.
+You cannot take 10 years to build a transmission line or a
+pipeline. You can get all kind of power, but it does not do you
+any good if it is not in the right place when you need it,
+right?
+Mr. Ott?
+Mr. Ott. Thank you. I'll be brief given the time.
+Essentially, for the baseload resource, again, it's really
+the reliability characteristics you're looking for to run the
+power grid and making sure those are appropriately compensated,
+as the Chairman had indicated. And certainly, I think that we
+have a track record in the capacity markets that those have
+been effective in targeting performance of resources.
+I think the Polar Vortex lessons learned was a success
+story. And certainly, I think we can do some things in the
+energy market to address some of the concerns I've raised.
+As far as infrastructure, I do believe RTO regional
+planning processes have been successful in getting a lot of
+infrastructure built. Certainly, in PJM $20 billion worth of
+transmission investment in the past 15 years.
+As far as gas pipeline infrastructure, I see that as an
+issue we do need to figure out a way to get the siting process
+for gas pipelines moving.
+Senator Hoeven. It has really changed from this battle
+between renewable or traditional to both have the commonality
+in this interest of actually getting approval for construction
+of this infrastructure. It should be working together.
+Mr. Ott. Right, agreed.
+Senator Hoeven. Sir?
+Mr. van Welie. So I think baseload is rapidly becoming an
+obsolete term because I think, I think of baseload as what's
+producing energy with the minimum price, and I think that's
+changed over the years. We've come from a world where we had
+coal and nuclear and we're now with gas and renewables going
+forward.
+I think if I look at the problem, I think we've got
+structures in place to ensure that we've got enough resource on
+the system. We've got structures in place through the
+transmission planning authorities that the RTOs have with FERC
+oversight to make sure that we can get transmission built.
+I think siting is a problem. I think the big regulatory
+gap, the structural problem has only been restructured, the
+markets, 20 years ago. We didn't understand the dependency that
+would be created on the gas system. And so, we have a gas
+system where the business model is completely different from
+the electric system in the restructured markets. That leads to
+the situation where you don't have a customer for the
+incremental pipeline investments needed to serve the gas
+generation. So, I think that's a problem we're going to
+struggle with for a while.
+Senator Hoeven. I think that is right. It is a problem.
+Madam Chairman, thank you for your indulgence. I apologize
+for going over my time, I appreciate it.
+The Chairman. You went well over, but this is exactly what
+this Committee hearing was designed to dig into was these types
+of questions.
+So----
+Senator Hoeven. When you say well, you mean qualitatively
+or quantitatively?
+The Chairman. Both. Both.
+[Laughter.]
+It was good though. These are questions that, I think, are
+very important and the answers on the records are equally
+important.
+So, well done, sir.
+Senator Cortez Masto.
+Senator Cortez Masto. Thank you, and I appreciate that as
+well, the comments and the conversation we are having today is
+so important. Thank you to the Chairman as well.
+Mr. McIntyre, it is good to see you again. Let me start
+with you.
+When you were before the Committee for your nomination
+hearing, we briefly discussed integrating renewable energy into
+the power grid. In Nevada we actually have an Energy Bill of
+Rights that allows consumers to generate, export and store
+renewable energy on their property.
+Mr. McIntyre, do you believe there are additional actions
+that FERC can take to allow distributed energy resources access
+to wholesale electricity markets?
+Mr. McIntyre. There may well be, Senator.
+Thank you for the question.
+There is already a lot of work that has been undertaken
+within the Commission prior to my arrival, and we have a record
+of materials that have been submitted to address this very
+question. That is part of the work that remains before me,
+personally, and before the Commission as well. It's a very
+important issue and it's something that we're going to turn our
+attention to in due course.
+Senator Cortez Masto. I know in late 2016, FERC issued a
+Proposed Rule that would eliminate barriers to the
+participation of renewable energy and electric storage in the
+wholesale markets. What is the status of that effort?
+Mr. McIntyre. And that's precisely the work that I was
+referring to.
+Senator Cortez Masto. That is what you are talking about.
+Is there a timeframe or do you have a sense of how----
+Mr. McIntyre. It's something that we'll be turning to in
+the coming months. I don't have a specific calendar in mind for
+it.
+Senator Cortez Masto. Okay.
+Mr. Berardesco, in your testimony you provide a number of
+key findings and recommendations on how to increase resiliency
+for cold weather, but I am curious if you have any
+recommendations for extreme heat. In Nevada, it can get up to
+115 degrees in the summer.
+Senator Berardesco. I don't, off the top of my head.
+Senator Cortez Masto. Okay.
+[Laughter.]
+Senator Berardesco. Thank you.
+Senator Cortez Masto. Thank you.
+Ms. Clements, one of your recommendations on how to enhance
+resiliency efforts is to ensure that resilience efforts focus
+on protecting vulnerable communities. What exactly could be
+done to better protect vulnerable communities, and can you
+elaborate a little bit more on that?
+Ms. Clements. Sure.
+If you think about the--well, first of all, let's remember
+that there's a lot of institutions involved in protecting
+communities in the event that something very bad happens, like
+a hurricane or a drought or some other kind of storm. And
+critical services like hospitals and fire stations and police
+stations and shelters and food banks need support and to be
+able to figure out their plans for how they're going to respond
+in emergencies. Now remember, a lot of this is subject to state
+and local jurisdiction.
+Senator Cortez Masto. Right.
+Ms. Clements. And so, what we recommend in the National
+Academy's report is that Congress provide funding and support
+and field disseminations and best practices so that we can try
+this. We can support the local communities who have to figure
+this out and then help to share that information and socialize
+those, excuse me, best practices by region and across the
+country.
+Senator Cortez Masto. Thank you.
+Mr. Walker, I know my colleague from Illinois talked a
+little bit about this--Puerto Rico and the devastation there
+and the work that is being done to modernize their electric
+grid.
+I just saw a report that notes that DOE's long-term plan
+for Puerto Rico is to begin with new microgrid power
+installations at three manufacturing sites on the island. Can
+you elaborate a little bit more on DOE's long-term plan?
+Mr. Walker. Sure.
+We've--that project is actually not a DOE project.
+Senator Cortez Masto. Oh, it is not?
+Mr. Walker. It's a PRIDCO, which is the Puerto Rico
+Industrial Development Corporation, owns about 200 pieces of
+property on the island of Puerto Rico.
+Senator Cortez Masto. Okay.
+Mr. Walker. And as the Industrial Development Corporation
+they own the property and they lease it back, back to
+customers. So, customers like Johnson & Johnson, Honeywell.
+And so, we've been working very closely with PRIDCO and
+their staff and the Puerto Rican government to give them
+technical expertise with regard to how to site these microgrids
+at various locations on the island in an effort to ensure
+better power quality for these bigger manufacturing customers
+and then and in an effort to reduce their energy costs to
+encourage them to stay on the island and further expand their
+employment opportunities for the people of Puerto Rico.
+Senator Cortez Masto. Anything else that you are doing?
+Long-term plans to address their energy needs there in Puerto
+Rico?
+Mr. Walker. Yes, we are working with all the stakeholders
+that put together plans and integrating them and distilling
+them down into one so it's a better document. And we're adding
+whatever technical capabilities we've got to do that.
+Just yesterday, my team and I met with the TAC Committee,
+the Technical Advisory Committee that was put together by
+PREPA, to coordinate our efforts and, you know, walk through
+what our plan is moving forward.
+Senator Cortez Masto. Okay.
+Thank you. Thank you, all.
+The Chairman. Thank you, Senator.
+Assistant Secretary Walker, thank you for your efforts with
+Puerto Rico and all that is going on there. I appreciated the
+opportunity that we had when we were over there to have that
+following conversation. Obviously, there remains a great deal
+more to be done, but I appreciate your ongoing efforts.
+Several members have commented about the quality of the
+witnesses that we have had this morning and the discussion. One
+of the benefits of holding the gavel here is I get to stay for
+the full morning.
+[Laughter.]
+It has been as important and, I think, enlightening in
+certain areas as any hearing that we have had in a while. So I
+thank you for that.
+I hear from most of you that okay, we are beyond the
+discussion about baseload power and how we define it. I forget
+which of you referred to the policy conundrum between diversity
+versus security. I think it is often very easy to say we need
+to have this diverse portfolio, but if the diversity does not
+give you the security of access to--you fail when it comes to
+your resiliency. You fail in terms of your ability to really
+meet the expectation there.
+And so, I think it is important that as we talk about these
+very serious challenges that we see as you have a grid that is
+evolving and changing and aging and how we do a better job with
+the integration of all of this that we keep in mind this
+distinction between diversity and security and recognize that
+has to be part of our issue.
+We have heard several colleagues state that we can have all
+the supply that we need, but if we cannot move it, it does not
+get us anywhere. I think Alaska is a poster child for that. We
+have extraordinary resources, but our challenge has always been
+moving that to the market.
+I really do appreciate so much of what we have heard here
+today. You will notice that I have deferred my questions,
+holding them until the end so I do not have the clock running
+on me and I do not want to keep you all too long, but I do feel
+like I can bat cleanup here a little bit.
+Let me begin with you, Chairman, and again, I appreciate
+all that you are doing within the Commission there.
+I do not know if it is fair to ask you your personal
+opinion, but I will ask you your personal opinion about what
+you believe is the risk to the grid presented by the ongoing
+retirements that we are seeing in nuclear with coal
+retirements, and just for purposes of conversation here, if you
+have a scale of one to ten with ten being the most severe risk
+to the grid, where do you put us?
+Mr. McIntyre. Thank you, Madam Chairman, for the question.
+Quantification is an inherently tricky business and I feel
+so particularly here, but I can tell you conceptually that
+we're probably, clearly, at a five. I say that on the basis
+just of what we know today of the resilience challenges that
+have presented themselves in prior weather events and other
+circumstances.
+And I say that because of the potential irreversibility of
+the situation of unit retirements and individual unit
+retirement of a particularly sizable plant is a serious matter
+to the grid, let alone an entire class, an entire class of
+power plants.
+So, it's something that as of today, I'd say merits a five
+ranking on your scale, but I will have a better informed
+personal opinion after we have heard from the RTOs and ISOs
+about what specific needs they see and concerns they have in
+their respective----
+The Chairman. Let me ask you about that because you, the
+FERC really has, kind of, kicked that to the RTOs and the ISOs
+to define what the concerns are with regards to resiliency. I
+guess the question is are they the best organizations to make
+that assessment or that determination? What about the EROs, the
+Electricity Reliability Organizations, whether it is NERC, its
+various regional entities? What about DOE? How do all the
+others factor into this? I think we recognize that the RTOs and
+the ISOs, they do not own the grid. You do have owners of the
+grid.
+I understand why FERC moved forward as you did in rejecting
+the NOPR. And I understand, I think, where you are trying to go
+with gathering this assessment back, but does it need to be
+broader, I guess is my question, than just the RTOs and the
+ISOs?
+Mr. McIntyre. I'm happy to say, Madam Chairman, it is
+broader.
+The Chairman. Okay.
+Mr. McIntyre. The most immediate and directed request was
+to the RTOs and ISOs to report back and answering some specific
+questions we put to them.
+But we have invited broader stakeholder input. I'm happy to
+say we already have initiated outreach and had some good
+communications already with Mr. Walker's organization in the
+Department and with Mr. Berardesco's organization, NERC. And I
+would expect that to continue, in addition to hearing from
+other stakeholders as well.
+So I do agree with your suggestion. It needs to be beyond
+just the RTOs and ISOs.
+The Chairman. Well, I appreciate that and do feel that is
+an important part of any analysis that might move forward.
+Assistant Secretary Walker, you spoke to cooperation and
+collaboration that needs to go on. I think you said it is going
+to take unprecedented cooperation and collaboration to keep the
+lights on or something to that effect.
+Mr. Walker. That's correct.
+The Chairman. To that end then, with the resiliency model
+that you have indicated is a top priority for DOE, have you or
+your staff, have you reached out to FERC's reliability or
+security staff or been working with the RTOs on this? Tell me
+how you are going to do this----
+Mr. Walker. Sure, sure. It's a good question.
+I do believe that it does and will take a significant
+amount of collaboration. Chairman McIntyre and I have already
+spoken about this with regard to this model. Yesterday, I had
+the opportunity to meet with Gordon down at the end of the
+table here with regard to the New England study. My team, back
+at DOE, has already reached out and gone through looking toward
+integrating all of the work that FERC's initiative will yield.
+And so, we work pretty regularly within DOE with the ISOs
+and the RTOs and as well as through the Electricity Sector
+Coordinating Council, we reach back throughout the United
+States and with NERC, with all the partners that we've got
+there.
+But in this case, it's even bigger than the electric side
+because it's really where the nexus to bring together the oil
+and natural gas component.
+So presently we actually have two separate coordinating
+councils which we're looking to bring together under this
+rubric because of the interdependencies between oil, natural
+gas and the electric system. We've already laid out a schedule
+of all of those participants that we need to pull together to
+work with FERC, NERC and the regional RTOs in an effort to
+ensure that we get the best answer we can. And that's the
+essence and where this model comes from. Once we've got all of
+the information, we then can take the actual technical
+components of the system which we already have.
+We've already started gathering that and that's part of the
+reason I was out at Northcom with my team last week is starting
+to define some of the resiliency work that's already been done
+in the United States at the Department of Defense and with the
+Army Corps. That's why there was a specific reason to be there.
+So we've already started that initiative to gather all of
+the components that we've got around. In fact, yesterday I met
+with DOE security organization to identify work that's been
+done for resilience at our nuclear power plants and through our
+NNSA groups to be able to coordinate that and provide that
+information, effectively to FERC, as we progress this forward.
+We're very much in lock step with this moving forward
+because it is so critically important to the national security
+components that we address day-to-day and we, obviously, can
+dovetail very well into the marketplace to solve a lot of these
+issues.
+The Chairman. Well, that is good to know because this is
+exactly what we need. It is good to know that there are
+reports, there is analysis, but if we are not really
+coordinating and learning from other entities and what they
+have done or how they have advances, it is not as valuable, I
+think, as we would hope.
+Let me ask another question of you, Chairman McIntyre,
+because there has been discussion about price formation and
+making sure that value is in place. I guess that the quick
+question is how prompt will FERC be when it says that it will
+act promptly if it sees a need to take action?
+I raise this because FERC opened up its price formation
+dockets just after the Polar Vortex, a couple months into early
+2014. That work still has not been completed on price
+formation.
+I think what would be important to know is, given the
+reality of time that it takes, I mean, when you say that FERC
+is going to take prompt action, does this mean that it is
+technical conferences or staff memos and white papers? What can
+actually be expected?
+I think we know that oftentimes this is complicated and
+lengthy, but we also speak frequently about this paralysis of
+analysis and the situation of this review, of ensuring
+reliability. I raised it eight years ago, maybe even longer now
+since I have raised these concerns, and we continue to see
+growing levels of retirements. I would hope that FERC
+recognizes that we need to move beyond technical conferences
+and more white papers and that we actually need to see that
+action. Can you speak to what----
+Mr. McIntyre. Yes, Madam Chair.
+It's a very valid question and certainly when I was in the
+private sector I shared those occasional frustrations as well.
+The Chairman. You were pushing everybody along.
+[Laughter.]
+Mr. McIntyre. But in terms of our January 8 order on our
+grid resilience initiative, there is a certain calendar spelled
+out there--60 days first for the RTOs and ISOs to get back to
+us with their responses to our specific questions, 30 days for
+stakeholder input thereafter. And then, yes, our commitment to
+prompt action thereafter. I cannot say now how much time will
+be involved in such a prompt action, because it will depend on
+the quality of the information which we get back which I expect
+to be very good in general.
+But it's something where I have declared it and our order
+declares it to be a matter of priority for this Commission.
+Those are not words we utter very often, is a declared priority
+of the Commission now to get this right and to move with speed.
+And I should say that in the meantime, we have stated as
+well in the very same order, that should any short-term
+concerns arise within a given RTO or with a given utility, we
+want to know about it immediately. We will not sit idly by if
+there is some sort of legitimate concern regarding reliability
+or resilience of the grid.
+The Chairman. Well, I appreciate that.
+I think that it helps that you have been on the other side
+and just very recently so that you know, not only of the need,
+but have been one who has been in the situation where you are
+urging the action. I think that will help on the inside as
+well.
+I think given what members have covered throughout, I had
+many, many questions when I started and I think we received
+good information before the Committee, and so many of the
+questions I had have been answered.
+But I recognize that this is a challenging space, most
+certainly. We see the challenges pronounced when we have
+weather events that push, kind of, the energy status quo that
+we might get pretty comfortable with. It is a reminder that we
+need to be vigilant in understanding, again, the security, the
+reliability, the resilience of our energy supply.
+I mentioned just a few minutes ago that this hearing has
+probably been the most educational. It is right up there with
+the one that we had several weeks back when we had the head of
+the IEA here, Dr. Birol, who spoke about the energy trends
+internationally. He had four upheavals. I won't go through all
+of them, but his fourth upheaval was what is happening with
+electricity and how that whole sector is being impacted.
+We have a lot of work to do, but this has been a very
+instructive and helpful hearing to all members, so I thank you
+for the time.
+With that, we stand adjourned.
+[Whereupon, at 12:32 p.m. the hearing was adjourned.]
+APPENDIX MATERIAL SUBMITTED
+----------
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]

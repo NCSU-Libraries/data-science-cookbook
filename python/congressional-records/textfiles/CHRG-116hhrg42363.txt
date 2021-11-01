@@ -1,0 +1,1354 @@
+- AI AND THE EVOLUTION OF CLOUD COMPUTING: EVALUATING HOW FINANCIAL DATA IS STORED, PROTECTED, AND MAINTAINED BY CLOUD PROVIDERS
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+AI AND THE EVOLUTION OF CLOUD.
+COMPUTING: EVALUATING HOW
+FINANCIAL DATA IS STORED,
+PROTECTED, AND MAINTAINED
+BY CLOUD PROVIDERS
+=======================================================================
+HEARING
+BEFORE THE
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+OF THE
+COMMITTEE ON FINANCIAL SERVICES
+U.S. HOUSE OF REPRESENTATIVES
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+OCTOBER 18, 2019
+__________
+Printed for the use of the Committee on Financial Services
+Serial No. 116-60
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+42-363 PDF
+WASHINGTON : 2020
+--------------------------------------------------------------------------------------
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+MAXINE WATERS, California, Chairwoman
+CAROLYN B. MALONEY, New York
+PATRICK McHENRY, North Carolina,
+NYDIA M. VELAZQUEZ, New York
+Ranking Member
+BRAD SHERMAN, California
+ANN WAGNER, Missouri
+GREGORY W. MEEKS, New York
+PETER T. KING, New York
+WM. LACY CLAY, Missouri
+FRANK D. LUCAS, Oklahoma
+DAVID SCOTT, Georgia
+BILL POSEY, Florida
+AL GREEN, Texas
+BLAINE LUETKEMEYER, Missouri
+EMANUEL CLEAVER, Missouri
+BILL HUIZENGA, Michigan
+ED PERLMUTTER, Colorado
+STEVE STIVERS, Ohio
+JIM A. HIMES, Connecticut
+ANDY BARR, Kentucky
+BILL FOSTER, Illinois
+SCOTT TIPTON, Colorado
+JOYCE BEATTY, Ohio
+ROGER WILLIAMS, Texas
+DENNY HECK, Washington
+FRENCH HILL, Arkansas
+JUAN VARGAS, California
+TOM EMMER, Minnesota
+JOSH GOTTHEIMER, New Jersey
+LEE M. ZELDIN, New York
+VICENTE GONZALEZ, Texas
+BARRY LOUDERMILK, Georgia
+AL LAWSON, Florida
+ALEXANDER X. MOONEY, West Virginia
+MICHAEL SAN NICOLAS, Guam
+WARREN DAVIDSON, Ohio
+RASHIDA TLAIB, Michigan
+TED BUDD, North Carolina
+KATIE PORTER, California
+DAVID KUSTOFF, Tennessee
+CINDY AXNE, Iowa
+TREY HOLLINGSWORTH, Indiana
+SEAN CASTEN, Illinois
+ANTHONY GONZALEZ, Ohio
+AYANNA PRESSLEY, Massachusetts
+JOHN ROSE, Tennessee
+BEN McADAMS, Utah
+BRYAN STEIL, Wisconsin
+ALEXANDRIA OCASIO-CORTEZ, New York
+LANCE GOODEN, Texas
+JENNIFER WEXTON, Virginia
+DENVER RIGGLEMAN, Virginia
+STEPHEN F. LYNCH, Massachusetts
+WILLIAM TIMMONS, South Carolina
+TULSI GABBARD, Hawaii
+ALMA ADAMS, North Carolina
+MADELEINE DEAN, Pennsylvania
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+DEAN PHILLIPS, Minnesota
+Charla Ouertatani, Staff Director
+TASK FORCE ON ARTIFICIAL INTELLIGENCE
+BILL FOSTER, Illinois, Chairman
+EMANUEL CLEAVER, Missouri
+FRENCH HILL, Arkansas, Ranking
+KATIE PORTER, California
+Member
+SEAN CASTEN, Illinois
+BARRY LOUDERMILK, Georgia,
+ALMA ADAMS, North Carolina
+TED BUDD, North Carolina
+SYLVIA GARCIA, Texas
+ANTHONY GONZALEZ, Ohio
+DEAN PHILLIPS, Minnesota
+DENVER RIGGLEMAN, Virginia
+TREY HOLLINGSWORTH, Indiana
+C O N T E N T S
+----------
+Page
+Hearing held on:
+October 18, 2019.............................................
+1
+Appendix:
+October 18, 2019.............................................
+23
+WITNESSES
+Friday, October 18, 2019
+Benda, Paul, Senior Vice President, Risk and Cybersecurity
+Policy, American Bankers Association...........................
+11
+Brandt, Jordan, CEO and Cofounder, Inpher, Inc...................
+9
+Broussard, Meredith, Associate Professor, NYU, and Affiliate
+Faculty Member, NYU Center for Data Science....................
+4
+Grobman, Steve, Senior Vice President and Chief Technology
+Officer, McAfee................................................
+7
+Seiffert, Alla, Director, Cloud Policy and Counsel, Internet
+Association....................................................
+6
+APPENDIX
+Prepared statements:
+Benda, Paul..................................................
+24
+Brandt, Jordan...............................................
+36
+Broussard, Meredith..........................................
+39
+Grobman, Steve...............................................
+51
+Seiffert, Alla...............................................
+58
+Additional Material Submitted for the Record
+Foster, Hon. Bill:
+Written responses to questions submitted to Alla Seiffert....
+65
+AI AND THE EVOLUTION OF CLOUD
+COMPUTING: EVALUATING HOW
+FINANCIAL DATA IS STORED,
+PROTECTED, AND MAINTAINED
+BY CLOUD PROVIDERS
+----------
+Friday, October 18, 2019
+U.S. House of Representatives,
+Task Force on Artificial Intelligence,
+Committee on Financial Services,
+Washington, D.C.
+The task force met, pursuant to notice, at 9:33 a.m., in
+room 2128, Rayburn House Office Building, Hon. Bill Foster
+[chairman of the task force] presiding.
+Members present: Representatives Foster, Cleaver, Porter,
+Casten, Garcia of Texas; Budd, Gonzalez of Ohio, Riggleman, and
+Hollingsworth.
+Chairman Foster. The Task Force on Artificial Intelligence
+will now come to order. Without objection, the Chair is
+authorized to declare a recess of the task force at any time.
+Also, without objection, members of the full Financial Services
+Committee who are not members of the task force are allowed to
+participate in today's hearing, consistent with the committee's
+practice.
+Today's hearing is entitled, ``AI and the Evolution of
+Cloud Computing: Evaluating How Financial Data is Stored,
+Protected, and Maintained by Cloud Providers.''
+The Chair now recognizes himself for 5 minutes for an
+opening statement.
+First off, thanks, everyone, for joining us today on what
+should be a very interesting hearing of the task force. Today,
+we are looking to explore the rise of cloud computing in the
+financial services sector, including the opportunities and
+risks of companies' migration to the cloud, as well as the
+regulatory framework for protecting sensitive financial
+information that is stored in the cloud.
+And I should also mention that it seems possible that we
+are going to have votes called, Floor votes in the House called
+part way through the hearing, and in that case, we will have a
+game-time decision about which Members might be interested in
+reconvening. And if not, we can just convene for a private
+discussion among the Members, if that turns out to be what is
+feasible.
+The transition to cloud computing is something that is a
+double-edged sword. I have faced that personally where, several
+years ago when I couldn't stand it anymore, what was happening
+in politics, and I went and downloaded TensorFlow to my laptop
+and worked through the various--this is Google's open-source AI
+engine. And so the tradeoffs there were pretty obvious to me,
+that the data set I wanted to be working on fit on my laptop,
+but it just wasn't reasonable. The problems of having to
+reconfigure your system for the latest version of Python,
+everything like that, so that the advantages of going to a
+cloud-based system just for a small-scale user are enormous.
+Not to mention all of the defensive things that you get when
+you go to a competent cloud provider where the first lines of
+defense are actually provided by the cloud service.
+But then, when you talk about the policy implications, we
+are always struggling with data privacy and the basic fact that
+AI works much better with large data sets, and that has huge
+policy implications with which we are struggling. If we are not
+careful, it is going to encourage the consolidation that is
+already a natural feature of any digital enterprise, which is
+essentially a natural monopoly, and this AI has a good chance
+of amplifying this. If you don't have access to the large data
+sets, it is hard for a startup to compete. And if they do have
+access, then there are huge potential--a privacy breach, for
+example, can cause economic damage massively in excess of the
+market capitalization of some little startup. And so, we have
+to be very careful that the AI policies that we apply to the
+cloud don't further force consolidation in an already
+consolidated industry.
+The second thing is just the way that AI will be a
+continuing attack on privacy. Some of the most competent spear-
+phishing attacks now involve multifactor attacks where you are
+using an AI voice synthesizer in concert with a spear-phishing
+attack to make it very likely that an ordinary person will
+click on the enclosure. And so we are seeing, I think it was
+within the last year, that for the first time, an AI engine
+competed on a level playing field with teams of hackers in
+terms of finding software vulnerabilities.
+We are talking about a future that is now, where both cyber
+offense and cyber defense are going to be best employed by AI.
+These sorts of efforts are out of the scale where a small
+person holding their own computer can actually hope to compete
+in this world, so you are going to be increasingly dependent on
+large cloud vendors and companies that deploy on the cloud for
+the defensive work that you will have to do. So, that is
+another huge issue.
+I don't want to take up a lot of time here. I would like to
+get to the witnesses' testimony as much as possible, and I just
+want to thank you all for appearing, and I will turn it over to
+the acting ranking member, Mr. Riggleman.
+Mr. Riggleman. Thank you, Mr. Chairman, for convening this
+hearing today, and generally, for pulling this task force
+together. If I had known a task force on artificial
+intelligence was a possibility, someone like myself might have
+run for Congress much sooner in life, so it is great to be
+here.
+And to our witnesses, I look forward to hearing each of
+your testimonies, and I appreciate you being here.
+Cloud services offer many benefits, both to financial
+institutions and consumers. And as been discussed by Ranking
+Member Hill and others, the work this committee is doing
+through both the FinTech and AI Task Forces is exploring ways
+to streamline compliance, lower regulatory costs, and also
+deliver an overall better, more affordable experience for
+American consumers. By utilizing the cloud, companies can do
+just that, help the consumer.
+Financial institutions are able to innovate and thrive in
+an environment that affords both scaleability and flexibility.
+There are, however, some risks when dealing with anything new,
+including technology and operations, which we look forward to
+discussing further in today's hearing.
+In less than a century, computing has revolutionized the
+banking industry, along with the types and delivery of
+financial products and services that can be offered. Today, we
+all know that a majority of banking and personal finance is
+handled either on your phone or on a computer, but it hasn't
+always been that way.
+Banks first started using computers in the 1950s,
+predominantly to process checks, and later, electronic funds
+transfers. Since banks first began to use computers, they have
+relied on the secure information technology infrastructure run
+by nonbank companies or third-party service providers (TSPs).
+In the 1980s and 1990s, banks started to use personal
+computers for their employees. By the end of the 20th Century,
+a greater proportion of workers in finance used computers than
+in any other industry. Then came the internet and everything
+changed, especially in banking.
+I say all of this to show that the financial industry has a
+long history of utilizing computers, and now they are
+outsourcing many of those responsibilities to the cloud, which
+is why I am glad we are having this hearing today. It is of the
+utmost importance to ensure that all of these operations
+supported by the cloud are safe, secure, and private for its
+customers.
+We have all heard about the Capital One breach that
+happened this past summer, and that breach was connected to
+AWS, the bank's cloud service provider. Our job in Congress is
+to ensure that financial institutions of all sizes, their
+third-party service providers, and every other entity involved
+in the chain has legislative or regulatory certainty to do what
+is needed to protect consumers' data.
+If you look at the Treasury's FinTech report last year on
+nonbanks and FinTechs, you will see a recommendation that
+Federal regulators ease the adoption of new technologies, such
+as cloud computing, with the aim of reducing barriers to the
+migration of activities to the cloud. I agree we need to ensure
+innovation is not stifled, because innovation is ultimately
+what protects consumers while also providing more options and
+more choices.
+All that to say, I look forward to constructive dialogue
+today. I hope we can find solutions that promote innovation
+while also ensuring consumer safety. Today's hearing is the
+start of what I expect will be a longer conversation involving
+identity, privacy, and consumer safety. I look forward to
+ongoing discussions as our world only becomes more connected.
+Thank you, and I yield back.
+Chairman Foster. Thank you.
+Today, we welcome the testimony of Meredith Broussard,
+associate professor at NYU, and affiliate faculty member at the
+NYU Center for Data Science; Alla Seiffert, director of cloud
+policy and counsel at the Internet Association; Steve Grobman,
+senior vice president and chief technology officer at McAfee;
+Dr. Jordan Brandt, CEO and cofounder of Inpher; and Paul Benda,
+senior vice president for risk and cybersecurity policy at the
+American Bankers Association.
+Witnesses are reminded that your oral testimony will be
+limited to 5 minutes, and without objection, your written
+statements will be made a part of the record.
+Ms. Broussard, you are now recognized for 5 minutes.
+STATEMENT OF MEREDITH BROUSSARD, ASSOCIATE PROFESSOR, NYU, AND
+AFFILIATE FACULTY MEMBER, NYU CENTER FOR DATA SCIENCE
+Ms. Broussard. Chairman Foster, Acting Ranking Member
+Riggleman, and members of the task force, thank you very much.
+It is an honor to be asked to testify today. I am a professor
+at NYU, a computer scientist turned journalist, and the author
+of a book called, ``Artificial Unintelligence: How Computers
+Misunderstand the World.''
+I would like to speak today about the realities of AI and
+cloud computing as a way of thinking through the human-scale
+issues with running bank operations in the cloud.
+Computer scientists like to say, the cloud is someone
+else's computer, and we know exactly where those computers are.
+Amazon Web Services controls 48 percent of the cloud computing
+market, and it has 4 major data centers, or server farms, in
+the United States. They are large, usually windowless buildings
+in Northern Virginia, Ohio, Oregon, and northern California.
+Worldwide, 76 percent of the cloud market is controlled by
+a few big firms: Amazon; Google; Microsoft; and Alibaba. Inside
+their server farm buildings, these companies maintain thousands
+of physical computers that anyone can rent space on, including
+banks.
+The U.S. Government is a cloud client. The AWS GovCloud is
+a secure set of servers that host data and programs for DHS,
+Treasury, DOD, cloud.gov, and other agencies. The computers
+that power the AWS GovCloud are physically located in Amazon's
+building in Virginia and backed up on the West Coast. Running
+bank operations in the cloud means moving bank operations to
+one of these buildings, which are vulnerable to a variety of
+physical or cybersecurity threats.
+Again, the reality there is market dominance. We should
+ask, does it make sense to have all of the defense programs and
+all of the Citibank and Chase and SoftBank data stored in the
+same Amazon building in Northern Virginia?
+Let's also think about the people in the banking and cloud
+computing ecosystem. It helps to hear from the IT professionals
+who manage local and cloud computers. A 2014 Ponemon Institute
+survey asked IT professionals to rate their organization's
+effectiveness in securing data and applications used in the
+cloud. Fifty-one percent rated their organizations as low in
+effectiveness. They said the likelihood of a data breach in the
+cloud has increased. Sixty-nine percent believe that their
+organizations failed to be proactive in assessing information
+that was too sensitive to be stored in the cloud.
+If IT professionals have so little faith in their own
+organizations, and we know there is a high demand but low
+supply of IT professionals who are experts in cybersecurity, it
+seems that more regulation and oversight will help protect bank
+operations in the cloud.
+I want to talk now about artificial intelligence (AI).
+Artificial intelligence is widely misunderstood. Hollywood
+images of AI like The Terminator or Commander Data from Star
+Trek are what most people think of when they think of AI. And
+these Hollywood images are delightful, but they are not real.
+AI is best understood as a branch of computer science, the same
+way that algebra is a branch of mathematics.
+Inside AI, there are other branches, including: machine
+learning; expert systems; and natural language processing.
+These are just a few of them, but machine learning is the most
+popular kind of AI in business right now. And it is so popular
+that there has been linguistic confusion. When people say, ``I
+am using AI for my business,'' usually what they mean is, ``I
+am using machine learning for my business.''
+And ``machine learning'' is another misleading name. It
+sounds like the computer has sentience, or learning like a
+human being, and it does not. Machine learning is math. It is
+computational statistics on steroids.
+Banks are using machine learning to help make business
+decisions about things like who qualifies for a mortgage. But
+one problem is that machine learning models discriminate by
+default. Let's say that I have a data set of people who have
+gotten mortgages in the past. The data will be tainted by the
+history of red-lining and residential segregation in the United
+States. If I build a machine-learning model based on this data,
+the model will discriminate against citizens.
+We need to audit the AI algorithms and machine-learning
+models used by banks and other types of companies for fairness
+and to prevent discrimination. The issue here is not where
+these AI programs run or whether the data is stored on bank
+computers or on Amazon's computers. Instead, we should ask what
+the AI is used for, plus, how it is used, what kind of AI is
+used, what specific data is used to train a machine-learning
+model, and what specific data is used to make decisions after
+the model is trained.
+One option is that these kinds of questions could be
+answered in plain language, and this information could be
+communicated as part of the regulatory examination.
+The final thing I will mention is the cultural conflict
+between tech and finance. In the tech world, nobody talks about
+regulatory compliance or teaches it much in schools. The move-
+fast-and-break-things ethos is diametrically opposed to the
+mindset of compliance. It doesn't surprise me that in April
+2019, when Federal examiners visited the AWS site in Virginia,
+they didn't notice the Capital One data breach. The Amazon--
+Chairman Foster. Thank you. And at this point, we are on a
+tight time schedule.
+Ms. Broussard. Okay. Sorry.
+Chairman Foster. The Members can read your full written
+testimony.
+Ms. Broussard. Thank you for the opportunity to contribute,
+and I look forward to answering your questions.
+[The prepared statement of Ms. Broussard can be found on
+page 39 of the appendix.]
+Chairman Foster. Thank you.
+Ms. Seiffert, you are now recognized for 5 minutes.
+STATEMENT OF ALLA SEIFFERT, DIRECTOR, CLOUD POLICY AND COUNSEL,
+INTERNET ASSOCIATION
+Ms. Seiffert. Chairman Foster, Acting Ranking Member
+Riggleman, and distinguished members of the task force, thank
+you for the opportunity to appear before you today to discuss
+the use of the cloud in financial services. My name is Alla
+Seiffert, and I am the director of cloud policy and counsel at
+Internet Association.
+Internet Association, or IA, represents over 40 of the
+world's leading internet companies. Our members are global
+leaders in the drive to develop lower-cost, more secure,
+scaleable, elastic, efficient, resilient, and innovative cloud
+services to customers in both the private and public sectors.
+All of the major U.S.-based hyperscale cloud service providers
+are members of IA.
+I would like to thank Chairman Foster, the task force
+leadership, and your staff for your continued commitment to
+exploring emerging areas around cloud computing and AI within
+financial services. I would like to start with a background on
+cloud computing.
+NIST defines cloud computing as a model for enabling
+ubiquitous, convenient, on-demand network access to a shared
+pool of configureable computing resources that can be rapidly
+provisioned and released with minimal management effort or
+service provider interaction. Cloud service providers, or CSPs,
+make available to customers a wide range of services that
+function as IT building blocks that customers can use to build
+applications to meet their IT goals and be more secure,
+innovative, and responsive to their customers. The cloud is
+flexible enough to be used for everything, from storing
+national security data to managing my PayPal balance.
+Security is a top priority for CSPs, and they invest a
+tremendous amount to make their services secure. By using cloud
+services, customers such as financial institutions can focus on
+carrying out their core business functions and benefit from the
+security measures that CSPs have in place. In that way, the
+cloud is kind of like an office building landlord. It will rent
+you space and make sure you have doors that lock, but it is
+ultimately your responsibility to decide whom you let into your
+office for meetings. Consequently, financial institutions
+remain accountable for managing the risk of their IT
+environments, whether they are run in-house, through a third-
+party-managed service provider, or a CSP.
+Today, financial institutions use the cloud for a wide
+range of applications, from storing publicly available data or
+running test environments, to creating digital channels,
+storing sensitive records, or running critical workloads. We
+have the following three major themes to discuss with the task
+force today.
+First, cloud implementation is a shared responsibility
+between CSPs and customers. Financial institutions that use
+cloud computing operate in an environment where they manage
+certain aspects of their IT resources and are responsible for
+configuring those resources, but they rely on the CSP to manage
+the cloud itself. This division of labor means that both the
+CSP and the customer bear responsibility for making sure
+services are run efficiently and securely. Because each party
+is responsible for securing the resources they control,
+security in the cloud is something we call a shared
+responsibility. Simply put, CSPs are responsible for security
+of the cloud, while the customer is responsible for security in
+the cloud. CSPs provide a broad range of information, tools,
+and assistance to help customers with these responsibilities.
+Second, cloud adoption increases cybersecurity. This is
+because embracing cloud technology helps banks increase overall
+security by modernizing applications and gaining better
+visibility into their networks, traffic, and vulnerabilities.
+The opportunities offered by cloud computing enable enterprises
+to level out their IT security posture and implement best-in-
+class cybersecurity solutions.
+Large cloud providers have the resources and expertise to
+invest in and maintain state-of-the-art and comprehensive IT
+security and deploy it on a global basis across all of their
+platforms. Financial institutions, particularly small and
+midsized firms, could find it economically infeasible to
+achieve similar levels of security on their own.
+Third, the cloud increases the resilience of our nation's
+financial institutions. Specifically, it allows firms of all
+sizes to leverage a suite of best-in-class tools for backup,
+security, and continuity of operations. CSPs design their
+infrastructure to be resilient to outages and incidents, and
+customers can take advantage of this infrastructure to
+architect for enhanced operational resilience. Since CSPs can
+rapidly redistribute data across geographically diverse storage
+regions, cloud environments can enhance firms' strategies for
+business continuity and operational resilience.
+In conclusion, I would like to reiterate IA's gratitude for
+being included in discussions with the Financial Services
+Committee's Task Force on Artificial Intelligence, and for the
+opportunity to testify today. IA, along with our member
+companies, stands ready to support the task force and the
+committee in helping financial services companies adopt the
+cloud in a secure way.
+Thank you, and I look forward to your questions.
+[The prepared statement of Ms. Seiffert can be found on
+page 58 of the appendix.]
+Chairman Foster. Beautifully timed. Thank you.
+Mr. Grobman, you are now recognized for 5 minutes.
+STATEMENT OF STEVE GROBMAN, SENIOR VICE PRESIDENT AND CHIEF
+TECHNOLOGY OFFICER, MCAFEE
+Mr. Grobman. Good morning, Chairman Foster, Acting Ranking
+Member Riggleman, and members of the task force. Thank you for
+the opportunity to testify about two important issues for the
+financial services sector: the cloud; and artificial
+intelligence. Both have advantages to the industry and raise
+security concerns.
+Financial services organizations are migrating to the cloud
+to reduce complexity, cut costs, and focus their capabilities
+on delivering financial services to their customers. By using
+the cloud, both large and small institutions benefit from
+advanced technology that normally is available only to those
+who can invest significantly in highly technical workforce.
+Cloud providers also generally practice strong cyber hygiene,
+enabling a quick response to vulnerabilities and issues.
+Yet, there are also security challenges in moving to the
+cloud. As cloud providers service many clients, a breach can
+place multiple organizations' data at risk. An analogy I like
+to use is that traditional, on-premise computing is like an
+automobile, and cloud computing is a lot like an airplane.
+While an airplane is safer than an automobile, given its more
+advanced technology, when a failure does occur, the impact can
+be catastrophic.
+Today, almost all organizations, including financial
+services, use multiple cloud providers, a trend that is leaving
+organizations with less visibility to their operations. To
+remediate the situation, organizations need solutions to manage
+visibility and monitor security between cloud service consumers
+and providers. Known as CASB, this function is a critical new
+class of application that is rapidly being adopted to manage
+and secure diverse cloud environments.
+Another security issue is the use of unauthorized cloud
+applications by employees, what we call shadow IT. This creates
+risk for both the technology and the data. Like cloud, we must
+understand the capabilities, limitations, and risks of AI.
+Financial services organizations are using AI and machine
+learning to enable advanced analytics that allow them to better
+service and protect customers and better manage overall costs.
+AI is also the new foundation of cyber defense, enabling us
+to better detect threats and find the so-called needle in a
+haystack of needles. AI-based automation is helping us
+alleviate the cybersecurity talent shortage, enabling us to
+free up human security professionals to focus on the most
+critical aspects of cyber defense.
+But AI is actually quite fragile. In many industries that
+use AI, such as meteorology, where an adversary does not exist,
+the fragility is not an issue. In cybersecurity, adversaries
+are building techniques to confuse AI models and evade
+detection. To mitigate these risks, McAfee is investing in
+understanding the adversarial techniques and researching ways
+to make AI more resilient against attacks.
+AI can also be used as a tool by the adversaries. Bad
+actors can use AI to identify the most vulnerable victims,
+automate phishing, and evade detection. AI improves their
+ability to execute attacks and enables content creation for use
+in social engineering and information warfare such as deepfake
+videos.
+These and many other adversarial uses of AI can and will
+occur, putting our financial services sector, as well as our
+democracy and civil society, at increased risk. Most major
+financial institutions are prepared for major cyber attacks, in
+part due to the regulatory oversight of the Bank Service
+Company Act, and the Gramm-Leach-Bliley Act. Financial service
+organizations also actively engage in cyber sharing groups in
+collaboration with DHS, the OCC, and the Federal Reserve.
+Likewise, overall, the largest third-party cloud providers
+also have strong cybersecurity records. They have solid plans
+in place to respond to cyber attacks, they are committed to
+aligning with the NIST cybersecurity framework, and they are
+active in public-private partnerships.
+Cloud providers are less regulated than their counterparts
+in the financial services sector, as many policymakers know
+that overly prescriptive regulation would stifle innovation in
+technology companies and could quickly be outdated as
+technology advances. Yet, Federal regulators do have a
+legitimate interest in seeing that IT and cybersecurity
+services provided by cloud providers to financial institutions
+are robust.
+To best secure cloud and AI technology in the financial
+services sector, we recommend voluntary collaboration and the
+use of industry-supported standards and best practices, such as
+the NIST cybersecurity framework. When appropriate, existing
+cybersecurity rules for highly regulated critical
+infrastructure industries should be updated to reflect the
+rapid speed of innovation.
+Thank you for the opportunity to discuss these issues, and
+I look forward to answering your questions.
+[The prepared statement of Mr. Grobman can be found on page
+51 of the appendix.]
+Chairman Foster. Thank you. Again, beautifully timed.
+Dr. Brandt, you are now recognized for 5 minutes.
+STATEMENT OF JORDAN BRANDT, CEO AND COFOUNDER, INPHER, INC.
+Mr. Brandt. Thank you, Chairman Foster, Acting Ranking
+Member Riggleman, and members of the task force. And, Chairman
+Foster, I have to say, it is impressive that you have
+experimented with TensorFlow. So, thank you for your efforts.
+Cloud computing and AI are distinct and complementary
+technologies that offer tremendous economic and consumer
+benefits. The cloud reduces cost and democratizes access to
+computational resources which, in turn, powers AI to streamline
+business functions and provide new insights that improve
+consumer welfare.
+The committee has correctly identified that these benefits
+must be harnessed with proper legislative and technological
+safeguards for both data security and privacy. Whereas cloud
+computing and AI pose distinct risks, a common theme applies to
+both: Don't put all of your eggs into one basket. The
+consolidation of sensitive personal information into any
+individual entity, to be mined by data-hungry AI algorithms,
+poses significant economic risks and an existential threat to
+the privacy of our citizens. Fortunately, the emergence of
+privacy enhancing technologies, or PETs, and specifically
+encryption in-use capabilities, can address the concerns of
+both cloud data security and privacy in AI.
+As banks move more of their data and information processing
+to the cloud, they are effectively consolidating risk into a
+select few providers of cloud computing infrastructure. The
+magnitude of this risk was underscored by the recent Capital
+One hack. The breach could have been prevented by securely
+computing across distributed data in a multi-cloud
+architecture, in which data is processed without exposing the
+underlying personal information. This would have eliminated a
+single point of failure.
+To illustrate how this works, it is important to firstly
+define the three pillars of encryption, which is the best
+mathematical safeguard of data. First, we have encryption in
+transit, which secures the transmission between the sender and
+the receiver. Second, encryption at rest, which secures data
+storage while it is sitting on a hard disk. And third, we have
+encryption in use, such as homomorphic encryption and
+multiparty computation, which secures data in memory while it
+is being processed.
+In-transit and at-rest encryption are already ubiquitous.
+Encryption in-use is rapidly evolving from academic research
+into practical applications today, as its computing performance
+for large data sets quantifiably improves.
+For example, at Inpher, we have made multiple order-of-
+magnitude improvements in the performance of both homomorphic
+encryption and multiparty computation without compromising
+accuracy. We are currently deploying this technology to solve
+real-world privacy and security challenges in banking, defense,
+healthcare, and other industries.
+Our platform keeps data private, secure, and resident,
+precluding the need to centralize information into a single
+repository. This proactive safeguard enables financial
+institutions to minimize risk and leverage the full benefits of
+AI without a privacy tradeoff. PETs thus internalize the letter
+and the spirit of U.S. and international data privacy regimes
+which jointly emphasize privacy by design.
+Specifically, in the financial services sector, we are
+witnessing the application of PETs in fraud and anti-money-
+laundering, credit scoring, trade surveillance, and all forms
+of predictive modeling where compliant data sharing is
+critical. PETs safely overcome data silos and increase data
+utility.
+Regulators and law enforcement also benefit from privacy-
+preserving computing, as they are able to run forensics and
+surveillance on encrypted data for pattern matching and event
+detection without compromising individual privacy or inviting
+potential liability. They can find the bad guys without
+compromising on its citizens. To this end, we have briefed many
+domestic and international regulators about these capabilities
+over the last year, and we are encouraged by their enthusiastic
+support.
+To conclude, as a nation, we are in a technology arms race
+with countries like China that do not share our views on
+individual rights. We must not accept the false dichotomy
+between AI and our privacy. We can have both. Privacy-
+preserving computing not only champions and achieves this
+outcome, but also fosters new innovation and economic expansion
+that benefits our government, industry, and every American
+citizen.
+We truly appreciate your interest and desire to learn more
+about this very complex topic, and we remain at your disposal
+for any further questions that you may have.
+[The prepared statement of Dr. Brandt can be found on page
+36 of the appendix.]
+Chairman Foster. Thank you.
+And, Mr. Benda, you are now recognized for 5 minutes.
+STATEMENT OF PAUL BENDA, SENIOR VICE PRESIDENT, RISK AND
+CYBERSECURITY POLICY, AMERICAN BANKERS ASSOCIATION
+Mr. Benda. Thank you.
+Good morning, Chairman Foster, Acting Ranking Member
+Riggleman, and distinguished members of the task force. I
+appreciate the opportunity to come before you today to discuss
+how financial data is stored, protected, and maintained by
+cloud providers. My name is Paul Benda, and I am a senior vice
+president for risk and cybersecurity policy at the American
+Bankers Association (ABA).
+Prior to joining the ABA, I served in the government, both
+in the Air Force and as a civilian in the Departments of
+Defense and Homeland Security, where I focused on research and
+development of new technologies to protect against kinetic and
+cyber threats. After I transitioned to the private sector, I
+focused on assessing physical and cybersecurity practices of
+businesses and recommended improvements to make them more
+secure.
+At the ABA, my portfolio is on physical and cybersecurity
+policy, helping our members understand emerging threats, new
+technologies, and the political and legislative environments
+surrounding their use. The ABA believes the flexibility,
+scaleability, and advanced technologies available in the cloud
+make it a valuable tool for financial institutions to consider
+using. We appreciate the opportunity to share our thoughts on
+how financial data is stored and protected in the cloud, and we
+would like to highlight four main points.
+First, banks are responsible for their data. Title V of the
+Gramm-Leach-Bliley Act (GLBA) has long-established standards
+that require a bank to take meaningful steps designed to ensure
+the security and confidentiality of its customers' information.
+These requirements are in place regardless of whether that
+information is stored on premise, by a third party, or in the
+cloud. Regardless of the location, banks are responsible for
+ensuring that data is protected.
+Second, the cloud offers benefits, but risks must be
+managed. It is clear that there are potential benefits as well
+as risks regarding use of the cloud. But the decision on its
+use should be left to each individual bank, as each bank is
+different and is most capable of performing an overall risk-
+benefit calculation for their environment. If done
+appropriately, use of the cloud is likely to have no adverse
+effect on the overall risk profile of a bank and would most
+likely improve their resiliency.
+Third, all parties should collaborate to improve cloud
+security and efficiency. Banks inhabit a unique regulatory
+space. No other industry has the level of regulator guidance,
+oversight, or examination structure in place to ensure that
+financial data is protected. The baseline shared responsibility
+model of security used by CSPs attempts to shift all
+responsibility for information security to its customers,
+although many CSPs do offer to manage certain IT controls on
+behalf of their customers, which can blur the lines of
+responsibility.
+We believe it would be helpful, especially for financial
+data deployments, that a transparent set of unified security
+controls be developed, that security control responsibilities
+are clearly delineated for each deployment, and that a process
+for CSPs to notify customers of potential security
+misconfigurations in their cloud deployments be instituted.
+This cooperative approach to security would increase overall
+security of the data and aid in the management of this critical
+data as it resides in the public cloud.
+We would welcome a discussion between banks, cloud service
+providers, and regulators that will allow us to work in a
+collaborative manner to ensure that the right frameworks,
+processes, and programs are in place to allow adoption of these
+new technologies, while maintaining the safety and soundness of
+the financial institution.
+Fourth, regulatory clarity is important. From a financial
+services perspective, the GLBA, the Bank Service Company Act,
+and banking agency guidance already provide a robust regulatory
+framework to oversee bank utilization of their cloud. But
+additional clarity would be helpful on the roles and
+responsibilities of regulators with respect to their direct
+oversight of cloud service providers. We believe that the
+oversight authorities in the Bank Service Company Act could be
+aligned and coordinated with the proposed set of unified
+security controls for financial data deployed in the cloud so
+that banks could clearly understand those areas where they
+could depend on regulators to provide oversight of the cloud
+service providers, and where banks must utilize private-sector
+methods to ensure that appropriate due diligence is done.
+A clear delineation of roles and responsibilities that is
+arrived at in a collaborative manner would improve overall
+security as well as efficiency into the oversight process for
+banks of all sizes.
+The challenges in the space are complex. We believe that
+every stakeholder wants to ensure that security of these
+critical systems is maintained, and at the same time,
+innovation is not hindered. A collaborative approach that
+merges the best of the safety and soundness culture of banks
+and regulators with the entrepreneurial spirit of cloud service
+providers is likely to achieve a lasting outcome that is
+acceptable to all parties.
+Thank you for the opportunity to testify, and I look
+forward to your questions.
+[The prepared statement of Mr. Benda can be found on page
+24 of the appendix.]
+Chairman Foster. Thank you.
+I will now recognize myself for 5 minutes for questions.
+Our witnesses here seem to have identified four lines of
+defense here. The first line of defense that Ms. Seiffert
+mentioned was just that cloud service providers have multiple
+physical locations. And so, when you are talking about physical
+attacks, that is a pretty solid strategy.
+The second one that, I guess, Mr. Grobman mentioned, is the
+use of multiple cloud providers. And I would be interested, I
+will be asking questions on whether that is--how realistic a
+possibility that is.
+The third one is advanced encryption techniques as a way to
+be able to survive even a significant cyber breach.
+And the fourth general thing is just the future of AI as
+the main tool that will be used for real-time cyber defense.
+And so starting with the first point, Ms. Seiffert, to what
+extent is having multiple physical locations a real protection,
+and to what extent could it be illusory, if you have a shared
+hardware vulnerability? For example, if you lose your hardware
+root of trust, the key used to download software updates, for
+example, and if that gets corrupted or lost or the bad guys get
+their whole--you could be in a situation where, yes, we have
+multiple locations, but because of a shared hardware
+vulnerability or a silicon bug that is discovered.
+Can you say little bit about that, whether that is going to
+prove illusory or not?
+Ms. Seiffert. Thank you for your question. That is without
+a doubt a possibility, but nevertheless, the multiple
+availability zone architecture of cloud computing really does
+lead to significant increases in resiliency. There are a number
+of ways to configure cloud-native applications with respect to
+the failover mechanism. I think your point is incredibly valid,
+what if a vulnerability exists upon multiple availability
+zones, but it is my understanding that there is a way to
+architect applications such that in order to have backup and
+redundancy storage, and essentially seamless failover, in the
+event of issues in one location.
+Chairman Foster. Let's see. The question of whether
+multiple cloud providers are also a realistic useful defense,
+that is something that Congress, for example, could mandate for
+too-big-to-fail banks, that they simply maintain a hot spare
+provider, in addition to the hot spares that are provided
+internal to each cloud service provider. And I was wondering if
+anyone, Mr. Grobman or Mr. Benda, might have a comment on that,
+where obviously that would impose costs.
+Mr. Grobman. Sure.
+Chairman Foster. And we struggle with this all the time in
+this committee, the tradeoff between short-term profitability
+and reducing tail risk.
+Mr. Grobman. I think, in general, having diverse
+implementations can add some additional levels of security, but
+we also need to recognize that a lot of the issues here are not
+new. In your last question, you pointed out that a single
+technical vulnerability could impact multiple physical
+locations. That is true regardless of whether it is a cloud or
+a traditional on-premise implementation. I think similarly, if
+you look at multiple cloud providers, there are going to be
+some issues that are cloud provider-specific and some that
+would be at an application level or really not matter whether
+or not it had multiple providers. So, I think it is going to
+add some help but not be the silver bullet solution.
+Chairman Foster. Yes, like the meltdown inspector bugs, for
+example, applied to multiple processor architectures, so that
+even having a separate set of processes your cloud is running
+on was not necessarily a defense.
+Mr. Grobman. Correct. I do think that particular issue is
+illustrative of how effective the large cloud providers are at
+remediating vulnerabilities. All of the large cloud providers
+patched their hardware with new firmware literally within days,
+whereas we have seen private data centers usually take many
+weeks, if not months, to get those same patches.
+Chairman Foster. Okay. Now, in terms of advanced encryption
+techniques, Dr. Brandt, you said that you had made big
+improvements in the speed, and I guess you probably have
+competitors in this. If you look at the overall trajectory of
+performance of privacy-preserving computing, is there a way to
+estimate the point at which it might be a pretty small overhead
+for things like training neural networks and so on?
+Mr. Brandt. Yes. Thank you for the question. Indeed, there
+have been drastic improvements over the last several years,
+orders-of-magnitude improvements that we have seen in the
+performance of encryption and use specifically. Again, keeping
+data encrypted while it is being processed, which can also help
+protect against these hardware vulnerabilities. If you focus on
+the data itself, even if the hardware is compromised, the data
+itself would be secure.
+Of course, the tradeoff has been higher computational
+overhead to achieve this. With the current trajectory, we are
+seeing that large data sets to be used for training neural
+networks or training AI models in general is becoming quite
+practical. This is especially because that is an offline
+process. It doesn't need to be done necessarily in real time.
+Even if you are talking about an order of magnitude higher
+compute overhead than you would have in plain text, it still
+can be--
+Chairman Foster. Okay. Now, unfortunately, I must bring the
+gavel down on myself and recognize my colleague, Mr. Riggleman,
+for 5 minutes.
+Mr. Riggleman. Thank you, Mr. Chairman. And thank you again
+to the witnesses.
+And I first want to thank Ms. Broussard for your definition
+on AI and ML. That is an argument I have had in the DOD, I
+think, for the past 5 years. So, I appreciate that before we
+get started.
+We have had a few hearings here in Congress, and we have a
+lot of things here. I want to make sure we get to our
+colleagues. I have written down, you were talking about--the
+chairman was talking about the four issues that he saw here. I
+have some specific questions just based on my background in,
+not really cloud computing, but trying to do the governance and
+security, overseeing cloud computing in the DOD, specifically
+the challenges with competition amongst cloud computing and the
+fun that we have had there with security, but also the
+regulatory issues.
+I want to start with Mr. Grobman, and then I want to go to
+Mr. Benda. We were talking about continuity of operations, I
+think, a little bit earlier is how I would look at it, and this
+is something that I am looking at as we are going forward. Do
+you think continuity of operations (COOP) would be less
+expensive with cloud applications, even based on scaleability--
+which I will go to Mr. Benda about--but do you think actually
+when you are looking at the cloud and where we are going right
+now, do you believe that would be less expensive for continuity
+of operations going forward rather than staying on premise?
+Mr. Grobman. Yes. And the reason is, cloud operators are
+able to execute at scale and be able to have expertise in
+specific areas that would not be practical at the typical
+institutions that use them. So, for the financial services
+sector or the DOD to have the same level of competence in the
+low-level capabilities a CSP has would not be practical. I
+think it does make things work a lot faster.
+Mr. Riggleman. It is interesting because we talked about
+data stovepipes beforehand, before cloud computing became a
+thing, right? And my worry is creating funnel clouds of
+excellence also, which we called them. But talking about that,
+we talked about cost and scaleability, and talking about
+continuity of operations--and going to Mr. Benda--and sorry, I
+am off script right now, so we are having fun right now--so
+talking about scaleability, would you say maybe that it
+improves--and going on, Mr. Grobman, would you say it would
+improve our security posture based on the fact it could be less
+expensive, based on cloud computing, to have more continuity of
+operations as far as cost and scaleability?
+Mr. Benda. I think that the value of the cloud is certainly
+the pay-as-you-go model. You pay for what you use. The
+scaleability is there, in that the cloud has several server
+farms that you can access and provide you failover capabilities
+that are in there. I think the cost process or the cost model
+is that you are not--the way I have heard it described is that
+it is an operational expense versus capital expense. So, the
+clouds take on that capital expense. It should reduce costs
+overall and provide a better resilience capability because that
+scaleability is there on an instant and that is when you pay
+for it.
+Mr. Riggleman. If we are becoming increasingly reliant on
+technologies, why do you think at this time anybody would wait
+to adopt them?
+Mr. Benda. I think if you look at it from a financial
+services perspective, there are multiple reasons. One, the
+cloud is new. You have to learn a whole new set of things on
+how to secure it. It can be more secure, or it can be less
+secure, depending on how well you know it.
+The other thing is, I think there is a lack of regulatory
+clarity in how the cloud is treated and how it is examined. It
+is a real issue for banks, and I think the Treasury report that
+you referenced, sir, makes some really good recommendations.
+Mr. Riggleman. Thank you very much.
+Ms. Seiffert, the same question to you, do you think there
+is an ability for any scaleable pricing that targets smaller
+institutions? And this is what I get excited about a little
+bit, is that when we are looking at smaller institutions trying
+to enter into the cloud computing space, do you think that
+scaleable pricing is there based on the fact that we have a
+better way of doing business than on premise?
+Ms. Seiffert. Thank you for the question. Small and
+midsized institution absolutely have the ability to really
+leverage the power of the cloud to save money, as well as
+really piggyback on a fair amount of cybersecurity know-how
+that the cloud service providers bring to the table. A small or
+midsized institution, a credit union in Texas, a small bank in
+Missouri, they are really not able to retain the level of staff
+or technical know-how to keep their systems as secure as the
+cloud service providers are able to keep their infrastructure.
+And so, in that respect, the consumption-based pricing
+model really favors smaller institutions because their compute
+spend is just going to be less. It is also going to be more
+predictable than needing to not only buy a data center, but
+also patch it to include with the vulnerabilities that were
+mentioned earlier.
+Mr. Riggleman. This allows me to mention to everybody, so
+piggybacking off Dr. Brandt, and then going to Mr. Benda, when
+you are talking about technology, and advances that we had, and
+going to Mr. Benda and seeing everything that is happening, in
+the last 25 seconds here--yes, sir, I see the gavel ready--in
+the last 25 seconds, are we to a point where really it isn't
+about location anymore, it is about access, right? If we are to
+that point right now, should we be more aggressive in making
+sure that our regulatory structure supports that?
+Mr. Benda. I would agree, I think it is about access, but
+we have to make sure that those physical security controls are
+in place, and I think that is really where regulators can help.
+Mr. Riggleman. Thank you, and I yield back. The witnesses
+were wonderful. Thank you.
+Chairman Foster. Thank you.
+The gentlewoman from Texas, Ms. Garcia, is now recognized
+for 5 minutes.
+Ms. Garcia of Texas. Thank you, Mr. Chairman. And thank you
+to all the witnesses today.
+First, let me say that I still don't have clarity. I think
+it is a little cloudy in my head as to exactly what the real
+challenges are here. And I am concerned more about the
+consumer, perhaps a consumer like myself, who still keeps a
+checkbook, who doesn't trust a lot of online banking or online
+shopping because I find a lot of mistakes, even in some of my
+credit card statements. The very idea that somewhere in never-
+never land, there is a cloud taking care of my financial
+information, has made me even more nervous today than I was
+before.
+Ms. Seiffert, you said there was a shared responsibility,
+that security in the cloud was the responsibility of the
+customer financial institution, and security of the cloud was
+the CSP. What does that really mean?
+Ms. Seiffert. Sure. Thank you very much for the question.
+What that means is there are a variety of services that are
+available for banks to configure--
+Ms. Garcia of Texas. No, I know that, but can you give me
+an example of what you mean by the difference between ``of''
+the cloud and ``in'' the cloud? So that a person like me who is
+watching this today can really understand.
+Ms. Seiffert. Absolutely. When it comes to the software, so
+whereas you pull up your phone and you have your banking
+application there, when it is your time to log in, you enter
+your user name and your password, maybe there is a two-factor
+authentication. The security of the application as it
+communicates with the data that is possibly stored in the
+cloud, it is your bank's responsibility to make sure that
+application is secure.
+So you as a consumer, you are seeing an application, that
+is all the financial services--
+Ms. Garcia of Texas. So if I don't use my phone for
+banking, I don't have to worry about this cloud business?
+Ms. Seiffert. Not quite.
+Ms. Garcia of Texas. Okay.
+Ms. Seiffert. It depends on what your--
+Ms. Garcia of Texas. Again, remember you are talking to a
+consumer who doesn't do online banking.
+Ms. Seiffert. So, let's say you are--
+Ms. Garcia of Texas. But you have my data over there in
+West Virginia in the same place where the FBI has a data
+center, and that makes me nervous too.
+Ms. Seiffert. It is a very secure data center.
+But sort of the physical security of the data center, who
+is allowed to get in, you and I probably can't just walk into
+some data center and have a look around just because we would
+like to. And the physical security of data centers is a cloud
+service provider's responsibility. The specific application
+data that is stored there, let's say that you are accessing a
+loan through a bank. Let's say you go in person to a bank
+branch in order to apply for a loan. The security of the
+application, let's say they take down your data on a website or
+on some sort of document, and they e-mail it for processing.
+The security of that is the bank's responsibility.
+Ms. Garcia of Texas. Okay. Well, it is a little cloudy,
+okay? But I will move on to Ms. Broussard.
+Do you agree with this shared responsibility? Because I
+think you said that no one in tech thinks about regulatory
+issues, and instead, they want to move fast and break things.
+And so if my data as a consumer is stolen or misused, should
+the liability fall on the CSP or on the financial institution
+that is using the CSP?
+Ms. Broussard. Thank you for the question. The issue of
+liability is a really good one. We can think about shared
+responsibility and we can think about shared liability. For
+example, if you go to a hotel and you are injured at a hotel
+because of something that the hotel did, then the hotel bears
+some responsibility, right? The best way to think about
+cybersecurity issues and issues of liability in the
+computational world is to think about the equivalence in the
+real world and think through how things would proceed in that
+way.
+And specifically in this case, we do have a communication
+issue, a really major communication issue around compliance and
+around tech, because AI issues are very difficult to
+understand, and bank regulatory issues are pretty hard to
+understand if you are not trained in it.
+One of the things that I think we need is we need better
+training for cloud computing staff about bank regulatory
+issues. And we need better communication by both parties about
+what are the regulations and what is actually happening on the
+digital side and how is everybody staying protected.
+Ms. Garcia of Texas. All right. Thank you.
+Ms. Broussard. Thank you.
+Ms. Garcia of Texas. I yield back. Thank you, Mr. Chairman.
+Chairman Foster. Thank you.
+The gentleman from Ohio, Mr. Gonzalez, is recognized for 5
+minutes.
+Mr. Gonzalez of Ohio. Thank you, Mr. Chairman. And thank
+you, everybody, for being here today for this important task
+force hearing.
+I want to start with some questions for Mr. Benda. You
+spoke about a collaborative approach between the CSPs, the
+regulators, and the banks to provide clarity and guidance on
+rules and responsibilities. I agree, that makes total sense. We
+need to have this sort of collaboration. Right now, there is
+sort of this finger-pointing thing going on, which I think
+everybody really loves.
+Not to put you on the spot here, but as you think through
+that, from your perspective, what do you think the right roles
+and responsibilities for each of those three entities should
+be? It is a big question, I know.
+Mr. Benda. That is a big question.
+Mr. Gonzalez of Ohio. Give me some broad brush strokes, if
+you could?
+Mr. Benda. The one thing I would say on that is that banks
+are comfortable and understand the requirements of GLBA and
+their responsibility to be, overall, the caretaker of that
+customer's data. We spend hundreds of millions of dollars every
+year to make sure that happens. We are not interested in
+offloading that responsibility.
+When we look at the different roles, we think there is a a
+clash of culture between safety and soundness, regulatory
+compliance culture that banks have, versus move-fast-break-
+things on the tech side. We would love to see a more efficient
+examination process that allows banks to operate and utilize
+and take advantage of all the wonderful things that the cloud
+can provide.
+But then the regulators have their role of, instead of
+having 5,000 banks go and hit Amazon for a certain thing, we
+rely on the regulators to look at the physical security access
+point. We look at them for those things where there is a multi-
+tenant cloud, the regulators have access that they need to
+ensure that the banks' due diligence for that third-party
+oversight is done and that the banks do their appropriate role.
+I think working in a collaborative manner, we can make
+things better for everyone and make things more secure.
+Mr. Gonzalez of Ohio. And then as a followup, what is the
+barrier to having that sort of collaboration, and how can we as
+Congress make sure that that actually occurs? Because it
+strikes me that would be a more effective means than what we
+are doing now.
+Mr. Benda. I think the Treasury report that Congressman
+Riggleman mentioned actually has this exact recommendation in
+it. I would just ask for an update from Treasury on where they
+stand on that, and we are happy to work together with the
+regulators to make that happen.
+Mr. Gonzalez of Ohio. Great.
+And then, Ms. Broussard, so your analogy of the hotel--and
+this could be for anybody--but the analogy of the hotel
+suggests that or implies that it is easy to make attribution,
+right? If something at the hotel was deficient, and I get hurt,
+that is on the hotel. If it is something that I am doing
+myself, that is probably on me. And that makes sense.
+My question with respect to security in the cloud is, how
+easy is it to make those attributions and does that prevent any
+sort of barrier?
+Ms. Broussard. Thank you for the question. I used the
+analogy of the hotel because when you go into a hotel, you are
+renting space.
+Mr. Gonzalez of Ohio. Right.
+Ms. Broussard. And in the cloud environment, you are also
+renting space from one of the cloud providers.
+As far as how easy it is to figure out what went wrong, it
+really depends on the individual situation. Sometimes, it is
+quite obvious, for example, somebody forgot to patch a security
+hole, and a hacker got in through that security hole, and it is
+a well-understood breach. Other times, we have folks who are
+really, really creative about finding ways in, and so we have a
+new kind of breach, an unknown unknown, if you will--
+Mr. Gonzalez of Ohio. Right.
+Ms. Broussard. --and we don't have ways to predict that
+because it hasn't happened yet. And AI is especially not
+helpful in that regard, because AI can help us protect against
+things that have already happened, that are known, but it can't
+be creative in the same way that humans are creative. That is
+one of the things that is hard about cybersecurity, is you
+always have to keep up.
+Mr. Gonzalez of Ohio. Thank you.
+Mr. Grobman?
+Mr. Grobman. Representative, I really think it is very
+similar to in the physical world, that in order to have safe
+use of technology, it is a combination of the technology and
+the use. For example, in order to safely drive a car, having
+safety features in the car is a critical component, but as a
+driver, you also need to apply the rules of the road. So if you
+are in a auto accident, it could be either because of a failure
+of the automobile or because you did something improper as a
+driver.
+And it is very much the same in the world of the cloud, in
+that we do need to recognize that the underlying technology can
+have vulnerabilities, but also, the users of that technology
+can have misconfigurations or make other mistakes that would
+lead to issues.
+Mr. Gonzalez of Ohio. Yes, and I agree. I guess the point I
+am trying to drive home is, so we get the clear rules of the
+road, we get the guidelines, we make sure that everything is
+right, I still think we have this attribution question that I
+am not sure that we have a great answer for right now.
+With that, I yield back.
+Chairman Foster. Thank you.
+The gentleman from Illinois, Mr. Casten, is now recognized
+for 5 minutes.
+Mr. Casten. Thank you, Mr. Chairman. And thank you all so
+much.
+It strikes me that the thing that makes cloud computing so
+awesome is that its strength is its weakness, right? You have
+all of this organized data that you can access remotely, which
+means that if I am going to wear a black hat and find a place
+to target, that is a lot more attractive than getting onto my
+little laptop. The issues, and as Congresswoman Garcia raised,
+is this gap between who bears the liability for that, and then
+there is separately, who bears the cost, which is not always
+the same, and sometimes don't tie out.
+My first question for Mr. Benda is, let's say you are a
+major U.S. bank. You have customer data from all 50 States
+within your system. Jurisdictionally, how many different
+jurisdictions constrain how you regulate the data? Is it 51? Is
+there one overarching jurisdiction that sets what kind of
+constraints you have to impose or liabilities you have to
+manage to?
+Mr. Benda. There can be. A national bank like that is
+chartered by the OCC. That is the primary regulator. They would
+have the overarching control or regulation of that. What we
+would like to see is a harmonization of those regulations. We
+would like to see that we don't have to answer to 51 different
+masters, that we harmonize those regulations through a Federal
+regulator.
+Mr. Casten. Are the obligations substantively different
+between the State and the Federal, and between the States?
+Mr. Benda. They can be, sir.
+Mr. Casten. What if you have international clients, or one
+of your clients has a London account in addition to your U.S.
+account that is managed in your same system?
+Mr. Benda. Large banks have a lot of regulatory oversight
+and a lot of different challenges they have to face. Those are
+real issues that we work through every day, and we do our best
+to address them as best we can.
+Mr. Casten. Given different liabilities for those different
+jurisdictions, to what degree do the banks segment the data? In
+other words, if I have data that is only subject to my London
+account, is that on the same network and the same accessible
+server as the one that is my Arkansas account?
+Mr. Benda. That is a great question, sir. I would have to
+get back to you on that. I don't know a specific implementation
+on how they would handle that.
+Mr. Casten. Is it even possible to do that segmentation if
+your customer in Arkansas also has a London account?
+Mr. Benda. Per customer, that is a great question, sir. I
+don't know the ins and outs of that. I would have to get back
+to you on that.
+Mr. Casten. Ms. Broussard, you seem like a nice person, but
+I am going to pretend you have on a black hat now.
+Ms. Broussard. Okay.
+Mr. Casten. If you have all of these different regulations
+and you have a gap between the liability and the cost of--who
+bears liability and who bears cost between the cloud provider
+and the bank and the customer whose data is stored, and
+different international and State and Federal rules, where are
+the regulatory gaps? If you are going to hack into that system
+and say, where would I exploit the vulnerabilities? Because,
+given your brain power, if you can say with a black hat and
+then we can think about where we ought to be, where we ought to
+be bolstering the defenses, I am going to put you on the spot,
+but I would love your thoughts.
+Ms. Broussard. Sure. I actually think about this a lot. As
+a data journalist, one of the things you do is you look for
+where can things go wrong and you look for the things that go
+wrong, so thank you for the question.
+I would say that cybersecurity is very important to
+consider holistically. We need to consider the attack surfaces
+in the real world as well as the virtual world. As far as who
+bears the responsibility, this is such a complicated question,
+and I have talked about it with a lot of lawyers, and it is
+hard to find a consensus. I would go back to your earlier
+question about how easy is it to write code against all of
+these different regulations.
+One of the problems with making banking technology is that,
+as a programmer, you want to write once and run anywhere, but
+if we have 50 different States with different rules
+individually, and the computer is considered to be in
+cyberspace, well, I could just shrug and say, oh, well, it is
+in cyberspace, it doesn't matter. Or I could say, I need the
+rules to adhere to the rules of the real world. These are
+individual decisions, and I think that is one of the cultural
+differences between computer scientists and regulators.
+Mr. Casten. Thank you. I yield back.
+Chairman Foster. Thank you.
+And Members are advised that votes have been called. The
+time is currently at 6 minutes and 25 seconds.
+The gentleman from Missouri, Mr. Cleaver, who is also the
+Chair of our Subcommittee on National Security, International
+Development and Monetary Policy, is recognized for 5 minutes.
+Mr. Cleaver. Thank you, Mr. Chairman. I am going to try to
+roll three questions into one because of the votes.
+My favorite time of the year is October because of
+Halloween and all of the movies, the horror movies that come
+on. I know probably all of you are watching them at night with
+me. And I am on the Committee on Homeland Security as well, and
+I chair the Subcommittee on National Security. So I don't know
+if I am being troglodytic in my thinking, but a lot of this
+scares me more than Dracula does, and Dracula is real. I just
+want to make sure you know that.
+But, we have this plan, this financial plan to create a
+financial ecosystem by Facebook. They are calling it
+stablecoin. I call it scary. At Homeland Security, we are
+always looking at what you said, Ms. Broussard, what can go
+wrong? What can happen? I am thinking power lines, water
+treatment facilities, and then on top of that, human error.
+We have a situation that is quite threatening, and we know
+for a fact that the Chinese, the Iranians, and the Russians are
+all daily, daily messing with us, and you probably know about
+some of them, and a lot of them you don't know about. Tell me
+it is going to be okay or tell me it is not.
+Mr. Brandt. I think all of these discussions and some of
+the lack of clarity around liability, if we just focused on
+what is the precious asset here, it is the data. And if we look
+at the poll of what the banks are worried about, it is the data
+privacy, the data security. And regardless of what happens, if
+there is a breach, if there is a vulnerability in the hardware
+or the physical location, if the data itself is protected, then
+we are good. There are other bad things that can happen, of
+course, interruption of service, but at least people's data and
+their privacy are secured in that.
+If we just focus on the life cycle of the data security
+itself, then it helps to, I think, simplify a lot of these
+questions that we are having.
+Mr. Grobman. Representative, I agree with your point that
+the threat landscape is extremely broad. But one of the things
+that we have to recognize is we can't put a priority on the
+most important thing to worry about is energy or water or our
+financial system, because if any one of those systems had a
+major cyber breach, it would be catastrophic, which is why we
+need to really have a comprehensive cyber defense approach
+across all of our critical systems.
+Mr. Cleaver. But we are not even close to that, are we?
+Mr. Grobman. No, we are not.
+Mr. Cleaver. I yield back, Mr. Chairman.
+Chairman Foster. Thank you.
+I would like to thank our witnesses for their testimony
+today.
+The Chair notes that some Members may have additional
+questions for this panel, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+Thank you, and this task force hearing is adjourned.
+[Whereupon, at 10:35 a.m., the hearing was adjourned.]
+A P P E N D I X
+October 18, 2019
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

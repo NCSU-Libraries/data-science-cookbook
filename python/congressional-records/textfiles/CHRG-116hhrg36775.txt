@@ -1,0 +1,1361 @@
+- BROADBAND MAPPING: SMALL CARRIER PERSPECTIVES ON A PATH FORWARD
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+BROADBAND MAPPING: SMALL CARRIER PERSPECTIVES ON A PATH FORWARD
+=======================================================================
+HEARING
+BEFORE THE
+SUBCOMMITTEE ON CONTRACTING AND INFRASTRUCTURE
+OF THE
+COMMITTEE ON SMALL BUSINESS
+UNITED STATES
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+HEARING HELD
+JUNE 25, 2019
+__________
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Small Business Committee Document Number 116-030
+Available via the GPO Website: www.govinfo.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+36-775
+WASHINGTON : 2019
+--------------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail, [email protected]
+HOUSE COMMITTEE ON SMALL BUSINESS
+NYDIA VELAZQUEZ, New York, Chairwoman
+ABBY FINKENAUER, Iowa
+JARED GOLDEN, Maine
+ANDY KIM, New Jersey
+JASON CROW, Colorado
+SHARICE DAVIDS, Kansas
+JUDY CHU, California
+MARC VEASEY, Texas
+DWIGHT EVANS, Pennsylvania
+BRAD SCHNEIDER, Illinois
+ADRIANO ESPAILLAT, New York
+ANTONIO DELGADO, New York
+CHRISSY HOULAHAN, Pennsylvania
+ANGIE CRAIG, Minnesota
+STEVE CHABOT, Ohio, Ranking Member
+AUMUA AMATA COLEMAN RADEWAGEN, American Samoa, Vice Ranking Member
+TRENT KELLY, Mississippi
+TROY BALDERSON, Ohio
+KEVIN HERN, Oklahoma
+JIM HAGEDORN, Minnesota
+PETE STAUBER, Minnesota
+TIM BURCHETT, Tennessee
+ROSS SPANO, Florida
+JOHN JOYCE, Pennsylvania
+Adam Minehardt, Majority Staff Director
+Melissa Jung, Majority Deputy Staff Director and Chief Counsel
+Kevin Fitzpatrick, Staff Director
+C O N T E N T S
+OPENING STATEMENTS
+Page
+Hon. Jared Golden................................................
+1
+Hon. Pete Stauber................................................
+2
+WITNESSES
+Mr. Dan Stelpflug, Director, Operations, Engineering &
+Technology, Allamakee Clayton Electric Cooperative, Postville,
+IA, testifying on behalf of the National Rural Electric
+Cooperative Association........................................
+5
+Mr. Tim Donovan, Senior Vice President, Legislative Affairs,
+Competitive Carriers Association, Washington, DC...............
+7
+Ms. Beth Osler, Director, Customer and Industry Relations,
+UniTel, Inc., Unity, ME, testifying on behalf of the NTCA--The
+Rural Broadband Association....................................
+9
+Mr. Jason Hendricks, Chief Regulatory Officer, Range Companies,
+Forsyth, MT, testifying on behalf of the WTA--Advocates for
+Rural Broadband................................................
+10
+APPENDIX
+Prepared Statements:
+Mr. Dan Stelpflug, Director, Operations, Engineering &
+Technology, Allamakee Clayton Electric Cooperative,
+Postville, IA, testifying on behalf of the National Rural
+Electric Cooperative Association...........................
+24
+Mr. Tim Donovan, Senior Vice President, Legislative Affairs,
+Competitive Carriers Association, Washington, DC...........
+39
+Ms. Beth Osler, Director, Customer and Industry Relations,
+UniTel, Inc., Unity, ME, testifying on behalf of the NTCA--
+The Rural Broadband Association............................
+51
+Mr. Jason Hendricks, Chief Regulatory Officer, Range
+Companies, Forsyth, MT, testifying on behalf of the WTA--
+Advocates for Rural Broadband..............................
+58
+Questions for the Record:
+None.
+Answers for the Record:
+None.
+Additional Material for the Record:
+USTelecom....................................................
+64
+BROADBAND MAPPING: SMALL CARRIER PERSPECTIVES ON A PATH FORWARD
+----------
+TUESDAY, JUNE 25, 2019
+House of Representatives,
+Committee on Small Business,
+Subcommittee on Contracting and Infrastructure,
+Washington, DC.
+The Subcommittee met, pursuant to call, at 10:00 a.m., in
+Room 2360, Rayburn House Office Building. Hon. Jared Golden
+[chairman of the Subcommittee] presiding.
+Present: Representatives Golden, Finkenauer, Veasey,
+Balderson, Hagedorn, and Stauber.
+Chairman GOLDEN. Good morning. The Committee will come to
+order. Thank you all for joining us this morning and a special
+thanks to the witnesses for being here today.
+Reliable and affordable high-speed broadband connections
+are a vital aspect of doing business in this day and age.
+Sadly, at least 25 million Americans still lack access to high-
+speed internet, many of which live in remote parts of our
+country. We all realize it is more difficult and expensive to
+build out broadband networks in these areas, but that is no
+excuse to leave them behind.
+To do so results in a divide between our urban and rural
+economies that reduces economic opportunity for millions of
+Americans and small businesses. In fact, more than 26 percent
+of Americans in rural America lack access to high-speed
+broadband compared to 1.7 percent in urban areas. And people
+that live in these towns across the country notice: 58 percent
+of rural Americans believe that lack of access to high-speed
+internet is a problem in their hometowns.
+In my home district, at least 37,000 people don't have
+access to a wired, high-speed internet connection and 9,000
+don't have a wired connection at all. As we will discover
+through this hearing, the problem is likely much worse as these
+numbers come from counts that overestimate both coverage and
+speeds available in rural communities.
+To achieve parity across the country Congress must work to
+coordinate Federal resources and make commonsense investments
+in targeted infrastructure projects. To do this the Federal
+Government must have accurate data to ensure that funds and
+resources are efficiently allocated to expand coverage to
+unserved areas.
+Effectively mapping our current broadband is a necessary
+and obvious step. However, the current state of broadband
+mapping is unacceptable at best, I would say. There is strong
+evidence that the percentage of Americans without broadband
+access is much higher than the FCC's numbers indicate. Even the
+FCC Chairman is on record recognizing the lack of accurate and
+granular data.
+The Chairman has stated he will introduce an order in
+August to address broadband mapping. In doing so, it is
+imperative that the FCC develop rules that require large
+carriers to submit reports with more granular data. For
+example, instead of using census blocks, carriers can submit
+coverage reports based on much smaller geographic or submit
+shapefiles instead of Form 477 data.
+But great granularity is not a silver bullet. Robust and
+in-depth authentication of broadband coverage data needs to be
+conducted to assess whether communities are truly connected. In
+Maine, along with Minnesota, we are using publicly available
+data to develop more accurate maps on behalf of the Federal
+Government.
+Members of this committee have heard from constituents
+across the country about slow download speeds and spotty
+connections. My home state of Maine has the second slowest
+broadband speeds in the country. Without access to reliable
+internet, small firms in rural areas miss opportunities to
+connect with new customers and can't take advantage of cost-
+saving tools, like digital payment processing and online
+distribution services.
+Finally, children in rural areas also need access to high-
+speed broadband to utilize cutting-edge educational tools so we
+can usher in the next generation of tech-savvy entrepreneurs.
+This is something the Ranking Member, Congressman Stauber, and
+I talked about in a field hearing in Minnesota. And this has
+actually in his area and I am sure in mine, too, become a bit
+of a real estate issue. It is something that is critically
+important. People want to buy homes and live in areas with
+access to broadband internet.
+We can no longer accept that rural means digitally
+disconnected. Private investment is not enough and inaccurate
+maps are a major barrier to the efficient expansion of
+broadband networks across the country.
+I hope that today's discussion will shed light on ways to
+improve data and accountability in broadband mapping. I look
+forward to working with my colleagues in Congress toward
+developing accurate broadband maps and bridging the digital
+divide.
+I thank each of the witnesses for joining us today and I
+look forward to your testimony.
+I would now like to yield to the Ranking Member, Mr.
+Stauber, for his opening statement.
+Mr. STAUBER. Thank you, Mr. Chair. Good morning and thank
+all of you for being with us today. I appreciate your time and
+your interest in our hearing.
+As we all have witnessed in the last decade or so, modern
+communications technology has provided infinite opportunities
+for small businesses and particularly new and exciting ones to
+small firms located in rural America. The growth of the
+telecommunications industry and the advances in the way we
+communicate with each other in recent history has been nothing
+short of amazing.
+Because of this rapid advancement we have seen a revolution
+of sorts for small businesses, as well. Small firms communicate
+with potential buyers around the world. Family farmers use
+wireless technologies to monitor and maximize their crop
+production. Entrepreneurs can launch a website from just about
+anywhere and, with the use of the now commonplace smartphone,
+can accept payments from anywhere there is a wireless signal.
+Most importantly, these new technologies provide the gateway
+and opportunity for economic growth and job creation,
+especially in rural America.
+Today, more than 24 million Americans lack access to high-
+speed internet, the vast majority of whom live in rural
+communities. In my home state of Minnesota specifically, over
+400,000 people do not have access and those that are lucky
+enough to have access may only have one provider to choose
+from.
+Just last month, Chairman Golden visited my district and
+held a field hearing with me, with my fellow committee members,
+and Minnesotans Jim Hagedorn and Angie Craig on the digital
+divide and how we can work to ensure better broadband access to
+rural areas. At that hearing we discussed that in a world where
+choice seems abundant, many Minnesotans are left optionless.
+When comparing urban and rural broadband deployment, 97.9
+percent of urban American has access to both and mobile
+broadband while only 68.6 percent of rural citizens have that
+same access. We cannot continue to leave our constituents
+behind just because they choose to live in rural communities.
+Since 2011, the National Broadband Map has been a tool for
+consumers, businesses, policymakers, and researchers by
+providing a searchable way to find out who is offering
+broadband, what types of broadband they are offering, and where
+they are offering it from.
+But the mapping platform has become dated as has the
+coverage data. The current map has been widely criticized for
+overestimating how many people have access to high-speed
+internet. Because the FCC uses the map to determine where to
+devote billions of dollars in broadband investment, the issue
+has drawn intense scrutiny from people who say they are being
+overlooked.
+At an oversight hearing earlier this month in the Senate,
+FCC Chairman Ajit Pai announced that in August he will
+circulate an order to update the method in which the FCC
+constructs the map to make it more accurate and be a better
+indicator of where we should invest.
+Today our panel of telecom providers will help us
+understand what goes into creating the map and how we can make
+it more accurate to ensure we invest Federal dollars in the
+right place. Thank you all again.
+And, Mr. Chair, I yield back.
+Chairman GOLDEN. Thank you. The gentleman yields back. And
+if Committee members have opening statements, we would ask that
+they be submitted for the record.
+I would like to take just a quick minute to explain the
+timing rules. Each witness will get 5 minutes to testify and
+members will get 5 minutes for questioning. There is a lighting
+system to assist you. The green light comes on when you begin,
+the yellow light means there is 1 minute remaining, don't panic
+when that happens, and the red light comes on when you are out
+of time. And we ask that you stay within that timeframe to the
+best of your ability. We won't shut you down immediately if you
+have a quick point that you need to wrap up, please feel free
+to do so.
+And I would now like to introduce our witnesses for today's
+panel. Our first witness is Mr. Tim Donovan, the senior vice
+president of legislative affairs at the Competitive Carriers
+Association, the leading association representing competitive
+wireless telecommunications providers. Prior to joining CCA he
+served as the manager of government affairs for the Direct
+Marketing Association, where his primary responsibility was
+supporting the advocacy goals of the direct marketing
+community. Mr. Donovan holds a bachelor's degree from
+Providence College where he studied English and political
+science. Welcome, Mr. Donovan.
+Our second witness hails from Postville, Iowa, and will be
+introduced by the gentlelady Ms. Finkenauer from Iowa, who is
+the Chairwoman on the Subcommittee on Rural Development,
+Agriculture, Trade, and Entrepreneurship. I would now like to
+yield to Ms. Finkenauer to introduce our second witness.
+Ms. FINKENAUER. Well, thank you, Mr. Chair. And thank you
+for inviting me to be a part of your Subcommittee today. This
+is actually not one of the ones I sit on and so it means a lot
+to me to get to be here and introduce one of my constituents
+from Iowa's First Congressional District.
+I am very proud to introduce Dan Stelpflug, who is on the
+front lines working to provide high-speed broadband service to
+families and small businesses in Iowa. Mr. Stelpflug is the
+director of operations, engineering, and technology at
+Allamakee Clayton Electric Cooperative. Mr. Stelpflug manages
+the AC Skyways Broadband Division, responsible for deployment
+of new technologies and the overall strategic vision of the
+department.
+Unfortunately, many rural communities lack high-speed
+broadband because of the cost to carriers to provide in these
+areas. In turn, this hits small businesses that need high-speed
+broadband to identify new customers, sell their products, and
+create jobs in our communities, which are very important,
+especially in our rural areas.
+Federal grant and loan programs are designed to deploy
+broadband to underserved areas. To target the assistance to
+where it is needed, though, we do need accurate maps that are
+drawn from granular data and vetted by robust processes. I look
+forward to hearing Mr. Stelpflug's perspective on this issue,
+which is so important, as I said, to our small businesses back
+home in Northeast Iowa.
+Mr. Stelpflug, thank you for coming all this way to
+Washington and making sure that your voice is heard.
+And I just want to also take the moment to say thank you to
+all of our witnesses here today. Having you guys on the record
+telling Washington why this matters, it means so much and helps
+us do our job in a better way. Thank you, guys.
+And with that, I yield back.
+Chairman GOLDEN. Thank you very much. And our third witness
+is Ms. Beth Osler, who hails from Unity, Maine, in my home
+district. It is Waldo County. Ms. Osler is the director of
+customer and industry relations at UniTel, which serves
+approximately 5,000 homes in rural Maine. She was born and
+raised in Bangor, Maine, and later attended Bates College. We
+are both alums of Bates College.
+She was first employed as a cordboard operator for New
+England Telephone Company. Over the next 50 years she has held
+positions of increasing responsibility in operator services,
+customer service, regulatory affairs, and legislative affairs
+for both large and small telecommunications companies in Maine
+and in New Hampshire. Welcome, Ms. Osler. It is a pleasure to
+have you here.
+And I now would like to yield to our Ranking Member, Mr.
+Stauber, to introduce our final witness.
+Mr. STAUBER. Thank you very much, Mr. Chair. And our final
+witness today is Jason Hendricks, the chief regulatory officer
+for the Range Companies. He serves on the board of directors
+for WTA, Advocates for Rural Broadband, for which he is
+testifying on behalf of today, and the Colorado
+Telecommunications Association. He is also the past president
+of the Wyoming Telecommunications Association. And Jason has
+been in the telecommunications industry for 23 years. He began
+his career at the Illinois Commerce Commission, then consulted
+for JVNW Consulting before joining the Range Companies.
+Jason has a master of arts degree in political studies from
+the University of Illinois Springfield, a master of science
+degree in economics from the University of Wyoming, and a
+bachelor of science degree in economics from Penn State. Thank
+you for being with us today.
+Mr. Chair, I yield back.
+Chairman GOLDEN. Thank you very much. We are now going to
+go ahead and move to opening testimony from our panel. We are
+going to go out of order very quickly because Congresswoman
+Finkenauer has to get over to a Transportation Committee
+hearing, but wants to hear the opening remarks for Mr.
+Stelpflug. So, sir, we will now recognize you for 5 minutes.
+STATEMENTS OF DAN STELPFLUG, DIRECTOR, OPERATIONS, ENGINEERING
+& TECHNOLOGY, ALLAMAKEE CLAYTON ELECTRIC COOPERATIVE; TIM
+DONOVAN, SENIOR VICE PRESIDENT, LEGISLATIVE AFFAIRS,
+COMPETITIVE CARRIERS ASSOCIATION; BETH OSLER, DIRECTOR,
+CUSTOMER AND INDUSTRY RELATIONS, UNITEL, INC.; JASON HENDRICKS,
+CHIEF REGULATORY OFFICER,RANGE COMPANIES
+STATEMENT OF DAN STELPFLUG
+Mr. STELPFLUG. Thank you, Mr. Chairman, Ranking Member
+Stauber, and members of the Committee for opportunity to be
+here to share our small business perspective on the importance
+of more granular and accurate broadband mapping.
+My name is Dan Stelpflug and I am the director of
+operations, engineering, and technology at Allamakee Clayton
+Electric Cooperative in Postville, Iowa. We provide electricity
+to less than 10,000 rural consumers across 8 Northeast Iowa
+counties near the Wisconsin and Minnesota border. The ACEC is
+part of a broader electric cooperative industry represented by
+the National Rural Electric Cooperative Association that serves
+1 in 8 Americans and covers 56 percent of the U.S. landmass. In
+part because cooperatives are led by and belong to the
+communities they serve, there is an increasing number of
+electric cooperatives studying whether they should be part of
+the solution to close the digital divide. More than 100
+electric cooperatives, including my own, already are working
+toward meaningful and diverse solutions to bridge the digital
+divide and jumpstart local economies.
+In addition to my operations and engineering
+responsibilities at ACEC, I oversee AC Skyways, the broadband
+division of our cooperative. We have been delivering broadband
+to Northeast Iowa residents since 2014 using a combination of
+fiber optic lines and fixed wireless technologies, a ``fiber to
+the section, wireless to the home'' business model. The primary
+impetus for ACEC's investment in its broadband network was and
+continues to be to serve members who lack affordable options to
+access internet with at least 25 megabit per second download
+speeds.
+My cooperative's experience with shortcomings and
+inaccuracies of existing federally available broadband mapping
+data is from the perspective of a broadband provider seeking
+opportunities for Federal funding and as a provider working to
+meeting Federal Communications Commission's requirements as an
+FCC Rural Broadband Experiment grant recipient.
+Our first experience with inaccurate data occurred while
+working to comply with Federal grant guidelines. In 2014, we
+received a grant from the FCC's RBE Program. The grant was
+awarded for us to reach 665 potential customers in 209 census
+blocks with broadband. The potential customer total was
+identified by FCC data that was assumed to be correct. While
+preparing progress reports required by the FCC, we discovered a
+discrepancy in the number of potential customers. Instead of
+665 locations as indicated by FCC data, we counted 510 or 23
+percent less than anticipated. My written testimony outlines
+the process we undertook and includes graphics demonstrating
+differences between FCC-provided data and what we discovered to
+be true on the ground in our service area.
+In addition, it is important to address concerns with the
+FCC's Form 477. We believe the FCC's existing Form 477 data
+overstates the availability of broadband, particularly in rural
+America. The concept that a census block should be deemed
+served in terms of fixed broadband service if one location in a
+census block is served is just no longer viable.
+Another frustrating aspect of the Form 477 data is the
+reporting requirement allowing carriers to report advertised
+maximum speeds in a census block even if they can only provide
+that high speed to one customer.
+While the devil is always in the details, there are steps
+the FCC can take to vastly improve broadband data availability.
+First, more granular data is needed to eliminate the false
+positives in classifying census blocks as served or unserved.
+Second, the FCC needs a system of checks and balances to help
+ensure providers are reporting actual speeds that are reliably
+available to consumers. Lastly, Federal agencies must undertake
+increased data verification efforts, including the
+implementation of a challenge process.
+We appreciate members of Congress working to solve these
+issues through legislation such as the Broadband Data
+Improvement Act of 2019 by Representatives O'Halleran,
+McMorris-Rodgers, Butterfield, Kuster, and McKinley.
+Electric cooperatives know how challenging it is to build
+infrastructure throughout rural America to provide a service
+that is integral in the prosperity and future of our
+communities. More accurate mapping showing broadband
+availability are a key part of reaching all rural Americans
+with high-speed broadband service. This will enable us to
+clarify existing gaps and coverage, and harmonize the diverse
+solutions that will be required to help rural Americans keep
+pace with their urban counterparts. We look forward to a
+continuing partnership with Congress to work toward that goal.
+Thank you again for the opportunity to testify here today.
+I am happy to answer any of your questions.
+Chairman GOLDEN. Thank you, sir. We will now go back in
+order and recognize Mr. Donovan for 5 minutes. Thank you.
+STATEMENT OF TIM DONOVAN
+Mr. DONOVAN. Chairman Golden, Ranking Member Stauber, and
+members of the Subcommittee, thank you for the opportunity to
+testify about the need to produce more reliable coverage maps.
+Mr. Chairman, you are correct when you recently noted that
+this is a gravely important issue that creates barriers that
+prevent rural small businesses from reaching their full
+potential. These maps have been called many things. Useful is
+not one of them. We must have reliable broadband coverage maps
+to meet the challenge of closing the digital divide.
+CCA is the Nation's leading association for competitive
+wireless providers, representing nearly 100 carrier members as
+well as vendor and suppliers. Through the recent FCC Mobility
+Fund II challenge process, CCA members have firsthand
+experience and motivation to fix the mapping process and
+continue deploying mobile broadband services.
+It is an exciting time in our industry as mobile
+connections power new technologies and improve the quality of
+life across the United States. 5G will supercharge these
+services and enable new services, some not yet even imagined.
+Current and future technologies depend on robust wireless
+networks, and without the right policies, rural America will be
+left behind.
+Today's hearing is not only important, it is also timely.
+Chairman Pai recently announced that this August the FCC will
+vote on a report and order on updating broadband maps. I hope
+today's hearing can help inform that process. We cannot close
+the digital divide if we do not know the country's existing
+coverage gaps.
+I am pleased to join the Committee to continue the
+discussion on how to produce reliable maps and to support the
+policies small businesses rely on. You know that the
+representation of coverage in the current maps in your
+districts is overstated and, in some cases, substantially so.
+The FCC and agencies across the government must work in
+coordination with industry to produce the most reliable
+coverage maps possible. The stakes are too high for anything
+less than our best efforts.
+I would like to take a minute to talk about how we got
+here, as well as offer solutions for a path forward.
+Historically, the FCC's Form 477 has served as its tool to
+determine the availability of services and to guide
+policymaking. However, current policies are not adequate to
+allocate USF support. As recently as December, the FCC used
+Form 477 data to report that ``approximately 100 percent of the
+American population lives in geographical areas covered by
+mobile LTE.'' This is wrong. If this were accurate, we would
+not be having this hearing today.
+Mobility Fund Phase II will provide $4.53 billion over the
+next 10 years to preserve and expand 4G services. The FCC
+decided to undertake a new, one-time data collection to
+determine areas initially eligible for this support,
+acknowledging that using the data to determine eligible areas
+would prolong any challenge process.
+To the FCC's credit, this data collection included specific
+parameters. While taking steps to standardize the data should
+be commended, we now know that the parameters selected did not
+sufficiently improve the accuracy or credibility of the
+resulting coverage maps, which continue to dramatically
+overstate coverage, especially in rural areas. This is a
+significant problem as the challenge process proved to be
+overly burdensome, yet insufficient to correct flaws.
+The problem is particularly acute for small entities that
+must marshal resources or reassign staff to conduct challenges
+rather than focus on deployment. The takeaways for this process
+for challenges were twofold: one, the process was so
+complicated and expensive that challengers large and small were
+never able to challenge all the areas they wanted to; and two,
+absent a successful challenge, too many unserved areas will
+remain ineligible for support.
+Mr. Chairman, in Maine specifically, one CCA member
+collected millions of data points, but could not successfully
+challenge 55 percent of the area they would have challenged
+because of a lack of roads and resources. Your state was not
+alone.
+Despite these problems, entities last year provided the FCC
+with over 20 million speed tests to challenge claimed coverage.
+After a preliminary review, the FCC launched an investigation
+into the data while suspending the next step of the challenge
+process.
+The investigation's findings can help improve future data
+collections, but we already know that more robust
+standardization is necessary. Any model will have shortcomings,
+but to produce maps that are more reliable, the FCC must ask
+carriers to provide a detailed Radio Frequency Link Budget
+submission that includes the most relevant data, including
+signal strength standardization, increased cell edge
+probability, increased cell loading to more accurately reflect
+how mobile networks are used in rural areas, and additional
+clutter factors. Further standardizing these bottom line
+factors will produce substantially more reliable maps and
+reduce the need to expend additional resources to correct data
+collection flaws.
+In conclusion, connectivity for millions of Americans
+living in rural areas and the small businesses that rely on
+those connections depend on policy decisions that are based on
+reliable, real-world data.
+Thank you for your ongoing leadership on this critical
+issue and for holding today's important hearing. I welcome any
+questions you may have.
+Chairman GOLDEN. Thank you, Mr. Donovan. Ms. Osler, it is
+your turn for 5 minutes.
+STATEMENT OF BETH OSLER
+Ms. OSLER. Thank you, Chairman Golden, Ranking Member
+Stauber, members of the Committee. My name is Beth Osler and I
+work for UniTel, Incorporated, a very small telecommunications
+company in Unity, Maine, somewhere between Freedom and Hope.
+I am here today representing not only UniTel, but also
+NTCA, the rural broadband alliance of which we are a member,
+and they have over 850 members who are small companies
+throughout the United States. So I am very proud to be able to
+represent them today.
+One of the good things we can say today is that there is no
+argument about whether there is a problem or not. And we all
+know that the problem exists, that it is particularly difficult
+in rural areas, and even from other remarks this morning we all
+know why it is happening. You cannot make a business case to
+invest in an area where there aren't enough potential customers
+for you ever to make a return on your investment. And so what
+we do is we fall back on the ability, hopefully, of finding
+private and public partnerships where we can all work together
+to come up with a business case that actually works. And that
+has happened several times in Maine and we want it to happen a
+lot more.
+Funds are limited, so you have potentially funds at the
+local level, although I would say that is where they are most
+limited; at the state level, and we have been working hard to
+try to make those funds available through our agency Connect
+Maine; and, as you know, at the Federal level. And we all know,
+too, I believe, that even then, the amounts of money that could
+be used for this purpose do not completely make up the need.
+So what happens with maps? Everybody I think tries to do
+their very best to provide accurate data, but because the data
+is at such a high level at the census block level, the ability
+to actually determine where there are unserved and underserved
+areas is often impossible. And what we do is we end up with
+false positives and false negatives where the FCC says there is
+service and we know there isn't service; where the FCC says
+there isn't service when we know there is service. And as you
+can imagine, that makes the distribution of funds pretty
+difficult.
+So we need to make sure that these limited funds are used
+in the most efficient and effective way. So we have kind of
+three things we would like to share and I don't think they will
+probably be much different from any of the other witnesses.
+One, we definitely need more granularity at the map level.
+We are perfectly interested and want to help to make that
+possible from our perspective.
+There have to be reporting standards. If people don't know
+exactly how they are supposed to report or it is unclear and
+they misunderstand what they are supposed to do, that is going
+to add to your errors.
+And obviously, there needs to be a challenge of validation
+process, which is not working now. So, for example, we had six
+census blocks where the FCC said there was broadband service.
+We said, no, there is not. But we were ineligible for any
+support because they claimed that they were and we couldn't
+challenge that.
+So those three areas of consideration about mapping are
+probably where you will get the biggest bang for your buck, so
+to speak. So we look forward to working with you and anyone
+else that we can work with to make sure that happens. We want
+our customers to have good service.
+Thank you for letting me testify today.
+Chairman GOLDEN. Of course, ma'am. Thank you so much. And
+finally, Mr. Hendricks, you are recognized for 5 minutes.
+STATEMENT OF JASON HENDRICKS
+Mr. HENDRICKS. Good morning, Chairman Golden, Ranking
+Member Stauber, and members of the Committee. My name is Jason
+Hendricks. I am providing testimony today on behalf of the
+Range Companies and WTA. It is a pleasure and an honor to
+testify before you this morning.
+The Range Companies are comprised of the parent company,
+Range Telephone Cooperative, and its subsidiaries, RT
+Communications, Dubois Telephone Exchange, and Advanced
+Communications Technology. The four companies provide broadband
+service in rural areas of Montana, Wyoming, Colorado, and South
+Dakota. Our combined serving area is approximately 30,000
+square miles with a customer density of .54 customers per
+square mile.
+Despite the low density and high cost challenges of our
+serving areas, we provide very high-speed internet service,
+including fiber-to-the-premise service, in many of our
+communities. But like most rural providers we have some areas
+that are cost-prohibitive to serve with speeds comparable to
+those found in more densely populated areas. It is these areas
+for which the accuracy of the broadband mapping is most
+important and for which the current FCC mapping mechanism is
+the least accurate. My testimony focuses on goals to improve
+broadband mapping without being overly burdensome to small
+providers with limited resources.
+The current broadband map is derived from data reported by
+broadband providers twice a year on Form 477. Problems with the
+current broadband map include the use of advertised speeds
+rather than actual speeds; lack of granularity through the
+reliance on census block, which can be very large in rural
+areas; overstatement of availability when entire census blocks
+can be shown as served if only a subset of it is actually
+served; understatement of availability due to a delay from when
+information is provided to when it is shown on the map; the use
+of inaccurate customer location data; and regulatory burdens
+associated with data collection.
+Between our four companies we are required to provide
+broadband data on over 7,000 census blocks. Yet census blocks
+can be upwards of hundreds of square miles in size and are
+often ill-fitted to population clusters. For example, we are
+required to provide data on a census block that is 366 square
+miles with 19 locations.
+I will provide you with an example of the problems that can
+occur when census blocks are used to determine broadband
+availability. RT Communications serves the town of Hulett,
+Wyoming, which is near the Nation's first national monument,
+Devils Tower. RT provides 100 megabit service in town, but
+there are locations outside of town that we haven't been able
+to serve with speeds of 25 megabits per second or more due to
+the high construction costs. We have looked at pursuing grants
+to defray some of the construction cost to serve those
+locations. However, the large census block is considered served
+because it includes a small portion of a well-served town. Were
+a better mapping system used, the outlying locations could be
+properly identified as unserved so that the funding could be
+targeted to the locations in need. Similar examples can be
+found throughout our serving areas.
+The Range Companies are supportive of efforts to achieve
+more granularity in broadband mapping to ensure that broadband
+funding goes to areas most in need. We offer four goals for a
+new broadband mapping system.
+First, we request that the reporting requirements not be
+overly burdensome for small providers. Second, we request that
+the mapping methodology be used for all state and Federal
+funding decisions so that providers are not subjected to
+reporting requirements that differ across jurisdictions. Third,
+the process used to verify the accuracy of the data should be
+meaningful and minimally burdensome to small providers. Fourth,
+a streamlined challenge process should be used to ensure
+broadband availability is not overstated and that support goes
+to areas of need.
+Two mapping proposals that are gaining traction involve the
+use of shapefiles and location fabrics. We believe these
+proposals need not be mutually exclusive and both can be
+adopted over time.
+In the near term, we are supportive of the shapefile
+proposal. It can be easily accommodated with our existing
+mapping capabilities. It can also be more representative of
+network architecture, community boundaries, and the locations
+of outlying customers and rights-of-ways. And it can be
+overlaid on multiple types of premise location platforms.
+We are cautiously optimistic about the location fabric
+proposal. We are fully aware of the errors contained in the
+current location databases and we are hopeful that a more
+accurate database can be developed.
+We are looking forward to results of the pilot project on
+the proposal. We do believe, however, that the shapefile
+reporting process can be created and used prior to the
+development of a customer location fabric.
+With respect to the FCC's order that is due in August, I
+will be working with WTA to provide comments to the FCC in
+advance of the order's release to be consistent with the
+positions I provided in my testimony today.
+I thank you for the opportunity to speak with you.
+Chairman GOLDEN. Thank you very much, Mr. Hendricks. Very
+quickly, before we move to questions from members, I would like
+to submit this letter from USTelecom, the broadband
+association, for the record. Without objection, so ordered.
+At this point we are going to go ahead and move to member
+questions. And I am going to start by recognizing myself for 5
+minutes.
+Mr. Hendricks, I had some good follow-up for you, but I am
+going to hold off and maybe we will come back to you later
+because I know that we have got two members up here from
+Minnesota who I am sure will want to have some back-and-forth,
+including Mr. Stauber, who should be back very quickly.
+First, Ms. Osler, I thought I would ask you it seems like
+you have spent a lot of time working or trying to work at the
+local, state, and Federal level and pulling different resources
+together. And I have seen that repeatedly across the state. So
+I wanted to ask you, you know that last year the FCC
+decommissioned the National Broadband Map and came out with the
+Fixed Broadband Deployment Map, which uses the FCC Form 477
+submissions. It has been criticized as overstating coverage, as
+you have heard and I think agreed yourself.
+Earlier this year, NTIA announced a pilot program among
+eight states to include Maine and Minnesota to collect
+broadband to update the National Broadband Map. What role do
+you think states can play in helping the Federal Government get
+more accurate data working at the local level and state level?
+And what kinds of barriers are there to doing it? Do you need
+resources or help?
+Ms. OSLER. Thank you, Mr. Golden. I think the closer to the
+ground that you get, the more accurate your data will be. And
+so I think it can only be better if the local/state folks do
+their part to help make the Federal data accurate.
+I think that it is likely that there will always be errors.
+We are human and everyone is, I hope, so there are always going
+to be errors. And that is why we should also have a consistent
+way of letting people know when the data is inaccurate and a
+way for it to be accepted and verified and made appropriate.
+We all look forward in Maine to working with whoever can
+help solve this problem because it is affecting us and will
+continue to affect us more and more as we go forward.
+Chairman GOLDEN. I appreciate that very much. I think it
+strikes both the Ranking Member and I that there are a lot of
+different programs that Congress has put forward, you know,
+whether it be through USDA or other areas, things are rather
+spread out. But you can create these great programs, but if you
+are creating barriers to accessing them in terms of these
+mapping requirements that hold people back, first you have got
+limited access to those resources and, secondly, this issue of
+being able to challenge that information with that local data
+that you are collecting seems to be a real significant problem
+and one that I hope we can work on.
+It is upsetting to hear that there is not a robust back-
+and-forth where you can go to the Federal Government to feed
+the information that you are working hard to gather on behalf
+of your people.
+Ms. OSLER. Yes, and the more inaccurate the maps are, the
+more frustrating it must have been for the FCC to try to come
+up with a way to fix it. I think they got overwhelmed probably.
+But there has got to be a better way to do it and I think that
+part of it is getting down into the data further, so that those
+kind of overriding errors don't--they spread essentially
+because if you have one error that shows someone in a census
+block when they are not there, then not only is that location
+wrong, but everything in the whole census block is wrong.
+Chairman GOLDEN. Thank you for that testimony. I appreciate
+it.
+Real quickly, I will throw this one over to you, Mr.
+Donovan, and anyone can jump in. We only have a minute, though.
+But this issue of advertisement speeds and just one person
+being able to get a speed and all of a sudden you can
+advertise. You know, you have got this wonderful coverage. It
+reminds of truth in advertising type issues. Do you think there
+is any work that needs to be done to try and make sure that
+companies are advertising accurately what you can expect?
+Mr. DONOVAN. Sure, I think it is both what you can expect
+as well as where you can expect it, especially when you are
+talking about mobile service. People expect your cellphone to
+work for you. That is why you buy a mobile device. And so
+getting into some of this fundamental data, as my colleagues on
+the panel were talking about, as a starting point is necessary
+before you can layer anything else on top of that.
+Chairman GOLDEN. Thank you. I am just about out of time,
+but I would say quickly we heard this in our field hearing in
+Minnesota, and we are doing another one up in Maine in the
+fall, but, I mean, a big manufacturing company talking about
+how the speed advertised would be sufficient for his business
+and perhaps the speeds are there when there is low usage late
+at night, but when it is time to do business and people are at
+work the speeds just aren't there as advertised so it is a
+significant problem.
+And I did want to point out before I cut myself off and
+hand it over to the Ranking Member, for those of you that are
+in the crowd, in the audience, or listening in back home, Ms.
+Osler from Maine, if you are looking for a wonderful place, you
+heard her talking about Waldo County, Maine, with such friendly
+town names as places like Freedom, Hope, Unity, and Friendship.
+It is actually Waldo and Knox County, but just an amazing,
+wonderful part of the country and the names of the towns speak
+to it.
+So with that, I am out of time. Thank you, ma'am, for
+joining us. And I will now recognize the Ranking Member.
+Mr. STAUBER. Thank you, Mr. Chair. Waldo County sounds like
+the entire state of Minnesota, thank you.
+So, Chairman Golden, I want to just publicly thank you for
+coming to our state, my state of Minnesota to have that
+hearing. That generated a lot of interest. And as you know, one
+of the questions I asked to the business owners is had he known
+when he started the business would he locate in that same spot
+with the lack of internet access? He said absolutely not, and
+that is rural Minnesota.
+And I think the four of you, I want to thank the four of
+you here because you understand that rural America matters. And
+that is a district that I am fortunate to represent and your
+testimony is congruent to that thinking. And so the expansion
+of broadband, the deployment in rural America, we bring our
+businesses. And I feel it is a choice of quality of life and
+just the opportunity to be able to have that small business
+anywhere in this country you want is so important.
+So my first question will be to Mr. Donovan. You know,
+couldn't we get better maps by leveraging government to help
+collect more and better data? For instance, there are Federal
+employees that roam all over the country, probably all of whom
+carry a mobile phone. Could an app or a program run an
+automated coverage scan while carrying out their regular
+duties? And would that help gather a deeper understanding of
+what coverage looks like in rural America?
+Mr. DONOVAN. Thank you for the question. So, yes, you know,
+Federal employees could collect this data and that would be
+particularly useful in verifying where coverage does and
+doesn't exist.
+To the question before on, you know, the speeds available,
+too, that also speaks to one factor that is measured in this
+called the loading factor, where if people are using the
+network heavily, you are not going to get the same speeds. And
+so, as we are building these maps it is important that the FCC
+sets that right loading factor to actually reflect how people
+are using these networks in rural areas.
+While it is useful for verifying based on the employee's
+usage, I still think we need to start with more granular data
+coming in from the carriers. You can then push some of the
+burden. You know, part of the problem in the challenge process
+was the burden was all put on small entities, on state and
+local governments. If you start with better data, you can
+verify it through programs like what you discussed with Federal
+employees and shift that burden away from state and local
+government or private entities to prove the negative where they
+know that there isn't service.
+Mr. STAUBER. Thank you very much. Ms. Osler, our Committee
+consistently hears from small entities that the Federal
+Government should not adopt a ``one size fits all'' data
+collection to mapping purposes. Can improving the broadband map
+be done in such a way that the smaller telecommunications have
+an easier time of it when compared to the larger ones?
+Ms. OSLER. I think it is perfectly fine if there are
+different ways of gathering the data. My company has 25
+employees. We know where every single building is in our
+property. We would love to just be able to tell people that and
+I think a lot of small companies could do that, too.
+The issue to me, though, is that over and over again when
+there is an error, it would be so easy to fix. And so the
+validation, the ability to challenge what seems like more of a
+negative word, but the opportunity to work together to make
+sure it is correct is----
+Mr. STAUBER. And I like that word, ``the opportunity''----
+Ms. OSLER. Right.
+Mr. STAUBER.--to be able to, you know, fix or bring data
+that challenges what you have been given or what you have shown
+by the bigger telecommunications company.
+So to the four witnesses, this is a map of Minnesota that
+says that a great part of Minnesota is covered. This map to me
+is not accurate. There are places that say it is covered, I
+know, I have been there, it is not covered. And so I think the
+accuracy is so important.
+And that is why you bring from your business experience,
+that rural mentality, you bring part of the equation and part
+of the answer, and I think a big part of the answer. Because we
+know that--I am not concerned so much in the metro or urban
+areas in the big places of Minneapolis or St. Paul or Rochester
+maybe or even in the center of Duluth, which is the biggest
+city in District Eight of Minnesota. The concern is you have
+the ability to help augment the map when it is wrong and bring
+some solutions to us.
+And before my time runs out, I just want to tell you how
+much I appreciate you being here and that it matters. Your
+experience, you have just as much knowledge and experience as
+some of the bigger companies and we need that. And our goal is
+to invite you into that process. As you said, Ms. Osler, the
+accuracy matters.
+And my time is running out. I have run over. Thank you, Mr.
+Chair, and I yield back.
+Chairman GOLDEN. The gentleman yields back. And we will now
+recognize Representative Abby Finkenauer, the Chairwoman of the
+Subcommittee on Rural Development, Agriculture, Trade, and
+Entrepreneurship.
+Ms. FINKENAUER. Well, hello there. Thank you again, Mr.
+Chairman, for letting me to sit in on this Subcommittee today
+and thanks again for everybody being here.
+Mr. Stelpflug, thank you again for traveling all the way
+from Iowa's First District. And, you know, I know in your
+testimony you compare the digital divide to the struggle that
+rural America faced nearly 80 years ago when the U.S. began
+deploying electricity. As a person with many years of
+experience in the electric industry, what were your experiences
+in developing networks in remote areas? And what are some of
+the lessons that we can learn from that process you want to
+make sure we hear loud and clear?
+Mr. STELPFLUG. Some of the areas, when we started building
+our broadband network, you know, I am from an REC and we built
+the electric network that covers 56 percent of the landmass of
+the United States. We used a lot of community development folks
+to help us out to get things started. We have groups of people
+that come together that say if you can get broadband to our
+area, we will serve you or we will provide the customers. So,
+you know, they are giving us some solutions to some problems
+when we question how many customers we can actually get.
+So we are taking a similar approach to the way the
+broadband is expanded out. And it is an expensive venture and
+we have to do it in a prudent manner; sometimes we just can't
+afford to do it. So we rely on a lot of these communities to
+help us out with that kind of thing.
+Ms. FINKENAUER. Yeah.
+Mr. STELPFLUG. Everyone is kind of coming together as a
+group to work toward a common goal.
+We have a small town in Allamakee County that is a county
+seat that doesn't have adequate service and, you know, it is a
+town of 3,000 people. The city contacted us, their economic
+development people, asking if we could expand service to their
+area and they volunteered to send out surveys and that type of
+thing to find out what coverage would be to see if it would be
+a viable option for us. So that is kind of an example of the
+way the communities are asking us to help them out.
+Ms. FINKENAUER. Great.
+Mr. STELPFLUG. We are taking that same approach as we did
+with the electric alliance years ago.
+Ms. FINKENAUER. Okay, thank you. And wondering, too, if you
+could make sure, again, that Washington here has, you know, a
+little bit different perspective. I always take every
+opportunity I get to remind this Committee that our farmers are
+also small businesses. And as much as, obviously, we need
+broadband and rural broadband to attract small businesses to
+our Main Streets in rural Iowa and rural areas across the
+country, our farmers also rely on this because of PrecisionAg
+and how technologies are changing.
+So I am wondering if you would be able to touch on that,
+too, given the rural nature of Allamakee and also Clayton
+County and how important that might be.
+Mr. STELPFLUG. Yes, it is very important to the
+agricultural community. Everything from the dairy farmers to
+the crop farmers that are looking at real-time markets and are
+making plans as far as their budgets are concerned, and they
+need to have good internet access to do it. We have a lot of
+areas that it is just not available. They are in some pockets
+that are really not very populated and it is hard to justify
+extending to some of these areas. But these farmers are really
+dependent on the internet and they are kind of falling behind
+just because they don't have access to these markets.
+We hear of people that go to local libraries to do work on
+some of this stuff to figure out what they are going to to. You
+know, they are in a tough spot and to stay competitive with
+everyone else in the country they need access to broadband.
+Ms. FINKENAUER. Absolutely. Thank you, Mr. Stelpflug.
+And I have just a minute left here, so this is just to the
+whole panel. Obviously, have increasingly seen how small firms
+benefit from broadband access. And it is actually hard to
+imagine how any small business would survive without the
+internet, including our farmers.
+To the panel, you know, how can we encourage more
+businesses to adopt the technology and take advantage of the
+innovations brought by faster broadband? If anybody want to
+touch on that. Ms. Osler?
+Ms. OSLER. Yes, thank you.
+Ms. FINKENAUER. Yeah.
+Ms. OSLER. I think one of the things people don't talk bout
+a lot, and I know we are talking about mapping right now, but
+is that there are a great many small businesses who don't
+understand what the use of the internet could do for them. We
+did a survey a few years ago in our territory and 40 percent of
+the small businesses, a lot of them at-home businesses, did not
+even have a website.
+Ms. FINKENAUER. Oh, my goodness. Wow.
+Ms. OSLER. So I think there is a wonderful opportunity and
+we at UniTel have actually been doing this of providing digital
+literacy training, not only what you want for service, but how
+to use it. I mean, we had people in those classes that we had
+to teach how to turn on the computer and then we had other
+people who wanted to learn how to use QuickBooks so that they
+could run their business from home. This is a wonderful
+opportunity that we are looking forward to taking advantage of.
+Ms. FINKENAUER. Well, thank you so much, Ms. Osler. And I
+know my time is about to expire, so I just want to say thank
+you again to all the folks here.
+And thank you, Mr. Chair, again for letting me sit in on
+this meeting.
+Chairman GOLDEN. Happy to have you join. Thanks for coming.
+We now recognize Representative Jim Hagedorn from Minnesota
+One.
+Mr. HAGEDORN. Mr. Chairman, thank you for holding this
+hearing. I appreciate that you and Ranking Republican Stauber
+made it up to Minnesota. That was a good hearing. And I think
+these continued hearings on the subject can be very important
+and I pledge my support to all of you.
+I think everybody in the room is on the same team. We want
+this to work. We want to help out the folks in rural America
+and make sure that the people that happen to live outside of
+big cities have the same opportunities, as Congressman Stauber
+said, as the folks in the big cities. And it is a basic
+infrastructure issue.
+I mean, let us face it, I agree with my colleague from
+Iowa, this is a lot like the REAs and delivering that last mile
+or two of electricity to the farms out there to make sure
+everybody was up to speed on that, roads and bridges, sewers,
+water, whatever it is. And now it is broadband and this is just
+a quality of life issue and it is something that we have to
+keep pushing and make sure it gets done as it is very
+critically important for our folks out there in our counties.
+So, you know, when we were at that hearing up in Minnesota,
+Congressman Stauber's constituent, a small business guy, and he
+is talking about he is right, you know, if you had to look back
+and do it all over again, he would probably wouldn't have even
+tried. And there is a lot of opportunity costs out there that
+we are missing. But there are businesses in rural communities
+right now that would like to expand and they are like, eh, you
+know, what is the cost of labor? What is the cost of this? Do I
+even have broadband service to the point where I could expand
+my operations?
+There are probably bigger sized businesses that would like
+to move into parts of Southern Minnesota and they are like, you
+know, not going to fiddle with it. We are just going to go
+where it is taken care of. So whatever we can do to move this
+along, like I said, you have my support.
+I agree with Pete, looking at this map of the First
+District of Minnesota, and it says here 98 percent is covered.
+But then you look at what real speeds are, maybe only a third,
+and you can't do business that way.
+And then when you get down and you are looking in the
+future and you have a lot of folks in rural areas, veterans,
+others, elderly people, and they want to do telemedicine, so
+maybe they don't have to travel 50 or 100 miles or they can get
+care right away. It could be also people with mental health
+care and things of that nature. Doctors need to be able to see
+the charts, you need to be passing things back and forth, you
+need to make sure that it all makes sense.
+And for our farmers, you know, a lot of livestock out there
+fed every day with mechanizations all run by the internet. That
+goes haywire, it doesn't work, that is rough on the animals,
+rough on the operations. And so we got to get it right.
+Mr. Hendricks, I liked what you said about making sure that
+whatever they do in the future that we don't have onerous
+regulations and things that the burden would be borne too much
+by small business, by the smaller telecommunications companies,
+and others that are delivering this. Do you think it is pretty
+important that when we have businesses in these areas that they
+are the ones that can do the service, that they are the ones
+that are going to be in those communities long term? Or what
+are your thoughts in general on making sure that we protect the
+small businesses that are doing this work?
+Mr. HENDRICKS. Thank you for the question, Congressman. And
+just a clarification that your question on small businesses is
+the small providers that are doing the work in the areas? Is
+that correct?
+Mr. HAGEDORN. Yeah.
+Mr. HENDRICKS. Yes, I think that is very important. I mean,
+we care about the communities we serve. We live in the
+communities. You know, it is not just a profit maximization
+thing. It is a serving the community thing.
+And for us, if we can have a methodology to provide
+broadband mapping that fits in with our current systems, which
+I think the shapefile proposal does, I think that that makes
+sense. I think that you will end up solving a lot of the issues
+that you guys have been talking about as far as knowing
+individual areas.
+You will be able to put a shapefile, for example, around a
+town, that area is well served. Maybe a community outside of
+town you put a shapefile over that, or a polygon I should say,
+and maybe that is at a lower speed. And then the more remote
+areas, they can be signified with lines and dots. And I think
+that fits in well with capabilities that we have for a small
+business.
+Mr. HAGEDORN. Might know the area and customers better.
+Might have more of an interest in making sure that it gets done
+right and that the people are serviced long into the future
+because they are probably going to be doing business there for
+a long time.
+Mr. Donovan, real quick, when they figure out these speeds
+and they say potentially 25, 3, whatever, is that just per
+person or is that per every 100 users or how do they do it?
+Mr. DONOVAN. So for wireless service it is based on a
+model. You put in these different factors and then this is the
+minimum speeds you get. And the factors that you use make a
+real-world difference.
+So as a quick data point on that, if you will allow me a
+few more moments, in the Mobility Fund data collection they
+required wireless carriers to report where 80 percent of the
+cell edge. So where the distance is where you have an 80
+percent likelihood of getting the speeds. We now know that that
+is too low. So carriers build to at least 90 percent cell edge,
+public safety is 95 percent. That 10 percent difference turns
+out into a 27 percent difference in the circumference of the
+cell service and a 60 percent difference of the area covered.
+So that 10 percent ends up being a huge area that claims that
+there is service where it actually is not up to those minimum
+speeds.
+Mr. HAGEDORN. So they should upgrade some of those
+standards?
+Mr. DONOVAN. Yes, sir.
+Mr. HAGEDORN. Thank you.
+Chairman GOLDEN. Thank you very much. We now recognize
+Representative Marc Veasey from Texas.
+Mr. VEASEY. Thank you very much, Mr. Chairman. Good
+morning. I would like to thank the witnesses for being here
+today to discuss the need for better and more comprehensive
+mapping of the current availability of broadband across the
+USA. And as someone that has heard a lot about this issue, and,
+as a matter of fact, I signed onto a letter led by my
+colleagues on another Committee that I serve on that question
+the data relied upon by the FCC to determine where and how
+extensive broadband deployment is across the U.S.
+Coming from the state of Texas, where there is more rural
+area than urban area, it is important to ensure that rural
+residents are able to participate in and benefit from our
+increasingly technology-reliant society. And I represent all
+urban Texas, but, again, in order for our state to continue to
+grow and prosper this is a hugely important issue.
+I am old enough to remember going to my cousin's
+grandparents' house, out in what we call the country, out in
+Palestine, Texas, and where they still didn't even have indoor
+plumbing back in the late 1970s and 1980s. And people don't
+realize how long it takes for rural America to oftentimes get
+connected to the rest of what is going on in the world and this
+is very important.
+Mr. Donovan, in your testimony you spoke about the FCC
+allowing a load factor of 30 percent, which failed to
+accurately reflect mobile broadband in rural areas. Given the
+increased reliance on mobile devices in many rural communities
+do you believe that tightening the FCC's parameters as
+mentioned in your testimony will have the effect of helping
+close the digital divide between rural and urban areas?
+Mr. DONOVAN. Yes, sir, and thank you for the question. So
+if you have that load factor set too low, at 30 percent, then
+people aren't actually going to be getting the speeds when the
+network is actually in use. And this isn't only a small carrier
+issue. Even Verizon in the record noted how nearby to your
+state in the panhandle of Oklahoma that load is consistently
+above the 30 percent; it is only there about a third of the
+time. And that is because people are reliant on their mobile
+devices to connect to the internet as well as the fact that
+rural sites are more likely to be served using low band
+spectrum.
+Low band spectrum is great because it travels long
+distances. You need fewer towers to build out and so in areas
+with low population density it is what you want to use. The
+tradeoff of that is lower capacity. So to make up for the way
+that those sites are engineered, you need to have a loading
+factor that is at least 50 percent, if not higher.
+Mr. VEASEY. Would these tightened parameters create an
+incentive for more funding to be invested to increase mobile
+broadband development in rural areas?
+Mr. DONOVAN. Yes, so they would help make the correct areas
+eligible for support as well as help give you a more reliable
+picture of what the need is. Until we have a reliable map, you
+know, we support all the discussions of making additional
+funding available for building out broadband and mobile
+services in rural areas. But until you know the size of those
+coverage gaps, it is really hard to determine what amount of
+support is necessary to close that.
+Mr. VEASEY. We know that reliable broadband allows for
+friends, families, and businesses to stay connected, as has
+been articulated here today. Can you talk a little about how
+affordable high-speed internet improves the lives of people
+living in rural America and making these towns a more
+attractive place to live, work, and raise a family?
+As you know, one of the things that you hear about rural
+America, at least all around Texas and I am sure around the
+country, is that they actually have a hard time keeping a lot
+of their talent there. Kids go off to college, get educated,
+and then they don't want to come back to these towns because
+there is not a lot of opportunity. Can you talk a little bit
+about how bringing broadband out to rural areas may sort of
+help them economically and then even be able to retain some of
+their local talent?
+Mr. DONOVAN. Sure. So, you know, at one of our recent trade
+show conferences. the CTO from one of our rural providers was
+asked the question what do rural Americans want out of 5G? And
+the answer is simple: It is the same thing as everyone else.
+We have heard talk today about telemedicine and, you know,
+a fifth of the population lives in rural areas, but with only
+about 10 percent of the physicians. If you want to get them the
+care they need, you need to make sure that you have broadband
+access.
+Ranking Member Stauber mentioned payments. Just last
+weekend I was in Western Maryland, an area that looks like it
+is served on the map, turns out it is not. I am standing at a
+table for a local foundation and the gentleman in front of me
+in line said do you accept cash or credit? And they said
+``accept credit if it is going to work.'' You know, that is not
+reliable enough for somebody to conduct a business. And for
+somebody who is used to having connectivity, it is not a viable
+place for them to go and then to locate and try and, you know,
+start a business or raise a family.
+Mr. VEASEY. Well, thank you. Yeah, that is fascinating.
+I yield back the balance of my time.
+Chairman GOLDEN. Thank you, sir. And we will now go ahead
+and recognize Congressman Troy Balderson. He is the Ranking
+Member of the Subcommittee on Innovation and Workforce
+Development.
+Mr. BALDERSON. Thank you, Mr. Chairman. Good morning,
+everyone, and thank you for being here this morning.
+My first question is for Ms. Osler. In your testimony you
+mentioned how the rural nature of service territories can cause
+unique difficulties in providing service. During my time in the
+Ohio State Legislature, I would hear how something as simple as
+a ravine or a forest line could prevent accurate maps from
+being constructed, greatly reducing broadband service
+capabilities.
+How can government work better with the private sector to
+ensure the most accurate map is created? That is the first
+question. A follow-up to that would be and what can the FCC do
+to engineer the most granular maps?
+Ms. OSLER. Thank you very much, sir. I think we have kind
+of touched on that and that is that we have to use a deeper
+level of data. And I think, for example, shapefiles might be
+one of the ways to do that. I know we already use shapefiles to
+get data to the state as to where we provide service.
+Just a quick story. One of the state senators in Maine
+called us and said I have a business that wants to locate here,
+but they said they can't because there is no internet service
+where they are. There was fiber running right in front of the
+building.
+So there are all kinds of problems with not having accurate
+mapping. She was able to explain to him that he could get
+whatever he wanted.
+In my community, we have fiber to the home. How did we do
+that? We got help from the state to leverage the investment, so
+they gave us several hundred thousand dollars and we invested
+1.2 million more, and we were able to run over 200 miles of
+fiber. These are the kind of things that after you do that, as
+a businessperson, if it doesn't show up on the map, it is kind
+of annoying and it is very frustrating for customers.
+So the map--everything comes back initially to the maps.
+From there, if you have accurate maps, from there you can do
+all kinds of things. Without that accuracy, you get people off
+on tangents and making decisions based on inadequate or
+erroneous information.
+Mr. BALDERSON. I promise I won't have a tangent, but the
+Ranking Member also showed and Representative Hagedorn, I mean,
+these are very, very misleading and very, very inaccurate, so,
+hopefully, we can address that issue. Thank you very much for
+your answer, though.
+My next question is for Mr. Hendricks. In your testimony
+you talk about the inability for Americans to challenge the
+speed being advertised to them and the speed that is being
+delivered. How can we enable Americans to voice their concerns
+without creating additional burdens for smaller telecom
+providers?
+Mr. HENDRICKS. Thank you for the question. With respect to
+being able to look at it, I think there are two parts. There is
+a proposal called crowdsourcing, which would allow people to do
+speed tests and then report it as their own verification. And I
+think that is an important thing to allow and to consider.
+I did caution in my written statement about overreliance on
+that because there can be some inaccuracies whenever you are
+talking about customer devices within a home on networks that
+we don't control. It can result in an understatement of what
+the speed availability is. But if there are a bunch of data
+points showing consistent things, then, yeah, I think that
+should be considered.
+As far as the second part, which would be a challenge
+process, we are fully in support of a challenge process to
+allow any entity to challenge that broadband is available in a
+certain area or not available. So, before any funding decisions
+are made, there should be an opportunity to allow people to
+challenge the accuracy of the map, particularly providers who
+may be impacted by the funding decisions.
+Mr. BALDERSON. Okay, thank you very much. Mr. Chairman, I
+apologize, I yield back my remaining time.
+Chairman GOLDEN. Thank you very much for that. Do you have
+any interest in asking any more questions?
+All right. You all set?
+All right, I am going to go ahead and go into additional
+round and we will let Mr. Stauber start.
+Mr. STAUBER. Thank you, Mr. Chair. I just want to reiterate
+what I said. You know, one of the statements here is, ``This
+new map will be borne out of the collective efforts of small
+telecos, large telecos, and the FCC.'' You folks matter. You
+need to be at the table and I want to assure you that the
+Chairman and I will make sure you are at the table to represent
+rural America. You have experience. You understand, as Ms.
+Osler said, you know where it is at and where it is not at from
+being in the community.
+And I just can't reiterate enough to you, please work with
+us, give us your suggestions, because the Chairman and I want
+to make sure that your rural experience is brought into this
+mapping process to make it better.
+Thank you, Mr. Chair.
+Chairman GOLDEN. Well, with that, I think we have covered
+pretty much all of it, looking through your testimony and the
+back-and-forth of the questions. And we could keep going, but,
+as Ms. Osler just indicated, you know, I think often we end up
+coming back to the same responses here and there is good reason
+for that, because your testimony has been excellent and we
+appreciate it very much.
+Jeez, I can't help but, you know, say that just last week I
+was having a bit of an issue with government and talking about
+how important accurate information is. In this case it was back
+home in Maine having to do with lobstermen. It is no different
+here with the FCC. We need to expect that the government is
+going to have the most accurate data and information available
+in order to make decisions. We owe that to the people of the
+country.
+It is maybe perhaps out of fashion to legislate in great
+detail, but then when we hand things off to Federal agencies to
+implement the intent and will of Congress it requires a lot of
+oversight. That is what we are doing here.
+We appreciate you coming in and we will continue to push to
+try and get the FCC to work more closely with you because you
+are like boots on the ground, the little force multipliers that
+they should be working with to get more accurate information
+and data rather than kind of butting heads with, so to speak.
+We could go on and on and on, everyone up here and all of
+you and probably a lot of other people, about all the stories
+about how broadband access just isn't cutting it in rural
+America, so I am not going to go off on a tangent. I would love
+to, but probably could pull 10 stories out of my pocket right
+now, but this is an important issue. I want to thank everyone
+for working together on it building up to this hearing, but
+also going forward because there is a lot of work to be done,
+and we look forward to working with all of you.
+I want to thank the Committee staff, as well, for all the
+work that is going into this. And it is not just the work that
+went into the Committee, but following this issue closely and
+helping make sure that we are in a good place to make some real
+progress. Not enough to pass a new grant program. We got to
+make sure that it is effective and implemented in an effective
+way, so that it is actually benefiting our small businesses,
+our families, and communities back home.
+We know how important this is. It is a major issue to
+unlocking opportunity in rural areas in the remainder of this
+century and going into the future. Accurate maps, we can't
+spend money on investing in infrastructure if we don't have
+accurate data. Like you said, Ms. Osler, the limited resources
+require that we spend it most wisely.
+So thank you all very much for being a part of this. I
+would ask that we have unanimous consent that members have 5
+legislative days to submit statements and supporting materials
+for the record. Without objection, so ordered.
+And if there is no further business to come before the
+committee, we are adjourned. Thank you.
+[Whereupon, at 11:14 a.m., the subcommittee was adjourned.]
+A P P E N D I X
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

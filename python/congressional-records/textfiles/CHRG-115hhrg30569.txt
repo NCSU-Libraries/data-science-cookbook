@@ -1,0 +1,2351 @@
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+[H.A.S.C. No. 115-95]
+CYBER OPERATIONS TODAY: PREPARING
+FOR 21ST CENTURY CHALLENGES IN
+AN INFORMATION-ENABLED SOCIETY
+__________
+COMMITTEE ON ARMED SERVICES
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+HEARING HELD
+APRIL 11, 2018
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+30-569
+WASHINGTON : 2019
+COMMITTEE ON ARMED SERVICES
+One Hundred Fifteenth Congress
+WILLIAM M. ``MAC'' THORNBERRY, Texas, Chairman
+WALTER B. JONES, North Carolina
+ADAM SMITH, Washington
+JOE WILSON, South Carolina
+ROBERT A. BRADY, Pennsylvania
+FRANK A. LoBIONDO, New Jersey
+SUSAN A. DAVIS, California
+ROB BISHOP, Utah
+JAMES R. LANGEVIN, Rhode Island
+MICHAEL R. TURNER, Ohio
+RICK LARSEN, Washington
+MIKE ROGERS, Alabama
+JIM COOPER, Tennessee
+BILL SHUSTER, Pennsylvania
+MADELEINE Z. BORDALLO, Guam
+K. MICHAEL CONAWAY, Texas
+JOE COURTNEY, Connecticut
+DOUG LAMBORN, Colorado
+NIKI TSONGAS, Massachusetts
+ROBERT J. WITTMAN, Virginia
+JOHN GARAMENDI, California
+DUNCAN HUNTER, California
+JACKIE SPEIER, California
+MIKE COFFMAN, Colorado
+MARC A. VEASEY, Texas
+VICKY HARTZLER, Missouri
+TULSI GABBARD, Hawaii
+AUSTIN SCOTT, Georgia
+BETO O'ROURKE, Texas
+MO BROOKS, Alabama
+DONALD NORCROSS, New Jersey
+PAUL COOK, California
+RUBEN GALLEGO, Arizona
+JIM BRIDENSTINE, Oklahoma
+SETH MOULTON, Massachusetts
+BRAD R. WENSTRUP, Ohio
+COLLEEN HANABUSA, Hawaii
+BRADLEY BYRNE, Alabama
+CAROL SHEA-PORTER, New Hampshire
+SAM GRAVES, Missouri
+JACKY ROSEN, Nevada
+ELISE M. STEFANIK, New York
+A. DONALD McEACHIN, Virginia
+MARTHA McSALLY, Arizona
+SALUD O. CARBAJAL, California
+STEPHEN KNIGHT, California
+ANTHONY G. BROWN, Maryland
+STEVE RUSSELL, Oklahoma
+STEPHANIE N. MURPHY, Florida
+SCOTT DesJARLAIS, Tennessee
+RO KHANNA, California
+RALPH LEE ABRAHAM, Louisiana
+TOM O'HALLERAN, Arizona
+TRENT KELLY, Mississippi
+THOMAS R. SUOZZI, New York
+MIKE GALLAGHER, Wisconsin
+JIMMY PANETTA, California
+MATT GAETZ, Florida
+DON BACON, Nebraska
+JIM BANKS, Indiana
+LIZ CHENEY, Wyoming
+JODY B. HICE, Georgia
+Jen Stewart, Staff Director
+Pete Villano, Professional Staff Member
+Lindsay Kavanaugh, Professional Staff Member
+Nevada Schadler, Clerk
+C O N T E N T S
+----------
+Page
+STATEMENTS PRESENTED BY MEMBERS OF CONGRESS
+Smith, Hon. Adam, a Representative from Washington, Ranking
+Member, Committee on Armed Services............................
+2
+Thornberry, Hon. William M. ``Mac,'' a Representative from Texas,
+Chairman, Committee on Armed Services..........................
+1
+WITNESSES
+Alexander, GEN Keith, USA (Ret.), Founder and Chief Executive
+Officer, IronNet Cybersecurity.................................
+5
+Chertoff, Hon. Michael, Co-Founder and Executive Chairman, The
+Chertoff Group.................................................
+3
+Johnson, Hon. Jeh, Partner, Paul, Weiss, Rifkind, Wharton &
+Garrison LLP...................................................
+7
+APPENDIX
+Prepared Statements:
+Alexander, GEN Keith.........................................
+57
+Chertoff, Hon. Michael.......................................
+43
+Johnson, Hon. Jeh............................................
+68
+Documents Submitted for the Record:
+[There were no Documents submitted.]
+Witness Responses to Questions Asked During the Hearing:
+[There were no Questions submitted during the hearing.]
+Questions Submitted by Members Post Hearing:
+Ms. Rosen....................................................
+81
+.
+CYBER OPERATIONS TODAY: PREPARING
+FOR 21ST CENTURY CHALLENGES IN AN
+INFORMATION-ENABLED SOCIETY
+----------
+House of Representatives,
+Committee on Armed Services,
+Washington, DC, Wednesday, April 11, 2018.
+The committee met, pursuant to call, at 10:02 a.m., in Room
+2118, Rayburn House Office Building, Hon. William M. ``Mac''
+Thornberry (chairman of the committee) presiding.
+OPENING STATEMENT OF HON. WILLIAM M. ``MAC'' THORNBERRY, A
+REPRESENTATIVE FROM TEXAS, CHAIRMAN, COMMITTEE ON ARMED
+SERVICES
+The Chairman. Committee will come to order. Looking back at
+my notes from 10 years ago, when Mr. Smith chaired what is now
+the Emerging Threats and Capabilities Subcommittee and I was a
+ranking member, I found a number of references to preparing for
+cyber as a new domain of warfare.
+This committee has held many hearings and briefings on this
+topic over the last decade, and we are continuing with more
+this week, led by Chairwoman Stefanik and Ranking Member
+Langevin.
+We have also enacted a number of legislative provisions and
+authorized a lot of funding, and there's no doubt a lot of it--
+progress has been made in building up our military and
+intelligence capabilities in cyberspace.
+But I do not think it is an exaggeration to say that our
+Nation has still not faced up to the threat. Cybersecurity
+means lots of things. Part of what it means is going on down
+the hall in another hearing, but part of it is what we are
+going to talk about today.
+Threats to national security in cyberspace come from
+adversaries stealing information. Sometimes it comes from
+adversaries working to manipulate our decisions and American
+public opinion. Part of it is the potential to disrupt our
+economy and unleash havoc with our financial system, or
+electric grid, or public health and sanitation. And I have not
+even begun to discuss the consequences for the effects of our
+military's ability to operate.
+We still have not answered the fundamental question of what
+we expect the Federal Government to do to defend our citizens,
+our businesses, our infrastructure, and our society in cyber.
+Meanwhile, the capabilities of our adversaries and their
+willingness to use them is growing far faster than our
+response.
+The Director of National Intelligence [DNI] recently
+assessed, quote, ``the potential for surprise in the cyber
+realm will increase in the next year and beyond as billions
+more digital devices are connected--with relatively little
+built-in security--and both nation states and malign actors
+become more emboldened and better equipped in the use of
+increasingly widespread cyber toolkits.''
+Fortunately, our witnesses today have a lot of experience
+and a lot of expertise in these issues, and I am grateful to
+each of them for their willingness to share their views today,
+in the hopes that, not just our committee, but the Congress and
+the country can move at the appropriate pace in confronting
+these challenges.
+Mr. Smith.
+STATEMENT OF HON. ADAM SMITH, A REPRESENTATIVE FROM WASHINGTON,
+RANKING MEMBER, COMMITTEE ON ARMED SERVICES
+Mr. Smith. Thank you, Mr. Chairman. I agree completely with
+the chairman's opening remarks and will not repeat them. We all
+know the importance of cybersecurity; I think the chairman
+outlined it very well.
+And the challenges that I am most interested in hearing
+from the three of you on, and in--we have all been people that
+have been working on this for a long time, is number one, how
+can we better coordinate the effort? Is--it's, you know, a
+thousand points of failure and then some when it comes to
+cybersecurity.
+And within DOD [Department of Defense] alone--I mean,
+forget about the contractors and all the other pieces of our
+cyber network that are vulnerable to attack. Within DOD, I
+still don't think it's clear who's in charge. I don't think
+it's clear what the strategy is, and I don't think all the key
+components at DOD have any idea of really exactly what--what
+the plan is. Or, overstatement, say ``no idea,'' but they don't
+have a clear plan.
+So how can we develop that agenda so that within DOD we
+have people who are clearly in charge, and we say, okay, what
+is going on in cyber? This is the chain of command. And this is
+what is going on with it, and how we would respond to it.
+Second, I would--do want to emphasize one point the
+chairman made, and that is, when it comes to information
+campaigns and disinformation campaigns, cyber has taken these
+to a whole new level. And I guess one of my frustrations is
+while it's taken to a whole new level, on the one hand, on the
+other hand, it's nothing new. I mean, the medium is new.
+Disinformation, information, whether it's, you know,
+through the radio, or newspapers, or whatever the medium of the
+time was, you know, we have been doing that since the beginning
+of this country. And yet we seem to be unbelievably slow to
+respond to using this new tool, this new medium, for spreading
+the story that we want to spread, whereas in contrast certainly
+Russia, but I also think China, have been incredibly aggressive
+and are unquestionably ahead of us in using this technology.
+How do we catch up?
+And the last thing--great debate about storing information
+in the cloud, using open source software versus closed source
+software, and I have had a number of very, very smart people
+from out in Seattle passionately argue to me that we can better
+deal with cyber--the more stuff we have in the cloud and the
+more we rely on open source software, that it is a better--you
+can better protect that type of software.
+So I am curious what your guys' thoughts are on the cloud
+and open source and how it fits into us developing that cyber
+strategy that we so desperately need.
+And with that, I yield back. Thank you, Mr. Chairman.
+The Chairman. We are pleased to welcome the Honorable
+Michael Chertoff, Co-Founder and Executive Chairman of The
+Chertoff Group and of course also former Secretary of Homeland
+Security.
+General Keith Alexander, Founder and Chief Executive
+Officer of IronNet Cybersecurity, former Director of the
+National Security Agency.
+And the Honorable Jeh Johnson, partner, Paul, Weiss,
+Rifkind, Wharton & Garrison, but also former Secretary of
+Homeland Security, and General Counsel to the Department of
+Defense, which may play a role here.
+Without objection, each of your written statements will be
+made part of the record, and we would be pleased to hear
+whatever oral comments you would like to make at this point.
+Secretary Chertoff.
+STATEMENT OF HON. MICHAEL CHERTOFF, CO-FOUNDER AND EXECUTIVE
+CHAIRMAN, THE CHERTOFF GROUP
+Mr. Chertoff. Thank you, Mr. Chairman, and thank you,
+Ranking Member Smith. I appreciate the opportunity to testify.
+I thought I had testified before pretty much every committee in
+Congress, but I hadn't before this one. So you have moved me
+towards a perfect record, or a royal flush.
+I think this is a very timely hearing, and maybe not quite
+as well attended as the one down the hall, but in many ways I
+think focusing on an area that requires greater attention, and
+I think that the opening remarks, I think, make that point very
+well.
+Let me just very briefly summarize a couple of points.
+First of all, there's no question in my mind the threats have
+increased in intensity and frequency. We now are dealing with
+what I would call industrial-scale data theft, whether it is
+the billions of accounts on Yahoo that were stolen, or the OPM
+[Office of Personnel Management] hack, which resulted in north
+of 20 million very sensitive files being taken.
+I mean, this is really theft on an industrial scale, and it
+applies to straight-out criminality, as well as to things that
+are relevant for intelligence purposes.
+We have seen what we call information operations, the use
+of cyber means, including hacking, to disseminate data which is
+part of an attempt to influence and disrupt our elections and
+our democracy.
+We have seen data destruction with ransomware--WannaCry,
+NotPetya--which has had a serious impact on civilian
+infrastructure in various parts of the world, including some
+major enterprises.
+And as was recently announced by DHS [Department of
+Homeland Security], we have found malware in much of our
+critical infrastructure, including our electric grid, and if
+you go back and look at the Ukraine in 2016 and 2017,
+Christmastime, the lights went out because of cyberattacks that
+were mounted against the electric infrastructure there.
+So there's no question whether it's theft of data or
+information, or actually disruptive or destructive attacks. We
+have seen an increase in severity and frequency.
+And I want to be clear by defining a couple of things.
+First, when we talk about protecting the data, we are talking
+about protecting confidentiality, availability, and integrity.
+And that is different than the issue of the content itself.
+And I say that because I know the Russians have a concept
+of what they call information security, which to them means,
+let's keep information we don't like off the network. We call
+that censorship in this country, and it's important not to
+confuse the two, because what we want to do to defend the
+availability, confidentiality, and integrity of data is a
+different set of considerations than when we deal with the
+issue of content that we happen to disagree with.
+So with that being said, let me briefly just summarize a
+couple of points. First, as it relates to defense, I do think
+we have made some progress on unity of effort with the U.S.
+Government, but not as much as we need. In theory, the major
+agencies that deal with cyber--the Department of Defense,
+Homeland Security, and the FBI [Federal Bureau of
+Investigation]--have distinct roles, and when you have a lead
+role of one, for example, in a particular area, and the others
+support, but we need to make sure we exercise that and
+institutionalize it.
+As far as the private sector is concerned, there we have
+the challenges--you have got widely distributed ownership and
+control of infrastructure, and uneven capabilities and
+knowledge about how to defend that infrastructure.
+Some of the things we can do to make that a little bit
+easier are continuing to promote information sharing,
+particularly having it be automated, and having the ability to
+use a common language to describe threats, and I would argue
+also being--making clearances a little bit more widely
+available to the private sector so that there could be greater
+in-depth sharing of information.
+I think the propagation of additional standards about what
+are considered to be good cyber defense measures will be
+helpful to the private sector. And I would also urge Congress
+look at the SAFETY [Support Anti-terrorism by Fostering
+Effective Technologies] Act, which has worked well in promoting
+counterterrorism technologies, as perhaps legislation that
+could be extended to counter cyberattacking technologies, and
+that again would incentivize the private sector to invest in
+better cyber defense.
+And the last area I would look at would be the so-called
+``internet of things.'' We are seeing a dramatic expanse--
+expansion of the surface area of attacks through so-called
+``smart objects'' that have very little provision for security
+or cyber defense, including basic things like patching and
+upgrading. And we may need to look at some legal regulations or
+policies that would promote some kind of at least minimal
+integration or security capabilities into these increasingly
+widespread smart devices.
+Finally, on the issue of what we might do in terms of
+either active defense or offense, I would argue that there are
+a couple of areas we should look at. And I don't think it's a
+capabilities issue as much as it is a policy and strategy
+issue.
+First, we need to be clear about standards for attribution.
+What do we expect in terms of the standard that we must meet to
+be confident about our attribution, and how would we announce
+to the world that we have made--we have attributed something in
+a way that we want to respond to?
+Second, I think we need to marshal all of the tools in the
+toolbox in terms of response. It can't only be cyber response.
+Depending on the nature of the attack, it has to be potentially
+criminal, a prosecution, the use of sanctions, and even the use
+of cyber and physical tools to preempt something in an
+appropriate case, when we are dealing with something that
+threatens life or property.
+And finally, a couple of other areas where I think we need
+to focus on international responses. One is coordinating with
+our--our allies in NATO [North Atlantic Treaty Organization],
+in terms of having a common doctrine and a common set of
+capabilities in cyber response, and then looking to creating a
+more robust set of international norms and rules about what is
+off-limits in cyberspace as it is in physical space.
+Because right now, we are not always clear about what ought
+to be considered to be illegal cyber activity under
+international law, and I think the time for some kind of a set
+of norms and laws in this respect is well overdue.
+So with that, Mr. Chairman and Ranking Member, thank you
+very much, and I will be pleased to answer questions.
+[The prepared statement of Mr. Chertoff can be found in the
+Appendix on page 43.]
+The Chairman. Thank you.
+General Alexander.
+STATEMENT OF GEN KEITH ALEXANDER, USA (RET.), FOUNDER AND CHIEF
+EXECUTIVE OFFICER, IRONNET CYBERSECURITY
+General Alexander. Mr. Chairman, Ranking Member Smith,
+distinguished members of the committee, it's an honor and
+privilege to be back here again. I want to hit, over the next 2
+hours, no, the next 5 minutes, five key points.
+First, technology. You both mentioned it. We live in
+exponential times. The amount of applications, the amount of
+data, and the amount of technology is growing--almost doubling
+every year in each category. That means cyber is going to grow
+exponentially, and the problems that we have today, a year from
+now, will be more than twice as large.
+The threats are growing with that. And nation-states are
+now using cyber as an element of national power, not only to--
+from a criminal perspective, for stealing money and
+intellectual property, but now to impact other nation-states.
+We see it in Ukraine, you saw it in Georgia, you saw it in
+Estonia. You see it now in the Middle East, in Kuwait, Bahrain,
+UAE [United Arab Emirates], Qatar, in Saudi Arabia, and you see
+it in Japan and Taiwan, and South Korea.
+Countries are being hit with nation-state attacks, and we
+expect, we should expect, that those countries we have
+disagreements with will use cyber to attack us. And we are not
+ready.
+And the reason we are not ready is not because there aren't
+good people in government working hard, it's because, in my
+opinion, we don't have the policies in place, we don't
+understand the roles and responsibilities sufficiently between
+the departments, and we don't train between government and
+industry.
+Let me give you a few examples of what I think we need to
+do, and why we need to do it. And then I will end up with four
+key points that I think, as a government, we need to go forward
+on.
+With respect to the roles of government, it's clear, I
+think, the missions of the Department of Homeland Security for
+incident response, for setting standards, it is clear for the
+Department of Justice what the FBI does in terms of law
+enforcement, and clear in the mission of the Defense Department
+to defend the Nation from cyberattacks, especially from nation-
+states.
+The problem. Government, one, can't see what is going on in
+cyberspace like we can in an integrated air defense system. You
+can't see it, and so most of our response is incident response
+and falls on the Department of Homeland Security, who--who
+leverages everything from the other departments have--to help
+do that.
+But that's not what our Nation needs. If you go out and
+talk to companies that have been attacked, they don't want you
+to come and tell you they have been attacked, they want help in
+stopping the attack. And to--to date, most people say it's too
+hard. In the Constitution it says our government is here for
+the common defense. It doesn't say we are here for the common
+defense unless it's hard, we are here for the common defense
+unless it's fast, or we are here in the common defense unless
+it's in cyber. Our job, your job, is how we defend this
+country. And I believe it is doable.
+And the issue gets back to some of the things that you
+mention about the cloud. How do we leverage the cloud for
+pushing up a common picture in cyber where malicious acts are
+going. Technically achievable. And we need to drive towards a
+solution like that, that brings together our government players
+in a coherent, policy-provided path that allows our government
+to work with industry to actually defend this Nation. And I
+think it's doable.
+In my experience in talking to industry is they are--they
+are more than willing, and we have given them the authority to
+share the necessary information with government under the CISA
+[Cybersecurity Information Sharing] Act. We now need to make
+that real.
+But there are still several things that I think limit that
+sharing. One of them is liability protection and the concerns
+of liability. For small and midsized companies, how do we
+incentivize them to actually have good cyber and the ability to
+share real-time information? How do we share this information
+in a credible way, and make sure that the information flow that
+goes back and forth between government and industry is there?
+And that may require, as Secretary Chertoff said, clearances
+from many of those in industry.
+Let me give you one set of examples about how we could
+defend this country. Today, if a bad actor--so, in running
+Cyber Command [CYBERCOM], we would look at how the threat looks
+at attacking our Nation. They don't look at it by company. They
+look at it by the effects they want to do to hurt our country.
+That means the energy sector, the finance sector, the
+healthcare sector, and the government.
+And what they do is they look for weak spots, they get in,
+and then they can cause damage from there. But we look at
+defending at a point, not collectively across sectors. So we
+now have to look at our Nation, and use cyber in a networked
+way, just like we have the internet, so that we can defend it
+at network speed.
+And I put that last part in there--it has to be--
+information sharing has to be at network speed if you want to
+stop the threat. And I believe that is viable and doable today,
+and something that we should collectively push for.
+Thank you very much, Mr. Chairman.
+[The prepared statement of General Alexander can be found
+in the Appendix on page 57.]
+The Chairman. Thank you. Secretary Johnson.
+STATEMENT OF HON. JEH JOHNSON, PARTNER, PAUL, WEISS, RIFKIND,
+WHARTON & GARRISON LLP
+Mr. Johnson. Mr. Chairman, Ranking Member Smith, members of
+this committee, it is a pleasure to return to the House Armed
+Services Committee. When I was General Counsel of the
+Department of Defense, I testified several times before this
+committee in the years 2009 to 2012. While I was Secretary of
+Homeland Security, I had the pleasure of testifying before
+Congress 26 times in 37 months, and since I have been a private
+citizen now for 14 months, I have testified--this will be my
+third time.
+As Senator Angus King said to me last month, when I
+testified before the Senate Intel [Intelligence] Committee,
+``Mr. Secretary, how can I miss you if you never go away?'' And
+he is right. And one of these days, I do expect to go away, but
+I welcome the opportunity to come here and testify with my two
+friends and colleagues on this important topic.
+You have my prepared statement, in which I tried to
+describe the range of cybersecurity threats that I see, ranging
+from those that this committee is well acquainted with, the
+prospect of a nation-state cyberattack on our critical
+infrastructure, to the issue that the witness down the hall is
+probably testifying about, the inappropriate or unauthorized
+use of private data that American citizens make available on
+the internet.
+In my testimony, I also take on the legal question that
+many ask: what type of cyberattack may constitute an act of
+war? And I will be happy to answer questions along those lines,
+if the committee members have it. In general, I look forward to
+our discussion, and I am pleased to be here with General
+Alexander and Secretary Chertoff. Thank you.
+[The prepared statement of Mr. Johnson can be found in the
+Appendix on page 68.]
+The Chairman. Let me just ask each of you to respond to
+kind of two high-level questions, I guess. One is, my
+perception is the threat is going up far faster than our
+response. We are getting more capable, but as at least a couple
+of you mentioned, our policy's not there. Do you agree with me,
+is the question, that the threat is growing faster than our
+response?
+And the second question is--and I will broaden this to
+Congress--if you could wave a magic wand and have Congress do
+one thing this year in this area of cybersecurity, what would
+you like to see us do?
+Mr. Chertoff. I guess I will begin. I think the answer to
+the first question is I agree with you. I think the threat is
+increasing. I think, again, it's not a--on our side, an issue
+with lack of capability, I think it is that we haven't firmed
+up a doctrine and a strategy for how to respond.
+We are beginning to see some response. I mean, I think for
+example in the criminal side you are seeing some indictments. I
+think sanctions are a potential response. There may be things
+going on below the surface that are not--not visible. But
+there's no question that the threat is intensifying, and the
+boldness of the bad actors is intensifying.
+In terms of what Congress can do, I think on the issues of
+strategy and doctrine, these are--are I think matters really
+more for study than for some specific legislation.
+But I come back to the SAFETY Act. I think in dealing with
+the private sector, one of the issues I hear a lot is, ``Well,
+how much do we invest, and what is the return on investment in
+terms of cybersecurity?'' And one thing that I think was
+demonstrated in the counterterrorism area was the SAFETY Act
+really incentivized the private sector to invest in tools that
+could be used to counter terrorism. Because there was a
+liability protection that came with it.
+And I think extending that to cyber would be a very easy,
+straightforward thing that would begin to create some
+incentives for the private sector.
+General Alexander. So I think, yes, the threat is going up
+exponentially, and technology is fueling that. So, consider
+that they are getting more opportunities and going faster than
+our policy and doctrine is growing, so we are falling behind.
+And if I were to give you one thing--I liked yours, so I
+will add to--a slightly different--we don't have a common
+operating picture for cyber. We can't see, as a Nation, other
+nations attacking us. As a consequence, we have limited
+abilities to actually defend our Nation at network speed, which
+is what will be required, I think, in the next few years.
+So one thing, if you could push to build a common operating
+picture for government and industry for attacks that are
+hitting our country.
+Mr. Johnson. Mr. Chairman, I agree with your assessment
+that the cyber threat to our country is getting worse. I
+believe it will get worse before it gets better, and I believe
+those of us on defense struggle to keep up. I think that bad
+cyber actors, ranging from nation-states, to criminals, to
+``hacktivists,'' to those who engage in ransomware are becoming
+increasingly aggressive, creative, and tenacious.
+If I had a magic wand, and if I were Congress--or, I would
+say a Congress of one--I would in some way--and politically,
+this is very challenging, but in some way find a way to either
+regulate or encourage those in the private sector to embrace
+certain minimum cybersecurity standards.
+I note that the Senate Intel Committee report on election
+cybersecurity encourages voluntary compliance with certain
+minimum cybersecurity standards, but I think that that's a
+commonsense solution to a lot of our problems here, and we
+don't have that right now.
+The Chairman. Let me pose one other brief question to
+General Alexander and Secretary Johnson on the Department of
+Defense in particular. I pick up frustration with some of our
+military folks that they are being held back from being able to
+use cyber tools to the extent they think makes sense.
+And I know there's a number of challenges. Using cyber
+tools may lose you intelligence-gathering capability, all sorts
+of difficult legal issues, and we don't have time at this point
+to go into all of that.
+But I am just wondering if either of you-all have an
+opinion about whether, for the military use of cyber to create
+certain effects, are we moving at an appropriate pace, or are
+we too hesitant to give, say, our combatant commanders and
+other military leaders the tools that we could give them, but
+because this is new and difficult, we are reluctant to do so?
+Mr. Johnson. Mr. Chairman, I think that the perception you
+have detected is probably accurate. Among our military
+cybersecurity personnel, without getting into too much detail,
+I know that some feel that the law and traditional law of armed
+conflict principles, traditional international law principles,
+restrain our ability to use some of our current capabilities.
+And so I share your perception.
+General Alexander. Mr. Chairman, I think what is lacking in
+that regard is rules of engagement. So you have U.S. Cyber
+Command, who has the responsibility to defend the Nation, and
+the issue really comes down to when do you fire back, and what
+authorities do you need to get before you fire back to defend
+the country?
+Most of the time, it would be up to the commander of Cyber
+Command to do it and ask forgiveness. That's not a good place
+to put a military person in. You need rules of engagement that
+say, ``If I see an attack that is going to destroy our energy
+sector, our finance sector, or something, and I have got 60
+seconds to act,'' you want that person to do the right thing.
+You need to give them rules of engagement, and get the
+government to agree, and you all to agree to those, and then
+train to them.
+And that's something I think that's sorely lacking, at
+least when I was commander of Cyber Command.
+The Chairman. Okay, thank you. Mr. Smith.
+Mr. Smith. Thank you. We have talked a little bit about the
+sort of rules of engagement. I think this is one thing that is
+a significant problem is our adversaries feel like they can
+operate, to a certain degree, with impunity, because we have
+not made clear how to respond.
+What I would like from you--and I will get a little bit
+more of a preview of this is--what would that look like? If you
+said if you were God, you know, what would you say what should
+our rules of engagement be? You know, some have said that, you
+know, a cyberattack is an act of war--I don't want to go there.
+I don't think that a cyberattack is equivalent to 9/11, or
+equivalent to if, you know, Russia or anyone else were to
+launch missiles at us. I don't--I don't believe that if we
+suffer a cyberattack, we should start bombing whoever it is we
+think attacked us.
+What would be an appropriate response, so that people felt
+like there was a price to pay if they continued to attack us
+through cyber? And they--they could do a lot worse than they
+have done, but they--there certainly have been--you know, even
+as we sit here, I am sure there are cyberattacks going on. No
+one knows what the consequences are. What should they be?
+General Alexander. So I will give you my thoughts----
+Mr. Smith. Sure.
+General Alexander [continuing]. On responding to an attack
+against the country, and I will use the 2012 attacks that
+occurred. And in those time, it was my experience that the
+attacks that were coming against our country could have been
+stopped and turned off, not destructive attacks, but blocking
+attacks. But some of those blocking attacks would be in foreign
+space. So that creates the norms that Secretary Chertoff
+brought up, and some of the issues.
+Now, interestingly, most of those systems that are being
+attacked have been exploited by a bad guy to attack us. So the
+country that's--whose device--computer sits in their turf is
+actually being used to shoot us. In physical space, if somebody
+put a weapon in neutral space and started shooting at you, you
+have the right--inherent right for self-defense. I think we
+need a similar thing in cyber, where you can defend it.
+Now, the administration needs, beyond the blocking
+mechanism--so, my rules of engagement aren't to go out and try
+to take out a country, it would be stop it, give the
+administration the opportunity to think of what elements of
+national power they want to use to counter it, and that could
+be diplomatic all the way to the military.
+But what--what you are asking, and the Cyber Command forces
+to do, is block that attack and give you the time you need to
+make a decision on what elements of national power.
+Mr. Smith. I guess one sub-question on that: How easy is it
+to know where the attack is coming from? This is a matter of
+no--no small importance, given our current debate about Russia
+and what they are doing to elections and everything, you know,
+you--you have sat there, and you have--you have looked at that,
+so all of you have.
+Is it really true that sometimes you can't tell, or are you
+pretty confident from your position that after a few hours that
+you know where it's coming from?
+General Alexander. I think our attribution improved
+immensely. And you would have to ask them where they are today,
+but from 2005 to 2014, it was significant growth in attribution
+at network speed. The issue may not be that you have it down
+100 percent of which element in a country is doing it----
+Mr. Smith. Right.
+General Alexander. But for the picture that I talked about,
+if you had that picture, it becomes increasingly clear. And the
+intelligence agencies can provide the rest of the picture if
+you give them the information at network speed. So hopping
+through a number of channels, what you need to do is see those
+at network speed. You can see how that plays out, and pinpoint
+where it goes back.
+Mr. Smith. The bottom line is we ought--we ought to be able
+to do it, so then we can have the--that's once we figure out
+what the appropriate response is to this, at least we know who
+to send it to. Do either of you----
+Mr. Chertoff. I would just--I would add just a couple of
+elements to this. First of all, on the issue of attribution,
+the challenge is not only to determine which is the server from
+which the attack originates, but to what extent you can--you
+can----
+Mr. Smith. Who did it?
+Mr. Chertoff [continuing]. You can pin that on a--on a
+government agency. And one thing we have seen the Russians do
+is create a deniability situation with criminal groups, where
+the--essentially, the argument is as long as you don't commit
+crimes in Russia, you--feel free to go and do whatever you have
+to do overseas, but when we call on you, you will help us get
+into something. So that gets into a legal issue about how we
+hold countries accountable when they provide tacit
+encouragement.
+The second issue, which is challenging, is unlike in the--
+in the physical world, where you could see a missile or a
+bomber coming from overseas, you could easily have a nation-
+state attack launched from a cafe down the street here in
+Washington from a thumb drive. We have built our doctrine in
+terms of what the military can do, and in terms of the away
+game and the home game, and we may need to revisit when we use
+some of our away powers for attacks that emanate from home.
+Mr. Smith. I want to let some other people get in here, so
+just very, very quickly, how does the DOD's plan to move into
+the cloud and more use of open source software impact
+cybersecurity? If you can give me, like, just 30 seconds apiece
+on--because that's the direction we are heading in. How does
+that impact our ability to protect ourselves?
+General Alexander. I think by and large it's a good thing.
+We need to do that to get the collective picture. So going
+there, I think you can provide the security--the secure web
+gateways and stuff that are coming in, the tools that are
+going--I think it provides better security. You alluded to
+that, and I think you are correct.
+It's more--it's easier to do it in that way. You just make
+it--need to make sure you have the resilience.
+Mr. Smith. Okay. Anybody else want to comment on that?
+Okay. Thank you very much, Mr. Chairman, I yield back.
+The Chairman. Mr. Wilson.
+Mr. Wilson. Thanks, Mr. Chairman, and thank each of you for
+being here today, and your obvious many years of service to our
+country and dedication to the American people. And I want to
+begin by thanking Chairman Mac Thornberry for this very
+important hearing, as I believe that information warfare will
+expand beyond the current and future battlefield.
+I would also like to thank and congratulate Chairwoman
+Elise Stefanik for her leadership on the Emerging Threats and
+Capabilities Subcommittee, advancing American interests in
+cybersecurity to protect American families.
+A concern that I have in--General, you actually brought it
+up, and then you have all touched on it, but it's so critical
+and that is how do U.S. agencies conduct a measure of
+cyberattack? Do all agencies share a common metric to measure a
+cyber incident?
+Last year, I introduced H.R. 1030, the Cyber Attack
+Standards of Measurement Study Act, which would require the
+Director of National Intelligence, in consultation with the
+Secretary of Homeland Security, the Director of the FBI, and
+the Secretary of Defense, to conduct a study to determine
+appropriate standards to measure the damage of cyber incidents
+for the purposes of determining the response to such
+incidences, and to include a method for quantifying the damage.
+And General, beginning with you, but actually all three of
+you, I would like to know: Do you believe that we--having a
+common interagency metric for measuring a cyberattack would
+benefit the coordination of a response? And then secondly,
+should there be an appropriate counter response to whoever
+conducts the attack?
+General.
+General Alexander. I have some out of bounds thinking here
+in terms of DHS, but yes, I think you ought to do standards. I
+think I would take it one step further. I think the Department
+of Homeland Security, with what they are running in the NPPD
+[National Protection and Programs Directorate], and where they
+have the security operations centers, should actually provide
+for the common defense for the rest of government and the
+ability to do it.
+I don't think the smaller government agencies have the
+technology and the people to do that. I would consolidate that,
+just as business does, and give that authority there. I think
+that would help in what you are trying to do.
+Mr. Johnson. Congressman, I think that the legislation you
+cited sounds like a good idea to me. I would be careful,
+though, that in terms of trying to measure the effects of a
+cyberattack, it's not necessarily one-size-fits-all, because
+you are assessing, say, the theft of personnel security
+records, versus the theft of something in the Department of
+Defense.
+And I endorse what General Alexander said, that there are
+smaller Federal agencies that are simply not equipped, and need
+the Department of Homeland Security for a lot of help in this
+area.
+Mr. Chertoff. And I am in complete agreement with that
+suggestion as well.
+Mr. Wilson. Thank you, again, and it is really just so
+frustrating to think of how blatant the attacks on American
+citizens, our government, our businesses--but not just us, as
+we see our allies in the Baltic States, or our allies in Korea,
+in Japan.
+Another concern I have is with attribution. We have a
+significant and persistent obstacle in--facing our ability to
+respond. Do you believe that state actors--and again, General,
+you get stuck with this first, okay? But that state actors such
+as China and Russia take advantage of vulnerabilities in our
+ability to legally attribute a cyberattack.
+What can Congress do to address this issue of attribution?
+General Alexander. Well, I think, first--and Secretary
+Chertoff made a comment on the attribution, and I would just
+agree with that. That's very difficult. Something that we need
+to work, and I believe Russia and China use forces that they
+can push out there to go after us, which makes this very hard.
+I don't know the best legal way to do it, but I think
+that's a discussion that has to be had as a Nation. I think we
+are going to see that--and you have mentioned the Baltic
+States, Eastern Europe, and we are going to see it in the
+Middle East, and I believe with events going on in Syria and
+elsewhere, it's going to hit our country. So we need to get out
+in front of that.
+Mr. Chertoff. I mean, I agree with what General Alexander
+said. Look, the challenge with attribution I don't think is so
+much a technical challenge as a decision we have to make about,
+A, the level of certainty we need for certain kinds of
+responses, and B, the extent to which we are prepared to
+publicly reveal why we make a certain attribution.
+So we have seen lately, for example, the Department of
+Justice charged a couple of FSB [Federal Security Service]
+Russian intelligence agents in the case involving the Yahoo
+hack. That's a good thing. I think sanctions can be a better
+thing.
+Now, if we were to get into something that was really
+seriously destructive, with a loss of life, such that it might
+warrant a response at the level of warfare, then we might want
+a higher standard. I would rather have that discussion, at
+least quietly, now, than try to figure it out when we are in
+the middle of an attack.
+Mr. Wilson. Thank you very much. And Secretary Johnson, I
+look forward to getting with you later. Thank you.
+The Chairman. Ms. Davis.
+Mrs. Davis. Thank you, Mr. Chairman, and thank you to all
+of you for being here. Along with the--the discussion that we
+were just having, little bit about IP [intellectual property]
+abuse, and we know how destructive that can be. And what is a
+realistic course of action? And at what point do we know
+whether the actors have actually changed their behavior?
+Mr. Chertoff. So, let me take a crack at this. And as--I
+begin by saying IP theft is not, in my mind, an act of war, but
+it's obviously wrong. I think one thing we could consider doing
+is this: If we see stolen IP actually being used by an
+enterprise, we could then, I think, go after the enterprise
+legally for that, and exact a serious economic injury.
+And frankly, I think one of the reasons the Chinese agreed,
+several years ago, that commercial espionage to help their
+enterprises was not appropriate was a recognition that the
+sauce for the goose could become sauce for the gander as well.
+And I am not naive, I don't believe they have totally stopped
+it, but I do think that using that kind of economic leverage
+can help.
+Mrs. Davis. Uh huh.
+General Alexander. I think it's the greatest theft of--and
+transfer of wealth in history, from our Nation. It affects our
+future generations. So that IP theft we have got to stop. I
+think sanctions and tariffs and other things are one way.
+More importantly, we need to fix our defense. Right now, we
+are so porous because, as a Nation, we are doing point defense
+on every point, and they are looking at this as a large target
+and only find one ``in'' and they are in. And everybody's going
+to make a mistake. So we have got to come up with a more
+comprehensive collective solution.
+Mrs. Davis. Is--go ahead.
+Mr. Johnson. I agree that IP theft is a significant
+problem, and it encompasses national security as well. Theft of
+intellectual property by nation-states is a significant problem
+that this committee should be very concerned about.
+Mrs. Davis. Could you speak a little bit more to who's in
+charge? Because we talk about--excuse me--we talk about the
+integration of effort, and yet it's difficult, who actually is
+in charge? And when it comes to private companies, who do they
+see as in charge? What is their perception of who's actually
+making the rules?
+Mr. Johnson. We--we made an effort at this in the last
+administration, and there's always the temptation, with every
+new administration, to try to reinvent the wheel. But in
+general, the Department of Defense, NSA [National Security
+Agency], Cyber Command, should be responsible for defending the
+Nation against an attack and the security of our military
+systems.
+Law enforcement is--should be responsible for the threat
+response. In other words, you report the crime to law
+enforcement, whether it's the FBI, the Secret Service, or HSI
+[Homeland Security Investigations], and the Department of
+Homeland Security should be responsible for asset response, the
+forensics, patching the vulnerabilities. And so, the way I used
+to describe it when I was in office, ``Jim Comey is the cop and
+I am the fireman, and you call both of us when you have an
+attack.''
+Mrs. Davis. Yes, yes. But at the same time, I think
+there's--you are--we are talking about a common operating
+theater, and are there authorities that still are unclear? And,
+you know, just to what extent have we been a little slower to
+come to that, so that--so that there is a common sense, or a
+common knowledge, really, of----
+Mr. Johnson. Well, despite what I just articulated, I think
+that there is still a lot of--a lack of public awareness about
+who is in charge. And it has to be a whole of government
+approach, but the lines of authority need to be reiterated and
+stressed over and over----
+Mrs. Davis. Is there a cultural problem in doing that?
+Mr. Johnson. In my experience, cultural problems stem from
+the leadership. If the leaders of the organizations know and
+trust and respect each other, then that filters down in the
+culture. But leaders turn over. I thought at DHS we had an
+excellent working relationship with the FBI in part because Jim
+and I were friends for over 25 years. And that filters down.
+But with each political turnover, with each new
+administration----
+Mrs. Davis. Right.
+Mr. Johnson. The personalities change.
+Mrs. Davis. What role does the executive play in that?
+Mr. Johnson. I think that it's important for the executive
+to reinforce continuity and consistency in the protocols and
+how everyone should work together, so that it eventually
+settles in to how we approach this issue.
+Mrs. Davis. Yes. Thank you. Thank you, Mr. Chairman.
+General Alexander. Can I add to that one? Because I think
+it's important. The question that you are asking is who's in
+charge. You know, we had--when we were starting out in standing
+up Cyber Command, Secretary Gates had some great ideas about
+how you pull together all of government into a comprehensive
+solution.
+And he thought of, how do I pull what we are doing in the
+Defense Department, Justice Department, and Homeland Security
+all together, so that we can act in peacetime--seamless from
+peacetime to crisis to a war? And I think that's the kind of
+solution that we need to look at as a country.
+And right now, as you note, it's fragmented. And it was
+great working with Secretary Johnson, it was great with
+Secretary Chertoff, but the reality is there are personnel
+issues, resource issues, technology things.
+And I agree, the FBI was great to work with for me. You
+know, it was--they were amazing, and whenever--we would assume
+they would have had the lead because of law enforcement, but if
+it was nation-state it would flip to us.
+So I think you need to figure out--we need, as a
+government, to put that together somehow. Some have talked
+about a Secretary of Cyber. I am not sure I would go that far,
+but I would sure look at how you nest between Homeland Security
+and Defense Department common authorities and a common
+structure between those to get that going, and append to that
+FBI.
+The Chairman. Mr. Scott.
+Mr. Scott. Thank you, Mr. Chairman. Mr. Johnson, you went
+to school in Atlanta, at Morehouse, I know, and as we discussed
+earlier, and the city of Atlanta on March 22nd was attacked
+with--as I understand it, the SamSam ransomware. The people
+asked for a $51,000 ransom, a fairly small amount, but my
+understanding is that that group has raised almost a million
+dollars from different attacks, and these attacks have been
+going on since 2015, with that type of ransomware.
+Now the $51,000 is not a whole lot of money to a city like
+the city of Atlanta. The damage that was done and the cost to
+the city of Atlanta is going to be in the millions, in shutting
+down courts, the inability to pay fines online, the loss of
+time of employees. I don't know what it will total up to, but
+it will be millions of dollars that the ransomware costs.
+My question gets into, since this has gone on since 2015,
+the SamSam ransomware, has there been a coordinated effort from
+the U.S. Government to find out where these attacks, these
+SamSam attacks are originating and how will we stop them? And
+if we do find out where they are originating from and who is
+doing it, how effective are our laws with regard to the
+prosecution of that crime if it is in the U.S. or if it is
+outside of the United States?
+Mr. Johnson. A coordinated effort to--you know, I don't
+know that there is, within the FBI, for example, a ransomware
+bureau devoted to those who engage in this, and as I think you
+point out, those who engage in ransomware are open and
+notorious. It's becoming a bigger and bigger business.
+I suspect that--and Mike could probably speak to this,
+too--I suspect that the existing laws in title 18 are
+sufficient to deal with this as a crime, but in my experience,
+most often ransomware stems from a simple act of phishing or
+spear phishing, where an employee who uses the system opens up
+an email or an attachment that they shouldn't, and the actor is
+in the system and they can steal things in the system.
+And so a large part of the answer to the ransomware problem
+is simply raising the awareness of those who use systems about
+opening emails that you don't recognize and attachments you
+don't recognize.
+But I suspect and believe that the existing laws are
+probably sufficient to deal with this once you can track down
+the bad actor.
+Mr. Scott. So one of the questions that has been asked of
+Mark Zuckerberg is about the fiduciary duty to protect
+information. So banks, financial institutions, the government,
+the city of Atlanta would have a fiduciary duty to protect the
+information that they had in their computer systems.
+What about the networks? Should the networks have a
+fiduciary duty to protect the information that they are
+housing?
+Mr. Johnson. A fiduciary duty, if not a legal duty, to
+protect the information that they are the custodians of. A bank
+certainly has a fiduciary duty to protect the information with
+which it is entrusted, and the management of these banks have
+fiduciary duties to their shareholders as well.
+And so I am sure that there are certain obligations that
+those who manage networks have to the customers that rely on
+them.
+Mr. Scott. I am short on time. I guess that the challenge I
+see in this area--if someone goes to work for a Google or an
+Oracle or a technology company, they may make in a month, if
+they are good, what we pay people in a year. And it--it seems
+to me that some way, some how, the laws are going to have to
+incentivize those companies to do everything they can to stop
+these types of attacks. Not because we don't have capable
+people, but because there's so much of it going on out there
+that we need--we need their help in doing this.
+And so sometimes they see it--would see it even before--
+even before we would see it. So I have an Ag [Agriculture]
+meeting at the top of the hour, but I appreciate all of you
+being here, and thank you for your service to the country.
+The Chairman. Mr. Langevin.
+Mr. Langevin. Thank you, Mr. Chairman, and I want to thank
+our witnesses for your testimony today and for your service to
+the country. Over the many years that we have all worked on
+this issue of cybersecurity, I have had the pleasure of having
+you testify before me, whether it's on the House Armed Services
+Committee, or the House Intelligence Committee, or the House
+Homeland Security Committee, and I have always deeply
+appreciated your thoughtful answers and your contributions to
+better protecting the country in cyberspace.
+So, you know, the one question that I still continue to get
+from--from people back home is, you know, why aren't we more
+effective at defending the country in cyberspace? Why are we
+still seeing these high-profile cyber intrusions or attacks, if
+you will? And I--you know, obviously the answer is we are
+getting better at it, but it's a very hard thing to defend
+against.
+And we have the NSA with Cyber Command that is trying to--
+basically defending the dot-mil network. The Department of
+Homeland Security is in charge of defending the dot-gov
+network, although they don't have the policy or budgetary
+authority to reach government to actually compel departments
+and agencies yet to do what needs to be done. That's why I have
+long advocated for the bill I put in, the Executive Cyberspace
+Authorities Act, to have someone with that kind of policy and
+budgetary authority.
+But yet most of the damage can still be done in the dot-com
+world, particularly in critical infrastructure, and no one
+really is in charge there, and no one has the authority, and I
+don't know the American people, you know, would accept--and I
+don't think they would accept having NSA or Cyber Command
+sitting on the network internally to defend in the dot-com
+world.
+So, what is the best way forward to in fact defend the
+country? And, General Alexander, you and I have talked about
+this--you know, right now--and you have often referred to it
+as, you know, ``We are still playing clean-up on aisle 9.''
+I am interested further in your thoughts about the idea of
+deterrence in cyberspace. The new U.S. CYBERCOM Command vision
+talks about defending forward as far as possible before
+adversaries penetrate our defenses. And this sounds somewhat
+like the old adage of the best defense is a good offense.
+And so do you agree with this posture? And if we see things
+in cyber that--whether it's a nation-state or criminal
+enterprise about to do something--is it best that NSA or U.S.
+Cyber Command inform private industry about--about the
+impending damage that could be inflicted and let them defend or
+fix the problem? Should NSA or U.S. Cyber Command take the
+action to stop it, or turn it off, as you say?
+What is the best way forward to handle these challenges?
+General Alexander. So first, I think the--in setting the
+defensive infrastructure, the first thing we need to do--and
+DHS would have the lead on--set the standards of what industry
+has to do. Here's how you lock your doors, here's how you
+encrypt your stuff. And set standards, and Congress can set
+incentives for small, midsize, large companies to do that. Then
+if they are attacked by something that exceeds those standards,
+they should have some form of protection.
+And part of that standard should include sharing
+information under law--CISA-level information, not personally
+identifiable, but threat intelligence, cyber intelligence
+information at network speed with the government so the
+government can do what you suggest.
+And it falls then on the government--who's role is it? If
+it's criminal, it's going to go to FBI. If it's a nation-state,
+and an attack that's going to hurt our country, that's where
+you want Cyber Command and NSA to be actively involved. And if
+it's foreign coming in, you want NSA's intelligence to help
+inform law enforcement and the defense on how to defend that
+government.
+So I think the key thing that you can help do here is help
+industry set standards, give them the incentive to do that, and
+the liability protection if they meet those. Because the
+lawsuits are way out--way out of bounds, and companies that are
+being attacked by nation-states don't have the ability to
+defend. Sir.
+Mr. Johnson. So in the Cyber Security Act of 2015, Congress
+established limits on criminal and civil liability for those
+who share cyber threat indicators with the Department of
+Homeland Security. So that's a good thing.
+The problem we have is--and we set up, on my watch,
+automated information sharing with the private sector--and
+Keith is right, there's a lot that private sector can benefit
+from if we at the national level are able to share the threat
+streams that we see, but there's also a lot that the government
+can learn from the private sector. Things that are happening
+within the private sector that the government doesn't
+necessarily know about right away.
+I have been disappointed that not more entities in the
+private sector are willing to share information----
+Mr. Langevin. I agree.
+Mr. Johnson [continuing]. With the Department of Homeland
+Security because they are concerned that it will go public, it
+will be compromised in some way, and that's a--that's a real
+problem, that's a real dilemma. There are many, including
+people in Congress, who believe that there ought to be
+mandatory disclosure by Federal agencies in certain
+circumstances if we know about something.
+And that, frankly, compromises DHS's ability to encourage
+the private sector to come to us and work with us.
+Mr. Langevin. Well, my time expired, but thank you all for
+your testimony here today, and your answers, and I yield back.
+The Chairman. Ms. Stefanik.
+Ms. Stefanik. Thank you, Mr. Chairman. I have three
+questions, and I am hoping to get through all three, so I will
+start with you, General Alexander.
+You helped build Cyber Command. What steps do we need to
+take in this year's NDAA process to mature Cyber Command? And
+then, look forward 5 years. What does Cyber Command need to
+look like 5 years from now?
+General Alexander. I think first the unified command is the
+right next step, getting to a unified command. I think the
+rules of engagement discussion that we have is the second thing
+that I would push at. The third is with government as a whole,
+including Cyber Command, how do we defend the country?
+How do we, as a government, work together to defend this
+Nation? And bring it out and have a public discourse on how we
+are going to do that. Don't go into the tools and all that, but
+talk about why the information that's being shared is necessary
+to defend this country.
+Ms. Stefanik. Thank you for that. My second question has to
+do with emerging technologies. When we consider what the world
+of cyber looks like, quite soon I think of threats like AI
+[artificial intelligence] and quantum computing. What--how do
+these technologies play into the future of cyber warfare, and
+we need to be thinking about as policy makers? I will start
+with you, Mr. Chertoff.
+Mr. Chertoff. Well, I think on--on AI, as with most
+technologies, there's an upside and a downside. There's no
+question from a threat standpoint the ability of an adversary
+to automate the ability to test and try to break into a
+network, or even to use that for kinetic purposes, increases
+the threat.
+But the good news is I think, particularly if you use
+behavioral analytics, AI can be a good way of defending the
+network in depth, which is what we need to do.
+Quantum computing, I think it raises some issues about
+encryption. And encryption is a major security tool. There's a
+view, however, that quantum computing can eventually make it
+very easy to penetrate encryption. It may also be the case,
+though, that it may be a tool to actually enhance encryption.
+So in both of these cases I think we have to watch
+carefully to make sure that, to the extent the threat is
+increasing, we are using these technologies to increase our
+resistance.
+Ms. Stefanik. General Alexander, I will go to you next, but
+I want to also add an additional question related--are we
+underinvesting in these spaces?
+General Alexander. No, I was going to hit just on that, Ms.
+Stefanik. I think first we have to lead globally in quantum
+computing and AI. The country that is the leader in those two
+technologies will be the future superpower. That needs to be
+us. And so we aren't investing enough, and this is a huge area.
+And there are some great experts in government at
+classified levels in both, and I would encourage you to get
+with those.
+I think in quantum computing what Secretary Chertoff said
+is exactly right, both good and bad. AI the same thing, and you
+have seen Elon Musk and Gates go at this, both pro and con. I
+think the good part of it, it will help us solve cancer and
+other things, and I think there's tremendous good. The bad
+parts, it means your decision cycle is going to be extremely
+fast in cyber and the attacks are going to grow, so we have to
+be ready.
+Ms. Stefanik. Mr. Johnson.
+Mr. Johnson. I agree with what Keith just said. I think
+that we need to invest in cyber talent in the Federal
+workforce. All of our best talent in the DHS, the people that
+can actually explain this to me, get stolen into the private
+sector because they are able to pay multiples of what we pay in
+the Federal Government.
+Congress has done some things to enhance our ability to
+hire cyber talent, but I think that's definitely a work in
+progress.
+Ms. Stefanik. Thank you. And my last question I will try to
+get through quickly, each of you have testified to the
+importance of improving interagency coordination and
+information sharing. I want to drill down into the specifics.
+What specific actions can we take from the HASC [House Armed
+Services Committee] perspective to improve this interagency
+collaboration and ensure that we are improving our readiness?
+Mr. Chertoff. So one suggestion--and actually back in 2008,
+General Alexander and I talked about this--would actually be to
+create--to co-locate representatives of the three major
+government agencies in a setting that would allow them to have
+a common operating picture in real time about what is going on.
+General Alexander. We actually built an integrated cyber
+center up at Fort Meade, where you would see the center of some
+of that, and so I would encourage that, to build that common
+operating picture so that you can see the attacks, and each
+part of government could coordinate what their response would
+be. Right.
+Mr. Johnson. DHS has actually built an integrated cyber
+center, too, called the NCCIC, the National Cyber
+Communications Integration Center. And it's an interagency
+operation, and I think we need to bolster that and improve upon
+that.
+Ms. Stefanik. Thank you, my time is about to expire. I
+appreciate the answers.
+The Chairman. Mr. Larsen.
+Mr. Larsen. Thank you, Mr. Chairman. I would like to yield
+my time to Mr. Khanna.
+Mr. Khanna. Thank you, Mr. Larsen. Thank you, Mr. Chairman.
+Thank you to our witnesses for your service to our country.
+Secretary Johnson, I was very impressed by footnote 5 in
+your testimony, where you talk about the definition of cyber
+warfare. And you explain your view that we should have a
+limited definition of cyber warfare. One could imagine the
+Russians creating cyber dislocation in Latvia, and the last
+thing we would want is to be bound, under NATO, to go to war
+over that.
+And I was surprised reading it that you wrote that we don't
+have a definition of cyber warfare in the government, and I
+would be curious about your thoughts of what Congress or the
+government should do so we have a clearly defined standard for
+cyber warfare.
+Mr. Johnson. You are correct. We spent, in the Department
+of Defense, as some members of this committee will know,
+literally decades writing a law of war manual that I think
+started in the 1970s. And it was finally published in 2013 or
+2014. And it barely touches upon cyber, because cyber didn't
+exist when we began writing it.
+And so beyond answering the question, may a cyberattack
+constitute an act of war? There is a lot more that needs to be
+filled in in the blanks. You know, what constitutes a
+cyberattack? What are the implications of that? What are the
+acceptable parameters for how we respond? What are the limits
+on the private sector in their responses?
+But the basic legal question is one I was interested in,
+and I basically defer to those who have already written on
+this, which is what I said in my statement. That you have to
+look at the kinetic effects rather than the kinetic means. And
+I caution against reaching for something that's too creative
+and too expansive, because it would have implications globally.
+And so it's sort of like be careful what you ask for.
+But I think there's a lot more work that needs to be done,
+limited simply to cyber--if you will, cyber warfare, what
+constitutes a cyberattack, and what their--what are the
+acceptable protocols. And there are aspects of the existing
+laws of armed conflict that we can borrow from. Necessity,
+proportionality, distinction in a cyber response; I think there
+are elements of law of war principles that are useful in
+developing this, but it's something we have to undertake to do.
+Mr. Khanna. Well, I appreciate it. I certainly learned a
+lot, and I hope you will use your expertise to help guide this
+committee, Congress, and the Executive Branch as we try to
+define that, so that we don't find ourselves in a war,
+escalating because of too creative or expansive a definition.
+I was also struck, where you talked about the coordination
+in the private sector with cybersecurity. I mean, it's always
+struck me that we don't have companies having their own armies.
+That thought would be absurd. And yet, we have all of these
+companies having their own cybersecurity operations.
+And the question, to any of the witnesses, is what can we
+do to make that less of a burden, so that if you are a small
+business or you are a company, you don't have to have your own
+army to protect your cybersecurity? Is there a role for the
+Federal Government to do this, like we have an Army, and an Air
+Force, and a Navy to protect our Nation?
+Mr. Johnson. Well, it's the basic response of the national
+government to defend the Nation against an attack. And on the
+civilian side, law enforcement, the Department of Homeland
+Security can share information, encourage best practices, but
+at the end of the day, whether you are the CEO [chief executive
+officer] of a large public company or you are the manager of
+your own business, you have to be responsible for the security
+of your own systems. And there are a lot of outside experts
+that can help with that in the private sector.
+This inevitably has to be a public-private endeavor,
+because of the nature of cybersecurity.
+Mr. Chertoff. Yes, I would add to that, that I think for
+the smaller enterprises, there are now managed security
+services that can actually do that as an outsourced function.
+And one of the benefits they have is if they are working with a
+lot of different companies, they are seeing a lot of activity
+over the landscape, and that actually makes them better.
+General Alexander. And I agree with that approach. I think
+the key is, and this is where Congress could help, if you set
+standards through DHS that industry meets, and you are
+protecting against what I will call a reasonable threshold of
+attacks, and then somebody comes in with a nation-state-like
+attack, just as in the physical world, you have all your bank
+guards, you have all these folks working it, and if the--a
+motorized rifle regiment comes in and wipes them out, you would
+say, well, shoot, you should have had air defense systems.
+And the reality is when it gets to nation-state level, you
+have to have nation-state response. I think getting there means
+everybody gets to a certain standard, and then shares at
+network speed across government so the government agencies can
+do their specified roles.
+Mr. Khanna. That's very thoughtful. I really appreciate the
+testimony of the witnesses on this issue.
+The Chairman. Mr. Banks.
+Mr. Banks. Thank you, Mr. Chairman. Gentlemen, in my State
+we have already seen the consequences of cyberattacks. This
+past January, a criminal hacking group was paid $55,000 in
+Bitcoin as ransom to regain access to a hospital computer
+system at Hancock Regional Hospital in Greenfield, Indiana.
+This came at a time during flu season, when the systems and the
+information they contain was critical to providing health care.
+With--while this was a criminal action by one group
+targeting a single hospital, the effects of a state actor using
+cyberattacks on the public health system or other critical
+infrastructure would be disastrous, given the systematic
+vulnerabilities.
+So my first question, for all three of you, is since much
+of the Nation's critical infrastructure is privately owned,
+what if--what efforts need to be taken now to better secure
+cyberspace activities essential to their daily operations? And
+we can start with you, Mr. Chertoff.
+Mr. Chertoff. Well, you know, I think this is--again,
+there's not a magic bullet answer to this. And the analogy I
+often use is the public health analogy. You know, how do we
+protect ourselves against disease and illness? It requires some
+things the government does in terms of formulating vaccines,
+but it requires us to take certain steps.
+So in the case you are talking about, look, a lot of these
+ransomware attacks occur because somebody downloads something
+they shouldn't, or because you haven't patched or updated. And
+those are things which are on the responsibility of the private
+sector actor to do.
+Then there are other elements, you know, particularly when
+you are dealing with a nation-state, where our ability to
+perceive that something is being readied for an attack could
+arguably call for us to act preemptively. Certainly, if there
+was the possible consequence of loss of life.
+So I think this is--there's not going to be a single step,
+it's about raising the level of cyber hygiene for the owners or
+operators of the critical infrastructure. It's about backup for
+the critical data. It's about training people about the silly
+things they ought not to be doing. And then when you do see a
+nation-state fixing to do something, then there's a--I think
+room to have a discussion about do we act to blunt that away
+before it hits us at home?
+Mr. Banks. General.
+General Alexander. So I agree. I think setting the
+standards, getting everybody to build and work at those
+standards, and then sharing information across the government
+is the way to do this. Ransomware, the year of ransomware, of
+2016, 2017, it's going to continue. They are making money on
+it.
+And so the issue for the government will be how do we
+respond, between law enforcement, intel, and defense? And then
+what can we do in hygiene to help defend against that?
+And I think that's where the common operating pictures of
+what you are doing for incident response and helping critical
+infrastructure, and what you are doing to defend the Nation
+need to be merged.
+Mr. Johnson. I agree with everything that's been said. I
+would add to that that there are lots of people who are part of
+critical infrastructure who don't know that they are part of
+critical infrastructure. For example, arguably election
+infrastructure, before I made it explicit, was already part of
+critical infrastructure, because it's part of government
+infrastructure.
+And so a beginning point is to educate those in critical
+infrastructure that they have a heightened duty, and,
+therefore, need a heightened awareness.
+Mr. Banks. So along those same lines, one of the difficult
+issues, culturally, for hospitals and other private sector
+entities is information sharing with the government about their
+systematic vulnerabilities. What--what can we or should we do
+to improve the culture of information sharing between the
+private sector and the government that would involve critical
+infrastructure? And, Mr. Johnson, we can start with you.
+Mr. Johnson. We have already done a fair amount. Congress
+has already done a fair amount, as I mentioned earlier, by
+enacting limits on criminal and civil liability for those who
+share cyber threat indicators. DHS has established automated
+information sharing that has a privacy scrub that goes with it.
+And I think it's really a matter of raising the levels of
+trust and lowering the barriers of suspicion that exist right
+now. And there's a lot more work that needs to be done there,
+because not enough in the private sector, in critical
+infrastructure, have the type of partnership that I think they
+need to have with DHS to effectively deal with this issue.
+General Alexander. I think for most hospitals--there's two
+hundred and some in New York City alone, they should outsource
+it and get a comprehensive solution across all of them. Their
+focus is on saving people. And if they are spending a lot of
+time trying to defend their networks and keep their equipment
+up, then they are not doing this. I think we have to look at it
+more like that. Secretary Chertoff brought up part of that, and
+I believe that's the correct way to go do it.
+Mr. Chertoff. I would simply add to that, I think we need
+to educate hospitals and medical facilities that they are in
+fact critical infrastructure, and they are in fact targets. We
+have information sharing and analysis organizations that are
+platforms for sharing.
+One other thing that I would say--and I have talked to
+people in the medical community on this--as we multiply smart
+medical devices that are connected to the internet, we have to
+be very careful we are not creating serious vulnerabilities
+that would lead to a loss of life. So pacemakers or various
+kinds of injection pumps, if they were wirelessly connected can
+be very beneficial, but the devices could also be an attack
+vector and we need to look to the FDA [Food and Drug
+Administration] as well as the industry to focus on that.
+Mr. Banks. Thank you. My time is expired.
+The Chairman. Mr. Veasey
+Mr. Veasey. Thank you, Mr. Chairman. General Alexander
+mentioned something earlier, but I think that anyone can answer
+this. And I wanted to know, do you think that we should be
+looking at bolstering the military and State Department when it
+comes to dealing with this issue?
+And the reason why I mention that is because it seems to me
+that if attacks on small to midsize allies are occurring, that
+they may--that that also may be an issue of governance that
+they have within their countries by not being able to manage
+all of this. And just wanted to know if you had any thoughts on
+that.
+General Alexander. I do think alliances are going to be
+extremely important in cyber. And it's important for two
+reasons. One, to get the norms and the group together, and
+second, we learn a lot by seeing where others are attacking.
+Most attacks that hit our country are tested elsewhere. The
+more partners we have, the smarter we will be in defending
+ourselves.
+Mr. Veasey. And also, General Alexander, I wanted to ask
+you, because small and midsize allies in certain countries that
+we are trying to give assistance to, they have had trouble
+managing their natural resources. How--how do you help
+countries like that manage something as sophisticated as cyber,
+you know, defense? Like, how do you empower them to do that
+when they have had trouble just managing just basic needs of
+running a country, you know, previous to all the cyber issues
+that we had?
+General Alexander. So that's more difficult. I think there
+are some countries that you can help right off the bat, and I
+encourage our government to work with those that they can help
+protect. You can see a live fire, in terms of cyber going on in
+the Middle East. Partnering with the Middle East to help solve
+that is going to be extremely important. The same in Asia; we
+are seeing a lot of attacks. And in Eastern Europe.
+Each of those have different groups. I was in a discussion
+with some of the folks from NATO a couple days ago. Doing a
+common defense with NATO and helping them set a standard would
+lighten our load, increase what they could do, and bring that
+collective body together as well.
+Mr. Veasey. And Secretary Johnson, I wanted to ask you, you
+said in your comments earlier that you think that there
+should--if you had your way, that you would have, in businesses
+and governmental entities, have some sort of minimal standards
+when it comes to protecting their cyber.
+I wanted to ask you about the cost to that. Do you think
+that, in order for smaller or midsized businesses, and even
+smaller municipalities, to be able to really put the
+protections in place that they need--like, how much money would
+something like that run a smaller entity?
+That could certainly be maybe a softer target, it wouldn't
+be as large of a target as a large city, but could certainly be
+a softer target. Like, what sort of resources would they need
+to bring to the table in order to meet those minimal standards?
+Mr. Johnson. Well it depends on the nature of a business
+and the nature of the information it possesses and how it
+conducts business. Without a doubt, encouraging companies,
+either legislatively or otherwise, to embrace best practices
+probably means embracing a certain level of technology.
+But we are all as strong as our weakest link. And so if you
+have a company in a supply chain that invest millions and
+millions of dollars in their own cybersecurity, but they do
+business with a supplier that doesn't, then the big supplier up
+the chain is at risk because they are doing business with
+somebody who doesn't see this as an issue.
+But in my engagements in the private sector, I would
+encourage CEOs to view cybersecurity in the same way they would
+view physical security, the care and custody of their
+customers' intellectual property, and so forth, so that we
+don't view this as simply a side issue that's going to require
+some money.
+It's a basic issue of security. As someone mentioned
+earlier, in many cases it implicates a fiduciary duty that
+someone may have. And so, sure, is it going to be an
+investment? Absolutely. But if you want to be the best at
+something, you have got to make investments in technology.
+Mr. Veasey. Right. And it would be interesting--my time is
+about to expire, and I will just add this at the end--you know,
+it would be interesting to get your comments on, like, as a--
+say a company that supplies a defense contract or a small, you
+know, midsize company that is a supplier--for them to be able
+to meet those same requirements could be much more onerous than
+the defense contractor, for instance. So, just something to
+think about.
+Mr. Chairman, I yield back my time. Thank you.
+The Chairman. Mr. Hice.
+Mr. Hice. Thank you, Mr. Chairman. General Alexander, you
+are--you have made a recommendation to bring the responsibility
+for private sector outreach and the defense community under a
+single authority. Can you elaborate further on that, and why
+that's important?
+General Alexander. Well, I think having unity of effort is
+very important. And right now, everybody's really busy. And I
+look at how hard Homeland Security, with all the things that
+they are doing, Defense Department with what they are doing--
+when I was asked earlier by one of the members why aren't we
+making more progress, and the answer is everybody's busy
+handling a lot of things. Do you appoint somebody and hold them
+accountable for moving this, and going back to Homeland
+Security, and the Defense Department, and Justice to get it
+done?
+I think the answer is yes. And where and how you place that
+entity is where I would get the Secretaries of Defense,
+Homeland Security, and Department of Justice together and say,
+iron it out. I think with Secretary Gates, Secretary Chertoff,
+in their seats back then, another couple of years and I think
+that would have been solved. And now I think what we need to do
+is look at that and say, how do you do that?
+Because there are specific missions. You don't want the
+Defense Department going out and trying to police up all the
+incident response. You don't want them setting standards and
+looking--that's Homeland Security, and they have that, and they
+should do that. You want the Defense Department to defend the
+country. But both of those require for you to see this, and
+have this entire spectrum of cybersecurity visible to all the
+actors. It's not there. And we need to fix that.
+Mr. Hice. I would like to hear the opinion from the other
+gentlemen. Mr. Chertoff.
+Mr. Chertoff. I mean, I agree with General Alexander. I do
+think that there are distinct roles and responsibilities. The
+key is to have clarity about who supports and who's being
+supported in each of those roles.
+Mr. Hice. Okay.
+Mr. Johnson. I agree with that, yes, sir.
+Mr. Hice. So all three of you agree that there ought to be
+a single authority, however that's decided, then? Now, when I
+walked in a little while ago, Secretary Johnson, you were
+touching on this, so I would like to--I will just go to General
+Alexander--regarding how to improve the ability to recruit and
+retain our cyber experts. Do you have any thoughts on that?
+General Alexander. Yes. What we did, Congressman, at Cyber
+Command--we are not going to keep all these guys for a long
+time, but if you can get them to commit for 6 years, and get
+them in training for a year, this would be great for our
+country both in the military, in government, and then in
+industry.
+So I think what the government can do is help train and
+educate a large population, not just for the Defense
+Department, but also for Homeland Security. And part of that
+training could be we will provide your training, you commit to
+a period of time in government.
+And, you know, I really believe that young people should
+serve in government. I really do. And so this is a way to
+incentivize it, and you give them a future, and you help our
+country. That's what I would do. There are many young folks out
+there that can't afford college, but they are built for cyber.
+And we ought to latch on to them.
+Mr. Hice. So what timeframe do you think they ought to be
+able to make a commitment?
+General Alexander. Well, I would go for 6 years, with one
+of those or one and a half being a commitment for education,
+and I would advance the education, similar to what the Defense
+Department does for the joint cyber ops [operations] center--
+school, but I would do that a little bit longer with some of
+the defense and all that, and I would mix them all together.
+And the reason is you want the people that work in
+government to work together.
+Mr. Hice. Okay.
+General Alexander. And so the military and civilian.
+Mr. Hice. I see some head-nodding.
+Mr. Johnson. I would concur with what he said. My message,
+when I was in office, to young people continually was if you
+want to--if you want to go work for The City Group, or Goldman
+Sachs, or J.P. Morgan Chase in cyber, come serve your country
+for a few years and get that benefit of those insights.
+And then the struggle becomes they all are drawn to the,
+you know, perceived ``cool'' agencies, like NSA, and so we have
+to encourage them to want to work in the civilian agencies as
+well.
+Mr. Hice. Okay. Last question. Is the--in your opinion, is
+the Cyber Mission Force adequately sized for the challenges it
+faces? General.
+General Alexander. I think it is right now.
+Mr. Hice. Okay.
+General Alexander. What I would encourage is a set of
+exercises with that force with the rest of government, and
+perhaps key players from industry and Congress, to look at that
+and see the challenges. I think the teams and the construct of
+the teams were right. We have based those on other teams that
+were very successful for our country. So I think it was the
+right thing.
+We were encouraged initially to cut it back. And I said,
+but this is what it takes. And we--40 teams of a certain type
+offensive, 68 defensive teams that would work with--DHS and
+others, and the 25 analytic teams. I still think that's right.
+Mr. Hice. Thank you. Thank you, Mr. Chairman, I yield.
+The Chairman. Mr. Garamendi.
+Mr. Garamendi. First of all, Mr. Chairman, thank you for
+setting up this hearing. It's extremely important and the three
+gentlemen that are testifying have a wealth of wisdom.
+If I might, recently the Department of Homeland Security
+issued a--an alert that Russia had hacked into critical
+civilian infrastructure, gaining access to our power grids,
+power plants, and other industrial plants, and in some
+instances, gaining operational control.
+Is this an act of war? I think that word was used by the
+Department of Homeland Security. If yes, what is the
+appropriate response?
+Mr. Johnson. Congressman, I would characterize what is in
+that statement as a very significant threat to our Nation and
+our national security, but I would not characterize it, in and
+of itself, as an act of war.
+Mr. Chertoff. I agree with that. I mean I think that--and
+it's often difficult to tell when you find malware in a
+network, what the purpose of it is. And often it has multiple
+purposes.
+You know the--it could be at one level, reconnaissance. It
+could be deterrence in the sense of a way of signaling to the
+U.S., look what we can do and, therefore, if you mess with us
+we are going to do this. Or it could be prepositioning
+something for an attack, or all three of those.
+But I would agree with Secretary Johnson that positioning
+is not the same thing as actually carrying out an act of war.
+Now, if you shut the lights off and there was a serious loss of
+life, then we are getting into territory----
+Mr. Garamendi. Well, they did shut down a reservoir, if I
+recall correctly.
+Let me just move on. So, it's not an act of war. That
+brings us to the rules of engagement, doesn't it, and to the
+definition thereof. We are not going to get to that today, but
+both of you--all of you have said this is critically important.
+General Alexander, you have danced around this issue of
+being able to comprehend when an attack is underway, and to be
+able to act. You haven't been specific about that. If you would
+take a moment or two to discuss that, and then my final
+question is, we have an annual exercise with CYBERCOM working
+with DHS and so forth.
+Let me just--I am going to hold General Alexander my
+question. Do you all want to stay with this other question I
+had.
+So that annual exercise would seem to be exactly what this
+Russian intervention--we won't call it an act of war, but
+intervention into our critical grids, was designed to deal
+with.
+So what comes of this? Should we not be using the
+techniques that come from that annual exercise to deal with
+this Russian hacking into these grids?
+General Alexander. Sir, I think the issue for them hacking
+into this grid is they are trying to gain insights into the
+operations of our network for future use. I agree with what
+Secretary Chertoff said. I don't think this is an act of war. I
+think it's an act of intelligence gathering and positioning for
+future conflict.
+What it does show you is that we have to have visibility of
+those types of attacks. So you asked specifically, what does
+that mean? And I will give you an example.
+If you look at what happened to Saudi Aramco, the
+destructive attack into Saudi Aramco with a wiper virus
+actually went on for about 2 months. No one had insights into
+that because nobody's looking at Saudi Aramco. And our
+government cannot see today actively what is going against our
+energy sector.
+The energy sector actually has been the great--the best to
+work with in this area. They are pushing to really step that
+up. I think their--their strategic infrastructure, coordinating
+council and things that they put forward is exactly right. But
+it needs to go to the next step. How do you get that data up to
+government so you can build that picture so you can see Russia
+coming in.
+And the answer is you don't see that. NSA doesn't see it,
+CYBERCOM doesn't see it, DHS doesn't see it. So what happens is
+they are getting hit, they are--they don't have the ability to
+share it. They don't know they are getting hit or they would
+have stopped it. So our common operating picture, it's like
+it's free for them to get in. We have to build the system up
+and make that visible.
+Mr. Garamendi. We are going to write the National Defense
+Authorization Act in the next 2 months. What should be written
+into that to deal with this precise problem?
+Mr. Alexander. Well, I think it's to build a common
+operating picture and sharing. I would emphasize that the CISA
+Act of 2015 and take it to the next step and say--and encourage
+companies and government to work together and to train and
+practice so that--I would look at this as strategic
+infrastructure coordinating council and encourage councils like
+that, where you bring industry into government to share this
+information is exactly right.
+That puts CEOs in the seat.
+Mr. Garamendi. You used the word encourage.
+General Alexander. Strongly. I don't know what you can do
+with industry, but you know----
+Mr. Garamendi. Encourage them hard.
+General Alexander. I think--I don't know that you need to
+mandate it, because I do believe they are sitting forward. They
+want help. They want the government to help them. They know
+they can't defend against a nation-state. And they know that--
+especially in the energy sector, they are critical to the
+future of this country.
+Mr. Garamendi. I am well over my time. I will yield back,
+but I would love to have you gentlemen help us write that
+encouragement.
+The Chairman. Ms. Hartzler.
+Mrs. Hartzler. Thank you, gentlemen. I appreciate your
+expertise and insights on this really critical issue. The
+Missouri National Guard was the first State to fully staff a
+National Guard computer network defense team to respond to
+cyber threats and attacks. And this unit, located at Jefferson
+Barracks in St. Louis, is consistently sought out to train both
+National Guard forces across the country as well as Active
+Duty.
+These National Guard members are in a unique position
+because they can utilize their civilian roles, training, and
+expertise into their military cybersecurity roles. And I think
+we can all agree that the private sector moves faster with
+technological innovation so by using citizen soldiers, we can
+leverage new ways of thinking into the military. So what do you
+think should be the force structure of Active Duty, Reserve,
+and National Guard cyber warriors? I am not sure who wants to
+start off.
+General Alexander. So actually, you have hit on it. When--
+at Cyber Command, we encouraged, and we had several States set
+up National Guard with cyber forces--Delaware, Mississippi,
+Washington, and others for just that reason. I think that is an
+exceptional way and you hit all the key points. There are great
+people in the commercial sector who want to help the government
+but they don't want to sacrifice the--the pay.
+So they can do both and they do--and there are great people
+there. I think that's exactly the way to go. The issue that
+will come up is now how do we bring those all together for the
+common defense, as things go from peacetime to crisis to war,
+something that we need to look at.
+Mrs. Hartzler. And I think you mentioned as well that they
+are--you support training them and then having a 6-year
+requirement. In a way, this kind of fulfills that a little bit.
+We train you and then you can go out in the private sector, but
+then come in on the weekends and you bring your expertise and
+to address things and be called up when needed. Secretary
+Chertoff.
+Mr. Chertoff. Yes. I was going to say, I think that it is a
+little bit like the ROTC [Reserve Officer Training Corps]. I
+think that's a great idea. I mean, these days, we are looking
+to train people for the 21st century skills. If you bring them
+in and you train and they make a commitment to serve Active for
+a period of time and then they work in the National Guard,
+that's a win-win for everybody.
+There are two other advantages. One is the relationships
+that are built wind up, you know, going on beyond the actual
+term of service. And one of the things I learned in law
+enforcement was a lot of the sharing and a lot of the
+coordination comes from personal relationships. And secondly,
+in terms of a common language and a common approach, it gives
+you a baseline commonality.
+So I mean, I--if you were going to do something relatively
+dramatic, I think having an ROTC-type program to train and get
+service in this area would actually be a real benefit.
+Mrs. Hartzler. Makes sense. When I visited this unit, even
+though it's not in my district, I was so impressed. Several of
+them said we are in charge of security for Fortune 500
+companies. And we see things during the week. And we are saying
+oh my goodness, we need to come--when we come back on--on our
+Active Duty assignment and apply those things to protect our
+Nation. So it makes sense to me. Mr. Johnson, did you--were you
+wanting to add something there?
+Mr. Johnson. No, I endorse everything that's been said.
+Mrs. Hartzler. Oh, good. I wanted to go back, General
+Alexander, to something you said that piqued my attention in
+your testimony. And then just recently, as you were talking
+about integration of infrastructure. And I understand this
+isn't quite the same. But there's a lot of discussion about the
+DOD's contract and building the cloud and whether it should be
+one cloud or whether there should be multiple clouds that we
+would use. Do you have an opinion on that?
+General Alexander. Well, I think in any instance, a cloud
+provider is going to have multiple instances. And so I would
+look for multiple instances for resilience. And no matter which
+one you choose and how you choose it, that means you don't put
+all your eggs in one facility. So when you think about the
+cloud, they build up a huge set of capabilities in a facility
+and then they build multiple facilities to give you that
+resilience.
+I would look at the facilities, the resilience. And there
+are tremendous companies out there doing cloud capabilities and
+that's growing. I think that's part of the future, especially
+for mobile communication.
+Mrs. Hartzler. Okay. And the last question. Switching gears
+a little bit. What are we doing to mitigate the exfiltration of
+massive amounts of unclassified data from our cleared defense
+contractors? And is it working? And what would you do
+differently to protect this data? Who's going to take that?
+General Alexander. Well, I worked with the defense
+industrial base [DIB]. And great people. I would pull them
+together into an integrated infrastructure, call it a DIB
+infrastructure that works together so you can see what nations
+are going after defense information or related information,
+encourage those. We actually ran that. When you were the
+general counsel, we would call the defense industrial base
+working group.
+We didn't go into it to that level, but I would build that
+up analogous to the way we recommended doing the same thing for
+small and midsize agencies, I would do that and offer that the
+DIB as part of the way of them bringing in. So beyond FedRAMP
+[Federal Risk and Authorization Management Program], which is
+the standards that they have to achieve in cybersecurity, I
+would go for a collective security approach.
+Mrs. Hartzler. Thank you. Yield back.
+The Chairman. Mr. Gallego.
+Mr. Gallego. Thank you, Mr. Chair. Kind of attaching some
+questions onto my good friend from Missouri, you know, and
+talking to some of my friends, we have to--we have a dearth of
+actual capable cyber warriors. And I had some friends that I
+served with in the war that actually came out and created and
+went through all these different programs to actually retrain
+them to being quote, unquote ``cyber warriors.'' I have heard
+criticisms from colleges and universities that these programs
+are too staid and too static to adequately train students for
+the real world threats that are always changing.
+So do you, one, see the quality and quantity of
+cybersecurity graduates as a problem? Number two, if so, what
+can be done to improve the dynamism and efficacy of
+cybersecurity education currently right now through our public
+and private schools or any other methods. We need to start from
+left to right.
+Mr. Johnson. Well, I have to say I have been impressed
+recently when I've visited colleges and universities at the
+level of interest in a cybersecurity education. And very often
+there's also an interest in serving in national security in
+cybersecurity. It doesn't surprise me that you you have heard
+some of the concerns that have been expressed because really of
+the newness of the topic.
+And so there probably needs to be a concerted effort at who
+are the educators because this is rather new generation
+phenomenon, so a lot of interesting stuff----
+Mr. Gallego. And who is going to be providing the
+curriculum also. I know the educators are important, but also
+sometimes the educators are behind the eight ball when it comes
+to curriculum.
+Mr. Johnson. Correct. Right. I agree with that.
+General Alexander. So let me just add. DHS and NSA actually
+have a joint venture to work with colleges to set up a level of
+curriculum. So I think that's a great starting point. More
+importantly, look at the change in technology. It's doubling
+every 2 years. That means half of what kids learn in their
+freshman year is outdated by their junior year.
+So we are training people for technology that doesn't
+exist, hence the problem that you bring up. Using applications
+that haven't been created. And so what that means is we now
+need to teach people how to learn, not just what to learn. And
+that's got to be part of this whole process and that's what I
+think you are actually getting to.
+Mr. Chertoff. I would agree to that. I think a critical
+point is what you are doing is training people how to train
+themselves and that way can be a continuous process because
+it's not going to be like most subjects where you learn it and
+then it remains current. It's going to change very very
+quickly.
+Mr. Gallego. In many of the universities that I visited or
+even community colleges there is usually like a corporate
+advisory board just basically that meets with the professors
+and with the educators who create a curriculum that is always
+staying up to date with whatever changes. Not to just
+obviously, cybersecurity or technology, but whatever field that
+they are working on.
+What is our equivalent in our government to that? Is there
+a working group of both national leaders, defense leaders, as
+well as private sector leaders that are helping--who are
+helping our educators, whether it's community colleges or
+universities, keep up to date the curriculum? I know we kind of
+hit on that, but is there an actual formalized structure for
+this kind of interaction?
+General Alexander. So they actually do that between DHS and
+NSA, and now Cyber Command. They update that curriculum all the
+time and it's on the web so you can actually go to the
+information assurance director dot-gov I think is the IAD
+[Information Assurance Directorate]. And I think DHS has the
+same one. And it lays out all the standards and they update
+that continuously.
+Mr. Gallego. And then is the private sector at all involved
+in this curriculum--making of this curriculum?
+General Alexander. Well to the extent that they reach out,
+but they aren't part of the accreditation process.
+Mr. Gallego. Right
+General Alexander. I believe they provide input from both
+DHS and NSA.
+Mr. Gallego. Understood. Thank you. I yield back.
+The Chairman. Mr. Bacon.
+Mr. Bacon. Thank you, Mr. Chairman and I want to thank all
+three for your service and your leadership. Appreciate you
+being here. I have a few questions for General Alexander, and
+if time permits, one for the whole panel.
+First of all, for General Alexander, right now we have one
+four-star for NSA, Cyber Command, and the two deputies, the
+three-stars, sort of run those organizations. But that provides
+us cohesion, unity of command, but yet I know there's proposals
+to provide two different four-stars, one for each NSA and Cyber
+Command.
+And I fear that that will pull those teams apart, because I
+know and you know--I am a cyber and SIGINT [signals
+intelligence] guy by trade as well--that our intelligence seems
+to be closely linked with our offensive and defensive
+capabilities. I would like to know, where do you fall on this,
+and where are we at with this discussion?
+General Alexander. Well, I--I actually believe you have to
+have unity of command. If the decision is made that it's too
+big for one person, and then you put two four-stars, you then
+have to put somebody over top of both of them.
+Mr. Bacon. Absolutely.
+General Alexander. Between them and the Secretary [of
+Defense] and the DNI, and so that creates additional
+infrastructure.
+So before we do that, I would encourage us to look at how
+we are going to fight in cyberspace, and the roles and missions
+of both NSA for reconnaissance and Cyber Command for military
+actions. And NSA may have responsibility in covert actions----
+Mr. Bacon. Yes.
+General Alexander. So you have this nesting. I think I
+would look towards unifying versus diversifying those
+capabilities.
+Mr. Bacon. My experience is the same. I just know there's
+proposals here to do that, to separate it, and I think it would
+be damaging to the cyber mission, because the intelligence
+portions of this are so closely linked to our offensive and
+defensive, you can't have two four-stars with two different
+priorities and keep those teams cohesive. So I just wanted to
+make that point, and I appreciate that you feel the same way.
+On the cyber mission teams, are we fully operational, or
+initial operational? Where are we at?
+General Alexander. Well, so I am a bit dated. I have talked
+to Admiral Rogers, and they have made great progress. My
+understanding is they are, in most of them, fully operational-
+capable, but I am not sure how many of the 40 are at the level
+and where they have tested them.
+So I know we were making progress 4 years ago. I have not
+kept up specifically on that. I do think this will get back
+to--now we have another group that we are going to be training,
+and always going through, so I don't know the answer to that.
+Mr. Bacon. Okay, thank you. One more question, and then I
+have got one for the panel. I think you talked about the right
+to self defense? Let me just play on that a little bit. I
+think, if we are only defensive--if we play defensive only, it
+doesn't serve deterrence well, and I think it makes us more of
+a punching bag.
+I think we do need to have some--to practice some of our
+offensive muscles, mainly to serve as deterrence and make
+attacks on us less often. Are we doing enough in the offensive
+realm to show, hey, when you attack us, you are vulnerable for
+a counterstrike?
+Where do you all--and I'll open it up for anybody, if you
+feel like we are in this--in the right spot here.
+Mr. Johnson. Congressman, as long as our intelligence
+chiefs tell us that certain nation-states are continuing to
+engage in bad behavior against us in cyberspace, then we--then
+the answer is no, we are not doing enough, obviously.
+And nation-states, whether they are communist regimes,
+dictatorships, monarchies, all behave a certain way. They all
+decline to engage in behavior that is cost-prohibitive if there
+is a sufficient deterrent in place.
+And to go back to what you said earlier, I believe that
+components of an effective defense can also include offense.
+Mr. Bacon. All right. Yes, go ahead, sir.
+Mr. Chertoff. Yes, I would, I would agree. I would say
+there are two elements in deterrence. Deterrence by denial,
+which means we raise the barrier to doing something, and
+deterrence by response. We have done some things, particularly
+lately, that are a little more responsive, but as we see bad
+behavior we may need to dial that up a little bit.
+And the one thing I want to just be careful about is not to
+treat the issues about information operations as the same thing
+as cyberattacks----
+Mr. Bacon. Right.
+Mr. Chertoff. Because that raises a whole set of
+complicated issues.
+Mr. Bacon. Intelligence versus offensive is----
+Mr. Chertoff. Correct.
+Mr. Bacon. Totally two different things, and reconnaissance
+has a long history of being not a combat operation, so I
+totally agree. And it's my feeling, too, that we are not
+showing enough teeth or offensive muscle and it doesn't serve
+deterrence well. It makes us more vulnerable to the other
+nations' attacks. One last question. And this gets to some of
+the earlier questions on the energy grid.
+I am deeply alarmed by it. I think we are vulnerable to the
+next December 7th not being airplanes and torpedoes, but
+rolling blackouts and--and havoc in our society. Are we doing
+enough to build resilience in the defensive realm to protect
+our energy grid? And I realize that is more of a homeland
+security perspective.
+Mr. Johnson. I have been impressed that certainly larger
+entities and public utilities recognize their vulnerabilities
+and the risk and are doing a fair amount. Again, I come back to
+the importance of information sharing about threat streams. And
+no matter how sophisticated you are, you can always benefit
+from more information, the larger picture at work.
+And that's where I think we need to continue to focus and
+where I think Congress should continue to encourage the private
+and public sectors to work together and share information.
+Mr. Gaetz. Thank you, Mr. Secretary. I am out of time, so I
+yield back. Thank you.
+The Chairman. Mr. Panetta.
+Mr. Panetta. Thank you, Mr. Chairman and thanks to the
+three gentlemen who are here today. I appreciate you being here
+as well as, of course, your stellar service, so thank you very
+much. Clearly cyberattacks are one of the main tools of what
+has been termed lately as guerrilla geopolitics, and what are
+being used more and more by the revisionist powers that we are
+hearing about.
+You today have done a good job saying what is not an act of
+war. And Mr. Chertoff, you started to get to the point in--in
+Mr. Garamendi's questioning about shutting off the lights,
+significant loss of life. Could the three of you please give me
+further examples--in your opinion, obviously, of what you would
+feel would qualify as an act of war using this tool?
+Mr. Johnson. Congressman, any cyberattack that has kinetic
+effects--physical destruction, death, physical injury--in my
+judgment would constitute an act of war.
+Mr. Chertoff. I agree with and I--what I would emphasize is
+this. It's effects based. It's not based on the particular
+tool. Whether you are dropping a bomb or you are--you are
+sending something over a network, if you are killing people,
+that's an act of war.
+Mr. Johnson. For example, we look at chemical weapons and
+we measure the impact by the effects that chemical weapons
+have, then we see the images. So I think you have to focus on
+the effects.
+Mr. Panetta. Understood.
+General Alexander. I would add in intent. So there I
+believe you are going to see some countries who push out
+something--and we have seen this already here in our country,
+where the attack was going against a different--but the malware
+hit our country and hit some of our industry. The intent wasn't
+to hit us. It was the collateral damage, not an act of war, but
+something that they should be held accountable for. I do think
+so.
+If they have the intent to do us harm and they have the
+kinetic effects to go with it, I believe that's an act of war.
+Mr. Panetta. And if the means were solely done through
+cyber, should the response be solely done through cyber?
+Mr. Johnson. As a legal matter, the answer is not
+necessarily. There--there is no legal requirement for a
+response in kind.
+General Alexander. Yes. And I--I agree. I think you want to
+hold all the elements of power and give the administration the
+authority to use them all.
+Mr. Chertoff. I also agree.
+Mr. Panetta. Good. Good. And are--I would imagine the three
+of you are familiar with the Tallinn Manual 2.0. Would you feel
+that this is--that basically that the principles that are
+articulated in this under international law, are they
+effective?
+Mr. Chertoff. It depends what you mean by effective. I
+think that international law and law of armed conflict ought to
+apply against cyber as well as kinetic. Whether people are
+observing them is a different issue. Where the challenger
+becomes, it's easier to mask what you are doing in cyberspace,
+generally, than what you are doing in the physical space.
+So you get a lot of denial and deniability, which is why
+ultimately, enforcing the rules comes back to the level of
+certainty you need to have with attribution. The value of this,
+though, is--particularly with respect to our allies--and I have
+had discussions with them about this. If they agree with us
+that there's a violation of international law by what another
+country does, then they are prepared to take countermeasures
+that would be more vigorous than if they viewed it as not being
+a violation of law of armed conflict.
+Mr. Panetta. Would you agree? Great. And Mr. Johnson.
+Mr. Johnson. The one legal issue that I think deserves a
+lot of attention in this area are the principles around
+neutrality. We talked about this earlier and Mike talked about
+this earlier, where there's a nation-state that is doing
+something directed at us, originating from a neutral country.
+And the current principles, frankly, are insufficient to deal
+with this problem.
+And it's something that we confronted time and again at
+DOD, and I am acquainted with at DHS. And so I think that more
+thinking needs to be put into what do you deal with when an
+attack is originating from or working its way through a neutral
+country. How do you deal with that?
+Mr. Panetta. Got it. Got it. Gentlemen, thank you. I yield
+back. Mr. Chairman, thank you.
+Ms. Stefanik. Mr. Carbajal.
+Mr. Carbajal. Thank you, Madam Chair. Enemies that wish to
+destabilize our democracy have found a new frontier that I
+believe we are not adequately prepared for. And as you have
+touched on in your testimony. Today, I am interested in the
+role of the National Guard in response to a potential
+cyberattack. As a military asset with dual State and Federal
+roles, I believe they have a critical role to play in
+protecting our Nation's critical infrastructure.
+If a cyberattack were to shut down critical infrastructure
+sectors such as the electrical grid, water, banking or
+transportation systems in California, an interagency response
+would be necessary. Law enforcement, first responders, owners
+of infrastructure sectors, the National Guard, and other
+Federal and State entities must have an integrated response and
+know how to work together. This requires us to train in a more
+integrated environment.
+In this regard, I believe there is a significant training
+gap. Currently, there are no local programs in place that I am
+aware of for cyber network defense teams to receive continuous
+training to defend the Department of Defense information
+networks while exercising their defense capabilities in a State
+environment. Army cyber protection teams currently report to
+Fort Meade to receiving training in their title 10 mission.
+But they still lack training relative to defending critical
+infrastructure. In California, the National Guard has embarked
+on a collaborative multiagency cybersecurity training effort
+that provides an environment specifically created for
+integrated training, allowing them to exercise their defense
+capabilities in both a Federal and State environment. Now, I
+know you have touched on this already, but I am hoping that you
+could elaborate on it a little bit more.
+What are your thoughts on the need to expand integrated
+training efforts, including interagency cyber training
+facilities?
+General Alexander. So I think we absolutely need to do it.
+And you bring out some good points in terms of what are the
+roles and responsibilities at the State level, what are the
+roles and responsibility at the Federal level, and how do you
+connect those two? And then how do you build both the bridges
+to the private sector? And all of that has to work seamlessly
+together.
+I think it's about training. I think, first and foremost,
+we have to come up with a vision of how we are going to defend
+this country in cyberspace and get everybody to agree. That's
+part of that common operating picture.
+With that picture, then, the second question that you just
+posed is, so, what is the role of State and National Guard and
+other forces in helping to accomplish that mission? How far can
+they go? Because what you don't want is States that
+independently attack back, you want them to defend. Or if they
+are going to attack, to be part of the Federal--the national
+response, not individual.
+So we have to ensure that all that is bound together. And
+that is a tremendous training requirement, from my perspective.
+Mr. Johnson. I agree with everything General Alexander
+said.
+Mr. Chertoff. I would add one thing. I would like the
+training to include not only defending, but the ability to
+recover when something goes down, as we do in the area of
+training the National Guard when we have a natural disaster.
+Mr. Carbajal. Thank you. And a follow-up question. I know
+this has been touched on as well today. Cybersecurity is such
+of a--a complicated issue. And you touched on earlier about
+threats emanating from neutral areas, or neutral countries.
+How--how difficult is it to pinpoint the origination of the
+attack? Is it 100 percent of the time, we ultimately get to
+that source? Or sometimes we never get to that source? What is
+the percentage success rate, that we are aware, in pinpointing
+the actual threats? Because that leads to attacking, or
+counterattacking, somebody who may or may not be the original
+source.
+Mr. Johnson. In my observation, it's often the case that we
+can identify where the attack is originating from, what
+platform, but then the challenge becomes: Who's pulling the
+strings? Who's ultimately responsible, and who's ultimately
+orchestrating the attack? And I am sure the other two witnesses
+will have views on that as well.
+General Alexander. I actually agree, and Secretary Chertoff
+brought some of those same points out earlier, that you can see
+where it starts from, so it might start in Russia, but Russia
+could say--Russian government could say, ``That's not us,
+that's a hacker, he is outside.''
+Having said that, the problem that our companies would have
+in the National Guard and others is they can see the last point
+coming to them. What they can't do is see all the other points
+leading back to Russia. That's where your national intelligence
+system has to work, and it goes back to Mr. Bacon's question.
+You need to have the ability to see that whole threat and then
+respond, title 10 and title 50, integrated.
+And so I think that's going to be the key for our country.
+Mr. Carbajal. Thank you very much. I yield back, Mr. Chair.
+Ms. Stefanik. Thank you. That concludes our member
+questions. I want to thank the three witnesses here today for
+sharing your policy expertise and your recommendations as we
+move forward.
+Just as an announcement, the Emerging Threats and
+Capabilities Subcommittee, which I chair, is having our cyber
+posture hearing at 3:30 p.m. with Admiral Rogers and Assistant
+Secretary Ken Rapuano to continue this conversation.
+Thank you very much for your service to our Nation, and
+this hearing is adjourned.
+[Whereupon, at 11:55 a.m., the subcommittee was adjourned.]
+=======================================================================
+A P P E N D I X
+April 11, 2018
+=======================================================================
+PREPARED STATEMENTS SUBMITTED FOR THE RECORD
+April 11, 2018
+=======================================================================
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+=======================================================================
+QUESTIONS SUBMITTED BY MEMBERS POST HEARING
+April 11, 2018
+=======================================================================
+QUESTIONS SUBMITTED BY MS. ROSEN
+Ms. Rosen. As we form public-private partnerships between DOD and
+industry, I'm worried about protecting the integrity of systems and the
+integrity of user data. As DOD moves to the cloud, what are the
+implications regarding public-private partnerships? How do we ensure
+that we have parallels and redundancies to protect systems and users?
+Who owns the proprietary information? If not the U.S. Government, how
+do we ensure that the owner will do their due diligence in safeguarding
+systems and user information? What happens to data when businesses
+close or technology is replaced? Is data destroyed when it's no longer
+used?
+Mr. Chertoff. The vast majority of the DOD's work with industry
+comes in the form of traditional procurements, which are subject to a
+myriad of information security requirements that dictate how government
+data is secured, handled, processed, retained, and managed within
+systems provided by industry partners. These requirements are included
+in all DOD contracts and procurements and are also included in programs
+such as FedRAMP, which is designed to streamline certification of
+commercial offerings for use in Federal IT environments. All of DOD's
+baseline requirements are managed by the Defense Information Systems
+Agency (DISA) and some procurements may have additional requirements
+dictated by the individual service, command, or component within DOD.
+Under these agreements, all government data remains the property of the
+U.S. government and is subject to the handling requirements set forth
+by DOD. This includes data retention and destruction policies, which
+providers are contractually obligated to comply with. These
+requirements may vary widely depending on the needs of the particular
+component, the type of data, and the level of sensitivity. It is the
+responsibility of DOD to ensure that its vendors meet these
+requirements through code reviews, audits, and other means of
+oversight. Failure to comply with these requirements can result in
+civil and criminal penalties for both the vendor and its
+representatives. At present, all these requirements also apply to
+vendors offering cloud services to DOD, though there are efforts
+underway to streamline some of these requirements and adapt them to the
+realities of cloud environments, which are free of many of the
+constraints of traditional IT infrastructure. The largest ongoing DOD
+Cloud procurement, the Joint Enterprise Defense Infrastructure Contract
+(JEDI), is subject to these requirements, though DOD has pledged to
+work with the eventual awardee to identify erroneous requirements to
+speed and streamline adoption. In my view, this is the correct course
+of action--Cloud environments offer new approaches to security that can
+enhance data security while allowing for a more flexible and efficient
+infrastructure. These approaches, such as attribute-based security
+controls, are promising ways to enhance security and efficiency within
+its IT enterprise. DOD Cloud contracts also require some level of
+redundancy for cloud services, generally expressed with uptime
+requirements (99.99999%, for example) and/or requirements regarding the
+number and location of data centers, remote storage sites, and hybrid-
+cloud technologies that can help to ensure the underlying system
+remains available. That said many large Cloud providers have
+experienced at least partial outages within their private-sector cloud
+environments, emphasizing the need for redundancy and resilience in any
+cloud offering that might underpin DOD operations. To that end, many
+companies in the private sector utilize what is referred to as a
+``multi-cloud'' environment, which leverages the cloud services of
+multiple vendors to help ensure that the company's cloud-based IT
+enterprise remains available even when a single cloud vendor
+experiences an outage. I think it also worth noting that most major
+cloud vendors offer government-specific clouds separate from their
+private sector clouds. These environments are built on separate
+infrastructure designed to ensure that sensitive government data is not
+comingled with data from the private sector. In fact, several cloud
+providers have built cloud computing offerings specific to various
+levels of classified environments for DOD and the Intelligence
+Community and include additional safeguards and protections as required
+by those organizations for the storage and handling of classified
+information. Beyond traditional procurements, DOD utilizes pilot
+programs, research agreements, and specialized programs such as Defense
+Innovation Unit Experimental (DIUx) to work with technology start-ups,
+labs, academic institutions, and even established technology providers
+to identify and develop technologies that meet the unique needs of DOD
+and its components. Agreements with these entities can sometimes
+resemble traditional procurements, subjecting the partner to many of
+the same IT security requirements. In instances where the intent is for
+the partner to demonstrate and develop a particular technology these
+requirements are generally less stringent, intended to allow the
+partner to first build-out and prove a technology before it is
+incorporated into the broader DOD environment and thus become subject
+to the department's stringent requirements. In such a development
+environment the data being leveraged is non-production data, that is,
+data that is either scrubbed clean of any sensitive or identifying
+information or a dummy dataset that resembles an actual dataset but is
+created artificially for development purposes.
+Ms. Rosen. As we form public-private partnerships between DOD and
+industry, I'm worried about protecting the integrity of systems and the
+integrity of user data. As DOD moves to the cloud, what are the
+implications regarding public-private partnerships? How do we ensure
+that we have parallels and redundancies to protect systems and users?
+Who owns the proprietary information? If not the U.S. Government, how
+do we ensure that the owner will do their due diligence in safeguarding
+systems and user information? What happens to data when businesses
+close or technology is replaced? Is data destroyed when it's no longer
+used?
+General Alexander. The questions you raise about the cloud and
+relevant public-private partnerships are important ones. I am a strong
+believer in the notion that cloud-based systems are inherently more
+secure and more survivable than classic on-premises systems. At the
+same time, it is critically important that in implementing the move to
+the cloud, the government puts in place provisions, in partnership with
+key cloud providers, for ensuring redundancy of systems and the backup
+and availability of data, particularly for mission-critical systems.
+Similarly, the government can and should expect cloud providers to
+provide assurances regarding the safeguarding of systems, user
+information, and critical data; it should also make clear--in
+contractually binding language--what it expects to be done when data is
+no longer being used, when business closed or are acquired, or when
+domestic firms come under significant foreign influence. If the
+government is the buyer, it has every right to set clear and fair
+conditions on what it buys. These conditions should be vendor- and
+technology-neutral, but, if put in place should leverage the carrot of
+Congress's purchasing power. Either along or accompanied by Congress's
+provision of economic incentives to encourage the development of
+government-level security, such conditions can incentivize the creation
+of a more robust cybersecurity environment generally. As a large
+economic actor--and a key buyer of cybersecurity goods and services--
+the government has outsized influence on vendors, influence that can
+reasonably be used to achieve such larger goals of creating a more
+cyber-secure environment for government and industry alike. A good
+example of this recently was CIA's work with Amazon to create the
+secure C2S cloud environment. The outgrowths of this capability are
+making public and private systems with highly sensitive data more
+secure and resilient. Likewise, the government can and should work with
+a broad array of vendors in order to find the most capable players in
+this area and to align these capabilities with government needs on a
+going-forward basis. Pivoting to cloud makes good sense from a security
+and resilience perspective and the government should not step back from
+this effort simply because of issues that can and should be reasonably
+addressed by industry as part of the government purchasing process.
+Ms. Rosen. As we form public-private partnerships between DOD and
+industry, I'm worried about protecting the integrity of systems and the
+integrity of user data. As DOD moves to the cloud, what are the
+implications regarding public-private partnerships? How do we ensure
+that we have parallels and redundancies to protect systems and users?
+Who owns the proprietary information? If not the U.S. Government, how
+do we ensure that the owner will do their due diligence in safeguarding
+systems and user information? What happens to data when businesses
+close or technology is replaced? Is data destroyed when it's no longer
+used?
+Mr. Johnson. The following response is on my own behalf, and not on
+behalf of my law firm or any of its clients. To formulate this
+response, I consulted cybersecurity experts I know and trust. As the
+QFR notes, DOD has determined to move toward a public cloud-based
+solution for the storage of its data, classified and unclassified. DOD
+recognizes that its thousands of current networks and data centers is
+not a best practice, and is disadvantageous for DOD and the taxpayers.
+I appreciate DOD's cautious two-phase approach to the issue, beginning
+with a tailored acquisition process. To be sure, there are both risks
+and opportunities for DOD associated with moving toward a public cloud.
+However, the risks can be minimized and opportunities maximized through
+the careful negotiation of a contract with the cloud provider, and such
+a contract should be designed to address many of the concerns reflected
+in the QFR. Contract provisions should include at least the following:
+(1) enhancement of the cloud's security capabilities and the
+sharing of classified threat information with the appropriate personnel
+of the cloud provider; (2) appropriate protocols for incident
+notification to DOD and response; (3) the ability of DOD to directly
+detect and address any malicious activity around its stored data in the
+cloud; (4) appropriate redundancies to protect data systems and users;
+(5) an acknowledgement that DOD data remains the property of DOD; (6) a
+provision to protect DOD data and interests in the event the cloud
+provider closes or is replaced; and (7) adherence by the cloud provider
+to U.S. government and DOD standards for the retention and destruction
+of data.
+[all]

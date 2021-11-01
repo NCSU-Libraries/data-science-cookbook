@@ -1,0 +1,1451 @@
+- STATE OF PLAY: FEDERAL IT IN 2018
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+STATE OF PLAY: FEDERAL IT IN 2018
+=======================================================================
+JOINT HEARING
+BEFORE THE
+SUBCOMMITTEE ON
+INFORMATION TECHNOLOGY
+AND THE
+SUBCOMMITTEE ON
+GOVERNMENT OPERATIONS
+OF THE
+COMMITTEE ON OVERSIGHT
+AND GOVERNMENT REFORM
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+MARCH 14, 2018
+__________
+Serial No. 115-75
+__________
+Printed for the use of the Committee on Oversight and Government Reform
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://www.fdsys.gov
+http://oversight.house.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+31-105 PDF
+WASHINGTON : 2018
+Committee on Oversight and Government Reform
+Trey Gowdy, South Carolina, Chairman
+John J. Duncan, Jr., Tennessee
+Elijah E. Cummings, Maryland,
+Darrell E. Issa, California
+Ranking Minority Member
+Jim Jordan, Ohio
+Carolyn B. Maloney, New York
+Mark Sanford, South Carolina
+Eleanor Holmes Norton, District of
+Justin Amash, Michigan
+Columbia
+Paul A. Gosar, Arizona
+Wm. Lacy Clay, Missouri
+Scott DesJarlais, Tennessee
+Stephen F. Lynch, Massachusetts
+Blake Farenthold, Texas
+Jim Cooper, Tennessee
+Virginia Foxx, North Carolina
+Gerald E. Connolly, Virginia
+Thomas Massie, Kentucky
+Robin L. Kelly, Illinois
+Mark Meadows, North Carolina
+Brenda L. Lawrence, Michigan
+Ron DeSantis, Florida
+Bonnie Watson Coleman, New Jersey
+Dennis A. Ross, Florida
+Raja Krishnamoorthi, Illinois
+Mark Walker, North Carolina
+Jamie Raskin, Maryland
+Rod Blum, Iowa
+Jimmy Gomez, Maryland
+Jody B. Hice, Georgia
+Peter Welch, Vermont
+Steve Russell, Oklahoma
+Matt Cartwright, Pennsylvania
+Glenn Grothman, Wisconsin
+Mark DeSaulnier, California
+Will Hurd, Texas
+Stacey E. Plaskett, Virgin Islands
+Gary J. Palmer, Alabama
+John P. Sarbanes, Maryland
+James Comer, Kentucky
+Paul Mitchell, Michigan
+Greg Gianforte, Montana
+Sheria Clarke, Staff Director
+William McKenna, General Counsel
+Meghan Green, Counsel
+Troy Stock, Information Technology Subcommittee Staff Director
+Julie Dunne, Government Operations Subcommittee Staff Director
+Sharon Casey, Deputy Chief Clerk
+David Rapallo, Minority Staff Director
+Subcommittee on Information Technology
+Will Hurd, Texas, Chairman
+Paul Mitchell, Michigan, Vice Chair
+Robin L. Kelly, Illinois, Ranking
+Darrell E. Issa, California
+Minority Member
+Justin Amash, Michigan
+Jamie Raskin, Maryland
+Steve Russell, Oklahoma
+Stephen F. Lynch, Massachusetts
+Blake Farenthold, Texas
+Gerald E. Connolly, Virginia
+Greg Gianforte, Montana
+Raja Krishnamoorthi, Illinois
+------
+Subcommittee on Government Operations
+Mark Meadows, North Carolina, Chairman
+Jody B. Hice, Georgia, Vice Chair
+Gerald E. Connolly, Virginia,
+Jim Jordan, Ohio
+Ranking Minority Member
+Mark Sanford, South Carolina
+Carolyn B. Maloney, New York
+Thomas Massie, Kentucky
+Eleanor Holmes Norton, District of
+Ron DeSantis, Florida
+Columbia
+Dennis A. Ross, Florida
+Wm. Lacy Clay, Missouri
+Rod Blum, Iowa
+Brenda L. Lawrence, Michigan
+Bonnie Watson Coleman, New Jersey
+C O N T E N T S
+----------
+Page
+Hearing held on March 14, 2018...................................
+1
+WITNESSES
+Mr. David Powner, Director of IT Management Issues, U.S.
+Government Accountability Office
+Oral Statement...............................................
+3
+Written Statement............................................
+6
+The Honorable Margaret Weichert, Deputy Director for Management,
+Office of Management and Budget
+Oral Statement...............................................
+47
+Written Statement............................................
+49
+Mr. Bill Zielinski, Deputy Assistant Commissioner of the IT
+Category, U.S. General Services Administration
+Oral Statement...............................................
+59
+Written Statement............................................
+61
+The Honorable Jeanette Manfra, Assistant Secretary for the Office
+of Cybersecurity and Communications, U.S. Department of
+Homeland Security
+Oral Statement...............................................
+66
+Written Statement............................................
+68
+APPENDIX
+Response from Ms. Weichert, OMB, to Questions for the Record.....
+92
+Response from Mr. Zielinski, GSA, to Questions for the Record....
+94
+STATE OF PLAY: FEDERAL IT IN 2018
+----------
+Wednesday, March 14, 2018
+House of Representatives,
+Subcommittee on Information Technology, joint with
+the Subcommittee on Government Operations,
+Committee on Oversight and Government Reform,
+Washington, D.C.
+The subcommittees met, pursuant to call, at 3:16 p.m., in
+Room 2154, Rayburn House Office Building, Hon. Will Hurd
+[chairman of the Subcommittee on Information Technology]
+presiding.
+Present from the Subcommittee on Information Technology:
+Representatives Hurd, Gianforte, Kelly, and Krishnamoorthi.
+Present from the Subcommittee on Government Operations:
+Representatives Hice, Blum, Connolly, and Maloney.
+Mr. Hurd. The Subcommittee on Information Technology and
+the Subcommittee on Government Operations will come to order.
+And, without objection, the presiding member is authorized
+to declare a recess at any time.
+Good afternoon. Sorry for the wait, but it is Washington,
+D.C. And the House of Congress is the people's House, but
+sometimes we get a little delayed.
+We have had momentum over the last couple years. I think
+this year, or this Congress, with the Federal IT modernization
+effort through the passage of the MGT Act, the Modernizing
+Government Technology Act, we have gained strength and force.
+This, now a law, is bipartisan legislation that will, for the
+first time, reward and incentivize Federal agencies and CIOs to
+cut costs and invest in cutting-edge technology.
+The effort, also, of modernization has gained momentum from
+Trump administration initiatives like establishing the Office
+of American Innovation, releasing an IT modernization report,
+and retaining good ideas from the previous administration,
+including the U.S. Digital Service.
+I am concerned, however, that in some areas we have lost
+momentum. We went too long without a Federal CIO. I am glad Ms.
+Kent is now in the position and look forward to having her up
+here before the committee within the next few months.
+I am also pleased that Ms. Weichert is in place as the
+Deputy Director for Management at OMB.
+I have spoken to my former colleague, Director Mulvaney,
+about our efforts here in the subcommittee and how we can work
+together to modernize government. He is an enthusiastic
+supporter of using emerging technologies to make government
+more efficient and accountable.
+We need to rethink how we structure the Federal workforce,
+to ensure the Federal Government has access to smart, well-
+trained IT and cybersecurity professionals, and be working in a
+bipartisan fashion, as always, in introducing a bill in the
+coming months to establish the U.S. cyber reserves, a public/
+private-sector rotational workforce. I look forward to the
+witnesses' thoughts on how to best organize and structure this
+kind of workforce.
+I also continue to have concerns about longstanding GAO
+recommendations that remain unaddressed, oftentimes year after
+year after year. These open, lingering vulnerabilities put us
+at incredible risk, as we saw with the devastating data breach
+at OPM, which it is crazy to think was almost 3 years ago.
+I want to hear from GAO their most critical open
+recommendations and, from the rest of the witnesses, concrete
+plans to close them. Let's use this hearing to ensure IT
+modernization across the Federal Government continues, even
+with more force and strength, in 2018. Let's not lose the
+momentum.
+And, as always, it is an honor to be exploring these very
+important issues in a bipartisan fashion with my friend, the
+ranking member, the one and only, the Honorable Robin Kelly
+from Illinois.
+Ms. Kelly. Thank you, Mr. Chairman. Thank you for calling
+today's hearing on the Federal Government's information
+technology.
+These two subcommittees have prioritized holding agencies
+accountable for their compliance with the Federal Information
+Technology Acquisition Reform Act in the effort to modernize
+our legacy IT systems. We have managed to work in a bipartisan
+manner not only to conduct oversight but to introduce
+legislation seeking to address the Nation's IT and
+cybersecurity problems.
+Improving the efficiency and security of the Federal
+Government's IT system is essential to our Nation's security.
+In order to improve the efficiency and security, we must
+modernize legacy IT systems across every Federal agency.
+The Federal Government spends nearly $60 billion just to
+sustain its existing outdated IT. When agencies must spend 75
+percent of their IT budgets merely to maintain legacy systems,
+they predictably fall behind in the effort to modernize.
+That is why the Modernizing Government Technology Act of
+2017 is critical to shoring up our Nation's cybersecurity and
+moving us forward. MGT is now law. It creates a working capital
+fund called the Technology Modernization Fund that will have
+money for efforts like cloud migration for agency CIOs to think
+creatively about modernization.
+The next couple of months will determine whether the MGT
+Act is allowed to spur that type of innovation. I was pleased
+to see that the President's proposal budget called for $228
+million for the modernization fund. OMB Director Mulvaney
+recently released a memo to agencies with guidance on MGT's
+implementation.
+The board overseeing the modernization fund is in place. It
+is now up to Congress to fund this important effort. Our
+government technology is too outdated to allow this opportunity
+to pass us by.
+By allocating these funds, we further our goals under
+FITARA to fully empower agency CIOs. I view the MGT Act as a
+natural complement of FITARA. We cannot speak about important
+efforts, like moving to the cloud and data center
+consolidations, without providing the funding necessary to make
+that happen.
+In addition to modernizing our technology, we must
+modernize our Federal workforce to make sure they have the
+tools and skills necessary to address the problems of not only
+today but tomorrow.
+In 2016, GAO found that the evolving array of cyber-based
+threats continue to pose a risk to our national security. The
+government's inability to attract and retain qualified cyber
+professionals throughout the government threatens our ability
+to address these cyber threats. Therefore, attracting IT and
+cybersecurity talent is critical to the safety of every
+American and the security of our country.
+I hope that our witnesses can update us on the state of the
+Federal IT and how each agency plans to address the
+opportunities and challenges facing the Federal Government.
+Thank you, Mr. Chairman.
+Mr. Hurd. Thank you, Ranking Member Kelly.
+And when the ranking member and chair of Government
+Operations get here, we will allow them to have opening
+remarks, if they do. But now it is a pleasure to introduce our
+witnesses.
+Mr. David Powner, probably our most visits to this
+committee of anybody in government. Thanks for being here. And
+he is the Director of IT Management Issues at GAO.
+The Honorable Margaret Weichert, Deputy Director for
+Management at the Office of Management and Budget. Thank you
+for being here.
+Mr. Bill Zielinski, Deputy Assistant Commissioner of the IT
+Category at the General Services Administration.
+And last but not least, the Honorable Jeanette Manfra,
+Assistant Secretary for the Office of Cybersecurity and
+Communications at the Department of Homeland Security.
+Welcome to you all. And pursuant to committee rules, all
+witnesses will be sworn in before you testify, so please stand
+and raise your right hand.
+Do you solemnly swear or affirm the testimony you are about
+to give is the truth, the whole truth, and nothing but the
+truth, so help you God?
+Thank you.
+Please let the record reflect that the witnesses answered
+in the affirmative.
+In order to allow time for discussion, please limit your
+opening remarks to 4 minutes. Your entire written statement
+will be part of the record.
+And as a reminder, the clock in front of you shows the
+remaining time during your opening statement. The light will
+turn yellow when you have 30 seconds left and red when your
+time is up. Please also remember to press the button for the
+speaker.
+So, with that, Mr. Powner, welcome back.
+WITNESS STATEMENTS
+STATEMENT OF DAVID POWNER
+Mr. Powner. Chairman Hurd, Ranking Member Kelly, and
+members of the subcommittee, I would like to commend your
+subcommittee for your consistent and thorough oversight of IT
+and cybersecurity issues, in particular with FITARA and with
+recently moving the FITARA Enhancement Act and MGT.
+This afternoon, I will highlight top priorities for OMB and
+agencies. My comments will address three broad areas: human
+capital, acquisitions, and operations.
+CIO authorities still need to be strengthened, despite
+significant improvements from FITARA. Your push to elevate
+these positions at departments and agencies is still needed.
+Currently, 13 of the 24 CIOs report to the DEPSEC or higher.
+OMB plays a critical role here, especially with the recent
+focus on agency reorganizations.
+Also, cybersecurity and IT workforce needs to be further
+strengthened. Specifically, we still need to properly identify
+and tackle our workforce gaps. Properly addressing many of
+these needs with contractors is a critical part of the solution
+here. GAO has ongoing government-wide reviews looking at both
+the cybersecurity and IT workforce needs.
+Turning to improvements on major acquisitions, we still
+need to stay the course with major provisions in FITARA. This
+starts with incremental development. Your scorecard shows major
+progress in this area, but we still have too many projects not
+tackling this in manageable segments.
+We also need to have IT shops aware of IT contracts so that
+we can avoid duplication and to ensure the right governance
+over these acquisitions. A recent contracting review was
+discouraging, as only one-third of the agencies had a process
+to approve IT contracts consistent with FITARA and OMB
+guidance.
+And of our sample of almost 100 contracts, only 10 percent
+were approved by CIOs or their designee. Strengthening the
+relationship between CIOs and chief acquisition officers is
+needed.
+We also believe the Nation's top Federal IT acquisitions
+should have OMB governance over them in addition to agency
+governance. The top acquisitions should include VA and DOD's
+EHR acquisitions, IRS's K-2 project, SSA's disability case
+processing system, and FAA's NextGen acquisitions.
+The reason these acquisitions need OMB's attention is
+because these agencies, left alone, haven't managed them well.
+The administration's attention to VA's EHR solution is spot-on;
+we just need more of this. We have a review underway where we
+are identifying and profiling these most critical acquisitions.
+Regarding operational systems, again, we need to stay the
+course with FITARA. Data center optimization metrics provide
+great transparency on where agencies are at with their
+optimization metrics. And extending the sunset date from 2018
+to 2020 will give agencies more time to both optimize and save.
+A couple key points here: Savings still can be significant
+as we optimize space and equipment. And the MGT working capital
+funds can be used to invest in unfunded priorities.
+Also, these agencies who can't optimize by 2020 need to get
+out of the data center business. We plan to report annually
+through 2020 on agencies' data center progress.
+We also believe that the Nation's most mission-critical
+legacy systems that are costly to maintain and pose significant
+cyber risk due to unsupported software need to be replaced with
+modern, secure technologies and ultimately decommissioned.
+OMB needs to have an active role here to ensure that these
+old systems, like VA's VistA system and IRS's Individual Master
+File, have plans to replace and decommission.
+The administration's recent modernization strategy was
+solid on network modernization, shared services, and cyber but
+light on tackling these most challenging modernization efforts.
+CIOs with average tenures of 2 years don't always focus on
+these longer-term, challenging legacy systems, which is even
+more reason for OMB to drive this. We have a review underway
+where we are identifying and profiling these legacy systems
+most in need of modernization.
+In conclusion, the American Tech Council, the Office of
+Innovation, and the modernization strategy are all positive
+developments. Now we need more action and implementation from
+OMB and agencies.
+Key focus areas should be on fixing CIO authorities in the
+IT workforce; regarding acquisitions: incremental development,
+CIO alignment with acquisitions, and the focus on our Nation's
+top acquisitions is needed. On the operations side, data center
+optimization and mission-critical legacy modernization need
+continued attention.
+Finally, the Comptroller General held a forum with prior
+Federal and agency CIOs from previous administrations in late
+2016 to explore what has worked over the years in Federal IT.
+The results of this forum, summarized on page 10 of my written
+statement, are consistent with the comments here this afternoon
+and highlight the critical role OMB leadership plays.
+Mr. Chairman, again, thank you for your oversight of
+Federal IT.
+[Prepared statement of Mr. Powner follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Mr. Hurd. Thanks for being an important partner on this.
+And I misspoke. I apologize. Everybody has 5 minutes.
+So, Ms. Weichert, you are now up for your 5 minutes.
+STATEMENT OF THE HONORABLE MARGARET WEICHERT
+Ms. Weichert. Thank you very much. It's great to be here on
+Pi Day to talk about this important subject.
+So, Chairman Hurd, Ranking Member Kelly, and members of the
+subcommittees, thank you for the opportunity to appear before
+you today to discuss the state of Federal information
+technology in 2018.
+In December, in testifying before the Senate Committee on
+Homeland Security and Governmental Affairs, I discussed the
+range of disciplines that the Deputy Director for Management is
+charged with overseeing, including IT, information security,
+human capital management, finance, accounting, performance
+management, and procurement.
+Today, as the newly sworn-in Deputy Director for
+Management, I'm working with our agency partners to drive
+necessary improvement in those disciplines. And I'm excited to
+talk about one of those areas, IT modernization, in depth.
+Improving our technology infrastructure is fundamental to
+aligning the executive branch to the mission, service, and
+stewardship needs of the 21st century. To that end, next week,
+we will release the President's Management Agenda, the PMA, an
+agenda which places IT modernization at its core.
+The PMA sets out a long-term vision for more effective
+government that better achieves missions and enhances the key
+services upon which the American people depend. IT
+modernization must provide the essential backbone of the
+government service delivery while keeping sensitive data and
+systems secure. And the President's Management Agenda also
+links to related critical issues associated with data
+accountability and transparency as well as the people and
+workforce for the 21st century.
+Since the establishment of the Office of E-Government and
+Information Technology in 2002, OMB has played a pivotal role
+in formulation of IT policy and strategic direction across the
+Federal Government. The Office of the Federal CIO, the Chief
+Information Security Office of the U.S., and the United States
+Digital Service are all in my organization. And, together,
+these groups leverage the convening authorities of OMB,
+including the CIO Council and the CISO Council, to coordinate
+executive-branch IT modernization activities.
+In addition, since 2014, U.S. Digital Service has been
+focused on improving and transforming the experience of
+Americans who interact with government online. This means that
+more citizens can easily and seamlessly access government
+services online due to more secure identity-proofing. It means
+veterans are receiving appeals responses in a more timely
+manner. It has enhanced Medicare claims processing, allowing
+citizens to access health data online. And USDS has also helped
+made it easier for small businesses to compete for government
+contracts and for acquisition officers to be better positioned
+to acquire commercial technology. Ultimately, all this work is
+part of a broader strategy to help rebuild Americans' trust in
+government.
+Today, I look forward to talking with you about a range of
+IT modernization initiatives, including the IT modernization
+report, the Modernizing Government Technology Act, Federal
+cybersecurity policy, agency IT transformation activities,
+including the work of U.S. Digital Service, and the IT
+workforce of the future, to name a few areas. More detailed
+background on many of these topics is included in my written
+testimony for the record.
+And, in closing, OMB looks forward to working with the
+Oversight and Government Reform Committee and with Congress
+broadly on IT modernization. Over the years, this oversight
+committee has been instrumental in driving Federal IT
+modernization through its role in developing legislation such
+as FITARA, the DATA Act, and the MGT Act. Through our
+collaborative efforts, I know we will be able to improve
+government services and cybersecurity.
+I thank the subcommittees for holding this hearing and for
+your commitment to IT modernization. I will be pleased to
+answer any questions you have.
+[Prepared statement of Ms. Weichert follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Mr. Hurd. Thank you.
+Mr. Zielinski, you are now recognized for 5 minutes.
+STATEMENT OF BILL ZIELINSKI
+Mr. Zielinski. Great. Good afternoon, Chairman Hurd,
+Ranking Member Kelly, and members of the subcommittee. My name
+is Bill Zielinski, and I am the Deputy Assistant Commissioner
+for the Office of Information Technology Category in GSA's
+Federal Acquisition Service. In addition, I also serve as the
+Office of Management and Budget-appointed government-wide IT
+category manager.
+I am pleased to be here today to discuss the important role
+GSA plays in Federal information technology efforts government-
+wide.
+The IT Category at GSA enables agencies in the acquisition
+of $50 billion in goods and services annually from more than
+20,000 industry partners. ITC's top priority is to maximize
+customer value and mission productivity.
+And while GSA brings significant capabilities to the table
+in facilitating the modernization of the Federal Government's
+IT infrastructure and applications, it's through the strategic
+partnerships with other agencies and our industry partners
+where we will make the greatest progress.
+For instance, I work closely with OMB's Office of Federal
+Procurement Policy and administrator of the Office of
+Electronic Government to review the Federal IT spend, determine
+where opportunities exist to collaborate on the acquisition of
+IT products and services, and implement strategies to get more
+value from IT dollars.
+In that vein, I would now like to discuss four key ways in
+which GSA is supporting the modernization of the Federal
+Government's IT infrastructure and applications.
+First, in December, the American Technology Council issued
+its final report to the President on Federal IT modernization.
+The report is the culmination of a months-long process to
+develop a strategic plan that approves the security posture of
+Federal IT and incorporates feedback from industry and members
+of the public.
+The report has three key objectives that will inform future
+efforts: to reduce the Federal attack surface through enhanced
+application and data-level protections; to improve visibility
+beyond the network level; and to ensure that policy, resource
+allocation, acquisition, and operational approaches to security
+enable the use of new technology without sacrificing
+reliability or performance.
+GSA is directly tasked, in whole or in part, with half of
+the 50 action items recommended by the report and is actively
+working on these deliverables in accordance with report
+timelines.
+Second, the MGT Act is another critical tool for
+modernizing Federal IT. GSA thanks the members of these
+subcommittees for their dedication to getting this legislation
+passed.
+GSA is tasked with several key actions related to the MGT's
+Technology Modernization Fund. Chief among them is providing
+broad support for the Technology Modernization Board's
+activities, including technical support and the monitoring of
+agencies that receive funds from the TMF. Subject to
+appropriations, the GSA is prepared to help administer this
+critically important fund.
+Third, in partnership with the White House Office of
+American Innovation, GSA is working to establish five new
+centers of excellence. The COEs will house centralized
+function-specific talent, products, and acquisition vehicles.
+These teams will provide expert advice, development resources,
+and support solution implementation in the areas of cloud
+adoption, IT infrastructure optimization, customer experience,
+service delivery analytics, and contact centers. The first
+client agency for the COEs is the United States Department of
+Agriculture.
+Finally, GSA is helping agencies adopt new approaches for
+buying commercial off-the-shelf and as-a-service solutions. By
+leading in the development of modular contracting approaches to
+enable agile and efficient development of complex, new
+requirements, we are able to assist agencies through the entire
+lifecycle of procurement and system development.
+GSA's unique mix of talent and expertise in acquisition
+technology and service delivery, combined with our government-
+wide scope and scale, makes our agency an agent of
+transformation in how agencies will buy, build, and use
+technology.
+I want to thank you for the opportunity to appear before
+you today to discuss GSA's role, and I look forward to
+answering your questions.
+[Prepared statement of Mr. Zielinksi follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Mr. Hurd. Thank you.
+And, Ms. Manfra, you are now recognized for 5 minutes for
+your opening remarks.
+STATEMENT OF THE HONORABLE JEANETTE MANFRA
+Ms. Manfra. Thank you.
+Chairman Hurd, Ranking Member Kelly, members of the
+committee, thank you for today's opportunity to discuss the
+Department of Homeland Security's efforts to secure Federal
+networks.
+I would like to begin my testimony by thanking Congress for
+its work on the Cybersecurity and Infrastructure Security
+Agency Act of 2017. If enacted, this legislation will
+streamline the National Protection and Programs Directorate, or
+NPPD, and rename our organization to more clearly reflect our
+central role in government and private-sector critical
+infrastructure security. Much progress has been made, but we
+must stay focused until this work is complete. The Department
+strongly supports this effort and encourages swift action by
+Congress.
+Cyber threats remain one of the most significant strategic
+risks for the United States, threatening our national security,
+economic prosperity, and public health and safety. Over the
+past year, Federal network defenders saw the threat landscape
+grow more crowded, active, and dangerous. While in many cases
+our defenses have been successful in mitigating these threats,
+we must do more to ensure our cyber defenses keep pace of
+technological change and evolving risk.
+In my role at DHS, I head the Office of Cybersecurity and
+Communications. A core part of my role is protecting and
+managing the overall information security of Federal civilian
+networks. To do this, we must first gain visibility to
+understand the exposure that the Federal enterprise faces. Then
+we need to use our authorities to reduce this risk, whether
+that's through directives, guidance, or direct support to
+agencies. And, finally, we must build capacity within agencies
+to implement our guidance, act on threat information, and fully
+leverage the capabilities and services that DHS has to offer.
+Programs like the National Cybersecurity Protection System,
+or EINSTEIN, and the Continuous Diagnostics and Mitigation
+Program directly serve and enable these three lines of effort.
+Last year, the President signed an executive order on
+strengthening the cybersecurity of Federal networks and
+critical infrastructure, which set in motion a series of
+assessments and deliverables to improve our defenses and lower
+our risk to cyber threats.
+Across the Federal Government, agencies have been
+implementing the NIST Cybersecurity Framework. Agencies have
+been reporting to DHS and OMB on their cybersecurity risk
+mitigation and acceptance choices. DHS and OMB have evaluated
+the totality of these agencies' reports in order to
+comprehensively assess the Federal Government's cybersecurity
+risk management posture.
+The assessment found the Federal enterprise to be at risk.
+The choices we make to reduce this risk, in both cybersecurity
+budget and operational priorities, must be informed by a data-
+driven, risk-based assessment of Federal cybersecurity and the
+threat environment.
+As part of the executive order, my office has been working
+with OMB, GSA, and Federal agencies to modernize the Federal
+Government's IT infrastructure. We are exploring opportunities
+to consolidate network architectures, embrace shared IT
+services, all the while emphasizing cybersecurity as a
+foundational element to all new IT services.
+We recognize that legacy IT systems present considerable
+challenges in efforts to secure Federal networks. The risks
+posed by these antiquated, end-of-life systems has perhaps best
+been demonstrated by the difficulties agencies face in
+complying with DHS's binding operational directives which
+govern vulnerability patching. Some legacy systems can no
+longer be patched, others are not supported by vendors, and
+some experience significant performance issues if not
+reconfigured during the security upgrade process.
+While in most cases DHS and the agencies have been able to
+address these issues and either upgrade, transition, or
+mitigate the problem entirely, this complicates and adds cost
+to agency efforts to patch their own systems--an exercise that
+does need to be as painless as possible.
+While the use of more modern IT has efficiencies and
+convenience of its own, the benefits it brings to cybersecurity
+efforts are also significant.
+My organization works with departments and agencies to
+identify and prioritize high-value assets or those systems for
+which a cyber incident could cause significant impact to the
+United States. We conduct security architecture reviews to
+assess network architectures and configurations and conduct in-
+depth vulnerability assets, which determine how an adversary
+could compromise these systems, persist in their networks, and
+gain access to sensitive data.
+These assessments provide system owners with
+recommendations to address identified vulnerabilities and
+assist them in prioritizing their limited resources to fix the
+worst things first.
+In closing, I want to assure this committee that DHS is
+embracing our statutory responsibility to administer the
+implementation of Federal agency cybersecurity policies and
+practices by leading the effort to secure the Federal
+enterprise, in coordination with my partners on the panel,
+following a risk-based approach.
+This committee played a key role in championing the passage
+of FISMA 2014 and clarifying these important authorities for
+DHS, and we thank you for those.
+The overarching goal of Federal cybersecurity is to ensure
+that every agency maintains an adequate level of cybersecurity
+commensurate with its own risk and with those of the Federal
+enterprise.
+Thank you for the opportunity to testify, and I look
+forward to any questions you may have.
+[Prepared statement of Ms. Manfra follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Mr. Hurd. Thank you.
+And now it's a pleasure to recognize the gentleman from
+Montana for 5 minutes.
+Mr. Gianforte. Thank you, Mr. Chairman.
+And thank you to the panel.
+Mr. Powner, it's good to see you again. It seems like
+you're here monthly. And I appreciate your help in moving
+forward the IT procurement.
+Mr. Zielinski, I would like to dive in a little bit into
+GSA's role in procurement, particularly as it relates to shared
+services. Could you talk a little bit about, to help the
+committee, what are shared services and what do you see as the
+benefits of mandating those for agencies where appropriate?
+Mr. Zielinski. So, in the broadest sense, shared services
+is an opportunity for us to, rather than having each agency
+independently build out a capability set, to be able to build
+those out in a centralized way.
+It could be that it is a government-operated, government-
+built shared service, or it could be that it is a commercially
+offered solution. In working with the Office of Management and
+Budget, as well as with our own Unified Shared Services
+Management office, we are working to develop a series of shared
+services along the lines of business.
+There's a lot of opportunities and benefits to this
+approach. First of all, there's significant cost savings.
+Secondly, as we talked about, the security posture, that
+ability for us to protect the shared service and be able to
+make changes to that individual or that one shared service and
+have all of the participants benefit across the government is
+significant.
+Mr. Gianforte. Okay. And what IT services are already being
+procured under a shared services model?
+Mr. Zielinski. Oh, sir, there are a number. What I would
+like to offer is to be able to bring the full list, but I'll
+give you some examples here today.
+Mr. Gianforte. Please.
+Mr. Zielinski. For one, we have a shared service offering
+that's in and around the implementation or the issuance of the
+PIV credentials, the HSPD-12 PIV credentials. That is operated
+out of GSA. There are 110 customer agencies with more than
+750,000 credentials under active management.
+That's an example of a very mature shared service that is
+utilized across government. There's shared infrastructure for
+agencies to be able to go to, common issuance sites. In
+addition, there are shared services for payroll, shared
+services for financial services. And we continue to build out
+other shared services.
+And, again, I will bring back a more complete list of what
+those shared service offerings are.
+Mr. Gianforte. Okay. So it sounds like shared services
+allow us to standardize procurement in such a way that various
+agencies don't have to roll their own, so to speak?
+Mr. Zielinski. Correct.
+Mr. Gianforte. Yeah.
+So there's cost savings. You mentioned earlier $50 billion
+of annual procurement. If shared services were fully
+implemented where appropriate, how big is the size of the prize
+in terms of savings?
+Mr. Zielinski. Yeah, I don't have an answer for that. You
+know, I think that as we are now going through the different
+lines of business and identifying those opportunities for
+shared services, we'll have a much better or more complete
+picture of what those savings opportunities are.
+Mr. Gianforte. In instances where you have used shared
+services, how much savings resulted?
+Mr. Zielinski. It differs based upon the service itself.
+And, again, what I can do is bring back some more explicit
+information for each of these shared services as to where that
+is.
+Mr. Gianforte. Okay.
+So cost savings are one benefit. What impact does it have
+on security when a service is shared versus implemented
+individually by the agencies?
+Mr. Zielinski. So I would like to start, and I would also
+like to ask my partner, Ms. Manfra, to also add in as well.
+One of the things that we're able to do is that, as each
+individual agency is building out a capability, that means that
+those individual agencies are also responsible for ensuring
+that they are patching and kind of doing the basic blocking and
+tackling that's necessary to secure the capability, and that if
+there is something that happens within the overall system that
+they have to respond to, that also means that they each
+individually would have to do that.
+In a shared services instantiation, we have where there is
+a central group who is managing that security posture of the
+shared service. And that means that, when there is something
+that occurs or there is a need for us to make a change or to
+address a vulnerability, we are able to do that once and it is
+addressed for all of the customers of that.
+Mr. Gianforte. And, again, I want to go back to my prior
+question. I realize you want to go collect more data, and I do
+want an accurate answer. But it seems like shared services
+presents an opportunity to standardize procurement, limit
+variability, increase security, and lower cost, all of which
+are good objectives.
+Where is shared services on your priority list as you're
+working with agencies on procurement?
+Mr. Zielinski. So I will say that, going back to the IT
+modernization report, this is one of the core principles within
+the President's IT modernization report, is for us to look for
+those opportunities to build out shared services to be able to
+both speed the modernization but also to increase the
+protection. So it is one of the core priorities in moving
+forward with modernization.
+Mr. Gianforte. And final question: Who should be managing
+these shared services within the government?
+Mr. Zielinski. The plan, as it stands today, is to look for
+managing partners based upon the capability areas. So,
+dependent upon what the business function or area is, that
+there is a role for the appropriate agency. So, in the case of
+HR shared services, OPM would have a significant role, as an
+example.
+Mr. Gianforte. So, then, they could be a service provider
+to other agencies, if necessary?
+Mr. Zielinski. Correct.
+Mr. Gianforte. Okay. Thank you.
+I yield back, Mr. Chairman.
+Mr. Hurd. Ranking Member Kelly.
+Ms. Kelly. Thank you.
+The growing rate of sophisticated data breaches and cyber
+attacks in the private and public sector have heightened
+concerns over the security and strength of Federal IT systems.
+And some of these devastating attacks succeed because
+Federal systems are dangerously outdated and obsolete. And I
+mentioned in my opening statement that nearly 75 percent of the
+Federal Government's IT budget is dedicated toward maintaining
+legacy computer systems.
+Mr. Powner, why does it take such a large share to maintain
+those systems?
+Mr. Powner. Well, I think, historically, operational
+systems in the Federal Government get a pass. So when you look
+at that's something the lights are on and it's running and
+we're serving the mission, we might not be serving the mission
+efficiently, we might not be serving the mission securely, but
+it's gotten a pass over the years. That's been the biggest
+problem.
+I think this committee, you know, going back to 2016, when
+we did the big report with the 8-inch floppy disk at DOD,
+helped raise the issue of how old and insecure and costly these
+systems are.
+We are starting to make progress. The problem is that we
+still need firm dates to replace these systems where we
+actually turn them off. I mean, I agree with all the comments,
+that it's difficult to maintain and patch, there's unsupported
+software. But, ultimately, the security solution is turning
+them off and decommissioning them.
+Ms. Kelly. I'm not trying to be comical, but because the
+systems are so old, do we even have the staff--we talk about
+the staff for the new systems and the workforce, but what about
+the staff to maintain these systems?
+Mr. Powner. Well, that--so it's very difficult. I know,
+personally, I do a lot of detailed work at IRS, and when you
+start looking at assembly programmers there, we're losing them
+left and right. We pay a premium to contractors to maintain. We
+pay other younger programmers who know modern language as a
+retention. It costs money to maintain these systems. And each
+year we go on, it costs more and more, and we become more and
+more insecure.
+Ms. Kelly. And what happens if we just turn it off?
+Mr. Powner. Well, right now, we need a lot of these
+mission-critical systems to actually do the mission. You know,
+the IMF system at IRS, that's where we get $3.3 trillion in
+revenue through tax returns. It's critical.
+Ms. Kelly. Uh-huh.
+Mr. Powner. Chairman Hurd's held hearings on the VA VistA
+system. I mean, we still need that to apply medical services to
+our veterans.
+But, again, you know, that's why we need to keep them
+running, because they're mission-critical.
+Ms. Kelly. Okay. Thank you.
+The Modernizing Government Technology Act is a key
+component of this administration's continued effort to improve
+Federal technology by providing financial resources and
+technical expertise to agencies.
+Does the MGT Act continue to be, you think, a priority for
+the Trump administration and OMB?
+Ms. Weichert. Absolutely. The MGT Act and the Technology
+Modernization Fund are absolutely priorities for the
+administration.
+And we've actually pulled together in the President's
+Management Agenda, which will be released next week and was
+hinted at in the President's budget in February, a wholistic
+perspective on how we tackle these issues, which is not purely
+the technology piece, as you have mentioned. It includes issues
+around data and data structure. It also includes very critical
+people issues.
+We want to solve these issues wholistically, build on past
+successes, and we believe that the MGT and the Technology
+Modernization Fund will be great stepping stones toward the
+future of really pulling all of these dimensions together so
+that they are not siloed by function, where, you know, we have
+CIOs, you know, who, by the way, need more authority--and you
+all have done great work in FITARA to do that, and we support
+that. But we also need the human capital element, the financial
+element, the procurement element to be at the same table.
+And so what we're laying out in the President's Management
+Agenda is that wholistic framework. It was why I was so eager
+to actually be here and share. Because one of the root-cause
+observations that we had when we looked at how government was
+tackling these issues versus the private sector, it was that
+lack of integration across function. And we plan to tackle
+that, leveraging these authorities that Congress has provided
+through the MGT Act and TMF.
+And, by the way, we really hope the appropriators actually
+fund the TMF.
+Ms. Kelly. Okay. Thank you.
+Mr. Powner, can you comment on the steps that OMB is
+taking?
+Mr. Powner. Well, I think, clearly, the guidance that OMB
+just put out, you know, that's the right direction. And that
+guidance was very solid. You know, now the hard part is
+implementation. You know, we're really good at plans and
+guidance in this town, but we're not always good at getting
+things done and implementing them completely.
+So let's do this right with the MGT Act, because we got
+savings out there. As Mr. Zielinski said, with shared services
+or still with some data centers, we can populate these working
+capital funds and really do MGT right.
+Ms. Kelly. Thank you.
+And I yield back.
+Mr. Hurd. Mr. Blum, you're now recognized for 5 minutes.
+Mr. Blum. Thank you, Chairman Hurd.
+Thank you to our panelists for being here today.
+Mr. Powner, your challenge is, in the next 5 minutes, to
+make me an expert on cloud computing. Cloud computing has been
+in the news lately with the Federal Government. Department of
+Defense, I think, is looking at going to cloud computing. I
+assume the entire government will be there at some point.
+Can you talk to me about the efforts to go to cloud
+computing, A? B, financially, is that going to save the
+taxpayers money or not? And, C, I'm particularly interested in
+the following, and that is, will it be more secure or less
+secure or perhaps the same level of security that we have
+today, not being in the cloud?
+Mr. Powner. So there's all kinds of various aspects of the
+cloud. So, like, for instance, on our data center situation we
+have, when I say that some agencies by 2020 should get out of
+the business of data centers, that's because we have
+inefficient data centers that they're not going to optimize,
+maybe two-thirds of them. And what we could do there is we
+could host our existing applications in a cloud environment or
+on servers and infrastructure maintained by contractors who are
+cloud providers.
+So that's one way that we could actually save money and
+have optimized data centers, by actually outsourcing all of it
+to the cloud.
+We can also, too, in some of the shared service areas that
+we talked about, you can actually buy software as a service in
+the cloud from many of these cloud providers. And that's
+another way where we can save money.
+However, there are some of these mission-critical
+applications like some of these homegrown systems that are
+critical to agencies' mission that you're not going to find
+that as a software, as a service, that we've got to actually
+just do the hard work and convert those old systems.
+So cloud, there's a great opportunity. It's not the
+solution for everything. But there's substantial savings.
+And from a security perspective, you know, if you really
+look, the intel community kind of led the cloud migration. We
+were concerned on the civilian side about having enough
+security. So if it was good enough for intel, it's probably
+good enough for a lot of others.
+The other thing you could do is, through your contracting
+provisions--and we did work on this, looking at service-level
+agreements and contracts--you can specify the level of security
+you want from those cloud providers and actually dictate the
+level of security. So, in many ways, cloud services can be more
+secure than what we currently have.
+Mr. Blum. Do you think all Federal IT should eventually end
+up in the cloud?
+Mr. Powner. There are some aspects that won't be in the
+cloud because they're unique to agency missions, but there's a
+large portion that could end up being in the cloud.
+But there are these pockets of unique applications that we
+do that no one else has that we have to do the hard work and
+convert those to more modern platforms and modern software.
+Mr. Blum. Where are we at today in this journey to the
+cloud?
+Mr. Powner. So that's a good question. We're doing some
+work for this committee where we've done prior works, and we
+try to measure it as a percentage of budget or IT spend, and
+it's very difficult. You know, we did this work a couple years
+ago, where agencies varied from 2 to 7 percent of their IT
+budgets were in the cloud. That's improved somewhat. But it's
+very difficult to give you a good, hard number right now. We're
+working on that for this committee.
+Mr. Blum. Thank you.
+Ms. Weichert, is it?
+Ms. Weichert. Yes.
+Mr. Blum. OMB, how involved are they in this migration to
+the cloud?
+Ms. Weichert. So it's a great question, and it is actually
+one of the priorities that we're laying out as part of the
+President's Management Agenda. Now that the Federal CIO is in
+place, it is on her top priority list.
+And we're working closely with GSA and the centers of
+excellence on the implementation. They've already met to put
+together tiger teams in terms of cloud email adoption, and
+they're looking at other areas where commercially available
+solutions are already in place, secure, and working at some
+agencies, to elevate the lessons from those and extend them
+across government.
+But ultimately the test, to the question that you asked
+earlier around which things should migrate to the cloud, it's
+essentially going to be dependent on the mission; the service
+aspects, so how well we can serve the needs of our citizens and
+the American people; and then the stewardship aspects of
+financial stewardship. So we're really going to be looking at
+balancing those three items.
+Mr. Blum. Thank you.
+Mr. Zielinski--I hope I pronounced that right--this is kind
+of interesting. The centers of excellence, can you just briefly
+tell me about that and that effort?
+Mr. Zielinski. Certainly. Thank you for the question.
+Going back to some of the things that Mr. Powner mentioned,
+as agencies are making these decisions about their strategies
+for moving to the cloud or considering the cloud, the centers
+of excellence are places where we bring together technical
+expertise, the engineers and others who understand the dynamics
+of matching those business applications and those business
+functions to where they best lend themselves to a cloud
+application, whether that software is a service or platform is
+a service, and then help agencies to find acquisition
+strategies for them to be able to move.
+So there's a lot of direct assistance that those centers of
+excellence provide to a customer agency, and they do that
+through bringing together the expertise, as Ms. Weichert said,
+being able to make sure that we have all of those functions
+working hand in glove, the technical expertise as well as the
+acquisition.
+Mr. Blum. Is it more of a planning function or more of an
+execution function, the centers of excellence?
+Mr. Zielinski. It's absolutely an execution function, sir.
+Mr. Blum. Because I agree with what Mr. Powner said earlier
+about we're good at planning, not so good at following through.
+Thank you very much. I am out of time and I yield back.
+Mr. Hurd. I now recognize the ranking member.
+Ms. Kelly. I just have one quick question and not for Mr.
+Powner.
+How long have all of you been in your positions you're in
+now?
+Ms. Manfra. I was appointed in June of last year, ma'am.
+Mr. Zielinski. I've been with GSA for 2 years.
+Ms. Kelly. In the position you're in now?
+Mr. Zielinski. Six months.
+Ms. Weichert. The Senate confirmed me on Valentine's Day of
+this year.
+Ms. Kelly. All relative newbies, okay. No insult to you, I
+just knew you'd been around. Thank you.
+Mr. Hurd. He's been there forever, I think is the right
+answer.
+Mr. Zielinski, can we follow up on the centers of
+excellence. I recognize myself for 5 minutes. How does this
+program differ from 18F?
+Mr. Zielinski. So thank you for the question, sir. The 18F
+has those technical experts that the centers of excellence can
+actually tap into. So as I talked about bringing together the
+different discipline areas to be able to bring to bear on a
+particular agency problem set and to assist them in being able
+to understand the dynamics of their business case and how they
+can move forward, 18F, as an organization, would be one of the
+areas into which the centers of excellence can reach to bring
+that technical expertise to the table.
+Mr. Hurd. Got you. And how do we ensure these centers of
+excellence, other than having GAO white glove it, how do we
+ensure that these don't duplicate efforts that are going on in
+the rest of the government?
+Mr. Zielinski. So going back to the agenda that has been
+laid out by the administration in and around starting with the
+IT modernization report as well as with the President's
+Management Agenda, it's a very tight weave in terms of ensuring
+that there's a collaboration across all those functional areas.
+And there are many opportunities for those functional areas
+to be brought together to ensure that we are all bringing to
+bear the best talent and that we're also not duplicating
+effort, sir.
+Mr. Hurd. Good copy.
+Ms. Weichert, one of the things that is still frustrating,
+and I'm glad Mr. Powner alluded to this in the beginning of his
+remarks, is CIO authorities. We can't hold CIOs accountable if
+we don't give them all the power they need. FITARA gives them
+that authority, but in many places the agency CIO doesn't have
+the complete budget authority of those--of that entire
+operation.
+And Transportation is an example. I think they have nine
+CIOs, people with the title, nine CIOs, $3 billion-plus budget.
+Can we reprogram the funds from those various sub-CIOs
+into--under the Federal--under the agency CIO in order to
+streamline that budget authority?
+Ms. Weichert. So not being an expert on appropriations, I
+want to caveat and say that I would love to answer that in more
+detail after conferring with some of our budget folks. But what
+I can say is absolutely agree with your frustration. It's
+something we in the administration share and are looking very
+closely at how do we address.
+I think in the President's Management Agenda we are laying
+out how all of the components of the various authorities across
+government, how they work together and how they align together,
+and to avoid duplication, while giving the maximum elevated
+level of capability to the CIOs.
+I think the Technology Modernization Fund and the MGT, in
+providing new capabilities around working capital funds, that
+is a place we are going to start and are already exploring ways
+that we can work with agencies to help them focus and target
+resources towards the highest priority projects, as Mr. Powner
+has suggested.
+In terms of getting additional capabilities, I think the
+authorities are different in terms of transfer and how they can
+use their working capital funds, that I wouldn't want to give
+you an across-the-board answer.
+Mr. Hurd. But would you have heartburn if we were to
+reprogram some of these to ensure that the agency CIO had all
+the budget authority for IT spend across that network?
+Ms. Weichert. So I haven't studied that specific issue.
+Mr. Hurd. Okay. That's a fair answer.
+Ms. Weichert. But what I can say is we are absolutely in
+alignment in terms of the idea that the CIO for the broad
+agency needs to have all the capabilities and tools to make
+these very profound investments.
+And the more we can align to the way the private sector
+works, where you've got a general manager of a division or an
+agency, and their C-suite includes the chief information
+officer, the chief financial officer, the chief people officer,
+and, where appropriate, the procurement officer, they need to
+all be there in lockstep.
+Mr. Hurd. And the CIO. I think you said that.
+Ms. Weichert. I said that first, yes.
+Mr. Hurd. Okay, first. Okay. Gotcha. Gotcha. I agree. And
+my teams would get mad because we're talking about how do we
+change the FITARA Scorecard to penalize agencies that don't
+have the Federal CIO reporting directly to the agency or deputy
+agency head.
+We've asked everybody why, what's going on, why is that the
+case? We've gotten a lot of excuses: ``Oh, it's kind of already
+there.'' Well, if it's already there, then change the damn
+structure. And so we are looking at having that be reflected in
+the FITARA Scorecard.
+Mr. Powner, do you have any opinions on the reprogramming
+and giving complete budget authority to the CIA--CIO? Let me
+rephrase that. The CIO, not the CIA. I don't want anybody to
+get mad and run an ad against me.
+Mr. Powner. I think the first step is that we understand
+all the IT spend. I think many CIOs, we don't even know the
+full totality of what we spend at these departments and
+agencies. So once we understand that, I do think the CIOs
+should control that more.
+It's okay, too, if there ARE some business units that
+control it and they act in partnership, where the CIO is
+working with those business units to spend it appropriately, to
+oversee it the right way and that.
+So I think there's probably even some blend. I think right
+now if we did it completely whole hog, you have complete budget
+authority, the whole bit, I don't know if that would--maybe we
+need to shock the system as you're intending. That's one way to
+do it.
+Mr. Hurd. Your word, not mine, sir.
+Mr. Powner. But the other way to do it is to have some type
+of blend where we know the entire spend and the CIO has a role,
+whether they control every dollar or not, but they're still
+responsible for governing over it. We've got too much IT spend
+that we don't have IT people on it.
+Mr. Hurd. You reminded me of something I was going to ask.
+And, Ms. Weichert, this may not be something on the top of
+your mind.
+Or, Mr. Zielinski, I think this is outside of your scope.
+The Department of Defense recently made the decision to not
+publish their IT amount. I believe it was in a recent--was it
+an OMB report? What was it? The analytical prospectus. It said:
+Hey, we're going to stop showing DOD's number on IT along with
+everyone else.
+So we went from spending, the Federal Government spending
+$90 billion to $40 billion, and they said, you know, asterisks,
+fiscal year 2018, it was roughly $50 billion.
+Do you have any insight into that decision, that process?
+And we will be bringing--again, not to, you know, show our
+hand--but we'll be bringing DOD for the next FITARA Scorecard
+hearing to have them answer that directly. But I'd welcome your
+thoughts.
+Ms. Weichert. Yeah. Unfortunately, that was prior to my
+being confirmed, so I wasn't read in on that particular
+decision.
+Mr. Hurd. When you're talking to them----
+Ms. Weichert. I will note it.
+Mr. Hurd. --tell them this committee is interested.
+Ms. Weichert. I will share that.
+Mr. Hurd. And I'd love to have the answer prior to--should
+I introduce these into the record?
+So, yeah. The analysis in this chapter excludes the
+Department of Defense and classified spending, which in fiscal
+year 2008 was $42.5 billion, or 44 percent of the IT budget. So
+we're going to start showing only 66 percent of the budget as a
+whole number, which seems a little odd to me.
+Ms. Manfra, one of the things I want to do with the FITARA
+Scorecard is transition it into more of a digital hygiene
+scorecard as well. I think the elements, as Mr. Powner has
+talked about, we've got to continue to double down on those
+issues.
+But I think being able to highlight at the macro level good
+digital hygiene is important. I think the inclusion of the
+MEGABYTE Act on that was one of that. Do you know all the
+software that's running on your system? And I think only three
+were able to answer yes, which is pretty shocking. And, again,
+these are self-reporting numbers.
+So what are some of the areas that you think that we should
+or could be exploring when it comes to digital hygiene and how
+we look across that over the entire enterprise?
+Ms. Manfra. So I think, first of all, I think that's a
+great idea, to include that. Frankly, shining a light on some
+of these basic practices has been useful in agencies
+prioritizing.
+So I briefly alluded to the critical vulnerability
+patching. What we saw through years of assessments was just
+continued poor patch management programs. Some of it does have
+to do with legacy systems and all that.
+But what we decided to issue, our first binding operational
+directive, was actually to require the time to patch a critical
+vulnerability down to 30 days.
+And the important way, though, that we were able to be
+successful, I think, with this and with other directives and
+other guidance that we provide is that we can independently
+validate. We're not relying on self-reporting. And so the more
+capability that DHS is deploying--in this case it's the
+external scanning that we're doing of all internet-facing
+devices--that we can say, no, I can see that you haven't
+actually patched.
+The good news story is that when we--I think fiscal year
+2014 average time to patch was somewhere in excess of 200 days
+for critical vulnerabilities, which is bad. After the
+directive--and it continues, which shows how these things
+change behavior--we're averaging in the 10 to 15 days.
+And so it's helping them prioritize their very limited
+resources by focusing on known issues, and that's what we want
+to continue to do, but it's also important that we can
+independently validate this.
+You talked about knowing what software on your system. So
+the Continuous Diagnostics and Mitigation Program that we've
+been deploying, the first phase is hardware and software asset
+management. And we've learned a lot through that program in
+what agencies thought they had on their network was not exactly
+what we found that they had on their network after deploying
+these.
+And I know in one sense it's frustrating to sort of be in
+that environment, but at least we're in a position now where we
+do know. We know what's connected to the network and as we
+deploy more tools.
+And as a side note, this program actually is also very
+cost-effective, and we've been able to identify that I think
+it's 75 percent cost savings off of schedule--if they had
+bought these on Schedule 70.
+So we're deploying common tools that are identifying what
+and who is on networks. And I believe that this will
+fundamentally transform the way that we do, in the first case,
+vulnerability management for the government, but eventually we
+will get to event management and ongoing authorization in those
+programs.
+But it has to be through the deployment of these
+standardized tools that then feed data back to an agency CIO
+and DHS so that we can, through automated sensors, understand
+where they are.
+Mr. Hurd. Would you have security concerns of publishing
+that number of how long it takes to patch software, like the
+average it takes to patch software from agency from agency?
+Ms. Manfra. I don't know how----
+Mr. Hurd. You can take time to think about it.
+Ms. Manfra. Yeah.
+Mr. Hurd. It's just I think that's an element that, self-
+reporting, we can establish a letter grade based on what are
+industry best practices. Is a week an A? Two hundred days is
+definitely an F, right? Where that's something that we could
+package and keep track of and make sure that we're continuing
+to shine a light on.
+Ms. Manfra. Absolutely, sir. And there's a few other things
+that we've identified as very common practices that we're
+focusing our guidance on. And we'd be happy to work with you on
+how we can improve those practices.
+Mr. Hurd. And before we get to the gentleman from the
+Commonwealth of Virginia, my last question is, one of the
+things that I've--in the 3-1/2 years we've been doing this
+together, we've asked a lot of questions about, are you doing
+technical vulnerability assessment, penetration testing? And a
+lot of agencies have said yes, and then you find out after the
+fact they're just doing a scan, that they're not bringing a
+third-party system, a third-party vendor to come in and do that
+testing.
+Your organization has been doing that. Have you seen an
+increase in that as a best practice?
+Ms. Manfra. So you're right, there isn't a very common
+definition of what people mean by penetration testing. You
+know, as I noted, we do passive scanning, but that is to
+identify one set of issues.
+We also do our risk and vulnerability assessments, which is
+penetration testing, which is actively going and trying to
+identify and exploit vulnerabilities. That's what we would
+consider.
+We haven't previously taken statistics on what agencies are
+using penetration testing. I can tell you that just in the last
+fiscal year, we did 42. We focus, prioritize high-value assets.
+So we go through all of the high-value assets to do a full risk
+and vulnerability assessment, which includes a penetration test
+as well as a report to them. But we could definitely follow up
+on that.
+Mr. Hurd. Well, we'll be asking the agencies this question,
+so when we collect that information we'll share it with you so
+that you're aware.
+Ms. Manfra. Thank you, sir.
+Mr. Hurd. Now I'd like to recognize the gentleman from the
+Commonwealth of Virginia, the ranking member, Mr. Connolly.
+Mr. Connolly. I thank my friend.
+And welcome to our panel.
+And thank you both to Mr. Hurd and Ms. Kelly for their
+leadership of this subcommittee and on this subject matter.
+We're really fortunate to have Members who care about the
+subject matter and delve into it. It's actually rare. You'd
+think more Members would be involved in IT, but they actually
+aren't, for various and sundry reasons.
+And so one of the great pleasures of serving on this
+committee is that--and Mr. Meadows is not here, but the four of
+us have really worked seamlessly, in a nonpartisan way, to try
+to help rationalize Federal IT policy. And I think for all four
+of us, it doesn't matter whether it's a Democrat or a
+Republican administration, we want it to work.
+And so, in that spirit, welcome.
+Ms. Weichert, in March of last year the White House
+announced the Office of American Innovation. And after that,
+OAI was credited with a whole bunch of projects as large as
+pushing the overhaul at the Veterans Administration healthcare
+IT system, setting the policy for the Federal Government's
+adoption of AI, and presumably implementation of FITARA, data
+center consolidation, moving to the cloud, empowerment of CIOs,
+and so forth.
+Now, under the E-Government Act of 2002, normally that role
+would be played by the Federal CIO. Now that presumably we're
+going to have a Federal CIO, what is OAI's role going forward,
+and how does OMB play a role in all of this as well?
+Ms. Weichert. I think it's a great question, and we are
+working in lockstep across the administration to set out a
+focused agenda for all the elements around not only IT
+modernization, but the other enabling capabilities around data
+transparency and accountability, as well as the people
+dimensions of that.
+And OAI did a great job providing catalytic capabilities in
+getting a lot of these activities started. But what's been
+included in the President's budget in February and what will be
+rolled out next week in the President's Management Agenda is
+the comprehensive go-forward plan.
+We do have a Federal CIO, an outstanding leader from the
+private sector who has done execution of change in complex,
+highly regulated environments in the financial services and
+other industries, who's really here to help continue to carry
+that torch.
+I think a lot of the activities that have been enabled by
+the MGT Act and the TMF are stood up. The Federal CIO actually
+met earlier this week with the members of the IT Modernization
+Fund Board, and they did a dry run, so that when appropriations
+come--I'm hoping they're coming soon--that the board will be
+prepared to act quickly.
+We continue to work very closely with OAI in terms of
+helping shape the strategy and bring to bear the best thinking
+of the administration and also marshal resources outside of
+government to provide insights that might be helpful in our
+journey.
+But we in OMB are really leading the direction with the
+President's Management Agenda and bringing the executive branch
+along. And I look forward to having you all get to see what
+we're putting together that's going to be in the PMA launch
+next week.
+Mr. Connolly. So I know that the chairman talked about
+maybe broadening the current FITARA Scorecard at some point to
+a digital hygiene scorecard. I would be supportive of that once
+we make more substantial progress on implementation of what's
+in front of us, because we've seen some backsliding. You know,
+DOD, the Big Kahuna, got an F. And so we want to see more
+progress, but we can't really see it without leadership coming
+from your office.
+I assume, but let me ask, you are committed to the metrics
+set in the law, FITARA, and the tools, allowing us to try to
+facilitate that, that MGT, just passed into law, also gives
+agencies, to facilitate implementation of the law.
+I assume you're trying to push agencies to meet the metrics
+set for them in the law.
+Ms. Weichert. Absolutely. And I think the focus
+historically, that has been very siloed. In a lot of cases some
+of the challenges around FITARA implementation and some of the
+things measured in the scorecard hit root cause issues that
+were underlying those things. In a lot of cases, people issues
+are part of the problem.
+Mr. Connolly. Yes.
+Ms. Weichert. In some cases data and even the ability to
+see the problem is part of it.
+So part of what we want to do is actually use the broad
+management table to really shine a light on those issues. And
+to the extent the scorecard needs to evolve or mature, we'd be
+very happy to take input from GAO and work with Congress on
+that. But we are very supportive of the spirit of FITARA and
+moving forward with that.
+And I guess the last thing I'll just say is, my perspective
+in the private sector, if you've got a broad failing to meet
+the needs outlined in a strategic plan or a set of metrics,
+it's incumbent upon the person who's accountable for those,
+especially if it's me, to really understand are there root
+cause issues that are preventing us from doing that and then
+addressing those as well.
+Mr. Connolly. Yes, I couldn't agree with you more. And like
+you, I come from the private sector. I spent 20 years as a
+corporate officer. And what I learned in the private sector and
+the public sector is, if the boss doesn't care, neither do I.
+Ms. Weichert. Right.
+Mr. Connolly. I'll give it lip service.
+Ms. Weichert. I care. I care a lot.
+Mr. Connolly. Exactly.
+But they need to feel pressure. They need to know I'm going
+to be evaluated by the boss on implementation, on meeting those
+metrics.
+And the other thing, and then I'll be quiet, but with
+respect to personnel, we've got to empower, in Latin we call it
+primus inter pares, the first among equals in CIOs. There has
+to be a primus CIO who's got the responsibility, the
+accountability, and the power to make decisions. They've got to
+be empowered, and everyone has to know that.
+If the CIO of an agency is reporting to the deputy
+assistant Gromit in the basement, that does not escape the
+attention of everybody else. And I might give lip service, but
+I know he or she doesn't really have the boss' attention.
+We elevate the issue--I mean, we elevate the role of that
+person and the stature of that person, we elevate the issue and
+its importance in everybody's eyes.
+I commend that to you as a reform. It doesn't cost a lot of
+money, but I think it would have a profound effect on
+performance and would save a lot of money for agencies over
+time and make us a lot more effective.
+Thank you, Mr. Chairman.
+Mr. Hurd. Thank you, sir.
+And I failed to spend some time on MGT, so I have a few
+questions. And, Ms. Weichert, they're probably best for you.
+The agencies are still planning to present their
+implementation plans of the MGT working capital fund on the
+27th of March. Is that correct?
+Ms. Weichert. That is correct.
+Mr. Hurd. And will you be able to share those with us?
+Ms. Weichert. So we will be able to share the status on the
+working capital funds early this summer. So we are actively
+working with the agencies to understand what specifically their
+needs are in terms of implementing on that.
+So we already have a number that are well on the way of
+implementing it. We have identified some challenges related to
+transfer authorities that we need to work out. And we'll
+actually be coming back to Congress with some thoughts about
+ways to streamline what's needed to actually make it work as
+intended in the legislation. But we will be coming back
+imminently.
+Mr. Hurd. The sooner you come to us on that, we'll do
+everything we can to help, because I think it's important by
+the end of this fiscal year to have some money deposited in
+those funds at a handful of agencies to be sure that it's
+working.
+Ms. Weichert. We absolutely agree, yes.
+Mr. Hurd. Mr. Powner, do you think we can do that?
+Mr. Powner. Definitely, definitely. And we'll continue to
+work with you. I know that's one of the things we want to focus
+on the scorecard, too, as we evolve that, to look at the
+establishment of those MGT funds and the accountability, who's
+in charge of those and that type of thing.
+Mr. Hurd. Because if you are able to deposit money in your
+MGT working capital fund, it shows a culture of modernization,
+and I think that's important to monitor and focus on.
+I'd like to thank our witnesses again for being here today.
+The hearing record will remain open for 2 weeks for any member
+to submit a written opening statement or questions for the
+record.
+If there's no further business, without objection, the
+subcommittees stand adjourned.
+[Whereupon, at 4:26 p.m., the subcommittees were
+adjourned.]
+APPENDIX
+----------
+Material Submitted for the Hearing Record
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[all]

@@ -1,0 +1,2173 @@
+- THE DEPARTMENT OF ENERGY'S EFFORTS IN THE FIELD OF QUANTUM INFORMATION SCIENCE
+[Senate Hearing 115-530]
+[From the U.S. Government Publishing Office]
+S. Hrg. 115-530
+THE DEPARTMENT OF ENERGY'S EFFORTS IN THE FIELD OF QUANTUM INFORMATION
+SCIENCE
+=======================================================================
+HEARING
+BEFORE THE
+COMMITTEE ON
+ENERGY AND NATURAL RESOURCES
+UNITED STATES SENATE
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+SEPTEMBER 25, 2018
+__________
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Printed for the use of the
+Committee on Energy and Natural Resources
+Available via the World Wide Web: http://www.govinfo.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+32-266
+WASHINGTON : 2020
+COMMITTEE ON ENERGY AND NATURAL RESOURCES
+LISA MURKOWSKI, Alaska, Chairman
+JOHN BARRASSO, Wyoming
+MARIA CANTWELL, Washington
+JAMES E. RISCH, Idaho
+RON WYDEN, Oregon
+MIKE LEE, Utah
+BERNARD SANDERS, Vermont
+JEFF FLAKE, Arizona
+DEBBIE STABENOW, Michigan
+STEVE DAINES, Montana
+JOE MANCHIN III, West Virginia
+CORY GARDNER, Colorado
+MARTIN HEINRICH, New Mexico
+LAMAR ALEXANDER, Tennessee
+MAZIE K. HIRONO, Hawaii
+JOHN HOEVEN, North Dakota
+ANGUS S. KING, JR., Maine
+BILL CASSIDY, Louisiana
+TAMMY DUCKWORTH, Illinois
+ROB PORTMAN, Ohio
+CATHERINE CORTEZ MASTO, Nevada
+SHELLEY MOORE CAPITO, West Virginia
+TINA SMITH, Minnesota
+Brian Hughes, Staff Director
+Kellie Donnelly, Chief Counsel
+Brianne Miller, Senior Professional Staff Member and Energy Policy
+Advisor
+Dr. Benjamin Reinke, Professional Staff Member
+Mary Louise Wagner, Democratic Staff Director
+Sam E. Fowler, Democratic Chief Counsel
+Scott McKee, Democratic Professional Staff Member
+C O N T E N T S
+----------
+OPENING STATEMENTS
+Page
+Murkowski, Hon. Lisa, Chairman and a U.S. Senator from Alaska....
+1
+Duckworth, Hon. Tammy, a U.S. Senator from Illinois..............
+2
+WITNESSES
+Dabbar, Hon. Paul M., Under Secretary for Science, U.S.
+Department of Energy...........................................
+4
+Guha, Dr. Supratik, Professor, Institute for Molecular
+Engineering, University of Chicago, and Director of the Center
+for Nanoscale Materials and Senior Science Advisor, Argonne
+National Laboratory............................................
+13
+Holmdahl, Todd, Corporate Vice President, Quantum, Microsoft
+Corpo-
+ration.........................................................
+18
+Siddiqi, Dr. Irfan, Faculty Scientist, Lawrence Berkeley National
+Laboratory, Professor, University of California, Berkeley, and
+Director, Berkeley Quantum.....................................
+33
+ALPHABETICAL LISTING AND APPENDIX MATERIAL SUBMITTED
+Carter, Emily A.:
+Letter for the Record........................................
+89
+Dabbar, Hon. Paul M.:
+Opening Statement............................................
+4
+Written Testimony............................................
+6
+Responses to Questions for the Record........................
+71
+Duckworth, Hon. Tammy:
+Opening Statement............................................
+2
+Guha, Dr. Supratik:
+Opening Statement............................................
+13
+Written Testimony............................................
+15
+Responses to Questions for the Record........................
+74
+Holmdahl, Todd:
+Opening Statement............................................
+18
+Written Testimony............................................
+20
+Responses to Questions for the Record........................
+79
+Murkowski, Hon. Lisa:
+Opening Statement............................................
+1
+Siddiqi, Dr. Irfan:
+Opening Statement............................................
+33
+Written Testimony............................................
+36
+Responses to Questions for the Record........................
+84
+THE DEPARTMENT OF ENERGY'S EFFORTS IN THE FIELD OF QUANTUM INFORMATION
+SCIENCE
+----------
+TUESDAY, SEPTEMBER 25, 2018
+U.S. Senate,
+Committee on Energy and Natural Resources,
+Washington, DC.
+The Committee met, pursuant to notice, at 10:08 a.m. in
+Room SD-366, Dirksen Senate Office Building, Hon. Lisa
+Murkowski, Chairman of the Committee, presiding.
+OPENING STATEMENT OF HON. LISA MURKOWSKI,
+U.S. SENATOR FROM ALASKA
+The Chairman. Good morning, everyone. Welcome to the Senate
+Committee on Energy and Natural Resources. We will come to
+order as we convene for a hearing on quantum information
+science (QIS).
+As I came into the hearing room the hallways were packed
+with reporters and I thought, yes, we are finally here.
+[Laughter.]
+We have such excitement and enthusiasm about quantum
+information science. We do have a full committee room, and I
+think that is good.
+I welcome each of you as experts in this area, an
+opportunity for us to learn more. We are here because our
+nation has never shied away from tackling the world's biggest
+scientific challenges. Whether mapping the human genome or
+landing on the moon, we have seen how committed research
+efforts can truly change the world.
+Today we face another outsized scientific challenge. As
+computing power nears the realization of Moore's law, newer,
+faster, and more efficient means of computing will be required.
+That is where quantum computing, and the broader field of
+quantum information science, comes in. Quantum promises to
+revolutionize the speed and the scale at which we process data
+which could enable discoveries and advances that border on
+science fiction.
+The potential reward from investments in quantum are
+tremendous, and we are hardly the only ones to recognize that.
+A number of other countries and the European Union (EU) are
+devoting significant sums to develop this technology, none more
+so than China which recently announced a $10 billion
+investment.
+But I think we know here in this country that we always
+want to stay ahead of the curve. To that end the Department of
+Energy (DOE) is exploring ways to leverage resources and form
+partnerships to solve these challenges and that is a reflection
+of how we chose our witnesses today, with the Under Secretary
+for Science joined by representatives from the labs, university
+and industry.
+We are very glad to have all of you here today, although I
+will note that it was another company, it was Intel, who caught
+my attention on this based on their decision to name a new
+superconducting test chip after a chain of lakes in Alaska.
+This is Tangle Lake, which is also a reference to the extreme
+cold temperatures and snarled state that quantum bits desire to
+function.
+The technology is complicated, so I am going to leave those
+details to you and ask you to help educate us, again, as our
+expert witnesses. But, I think, also recognizing opportunities
+that exist with quantum are also easy to understand, quantum
+science could allow for breakthroughs in energy, medicine,
+communications and almost every other facet of our lives. So
+great possibilities here.
+I am proud to be working with the House Science Committee
+and the Senate Commerce Committee on quantum legislation. I am
+glad to see strong interest in this subject, as evidenced by
+the Administration's summit on quantum which was held yesterday
+at the White House.
+We have a lot of work in front of us and, as that proceeds,
+I want to make clear that funding for quantum is not a
+replacement for the investments that we need to make in
+supercomputing and exascale computing. Instead, we should see
+quantum as a tool that will augment and improve our nation's
+computing capability and work in tandem with more traditional
+computing capabilities.
+Again, I look forward to hearing from our distinguished
+panel. I will turn to Senator Duckworth this morning for her
+opening comments. Thank you for being here this morning and
+filling in for Senator Cantwell.
+STATEMENT OF HON. TAMMY DUCKWORTH,
+U.S. SENATOR FROM ILLINOIS
+Senator Duckworth. Thank you, Madam Chairwoman, and thank
+you for scheduling this important hearing to examine the
+Department of Energy's efforts in the field of quantum
+information science.
+The only thing I know about quantum information is I can
+spell it.
+[Laughter.]
+The Chairman. We are learning.
+Senator Duckworth. We are learning, we are learning.
+But it certainly is vital to, not just science, but our
+economic competitiveness on a global scale.
+Quantum information science is a wide-ranging area of
+research that is expected to lay the groundwork for the next
+generation of computing as well as an array of other innovative
+technologies. Quantum technologies can result in breakthroughs
+with applications in sensing, communications, computing and
+simulation. They also have potential to address some of the
+world's most challenging problems and the United States is
+poised to be a leader in this development.
+Researchers at private companies, universities and national
+labs across the country, but especially in my home State of
+Illinois, are leading in the development of quantum
+technologies. Although most states do not have any national
+labs, Illinois is blessed with two. Both Fermi and Argonne are
+global leaders in the area of quantum information science. For
+example, in Illinois we have the Chicago Quantum Exchange which
+is a collaboration between the University of Chicago, Argonne
+and Fermi for advancing academic, industrial and governmental
+efforts in the science and engineering of quantum information.
+These partnerships between the private sector, universities and
+national labs create efficiencies for research and they must be
+well funded to continue making progress in this field.
+I am pleased that the Department of Energy plans to invest
+just over $100 million in quantum-related research next year.
+And just yesterday, I am pleased to announce that DOE announced
+$218 million in funding in this field. DOE should continue and
+expand its quantum research program for both fundamental
+science and providing access to the necessary science
+infrastructure. Quantum information science research is
+primarily basic, fundamental scientific research at this stage,
+and there is a clear federal role in making these science
+investments. These investments will be pivotal in maintaining
+U.S. leadership for quantum technologies and ensuring that the
+United States' competitiveness while other countries like China
+are also investing billions in research. As we continue to
+invest more into research and infrastructure of quantum
+sciences, it is clear that there will be an increasing need for
+people to perform jobs in this growing industry. This is the
+future. The Department of Energy should work with other federal
+agencies and these existing regional collaborations to develop
+a program to ensure that there will be a qualified and trained
+workforce for future quantum development.
+I would like to end my remarks by extending a warm welcome
+to all of the witnesses and to give special thanks to Dr. Guha
+who is testifying today on behalf of Argonne National
+Laboratory. Dr. Guha is a Senior Science Advisor at Argonne
+National Laboratory and the Director of the Center for
+Nanoscale Materials there. He is also a Professor at the
+Institute for Molecular Engineering at the University of
+Chicago. Dr. Guha came to Argonne at the University of Chicago
+in 2015 after spending 20 years at IBM Research where he was
+Director of Physical Sciences. While there, he pioneered the
+Materials Research that led to IBM's high dielectric constant
+metal gate transistor, one of the most significant developments
+in silicon microelectronics technology. Dr. Guha has
+specialized in the discovery science of new materials for
+information processing (IP). I am personally thrilled he is
+with us today.
+So, once again, I thank the Chair for holding this very
+important hearing, and I look forward to the testimony of our
+witnesses.
+The Chairman. Thank you, Senator Duckworth.
+We will begin with our panel which will be led off this
+morning by the Honorable Paul Dabbar, who is the Under
+Secretary for Science for the Department of Energy. Welcome
+back to the Committee.
+He will be followed by Dr. Supratik Guha, who has just been
+introduced by Senator Duckworth, who is jointly associated with
+the University of Chicago and Argonne National Lab. Welcome.
+Mr. Todd Holmdahl is the Corporate Vice President, Quantum,
+with Microsoft.
+Rounding out the panel we have Dr. Irfan Siddiqi, who is
+the Director of Berkeley Quantum. This is a strategic
+partnership between Berkeley Lab and UC Berkeley.
+We welcome each of you to the Committee. We ask that you
+try to keep your comments to about five minutes. We will have
+an opportunity for questions and your responses following that.
+Under Secretary Dabbar, if you would lead us off.
+STATEMENT OF HON. PAUL M. DABBAR, UNDER SECRETARY FOR SCIENCE,
+U.S. DEPARTMENT OF ENERGY
+Mr. Dabbar. Thank you, Chairman Murkowski and Acting
+Ranking Member Duckworth and members of the Committee, I'm
+pleased for this opportunity to discuss the emerging field of
+quantum information science to highlight the potential for our
+nation's continued economic competitiveness and national
+security.
+First, I would like to thank this Committee and the whole
+Chamber for the support on innovation in sciences. The amount
+of focus of resources that have been applied are at an all time
+high, and we very much appreciate the leadership of this
+Committee and the others on the investment and innovation for
+this country.
+QIS represents a new frontier in information technology.
+Unlike today's computers, which rely on transistors, quantum
+applications use elementary particles like photons or electrons
+to store and use data. Such applications are challenging but
+they also open new opportunities.
+They are needed because Moore's Law, which was predicted by
+Intel's co-founder, Gordon Moore, that the computing capacity
+would double on a regular basis is slowing down due to physical
+limitations. Transistors are now down to the size of three
+atoms. It's becoming increasingly difficult for us to go even
+further. That's where the Department comes in since we have a
+long history as a global leader in computing as well as in
+particle physics which are the two enabling technologies.
+This past June our summit supercomputer at Oak Ridge was
+named the fastest supercomputer in the world and the most
+powerful artificial intelligence machine in the world. Today,
+we're actively pursuing exascale. The promise of quantum
+computing is complementary to classical information systems
+while holding the potential to do some computations more
+successfully and more speedily than classical systems.
+There are three main types of QIS applications: Quantum
+Computing, Quantum Networking and Quantum Sensing. Let me give
+you one example of each. In Quantum Computing, utilizing the
+properties of individual photons or electrons to store
+information can dramatically increase calculations. If we hit a
+50-qubit computer, for quantum computers we will have the
+capabilities equal to the current capacity of our high-end,
+high-performance computers, and we are on track to potentially
+produce machines that are more than double that target which
+would lead to computers with 10 to the 15th more computing
+power than what we currently have--very large number.
+Quantum Networking would allow us to transmit quantum
+entangled data through the quantum internet, and Quantum
+Sensing technology will enable detection of physical properties
+such as magnetic fields at very small scales such as at the
+individual cellular level of a human's body. We might be able
+to map every individual cell in a human, leading to jumps in
+medicine that are vast such as individual cell, cancer cell,
+targeting.
+Yet, developing quantum information systems presents
+challenges of physics and physical sciences. The national labs
+are leaders in basic research in these areas. As you may
+remember, 40 percent of all the world's Nobel prizes in physics
+were awarded to researchers who did work in our national labs.
+To accelerate our efforts, we announced yesterday $218
+million in funding for 85 projects at our national labs and in
+universities at yesterday's White House event. Among those are
+the creation of two quantum test beds which will operate in
+similar ways to our national lab user facilities. As a part of
+that effort we will continue to work with our sister agencies,
+the DoD, NSF and NIST.
+We continue to achieve these goals can be done by creating
+cross-cutting technology centers and the DOE has done that, as
+was mentioned by the Chairman, in such past grand challenges as
+the Manhattan Project and the Human Genome Project.
+Similarly we have been reviewing setting up quantum centers
+and we believe that setting these up allow a diverse set of
+bidders, including national labs, universities and private
+industry consortiums, to allow for the best competition of
+ideas.
+The National Quantum Research Information Center set forth
+in the draft bill holds great promise. We previously pioneered
+this model of research of centers across our national lab
+complex. While it is important for us to sustain our research,
+in addition, at individual and small research efforts like we
+announced yesterday, establishing three to five national
+quantum centers would anchor the national program to ensure
+discoveries would rapidly translate from technological
+advances.
+Moore's Law is bringing us to the limit of conventional
+computing but the DOE's national labs specialize in
+breakthrough boundaries and opening possibilities so, with our
+partners, we intend to open new frontiers in quantum
+applications and build a stronger nation.
+[The prepared statement of Mr. Dabbar follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Secretary Dabbar.
+Dr. Guha, welcome to the Committee.
+STATEMENT OF DR. SUPRATIK GUHA, PROFESSOR, INSTITUTE FOR
+MOLECULAR ENGINEERING, UNIVERSITY OF CHICAGO, AND DIRECTOR OF
+THE CENTER FOR NANOSCALE MATERIALS AND SENIOR SCIENCE ADVISOR,
+ARGONNE NATIONAL LABORATORY
+Dr. Guha. Chairwoman Murkowski, Ranking Member Duckworth
+and members of the Committee, thank you for the opportunity to
+appear before you today to discuss the status of quantum
+information sciences and the role and efforts of the U.S.
+Department of Energy national laboratories in this regard.
+I'm Supratik Guha, a professor at the Institute for
+Molecular Engineering at the University of Chicago and Director
+of Argonne National Laboratory's Center for Nanoscale Materials
+Facility supported by the DOE Office of Science.
+Quantum information sciences exploits the unique properties
+of quantum mechanics to rapidly explore information spaces in a
+connected manner, rather than the sequential manner of
+conventional information processing. Building machines and
+devices that exploit this property, we then expect enormous
+advantages in certain types of computing such as codebreaking,
+in the design of molecules for areas such as drug discovery and
+in the secure transmission of data.
+Advances also extend to the measurement, with unprecedented
+accuracy, of physical parameters important in areas such as
+geo-positioning, as well as the basic sciences, a field known
+as quantum sensing. The potential impacts are remarkably broad,
+from sensing within living cells to using highly precise atomic
+clocks to try to answer the fundamental questions, for
+instance. Are some of the physical constants we assume in
+science to be constant really constant?
+The time to significantly expand our efforts in quantum
+information is now, because this technology will offer critical
+differentiating advantages to the leader. And what is needed is
+an effort that is broad in scope, spanning science as well as
+engineering.
+This is where the DOE national laboratories come in. They
+have the size, the massive experimental capabilities and the
+multidisciplinary skills from computing systems to physics and
+material science under one roof as well as the professional
+staff and management skills to deliver on large, complicated
+projects. Working in close collaboration with industry and
+academia, which is essential, the national labs can be anchors
+for future research in quantum information sciences. The DOE
+labs have a proven track record. From the 1940s through the
+1960s, Argonne played a major role in developing nuclear
+reactor technology. More recently, the DOE national labs,
+working with computer companies and academic partners, anchored
+the development and scientific utilization of supercomputing.
+The science community is a strong supporter of the DOE
+laboratory system and is well connected historically through
+the laboratories' various user facilities such as the light
+sources, the Nano Science Research Centers and the computing
+facilities and the neutron sources.
+Quantum advances will require a multidisciplinary vision
+and a new workforce of quantum engineers who are intimately
+familiar with quantum mechanics. This philosophy is behind the
+newly-formed Chicago Quantum Exchange, a collaboration between
+Argonne, Fermi National Accelerator Laboratory and the
+University of Chicago involving over 60 scientists from these
+three institutions.
+As an example, the Chicago Quantum Exchange recently has
+begun research, funded by the DOE, on establishing a 30-mile
+optical fiber link between Argonne and Fermilabs as a testbed
+for studying quantum entanglement and teleportation for secure
+information transfer. This is not something a university could
+have done on its own and highlights the unique benefits to such
+national laboratory-university partnerships.
+Aiming to create a workforce, the Chicago Quantum Exchange
+has begun a program, funded by the National Science Foundation,
+to match students and their academic advisors across the
+country with industrial and national laboratory members, and
+this is with students graduating from universities all across
+the United States. The nearly 20 University of Chicago faculty
+attached to the Quantum Exchange are some of the world's
+leading experts in quantum science, and they administer one of
+the first Ph.D. programs in quantum engineering in the world.
+It is also almost certain that quantum information sciences
+will bring many applications that are as yet unknown, but which
+will significantly affect our lives. It is, therefore,
+important to have breadth in our activity going forward, in
+sharing information and data and drawing from the intimate
+connections between thought leaders in academia, industry and
+the national laboratories.
+Thank you for your time and attention. I will be happy to
+respond to any questions you might have.
+[The prepared statement of Dr. Guha follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Dr. Guha.
+Mr. Holmdahl, welcome.
+STATEMENT OF TODD HOLMDAHL, CORPORATE VICE PRESIDENT, QUANTUM,
+MICROSOFT CORPORATION
+Mr. Holmdahl. Chairman Murkowski, Ranking Member Duckworth,
+members of the Committee, thank you for the opportunity to
+share Microsoft's perspectives on quantum computing.
+My name is Todd Holmdahl. I run the Quantum Computing Group
+at Microsoft. We've been investing in quantum computing for
+over the last 15 years. We've amassed a team of computer
+scientists, scientists and engineers in order to produce a
+scalable, commercial, quantum computer.
+Now, quantum information science is a very big topic. We
+are specifically focused on building a scalable, commercial,
+quantum computer built on a high quality, high fidelity qubit.
+The benefits of quantum computing are many. You can see
+benefits in terms of energy, food production. You can see it
+also in terms of climate change, different materials
+optimization.
+One area where we believe that quantum computing can solve
+a big problem is in terms of producing artificial fertilizers.
+Today, three percent of the natural gas produced in the world
+is used to produce artificial fertilizers. The process we use
+is 100 years old. It was started in the 1900s. It's at a very
+high temperature and a very high pressure. But we know that
+there are microbes in the world that can do the exact same
+thing at a much lower temperature and a much lower pressure,
+and we believe that a quantum computer can figure out the
+secrets of what those microbes are doing so that we can produce
+the same fertilizer at a much lower energy and a much lower
+cost.
+Now everything that's hard needs investing in, in order to
+realize its full potential. We recommend that the Committee
+look at investing in quantum computing in three different ways.
+First, invest in the quantum workforce. We have very few
+people who are ready to produce quantum computers. You need
+engineers. You need scientists. You need computer programmers
+in order to do that. We recommend that industry, academia and
+universities develop curriculum that can be posted online or be
+taught at universities. We recommend on-the-job training for
+engineers that are already in the field. Many of these
+engineers have the foundation, but they don't have all the
+skills necessary to join the quantum workforce and on-the-job
+training would help that. And the third thing we recommend, is
+looking at a national program for quantum computing. I've done
+many products at Microsoft. This is by far the most interesting
+science and technology out there.
+The second recommendation we have for the Committee to look
+at is in basic research around the fundamentals of quantum
+computing, particularly in looking at a scalable qubit. The
+qubit is the fundamental computational element of a quantum
+computer. It's very fragile. Most of these qubits are operated
+at 20 millikelvin at almost Absolute Zero, and we need to
+develop the materials and the fabrication and the manufacturing
+processes in order to make these things stable so that we can
+have these big, large-scale quantum computers.
+The third thing we recommend is the development of quantum
+software algorithms. The algorithms that you run on a quantum
+computer are completely different than the algorithms that you
+run on a classical computer. But even though we don't have
+quantum computers today, we can learn about these algorithms if
+we do a couple of things. One, we recommend that we take large,
+classical computers and simulate a quantum computer on these
+large, classical computers with simulation, and with a quantum
+development kit we can start working on these algorithms today
+so that when we have the quantum computers, the algorithms will
+be developed and built to be able to process and solve these
+big problems. The second thing we recommend is partnerships
+between academia and industry and the government. We, today,
+are in a partnership with Pacific Northwest National Laboratory
+and we're working specifically on solving some of their big,
+tough, chemistry problems. Quantum computers look like they
+will help solve these big problems and we're making incredible
+progress so that when we get the actual quantum computer, we
+can test it out right away.
+An amazing space to be working in, the most exciting thing
+I've done in my career and, like anything else though, you need
+to invest in it in order to realize its potential.
+Thank you.
+[The prepared statement of Mr. Holmdahl follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Thank you, Mr. Holmdahl.
+Dr. Siddiqi.
+STATEMENT OF DR. IRFAN SIDDIQI, FACULTY SCIENTIST, LAWRENCE
+BERKELEY NATIONAL LABORATORY, PROFESSOR, UNIVERSITY OF
+CALIFORNIA, BERKELEY, AND DIRECTOR, BERKELEY QUANTUM
+Dr. Siddiqi. Chairman Murkowski, Senator Duckworth, all the
+honorable Senators and members of the Committee that are here,
+I would like to thank you for giving me the chance to tell you
+about why I think quantum is so exciting this morning.
+I will start off by saying I started working in this domain
+before there were superconducting qubits. So for more than 20
+years I've been thinking about quantum mechanics, and my role
+is really both as a physics professor at UC Berkeley and also
+someone that works at Lawrence Berkeley Lab.
+I want to start off by asking, why quantum? Why now? You
+know, I just taught 200 quantum mechanics students over the
+last three weeks, the mathematics of this theory which is more
+than 100 years old. Right? So why now? Why are we, sort of, now
+figuring out what to do with this?
+And, moreover, what's rather striking is that quantum
+theory is the backbone of most modern technology, whether it's
+lasers or computers or MRI scanners or CT scanners. But what's
+amazing is we still have not really tapped into quantum yet.
+And the reason for that is we spent 100 years trying to figure
+out if a cat can be asleep and awake at the same time. Really,
+right? And I think the verdict is out. We believe that cats can
+do this.
+[Laughter.]
+Right? And that's an amazing philosophical statement
+because if cats can do this then bits can do this. Right?
+And the point is that systems that we observe, in fact,
+have an inherent complexity which goes well beyond what we
+observe. To the point that if you have even a modest array of
+quantum bits, the number of parameters you would need to
+explain or describe that array is more than the particles in
+the universe. That's true.
+So the idea is if I really have a small chunk of quantum
+matter, quantum bits, a computer or simulator, then in fact, if
+I can harness it, it's extremely powerful. Right?
+And we can list some of the applications that my honorable
+colleagues were mentioning, but I would say the best of quantum
+is still yet to come. Right? Because we have not really even
+thought about what are the full implications, in fact, of
+having this technology.
+So really the task at hand for all of us is to manage
+intellectual capital in an efficient way, without knowing
+actually the full potential of that capital just yet. But with
+having that little glimmer of hope that says, for sure this
+will be transformative because now we know how the world really
+works.
+Staying to the subject of today's discussion, the role of
+the Department of Energy in such an endeavor. We are still in
+the discovery phase, and the Department of Energy has a rather
+critical, crucial role to play in discovery-driven science.
+In particular, progress in quantum information science
+hinges upon critical advancements in materials that sustain
+quantum behavior, engineering advances to control quantum
+machines and new ideas in computer science to find the most
+impactful implications. DOE labs have core expertise in exactly
+these three areas. In fact, they have a long history of
+shepherding discovery-driven research that is ultimately needed
+to bring quantum in every home. Alright? That's something we
+still need to think about and how to implement.
+In particular, if we are really serious about training the
+next generation workforce, and I see them every day, then we
+need to have projects for them to engage in. Right? Where will
+all our Ph.D.s go when they finish working on this subject?
+In fact, academia and industry, to me, represent two
+particular areas but there's a big area in the middle where, in
+fact, DOE labs can shepherd all these nascent scientists. And,
+in fact, it's a great place to hone your skills and become a
+professional scientist at a DOE lab.
+Of course, as was mentioned by other Committee members, the
+DOE labs do not exist in a vacuum. Right? They are a critical
+part of the quantum ecosystem that has partners in both
+academia and industry. What I would like to say is that each of
+these entities has a unique role to play in this process, and
+greatest progress is made when competitive overlaps are turned
+into synergistic partnerships.
+National labs can naturally extend the reach of the
+university researcher while identifying the most promising
+technologies for commercialization. The DOE brings continuity
+and stability to the picture. Progress in quantum technologies
+extends well beyond the life of one graduate student, and
+extends beyond the life, in fact, of a very near-term
+industrial endeavor.
+As for the structures of these centers, perhaps the hybrid
+approach is best, where we have both vertical integration and
+horizontal integration. Vertical integration on a particular
+technology brings everyone in the same room so we all speak the
+same language. There's nothing that's lost in translation
+between engineers and scientists and physicists and computer
+scientists. We also identify those gaps where we need to fill
+and really make progress. Horizontal integration, amongst
+common topics, has its natural benefits.
+Moreover, I feel that these centers could be endowed with
+the ability to have deeper partnerships with industry which go
+beyond simply using nascent technologies. We are still trying
+to identify the technologies that are most important for us.
+They could have the ability to grant fellowships to students
+and postdocs to keep them in the field and to sponsor community
+building activities, both between workers in this field and
+also to sponsor that we are all engaged with.
+At Berkeley we have started Berkeley Quantum, a partnership
+between the lab and the university, and we are now endeavoring
+with the help of the Department of Energy to seed, if you like,
+the analog of a light source or a particle accelerator for
+quantum information technology, specifically superconducting
+qubits, so we can look at all the fundamental questions as a
+community and move forward from there.
+I thank you again for giving me the opportunity to share
+these remarks, and I'm happy to answer any questions that you
+may have.
+[The prepared statement of Dr. Siddiqi follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+The Chairman. Dr. Siddiqi, thank you. I have to admit, I am
+still thinking about the cat.
+[Laughter.]
+So this is all about education and we certainly are
+benefited by your comments this morning, and really, your
+leadership in an area that is quite exciting. I think you put
+it into context quite well at the end. This is not something
+new and yet it is breathtakingly new in terms of its scope and
+its possibilities.
+Let me ask, because I think almost all of you have
+mentioned the necessity, as we move forward with these
+extraordinary opportunities, that we have the workforce and how
+we build that, how we develop the engineers, how we are able to
+partner, and I appreciated the mentoring program at Chicago
+Quantum Exchange Mentoring Program. But let me ask the
+question, in terms of our level of preparedness. I appreciate
+what was announced yesterday at DOE with $218 million in the
+research awards. I think that is significant. But when we think
+about what is happening around the world, I mentioned and it
+has been mentioned, the incredible investment that China has
+put forth--$10 billion. The EU has a quantum manifesto to move
+forward with a $1.1 billion flagship initiative. The UK has
+invested $440 million in a national quantum technologies
+program. There is Australia. There are other nations, the
+Netherlands.
+As we compete for these individuals that will help us
+advance, are we growing our own? Are right-focused individuals
+being wooed away by other nations that are, perhaps, investing
+more in this initiative? Help me out in understanding, kind of,
+where we are in competing for the best and the brightest, and
+how we can do more to ensure that everything lines up in terms
+of our opportunities. And I throw that out to the whole panel.
+Mr. Holmdahl, if you want to start?
+Mr. Holmdahl. Yeah, thank you, Senator Murkowski.
+Yeah, we've been developing a team, again, for a number of
+years and we're all over the world right now. We have labs in
+the Netherlands. We have a lab in Copenhagen. We also have a
+lab in Sydney, Australia. We happen to have labs in Purdue and
+Santa Barbara as well and then, of course, in Redmond.
+There was no way that we were going to be able to get
+enough physicists to come to Redmond, so we had to go
+throughout the world in order to staff our program.
+I would say, in my humble opinion, that the rest of the
+world seems to be a little bit ahead of us in terms of
+generating the next level of workforce. A lot of kids in
+physics and a lot of kids in engineering there.
+What we're able to do as a multinational company, at
+Microsoft, we're able to attract these resources and have them
+work on the programs that we've been working on. I would say we
+do, and I will try to outline it. We do need to continue to
+work on this quantum workforce. We don't have enough people
+coming from our universities yet and there are not a lot of
+great schools, again, in my opinion, that are pumping out the
+type of people that we're going to need for this quantum
+economy. Because it's going to be big, and you're going to need
+people to build the machines. You're going to need people to
+fabricate the machines. You're going to need people to engineer
+the machines, people to program the machines, and it's a whole
+list of different opportunities out there.
+And the more that we can get the universities built up, the
+more that we can go down into the high schools and develop
+programs, the more that we can do on-the-job training, the
+better opportunity we'll have to do it in the United States.
+The Chairman. Dr. Siddiqi?
+Dr. Siddiqi. Let me address the question in two parts. The
+first one is about our colleagues, right, in other countries
+and their investment in this particular subject. I think the
+good news for us is that I still get hundreds of applications
+for graduate students and postdocs that want to work with us.
+So we must be doing something right.
+In particular, we focus in our academic system on creative
+ideas and developing that talent. So we are raising the plants
+properly. The question is, what happens when they want to leave
+and get a job, right? Is there an opportunity there? And that
+was what I was alluding to in my remarks.
+What I have seen amongst graduate students is that, first
+of all, they're much smarter than I am and have ever been.
+They're the real reason we do any successful work in the lab.
+That means that we must treat them really as equals, and be
+honest with them and say, what are the right career choices?
+Where can you go, you know, with that talent? And I must say,
+before quantum really took off in this particular phase, I
+would have many different suggestions for them, perhaps in
+biotech or someplace else, because physics is a way of
+thinking. There are many things you can do with that degree.
+But I think it's very exciting to now have this endeavor
+take off. I think the critical part will be to not only train
+these folks, but also give them a way, honestly, that they can
+actually contribute positively to the ecosystem. And they are
+very smart people. They know where to go and how to work with
+their careers. In fact, they are at some level a commodity, but
+at some level human beings. So it's critical to make sure that
+there's honesty in the endeavor and there are things that they
+can be productive in as they go forward.
+The Chairman. I appreciate that.
+Dr. Guha and then we will go to Under Secretary Dabbar.
+Dr. Guha. Just a couple of quick comments.
+First of all, yes, I think we are noticing over the past
+some years that there's increased recruitment of bright
+students who are being given a lot of facilities and resources
+and being hired in other countries. But I think that is fine. I
+mean, that is the way, you know, the research world is
+progressing, as long as we are also able to recruit them from
+outside and back into here, I think it's fair game.
+In terms of the workforce, there is a need for a quantum
+trained workforce, essentially engineers who know how to do
+quantum mechanics. And we need to be smart in the way we do
+this. Today, for instance, most of the people involved in
+quantum information sciences come with physics backgrounds,
+chemistry backgrounds, and the material science community is
+just getting into it, the computer science community is just
+getting into it. But this now also needs to include the
+electrical engineers, the mechanical engineers, the packaging
+research people. So that whole ecosystem needs to be pushed
+out. That is not happening right now and we need to consciously
+work toward that.
+And finally, I will say that the, you know, the coupling
+between the educational establishment and the national
+laboratory system and industry, in my experience, is probably
+the strongest in the United States still today. And the U.S. is
+still in a leadership position, particularly in quantum
+information sciences.
+So we need to simply build on these. A lot of the other
+countries are essentially trying to, you know, grow from a
+position that's below, in terms of the sophistication. So, I
+think, if we do this smartly with our investments, I think we
+can continue to be ahead.
+The Chairman. Thank you.
+Under Secretary Dabbar, I am well over my time, but since
+everyone has brought this up I will certainly allow DOE to
+weigh in here.
+Mr. Dabbar. Thank you, Chairman.
+So, I think, just to state a few facts. The United States
+is the leader in particle physics in the world. As I mentioned,
+40 percent of all the Nobel Prizes in the world in physics are
+from people who were just in our national labs, so not even
+counting people who have not. People still want to come to this
+country and people are very excited about this topic. So I'm
+very--every day when I sit and talk with my labs and talk about
+where we are in technology versus others, I think we're in a
+very positive place. I can tell you that there are people
+around the world who would rather know what's going on at
+Argonne and at Berkeley than what they're doing themselves. I
+can say that with a high degree of confidence. So I think we
+are in an excellent place for the beginning of a long journey.
+When it comes to workforce, I can say that having toured a
+lot of the major universities--MIT, Caltech and Stanford, and
+Chicago--over the course of this last year, there's a
+tremendous rush of interest of students.
+And so the point is, is how do we build upon some of the
+points that was just discussed which is, how do we provide
+support for research, and how do we provide connections with
+the private sector? I am very positive about that
+interconnection. Yesterday was a good additional step forward.
+The dynamic interaction between universities, the national labs
+and the private sector in this is unparalleled in this country.
+So what can we do more? We could do more by, I think, some
+of the things that are being proposed by the bill, in part, led
+by the National Science Foundation where they're specifically
+looking at rolling out some workforce development. So that's
+part of the bill, and we very much support that.
+And then, as our role as part of this is continuing to fund
+the research. Actually, we go hire PIs and at the end of the
+day they go higher in number of students to support them. So
+there is seed money, to use a venture capital term, an effect
+that we cause for the rest of the sector.
+The Chairman. Thank you.
+Senator Duckworth.
+Senator Duckworth. Thank you, Madam Chair.
+I would like to, sort of, dig a little bit into what Dr.
+Siddiqi had mentioned. But I am going to address a question at
+Under Secretary Dabbar.
+You know, when we talk about this competition for this
+talent, and Dr. Siddiqi talked about where does this talent go
+once they are trained. I understand that the private sector,
+who will lead the way in commercialization for the discoveries
+made at our laboratories, face bureaucratic road blocks to
+entering public-private partnerships with our labs. My question
+really is, how do we grow those public-private partnerships?
+How do we help industry and entrepreneurs to get into this and
+be able to work with our national laboratories? What steps are
+you taking to simplify and expedite the process of entering
+into these types of partnerships between the national labs and
+private sector and what are you doing to really promote
+industry, whether it is a Microsoft or even a venture,
+something, two physics students are graduating, how do we grow
+this? Because as Dr. Siddiqi rightly states, they have to go
+somewhere, and I would rather they go to U.S. companies that
+are working directly with our labs in a very symbiotic way.
+Mr. Dabbar. Thank you, Senator. So I think there's two
+parts to answer your question.
+First of all, is how do we actually bring additional
+private sector involvement in with the work at our labs? That's
+not just this area, I could actually apply it to pretty much
+any of the research areas but, in particular in this area, a
+lot of people in this industry have not worked with national
+labs on a commercial level. We have more interaction with
+biotech and high-performance computing.
+And so, I think yesterday was a good first step of reaching
+out to the private sector and explaining our capabilities and
+that the private sector uses our national labs, as you know,
+labs in your state, a tremendous amount of private interaction.
+And for them to realize what we're there--and to figure out how
+we can make the connections of doing work to support them and
+also to figure out which specific dollars that you budget for
+us to go spend will make the biggest impact.
+So that's the Pasteur's quadrant to a user-inspired
+research philosophy that we're very much a part of and very
+much pushing. As a part of that, doing specific events to
+connect more with people. So we just did one on battery
+research out at Stanford this last week.
+When it comes to specific administrative aspects that you
+effectively touched on, I completely agree with you. The
+biggest challenge with the DOE lab complex is that we, as a
+principal, have all sorts of legal requirements and in order to
+step through, and reviews, which many times in a large entity
+is slow and it's hard for private industry to work with. I
+agree with you. It's something we've been attacking on a broad
+basis, including in this sector, and we're actually
+implementing a number of specific areas which make it easier.
+I'll comment on one which was asked previously here which
+was delegating authority for smaller agreements, below about $1
+million to the national labs with proper oversight in terms of
+auditing. But we're going to be making it easier, especially
+for involvement with anyone in the private sector, in any
+sector, in order for the labs to take the lead without having
+all the different bureaucracy that comes from Forrestal. We
+have analyzed that 50 percent of all the commercialization
+discussions with the private sector will be covered by this
+delegation of authority and should accelerate it significantly.
+Senator Duckworth. Wonderful. Thank you.
+I do see that this workforce development and really
+exploiting this field is a three-legged stool, right? You have
+the national labs, you have private industry, and then the
+third is, of course, our universities.
+Dr. Guha, welcome, again and thank you for testifying
+today. My question to you is going to deal with that last leg
+of the stool. And as you cite in your testimony, university
+researchers, like those at University of Chicago and University
+of Illinois, benefit from the national laboratory's
+infrastructure. You are also eligible for funding from DOE's
+Office of Science which allocates grants directly to university
+researchers in a variety of areas of quantum research for the
+universities. Can you discuss how university-based quantum
+research complements the work performed at the national
+laboratories and how these three legs come together? Because I
+do think that you need all three in order to continue to grow
+this workforce, grow the field.
+Dr. Guha. So there are several ways in which there is
+synergy between the universities and the national labs.
+First, as we've talked about the workforce development
+piece, a lot of these students end up getting trained in the
+national labs. For instance, just at Argonne there's about
+1,000 students and postdoctoral scientists who come by every
+year. And the number, I would say, is typical for the other DOE
+national labs as well. I just happen to know the numbers for
+Argonne.
+A lot of the academia and researchers use the user
+facilities, which is a jewel for the national lab systems, the
+light sources, the nanoscience research centers, neutron
+sources, the computing facilities. Just as an example again,
+the advanced photon source has about 6,000 users annually, most
+of them from, you know, university researchers across the
+world.
+The nanoscience research centers, there are five across the
+nation, on average have about 500 users, often 500-600 users,
+something like that per nanoscience center. So those are--so
+that type of engagement is a second way of engagement.
+And the third is, you know, we--the universities and the
+national labs together, when they work together along with
+industry, there's a diversity of thought that's required. As I
+mentioned, I believe we don't really know a lot of the uses of
+quantum information right now that will be useful to us in the
+years going forward, and this diversity of thought, this
+sharing of information, looking at it from different angles, is
+very, very important. I think that's a third area where the
+university, lab and industry interaction can happen.
+So it is very important going forward for research, not
+just in quantum information, but other areas such as artificial
+intelligence, for instance, needs to be purpose-driven. You set
+an agenda, then you put the team together, you know, be it
+universities, industry, academia and have it across different
+disciplines, multidisciplinary, computer sciences to
+engineering to science, and that's where this type of
+interaction really shines.
+Thanks.
+Senator Duckworth. Thank you. I am over my time, Madam
+Chair.
+The Chairman. Thank you, Senator Duckworth.
+Senator Cassidy.
+Senator Cassidy. Gentlemen, it is with trepidation that I
+ask a technical question, but nonetheless, I feel as if I must.
+As I gather from reading about qubits, they are inherently
+unstable and only at a certain temperature, et cetera, will you
+be able to have that. What if somebody pulls the plug out of
+the machine? I gather that in our current system the data is
+stored and you put the plug back in.
+Now, of course, I am speaking metaphorically, I am not
+speaking literally. But what if there is a disruption in how
+the data is being processed/stored, and how do you do a quality
+review to make sure disruption did not occur since the
+complexity and speed, et cetera, et cetera, et cetera.
+Whomever would wish to speak to that, please do.
+Dr. Siddiqi. Thank you, Senator Cassidy, for the question.
+So quantum mechanics has some very interesting features,
+right? To directly answer the question, how do we ensure that
+the machine has not lost functionality, has not drifted or has
+some other difficulty along the way?
+Senator Cassidy. Even for a nanosecond.
+Dr. Siddiqi. Even for a nanosecond we can run calibration
+sequences and they're part and parcel of making sure that the
+machine is functioning at its optimal performance.
+There are very specific tests in quantum mechanics. Some
+that we know now, others that we are developing within the
+domain of what's called verification and validation. There's a
+whole field of quantum verification and validation where you
+run this particular set of algorithms to make sure that your
+machine, for example, has not----
+Senator Cassidy. Ensuring you know the results of those
+algorithms would be beforehand and if the result comes out as
+you anticipate then----
+Dr. Siddiqi. Correct. And, in fact, they're on very solid
+footing because they are predicted by quantum mechanics itself.
+Senator Cassidy. So then let me ask you, how do you store
+the data? Because if there is a problem then everything you
+have worked on prior to that point is ``poof.''
+Dr. Siddiqi. Right. I think an important point to also
+bring up here is how quantum technologies complement classical
+technologies, right? In particular, this combinatorial space
+that you can access with quantum is really the power of quantum
+but things like storing numbers, adding numbers, minimizing
+things are perfectly well done on classical machines. So, in
+fact, most of the near-term applications really use a hybrid
+model where the quantum is used only for the little quantum
+step and all the other steps are classical. In fact, the new
+gains to all the benefits of what you're seeing in classical
+technologies and----
+Senator Cassidy. So then, let me ask, seeing how all this
+is, kind of, a great unknown as to how we are going to pull
+this off, will those who develop it have a proprietary--if
+Microsoft is the one that answers this question, would
+Microsoft then have the ability to restrict other people's
+access to the technology without a license fee, et cetera, et
+cetera, et cetera?
+Mr. Holmdahl. Well, what Dr. Siddiqi was saying is
+absolutely true, that in today's world most of the algorithms
+that we're looking at are a combination of classical and
+quantum and they would sit in some sort of data center so you
+could access that information through a data center.
+We are actively building a--what we're calling a scalable,
+stable, quantum computer built on a qubit that's highly stable
+and highly scalable. We are doing a lot of IP that, it will--
+we're writing patents around it and it will ultimately belong
+to Microsoft. These algorithms will ultimately run in our data
+centers so customers will have access to it through our data
+centers.
+But it is something that we're putting a lot of Microsoft
+people on to develop something that we can--believe that will
+solve a lot of problems both, you know, commercial and non-
+commercial problems.
+Senator Cassidy. Yes, sir.
+Mr. Dabbar. Senator, so the way I would separate this is
+that there's still basic research that will be open access.
+That's a lot of what the universities and national labs do that
+will be applicable to anyone who is trying to commercialize a
+particular product.
+And then, obviously, there is a wide array, growing
+exponentially it seems like, in terms of private industry,
+around all the different three major applications. They will
+develop their technologies and each one will have their
+particular way of attacking, computing and sensing, and so on,
+that will be dynamic. I think it's a good thing for the
+country.
+I would make a comment around hybrid computing. Besides
+being in basic research, the Department of Energy is a major
+consumer of high-performance computers, right? We build Summit,
+we build exascale, and they have been--we've actually pioneered
+hybrid systems. The GPU system, which is a hybrid, which is
+what the current high-end performer systems are which is
+classical, CMOS chips plus graphics processors to pick out
+which areas we pioneered and is part of our computers.
+We expect that, I think it was just said, that future
+computers, instead of having graphics processor units plus
+traditional CMOS might have attached quantum computers with a
+traditional classical computing system that will transfer data
+back and forth, memories and saving data and optimizing which
+should be calculated into which part of the computer.
+Senator Cassidy. Very good.
+Dr. Guha.
+Dr. Guha. I'd like to make a quick point that quantum
+information, you know, this is not the x+1 development of an
+existing form of computing that we know about very well like
+classical computing. This is a case where we're not so sure
+about the hardware, the software, the algorithms or the use
+cases.
+So there needs to be, in my view, a large component of open
+basic research. There is a time for black box research, and
+there's a time when a lot needs to be open----
+Senator Cassidy. I totally accept that, but I think
+Microsoft is more interested in black box----
+Dr. Guha. There needs to be a balance somewhere.
+Senator Cassidy. I didn't mean to throw----
+Mr. Holmdahl. No, let me answer that.
+We do--we have--we work with a lot of universities and we
+have a tiered program where we do basic research with the
+universities, and then also--which they own that IP and we have
+access to it. And then we also do some specific research, which
+you call black box, that's specifically dedicated for the
+product or the solution that we think, as Dr. Guha was saying,
+that we think is going to enable quantum computing. So we're
+doing actually both of those.
+Senator Cassidy. Yes.
+Yes, sir.
+I am over, am I allowed?
+The Chairman. Go ahead, Dr. Siddiqi.
+Dr. Siddiqi. Just a very small comment to, sort of, link
+all of these different ideas together. There will be a time
+where quantum computers outperform classical ones. So how do
+you know that the answer from the quantum one is reliable? In
+precompetitive research, at the moment there's tremendous value
+in performing the same computation on a quantum machine and a
+classical machine so we can verify that the quantum one is
+working the way we think it is. And we're very much, deeply in
+this phase at the moment.
+I think there is quite a period of time where we can, sort
+of, learn about these machines, vet them, so on and so forth
+and then, of course, there will be different roads by different
+consumers of this product whether it's in the civilian or
+military disciplines and so on and so forth.
+Senator Cassidy. Thank you.
+The Chairman. Senator Manchin.
+Senator Manchin. Thank you, Madam Chairman, and thank all
+of you for being here today.
+I wanted to speak about rare earth elements, or rare earth
+minerals, which I am sure are being used and needs to be used
+as far as in this type of technology for quantum computing.
+WVU, West Virginia University, and then also the Department
+of Energy's National Energy Lab you have in Morgantown, have
+really been on the forefront of looking at how we can be able
+to develop our own supply which right now I understand we do no
+mining at all. We depend on outside sources, mostly China for
+this, for what assets we need.
+I had a bill last year, Senate bill 1563, which put $20
+million into research and extending that because we know there
+is enough for mine drainage, acid mine drainage, that has
+enough of these rare earth elements that could carry us well
+into the future.
+Do you all agree that we are in jeopardy of not having our
+own supply and could be held hostage? I think, Mr. Dabbar, the
+Department of Energy is where this lies right now. Do you all
+look into this? Are you exploring this? Has it been brought to
+your attention?
+Mr. Dabbar. Senator, yes, I mean, of course, critical
+materials is an important part of DOE. We obviously have a
+focus on that at a number of our labs, including the one in
+your state. And----
+Senator Manchin. Were you aware of what they have done in,
+basically, research right now in conjunction with WVU on
+showing that they can recover these rare earth elements, rare
+earth minerals?
+Mr. Dabbar. Yes, in terms--yes, Senator, in terms of
+different recovery, yes, absolutely. And to link it back to, I
+think, the sort of research that might be helpful here in terms
+of materials research. Clearly a lot of materials are quantum
+systems. That's a little bit of materials and mechanical
+engineering. And at the end of the day the sort of research
+that we could do on the material side, on quantum systems, with
+these, sort of, with quantum systems could make critical
+materials. We could identify how to utilize them better and
+possibly reduce our risks.
+Senator Manchin. Well, not just this, not just what we are
+talking about just for quantum computing. Do you believe it is
+a risk for the United States of America to be held in jeopardy
+from not having our own supply and we are relying on outside
+sources in other countries?
+Anybody want to comment on that?
+Mr. Holmdahl. Yeah, I will. I do think it's a risk. You
+know, right now----
+Senator Manchin. I don't hear anybody raising it----
+Mr. Holmdahl. No, it is a risk and, you know, what we're
+actually doing, and I can't comment on whether it's rare earth
+materials or indium or antimony or arsenic, but we are actually
+doing an extensive look at our supply chain right now and
+looking at what it takes to build a quantum computer from the
+qubits to the cryogenic layer that controls the qubits until
+the helium that you need in order to keep everything cold. So
+that's an exercise that's just started with us, but we realize
+the importance of the supply chain and we are diligently
+working through that and trying to figure out where all these
+things come----
+Senator Manchin. Let me follow up with my second question
+here and I will go right to you on this second question. I
+think it is your sweet spot.
+The Federal Government has been conducting quantum
+information science research and development since the mid-
+1990s. We have been at it for a while. However, it has not
+explicitly made advancements in quantum information science a
+priority. The overall annual federal budget is spread across
+many departments and it is estimated to be $200-250 million.
+Now, the South China Morning Post has reported that China
+will invest approximately $10 billion, $10 billion, in a
+national laboratory focused on QIS that is expected to open in
+2020, and technology in the facility would be of immediate use
+to the armed forces. It has also been reported that China has
+created a new form of quantum radar capable of defeating the
+electromagnetic stealth technologies employed in the $1
+trillion F-35 program. In addition, Chinese technology
+corporations like Alibaba and Baidu are investing heavily in
+quantum computing.
+Do we run a risk of falling behind the curve with China and
+also the threat of our nation being at risk?
+Dr. Siddiqi. Thank you, Senator Manchin, for the question.
+So the way I approach this particular subject is I would
+often have to remind my students how we, sort of, started
+working in this field. Looking at coherence times--this is a
+metric, for example, that tells how well your quantum computer
+is working. We have a team of four, right, on this particular
+topic and, in fact, other entities had teams of hundreds. In
+fact, we still have some of the most respectable times in the
+field.
+Senator Manchin. Are you concerned just strictly about
+China superseding us and leading in this technology?
+Dr. Siddiqi. Right. So I think my statement is that our
+ability to, sort of, be agile and maneuver will always keep us
+ahead of anything and that particular spirit keeps it going.
+But we must worry, of course.
+Senator Manchin. Do you believe we are ahead right now?
+Dr. Siddiqi. I think it's difficult to say what is ahead
+and what's behind. We are all trying to figure out what's----
+Senator Manchin. We do not seem to be prioritizing it and
+China put $10 billion to prioritizing for armed forces.
+Dr. Siddiqi. I would very much say that we should
+prioritize this research for all of the reasons that have been
+mentioned, and with our capability to be creative we will, no
+doubt, be leaders in this as in many other fields.
+Senator Manchin. Dr. Guha, do you have----
+Dr. Guha. Yeah, I think we need to increase our sustained
+investment in this field. If you look at the way China is
+investing, China also invests in focused centers across the
+nation. I know the European Union, sort of, spreads it around,
+roughly. My own feeling is that our investments need to be
+focused around centers, and we really need to ramp up our
+investment in this area. The U.S. has the lead today. I think
+that's very clear. But in order to maintain it over the next
+five years or so, we really need to invest.
+Senator Manchin. Thank you.
+Thank you, Madam Chairman.
+The Chairman. Thank you.
+Senator Gardner.
+Senator Gardner. Thank you, Madam Chairman, and thanks to
+the witnesses for being here today.
+We have talked about the amount of money that the Federal
+Government is spending through laboratories and other research
+agencies on quantum programming, computing. Do we have any idea
+what the private sector is spending in this area of research as
+well?
+Mr. Dabbar.
+Mr. Dabbar. Senator, we have very good connections in terms
+of our research with the leaders in this sector. We have--it's
+not completely visible about exact dollars that they're
+spending against it. I think we have a very good view of which
+universities and which private sector entities and which
+specific technologies that they're approaching.
+I would agree with the comment that was just said, that the
+energy and the diversity both, across all three different
+areas--private, universities and national labs--is a winning
+bet.
+Senator Gardner. Do we have an idea of roughly what that
+is? Not the exact amount but, I mean, is it a billion? Is it
+billions? Is it hundreds of millions?
+Mr. Dabbar. I would say that it's definitely in the
+billions if you add up all those different areas. I'm not
+certain if it would add up to ten, but it's--if you add up
+everything, it's quite large.
+Senator Gardner. And we have talked a lot about the work
+that is being done at DOE, the work that is being done in the
+labs, the work that is being done through the DOE lab system,
+NIST, NSF, DoD. How are you coordinating those dollars, those
+research dollars, and is there an adequate flow of information
+between everybody who is touching this research?
+Mr. Dabbar. Yes, Senator.
+I would say that the fact that this chamber and the one
+next door's efforts have stepped up our efforts in terms of
+coordination. We regularly get together with NSF, DOD and NIST
+on this topic now. We follow your lead in terms of your
+interest and your focus and also with other defense-related
+agencies. And so, that's accelerating. And I think with the
+advent of this bill which actually, you know, has this to
+coordinate, I think that will continue to progress.
+Senator Gardner. Thank you.
+In terms of the partnerships with the private sector, you
+mentioned the work that is being done in the lab systems with
+the private sector. China's work, they are working with the
+private sector, so to speak, as well. Correct?
+Mr. Dabbar. Yes, Senator.
+Senator Gardner. Are they working with U.S. companies in
+China on quantum computing, quantum information issues?
+Mr. Dabbar. I'm not familiar. It wouldn't surprise me if
+they weren't, but not that I know of.
+Senator Gardner. Mr. Holmdahl, has China worked with
+Microsoft on quantum information science?
+Mr. Holmdahl. Yeah, so we, like--not in my group, in
+particular. My group is all outside of--it's in, again, it's in
+Santa Barbara. It's in Purdue. We have a team in Sydney,
+Redmond and two in Europe.
+I do believe that Microsoft has, I know they do, they're a
+big multinational company and they do have a research center in
+China. And my understanding is that they have looked at some
+quantum stuff, as would a big research center in India, but
+that was all public information.
+Senator Gardner. Dr. Guha, you talked about some of the
+national security implications of quantum. Can you talk a
+little bit more of concern about this area if we fall behind
+protecting the information? What would we do should somebody
+get ahead of us from a national security perspective?
+Dr. Guha. Yes, so this is an area where I think China has
+made a lot of progress. As you may know, they have demonstrated
+a quantum link from a satellite to ground over roughly, I
+believe, about 1,000 kilometers or so. I don't believe they
+broke any scientific barriers here, but it was an engineering
+tour de force. I think we have to give it to them. There are
+issues with this technology. Data rates are slow, et cetera, et
+cetera. But the fact that they were able to do this should
+alert us.
+And you know, the entities that are able to do this sort of
+secure communication, there's two things: one is a quantum
+link, to be able to send data that if somebody tampers you know
+about; and the other is decrypting data or decoding data that
+somebody else is trying to send. These are two ways that you
+can address the security issues. And if anybody has this
+superiority, it will be a landmark change in the way we
+transmit data. So we should take this very, very seriously.
+Senator Gardner. Thank you.
+Thank you, Madam Chair.
+The Chairman. Thank you, Senator Gardner.
+Senator Hirono.
+Senator Hirono. Thank you, Madam Chair.
+Are all of you convinced that we have to support the
+development of quantum information science to stay competitive
+with countries like China? That we do not have a choice in this
+matter, we need to move forward? Are all of you convinced of
+that?
+Mr. Dabbar. Yes.
+Dr. Siddiqi. Yes.
+Senator Hirono. What about Russia's capability in this area
+because in the defense space China and Russia are our major
+competitors. Where is Russia in terms of their development of
+quantum science?
+Mr. Dabbar. Senator, thank you for the question.
+In general, if you look at the number of the enabling
+technologies associated with quantum, whether it's in RF,
+whether it's in cavities, whether it's in cryo, whether it's in
+algorithms--in general, they are much farther behind as a
+country in this particular technology.
+I can tell you that there are definitely researchers who
+are experts in physics individually in Russia and many of which
+end up coming to the United States. But in terms of a national
+footprint, the Russians have a much smaller footprint than
+many, many countries in the world.
+Senator Hirono. Okay, thank you, including of course, the
+countries of the EU.
+We care a lot about internet security, and this is for Dr.
+Guha. How would a quantum computation-based internet enhance
+the security of information we send on the internet, and when
+do you expect a nationally-deployed quantum internet could be
+available to the public?
+Dr. Guha. So if you had a quantum secured internet,
+there's--you would be guaranteed secure communication in the
+sense that if you sent some data and somebody was eavesdropping
+on it, you would know. And so that would make it failsafe.
+As to when there will be a quantum internet, it's difficult
+to say. I would prefer not to look into the crystal ball and
+give a number.
+But I think, I mean there are companies already who are
+close to having products over, say, a few hundred-kilometer
+lengths. Those might be expensive. They might be only for very
+specific purposes. So it's certainly not going to be of broad
+usage. But that type of technology, we're only a few years away
+from seeing this across the world, but specific instances of
+few hundred-kilometer lengths.
+Senator Hirono. It sounds as though quantum computer
+systems, computer science, can be a huge benefit in terms of
+security of a lot of our systems as we deal, especially as I
+sit on the Armed Services Committee and on this Committee,
+infrastructure--they are all vulnerable. Our space
+infrastructure, all of these are very vulnerable to
+cyberattacks. Would you say that quantum science could play a
+big role in ensuring the safety of these systems? Yes?
+Dr. Siddiqi. Thank you, Senator Hirono.
+Yes, very much so, because I think as my colleague, Dr.
+Guha, was mentioning, that in quantum mechanics if you make a
+measurement, you know that that's happened. So that fundamental
+principle is different than classical physics.
+That applies in many, many things, right? For example, if
+someone copies your credit card number you will not know until
+they use it, right? But that's not the case in quantum
+mechanics. So having that fundamental change of how information
+and measurement works together, that applies not only to
+communication but also to storage and so on and so forth. So
+there is very much a need there.
+And I wanted to maybe make a brief comment about the
+previous question that you'd asked about Russian involvement
+and other entities. I have many colleagues from all around the
+world, be it Russia or China or Japan and so on and so forth,
+and I think to summarize the last few questions that were
+coming out, you know, how much have we invested, how far are we
+ahead? I think all large nations have made some investment of
+some quantity, right? And they've, sort of, all come up to the
+same level saying that we realize that quantum can do
+something. It's very powerful. The question is, who is going to
+then invest in the next huge lift after that to bring it to
+market? And some have started to invest in this and they have
+been named so far. So I think having funds is not necessarily
+the most needed thing for success, but if you don't have an
+investment then I can guarantee you will not have it, right?
+So I think it's very critical for us to make that
+investment and move forward and, in fact, not worry so much
+necessarily about what's happening, just make sure that we can
+do the best job that we can because we really do have the
+resources and the workforce to do it. But that does require an
+investment.
+Thank you.
+Senator Hirono. I hope the Chair will allow me to go over a
+little bit.
+So another question for you, Dr. Siddiqi. Your testimony
+mentioned the potential application of quantum simulations to
+solar energy technologies and Hawaii is really at the forefront
+in the use of solar energy. Could you elaborate on how quantum
+computers could help develop new solar technologies and how far
+in the future such developments could take?
+Also, I was so intrigued by two of you mentioning that we
+can use quantum computing to make fertilizer and how far in the
+future would that be because, of course, making fertilizer
+using less energy would have major impacts on food production
+across the world.
+Dr. Siddiqi. Absolutely. Let me briefly comment on the
+science behind both of those.
+So, for example, plants take in light and turn out energy
+at the end of the day in photosynthesis. And solar cells are
+not so different, right? Light comes in, it excites something
+whether it's electronic or vibronic, some kind of motion in a
+particular solar cell that converts into energy. The thought is
+this conversion of photonic or light energy into electrical
+energy can then be enhanced by having some sort of quantum
+coherence. The first step in this is to run a simulation to see
+how that energy transfer happens, right? And that's, sort of,
+the current state of simulations in this field. If we are able
+to figure out the optimal recipe for taking light and turning
+it into electricity, then one could imagine this type of
+application. And so, that comes under the title of artificial
+light harvesting, right? We'd like to harvest light, not
+exactly as plants do but in, perhaps, some inspired way for
+doing this.
+The issue with fertilizer production, of course, we're
+referring to the Haber process developed by Fritz Haber, where
+one brings together nitrogen and hydrogen at 400 degrees
+Centigrade and 200 atmospheres pressure and this does consume,
+like the numbers we heard, quite a significant part of the
+world's energy budget. As a gardener I know the legumes
+underground do this at ambient temperature, but they do this,
+in fact, using an iron-molybdenum catalyst, right? And to
+understand the structure, the chemical structure and dynamics
+of this catalyst is really beyond anything classical computing
+technologies can do at the moment. So the picture at hand is if
+we are able to simulate now these chemical processes, we would
+be able to understand something about catalysis.
+So in our own work we've done hydrogen, others have done a
+few more atoms. There's a few more atoms to go to get up to
+iron but, you know, we're working on it.
+Senator Hirono. So how far in the future do you think
+before we can create fertilizer in the method that you
+described?
+Dr. Siddiqi. I would say near-term quantum devices have
+tremendous potential in the next 5 to 10 years, or a few years
+to 10 years, because one other thing which is very interesting
+about this is what if the answer from your computation is fuzzy
+but still useful?
+For example, we're not able to figure out the exact
+structure, but nonetheless we can guide chemists to say, you
+know, this is the phase space you should look in, this is the
+combinatorial space you could look in. That's already extremely
+valuable. We wouldn't be looking for a needle in a haystack. We
+could, sort of, narrow down, well, the haystack is over here,
+right? And one could have, you know, a classical effort to find
+it. That's another level of technology that may come out of
+this.
+Senator Hirono. Thank you.
+Thank you, Madam Chair.
+The Chairman. Senator Daines.
+Senator Daines. Chair Murkowski, thank you. I have not had
+this kind of conversation since my chemical engineering days.
+[Laughter.]
+This is great.
+Thank you for holding this hearing today, Chair Murkowski.
+It is probably not customary for this Committee to dive into
+something as technical as quantum computing or that we have
+Microsoft testify here in front of us, but for me, this is a
+fascinating and very important topic.
+I spent 28 years with my chemical engineering degree in the
+private sector before coming to Congress, but 12 of those years
+were in the cloud computing business. We helped build a company
+that was a little startup that grew to about 1,100 employees,
+at cap was about $1.8 billion. We took the company public and
+it was acquired by Oracle.
+So I have had a chance to see a startup from the early
+stages, before the cloud was even called the cloud then, and
+grew it to a large company that had, at present, 17 offices of
+33 languages, offices around the world.
+I have also seen the challenges of what it takes to build a
+business like that, how hard it is to build a technology
+company, the issues of innovation, of hiring, of expansion. And
+I believe that quantum computing faces many of the same hurdles
+that we faced a decade before regarding investment and a
+trained workforce.
+I do believe we are making good strides. And by the way,
+Montana--this company I told you about was headquartered in
+Bozeman, Montana, with offices in London and Tokyo; Sydney,
+Australia; Chicago; Dallas; Washington, DC. And we have some
+Montana companies actually leading the way.
+My alma mater, Montana State University, proud of--many of
+the leading quantum and photonic companies are growing right
+there in Bozeman, Montana, and around our state.
+But I do fear--one of the things that keeps me awake at
+night, is we are falling behind China. I spent six years
+working in China with Proctor & Gamble. I was in Guangzhou back
+in the '90s and leading the startup there for P&G. So I keep a
+close eye on what is going on competitively. This is a race
+that I don't think we can lose. It would not only have
+implications on our economy and academia, it could have serious
+implications for national security.
+Mr. Holmdahl, Microsoft is one of the top companies
+investing and working in quantum computing. As an international
+company, you also have a unique view of the global quantum
+race. I have heard from experts in the field, on the ground in
+China, on the ground in Hong Kong and other places, on the
+ground in Menlo Park, that we are losing this race to China.
+Where do you see the U.S. in the quantum race?
+Mr. Holmdahl. Senator Daines, it's a great question. I
+think there are a couple of ways to look at it. I think that if
+you look at the commercial sector, the big U.S. companies are
+doing good work. Microsoft, Intel, Google, IBM are all doing
+good work. We have--you're starting to see the startup
+community get into the quantum race as well. Rigetti is being
+funded by Andreesen Horowitz.
+That said, I do worry, again, and I said in my opening
+statement that the quantum workforce is going to be--and you
+hit the nail on the head, we have to build a complete end-to-
+end system, you know, all the way from the qubits that are down
+for us at the bottom of the refrigerator to the cryogenics
+controlling it, to the software to control all that, to the
+applications and the algorithms. And that is where I really
+worry that our workforce today is not necessarily, is not
+skilled in order to be able to jump into this quantum economy.
+We do need to do more work at the university level, on-the-job
+training, more partnerships. There are other countries out
+there that are investing in it. I don't know about China
+specifically, but I do know that for us to be successful we
+need to continue to invest in the workforce and continue to
+invest in research and then continue to look at other
+partnerships.
+Senator Daines. On this workforce question, look at the
+graduation numbers of STEM grads coming out of U.S.
+universities versus STEM grads coming out of Chinese
+universities. I think the number, it is a seven to eight time
+factor. The scale that is being built in terms of innovation
+ecosystem in China is remarkable.
+So follow, what do you see as the national security
+implications, and I think Senator Gardner touched on this a
+little bit as well earlier, of China taking the lead in the
+quantum information space?
+Mr. Holmdahl. Well, you'd be happy to know both my kids
+graduated with machine learning degrees so I'm trying to
+contribute to that.
+Indeed, yeah, there are obvious security issues with
+somebody, any country, getting the ability to decrypt,
+essentially, our encryption algorithms. You know, RSA-2048
+has--it's no secret that people with a big enough quantum
+computer can crack that. I would think it would be in our best
+interest to make sure that we have the ability to do that
+before others and that we also, and like Microsoft and others
+are working on, develop post-quantum crypto algorithms so that
+when quantum computers are out there we're no longer using the
+encryption methods that we have today.
+Senator Daines. Thank you. I am out of time.
+We touched on there that the commercial side, certainly
+long-term competitiveness for our nation, but also the national
+security implications of breaking encryptions and so forth and
+where this all goes and the importance of this topic. I want to
+thank you, Chair Murkowski, for bringing this to light in this
+Committee and for the experts here to help us articulate what
+the challenges are going forward.
+Thanks.
+The Chairman. Thank you, Senator Daines.
+Senator Heinrich.
+Senator Heinrich. I want to take a step back and maybe give
+folks a little bit of a window into why some of these
+principles exist that we are talking about and what is so
+unique about quantum with regard to observation and
+applications like secure communications.
+Dr. Siddiqi, could you talk a little bit about just what is
+quantum entanglement and what does that mean for those
+applications?
+Dr. Siddiqi. Sure. Thank you, Senator Heinrich, for the
+question of what is quantum entanglement which, in reality, is
+the resource that makes quantum systems unique and powerful.
+If I'm allowed to use my pencil I will use this as an
+illustrative tool, right? So there's a property called spin,
+for example, right? So an electron which has charge can also
+have spin which we know points up or down. But the debate that
+Einstein and Bohr had is how does a spin know which way to
+point until you measure it, right? It's only when you measure
+along this axis will it be up or down because up or down
+doesn't have meaning until you define what's up and what's
+down. The idea then is that the spin, in fact, can be in any
+state. This is the same principle as the cat. It could be
+asleep or awake. It can be in any state until you define that
+axis.
+Now let's imagine I have two pencils. We'll assume this is
+a pencil. If I have two pencils or more, then the number of
+combinatorial states that they can be in grows exponentially,
+right? So that's entanglement.
+The idea that I can't write this as just one object,
+individual objects and, in fact, it's one combined object is
+entanglement. And that's what adds the power to computation or
+communication, et cetera. But then, of course, the critical
+part is you have to have the right algorithm to take advantage
+of this.
+Senator Heinrich. But you can also separate those two
+particles over vast distances and still what you observe in one
+applies to the other.
+Dr. Siddiqi. Correct.
+Senator Heinrich. Which is----
+Dr. Siddiqi. Correct. This is what is known as----
+Senator Heinrich. ----what makes this so powerful.
+Dr. Siddiqi. Absolutely. This is the question of Einstein,
+Podolsky and Rosen, right? The idea that you can separate out
+these two and quantum mechanics would exist all over the
+universe and all tests show that it does.
+Senator Heinrich. So that has obvious applications in
+things like communications.
+I am going to resist the urge to ask you about the
+potential for entanglement of your cats and move on to an
+engineering question for Dr. Holmdahl.
+What should we be doing now in our engineering schools to
+prepare the workforce that is actually going to take all of
+this basic research in physics and begin to apply it to the
+applications that we will really need to make this a utility in
+the future?
+Mr. Holmdahl. Yeah, that's a great question, Senator.
+I think there are like three main areas, at least three
+main areas, that we need to work on.
+One is just in basic quantum physics and the materials
+associated with that. I don't think we have the answers to how
+these qubits are going to look, and we need to make sure that
+we have that workforce that can not only figure out what the
+right materials are and the right designs are, but how to
+manufacture and fabricate those. It's--we used to say in the
+engineering world, it's kind of easy to build one of something,
+but trying to build a million is much harder. And so, you have
+to have a manufacturing and design at the same time.
+The second part is that the engineering of these, in most
+cases, is done at cryogenic levels----
+Senator Heinrich. Right.
+Mr. Holmdahl. ----you know, 4K and below and we need, like,
+we're trying to hire many cryogenic engineers and they're just
+not out there today. And so, more work and that might probably
+be in the mechanical engineering side of the things. If the
+universities could up the level of cryogenic engineers they
+have that would be a big help.
+The third bucket is in programming the quantum computer,
+the paradigm is a completely different paradigm than a
+classical computer and the algorithms are different. We need to
+develop that next level of programmers, quantum programmers, in
+order to be able to solve some of these tough problems.
+Senator Heinrich. Why do you think there has not been more
+interest in land grant universities in jumping out to start,
+you know, filling the pipeline for these sorts of educations?
+Mr. Holmdahl. You know, I don't personally know. I think
+this is the most amazing topic. I came to it later in my life,
+like the last two or three years, but it's incredibly
+inspiring.
+I think being in the QIS meetings yesterday, it sounds like
+universities are starting to really grasp the power and
+excitement around this. I'm hopeful in the next few years
+you're going to see more and more of it.
+Senator Heinrich. Great.
+Thank you, Madam Chair.
+The Chairman. Senator Cortez Masto.
+Senator Cortez Masto. Thank you, Madam Chair, and thank you
+for this hearing today.
+Gentlemen, thank you so much, very enlightening testimony.
+Let me start with Under Secretary Dabbar. I am reviewing
+the National Strategic Overview for Quantum Information
+Science. Let me ask you this--the NSTC Subcommittee on Quantum
+Information Science--are you comfortable that that subcommittee
+members contain all of the federal partners that are necessary
+to address this issue and work with private sector, academia
+and the national labs on this issue, on QIS?
+Mr. Dabbar. Yeah. Yes, Senator, I am.
+It has been a very inclusive process that OSTP ran and it
+includes all the--from the basic sciences to the applied
+applications across the federal agencies.
+Senator Cortez Masto. Is there anything that you are
+hearing today from the private sector and the national labs
+that you think needs to be addressed, or taken back to this
+subcommittee, in addition to the recommendations that they have
+made or more information that they should be aware of?
+Mr. Dabbar. So the short answer is yes. And between today
+and the meetings that we had yesterday at the White House and
+earlier before that this last week, is that we've been
+soliciting input across the whole spectrum of private and
+public, and there's a number of key takeaways.
+It's around infrastructure that, obviously, this Committee
+has a lot about building out infrastructure at our national
+labs. It's about connections, and I think that came up here
+earlier today, that the Chairman asked about earlier. And it's
+also about how do we help private sector transition? So all
+these conversations here in the near-term have also been very
+helpful input for us.
+Senator Cortez Masto. Thank you.
+And then, let me just say, I echo all of the questions that
+have been asked. I mean, this has been a great conversation
+today.
+Let me ask you three gentlemen: What should we be doing at
+the federal level? What should we be prepared to address for
+the future that was not talked about so far when it comes to
+the use of QIS? I will start with Dr. Siddiqi.
+Dr. Siddiqi. Thank you, Senator Cortez Masto, for the
+question.
+What I want to talk about is something very mechanical in
+terms of how we fund programs, how we evaluate programs. So on
+the surface, of course, we have many great programs for
+graduate fellowships, for industry engagement with the SBIR
+program and all things that normally would look like they are,
+sort of, building the linkages that we need but, in fact,
+dedicating some subset of them and removing the bureaucratic
+difficulties of getting those through and dedicating them for a
+quantum initiative would be tremendously beneficial, right?
+Because in my mind, a center that has the ability to give out
+those fellowships to, sort of, build those linkages with
+industry rather than saying that we will be one of the 12
+topics that compete for very precious dollars would be a
+tremendous investment and a tremendous step forward. So any
+mechanical methods which, in fact, streamline this process of
+bringing together these three entities, both in communication
+and funding, would be tremendously appreciated.
+Senator Cortez Masto. Thank you.
+Mr. Holmdahl.
+Mr. Holmdahl. Yeah, one thing that I would point out. I'm a
+big believer in doing these grand challenges and grand
+strategies and there's--certainly, you want to have a lot of
+individual research going on but I would like to see us do our
+moonshot, whether it be quantum computing or the quantum
+network, and try to rally all the resources that the country
+has in commercial and in universities and academics and put
+that together because these are multi-disciplinary systems that
+require people from physics, from computer science, from
+mechanical engineering, from electrical engineering, from
+business, all to come together, and it's going to take a lot of
+people to do one of these big things. And when you go through
+that process you learn an incredible amount, and everybody has
+this vision and this goal in their mind and they know what
+they're doing and why they're targeting it.
+Senator Cortez Masto. Thank you.
+Dr. Guha.
+Dr. Guha. Thank you, Senator.
+So, very quickly, I think I would ask that you view this as
+an area that is a priority for investment, that it is really
+time we invested in this. And I would also request
+consideration of focused centers of excellence instead of
+spreading things around and diluting it.
+And then there is the workforce part. There are areas of
+the workforce that need to get on this field, you know,
+traditional engineering areas, et cetera. So that investment
+should also be done astutely.
+Senator Cortez Masto. Thank you.
+Gentlemen, thank you.
+Thank you so much, Madam Chair, for the conversation today.
+The Chairman. Thank you.
+Senator King.
+Senator King. Thank you, Madam Chair.
+I apologize for being late. The schedule around here needs
+a quantum system----
+[Laughter.]
+----in order to figure out how we can be in two places at
+once. If you could work on that.
+This may be an obvious question, but give us the strategic
+implications of this. How will this change the world? What are
+we talking about?
+Doctor.
+Dr. Siddiqi. It's a great question, Senator King.
+And you know, physicists, we look at the 50-year time
+scale. Where will we be when we think about these technologies?
+I think it will radically change, first of all, in the
+grandest scale, the way we think about the world and what our
+theories, in fact, tell us about what the physical world is
+like, at the grandest levels. Because, in fact, it's these
+machines that may tell us what entanglement is in the universe.
+What's the fabric of the universe? What are black holes? What
+are theories of this type of grandeur, and how does one think
+about that?
+So that has deep implications for everything in terms of
+theoretical aspects of physics that enter in material science
+and----
+Senator King. It worries me that you are headed for Douglas
+Adams' most elaborate and scary torture machine ever devised,
+the total perspective vortex.
+Dr. Siddiqi. That's right.
+Senator King. Which looks like a phone booth and when you
+step in it shows you your true place in the universe.
+[Laughter.]
+Dr. Siddiqi. That's right.
+We will like to--I will defer to my colleague from
+Microsoft for building.
+[Laughter.]
+But indeed, that's sort of a very grand vision, right?
+But in terms of----
+Senator King. Give me specifics. How will it change life?
+Dr. Siddiqi. Yeah.
+So for specifics, it will change the way we synthesize
+materials, right? I am also a chemist-in-hiding, a little bit,
+I have a chemistry degree. So quite often this is discovery-
+driven rather than by rational synthesis. So that's a radical
+change in thinking about how we think about new materials and
+classes of materials and catalysts, and so on and so forth.
+In the computing domain, right, it's very different in
+terms of optimization from that we simply cannot access at the
+moment. In particular, for example, how does one think about
+logistics of very large operations in systems that have many
+moving parts. So that's a very applicable thing.
+Going again in terms of atomic systems, how do we think
+about technologies at the atomic scale, right, very different
+views of what sensors are like, right, what communication tools
+are like.
+It's really across-the-board thinking from the smallest
+scales of the atom, the photon, so on and so forth, all the way
+to the grandest scales which are what is the model of the
+universe. I view it really as a transformative technology.
+Senator King. Mr. Dabbar, are we in an arms race in terms
+of this technology? We are competing. As I understand it, both
+the Chinese and the Russians are making significant investments
+as is the EU. What are the implications of not getting there
+first?
+Mr. Dabbar. So I would split it up between economic and
+security, that particular question.
+From an economic point of view, you could characterize it
+as how important is the computing and the semiconductor
+industry is to this country and everything that applies to our
+phones, to our computers, how we communicate, how we make
+inventions, is vast. And so, this could be a major jump in
+that.
+In sensing--I gave a comment earlier about life sciences.
+The impact of quantum sensing potential to health in this
+country to replacements for MRI machines at levels that would--
+you talk to any doctor about those implications and they hear
+about it and they look at what impact they could have on
+various aspects of life sciences, is actually hard to bound.
+So there's a lot of basic science, a lot of economic value
+that we've already seen----
+Senator King. Decrypting is one of the possibilities. Is
+that not the case?
+Mr. Dabbar. Yes, Senator.
+So on defense I would hit on two, there's many examples but
+let me hit on two.
+The first one is, obviously, for crypto. Right now,
+obviously, many things in the world, including on the defense
+side, are coded and there's been some work done by professors,
+one in particular, about the ability to use high qubit machines
+to be able to break current codes at the most highest level,
+which has broad implications. And so, for us to be able to do
+that--and by the way, that's not just a defense topic, it's
+every single credit card payment, everything in the financial
+system, you know, that's currently encrypted has implications.
+And then there's another one that's also very important,
+which is clocks. And right now, we use atomic clocks to code to
+do very specific timing for both security and for financial
+reasons. And there's risks around, we were talking about
+earlier, around space and satellites and so on, around how
+that's currently done today, in terms of clocks. And,
+obviously, if we have the capability of that, it certainly
+provides for greater security around that topic.
+Senator King. Where do we stand in the international
+competition?
+Mr. Dabbar. Senator, so the way I would characterize it is
+I will always bet on America and, meaning that I think the
+diversity that you see here of private industry and
+universities and the federal complex is more dynamic and comes
+up with more ideas. We haven't had time to talk about all the
+different technologies that are being developed across many of
+the different areas, but it is a very dynamic space.
+But I worry that we need to put more resources against that
+to leverage all this different input that we have. There's one
+certain country that likes to put a tremendous amount of money
+into a particular topic. That's a command and control
+dictatorship way of trying to invest. And many times they bet,
+whenever you have command and control, it looks like a lot of
+money. We should be worried for the reasons both economically
+and defense. We should be focused on it.
+But I think, with the focus of this body and the nation
+across all the different areas, I have a high degree of
+confidence for this country.
+Senator King. Madam Chairman, I am out of time but could I
+ask one question that follows up on that?
+The Chairman. You may. You missed my long series of
+questions.
+Senator King. Okay, thank you.
+The Chairman. Go ahead.
+Senator King. So the question is how do we organize? And
+this would go to any or all of you. How do we organize our
+approach to this problem? Is it a Manhattan Project--a focused
+government-led project with private sector and all those
+people--or is it a diverse, Caltech does something, MIT does
+something, Microsoft does something and, hopefully, we get
+there?
+Dr. Siddiqi. So being at Berkeley with the Manhattan
+Project idea, I'd like to comment that, I think, we need a
+balance of both, right? Certainly, we need vertical integration
+that brings all the elements that we've been talking about, the
+computer scientists, the physicists, into one room so we can
+really fill in those technology gaps and build the products
+that we're looking for.
+At the same time, there are very deep and difficult
+theoretical questions that we could all benefit from. So there
+may be a tiling of the phase space with some horizontal
+integration as well.
+Senator King. But I would think that would be something you
+all could help us with is to suggest how this should be
+organized, because that is a function that the Federal
+Government can supply as the organizational principle here.
+Yes?
+Dr. Guha. So, if you look, you know, 30, 40 years back, a
+lot of the technologies that we use today like
+telecommunications, silicon, microelectronics, a lot of the
+basic early work was done by companies such as Bell Labs and
+IBM. Those business models don't exist today anymore. And
+research is also much more expensive today for industrial R&D
+to do it alone.
+My own feeling is that something like this, with this sort
+of national importance and wide breadth, needs to be centered
+around the national labs working very closely with academia and
+industry. So there has to be learning on both sides over here.
+But I do feel that the national labs have the
+infrastructure and the, you know, just the breadth and the size
+of equipment and the capabilities and the outreach to academia
+and industry that this, you know, these are the places where we
+should be doing the research of the future.
+Senator King. Okay, thank you.
+Thank you, Madam Chair.
+The Chairman. Senator Cantwell.
+Senator Cantwell. Thank you, Madam Chair.
+And thanks so much to the witnesses for being here and your
+testimony. We have tried to follow it from afar here as we've
+been doing other things. I so appreciate, particularly, the
+focus on workforce which I do want to ask about.
+Madam Chair, again, thank you for having this hearing, it
+is such an important topic. I think DOE is more in the
+forefront of what we need to do to better skill our
+competitiveness as a nation, secure us on cybersecurity and do
+so many things. I think today is another example that, really,
+this Committee can do a lot in bringing attention to those
+investments and strategies.
+I also want to thank my colleague, Senator Duckworth, for
+filling in earlier for me and, I guess, you and she both did
+ask questions about workforce. But I will get back to that in a
+second.
+Mr. Holmdahl, thank you so much for being here and for your
+leadership. I wondered if you could talk a little bit about the
+relationship between Microsoft and the Pacific Northwest
+National Lab and what you are doing in collaboration? Dr.
+Siddiqi mentioned chemistry, I don't know if that's the main
+focus, but if you could elaborate on that, it would be so
+helpful.
+Mr. Holmdahl. Yeah, sure, Senator Cantwell.
+One of the things about quantum computing is the algorithms
+are very different from the algorithms that you find in
+classical computing. And so, we already have a team of people
+that are going out and talking to people in the government
+space as well as the enterprise space, like, you know, figuring
+out what their tough problems are and how might quantum
+algorithms solve those problems. So one of the things that we
+think that a quantum computer can solve are quantum chemistry
+problems. It, kind of, fits right into the wheelhouse of the
+quantum program.
+So we've been working with the Pacific Northwest National
+Laboratory for over probably a year now. They have, you know,
+some of the best chemists in the world. I think there are 4,500
+people that work there.
+We have been exploring, like, what are their tough problems
+that they're trying to solve? How might a quantum computer
+solve those problems? We've continued to engage in those
+discussions. They're very fruitful discussions.
+I think the thing that really helps, too, is as we design
+our quantum computer and we know what problems they have, it
+informs how we design that computer going forward so that when
+we get this computer complete, it will solve real problems that
+people have. And I look at this as an example that industry and
+the government as well as universities can have coming together
+in trying to solve these with all three bodies working
+together.
+Senator Cantwell. It reminds me of, you know, in other
+areas of science where we're applying data and information,
+like on the human genome project and others.
+Dr. Siddiqi, since you represent a lab, did you want to
+weigh in here about what that relationship between labs can do
+for us?
+Dr. Siddiqi. Absolutely, thank you, Senator Cantwell, for
+the question.
+Perhaps the easiest way is to give an example of what we're
+doing in our domain. A small example of how, in my mind, real
+partnerships are built between national lab elements, academic
+elements and industry is really through our industrial
+incubator program, called Cyclotron Road, at Lawrence Berkeley
+Laboratory.
+So, in particular, we have a company that's willing to
+develop various technologies in the quantum domain, and we have
+partnered with them. And, in particular, their task at the
+near-term is to build the packaging, all the boxes and wires
+that go around the chip and we are very good at producing the
+chip. So we had a real discussion saying that, what are you
+comfortable sharing with us and what are we comfortable, you
+know, sharing with you? And it was a great discussion, right?
+So we've now handed over to them our chips and said, please go
+ahead and design what you think is the package, and we have
+some ground rules, right, about what to talk about, what not to
+talk about, so that they remain competitive and we also remain
+happy.
+So I think these partnerships can very much be nucleated.
+They start with, as Dr. Guha was saying, you know, the model of
+R&D has changed over the years. So I think it'd be very
+critical for us to identify what's the space of that basic
+research and we're, sort of, sharing what's the space that
+becomes competitive research, so on and so forth.
+And as an academic I think about the fact that, you know,
+we should be giving talks and different sessions and
+conferences, right? There are sessions that are really academic
+questions. There are sessions that are, sort of, basic science
+at the larger scale and, really, industrial sessions.
+So in my own field I'm actually an engineer that works on
+RF stuff by training. There's big conferences that have these
+things split up in three sections, right? There's the
+fundamental science section. There's the large-scale science
+and what have you. So I think that would be very healthy in the
+quantum domain so that we can all sit down and figure out how
+to tile the phase space in a very synergistic way.
+Senator Cantwell. But, no doubt, you welcome the
+partnership and you welcome DOE's role?
+Dr. Siddiqi. Absolutely.
+Senator Cantwell. So that brings up--listen, I have been
+involved with tech transfer a long time and it is always an
+interesting question about what actually gets done in tech
+transfer. Obviously we could have a whole hearing, probably a
+week, on tech transfer from our national laboratories if we
+wanted to but, for today, this notion of the workforce issue
+and on-the-job training. What do we need to do here to make
+sure--I just think about what we have been able to do at the
+Washington Technology Center as it related to the University of
+Washington and Boeing. That partnership let them focus on a lot
+of things and, in the end, they ended up focusing on composite
+manufacturing and solving some of the big problems that were
+going to be in the future of composite manufacturing. But when
+everybody is there working on the job, you know, I have met
+these young students years later and now they are the leaders
+within Boeing because they got the on-the-job training as the
+technology was just cutting-edge.
+I see everybody nodding. So what do we need to do to make
+sure that happens?
+Mr. Holmdahl.
+Mr. Holmdahl. Yeah, I think an interesting parallel might
+be the machine learning explosion that we've had in the last
+couple of years. You saw a lot of engineers that hadn't gone to
+school with machine learning backgrounds but, not only the
+companies themselves, but universities started doing a whole
+bunch of work in offering, like, either online classes or all-
+day classes or 12-week classes in order to get the engineering
+populations up to speed on what's going on in machine learning
+and AI.
+If you look at today's workforce, the problems you need to
+solve in quantum are varied. Again, they go from manufacturing
+all the way to cryogenics to new computing algorithms.
+I do think that the fundamental engineers that we have in
+the force can be taught to do the work necessary for quantum,
+but it's like taking a mechanical engineer and making sure that
+they have the right training around cryogenics either from a
+university or from some training center or from a company that
+allows them to know more about cryogenics.
+Superconductivity is another big one that's important. You
+need, typically, superconducting circuits to control your
+quantum qubits. Engineers have the background, but they need
+that additional training. We put all of our engineers through
+like 10 weeks of training in order to get them up to the
+superconductivity speed.
+The other one that we're doing a lot around is these
+quantum algorithms that we talked about. We've put out a kit, a
+quantum development kit, that teaches you how to program a
+quantum computer. And we've also developed a bunch of katas
+which are like short learning exercises for developers. And you
+know, it's unbelievable how many developers are inspired by
+being part of the quantum revolution, and now they have an
+opportunity to learn very quickly with these little, simple
+katas on how to develop quantum algorithms.
+Senator Cantwell. Yes, Mr. Dabbar.
+Mr. Dabbar. Senator, so I would like to highlight something
+that's in the bill that's before you that I think is very
+interesting, and we certainly support the structure as proposed
+in the bill which is around the quantum centers and allowing
+who can be allowed to bid for the particular centers. The bill
+specifically says that as a centers as we, assuming it gets
+passed by this body, that the three to five centers would, the
+people who could bid could be national labs, universities,
+private sector or consortiums thereof. And I certainly expect
+that as we potentially go out and do that, that there will be
+groups of that, that very much along the lines of your question
+regarding having some people probably part of a consortium from
+a private partner, from an industry, from a national lab and
+from a university and bringing people together and how they
+actually approach, to your Boeing example, how they approach a
+particular problem, how do they train people. And I think it's
+going to be very interesting as we get those groups together.
+And the one thing that I could say about this particular
+point in the bill which we support, is that the ripples, even
+though it's not passed, I can tell you that the number of
+national labs talking to private industry, talking to
+universities today, basically, trying to partner up to figure
+out that when this bill gets passed, what the centers are going
+to be, what the focal points of each are going to be which is a
+longer conversation, and then who is going to partner with who
+between the private sector, universities and national labs is
+already happening in this country. It's very exciting to be
+part of that conversation.
+Senator Cantwell. But you definitely believe that DOE
+should play a role in helping us get workforce training in this
+particular area?
+Mr. Dabbar. Yes, yes, Senator.
+A big part of what we do, so out of the 85--I'll give an
+example. We announced 85 different grants yesterday for $218
+million. Not only does the money go to a PI for a particular
+topic, they go hire a bunch of, you know, juniors at their
+particular lab or their university who are still studying. And
+so, there's an effect as we go through it and it's very much
+part of our thought process when we go fund particular areas,
+including this one yesterday.
+Senator Cantwell. Well, I just happened to run into a bunch
+of Sea Grant fellows, Madam Chair, on the way here. I don't
+know where we would be in the United States Congress on
+maritime and fishing policy if we did not have Sea Grant
+fellows.
+I am just a big believer in an information age that we do
+everything we can, particularly on cutting-edge technology and
+transformative areas, of also bringing the workforce along with
+us. I think we definitely need to do that in cyber. I
+definitely think we need to do it here. DOE can play that role.
+I hope they will.
+I hope we will think about how we, as I said, having
+witnessed this from the university and tech transfer
+perspective to now see them, you know, working in the field,
+particularly a lot of young women, who have gone into composite
+manufacturing. It has been very heartening to see that we
+established those environments in which they could learn and
+earn and get educated on cutting-edge technology at the same
+time.
+So thank you.
+Thank you, Madam Chair.
+The Chairman. Senator Cortez Masto, the two of us have had
+10 minutes. Would you care to ask anything final?
+Senator Cortez Masto. The only one I would have a follow-up
+with is Under Secretary Dabbar.
+I noticed you were going to have a comment to Senator
+King's question about what the structure should look like. Were
+you able to answer that with the last question?
+Mr. Dabbar. Yes, Senator.
+Senator Cortez Masto. Okay.
+Mr. Dabbar. I think the comment I just gave about the
+structure of the centers addressed, I think, similar to his
+question.
+Senator Cortez Masto. Thank you.
+The Chairman. Thank you, Senator.
+Gentlemen, thank you for your comments this morning. It has
+been encouraging. It has been exciting.
+As we think about how we grow a workforce, there are things
+that we can do at the federal level. There are incentives that
+we can put in place, but I guess my experience is that young
+people are really smart and they are going to go where they
+think that there is a level of opportunity, that it is
+exciting, that it is cutting-edge, that they are making things
+happen. And so, if we send the right signals that we are
+leading in this, that we are where you want to be, I do think
+that just generates that level of enthusiasm and we are able to
+do more when it comes to developing that good strong workforce
+and then keeping them here with those opportunities. It is the
+keeping them here part that, I think, when somebody mentioned
+``are we in an arms race here'' in terms of who is going first.
+It is important, the investment that is being made. But again,
+I think as long as young people believe that there is greatest
+opportunity here to be pushing out in these areas, I think this
+is how we stay ahead.
+I appreciate all that you have contributed to this
+conversation. I admit that I have learned a great deal more in
+the two hours that we have been sitting here. It has been great
+from my personal advantage, and I thank you for that, but thank
+you for sharing with the Committee.
+I think, between what we have been doing here and then the
+hearing that we had a few weeks back on block chain and crypto
+currency, we are doing fun, forward-thinking things here. So
+watch the Energy Committee.
+Thanks so much and we stand adjourned.
+[Whereupon, at 11:59 a.m. the hearing was adjourned.]
+APPENDIX MATERIAL SUBMITTED
+----------
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[all]

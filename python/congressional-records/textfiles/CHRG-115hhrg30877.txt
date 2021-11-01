@@ -1,0 +1,2029 @@
+- ARTIFICIAL INTELLIGENCE: WITH GREAT POWER COMES GREAT RESPONSIBILITY
+[House Hearing, 115 Congress]
+[From the U.S. Government Publishing Office]
+ARTIFICIAL INTELLIGENCE:
+WITH GREAT POWER COMES
+GREAT RESPONSIBILITY
+=======================================================================
+JOINT HEARING
+BEFORE THE
+SUBCOMMITTEE ON RESEARCH AND TECHNOLOGY &
+SUBCOMMITTEE ON ENERGY
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HOUSE OF REPRESENTATIVES
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+JUNE 26, 2018
+__________
+Serial No. 115-67
+__________
+Printed for the use of the Committee on Science, Space, and Technology
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://science.house.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+30-877PDF
+WASHINGTON : 2018
+-----------------------------------------------------------------------------------
+For sale by the Superintendent of Documents, U.S. Government Publishing Office,
+http://bookstore.gpo.gov. For more information, contact the GPO Customer Contact Center,
+U.S. Government Publishing Office. Phone 202-512-1800, or 866-512-1800 (toll-free).
+E-mail, [email protected]
+COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+HON. LAMAR S. SMITH, Texas, Chair
+FRANK D. LUCAS, Oklahoma
+EDDIE BERNICE JOHNSON, Texas
+DANA ROHRABACHER, California
+ZOE LOFGREN, California
+MO BROOKS, Alabama
+DANIEL LIPINSKI, Illinois
+RANDY HULTGREN, Illinois
+SUZANNE BONAMICI, Oregon
+BILL POSEY, Florida
+AMI BERA, California
+THOMAS MASSIE, Kentucky
+ELIZABETH H. ESTY, Connecticut
+RANDY K. WEBER, Texas
+MARC A. VEASEY, Texas
+STEPHEN KNIGHT, California
+DONALD S. BEYER, JR., Virginia
+BRIAN BABIN, Texas
+JACKY ROSEN, Nevada
+BARBARA COMSTOCK, Virginia
+CONOR LAMB, Pennsylvania
+BARRY LOUDERMILK, Georgia
+JERRY McNERNEY, California
+RALPH LEE ABRAHAM, Louisiana
+ED PERLMUTTER, Colorado
+GARY PALMER, Alabama
+PAUL TONKO, New York
+DANIEL WEBSTER, Florida
+BILL FOSTER, Illinois
+ANDY BIGGS, Arizona
+MARK TAKANO, California
+ROGER W. MARSHALL, Kansas
+COLLEEN HANABUSA, Hawaii
+NEAL P. DUNN, Florida
+CHARLIE CRIST, Florida
+CLAY HIGGINS, Louisiana
+RALPH NORMAN, South Carolina
+DEBBIE LESKO, Arizona
+------
+Subcommittee on Research and Technology
+HON. BARBARA COMSTOCK, Virginia, Chair
+FRANK D. LUCAS, Oklahoma
+DANIEL LIPINSKI, Illinois
+RANDY HULTGREN, Illinois
+ELIZABETH H. ESTY, Connecticut
+STEPHEN KNIGHT, California
+JACKY ROSEN, Nevada
+BARRY LOUDERMILK, Georgia
+SUZANNE BONAMICI, Oregon
+DANIEL WEBSTER, Florida
+AMI BERA, California
+ROGER W. MARSHALL, Kansas
+DONALD S. BEYER, JR., Virginia
+DEBBIE LESKO, Arizona
+EDDIE BERNICE JOHNSON, Texas
+LAMAR S. SMITH, Texas
+------
+Subcommittee on Energy
+HON. RANDY K. WEBER, Texas, Chair
+DANA ROHRABACHER, California
+MARC A. VEASEY, Texas, Ranking
+FRANK D. LUCAS, Oklahoma
+Member
+MO BROOKS, Alabama
+ZOE LOFGREN, California
+RANDY HULTGREN, Illinois
+DANIEL LIPINSKI, Illinois
+THOMAS MASSIE, Kentucky
+JACKY ROSEN, Nevada
+STEPHEN KNIGHT, California
+JERRY McNERNEY, California
+GARY PALMER, Alabama
+PAUL TONKO, New York
+DANIEL WEBSTER, Florida
+BILL FOSTER, Illinois
+NEAL P. DUNN, Florida
+MARK TAKANO, California
+RALPH NORMAN, South Carolina
+EDDIE BERNICE JOHNSON, Texas
+LAMAR S. SMITH, Texas
+C O N T E N T S
+June 26, 2018
+Page
+Witness List.....................................................
+2
+Hearing Charter..................................................
+3
+Opening Statements
+Statement by Representative Barbara Comstock, Chairwoman,
+Subcommittee on Research and Technology, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........
+4
+Written Statement............................................
+6
+Statement by Representative Daniel Lipinski, Ranking Member,
+Subcommittee on Research and Technology, Committee on Science,
+Space, and Technology, U.S. House of Representatives...........
+8
+Written Statement............................................
+10
+Statement by Representative Lamar Smith, Chairman, Committee on
+Science, Space, and Technology, U.S. House of Representatives..
+12
+Written Statement............................................
+13
+Statement by Representative Marc A. Veasey, Ranking Member,
+Subcommittee on Energy, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+14
+Written Statement............................................
+15
+Statement by Representative Randy K. Weber, Chairman,
+Subcommittee on Energy, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+16
+Written Statement............................................
+18
+Written statement by Representative Eddie Bernice Johnson,
+Ranking Member, Committee on Science, Space, and Technology,
+U.S. House of Representatives..................................
+21
+Witnesses:
+Dr. Tim Persons, Chief Scientist, U.S. Government Accountability
+Office
+Oral Statement...............................................
+22
+Written Statement............................................
+25
+Mr. Greg Brockman, Co-Founder and Chief Technology Officer,
+OpenAI
+Oral Statement...............................................
+40
+Written Statement............................................
+42
+Dr. Fei-Fei Li, Chairperson of the Board and Co-Founder, AI4ALL
+Oral Statement...............................................
+50
+Written Statement............................................
+52
+Discussion.......................................................
+59
+Appendix I: Answers to Post-Hearing Questions
+Dr. Jaime Carbonell, Director, Language Technologies Institute,
+and Allen Newell Professor, School of Computer Science,
+Carnegie Mellon University.....................................
+82
+Dr. Tim Persons, Chief Scientist, U.S. Government Accountability
+Office.........................................................
+89
+Mr. Greg Brockman, Co-Founder and Chief Technology Officer,
+OpenAI.........................................................
+97
+Dr. Fei-Fei Li, Chairperson of the Board and Co-Founder, AI4ALL..
+105
+Appendix II: Additional Material for the Record
+Dr. Jaime Carbonell, Director, Language Technologies Institute,
+and Allen Newell Professor, School of Computer Science,
+Carnegie Mellon University, written statement..................
+112
+Document submitted by Representative Bill Foster, Subcommittee on
+Research and Technology, Committee on Science, Space, and
+Technology, U.S. House of Representatives......................
+123
+Document submitted by Representative Neal P. Dunn, Subcommittee
+on Energy, Committee on Science, Space, and Technology, U.S.
+House of Representatives.......................................
+150
+ARTIFICIAL INTELLIGENCE:
+WITH GREAT POWER COMES
+GREAT RESPONSIBILITY
+----------
+TUESDAY, JUNE 26, 2018
+House of Representatives,
+Subcommittee on Research and Technology and
+Subcommittee on Energy,
+Committee on Science, Space, and Technology,
+Washington, D.C.
+The Subcommittees met, pursuant to call, at 10:37 a.m., in
+Room 2318 of the Rayburn House Office Building, Hon. Barbara
+Comstock [Chairwoman of the Subcommittee on Research and
+Technology] presiding.
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Comstock. The Committee on Space, Science, and
+Technology will come to order. Without objection, the Chair is
+authorized to declare recesses of the Committee at any time.
+Good morning, and welcome to today's hearing entitled
+``Artificial Intelligence--With Great Power Comes Great
+Responsibility.''
+I now recognize myself for five minutes for an opening
+statement.
+First, I would like to note that one of our witnesses, Dr.
+Jaime Carbonell from Carnegie Mellon University, is unable to
+be here today due to a medical emergency. We wish him well and
+a speedy recovery, and, without objection, we'll ensure his
+written testimony is made part of the hearing record.
+[The prepared statement of Mr. Carbonell appears in
+Appendix II]
+Chairwoman Comstock. One of the reasons I've been looking
+forward to today's hearing is to get a better sense from our
+witnesses about the nuances of the term artificial intelligence
+and implications for our society in a future where AI is
+ubiquitous.
+Of course, one might say AI is already pervasive. Since the
+term was first coined in the 1950s, we have made huge advances
+in the field of artificial narrow intelligence, which has been
+applied to many familiar everyday items such as the technology
+underlying Siri and Alexa.
+Called ANI for short, such systems are designed to conduct
+specific and usually limited tasks. For example, a machine that
+excels at playing poker wouldn't be able to parallel park a
+car. Conversely, AGI, or artificial general intelligence,
+refers to intelligent behavior across a range of cognitive
+tasks. If you enjoy science fiction movies, this definition may
+conjure up scenes from any number of classics such as Blade
+Runner, The Matrix, or The Terminator.
+For many individuals, the term AGI invokes images of robots
+or machines with human intelligence. As it turns out, we are
+decades away from realizing such AGI systems. Nevertheless,
+discussions about AGI and a future in which AGI is commonplace
+lead to some interesting questions worthy of analysis.
+For example, Elon Musk has been quoted as saying that AI,
+quote, ``is a fundamental risk to the existence of human
+civilization'' and poses ``vastly more risk'' than North Korea.
+Does that mean that AGI may evolve to a point one day when we
+will lose control over machines of our own creation? As
+farfetched as that sounds, minds and scientists are certainly
+discussing such questions.
+For the short term, however, my constituents are concerned
+about less existential issues that usually accompany new and
+evolving technologies, topics such as cybersecurity, protecting
+our privacy, and impacts to our nation's economy and to jobs.
+I am an original cosponsor of a bill introduced earlier
+this year titled the AI JOBS Act of 2018 to help our workplace
+prepare for the ways AI will shape the economy of the future. I
+will also introduce legislation today to reauthorize the
+National Institute of Standards and Technology, which includes
+language directing NIST to support development of artificial
+intelligence and data science.
+There is immense potential for AGI to help humans and to
+help our economy and all of the issues we're dealing with
+today, but that potential is also accompanied by some of the
+concerns that we will discuss today. I look forward to what our
+panel has to share with us about the bright as well as the
+challenging sides of the future with AGI.
+[The prepared statement of Chairwoman Comstock follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Comstock. I now recognize the Ranking Member of
+the Research and Technology Subcommittee, the gentleman from
+Illinois, Mr. Lipinski, for his opening statement.
+Mr. Lipinski. Thank you, Chairwoman Comstock, and thank you
+to Chairman Weber for holding this hearing to understand the
+current state of artificial intelligence technology.
+Because of the rapid development of computational power,
+the capacity of AI to perform new and more complicated tasks is
+quickly advancing. Depending on who you ask, AI is the stuff of
+dreams or nightmares. I believe it is definitely the former,
+and I strongly fear that it could also be the latter.
+The science fiction fantasy worlds depicted on Hollywood's
+big and small screens alike capture imaginations about what the
+world might be like if humans and highly intelligent robots
+shared the Earth. Today's hearing is an opportunity to begin to
+understand the real issues in AI and to begin to move forward
+with informed science-based policymaking. This is a hearing
+that we may remember years from now hopefully as a bright
+beginning of a new era.
+Current AI technologies touch a broad scope of industries
+and sectors, including manufacturing, transportation, energy,
+health care, and many others. As we will hear from the
+witnesses today, artificial intelligence can be classified as
+artificial general intelligence or artificial narrow
+intelligence. From my understanding, it is applications of the
+latter such as machine learning that are underlying
+technologies that support some of the services and devices
+widely used by Americans today. These include virtual
+assistants such as Siri and Alexa, translation services such as
+Google Translate, and autonomous vehicle technologies. As the
+capabilities of AI improve, it will undoubtedly become a more
+essential part of our lives and our economy.
+While technology developers and industry look forward to
+making great strides in AI, I want to make sure my colleagues
+and I in Congress are asking the tough questions and carefully
+considering the most crucial roles that the federal government
+may have in shaping the future of AI. Federal investments in AI
+research are long-standing, and we must consider the
+appropriate balance and scope of federal involvement as we
+begin to better understand the various roles AI will play in
+our society.
+We are not starting from scratch in thinking about the
+appropriate role of the federal government in this arena. In
+2016, the White House issued the National Artificial
+Intelligence Research and Development Strategic Plan that
+outlines seven priorities for federally funded AI research.
+These included making long-term investments in AI, developing
+effective methods for human AI collaboration, and addressing
+the ethical, legal, and societal implications of AI, additional
+issues to address our safety and security, public data sets,
+standards, and workforce needs.
+Earlier this year, the Government Accountability Office
+issued a technology assessment report led by one of our
+witnesses, Dr. Persons, titled ``Artificial Intelligence:
+Emerging Opportunities, Challenges, and Implications.'' While
+noting significant potential for AI to improve many industries
+including finance, transportation, and cybersecurity, the
+report also noted areas where research is still needed,
+including how to optimally regulate AI, how to ensure the
+availability and use of high-quality data, understanding AI's
+effects on employment and education, and the development of
+computational ethics to guide the decisions made by software.
+These are all critical issues, but more and more I hear
+concern and widely varying predictions about AI's impact on
+jobs. AI has the potential to make some job functions safer and
+more efficient, but it also may replace others. We need to ask
+what are the long-term projections for the job market as AI
+grows? In this context, we also need to ask how well do our AI
+capabilities compare to those of other countries? What
+education, skills, and retraining will the workforce of the
+future need? These are very important questions as we think
+about ensuring a skilled workforce of the future that will help
+solidify U.S. leadership in AI as other countries vie for
+dominance in the field. If AI threatens some careers, it likely
+creates many others. We need to consider what Congress should
+do to shape this impact to make sure Americans are ready for it
+and make sure the benefits of AI are distributed widely.
+One other obvious issue of major concern when it comes to
+AI is ethics. There are many places where this becomes
+relevant. Currently, we need to grapple with issues regarding
+the data that are being used to educate machines. Biased data
+will lead to biased results from seemingly objective machines.
+A little further down the line are many difficult questions
+being raised in science fiction about a world of humans and
+intelligent robots. These are questions we will likely be
+called on to deal with in Congress, and we need to be ready.
+I want to thank all of our witnesses for being here today,
+and I look forward to your testimony. I'll yield back.
+[The prepared statement of Mr. Lipinski follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Comstock. Thank you, Mr. Lipinski.
+And I now recognize the Chairman of the Energy
+Subcommittee, the gentleman from Texas, Mr. Weber, for his
+opening statement.
+Mr. Weber. Madam Chair, can I defer to the Chairman of the
+full Committee for his statement?
+Chairwoman Comstock. Yes, you may.
+Mr. Weber. Thank you.
+Chairman Smith. Thank you, Madam Chair. Thank you, Mr.
+Chairman. I didn't know you were going to do that.
+Madam Chair, often unknown to us, advances in artificial
+intelligence, or AI, touch many aspects of our lives. In the
+area of cybersecurity, AI reduces our reaction times to
+security threats. In the field of agriculture, AI monitors soil
+moisture and targets crop watering. And in the transportation
+lane, AI steers self-driving cars and manages intelligent
+traffic systems. Multiple technical disciplines, including
+quantum computing science, converge to form AI.
+Tomorrow, the Science Committee will mark up the National
+Quantum Initiative Act, which establishes a federal program to
+accelerate quantum research and development. This is a
+bipartisan bill that Ranking Member Eddie Bernice Johnson and I
+and others will introduce today. My hope is that every member
+of the committee will sponsor it or at least a majority.
+Transforming our current quantum research into real-world
+applications will create scientific and technological
+discoveries, especially in the field of artificial
+intelligence. These discoveries will stimulate economic growth
+and improve our global competitiveness, important
+considerations in light of China's advances in artificial
+intelligence and quantum computing. By some accounts, China is
+investing $7 billion in AI through 2030, and $10 billion in
+quantum research.
+The European Union has also issued a preliminary plan
+outlining a $24 billion public-private investment in AI between
+2018 and 2020. And Russian President Putin has noted that,
+quote, ``The leader in AI will rule the world,'' end quote. No
+doubt that's appealing to him. Yet, the Department of Defense's
+unclassified investment in AI was only $600 million in 2016,
+while federal spending on quantum totals only about $250
+million a year.
+The Committee will mark up a second piece of legislation to
+reauthorize the National Institute of Standards and Technology.
+The bill directs NIST to continue supporting the development of
+artificial intelligence and data science, including the
+development of machine learning and other artificial
+intelligence applications. It is simply vital to our nation's
+future that we accelerate our quantum computing and artificial
+intelligence efforts.
+Thank you, Madam Chair, and I yield back.
+[The prepared statement of Chairman Smith follows:]
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Comstock. Thank you. And I now recognize the
+Ranking Member of the Energy Subcommittee, the gentleman from
+Texas, Mr. Veasey, for an opening statement.
+Mr. Veasey. I want to thank you, Chairwoman Comstock and
+Chairman Weber, for holding this hearing today, and thank you
+for all of the witnesses for providing expertise on this topic.
+I'm looking forward to hearing what everyone has to say today.
+America, of course, is a country of innovation, and in the
+digital world of today, more and more industries are relying on
+advanced technologies and connectivity to overcome new
+challenges. Artificial intelligence and big data are impacting
+every facet of production and commerce. AI has the ability to
+mimic cognitive functions such as problem-solving and learning,
+making it a critical resource as we encounter never-before-seen
+problems. Those in the energy sector have already seen
+improvements in productivity and efficiency and can expect to
+see even more advancement in the coming years.
+AI can be used to process and analyze data in previously
+unexplored ways. Technology such as sensor-equipped aircraft
+engines, locomotive, gas, and wind turbines are now able to
+track production efficiency and wear and tear on vital
+machinery.
+AI could also significantly improve our ability to detect
+failures before they occur and prevent disasters, saving money,
+time, and lives. And through the use of analytics, sensors, and
+operational data, AI can be used to manage, maintain, and
+optimize systems ranging from energy storage components to
+power plants to the electric grid. As digital technologies
+revolutionize the energy sector, we must ensure safe and
+responsible execution of these processes.
+AI systems can learn and adapt through continuous modeling
+of interaction and data feedback. Production must be put in
+place to guarantee the integrity of these mechanisms as they
+evaluate mass quantities of machine and user data. With
+Americans' right to privacy under threat, security of these
+connected systems is of the utmost importance.
+Nevertheless, I'm excited to learn about the valuable
+benefits that AI may be able to provide for our economy and our
+well-being alike. With a Gartner research study reporting that
+AI will generate 2.3 million jobs by 2020, that's a lot of
+jobs. The growth AI will bring not only to the energy sector
+but to health care, transportation, education, and so many
+others will help ensure the prosperity of our nation.
+I look forward to seeing what light our witnesses can shed
+on these topics and what we can do in Congress to help enable
+the development and deployment of these promising technologies.
+Madam Chairwoman, I yield back the balance of my time.
+[The prepared statement of Mr. Veasey follows:]
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Comstock. Thank you. And I now recognize Mr.
+Weber for his opening statement.
+Mr. Weber. Thank you, Madam Chair.
+Today, we will hear from a panel of experts on next-
+generation artificial intelligence, AI as we've all heard it
+described. And while some have raised concerns about the
+negative consequences of AI, this technology has the potential
+to solve fundamental science problems and improve everyday
+life. In fact, it's likely that everyone in this room benefits
+from artificial intelligence. For example, users of voice
+assistants, online purchase prediction, fraud detection that
+the gentleman from Texas mentioned, and music recommendation
+services are already utilizing aspects of this technology in
+their day-to-day life.
+In the past few years, the use of AI technology has rapidly
+expanded due to the increase in the volume of data worldwide,
+and to the proliferation of advanced computing hardware that
+allows for the powerful parallel processing of this data. The
+field of AI has broadened to include other advanced computing
+disciplines such as machine learning. We've heard about neural
+networks, deep learning computer vision, and natural language
+processing, just to name a few. These learning techniques are
+key to the development of AI technologies and can be used to
+explore complex relationships and produce previously unseen
+results on unprecedented timescales.
+The Department of Energy, DOE, is the nation's largest
+federal supporter of basic research in the physical science,
+with expertise in big-data science, high-performance computing,
+advanced algorithms, and data analytics and is uniquely
+positioned to enable fundamental research in AI and machine
+learning.
+DOE's Office of Science Advanced Scientific Computing
+Research program, or ASCR as we call it, program develops next-
+generation supercomputing systems that can achieve the
+computational power needed for this type of critical research.
+This includes the Department's newest and most powerful
+supercomputer called Summit, which just yesterday, just
+yesterday was ranked as the fastest computing system in the
+entire world.
+AI also has broad applications in the DOE mission space. In
+materials science, AI helps researchers speed the experimental
+process and discover new compounds faster than ever before. In
+high-energy physics, AI finds patterns in atomic and particle
+collisions previously unseen by scientists.
+In fusion energy research, AI modeling predicts plasma
+behavior that will assist in building tokamak reactors, making
+the best of our investments in space. Even in fossil fuel
+energy production, AI systems will optimize efficiency and
+predict needed maintenance at power-generating facilities. AI
+technology has the potential to improve computational science
+methods for any big-data problem, any big-data problem. And
+with the next generation of supercomputers, the exascale
+computing systems that DOE is expected to field by 2021,
+American researchers utilizing AI technology will be able to
+track even bigger challenges.
+We cannot afford to fall behind in this compelling area of
+research, and big investments in AI by China and Europe already
+threaten U.S. dominance in this field. With the immense
+potential for AI technology to answer fundamental scientific
+challenges, it's quite clear we should prioritize this
+research.
+We should maintain, I will add, American competitive edge
+and American exceptionalism. This will help us to do that.
+I want to thank our accomplished panel of witnesses for
+their testimony today, and I look forward to hearing what role
+Congress can play and should play in advancing this critical
+area of discovery science.
+And, Madam Chair, I yield back.
+[The prepared statement of Mr. Weber follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[The prepared statement of Full Committee Ranking Member
+Eddie Bernice Johnson]
+[GRAPHIC] [TIFF OMITTED] T0877.011
+Chairwoman Comstock. Thank you. And I will now introduce
+today's witnesses. Our first witness today is Dr. Tim Persons,
+Chief Scientist at the U.S. Government Accountability Office.
+He also serves as a Director for GAO's Center for Science,
+Technology, and Engineering. Dr. Persons received a Bachelor of
+Science in physics from James Madison University and a Master
+of Science in nuclear physics from Emory University. He also
+earned a Master of Science in computer science and Ph.D. in
+biomedical engineering, both from Wake Forest University.
+Next, we have Mr. Greg Brockman, our second witness, who is
+Cofounder and Chief Technology Officer of OpenAI, a nonprofit
+artificial intelligence research company. Mr. Brockman is an
+investor in over 30 startups and a board member of the Stellar
+digital currency system. He was previously the CTO of Stripe, a
+payments startup now valued at over $9 billion. And he studied
+mathematics at Harvard and computer science at MIT.
+And our final witness is Dr. Fei-Fei Li, Chairperson of the
+Board and Cofounder of AI4ALL. In addition, Dr. Li is a
+Professor in the Computer Science Department at Stanford and
+the Director of the Stanford Artificial Intelligence Lab. In
+2017, Dr. Li also joined Google Cloud as Chief Scientist of AI
+and machine learning. Dr. Li received her Bachelor of Arts in
+physics from Princeton and her Ph.D. in electrical engineering
+from the California Institute of Technology.
+I now recognize Dr. Persons for five minutes to present his
+testimony.
+TESTIMONY OF DR. TIM PERSONS,
+CHIEF SCIENTIST,
+U.S. GOVERNMENT ACCOUNTABILITY OFFICE
+Dr. Persons. Good morning. Thank you, Chairwoman Comstock,
+Chairman Weber, Ranking Members Lipinski and Veasey and Members
+of the Subcommittee. I'm pleased to be here today to discuss
+GAO's technology assessment on artificial intelligence. To
+ensure the United States remains a leader in AI innovation,
+special attention will be needed for our education and training
+systems, regulatory structures, frameworks for privacy and
+civil liberties, and our understanding of risk management in
+general.
+AI holds substantial promise for improving human life,
+increasing the nation's economic competitiveness, and solving
+some of society's most pressing challenges. Yet, as a
+disruptive technology, AI poses risks that could have far-
+reaching effects on, for example, the future labor force,
+economic inclusion, and privacy and civil liberties, among
+others.
+Today, I'll summarize three key insights arising from our
+recent work. First, the distinction between narrow versus
+general AI; second, the expected impact of AI on jobs,
+competitiveness, and workforce training; and third, the role
+the federal government can play in research, standards
+development, new regulatory approaches, and education.
+Regarding narrow versus general AI, narrow AI refers to
+applications that are task-specific such as tax preparation
+software, voice and face recognition systems, and algorithms
+that classify the content of images. General AI refers to a
+system exhibiting intelligence on par with or possibly
+exceeding that of humans. While science fiction has helped
+general AI capture our collective imaginations for some time,
+it is unlikely to be fully achieved for decades if at all. Even
+so, considerable progress has been made in developing narrow AI
+applications that outperform humans in specific tasks and are
+thus invoking crucially important economic policy and research
+considerations.
+Regarding jobs, competition, and the workforce, there is
+considerable uncertainty about the extent to which jobs will be
+displaced by AI and how many--how much any losses will be
+offset by job creation. In the near term, displacement to
+certain jobs such as call-center or retail workers may be
+particularly vulnerable to automation. However, in the long
+term, demand for skills that are complementary to AI is
+expected to increase, resulting in greater productivity. To
+better understand the impact of AI on employment moving
+forward, several experts underscored the need for new data and
+methods to enable greater insight into this issue.
+Regarding the role of the federal government, it will
+continue its crucial role in research and data-sharing,
+contributions to standards development, regulatory approaches,
+and education. One important research area of the federal
+government could support is enhancing the explainability of AI,
+which could help establish trust in the behavior of AI systems.
+The federal government could also incentivize data-sharing,
+including federal data that are subject to limitations for how
+they can be used, as well as creating frameworks for sharing
+data to improve the safety and security of AI systems. Such
+efforts may include supporting standards for explainability;
+data labeling and safety, including risk assessment; and
+benchmarking of AI performance against the status quo. It's
+always risk versus risk.
+Related to this, new regulatory approaches are needed,
+including the development of regulatory sandboxes for testing
+AI products, services, and business models, especially in
+industries like transportation, financial services, and health
+care. GAO's recent report on fintech found, for example, that
+regulators use sandboxes to gain insight into key questions,
+issues, and unexpected risks that may arise out of the emerging
+technologies. New rules governing intellectual property and
+data privacy may also be needed to manage the deployment of AI.
+Finally, education and training will need to be reimagined
+so workers have the skills needed to work with and alongside
+emerging AI technologies. For the United States to remain
+competitive globally and effectively manage AI systems, its
+workers will need a deeper understanding of probability and
+statistics across most if not all academic disciplines, that
+is, not just the physical, engineering, and biological
+sciences, as well as competency and ethics, algorithmic
+auditability, and risk management.
+In conclusion, the emergence of what some have called the
+fourth industrial revolution and AI's key role in driving it
+will require new frameworks for business models and value
+propositions for the public and private sectors alike. Even if
+AI technologies were to cease advancing today, no part of
+society or the economy would be directly or indirectly
+untouched by its transformative effects.
+I thank the committee leadership of the committees. Thanks
+to the members here for your holding a hearing on this very
+important topic today for such a time as this.
+Madam Chairwoman, Mr. Chairman, Ranking Members, this
+concludes my prepared remarks. I would be happy to respond to
+any questions that you or other Members of the Subcommittees
+have at this time.
+[The prepared statement of Dr. Persons follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Comstock. Thank you. And I now recognize Mr.
+Brockman for five minutes.
+TESTIMONY OF MR. GREG BROCKMAN,
+CO-FOUNDER AND CHIEF TECHNOLOGY OFFICER, OPENAI
+Mr. Brockman. Chairwoman Comstock, Chairman Weber, Ranking
+Member Lipinski, Ranking Member Veasey, members of both
+subcommittees, thank you for having me today to deliver
+testimony.
+I'm Greg Brockman, Cofounder of OpenAI, a San Francisco-
+based nonprofit with a mission to ensure that artificial
+general intelligence, which we define as systems--the highly
+autonomous systems that outperform humans at most economically
+valuable work--benefits all of humanity.
+Now, I'm here to tell you about the generality of modern
+AI, why AGI might actually be in reach sooner than commonly
+expected, and what action policymakers can take today.
+So, first, what's OpenAI? We're a research company with one
+of the world's most advanced AI research and development teams.
+Yesterday, we announced major progress towards a milestone that
+we, Alphabet's subsidiary DeepMind, and Facebook have
+separately been trying to reach, which is solving complex
+strategy games which start to capture many aspects of the real
+world that were just not seen in board games like chess or Go.
+We built a system called OpenAI Five, which learned to
+devise long-term plans and navigate scenarios far too complex
+to be programmed in by a human in order to solve a massively
+popular competitive game called Dota 2.
+Now, in the past, AI-like technology was written by humans
+in order to solve one specific problem at a time. It was not
+capable of adapting to solve new problems. Today's AI, it's all
+based on one core technique, which is the artificial neural
+network, a single simple idea that, as it's run on faster
+computers, is proving to match a surprising amount of human
+capability. And this was in fact something that was shown in
+part by my fellow witnesses Dr. Li's work in image recognition.
+And artificial neural networks can be trained to perform speech
+recognition or computer vision. It just depends on the data
+that they're shown.
+Now, further along the spectrum of generality is AGI.
+Rather than being developed for any one use case, AGI would be
+developed for a wide range of important tasks, and AGI would
+also be useful for noncommercial applications, including
+thinking through complex international disputes or city
+planning.
+Now, people have been talking about AGI for decades, and so
+how should we think about the timeline? Well, all AI systems,
+they're built on three foundations. That's data, computational
+power, and algorithms. Next-generation AI systems are already
+starting to rely less on conventional data sets where a human
+has provided the right answer. For example, one of our recent
+neural networks learned by reading 7,000 books.
+We also recently released a study showing that the amount
+of computation powering the largest AI training runs has been
+doubling every 3-1/2 months since 2012. That's a total increase
+of 300,000 times. And we expect this to continue for the next
+five years using only today's proven hardware technologies and
+not assuming any breakthroughs like quantum or optical.
+Now, to put that in perspective, that's like if your phone
+battery, which today lasts for a day, started to last for 800
+years and then, five years later, started to last for 100
+million years. It's this torrent of compute, this tsunami of
+compute. We've never seen anything like this. And so the open
+question is will this massive increase in combinational power,
+combined with near-term improvements in algorithmic
+understanding, be enough to develop AGI? We don't know the
+answer to this question today, but given the rapid progress
+that we are seeing, we can't confidently rule it out.
+And so now what should we be thinking about today? What can
+policymakers be doing today? And so, you know, the first thing
+to recognize is the core danger of AGI is that it has
+fundamentally the potential to cause rapid change whether
+that's through machines pursuing goals that are mis-specified
+by their operator, whether it's through malicious humans
+subverting deployed systems, or whether it's an economy that
+grows in an out-of-control way for its own sake rather than in
+order to improve human lives.
+Now, we spent two years. worth of policy research to create
+the OpenAI Charter, which in fact is a document I have right
+here in front of me. This contains three sections defining our
+views on safe and responsible AGI development. So that's--one
+is leaving time for safety and in particular refusing a race to
+the bottom on safety in order to reach AGI first. The second is
+to ensure that people at large rather than any one small group
+receive the benefits of this transformative technology. And the
+third is working together as a community in order to solve
+safety and policy challenges.
+Now, our primary recommendation to policymakers is to start
+measuring progress in this field. We need to understand how
+fast the field is moving, what capabilities are likely to
+arrive when in order to successfully plan for AGI challenges.
+That moves towards forecasts rather than intuition. Measurement
+is also a place where international coordination is actually
+valuable, and this is important if we want to spread safety and
+ethical standards globally.
+So thank you for your time, and I look forward to
+questions.
+[The prepared statement of Mr. Brockman follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Comstock. Thank you. And we now recognize Dr. Li.
+TESTIMONY OF DR. FEI-FEI LI,
+CHAIRPERSON OF THE BOARD AND CO-FOUNDER, AI4ALL
+Dr. Li. Thank you for the invitation, Congresswomen and
+Congressmen. My name is Fei-Fei Li. I'm here today as the
+Cofounder and Chairperson of AI4ALL, a national nonprofit
+organization focusing on bringing hands-on experience in AI
+research to high school students that have been traditionally
+underrepresented in the field of--in the STEM fields such as
+girls, people of color, and members of low-income communities.
+Our program began at Stanford University in 2015. This year,
+AI4ALL are expanded across North America to six university
+campuses.
+I often like to share with my students that there's nothing
+artificial about artificial intelligence. It's inspired by
+people, it's created by people, and, most importantly, it has
+an impact on people. It's a powerful tool we're only just
+beginning to understand, and that's a profound responsibility.
+I'm here today because the time has come to have an
+informed public conversation about that responsibility. With
+proper guidance, AI will make life better, but without it, it
+stands to widen the wealth divide even further, making
+technology even more exclusive, and reinforce biases we've
+spent generations trying to overcome. This will be an ethical,
+philosophical, and humanistic challenge, and it will require a
+diverse community of contributors. It's an approach I call
+human-centered AI. It's made of three pillars that I believe
+will help ensure AI plays a positive role in the world.
+The first is that the next generation of AI technology must
+reflect more of the qualities that make us human such as a
+deeper understanding of the context we rely on to make sense of
+the world. Progress on this front will make AI much better at
+understanding our needs but will require a deeper relationship
+between AI and fields like neuroscience, cognitive science, and
+the behavior sciences.
+The second is the emphasis on enhancing and augmenting
+human skills, not replacing them. Machines are unlikely to
+replace nurses and doctors, for example, but machine learning
+assistive diagnosis will help their job tremendously. Similar
+opportunities to intelligently augment human capabilities
+abound from health care to education, from manufacturing to
+agriculture.
+Finally, AI must be guided by a concern for its impact. We
+must address challenges of machine biases, security, privacy,
+as well as at the society level. Now is the time to prepare for
+the effect of AI on laws, ethics, and even culture.
+To put these ideas in practice, governments, academia, and
+industry will have to work together. This will require better
+understanding of AI in all three branches of government. AI is
+simply too important to be owned by private interests alone,
+and publicly funded research and education can provide a more
+transparent foundation for its development.
+Next, academia has a unique opportunity to elevate our
+understanding and development of this technology. Universities
+are a perfect environment for studying its effect on our world,
+as well as supporting cross-disciplinary next-generation AI
+research.
+Finally, businesses must develop a better balance between
+their responsibility to shareholders and their obligations to
+their users. Commercial AI products have the potential to
+change the world rapidly, and the time has come to complement
+this ambition with ethical, socially conscious policies.
+Human-centered AI means keeping humans at the heart of this
+technology's development. Unfortunately, lack of diverse
+representation remains a crisis in AI. Women hold a fraction of
+high-tech positions, even fewer at the executive level, and
+this is even worse for people of color. We have good reasons to
+worry about bias in our algorithms. A lack of diversity among
+the people developing these algorithms will be among its
+primary causes. One of my favorite quotes comes from technology
+ethicist Shannon Vallor, who says that ``There's no independent
+machine values. Machine values are human values.''
+However autonomous our technology becomes, its impact on
+the world will always be our responsibility. With the human-
+centered approach, we can make sure it's an impact we'll be
+proud of. Thank you.
+[The prepared statement of Dr. Li follows:]
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+Chairwoman Comstock. Thank you. And I now recognize myself
+for five minutes for questions.
+Dr. Li, there's a generally accepted potential for AI-
+enabled teaching to a minimum to provide a backup for
+traditional classroom education. So as AI technology advances,
+it seems reasonable to assume that your traditional education,
+vocational training, homeschooling, and even college coursework
+will need to change and adapt. Could you maybe comment about
+how education in general and for specific groups and
+individuals might be transformed by AI and how we can make that
+positive and really sort of have more of a democratization of
+education, particularly higher education and in STEM and in
+science?
+Dr. Li. Thank you for the question. Of course, I feel
+passionate about education. So I want to address this question
+in--from two dimensions. One is how could we improve the
+education of AI and STEM in general to more students and
+general community? Second is what can AI as a technology do to
+help education itself?
+On the first dimension, as evidenced by our work in the
+AI4ALL, we really believe that it's simultaneously a crisis and
+an important opportunity that we involve more people in the
+development of AI technology. AI represents--humanity has never
+created a technology so similar or trying to resemble who we
+are, and we need AI to--we need technologists and leaders of
+tomorrow to represent this technology.
+So, personally, I think we need to democratize AI's
+education to reach out to more students of color, girls, women
+from traditionally underrepresented minority groups. At AI4ALL
+for the past four years, we've already created an alumni
+population of more than 100 students, and through their own
+community and route outreach effort, we have touched the lives
+of more than 1,400 youth ranging from middle schoolers to high
+schoolers in disseminating this AI knowledge, and we need more
+of that in higher education.
+The second dimension that I want to answer your question is
+AI as a technology itself can help improve education itself. In
+the machine learning community, I'm sure, Greg, you also agree
+with me that there is an increasing recognition of the
+opportunity for lifelong learning using technology as an
+assistive technology. I have colleagues at Stanford who focus
+on research and reinforcement learning and education of how to
+bring more technological assistance into the teaching and
+territorialization of education itself, and I think this could
+become a huge tool, as I was saying, to augment human teachers
+and human educators to--so that our knowledge can reach to more
+students and wider community.
+Chairwoman Comstock. Excellent. And for other witnesses,
+could you maybe comment on how academic institutions and
+industry could work with government on AI?
+Mr. Brockman. All right. So, you know, for--OpenAI's
+recommendation is really about starting with measurement,
+right, to really start to understand what's happening in the
+field. I think it's really about, for example, the study that
+we did showing the 300,000 times increase. We need more of
+that. We need to understand where things are going, where we
+are. I think the government is uniquely positioned to set some
+of the goalposts as well, and we've been pretty encouraged by
+seeing some of the work that is happening at GAO and also DIUx
+has had some success with us. So we think it's really about
+starting a low touch way for the dialogue to start happening
+because I think right now the dialogue is not happening to the
+extent that it should.
+Dr. Persons. All right. Thank you for the question. I do
+think that, as the committees have pointed out, this is a
+whole-of-society issue. It's going to be government in
+partnership with the private sector, with academia to look at
+things. So I think there is room for thought about how to learn
+by doing, creating internships and ways to try and solve real-
+world problems so that you have a mix of the classroom
+experience, as well as making and building--you'll fail a lot
+of course with these things but learning in a safe environment
+and then being able to grow expertise in that way.
+Chairwoman Comstock. Thank you. And, Dr. Li, did you have
+anything you wanted to add to that also? Okay. Well, thank you.
+And I now will recognize Mr. Lipinski for five minutes.
+Mr. Lipinski. Thank you. This is a fascinating topic. And
+there's--I want to try to move through some things quickly, but
+I'll get some good answers here.
+It seems to me that, Mr. Brockman, you have a different
+view of how--of AGI, the possibilities of AGI and how quickly
+it can come, then, the GAO report. Is there a reason for this?
+Is there something you think that GAO is missing? And if Dr.
+Persons could respond to that.
+Mr. Brockman. So I don't know if I can comment directly on
+the report just not being familiar enough with all the details
+in there, but I can certainly comment on our perspective on AGI
+and its possibility. And a lot of it really comes down to,
+rather than--you know, I think that there's been a lot of more
+emotion or intuition-based argument. And to your opening
+remarks, you know, I think that science-based reasoning in
+order to project what's happening in this field is extremely
+important, and that something that we've spent quite a lot of
+effort on since starting OpenAI almost three years ago.
+And so looking at the barriers to progress as compute data
+algorithms, data is something that's changing very rapidly in
+terms of what data we can use, the computation, the power there
+is growing at a rate that we've just never seen over the course
+of this decade. We're going to be talking, you know, I think
+about ten orders of magnitude, and that something where, if you
+were to compare that to the typical growth of compute,
+something like Moore's law, that the--over the period where we
+saw 300,000X increase in the past six years, we would've only
+seen 12X, right? That's a huge gap, and this is somewhere where
+we're sort of being projected into the future a lot faster than
+people realize.
+Now, it doesn't mean that it's going to happen soon. It
+means that we can't rule it out. It means that for the next
+five years, as long as this hardware growth is happening, we're
+in a fog and it's hard to make confident projections. And so my
+position is that we can't rule it out. We know that this is--
+you know, we're talking about a technological revolution on the
+scale of the agricultural revolution, something that could be
+so beneficial to everyone in this world. And if we aren't
+careful in terms of thinking ahead and trying to be prepared,
+it really could be caught unaware.
+Mr. Lipinski. And thank you. Dr. Persons, do you have a
+response on that?
+Dr. Persons. Sure. I think--and with all respect for our
+Silicon Valley innovators who are upstarts and challenge the
+status quo, I think it's great that we have this system. The
+key thing that we're seeing is the convergence of these
+technologies that was mentioned by my panelists of the
+exponential power in computing, the ubiquitous nature of data,
+the sophistication of algorithms are all coming in.
+But that said, many folks in the community are mildly
+skeptical about the rate at which general AI may come in this
+area because--for several reasons. One is just the way that we
+think about the problem now, the super complexity that is
+manifest in addressing the various challenges. You're looking
+at large data sets and looking at all the facets of them. It's
+much easier to say than to do.
+And again, I think a lot of the--as you pointed out, the
+driving force here is the concern about general AI and taking
+over the world kind of thing, and it's just much harder to
+mimic human intelligence, especially in an environment where
+intelligence isn't even really defined or understood.
+And I think, as Dr. Li pointed out, a lot of this is really
+about augmentation. That's something else we heard from our
+experts. It wasn't a replacement of humans; it was a how can we
+become better humans, more functional humans in doing these
+things? So a lot of it just gets down to the----
+Mr. Lipinski. Let me--because I have a short time, sorry.
+Dr. Persons. Thank you.
+Mr. Lipinski. I just want to throw out quickly, the--there
+have been very different--vastly different opinions and--about
+the replacement of jobs and the disappearance of jobs and what
+the impact's going to be. Mr. Brockman, what do you think the
+impact will be?
+Mr. Brockman. So I think that with new technologies in the
+short term we always overestimate the degree to which they can
+make rapid change, but I think in the long-term that they do, I
+think technology is change in that we've seen with things like
+the internet, that there's been a lot of job displacement, both
+creation and destruction. And I think AI will be no different.
+I think the question of exactly which jobs and when I think we
+don't have enough information yet, and I think that that's
+where measurement really starts to come in. So we view it as an
+open question and a very important one.
+Dr. Persons. And, sir, if I can just say as a bottom line,
+nobody really knows the impact on this, and of course our
+experts are saying to know more we might need to be able to
+encourage--let's--for example, our Bureau of Labor Statistics,
+a data-type agency that--out of the federal government to help
+provide more data or different data or things to help try and
+answer the question of what is the impact as this technology
+continues to unfurl.
+That said, there's also a history of--when you--it goes
+back and attributed to Ned Ludd in the era of British
+industrialization and the concern of destroying the machines
+for the concern about loss of jobs, and yet--and many times
+throughout history, it's happened in an array of technologies
+where net jobs actually increased. It just--they were more
+sophisticated jobs. They were toward higher value creation and
+more productivity. So there is hope with this technology as
+well.
+Mr. Lipinski. And if the Chairwoman will allow, I want to
+hear from Dr. Li.
+Dr. Li. I just want to say that technology inevitably
+throughout human civilization has an impact to change the
+landscape of jobs, but it's really, really critical, like my
+fellow panelists said, that we need to invest in the research
+of how to assess this change. It's not a simple picture of
+replacement, especially when this technology has a much greater
+potential and power to augment it.
+I just spent days in the hospital ICU with my mother in the
+past couple of weeks, and--with my own health care and AI
+research, you recognize that a nurse in a single shift is doing
+hundreds of different tasks in our ICU unit where they're
+fighting for life and death for our patients, and these are not
+a simple question of replacing jobs but creating better
+technology to assist them and to make their jobs better and
+make the lives better for everyone. And that's what I hope we
+focus on, using this technology.
+Mr. Lipinski. Thank you.
+Chairwoman Comstock. Thank you, Dr. Li. That's a wonderful
+example of really vividly explaining to us how that can be used
+because certainly, as we're an aging population in this
+country, that's a challenge we're all facing. And so the
+quality of life and improvement in each of those employees and
+nurses being able to do a better job, thank you for outlining
+that.
+I now recognize Mr. Weber.
+Mr. Weber. Thank you, Madam Chair.
+Dr. Li, is your mom okay? We hope that she is and pray and
+hope that she is okay.
+Dr. Li. Thank you. I'm here. That means she's better.
+Mr. Weber. Okay. Otherwise, we were going to be missing two
+witnesses. Good.
+Dr. Li. She's watching me right now.
+Mr. Weber. Well, good.
+Chairwoman Comstock. Hi, Mom. She's doing a great job.
+Mr. Weber. You're doing excellent. She's a proud mom, and
+that's some good medicine in and of itself right there.
+Dr. Li. Thank you.
+Mr. Weber. So we're glad for that.
+Dr. Brockman, you in your statement say that your mission
+was to actually make sure that artificial intelligence
+benefited people and was better for the most economically
+valuable work. Do you remember that?
+Mr. Brockman. So are----
+Mr. Weber. It's in your written statement.
+Mr. Brockman. That's right. So the--our definition of what
+AGI will be, whether created by us or anyone else but just the
+milestone is a system that can outperform humans and
+economically valuable work.
+Mr. Weber. Okay. Well, let me read it to you real quick.
+``I'm Greg Brockman, Cofounder, a nonprofit development
+organization. Our mission is to ensure that artificial general
+intelligence, by which we mean highly autonomous systems that
+outperform humans at,'' quote, ``most economically valuable
+work,'' end quote, ``benefits all humanity.'' How would you
+define most economically valuable work?
+Mr. Brockman. So I think that, again--and, first of all, I
+just--you know, the question of--you know, AGI is something
+that the whole field has been working towards for--you know,
+really since the beginning of the field 50 years ago, and so
+the question of how to define it I think is something that is
+not entirely agreed-upon, that our definition is this--and when
+we think of it, we think of--you think about things like
+starting companies or very high intellectual work like that----
+Mr. Weber. Right.
+Mr. Brockman. --and, you know, also to things like going in
+cleaning up disaster sites or things that humans would be
+unable to do very well today.
+Mr. Weber. Okay. Well, I noticed that in your disagreement
+that Congressman Lipinski referred to with the report, and you
+call them Silicon Valley upstarts. At least you didn't call
+them young upstarts, so that's an advantage. Thank you for
+doing that. But you're literally looking at a new industry
+that, even though it's shifted--bless you--even though the
+shift is going to be changing, you're actually creating jobs
+for another industry.
+And going back to Dr. Li's example with her mom in the IU
+talking about much the nurses do, how do you train for those
+jobs if it's moving as fast as you think it is?
+Mr. Brockman. Yes, and so, you know, one thing I think is
+also very important is that I don't think we have much ability
+to change the timeline to this technology. I think that there
+are a lot of stakeholders, there are a lot of different pieces
+of the ecosystem. And that--what we do is we step back and we
+look at the trends and we say what's going to be possible when.
+And so I think that the question of how to train--and again,
+that's going to be something--we're not the only ones that are
+going to have to help answer that question.
+But I think that the place to start, it really comes back
+to measurement, right? If we don't know what's coming, if we
+can't project well, then we're going to be taken by surprise.
+And so, you know, I think that there are going to be lots of
+jobs and already have been created jobs that are surprising in
+terms of--you think about with autonomous vehicles, that we
+need to label all this data, we need to make sure that the
+systems are doing what we expect, and that all of that--that
+there's going to be humans that are going to help make these
+systems----
+Mr. Weber. But we would all agree, I hope--and this
+question is for all three panelists--all three witnesses, that
+the jobs they're going to create are well worth the
+transformation into all of that technology.
+Dr. Persons, would you agree with that?
+Dr. Persons. I would agree to that. I'll--let me give you a
+quick example if I may. Speaking with a former Secretary of
+Transportation recently, just a simple example of tollbooth
+collectors, we have now a system where you get the E-ZPass, you
+drive through, and you have less of a workforce there that
+could have had an impact at that time for short period on the
+number or loss of jobs for tollbooth collectors, and yet it
+freed them up. It enabled them to perhaps do other things that
+were needed and large problems.
+Mr. Weber. Okay. And, Mr. Brockman, you were shaking your
+head. You would agree with that statement?
+Mr. Brockman. Absolutely. I think that the purpose of
+technology and improving----
+Mr. Weber. Sure.
+Mr. Brockman. --it is to improve people's lives.
+Mr. Weber. So, Dr. Li, I see you shaking your head, too?
+Dr. Li. Yes, absolutely. In addition to the example Mr.
+Persons provided, I think deeply about the jobs that are
+currently dangerous and harmful for humans from fighting fires
+to search and rescue to, you know, natural disaster recovery.
+Not only we shouldn't put humans in harm's way if we can avoid
+it, but also we don't have enough help in these situations, and
+they are--this is where technology should be of tremendous
+help.
+Mr. Weber. Very quickly, I'm out of time, just yes or no.
+If we lose dominance in AI, that puts us in a really bad spot
+in worldwide competitiveness, would you agree?
+Dr. Persons. Yes.
+Mr. Brockman. Yes.
+Mr. Weber. Yes. Thank you.
+Dr. Li. Yes.
+Mr. Weber. Madam Chair, I yield back.
+Chairwoman Comstock. Thank you. Good question.
+Now, I recognize Mr. Veasey for five minutes.
+Mr. Veasey. Thank you, Madam Chair.
+We have heard about already from your testimony some of the
+advantages of AI and how it can help humankind, how it can help
+advance us as a nation and a country. But, as you know, there
+are people also that have concerns about AI. There's been a lot
+of sort of doomsday-like comparisons about AI and what the
+future of AI can actually mean.
+To what extent do you think this scenario, this sort of,
+you know, worst-case scenario that a lot of people have pointed
+out about AI is actually something that we should be concerned
+about? And if there is a legitimate concern, what can we do to
+help establish a more ethical, you know, responsible way to
+develop AI? And this is for anybody on the panel to answer.
+Mr. Brockman. So I think thinking about artificial general
+intelligence today is a little bit like thinking about the
+internet in maybe the late '50s, right? If someone was to
+describe to you what the internet was going to be, how it would
+affect the world, and the fact that all these weird things were
+going to start happening, you're going to have this thing
+called Uber which you're going to be able to--you'd just--you'd
+be very confused. It'd be very hard to understand what that
+would look like and the fact that, oh, we forget to put
+security in there and that we'd be paying for that for, you
+know, 30 years' worth of trying to fix things. And now imagine
+that that whole story, which played out over really the course
+of the past 60, almost 70 years now was going to play out in a
+much more compressed timescale.
+And so that's the perspective that I have when it comes to
+artificial general intelligence is the fact that it can cause
+this rapid change and it's already hard for us to cope with the
+changes that technology brings. And so the question of is it
+going to be malicious actors, is it going to be that the
+technology itself just wasn't built in a safe way, or is it
+just that the deployment that who owns it and the values that
+it's given aren't something that we're all very happy with? All
+of those I think are real risks, and again, that's something
+that we want to start thinking about today.
+Dr. Persons. Thank you, sir. So I agree with that. I think
+the key thing is being clear-eyed about what the risks actually
+are and not necessarily being driven by the entertaining and
+yet this science-fiction-type narrative sometimes on these
+things projecting or going to extremes and assuming far more
+than where we actually are in the technology.
+So it's--there are risks. It's understanding the risks as
+they are, and there are always contextual risks. Risks in
+automated vehicles are going to be different than risks in this
+technology in financial services, let's say. So it's really
+working, again, symbiotically with the community of practice
+and identify what are the things there? What are the
+opportunities? And there's going to be opportunities. And then
+what undesirable things do we want to focus on and then
+optimize from there on on how to deal with them. Thank you.
+Mr. Veasey. Mr. Brockman, in your testimony you had
+referenced a report outlining some malicious actors in this
+area. Could you sort of elaborate on some of your findings in
+these areas?
+Mr. Brockman. That's right. So OpenAI was a collaborator on
+this research report projecting not necessarily today what
+people are doing but looking forward what are some of the
+malicious activities that people could use AI for. And so that
+report--let's see. Yes, I think maybe the most important things
+here you start thinking about a lot of things around
+information, privacy, the question of how we actually ensure
+that these systems do what the operator intends, despite
+potential hacking. You think about autonomous systems that are
+taking action on behalf of humans that are subverted and
+whether, again, it's--you know, that this report focuses on
+active action. You think about autonomous vehicles and if a
+human hacker can go and take control of a fleet of those, some
+of the bad things that could happen.
+And so, you know, I think that this report should really be
+viewed as we need to be thinking about these things today
+before these are a problem because a lot of these systems are
+going to be deployed in a large-scale way, and if you're able
+to subvert them, then, you know, the--all of the problems that
+we've seen to date are going to start having a very different
+flavor where it's not just privacy anymore; it's also systems
+that are deployed in the real world that are actually able to
+affect our own well-being.
+Mr. Veasey. Thank you. Madam Chair, I yield back.
+Chairwoman Comstock. Thank you. And I now recognize Mr.
+Rohrabacher.
+Mr. Rohrabacher. Thank you very much, Madam Chairman.
+This, as in all advances in technology, can be seen as the
+great hope for making things better, or the new idea that there
+might be new dangers involved, or the new technologies will
+help certain peoples but be very damaging to others. And I
+think that where that fear would be most recognizable is in
+terms of employment and how in a free society people earn a
+living. And are we talking about here about the development of
+technology that will help get the tedious and remedial or the
+lower-skilled jobs that can be done by machine, or are we
+talking about the loss of employment by machines that are
+designed to really perform better than human beings perform in
+high-level jobs? What are we talking about here?
+Dr. Li. Okay. So I can--I'm still going to use health care
+as an example because I'm familiar with that area of research.
+So if you look at recent studies by McKinsey and other
+institutions on employment and AI, there is a recognition that
+we need to talk a little more nuanced than just entire job but
+the tasks under each job. The technology has the potential to
+change the nature of different tasks. Again, for example, take
+nurse--a job of a nurse as an example. It--no matter how
+rapidly we develop the technology and the most optimistic
+assessment, it's very hard to imagine the entire profession of
+nurse--nursing would be replaced, yet within the nursing jobs
+there are many opportunities that certain tasks can be assisted
+by AI technology.
+For example, a simple one that costs a lot of time and
+effort in nursing jobs is charting. Our nurses in our, again,
+ICU rooms, our patient rooms spend a lot of time typing and
+charting into a system, into a computer while that's time away
+from patients and other more critical care. So these are the
+kind of tasks under a bigger job description that we can hope
+to use technology to assist them and augment----
+Mr. Rohrabacher. So are we talking about robots here or a
+box that thinks and is able to make decisions for us? What are
+we talking about?
+Dr. Li. So AI technology is a technology of many different
+aspects. It's not just robot. In this particular case, for
+example, natural language, understanding the speech
+recognition, and possibly in the form of a voice assistant
+would help charting. But maybe delivering of simple tools on
+the factory floor will be in the form of a small simple
+delivery robot. So there are different forms of machines.
+Mr. Rohrabacher. I see. Well, there are many dangerous jobs
+that I could see that we'd prefer not having human life put at
+risk in order to accomplish the goal. And, for example, at
+nuclear power plants it would be a wondrous thing to have a
+robotic response to something that could cause great damage to
+the overall community but would kill somebody if they actually
+went in to try to solve a problem. And I understand that and
+also possibly with communicable diseases where people need to
+be treated but you're putting people at great risk for doing
+that.
+However, with that said, when people are seeking profit in
+a free and open society, I would hate to think that we're
+putting out of work people with lower skills, and we need the
+dignity of work and of earning your own way once we know now
+that when you take that away, it really has a major negative
+impact on people's lives.
+So I want to thank you all for giving us a better
+understanding of what we're facing on this, and let's hope that
+we can develop this technology in a way that helps the widest
+variety of people and not just perhaps a small group that will
+keep their jobs and keep the money. So thank you very much.
+Chairwoman Comstock. Thank you. And I now recognize Ms.
+Bonamici for five minutes.
+Ms. Bonamici. Thank you so much. Thank you to our
+witnesses.
+First, I want to note that our nation has some of the best
+scientists and researchers and engineers in the world, but
+without stronger investments in research and development,
+especially long-term foundational research, we risk falling
+behind, especially in this important area. I hope the research
+continues to acknowledge the socioeconomic aspects as well of
+integrating AI technologies.
+In my home State at the University of Oregon we have the
+Urbanism Next center. They're doing some great work bringing
+together interdisciplinary perspectives, including planning and
+architecture and engineering and urban design and public
+administration with public, private, and academic sectors to
+discuss how leveraging technology will shape the future of our
+communities. Their research has been talking about emerging
+technologies like autonomous vehicles and the implications for
+equity, health, the economy, and the environment and
+governance.
+Dr. Persons, can you discuss the value of establishing this
+type of partnership between industry, academia, and the private
+sector to help especially identify and address some of the
+consequences intended and unintended of AI as it becomes more
+prevalent? And I do have a couple more questions.
+Dr. Persons. Sure, I'll answer quickly. The short answer is
+yes. Our experts and what we're seeing is the value in public-
+private partnerships because, again, it would be a mistake to
+look at this technology in sort of isolated stovepipes, and it
+would need to be an integrated approach to things, the federal
+government having its various roles but key--like your
+mentioning at University of Oregon, key academic and research
+questions. There's many, many things to research and questions
+to answer and then of course industry, which has an incredible
+amount of innovation and thinking and power to drive things
+forward.
+Ms. Bonamici. Terrific. Thank you. Dr. Li, I have a couple
+questions. You discuss the labor disruption, and I know that's
+brought up a couple of times and the need for retraining. We
+really have sort of a dual skills gap issue here because we
+want to make sure there are enough people who have the
+education needed for the AI industries, but we also are talking
+about the workers like you mentioned, the workers in tollbooths
+who will be displaced. But with the rapid development of
+technologies and the changes in this field, what knowledge and
+skills are the most important for a workforce capable of
+addressing the opportunities and the barriers to the
+development?
+I serve on the Education and Workforce Committee, and this
+is a really important issue is how do we educate people to be
+prepared for such rapid changes?
+Dr. Li. So AI is fundamentally a scientific and engineering
+discipline, and to--as an educator, I really believe in more
+investment in STEM education from early age on. We look at--in
+our experience at AI4ALL when we invited these high school
+students in the age of 14, 15, 16 to participate in AI
+research, their capabilities and potential just amazes me. We
+have high school students who have worked in my lab and won
+best-paper award at this country's best AI academic
+conferences. And so I believe passionately that STEM education
+is critical for the future for preparing AI workforce.
+Ms. Bonamici. Thank you. And as everyone on this committee
+knows, I always talk about STEAM because I'm a big believer in
+educating both halves of the brain, and students who have arts
+education tend to be more creative and innovative.
+Also, Dr. Li, in your testimony you talk about how AI
+engineers need to work with neuroscientists and cognitive
+scientists to help AI systems develop a more human feel. Now, I
+know Dr. Carbonell is not here today, but I noted in his
+testimony he wrote, ``AI is the ability to create machines who
+perform tasks normally associated with human intelligence.''
+I'm sure that was an intentional choice to humanize the
+machine, but I wanted to ask you, Dr. Li, about--he's not here
+to explain, but I have no doubt that was intentional. In your
+testimony you talk about the laws that codify ethics. How is
+this going to be done? Can you go into more depth about how
+would these laws be done? Who would determine what is ethical?
+And would it be a combination of industry, government
+determining standards? How is--how are we going to set the
+stage for an ethical development of AI?
+Dr. Li. Yes, so thank you for the question. I think for
+technology as impactful as AI is to human society, it's
+critical that we have ethical guidelines. And different
+institutions from government to academia to industry will have
+to participate in this dialogue together and also by
+themselves.
+Ms. Bonamici. Are they already doing that, though? You said
+they'll have to but is somebody convening all of this to make
+sure that there are----
+Dr. Li. So there are efforts. I'm sure Greg can add to
+this. Industries in Silicon Valley we're seeing company
+starting to roll out AI ethical principles and responsible AI
+practices in academia. We see that ethicists and social
+scientists coming together with technologists holding seminars,
+symposiums, classes to discuss the ethical impact of AI. And
+hopefully, government will participate in this and support and
+invest and these kind of efforts.
+Ms. Bonamici. Thank you. I see my time is expired. Thank
+you, Madam Chair. I yield back. Oh, Mr. Chairman, thank you.
+Mr. Weber. [Presiding] I thank the gentlelady.
+And the gentlelady from Arizona is recognized for five
+minutes.
+Mrs. Lesko. Thank you, Mr. Chair.
+I want to thank the testifiers today, very interesting
+subject and something that kind of spurs the imagination about
+science fiction shows and those type of things.
+What countries are the major players in AI, and where does
+the United States rank in competition with them? And that's to
+any panelist or all panelists.
+Mr. Brockman. So, you know, today, I think that the United
+States actually ranks possibly top of the list. You know, I
+think there are lots of other countries that are investing very
+heavily. You know, China is investing heavily, lots of
+countries in Europe are investing heavily. The--you know,
+DeepMind is subsidiary of a U.S. company but located in London.
+And I think that, you know, it's very clear that AI is going to
+be something of global impact, and I just think the more that
+we can understand what's happening everywhere and figure out
+how we can coordinate on safety and ethics in particular, the
+better it's going to go.
+Dr. Persons. Yes, I--thank you for the question. I think
+wherever there is large amounts of computing, large amounts of
+data, and a strong desire to innovate and continue to develop
+again in this sort of fourth industrial revolution that we're
+moving on, then you--it drives toward certainly China and then
+our allies and colleagues in Western Europe and developed
+worlds. Thank you.
+Mrs. Lesko. And is there--did you want to answer?
+Mr. Brockman. Sorry----
+Mrs. Lesko. Go ahead.
+Mr. Brockman. If I could just add that, you know, the most
+important thing to continue to lead in the field, it's really
+about the talent. And right now, we're doing a great job of
+bringing all the talent in. At OpenAI we have a very wide mix
+of national backgrounds and origins, and I think as long as we
+can keep that up, that we'll be in very good shape.
+Mrs. Lesko. Thank you. And, Mr. Chair, I have one more
+question, and I think this has been asked in different ways
+before, but what steps are we guarding against, espionage from,
+let's say--you said China is involved in this and that's
+basically my question--espionage, hacking, those type of
+things. What guidelines are currently taking place, and who's
+preventing this? Is it the private companies themselves? Is
+government involved? Thank you.
+Mr. Brockman. So one thing that's a very atypical about
+this field is because it really grew out of an academic--very
+small number of academic labs that the overarching ethos in the
+field is actually to publish. And so all of the core research
+and development is actually being shared pretty widely. And so
+I think that as we're starting to build these more powerful
+systems and this is one of the parts of our charter that we
+need to start thinking about safety and keeping--you know,
+thinking about things that should not be shared, and so I think
+that this is a new muscle that's being built. It's right now
+kind of up to each company, and I think that that something
+that we're all starting to develop. But I think having a
+dialogue around what's okay to share and what things are kind
+of too powerful and should be kept private, that's just the
+dialogue that's starting now.
+Dr. Persons. And certainly IP or intellectual property
+protection is a critical issue. I think of one former Director
+of the National Security Agency mentioned that we're--at the
+time it was unprecedented theft of U.S. intellectual property
+at that time just because of the--it's the blessing and curse
+of the internet. It's a blessing it's this open and the curse
+is it's open. And so AI is going to I think be in that
+category.
+In terms of what's being done in terms of cybersecurity, it
+is something our experts pointed out and said it is an issue.
+As this Committee well knows, it's easier said than done, and
+who has jurisdictions in the U.S. federalist system about
+particularly a private company and protection of that, the role
+of the federal government versus the company itself in an era
+where, as I think Mr. Brockman has pointed out, is sort of the
+big-data era where data are the new oil, yet we want to be open
+at the same time so that we can innovate. So managing that
+dialectical tension is going to be a critical issue, and
+there's no easy answer.
+Mrs. Lesko. Thank you. Mr. Chair, I yield back.
+Mr. Weber. The Chair recognizes Ms. Esty for five minutes.
+Ms. Esty. Thank you, Mr. Chair, and I want to thank the
+witnesses for this extremely informative and important
+conversation that we're having here today.
+I hail from the State of Connecticut where we see a lot of
+innovation at UCONN, at Yale, at lots of spinoffs on the sort
+of narrow AI question. But I think for us really the issue is
+more about that general AI. And, Mr. Brockman, your discussion
+of the advances, which makes Moore's law look puny in
+comparison, is really where I want to take this conversation
+about, Dr. Li, your discussion, which I think is incredibly
+important, about diversity. We saw what happened to Lehman
+Brothers by not being diverse. I am extremely concerned about
+what the implications are for teaching a--as it were, if it's
+garbage in, it's going to be garbage out. If it's a very narrow
+set of parameters and thought patterns and life experiences
+that go into AI, we will get very narrow results out. So,
+first, I want to just talk--get your thoughts on that.
+And the second is on this broader ethical question. We've
+looked for many years--I remember back when I was a young
+lawyer working on bioethical issues. The Hastings Center got
+created to begin to look at these issues. This Committee has
+been grappling with CRISPR and the implications with CRISPR. I
+think about this being very similar, that AI has many similar
+implications for ethical input.
+So if you can opine on both of those questions and
+recognize we have got two minutes--three minutes left--about
+both the ethical--whether we need centers to really bring in
+ethicists, as well as technologists, and then the importance of
+diversity on the technology side so that we get the full range
+of human experience represented as we're exciting--our exciting
+new entry into this fourth revolution. Thanks.
+Dr. Li. Yes, in fact when--just now--thank you for asking
+that question. Just now when somebody is using the term
+doomsday scenario, to me I think if we wake up 20 years from
+now, whatever years, and we see the lack of diversity in our
+technology and leaders and practitioners, that would be my
+doomsday scenario. So it's so important and critical to have
+diversity for the following three reasons, like you mentioned.
+One is shared jobs that we're talking about. This is a
+technology that could have potential to create jobs and improve
+quality of life, and we need all talents to participate in
+that.
+Second is innovation and creativity like you mentioned in
+Connecticut and other places. We need that kind of broad talent
+to add in the force of AI development.
+And the third is really justice and moral values, that if
+we do not have this wide representation of humanity
+representing the development of this technology, we could have
+face-recognition algorithms that are more accurate in
+recognizing a male--white male faces. And these are--we could
+have dangers of out--biased algorithms making unfair loan
+application decisions. You know, there are many potential
+pitfalls of a technology that's biased and not diverse enough.
+Which brings us to this conversation and dialogue of ethics
+and ethical AI. You're right. Previous disciplines like nuclear
+physics, like biology have shown us the importance of this. I
+don't know if there is a single recipe, but I think the need
+for centers, institutions, boards, and government committees
+are all potential ways to create and open this dialogue. And
+again, we're starting to see that, but I think you're totally
+right. It's critical issues.
+Ms. Esty. Mr. Brockman?
+Mr. Brockman. If I may, so I agree completely with my
+fellow witness. So diversity is crucial to success here. So
+actually--so we have a program called OpenAI scholars where we
+brought in a number of people from underrepresented backgrounds
+into the field and provided mentorship and they're working on
+projects and spinning up. One thing that we found that I think
+is very encouraging is it's actually very easy to take people
+who do not have any AI or machine learning background and to
+make them into extremely productive first-class researchers and
+engineers very quickly. And that's, you know, one benefit of
+this technology being so new and nascent is that in some ways
+it--we're all discovering as we go along, too, so becoming an
+expert, there just isn't that high of a bar. But--so I think
+that everyone putting effort in to places where the expertise
+is, I think it's on them to make sure that they're also
+bringing in the rest of the world.
+On the ethical front, that's really core to my
+organization. That's the reason we exist, that we do think
+that, you know, for example, when it comes to the benefits of
+who owns this technology, who gets it--you know, where did the
+dollars go, we think it belongs to everyone. And so one of the
+reasons I'm here is because I think that this shouldn't be a
+decision that's made just in Silicon Valley. I don't think that
+the question of the ethics and how this is going to work should
+be in the hands solely of people like me. I think that it's
+really important to have a dialogue, and again, that something
+where, you know, I hope that that will be one of the outcomes
+of this hearing.
+Ms. Esty. Thank you very much.
+Mr. Weber. The gentleman now recognizes Mr. McNerney.
+Mr. McNerney. Well, I thank the Chair for holding this and
+the Ranking Member, and I thank the witnesses, really very
+interesting testimony and diverse in its own right.
+One of the things that I think that's important here is--
+with this committee is how does the government react to AI? Do
+we need to create a specific agency? Does that agency report to
+Congress or to the Administration? Those sorts of things I
+think are very important.
+Dr. Brockman, you said--I think one of the most important
+things was that we need a measure of AI progress. Do you have a
+model or some description of what that would look like?
+Mr. Brockman. Yes, I do. Thank you for the question. And
+so, first of all, I don't think that we need to create new
+agencies for this. I think that existing agencies are well set
+up for this. And I was actually very encouraged to hear that
+people are talking about giving NIST a remit to think about
+these problems.
+Again, GAO and DIUx are already starting to work on this.
+For example, DIUx had a satellite imagery data set, hosted a
+public competition. The kind of thing that we think would be
+great for government to do as well is to have standardized
+environments where academics and private sector can test
+robotic approaches, setting up competitions towards specific
+problems that various agencies and departments want to be
+solved. All of those I think can be done without any new
+agency, and I think that that's something that you can both get
+benefits directly to the relevant agencies, also understand the
+field, and also start to build ties between private sector and
+public sector.
+Mr. McNerney. I'm one of the founders of the Grid
+Innovation Caucus. What are the most likely areas we'll see
+positive benefits to the grid, to electric grid stability and
+resiliency? Who would be the best to answer that? Mr. Persons?
+Dr. Persons. Sure. Thank you for the question. I think one
+of the ways--GAO has done a good deal of work on this issue,
+but it's just protection of the electrical grid in the
+cybersecurity dimension. So as one of our scenarios or profiles
+that we did in this report, what our experts and what folks are
+saying, and again based on the leadership of this Committee and
+the importance of cyber is that it's a--without which nothing--
+AI is going to be a part of cyber moving forward, and so
+protection of the grid in the cyber dimension is there.
+Also, I think, as the Chairman mentioned earlier, the word
+optimization, so how we optimize things and how algorithms
+might be able to compute and find optimums faster and better
+than humans is an opportunity for grid management and
+production. Thank you.
+Mr. McNerney. So AI is also going to be used as a cyber
+weapon against infrastructures or potentially used as a weapon,
+is that right?
+Dr. Persons. There are concerns now when you look at a
+broad definition of AI and you look at bots now that are
+attacking networks and doing distributed--what are--DDOS or
+distributed denial of service attacks and things like that,
+that exists now. You could--unfortunately, in the black hat
+assumption you're going to assume that as AI becomes more
+sophisticated, the white hats, and so, too, unfortunately, the
+black hat side of things, the bad guys are going to also become
+more sophisticated. And so it's going--that's going to be the
+cat-and-mouse game I think moving forward.
+Mr. McNerney. Another question for you, Dr. Persons. In
+your testimony you mentioned that there's considerable
+uncertainty in the jobs impact of AI.
+Dr. Persons. Yes.
+Mr. McNerney. What would you do to improve that situation?
+Dr. Persons. Our experts were encouraging specific data
+collected on this. Again, we have important federal agencies
+like BLS, Bureau of Labor Statistics, that work on these
+issues, what's going on in the labor market, for example, and
+it may just be an update to what we collect, what questions we
+ask as a government, how we provide that data, which of course
+is very important to our understanding of unemployment metrics
+and so on.
+So there are economists that have thoughts about this. We
+had some input on that. There's no easy answer at this time,
+but the idea that there is an existing agency doing that sort
+of thing is there. The key question is how could we ask more or
+better questions on this particular issue on artificial
+systems?
+Mr. McNerney. Thank you. Dr. Li, you gave three conditions
+for progress in AI being positive. Do you see any acceptance or
+general wide acceptance of those conditions? How can we spread
+the word of that so that the industry is aware of them and the
+government is aware of them and that they follow those sorts of
+guidelines?
+Dr. Li. Thank you for asking. Yes, I would love to spread
+the word. So I think I do see that--the emergence of efforts in
+all three conditions. The first one is about more
+interdisciplinary approach to AI and ranging from universities
+to industry, we see the recognition of neuroscience, cognitive
+science to cross pollinate with AI research.
+I want to add we're all very excited by this technology,
+but as a scientist, I'm very humbled by how nascent the science
+is. It's only a science of 60 years old compared to
+traditionally classic science that's making human lives better
+every day, physics, chemistry, biology. There's a long, long
+way to go for AI to realize its full potential to help people.
+So that recognition really is important, and we need to get
+more research and cross-disciplinary research into that.
+Secondly is the augmenting human, and again, a lot of
+academic research as well as industry startup efforts are
+looking at assistive technology from disability to, you know,
+helping humans. And the third is what many of us focus on today
+is the social impact from studying it to having a dialogue to
+having--to working together through different industry and
+government agencies. So all three are the elements of human-
+centered AI approach, and I see that happening more and more.
+Mr. McNerney. Thank you. I yield back.
+Mr. Weber. The Chair now recognizes the gentleman from New
+York. No. The Chair now recognizes the gentleman that's not
+from New York, Mr. Palmer.
+Mr. Palmer. Thank you, Mr. Chairman. I'd like to know if AI
+can help people who are geography-challenged.
+Mr. Weber. The gentleman's time has expired.
+Mr. Palmer. I request that that question and response be
+removed from the record.
+I do have some questions. In my district, we have the
+National Computer Forensics Institute, which deals with
+cybercrime, and what I'm wondering about is with the emergence
+of and evolution of AI. What are we putting in place because of
+the potential that that creates for committing crime and for
+solving crime? Dr. Persons, do you have any thoughts on that?
+Dr. Persons. Well, certainly in one of the areas we did--
+thank you for the question. One of the areas we did look at in
+general was just criminal justice. So, I mean, just the risks
+that are there in terms of the social risks, making sure the
+scales are balanced exactly as they ought to be, that justice
+is blind, and so on was the focus of that.
+However, I think in terms of the criminal forensics, AI
+could be a tool that helps suss out what--you know, in a
+retrospective sense what happened. But again, it's an
+augmentation that's helping the forensic analyst who would know
+what things look like. And the algorithm would need--in the
+machine-learning sense of things would need to learn what the
+risks might be going forward so that you perhaps could identify
+things more proactively and perhaps in near or at real-time. So
+that's the opportunity for this. Again, AI is a tool and cyber
+was a key message we heard moving forward.
+Mr. Palmer. Any thoughts on that?
+Mr. Brockman. So, today, you know, we're already starting
+to see some of the security problems with the methods that
+we're creating, for example, that there's a new class of attack
+called adversarial examples where researchers are able to craft
+like a physical patch that you could print out and put on any
+object. They'll make a computer vision system think that it's
+whatever object you want it to be, so you could put that on a
+stop sign and confuse a self-driving car, for example. So these
+sorts of ways of subverting these powerful systems is something
+we're going to have to solve and going to have to work on, just
+like we've been working on computer security for more
+conventional systems.
+And I think that the way to think about if you could
+successfully build and deploy an AGI, what that would look
+like, in many ways it's kind of like the internet in terms of
+being very deeply integrated in people's lives but also having
+this increasing amount of autonomy and representation and
+taking action on people's behalf. And so you'll have kind of
+this question of how do you make sure, you know, first of all,
+that's something that could be great for security if these
+systems are well-built and have safety in their core and are
+very hard to subvert. But also if it's possible for people to
+hack them or to cause them to do things that are not aligned
+with the value of the operator, then I think that you can start
+having very large-scale disruption.
+Mr. Palmer. It also concerns me in the context of--it was
+announced a couple of weeks ago that the United States plans to
+form a space corps. We know that China has been very aggressive
+in militarizing space. If you have any thoughts on that
+discussion of how artificial intelligence will be used in
+regard to space. Communication systems that are highly
+vulnerable already, I think that there's some additional
+vulnerability that would be created. Any thoughts on that? And
+any one of the three of the panelists.
+Dr. Persons. Yes, sir. So in terms of the risk in space,
+obviously, one of the key concerns for AI is weaponization
+and--which I think is part of that and so much less the space
+domain or any other one. And so I know our Defense Department
+has key leadership thinking on this and working strategically
+on how do we operate in an environment where we have to assume
+there's going to be the adversary that might not operate in the
+ethical framework that we do and to defeat that, but there's no
+simple answer at this time other than our Defense Department is
+thinking about it and working on it.
+Mr. Palmer. And he's not here obviously to testify, but Dr.
+Carbonell's testimony, he made a statement that we need to
+produce or AI researchers, especially more U.S. citizen or
+permanent resident AI researchers. And I think that kind of
+plays into that issue of how do we deal with AI in space.
+That's one of the reasons why I've been pushing for a college
+program like an ROTC program to recruit people into the space
+corps in these areas, start identifying students when they're
+maybe even in junior high and scholarship them through college
+to get them into these positions. Any thoughts on that?
+Dr. Persons. I'll just answer quickly and just say I think,
+as Dr. Li has I think elegantly pointed out before, this is
+really an interdisciplinary thing. I think there's going to be
+a need for sort of the STEM, STEAM specialist that's
+particularly focused on this, but I think any particular
+vocation is going to be impacted in one way or the other, just
+like you could imagine rewinding a couple decades or a few
+decades--I'll date myself--but when the advent of the personal
+computer, the PC coming in and how that affected. Now, we walk
+into any vocation and somebody's using a PC or something like
+that and it's not unusual, but at the time you had to learn how
+to augment yourself or your task with that. And I think that
+will be the case.
+Mr. Palmer. Well, we're--if I may, Mr. Chairman--just to
+add this final thought that we've had to deal with some major
+hacks, federal government systems that are hacked, and what
+we're faced with, we're competing with the private sector for
+the best and brightest in terms of cybersecurity. We're going
+to find ourselves in the same situation with AI experts, the
+truly skilled people, and that's why I'm suggesting that we may
+need to start thinking about how do we recruit these people and
+get them as employees of the federal government? And that was
+my thoughts on setting up an ROTC-type program where we would
+recruit people in, we'd scholarship them, whether it's for
+cybersecurity or for AI and with a four- or five-year
+commitment to work for the federal government because there's
+going to be tremendous competition. And the federal government
+has a very difficult time competing for those type people.
+So with that, Mr. Chairman, I yield back.
+Mr. Weber. Now, the Chair recognizes the gentleman from New
+York.
+Mr. Tonko. It's okay. We're patient. I thank our respective
+Chairs and Ranking Members for today's very informative
+hearing.
+And welcome and thanks to our witnesses.
+I'm proud to represent New York's 20th Congressional
+District where our universities are leading the way in
+artificial intelligence research and education initiatives.
+SUNY Polytechnic Institute is currently the home of
+groundbreaking research developing neuromorphic circuits which
+could be used for deep learning such as pattern recognition but
+are also useful for AI or machine learning.
+In addition, the institute has established an ongoing
+research program on restive memory devices. Rensselaer
+Polytechnic Institute, RPI, is pushing the boundaries of
+artificial intelligence in a few different areas. In the
+healthcare front, RPI is focusing on improving people's lives
+and patient outcomes by collaborating with Albany Medical
+Center to improve the performance of their emergency department
+by using AI and analytics to reduce the recurrence of costly ER
+visits by patients. And RPI researchers are also collaborating
+with IBM to use the Watson computing platform to help people
+with prediabetes avoid developing the disease.
+In our fight to combat climate change and protect our
+environment, researchers at RPI and Earth and Environmental
+Science are working with computer science and machine learning
+researchers to apply cutting-edge AI to climate issues. In the
+education space, RPI is exploring new ways to use AI to improve
+teaching, as well as new approaches to teaching AI and data
+science to every student at RPI.
+With all that being said, there are tremendous universities
+across our country that are excelling in AI research and
+education. And what are some of the keys to helping AI
+institutions like them to excel? What do we need to do? What
+would be the most important? That's to any one of our
+panelists.
+Dr. Li. So thank you for asking this question. I think,
+just like we recognize AI really is such a widespread
+technology that I think one thing to recognize is that it is
+still so critical to support basic science research and
+education in our universities. This technology is far from
+being done. Of course, the industry is making tremendous
+investment and effort into AI, but it's a nascent science. It's
+a nascent technology. We have many unanswered questions,
+including the socially relevant AI, including AI for good,
+including AI for education, healthcare, and many other areas.
+So one of the biggest things I see would be investment into
+the basic science research into our universities and
+encouraging more students thinking in interdisciplinary terms,
+taking courses. You know, they can be STEM students, STEAM
+students. AI is not just for engineers and scientists; it could
+be for students with policymaking mind, for students with law
+interests, and so on. So I hope to see universities
+participating in this in a tremendous way, like many great
+schools in New York State.
+Mr. Tonko. Thank you. Dr. Persons or Mr. Brockman, either
+of you?
+Mr. Brockman. Sorry. I agree with Dr. Li but I also point
+out that I think it is also becoming increasingly hard to truly
+compete as an academic institution because if you look at
+what's happening, industry right now is actually doing
+fundamental research. It's very different from most scientific
+fields in that the salary disparity between what you can get at
+one of these industrial labs versus what you can get in
+academia, it's a very, very large.
+And there's a second piece, which is in order to do the
+research, you need access to massive computational resources.
+And, for example, the work that we just did with this, you
+know, game breakthrough that required basically a giant cluster
+of, you know, something around 10,000 machines. And that's
+something where in an academic setting it's not clear how you
+can get access to those resources. And so I think for the
+playing field to still be accessible, I think that there needs
+to be some story for how people in academic institutions can
+get access to that, and I think the question of, you know,
+where is the best research going to be done and where are the
+best people going to be, I think that's something that it's,
+you know, playing out right now in industry's favor, but it's
+not necessarily set in stone.
+Mr. Tonko. Thank you. Dr. Persons?
+Dr. Persons. Yes, sir. Thank you for the question. And I
+would just add to my fellow panelists the fact that our experts
+had said that real-world testbeds are important to this. You
+don't know what you don't know, so not only in addition to
+adding access to data but being able to test and do things,
+these--one thing for sure, and I learned, in fact, from OpenAI
+that a lot of the times these things come out with surprising
+results, and so that's the whole reason of creating safe
+environments to try things out and de-risk those technologies.
+And that's something that I think is going to be important to
+enable that base of research to have an avenue to perhaps move
+up the technology maturity scale possibly into the market and
+certainly hopefully to solve critical, complex, real-world
+problems.
+Mr. Tonko. Thank you. Very informative. Mr. Chair, I yield
+back.
+Mr. Weber. The Chair now recognizes the gentleman from
+Illinois.
+Mr. Foster. Thank you, Mr. Chairman. And thank you for
+coming to testify today.
+You know, I've been interested in artificial intelligence
+for quite a long time. Back in the 1990s working in particle
+physics we were using neural network classifiers to have a look
+at trying to classify particle physics interactions. And when I
+couldn't stand it during the government shutdown and not so
+long ago, I went and downloaded TensorFlow and worked through
+the--part of the tutorial on it.
+And, you know, the algorithms are not so different than
+what we were using back in the 1990s, but the computing power
+difference is breathtaking. And I very much resonated with your
+comments on the huge increase in dedicated computer power for
+deep learning and similar--and that is likely to be
+transformative, given the recent--and so that--you know, we
+have to think through that because even with no new brilliant
+ideas on algorithms, there's going to be a huge leap forward.
+So thank you for that. That's a key observation here.
+You know, in Congress I'm the co-Chair of the New Democrats
+Coalition on the Future of Work Task Force where we have been
+trying to think through what this means for the workplace of
+the future. And so I'd like to--if--Mr. Chairman, I'd like to
+submit for the record a white paper entitled ``Closing the
+Skills and Opportunity gaps,'' without objection.
+Mr. Weber. Without objection, so ordered.
+[The information appears in Appendix II]
+Mr. Foster. Thank you. And I will be asking for the record
+if you could have a look at this and see if--you know, how--
+what sort of coverage you think this document has for the near-
+term policy responses because it's--you know, this is coming at
+us I think faster than a lot of people in politics really
+understand.
+And also, I will be asking for the record--I guess you may
+not have to respond right now--where the best sources of
+information on how quickly this will be coming at us. You know,
+there are conferences here and there, but you attend and your
+friends attend a lot of them. I'd be interested in where you
+think--you really come together to get the techno-experts, the
+economic experts, you know, the labor economists, people like
+that all in the same room. I think it's something we should be
+putting more effort into.
+On another track, I've been very involved in Congress in
+trying to resurrect something called the Office of Technology
+Assessment. You know, and what the J.O. did here is very good,
+which is to bring--we had a conference of the experts, and you
+brought in a good set of experts. And a year later now we are
+getting a report on this. And, you know, you need more
+bandwidth in Congress than that just, you know, on all
+technological issues, but this is a perfect example. A year-old
+group of experts and then AI, you know, is--those are opinions
+that are sort of dated a little bit, even a year in the past.
+And so the Office of Technology Assessment for decades
+provided immediate high-bandwidth advice to Congress on all
+sorts of technological issues. And so we're coming closer and
+closer every year in getting it refunded after it was defunded
+in the 1990s. And so I think--well, to ask you a question here,
+is there anyone on the panel who thinks that Congress has
+enough technological capacity as it currently stands to deal
+with issues like this?
+Dr. Persons. So----
+Mr. Weber. I can answer that.
+Mr. Foster. Yes--no, it's a huge problem, and it's been
+aggravated by the fact that people have decided in their wisdom
+to cut back on the size and salaries available for
+Congressional staff. One of my--the previous members who talked
+about--here talked about the difficulty the federal government
+will have in getting real professionals, top-of-the-line
+professionals in here, and, you know, we're seeing Members of
+Congress who are willing to do anything but give them the
+salaries that will be necessary to actually compete for those
+jobs.
+Let's see. I am now--let's see. Oh, Mr. Brockman, you had--
+your--I would advocate everyone have a look at the reference 5
+in--which is your malicious use of AI, your--reference 5 in
+your testimony, which I spent--I stayed up way too late last
+night reading that, and it is real.
+Along the same lines, Members of Congress have access to
+the classified version of a National Academies of Science study
+on the implication of autonomous drones for--and this is
+something that I think, you know, has to be understood by the
+military. We're about to mark up a military authorization bill,
+an appropriations bill that is spending way too much money
+fighting the last war and not enough fighting the wars of the
+future.
+And then finally, Dr. Li, the--in the educational aspects
+of this, one thing I struggle for--I guess if you look through
+the bios of people who are the heroes of artificial
+intelligence, they tend to come from physics, math, places like
+that. And in theoretical physics or mathematics a huge fraction
+of the progress comes from a tiny fraction of people. It's just
+a historical truth. And I was wondering, is AI like that? Are
+they--you know, are there a small number of heroes that really
+do most of the work and everyone else sort of fills in the
+thing?
+Dr. Li. So, like I said, Dr. Foster, AI is a very nascent
+field, so even though it is collecting a lot of enthusiasm
+worldwide, societally, as a science, it's still very young. And
+as a young science, it starts from a few people.
+As a--I was also trained as a physics major, and I think
+about early days of Newtonian physics, and that was a smallish
+group of people as well. I mean, it's--it would be too much to
+compare directly, but what I really do want to say is that we--
+maybe in the early, even pre-Newtonian days of AI, we are still
+developing this, so the number of people are still small.
+Having said that, there are many, many people who have
+contributed to AI. Their names might not have made it to the
+news, to the blogs, to the tweets, but these are the names
+that, as students and experts of this field, we remember them.
+And I want to say many of them are members of the
+underrepresented minority group. There are many women in the
+first generation of AI experts. So----
+Mr. Foster. Yes. And when I was----
+Dr. Li. --we need to hear more from them.
+Mr. Foster. --you know, two or three clicks down in the
+references cited by your testimony and you look at the papers
+there and the author lists, it's pretty clear that our
+dominance in AI is due to immigrants, okay? And, Dr. Li, I
+suspect you might not have come to this country under the
+conditions that are now being proposed by our President. And I
+won't ask you to answer that, but it's important when we talk
+about what it is that makes this country dominant in things
+like AI. It is immigrants, okay? And I'll just leave it at
+that, and I guess my time is up.
+Mr. Weber. I thank the gentleman. I thank the witnesses for
+their testimony and the Members for their questions. The record
+will remain open for two weeks for additional written comments
+and written questions from Members.
+The hearing is adjourned.
+[Whereupon, at 12:24 p.m., the Subcommittees were
+adjourned.]
+Appendix I
+----------
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

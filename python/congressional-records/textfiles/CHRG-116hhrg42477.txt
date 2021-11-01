@@ -1,0 +1,1791 @@
+- BANKING ON YOUR DATA: THE ROLE OF BIG DATA IN FINANCIAL SERVICES
+[House Hearing, 116 Congress]
+[From the U.S. Government Publishing Office]
+BANKING ON YOUR DATA: THE ROLE
+OF BIG DATA IN FINANCIAL SERVICES
+=======================================================================
+HEARING
+BEFORE THE
+TASK FORCE ON FINANCIAL TECHNOLOGY
+OF THE
+COMMITTEE ON FINANCIAL SERVICES
+U.S. HOUSE OF REPRESENTATIVES
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+__________
+NOVEMBER 21, 2019
+__________
+Printed for the use of the Committee on Financial Services
+Serial No. 116-69
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+42-477 PDF
+WASHINGTON : 2020
+--------------------------------------------------------------------------------------
+HOUSE COMMITTEE ON FINANCIAL SERVICES
+MAXINE WATERS, California, Chairwoman
+CAROLYN B. MALONEY, New York
+PATRICK McHENRY, North Carolina,
+NYDIA M. VELAZQUEZ, New York
+Ranking Member
+BRAD SHERMAN, California
+ANN WAGNER, Missouri
+GREGORY W. MEEKS, New York
+PETER T. KING, New York
+WM. LACY CLAY, Missouri
+FRANK D. LUCAS, Oklahoma
+DAVID SCOTT, Georgia
+BILL POSEY, Florida
+AL GREEN, Texas
+BLAINE LUETKEMEYER, Missouri
+EMANUEL CLEAVER, Missouri
+BILL HUIZENGA, Michigan
+ED PERLMUTTER, Colorado
+STEVE STIVERS, Ohio
+JIM A. HIMES, Connecticut
+ANDY BARR, Kentucky
+BILL FOSTER, Illinois
+SCOTT TIPTON, Colorado
+JOYCE BEATTY, Ohio
+ROGER WILLIAMS, Texas
+DENNY HECK, Washington
+FRENCH HILL, Arkansas
+JUAN VARGAS, California
+TOM EMMER, Minnesota
+JOSH GOTTHEIMER, New Jersey
+LEE M. ZELDIN, New York
+VICENTE GONZALEZ, Texas
+BARRY LOUDERMILK, Georgia
+AL LAWSON, Florida
+ALEXANDER X. MOONEY, West Virginia
+MICHAEL SAN NICOLAS, Guam
+WARREN DAVIDSON, Ohio
+RASHIDA TLAIB, Michigan
+TED BUDD, North Carolina
+KATIE PORTER, California
+DAVID KUSTOFF, Tennessee
+CINDY AXNE, Iowa
+TREY HOLLINGSWORTH, Indiana
+SEAN CASTEN, Illinois
+ANTHONY GONZALEZ, Ohio
+AYANNA PRESSLEY, Massachusetts
+JOHN ROSE, Tennessee
+BEN McADAMS, Utah
+BRYAN STEIL, Wisconsin
+ALEXANDRIA OCASIO-CORTEZ, New York
+LANCE GOODEN, Texas
+JENNIFER WEXTON, Virginia
+DENVER RIGGLEMAN, Virginia
+STEPHEN F. LYNCH, Massachusetts
+WILLIAM TIMMONS, South Carolina
+TULSI GABBARD, Hawaii
+ALMA ADAMS, North Carolina
+MADELEINE DEAN, Pennsylvania
+JESUS ``CHUY'' GARCIA, Illinois
+SYLVIA GARCIA, Texas
+DEAN PHILLIPS, Minnesota
+Charla Ouertatani, Staff Director
+TASK FORCE ON FINANCIAL TECHNOLOGY
+STEPHEN F. LYNCH, Massachusetts, Chairman
+DAVID SCOTT, Georgia
+TOM EMMER, Minnesota, Ranking
+JOSH GOTTHEIMER, New Jersey
+Member
+AL LAWSON, Florida
+BLAINE LUETKEMEYER, Missouri
+CINDY AXNE, Iowa
+FRENCH HILL, Arkansas
+BEN McADAMS, Utah
+WARREN DAVIDSON, Ohio
+JENNIFER WEXTON, Virginia
+BRYAN STEIL, Wisconsin
+C O N T E N T S
+----------
+Page
+Hearing held on:
+November 21, 2019............................................
+1
+Appendix:
+November 21, 2019............................................
+31
+WITNESSES
+Thursday, November 21, 2019
+Cardinal, Don, Managing Director, Financial Data Exchange (FDX)..
+10
+Gilliard, Christopher, Professor of English, Macomb Community
+College, and Digital Pedagogy Lab Advisor......................
+8
+Kamara, Seny, Associate Professor of Computer Science, Brown
+University, and Chief Scientist, Aroki Systems.................
+6
+Pozza, Duane, Partner, Wiley Rein................................
+11
+Saunders, Lauren, Associate Director, National Consumer Law
+Center (NCLC)..................................................
+4
+APPENDIX
+Prepared statements:
+Cardinal, Don................................................
+32
+Gilliard, Christopher........................................
+42
+Kamara, Seny.................................................
+48
+Pozza, Duane.................................................
+54
+Saunders, Lauren.............................................
+62
+Additional Material Submitted for the Record
+Lynch, Hon. Stephen:
+Written statement of the American Bankers Association........
+83
+Written statement of the Credit Union National Association...
+92
+Written statement of the Electronic Transactions Association.
+94
+Written statement of the Financial Data and Technology
+Association................................................
+96
+Written statement of Fidelity Investments....................
+99
+Written statement of Finicity................................
+106
+Written statement of Plaid...................................
+115
+Written statement of Public Knowledge........................
+117
+Hill, Hon. French:
+Written responses to questions submitted to Don Cardinal.....
+122
+McAdams, Hon. Ben:
+Written responses to questions submitted to Don Cardinal.....
+124
+Written responses to questions submitted to Duane Pozza......
+128
+Written responses to questions submitted to Lauren Saunders..
+130
+BANKING ON YOUR DATA:
+THE ROLE OF BIG DATA
+IN FINANCIAL SERVICES
+----------
+Thursday, November 21, 2019
+U.S. House of Representatives,
+Task Force on Financial Technology,
+Committee on Financial Services,
+Washington, D.C.
+The task force met, pursuant to notice, at 9:30 a.m., in
+room 2128, Rayburn House Office Building, Hon. Stephen F. Lynch
+[chairman of the task force] presiding.
+Members present: Representatives Lynch, Scott, Gottheimer,
+Lawson, Axne, McAdams; Emmer, Luetkemeyer, Hill, Davidson, and
+Steil.
+Also present: Representatives Tlaib, Gonzalez of Ohio, and
+Hollingsworth.
+Chairman Lynch. Good morning. The Task Force on Financial
+Technology will now come to order.
+Without objection, the Chair is authorized to declare a
+recess of the task force at any time. Also, without objection,
+members of the full Financial Services Committee who are not
+members of the task force are authorized to participate in
+today's hearing.
+Today's hearing is entitled, ``Banking on Your Data: The
+Role of Big Data in Financial Services.''
+Before we get started, I want to take a moment to recognize
+our new ranking member, Mr. Tom Emmer, from the great State of
+Minnesota. Welcome. Mr. Emmer has a keen interest in the
+fintech space and has been active in this area for some time,
+and I am looking forward to learning from and working with him
+going forward.
+I also want to thank my friend and colleague, Mr. French
+Hill of Arkansas, who escaped this task force, and is now the
+ranking member on the National Security Subcommittee, which I
+Chair. I wish him the best of luck in that endeavor, and I am
+glad to still have his voice on this task force.
+I now recognize myself for 4 minutes to give an opening
+statement.
+In July, our task force examined the potential benefits and
+the risks associated with the use of alternative data in credit
+underwriting. We noted that the use of alternative data can
+expand access to credit for those who might otherwise be turned
+away from lenders. And we also discussed the possibility of
+that data being linked to disparate impacts on the unfair
+credit decisions that might be made.
+But in financial services, the use of data goes far beyond
+consumer or small business lending. The rise of financial and
+consumer data has enabled an explosion of financial products
+and services for consumers to use. Because of the volume and
+transferability of this data, consumers have access to
+applications to manage their finances, change their savings
+habits, or pay their friends in a way that wasn't possible a
+few years ago.
+However, the prevalence of financial applications has led
+to more and more personal financial data being transmitted and
+held outside of the traditional financial system. While most
+companies want to protect their customers' data, this trend has
+caused many to question whether our existing statutory
+protections are indeed adequate for the new circumstances.
+Consumers rightly expect their financial data to be kept
+secure by institutions and applications they use, but
+unfortunately, their expectations don't always match reality.
+Large-scale breaches of consumer data, like those at Equifax
+and Capital One, serve as a vivid reminder that even legacy
+institutions can be vulnerable to security lapses. They also
+remind us how painful it can be for a consumer to have their
+personal information stolen through no fault of their own.
+As consumers use their financial data in more ways and in
+more places, it becomes increasingly difficult for them to know
+exactly how their data is being used and, making it worse, many
+applications come with lengthy terms-of-service agreements
+which are not conducive to being read on the mobile devices
+consumers are using to agree to them. So we all tend to just
+click, ``I agree,'' without realizing the consequences.
+According to recently released research by the Clearing
+House, 79 percent of users said they did not read all the terms
+and conditions, and only 11 percent said they both read and
+understood them. Most of those people are lying. Further, the
+technical aspects of data security are opaque and complex. This
+makes it even more important for Congress and our financial
+regulators to get this right.
+The future of connected or open banking, the process of
+transmitting the data necessary to enable the success of these
+financial applications, depends on the industry's ability to do
+so in a safe and secure way. While there is undeniable
+potential in this space, today we will discuss some of the
+questions and concerns about how to achieve the benefits, while
+mitigating consumer risk.
+We need to know if everybody who handles financial data is
+adequately protecting the privacy of their users. How do we
+ensure consumers aren't being misled about the acquisition and
+use of their data? And how do we empower consumers so they are
+in control of their data?
+Today's discussion has never been more relevant, and I look
+forward to hearing our witnesses' testimony, and input from my
+colleagues.
+With that, I recognize my friend, the new ranking member,
+Mr. Emmer, for 5 minutes for an opening statement.
+Mr. Emmer. Thank you, Mr. Chairman. Thank you for your warm
+welcome. As you said, be careful what you wish for, right? You
+might just get it. I want to thank you for convening this
+hearing as well.
+As the new FinTech Task Force ranking member, I look
+forward to working with you to bring more education and
+awareness to Congress about the new innovations in financial
+services. I very much appreciate this opportunity to help lead
+the task force in an effort to better educate Members of
+Congress on the emerging developments in technology that
+already have and certainly will continue to influence the
+entire financial services industry.
+Today's hearing is about data, an individual's ability to
+control their data, and the practices that are utilized with
+this data. The Majority titled this hearing, ``Banking on Your
+Data,'' and I expect we will have a lot of discussion today
+relating to privacy and security concerns, which are very
+important. But let's keep in mind that data can also benefit
+consumers and can empower individuals to own their own data and
+to leverage it when seeking services from companies.
+The amount of data being generated is astounding. It is
+estimated that every day, we create 2.5 quintillion bytes of
+data, and that 90 percent of the data in the world today has
+been created in just the last 2 years. Not surprisingly, given
+Congress' inability to keep up with new technology, a TED Talk
+about how big data can produce insights on the work of Members
+of Congress and their interactions with each other was already
+featured more than 3 years ago.
+As we have seen with the internet, information can be
+power. And when we are generating this amount of data, the
+owners and possessors of that data may gain that power. With
+that power may come increased responsibility and may impose an
+ethical duty use the data properly. Many companies have already
+realized these duties on their own and are benefiting from
+listening to their customers' demands. Standard-setting bodies
+like Financial Data Exchange are already bringing together
+fintech companies to create standards and limits to accessing
+data.
+I appreciate, again, this opportunity for Members to learn
+about data practices and to increase the level of knowledge in
+Congress about the policies that companies use to innovate and
+to develop better services for their customers.
+A broad unspecific definition of ``big data'' could also
+include the work that is already underway to digitize the
+services that the financial services industry already offers to
+all of us. This is the future, and there is no going back from
+here. We have seen this in several industries already, like
+music and other commerce. The future is in digital services.
+The question is, how do we empower the individual, as opposed
+to the government, to make the choices that are best for them?
+I am hopeful this hearing will educate Members of Congress
+on the downside of big data but also about the benefits of
+data. Our job is to make sure that data helps empower the
+consumer and enables them to know what they are disclosing,
+when, and where. I hope this is a conversation more than a
+critique, and at the end of the day, I hope this session is
+informative for members of this committee.
+And I thank the chairman again for holding the hearing and
+looking at this issue objectively. I look forward to working
+together in a nonpartisan fashion to help Americans realize the
+benefits of this digital revolution and the help it can provide
+to each and every one of us. And I yield back.
+Chairman Lynch. The gentleman yields back, and I thank him
+for his remarks. And I do believe that this is an area where we
+can have great bipartisan cooperation and success.
+Today, we welcome the testimony of our accomplished panel
+of witnesses. First, Ms. Lauren Saunders is associate director
+of the National Consumer Law Center (NCLC). NCLC is
+headquartered in Boston, in part of my district. And this year,
+it is celebrating 50 years of advocating for consumer justice
+and economic security.
+Second, Dr. Seny Kamara is associate professor of computer
+science at Brown University, and chief scientist at Aroki
+Systems. His primary research focus has been cryptography and
+its applications to everyday problems in privacy and security.
+And at Aroki, he helps design encrypted data management
+systems.
+Third, Dr. Christopher Gilliard is professor of English at
+Macomb Community College, and lab advisor at Digital Pedagogy.
+His work focuses on privacy and technology policy and the risk
+of discriminatory practices in algorithmic decision-making.
+Fourth, Mr. Don Cardinal is managing director of the
+Financial Data Exchange, FDX, which is a nonprofit working
+group to set an industry standard for the secure transmission
+of sensitive financial data. FDX is an independent subsidiary
+of the Financial Services Information Sharing and Analysis
+Center.
+And finally, Mr. Duane Pozza is a partner at Wiley Rein,
+where he advises on issues of privacy and data governance.
+Prior to joining Wiley Rein, Mr. Pozza was an Assistant
+Director in the Division of Financial Practice at the Federal
+Trade Commission's Bureau of Consumer Protection.
+I want to thank you all for being here today.
+Our witnesses are reminded that your oral testimony will be
+limited to 5 minutes. And without objection, your written
+statements will be made a part of the record.
+Ms. Saunders, you are now recognized for 5 minutes for an
+oral presentation of your testimony.
+STATEMENT OF LAUREN SAUNDERS, ASSOCIATE DIRECTOR, NATIONAL
+CONSUMER LAW CENTER (NCLC)
+Ms. Saunders. Thank you.
+Chairman Lynch, Ranking Member Emmer, members of the task
+force, thank you for inviting me to testify today on behalf of
+the low-income clients of the National Consumer Law Center.
+I am going to focus my testimony today on the growing use
+of data aggregators to access consumers' bank account and other
+types of account transaction data, but my comments will also
+have applicability to other forms of data.
+The use of consumers' transaction data has the potential to
+help consumers in a number of ways: to improve access to
+affordable forms of credit; to prevent fraud; to encourage
+savings; and to help consumers better manage their finances.
+Companies are using transaction data to address problems that
+banks are not and to encourage banks to improve their own
+services.
+I am especially intrigued by the use of cash flow data,
+which can help assess whether the consumer regularly has
+sufficient residual income at the end of the month to handle an
+additional expense. Cash flow data may especially help those
+with limited credit histories or those who have recovered from
+a temporary setback that is still reflected on their credit
+report. Cash flow data is currently only being used with
+consumers' explicit permission and generally to improve access
+or pricing, but I am concerned whether transaction data may
+become more routinely added to already robust credit reports,
+may be used to increase pricing, or may be monetized by the
+credit bureaus for other uses. These uses should be prohibited.
+I appreciate that this data is being used today with
+consumer permission, but we should not put too much stake on
+consumer permissioning, which may be no more voluntary than
+clicking, ``I agree,'' or saying yes to a potential employer
+who asks to review your credit report.
+The intensely detailed personal and sensitive data inside
+consumers' accounts could also be used for less beneficial
+purposes. It may help predatory lenders refine their ability to
+make and collect unaffordable loans or it could enable
+targeting of consumers for harmful products. Transaction data
+can also be fed into algorithms and machine learning that may
+have results that lead to discriminatory impacts.
+The use of data aggregators also poses concerns regarding
+security, privacy, and compliance with the Fair Credit
+Reporting Act (FCRA). A number of efforts are underway to
+address many of these issues, including the work of my fellow
+panelist, Mr. Cardinal from FDX, which we are in the process of
+joining. We support these voluntary efforts and dialogue, but
+ultimately, consumers cannot be confident that their data will
+be used appropriately unless the law clearly protects them
+across these different dimensions industrywide.
+First, security and protection. We need enhanced data
+security requirements and Federal supervision of entities that
+store significant amounts of consumer data.
+Second, we need strong privacy laws that impose substantive
+limits on the use of information in ways that consumers would
+not expect, that ensure consumer choice and control are
+meaningful, and that do not preempt stronger State protections
+that may address new problems not yet addressed on the Federal
+level.
+Third, we need to address misinterpretations of the Fair
+Credit Reporting Act by courts. New forms of information are
+essentially a consumer report that--if they are used for credit
+or other FCRA purposes, and consumers have a right to know what
+information is being used about them, to demand accuracy, to
+obtain corrections, and to be told if the information leads to
+adverse consequences.
+Fourth, we must actively look for and prevent
+discriminatory impacts in the forms of new data. As recent news
+shows, computers can discriminate too.
+To paraphrase the words of one fintech lending club, the
+disparate impact regime is an innovation-friendly approach that
+addresses concerns about discriminatory impact, while flexibly
+accommodating innovations without onerous compliance. Beyond
+fair lending, we need laws to prevent discriminatory impact in
+areas other than credit.
+Finally, the Consumer Financial Protection Bureau (CFPB)
+can and should play a bigger role by supervising data
+aggregators for compliance with all laws within their
+jurisdiction, which should be expanded to include privacy and
+data security standards.
+Thank you for inviting me to testify. I look forward to
+your questions.
+[The prepared statement of Ms. Saunders can be found on
+page 62 of the appendix.]
+Chairman Lynch. Thank you very much.
+Dr. Kamara, you are now recognized for 5 minutes.
+STATEMENT OF SENY KAMARA, ASSOCIATE PROFESSOR OF COMPUTER
+SCIENCE, BROWN UNIVERSITY, AND CHIEF SCIENTIST, AROKI SYSTEMS
+Mr. Kamara. Chairman Lynch, Ranking Member Emmer, and
+distinguished members of the Task Force on Financial
+Technology, I appreciate the opportunity to testify at today's
+hearing on the role of big data in financial services. I will
+speak about how data is transforming the financial industry and
+how this transformation holds great promise but, unless it is
+carefully guided, also has the potential to erode consumer
+privacy and increase discrimination.
+The financial industry is using new data sources called
+alternative data. For example, credit reporting agencies are
+using data about utility bills to create new credit scores.
+Insurance companies are using internet of things (IoT) data
+from homes and cars to better predict risks. Insurance
+companies have used Facebook posts and psychometric tests to
+assess people's risk profiles. Payday lending apps track
+location to determine how much time their users spend at work.
+Microlending apps are using location data, social media contact
+lists, and the behavior of Facebook friends to estimate
+people's creditworthiness. An app made in California that
+operates in Kenya even accesses call history under the belief
+that people who regularly call their mothers are more likely to
+repay their loans.
+In addition to leveraging new sources of data, the
+financial industry is processing data in new ways using
+machine-loading models to make automated decisions quickly and
+at scale. While classical algorithms are designed by domain
+experts and expresses a series of rules and explicit choices,
+machine-loading models are produced by algorithms that learn
+from data. The models produced in this manner can be very
+effective in certain contexts but suffer from important
+limitations.
+The first is a lack of transparency. We often do not know
+and, therefore, cannot explain why a machine-loading model
+makes a particular decision. This is a serious concern in the
+context of credit since the Equal Credit Opportunity Act (ECOA)
+and the Fair Credit Reporting Act (FCRA) require creditors to
+explain the reason an application was denied.
+The second important limitation of machine-loading models
+is bias in decision-making. While this kind of algorithmic
+discrimination has been well-publicized, it is important to
+note that we are only in the very early stages of understanding
+the behavior of these algorithms. In fact, in that space, there
+are currently more questions than answers, so it is important
+to tread carefully.
+Fintech apps can make use of multiple sources of consumer
+data, ranging from financial records provided by a bank to
+location data provided by a mobile device. Traditionally,
+financial apps have shared data through a practice called
+screen scraping. It is widely accepted that this practice is
+substandard from a privacy and security perspective, which has
+motivated the financial industry to develop Application
+Programming Interfaces (APIs).
+Roughly speaking, an API is a standard interface between
+apps that allows for easier interoperability and improved
+security. APIs are a considerable improvement over screen
+scraping, but they are far from enough to guarantee consumer
+privacy. With an API-based design, apps can still access, lose,
+exploit, and abuse raw user data, and as long as consumers have
+to trust data-hungry apps that scour their sensitive data under
+vague privacy policies, they will never have real privacy.
+But what if consumers did not have to give up their data in
+order to benefit from financial and technological innovations?
+What if financial apps and services never had to see raw data?
+This might sound impossible but, in fact, it is possible. Over
+the last 30 years, cryptography researchers in academia and in
+industry labs have developed a wide array of cryptographic
+techniques to process encrypted data. This gives us the ability
+to run algorithms, including machine-loading algorithms, over
+encrypted data, to search through encrypted files, and to query
+encrypted databases, all without ever decrypting the data.
+The set of privacy technologies, which includes secure
+multiparty computation, private set intersection, homomorphic
+encryption, and encrypted search algorithms, can enable truly
+private data processing.
+I want to stress here that this is not science fiction.
+These technologies are already in use today. By leveraging
+these advances in cryptography, financial technologies could
+deliver on their promise to improve the financial health of
+their customers without them having to sacrifice their privacy.
+The financial industry is being transformed by technology,
+and in the wake of this transformation, it is easy to get
+carried away on a wave of technological optimism. As a computer
+scientist, I believe in the power of technology, but I am also
+acutely aware of its potential harms. As a cryptographer, I
+worry deeply about the erosion of privacy that these financial
+apps and services can cause.
+We are all aware of the constant occurrence of data
+breaches, of the weaponization of private data to micro-target
+people and affect their behaviors. Do we want another Equifax?
+Do we want another Cambridge Analytica? Moving fast and
+breaking things is not sound engineering practice, and it is
+not sound policy. It is imperative that we proceed carefully
+and that we oversee this transformation with strong privacy
+laws and strong privacy technologies.
+Thank you, and I look forward to answering your questions.
+[The prepared statement of Dr. Kamara can be found on page
+48 of the appendix.]
+Chairman Lynch. Thank you, Dr. Kamara.
+Dr. Gilliard, you are now recognized for 5 minutes.
+STATEMENT OF CHRISTOPHER GILLIARD, PROFESSOR OF ENGLISH, MACOMB
+COMMUNITY COLLEGE, AND DIGITAL PEDAGOGY LAB ADVISOR
+Mr. Gilliard. Chairman Lynch, Ranking Member Emmer, and
+members of the task force, thank you for inviting me to appear
+before you and provide testimony.
+My name is Dr. Chris Gilliard, and I have spent the last 6
+years studying, teaching, and writing about digital privacy and
+surveillance. I focus on the ways that digital technologies
+perpetuate and amplify historical systems of discrimination.
+Too often, digital technologies render systems invisible
+and inscrutable under the guise of proprietary code, black box
+algorithms, or artificial intelligence. There are now countless
+documented examples of algorithmic discrimination, data
+breaches, violation of consumer privacy, and extractive
+practices on the part of platforms.
+Moving forward, the onus for addressing these problems
+should be shifted onto companies so that, before they move
+their product to market, they provide evidence that they will
+not bring harm to the consumer, much in the same way food and
+drug safety operate now.
+It may not be possible or useful to define the distinction
+between financial big data and all other data. Financial big
+data plays a role not only in finance, insurance, and real
+estate, but also in employment, transportation, education,
+retail, and medicine. In addition, third-party data brokers
+accumulate all manner of data to the point that even if there
+are categories of data that are protected, processing massive
+amounts of data often creates the existence of proxies that
+allow for discrimination against protected classes within or
+among systems that may not appear to be financial.
+The primary reasons that many remain unbanked are because
+of historical inequality. While new forms of banking and credit
+may provide access to systems those people have traditionally
+not had access to, many of these technologies also offer these
+benefits in exchange for people's privacy or create opaque
+systems that offer consumers little opportunity for redress.
+It is telling that the Apple Goldman Sachs card received so
+much interest, because opaque algorithms affect marginalized
+populations all the time. Yet, they do not have the reach and
+power to trigger massive media attention and an investigation
+by the State. For rich folks, algorithmic opacity may mean
+being denied a larger credit limit. For the poor, this may mean
+paying for medicine, shelter, or food.
+The notion that companies like Facebook, Google, or Amazon
+are entering into banking in order to benefit the unbanked or
+people who do not have access to traditional credit markets is
+absurd on its face. As one recent report stated, for Google,
+the bank partnerships will give the tech behemoth a better
+ability to show advertisers how marketing dollars spent on its
+system can drive purchases.
+There are two crucial frameworks for understanding these
+technologies and their impacts on marginalized communities:
+digital redlining; and predatory inclusion. Digital redlining
+is the creation and maintenance of technology practices that
+further entrench discriminatory practices against already
+marginalized groups. One example would be that Facebook ad
+targeting could be used to prevent Black people from seeing ads
+for housing.
+``Predatory inclusion'' is a term used to refer to a
+phenomenon whereby members of a marginalized group are offered
+access to a good, service, or opportunity from which they have
+historically been excluded, but under conditions that
+jeopardize the benefits of that access. The process of
+predatory inclusion is often presented as providing
+marginalized individuals with opportunities for social and
+economic progress; but in the long term, predatory inclusion
+reproduces inequality and insecurity for some, while allowing
+already dominant social actors to derive significant profits.
+As an example, we might look at the report on the cash
+advance app Earnin, which offers loans for which users are able
+to tip the app. As reported in the New York Post, if the
+service was deemed to be a loan, the $9 tip suggested by Earnin
+for a $100, 1-week loan, would amount to a 469 percent APR.
+As Princeton Professor Ruha Benjamin has argued, our
+starting assumption should be that automated systems will
+deepen inequality unless proven otherwise. Because of how
+algorithms are created and trained, historical biases make
+their way into systems even when computational tools don't use
+identity markers as metrics for decision-making.
+Further, the notions of consent, notice consent, or
+informed consent as they are currently constructed are not
+sufficient for a number of reasons. Privacy policies mainly
+serve to protect companies. Credit scoring companies operate
+without the express consent of the consumers they purportedly
+serve. Data is extracted, collected, combined, processed, and
+used in ways that go beyond the stated purpose to provide
+consumers. There is often limited accountability for when they
+have been irresponsible with consumer data. Companies rarely
+disclose and consumers even more rarely understand the full
+range and uses for their data.
+We must reject the notion that regulations stifle
+innovation, as those harmed during innovation phases tend to be
+the most marginalized, and only later are policies addressed
+with no repairing of harms. The idea that corporate innovation,
+rather than the rights of historically marginalized groups, is
+an interest that Congress must protect turns ideas of
+citizenship and civil rights upside down. That these systems
+are proprietary often make the harms more difficult to detect.
+Thank you.
+[The prepared statement of Dr. Gilliard can be found on
+page 42 of the appendix.]
+Chairman Lynch. Thank you, Dr. Gilliard.
+Mr. Cardinal, you are now recognized for 5 minutes.
+STATEMENT OF DON CARDINAL, MANAGING DIRECTOR, FINANCIAL DATA
+EXCHANGE (FDX)
+Mr. Cardinal. Chairman Lynch, Ranking Member Emmer, and
+members of the task force, thank you for the opportunity to
+offer testimony at this hearing. My name is Don Cardinal. I am
+the managing director of Financial Data Exchange (FDX).
+FDX was formed just a little over a year ago as an
+industry-led collaboration that includes financial
+institutions, financial data aggregators, fintechs, industry
+organizations, consumer advocacy groups, and permission users
+of financial data. The mission of FDX is to unify the financial
+services industry around a common and interoperable royalty-
+free standard for the secure sharing and convenient sharing of
+financial data with financial technology applications, fintech
+apps. We are guided by five core principles: control; access;
+transparency; traceability; and, of course, security.
+Over the last decade, technological innovations in
+financial services have empowered consumers to better
+understand where and how they spend their money, increase their
+credit scores, prepare their taxes, verify accounts and
+balances, and aggregate disparate financial accounts. While
+consumers have benefited immensely from these innovations, they
+primarily come through a mechanism known as screen scraping,
+and only done through the sharing of consumers' IDs and
+passwords at their financial institution.
+Screen scraping is the automated process of collecting the
+text that appears on a website for the purposes of another
+application. For example, online banking websites display
+customers' account balances and transactions, and this data can
+be retrieved through a permission fintech app or a data
+aggregator by an automated login on the customers' behalf and
+present that data in some other application. And while screen
+scraping has provided a useful avenue for consumers to use and
+share their own financial data, it is very inefficient and can
+lead to poor data quality. This technology also places undue
+stress on financial institutions' tech stack through the sheer
+volume of automated logins.
+And, finally, the needed sharing of sensitive login
+credentials and the lack of consumer control over the amount of
+data they share with other parties means it is really time to
+move on from screen scraping.
+In recognition of these challenges, FDX was formed to
+promote a better way forward, namely, moving the financial
+services industry away from screen scraping and to the adoption
+of the use of APIs for access for consumers' financial data.
+Now, API simply means ``application programming interface'',
+and in layman's terms, it is just a way for computers to talk
+to each other with a common format. They also make consumer-
+permission data sharing easier, more accurate, and more secure,
+because they lay out in detail the rules for how to request
+data and exactly what data will be returned.
+Our chosen standard is aptly named the FDX API. It allows
+for users within the financial data ecosystem to be security-
+authenticated but without sharing or storing of the login
+credentials with third parties. So instead of a fintech or
+aggregator logging in on behalf of a customer with their shared
+credentials, an API allows the consumer to log in themselves,
+and be authenticated by their own financial institution. It
+gives the consumer the ability to permission their data for the
+chosen app. In fact, through the broad adoption of the FDX API,
+screen scraping will eventually cease, but the flow of user
+permission data will encounter less friction and be even more
+secure and reliable than ever.
+So with that overview out of the way, I want to use my
+remaining time to highlight a few key points for the task force
+this morning, and I have attempted to expand upon these in my
+written testimony.
+First, the only consumer financial data that will be
+accessed with the FDX API is that which the consumer has
+expressly consented to, and permission to share with fintech
+apps. This eliminates access for so-called data brokers who
+collect vast amounts of data, often without consumers'
+knowledge or consent.
+Second, FDX is working towards specific-use cases for
+fintech apps to minimize the amount of data that consumers
+require to share for a given use. While screen scraping
+currently allows really any data on a consumer's website to be
+collected, defined-use cases through the FDX API limits the
+collection of data to only that which is needed to fulfill a
+specific purpose; and by minimizing data in play, you maximize
+privacy.
+And, third, FDX represents the entire consumer financial
+services ecosystem, which includes small fintechs, local banks,
+credit unions, all the way up to the largest financial
+institutions, and consumer advocacy groups. Further, the FDX
+API provides a framework necessary to provide scaleable
+technology solutions so that even the smallest financial
+institutions will be offered the same goods and services as the
+largest financial institutions, but at a fraction of the cost.
+The FDX API is, after all, royalty-free in perpetuity for all
+parties.
+In sum, FDX represents the financial services ecosystem
+coming together to put the consumer in the driver's seat
+regarding the use and sharing of their own data. Demand has
+been a leading force for this massive innovation that has taken
+place, and we believe the entire financial system ecosystem is
+best positioned to ensure that these consumers are empowered
+but have the tools to share and use their own data in the most
+secure manner possible.
+Thank you for the opportunity to speak this morning.
+[The prepared statement of Mr. Cardinal can be found on
+page 32 of the appendix.]
+Chairman Lynch. Thank you, Mr. Cardinal.
+Mr. Pozza, you are now recognized for 5 minutes.
+STATEMENT OF DUANE POZZA, PARTNER, WILEY REIN
+Mr. Pozza. Chairman Lynch, Ranking Member Emmer, and
+members of the task force, thank you for the opportunity to
+appear today to discuss the role of big data in financial
+services.
+I am a partner at Wiley Rein, where my practice includes
+advising companies on the legal and regulatory framework for
+collecting, using, and managing consumer data, including in
+financial services and counseling on U.S. and global privacy
+laws. This includes emerging regulatory approaches around
+machine-learning technologies which depend on large and
+sophisticated data sets. I previously worked at the Federal
+Trade Commission on financial technology issues.
+Data-driven financial services hold enormous potential to
+improve consumers' financial lives. Companies can use consumer
+data responsibly to expand access to credit, provide customized
+financial advice, detect and prevent fraudulent behavior, and
+provide financial services at a lower cost, among other
+advantages. Companies are already using large and robust data
+sets to accomplish these objectives, and the development of
+machine learning and AI technologies will further advance what
+these technology innovators can accomplish.
+Companies using consumer data in innovative ways for
+financial decisions operate in an area that already has many
+significant laws and regulations on the books and multiple
+regulatory authorities. Companies must comply with well-
+established financial services laws, many of which implicate
+the use of consumer data, in addition to Federal Trade
+Commission (FTC) guidance on data privacy and security.
+Applicable Federal laws include the Fair Credit Reporting Act,
+the Equal Credit Opportunity Act, the Gramm-Leach-Bliley Act,
+and the FTC Act Section 5 authority and prohibitions against
+deceptive or unfair practices, all of which also apply in the
+context of big data.
+The companies must also comply, to varying degrees, with
+consumer privacy laws that reach across sectors, both on the
+international level--for example, the European Union's General
+Data Protection Regulation--and on the State level--for
+example, the California Consumer Privacy Act. State laws, in
+particular, threaten to create a piecemeal compliance framework
+and burden businesses that already have substantial compliance
+obligations, including in the area of big data.
+The experience with California's law illustrates some of
+the challenges that companies face. As consumer data is
+increasingly used to provide better financial services, it is
+important to carefully consider consumer expectations and
+preferences around use of their information and weigh the
+benefits that better financial services can bring and the cost
+of added regulation.
+The use of advanced data for credit decision-making is
+particularly promising. Large data sets can enable lenders to
+better analyze credit risk and potentially expand access to
+credit to those who find it difficult to obtain credit when
+evaluating using traditional credit models. Many consumers are
+thin-file or no-file consumers who lack an adequate credit
+history to generate a reliable credit score, and others have
+relatively low scores that do not accurately reflect their
+level of creditworthiness.
+The nonprofit, FinRegLab, recently released the results of
+a promising study that illustrates the ability of large-scale
+data analytics to responsibly expand access to credit without
+raising issues related to bias. FinRegLab analyzed data from
+six non-bank financial services providers that used cash flow
+information as part of their credit decision-making. The
+organization study concluded that participants appeared to be
+serving substantial numbers of borrowers who may have
+historically faced constraints on their ability to access
+credit and, in regard to fair lending, that the degree to which
+the cash flow data predicted credit risk appeared to be
+relatively consistent across subpopulations of race, ethnicity,
+and gender, and appeared to provide independent predictive
+value across all groups rather than acting as proxies for a
+demographic group.
+Top officials at the Consumer Financial Protection Bureau
+(CFPB) also recently announced the results of the Bureau's data
+analysis conducted in connection with its no-action letter to
+Upstart Network. Upstart's underwriting model uses a range of
+data and machine learning in making credit underwriting and
+pricing decisions. The agency found that the company's tested
+model approved 27 percent more applicants than the traditional
+model, and yielded 16 percent lower average APRs for approved
+loans. It also showed no disparities that the CFPB found to
+require further fair lending analysis under the company's
+compliance plan.
+These are just some examples of how financial services
+companies are using consumer data responsibly to provide better
+financial services for the benefit of consumers.
+Thank you. I look forward to your questions.
+[The prepared statement of Mr. Pozza can be found on page
+54 of the appendix.]
+Chairman Lynch. Thank you very much.
+I now yield myself 5 minutes for questions.
+One of the most helpful books in this area is a book
+called, ``The Age of Surveillance Capitalism,'' by Professor
+Shoshana Zuboff. I think she is at Harvard. She talks about how
+all of these platforms are soaking up what she calls behavioral
+surplus, everything we do, what we read, who our friends are,
+how we drive. Our cars are now hooked up. Some insurance
+companies are actually monitoring our driving so they know when
+you are driving like a nut to get your kids to school in the
+morning, and they jack up your rates subsequent to that.
+One of the things that she pointed out was the pernicious
+terms of agreement that a lot of these apps have, that they
+might be framed as privacy agreements, but they are actually a
+lack of privacy agreement. In other words, you give away your
+privacy. In order to get on that site and get access, you
+click, ``I agree,'' to very long, very complicated terms of
+agreement, an access contract. And I have a few of them here.
+Mint, which is a somewhat popular financial management
+tool, I scrolled down that to see what I had agreed to, to get
+on that site--37 pages long, 11,312 words. Ridiculous.
+Venmo, which is really popular, I use that on occasion. I
+just clicked, ``I agree,'' because I couldn't--13,196 words, 40
+pages, and really dense legalese. I am an attorney, and it was
+tough to get through.
+Qapital, with a ``Q,'' that is a savings application--
+almost 10,000 words, 10 pages, but really, really dense.
+Dr. Kamara--actually, for any of you, I think you all get a
+sense of this. How do we instill in consumers the knowledge of
+what they are agreeing to in terms of clicking, ``I agree?'' I
+have two young girls. One is in college, and one is just
+graduating college. And that iPhone in their life is just
+absolutely necessary. So, they are going to click, ``I agree.''
+I just know they are. Like millions of other American kids and
+kids all around the world, they are just going to--in order to
+get on that site, you have to click, ``I agree,'' and you have
+to let them take your data and resell it.
+How do we convince consumers of the seriousness of what
+they are doing? And what rules might we put in place to balance
+the scales here so that you don't have to sign away your
+firstborn in order to get access to some of these sites? How do
+we challenge that?
+Ms. Saunders?
+Ms. Saunders. I think ultimately, these are not issues that
+can be disclosed. At the end of the day, I don't really think
+it is possible for consumers to fully understand how their data
+is going to be used or, frankly, have the option. I may
+understand what happens when an employer checks my credit
+report, but if I want the job, I am going to have to say, yes,
+you can check it.
+As use of data becomes more widespread, we are not going to
+have the choice. I, too, have spent some time looking at
+privacy policies, and I thought I was a relatively
+sophisticated consumer, but I can't understand them. And even
+if you simplify them, even if you use the model form, at the
+end of the day, what does it mean, well, we only use your data
+to the extent necessary to provide our service? I don't know
+what that means.
+I think at the end of the day, people need to have
+confidence that the data is going to be used in ways that
+people would expect, that would be logical for the service at
+hand, that a minimum amount of data is being used. And that is
+some of the efforts that FDX is undertaking to try to figure
+out use cases. They don't have--
+Chairman Lynch. All right. Thank you. I only have 45
+seconds left.
+Dr. Kamara, so does that mean we have to basically
+surrender all our data in order to just--we lose control of all
+of our data and that is just a fact of life?
+Mr. Kamara. No, it doesn't--it is not required. We have
+technology. We have ways of designing apps and services so that
+consumers don't have to give up their data, so that services
+can be provided without having to see raw data. This is
+technology that has existed for about a decade that is
+practical today, but because companies never really had an
+incentive to improve their privacy practices, it has been
+underinvested in, but it is not necessary.
+Chairman Lynch. Thank you.
+Dr. Gilliard?
+Mr. Gilliard. The onus should not be on the consumer to
+ensure that they are not being exploited.
+Chairman Lynch. Okay. My time has expired.
+I am going to yield to the ranking member, Mr. Emmer, for 5
+minutes.
+Mr. Emmer. Thank you, Mr. Chairman. And thanks again to
+this great panel.
+Mr. Cardinal, does the average consumer utilizing fintech
+services know to what extent their financial and personal data
+is being stored and shared?
+Mr. Cardinal. Let me take that in a couple of different
+ways. Our key principles are control, access, and transparency,
+and I want to talk about transparency. The idea that a consumer
+should know what data elements they are sharing, for what
+purpose, and for what duration, is key to what we are doing.
+And as NCLC pointed out, I think that is a driving principle.
+Customers should be able to make an informed decision about
+what data they are sharing, whether they are trying to get a
+discount at the grocery store or for other purposes. At the end
+of the day, it is their data. The customer should remain in
+control, and an informed consumer, I think, makes the whole
+industry better.
+Thank you.
+Mr. Emmer. Yes, but they don't know. At the end of the day,
+they don't know how much of it is being taken and how much of
+it is being shared.
+Mr. Cardinal. I believe if you disclose exactly the
+purpose--I want to file my taxes and I am going to download my
+tax forms, I think that is fairly clear. To the extent we can
+disclose it, we can do that initial piece. Now, where it goes
+from there after, we really can't be responsible, I think, as
+Ms. Saunders pointed out.
+Mr. Emmer. So when consumers--Mr. Cardinal, let's just
+continue on this. When consumers authorize screen scraping by
+giving away their user name and password, what risks are they
+exposing themselves to?
+Mr. Cardinal. Again, we are moving away from screen
+scraping. The whole idea is to get away from that, get away
+from what we call held-away IDs and passwords, because if you
+don't share it, you can't lose it, the whole idea of reducing
+the whole risk envelope.
+So screen scraping, again, also is access, as I mentioned
+in my testimony. You have access to the entire scope of data,
+it is visible to the naked eye, whereas the use cases that we
+are developing minimize data, and the NIST standards that the
+government follows stress data minimization as a way to reduce
+risk. So we are trying to go to an API with defined-use cases
+with minimized data and without held-away credentials to really
+reduce that entire risk surface for everybody.
+Mr. Emmer. Thank you.
+Ms. Saunders, how does the Gramm-Leach-Bliley Act define
+financial institutions? Do fintech companies, data aggregators,
+and data brokers clearly fit the definition?
+Ms. Saunders. I am not an expert on the Gramm-Leach-Bliley
+Act. I do know that it covers traditional financial
+institutions such as banks and credit unions and also some
+other entities that are not banks and credit unions, but it is
+not nearly broad enough to cover the wide range of companies
+that do have our data and implicate data security and privacy
+concerns.
+Mr. Emmer. Should a consumer be able to make portable all
+of the data available to them via their native online banking
+account or is that on their paper statement to a third-party
+service provider, or do you believe that only a subset of that
+data may be leveraged by a consumer?
+Ms. Saunders. I think it really depends on the use case. I
+think one potential future use of accessing account data would
+be to make it easier to port over your data to a new account,
+comparison shop and to--it is very difficult to unenroll in all
+of your online bill pay. On the other hand, there are uses
+today where people should be able to use it for cash flow
+underwriting and other things.
+Mr. Emmer. Okay. For the panel, I am a huge supporter, as I
+believe probably everybody up here is, of individual privacy,
+and I have some concerns about some firms' data hygiene
+practices. What do you see in the next 5 to 10 years in terms
+of how big data is going to transform financial services? Any
+of you may answer.
+Or was that too broad? Was that the ocean? And if that is
+too difficult, let's narrow it. Do smaller banks have the
+resources to comply with the new regulatory regime under data
+privacy laws like the Gramm-Leach-Bliley Act? And maybe this is
+for Mr. Pozza?
+Mr. Pozza. I would say that what experience with the
+California Consumer Privacy Act is showing is that smaller
+companies in general are having difficulties with compliance. I
+think that the law itself has some ambiguities and is not
+written in a very straightforward manner, and illustrates the
+problem of regulating around this space in a broad brush, and
+the smaller companies are incurring compliance costs.
+Mr. Cardinal. Ranking Member Emmer, I would like to add on,
+since the FDX API is royalty-free, it levels the playing field.
+A mom-and-pop credit union can offer the same access to data as
+a top-four universal bank. And a lot of these credit unions
+rely on core processors, and one of them is on our board. We
+are working with the other ones. So once the cores get onboard
+and offer this API, a lot of the credit unions in your
+district, and in my district, will be able to offer this same
+type of royalty-free access that is secure and is much more
+reliable than screen scraping.
+Mr. Emmer. Thank you. I see my time has expired.
+Chairman Lynch. The gentleman yields back.
+The gentleman from Utah, Mr. McAdams, is now recognized for
+5 minutes.
+Mr. McAdams. Thank you, Mr. Chairman, for holding this
+hearing. And thank you to the witnesses for your testimony
+today.
+I am fascinated by this topic and the myriad of connecting
+issues related to it--big data, data security, privacy, data
+ownership--and how all of this interacts with innovations in
+financial services, as well as potential risks to consumers,
+because I do see great potential benefits but I also recognize
+the potential risks in terms of data security, and
+discrimination in lending, for instance, among other issues.
+So first question, Mr. Cardinal, I know in the various
+testimonies or even in many of the conversations that occur in
+Congress, definitions matter, and being specific with what
+companies we are referring to, that also matters. Can you
+explain or maybe even highlight the difference between a data
+aggregator and the role that they play in the financial
+services industry and the role a data broker plays?
+Mr. Cardinal. Thank you for that question, and I appreciate
+the chance to straighten out or expand upon some ambiguity in
+the press.
+A ``data aggregator'' is simply a data service company that
+allows any third party that is permissioned to reach out and
+extract, with consumers' consent, data from a variety of
+sources, whether it be a bank, a brokerage, or an investment
+company. A ``data broker'' is someone who is gathering data,
+harvesting quite a bit of data, often without the customers'
+knowledge or even consent. So, there is a clear difference, and
+that has to do with customer awareness and permission.
+Mr. McAdams. How do the regulatory or legal obligations of
+those two entities differ?
+Mr. Cardinal. I will leave the technology standards bias. I
+really couldn't comment on that part. I'm sorry.
+Mr. McAdams. Do any of the other witnesses have any
+thoughts on that?
+Okay. I just want to maybe ask a further question. Does
+whether the data is consumer-permissioned or even revocable
+access change how we should view the data and the entities
+holding or transmitting the data? Because that seems to be
+fundamental in the distinction between those two, the data
+aggregator and the data broker.
+Mr. Cardinal. You are spot on. Consumers should be in
+control. We are all here to serve the consumers, and the idea
+that they should have clear knowledge of what data they are
+sharing, for what purpose, and for what duration--and I will
+give you an example. I am a CPA by trade, and the idea that,
+yes, I want to share my tax forms with TurboTax through April
+15th is very clear and very conspicuous versus data that I
+don't even know is being used.
+Mr. McAdams. I guess that leads to my next question, and it
+would be for anybody on the panel.
+I have an iPhone and have numerous apps and websites that I
+use, some infrequently, and some on a regular basis. And I am
+positive that I have given access to various bank accounts or
+financial data, other personal data, to dozens of different
+companies. That is probably a conservative estimate. But as a
+consumer, I honestly don't know and probably can't even easily
+locate who has access to my data and how it is being used right
+now. I don't even know how long ago I may have given access or
+how long that access may be for.
+So how should we as policymakers think about this issue?
+And are there ways, either through the government or through
+private sector standards that could better promote consumer
+awareness and/or consumer control over this information?
+Ms. Saunders. I can address that.
+Mr. McAdams. Thank you.
+Ms. Saunders. Ultimately, I think that we need to have
+rules that data is used in ways that consumers expect, so that
+you don't have to decipher how it is going to be used. I think
+permission should also expire after 1 year.
+I was surprised when I got an email alerting me to some
+access for something I signed up for years ago. So often, if
+you apply for credit, you think that is going to be used at the
+moment of the credit application, and you don't realize it may
+be used on an ongoing basis. There may be uses that you just
+have no idea about.
+So, minimizing the amount of data, requiring it to be used
+in ways that are logical for the use, and putting an end point
+so consumers can have control and decide whether to reauthorize
+the use or not.
+Mr. McAdams. And is that a place that we should look at as
+policymakers, as Members of Congress, to ensure that those
+standards are equal and fair and apply across the industry?
+Ms. Saunders. Yes, I think so. There are voluntary efforts
+to address principles like that, which is great in the current
+situation, but ultimately, we want this applying across all
+uses and not just those who choose to comply.
+Mr. McAdams. Mr. Kamara?
+Mr. Kamara. I would just like to add, the principles that
+Ms. Saunders describes can be embedded in the technology. They
+can be embedded cryptographically so that data is always
+protected mathematically. So it is possible to design these
+services and these apps so that your data will never be seen by
+any of the data aggregators or financial services that need it
+in order to build their products.
+Mr. McAdams. Dr. Gilliard?
+Mr. Gilliard. As Chairman Lynch noted, this is sort of the
+age of surveillance capitalism, so most companies generally
+operate from a collect-it-all, keep-it-as-long-as-possible
+perspective. And, again, I think that there do need to be more
+regulations, because it is an unfair burden on consumers to
+take weeks or months to read the dense kind of language that is
+in these policies.
+Mr. McAdams. Thank you. I see my time has expired. I yield
+back.
+Chairman Lynch. The gentleman yields back.
+The Chair now recognizes the gentleman from Missouri, Mr.
+Luetkemeyer, for 5 minutes.
+Mr. Luetkemeyer. Thank you, Mr. Chairman. And I thank the
+panel today. It is quite interesting.
+Mr. Pozza, your testimony states that the California
+attorney general is currently accepting comments on rules to
+enforce the California Consumer Privacy Act (CCPA), and those
+rules are scheduled to go into place in July of 2020. However,
+the CCPA's date of enactment is January of 2020, so they are
+getting the rules after the enactment. I am not sure how that
+works, but hopefully you can explain it to me here in a second.
+In addition, you highlight how financial institutions are
+unclear what personal information they possess is covered by
+this vague law. Lastly, I heard from financial institutions
+that some provisions of CCPA are in direct conflict with other
+State laws regarding data security and privacy.
+All that being said, I have a simple question: How are
+financial institutions supposed to comply with CCPA?
+Mr. Pozza. I think it has been difficult for financial
+institutions to navigate CCPA compliance. As I point out in my
+testimony, and as you state, the law has an effective date of
+January 1st, but the regulations are still being finalized. We
+are in the middle of a comment period for the draft attorney
+general regulations, which would go into effect, at the latest,
+on July 1st. This means there is a current set of rules that
+are themselves a bit unclear. They are in the law, and then
+those can change or become more detailed or even be expanded,
+depending on what the attorney general does in the regulations.
+That makes it very difficult for financial institutions and
+other companies to figure out how to essentially manage their
+data practices, because this is really a broader issue of sort
+of data governance. It is what obligations are you going to
+have to consumers about their certain data to respond to
+certain requests and how you deal with it with third parties.
+So, these are difficult issues to go through and think
+ahead to how the law could be changing over the next--
+obligations could change over the next 6 months.
+Mr. Luetkemeyer. Thank you for that.
+I know that all of this data--the world of technology is
+wonderful. It allows us to do so many wonderful things and
+speed things up and give people more access to their own
+information, but it is also scary from the standpoint of what
+can happen to it. The data aggregators are really something
+that I am very concerned about.
+As somebody who comes from the other generation--I still
+have a rotary phone, by the way. So for those of you, any
+millennials in the audience, and maybe some of you on the
+panel, if you can figure out how to do a text message on that,
+I would sure appreciate it. I'll be glad to see you after this
+hearing.
+But I was discussing it the other day with an entity who
+lost hundreds of millions of dollars because of the data
+aggregator doing some nefarious things. They had access to
+individuals' information because they had given it to somebody
+along the way, whether--Mr. Cardinal, you talked about tax
+preparers a while ago--and suddenly, they use a third party to
+be able to access all that. And now, they can go in and they
+can scrape the screen and get--and nightly, what this entity
+was telling me, was that 80 percent of the transactions that go
+on in there overnight are from data aggregators. They have had
+to up the amount of computer power in their business to be able
+to accommodate the data aggregators that are coming in every
+night and scraping all the information off. It is not their own
+customers; it is the date aggregators.
+This has gone way beyond access to information. And so,
+while I am not a big fan of regulation, there is a whole system
+out there right now that looks to me to be out of control, and
+we are going to have to figure out how to put the genie back in
+the bottle so we can protect our consumers and allow them to
+access their information.
+I know you have talked at length here about this, but do
+you want to elaborate a little bit more on that, Mr. Cardinal?
+Mr. Cardinal. Yes. Thank you for the opportunity to address
+that. That was part of the reason FDX has stood up. And we have
+banks, brokerages, investment firms, data aggregators, and
+fintechs, the whole ecosystem working together on this issue.
+Nobody likes screen scraping. It is inefficient. It is
+expensive. It can lead to inaccuracy in data occasionally.
+The API is much more secure, and my colleagues here have
+mentioned that several times. You limit and control the amount
+of data. It is an order of magnitude and more efficient.
+The hardware costs alone that you referred to come down by
+an order of 100X, and it makes the front-door defense also a
+lot easier by ceasing screen scraping. That means anything
+hitting your front door should only be human. So, that helps
+your cyber posture. It helps your data risk posture. It helps
+your hardware cost posture. And again, it limits the data out
+there in play and, of course, it removes IDs and passwords held
+away. This is the end state that everyone is working toward,
+whether you are a bank or a brokerage or you are an aggregator
+or a fintech.
+Mr. Luetkemeyer. The chairman asked a while ago the
+question about, how do we get consumers to understand the
+seriousness of this. We have had former Director Cordray of the
+CFPB in this very room, and he indicated that the CFPB was
+collecting 80 percent of all the credit card transactions in
+the country. They are collecting that data. That should scare
+the bejeebers out of every single person here today.
+My time is up, but I want to thank the panel for being here
+today. You have been very informative, and I sure appreciate
+your efforts. Thank you very much.
+And I yield back.
+Chairman Lynch. Great questions. Thank you.
+The gentleman from Florida, Mr. Lawson, is now recognized
+for 5 minutes.
+Mr. Lawson. Thank you, Mr. Chairman. And I welcome the
+witnesses today.
+Are there any examples in the market today to which
+consumers and our small businesses might not be permitted to
+access the financial data which might impact their products or
+services? This is for anyone who cares to respond.
+So, there is none?
+Tell me this, how does big data collection impact consumer
+profiling?
+Ms. Saunders. I would say we don't know, and that is the
+problem. We have all sorts of data that is fed into big black
+boxes and algorithms, and we don't know how it is being churned
+and correlated and conclusions are being drawn, and we really
+don't understand how it is being used.
+Mr. Lawson. Okay. A little bit of a follow-up, with the
+increase of big data comes an issue of security. Can you share
+how consumers will know who has access to their data and how
+the information will be shared?
+Ms. Saunders. Again, I don't think it is something that
+consumers are equipped to know, and we shouldn't put that onus
+on the consumer. We should have rules about what can be shared
+and rules about how data is held securely and not put it on
+consumers to figure out who is holding their data securely or
+not.
+Mr. Lawson. Mr. Cardinal?
+Mr. Cardinal. We are seeing some innovation in the industry
+around making the data sharing more transparent. If you look at
+Wells Fargo's control tower, you can see--and I will pick on
+TurboTax again, because I am an accountant and I like to do
+that. You can see, yes, I have permission from TurboTax to pull
+my data down, and you see other firms standing up dashboards
+where consumers can see very clearly whom they permissioned,
+and it gives them the ability to kill that connectivity at any
+time. So, you have firms like USAA or Bank of America or
+Citibank, and they are also standing up those dashboards
+because they want to inform consumers well and give the
+consumer the ability to kill that connectivity at any time.
+Mr. Lawson. Mr. Gilliard?
+Mr. Gilliard. As Ms. Saunders has said, there is very
+little ability--I know a lot of computer scientists,
+cryptographers, people in privacy and surveillance, and even
+people with advanced skills, and it is very difficult for them
+to know the answer to that question. But the other thing that
+is important--and Dr. Kamara alluded to this--it is very hard,
+and it is, in fact, impossible for people to know how that data
+is combined, processed, repurposed, and what kinds of
+correlations or connections will be made by companies who do
+this.
+As Dr. Kamara said, so there is some correlation between
+calling your mom and paying your bills. So, only the people
+inside that system, and sometimes not even them, would know
+that correlation exists. People outside of it have absolutely
+no ability to know that.
+Mr. Lawson. Okay. Mr. Kamara?
+Mr. Kamara. I would also add that a lot of this data that
+is collected is used in ways which we really don't understand,
+and that the designers may not understand, because the machine-
+running algorithms can be inscrutable. But also, this data
+oftentimes is kept even after the service has been rendered.
+And the data is kept longer and it is kept to improve the
+systems of the companies that are providing these services, but
+we don't necessarily know how long this data is kept and for
+what purpose.
+Mr. Lawson. Okay. And whether this is appropriate or not,
+but recently in this committee, we talked about debt
+collectors. So, when there is outstanding debt and the data
+then is transferred over to the debt collector, how long are
+they able to keep the consumer information? Do you know that,
+Ms. Saunders?
+Ms. Saunders. I am not aware of any limits. And that was
+one of our concerns about the debt collection proposal. If debt
+collectors are texting people through WhatsApp, and Facebook
+actually sees those messages, are they going to use that data?
+Are they going to target people for debt settlement scams and
+other problems? We don't know what information gets collected
+and how it gets turned around and used.
+Mr. Lawson. When consumers sign affidavits, let's say
+getting a loan or have a substantial debt--and my time is about
+to run out--is there always something that they sign at the
+bottom which allows them to transfer all of the information to
+other collectors?
+Ms. Saunders. I think that information may be in the fine
+print. But consumers don't really know what is going to happen.
+Mr. Lawson. So it is as if the fine print is so small until
+people just really want to get credit or anything they want,
+forget about reading it until later on.
+Ms. Saunders. When consumers take on a loan, they don't
+expect to be hit by a debt collector. They take out a loan
+expecting they are going to repay it. And what happens later on
+is something that people aren't focused on at the moment.
+Mr. Lawson. Okay. I yield back, Mr. Chairman.
+Mr. Lynch. I thank the gentleman.
+The Chair now recognizes the gentleman from Arkansas, Mr.
+Hill. Welcome back. And you are recognized for 5 minutes.
+Mr. Hill. Thank you, Mr. Chairman. I appreciate you holding
+this hearing.
+This is such a fundamental hearing, I think, for all of us
+in fintech, because big data is the fundamental building block
+for financial services now, and the providing of health
+services now. So, getting this right is very important.
+And I have said since the beginning of our work in this
+Congress, that we can't really have a digital future in health
+or financial services or any other endeavor unless we get the
+data piece right so that we as individuals own our data, it is
+our data and we--as our panelists talked about, and we
+permission that data use individually for a health provider or
+financial services provider to provide us services, and that we
+also have an authentication system that values cyber
+protections and privacy and is not tied to a user name and my
+pet's name and my birthday year.
+And all about that, we have heard this year that that is
+fundamental. So we control our data. It is our personal data.
+We use that data with our financial services providers. In
+turn, it is authenticated in a way that protects privacy and
+cyber risk. And those are just critical.
+This gets to my friend from Missouri's line of questioning
+about--I want to talk as well about California and what we see.
+But we have one company in Arkansas that is called Acxiom, and
+for 50 years, they have sort of been a data bank for financial
+services companies. They have worked hard to do that in an
+ethical, secure, and legal way to protect consumers along the
+way. They have innovated there. They have used a lot of that
+data with financial services. They are now working on the
+California privacy law and how it can be implemented for their
+clients.
+And so a question I have about California, probably
+following up on Mr. Luetkemeyer, Mr. Pozza, what do you think
+are the biggest shortcomings in that statute?
+Mr. Pozza. I think one of the biggest issues around it is
+the sort of lack of clarity around the specific obligations, as
+I talked about before. A second piece of it is the way it
+treats financial institutions. It carves out data that is
+subject to Gramm-Leach-Bliley (GLB), but it does not carve out
+financial institutions, which means that it is layering another
+level of unclear regulation on top of data that is treated a
+certain way under GLB.
+So what that means for a financial institution is they have
+to parse through, is this particular piece of data covered
+under GLB; and, if not, is it then covered under CCPA if it is
+related to California? That, I think, is confusing both to
+consumers and to companies to have data treated different ways
+under this piecemeal approach.
+I think, in thinking about California, it is also
+instructive to look at the chance of other State legislation
+happening over the next year, and certainly there will be lots
+of bills introduced. So there is also a level of uncertainly
+there looking not just at what is California going to look like
+in a year, but what is any other State going to look like and
+is it going to build on top?
+Mr. Hill. I support a national standard for privacy, and we
+have tried that here. I know Mr. Scott and I talk about this on
+a regular basis. We have to create a consensus to do that, and
+I think it is an important policy, as I say, not just in
+financial services, but across the government.
+Mr. Cardinal, you suggest that APIs are critical to
+protecting this authentication piece and improving privacy. So
+in your work, are 100 percent of the consumers in your
+portfolio all covered by APIs?
+Mr. Cardinal. We are getting there. We are at--
+Mr. Hill. What percent are covered by APIs?
+Mr. Cardinal. I would say, at this early stage, we just
+have raw numbers. I am not sure what the actual overall
+percentage is. I would say probably under a quarter. We
+surveyed our members and they indicated that 5\1/4\ million had
+made the switch from old screen scraping tech to the new APIs,
+and they have estimated we will be at 12 million by April of
+next year. It is hard to know what the entire population is.
+Mr. Hill. Do you think the bank regulators, the financial
+services regulators in the investments and banking should
+require all financial services data be covered by an API and
+not permit any form of screen scraping?
+Mr. Cardinal. We are a tech standards body. We are not
+going to comment on policy regulation, although we do inform
+the regulators on our progress and what we are doing on a
+voluntary basis. We were here just a few weeks ago, talking to
+the OCC, the CFPB, and Treasury, and they--
+Mr. Hill. But it is a best practice, right? An API is a
+best practice?
+Mr. Cardinal. The Treasury said last year that APIs
+represented a big risk reduction over screen scraping, and we
+agree with them.
+Mr. Hill. Thank you, Mr. Chairman. I yield back.
+Chairman Lynch. The gentleman yields back.
+The Chair now recognizes one of our most active and
+thoughtful members on this task force, the gentleman from
+Georgia, Mr. Scott, for 5 minutes.
+Mr. Scott. Thank you. Thank you very much, Chairman Lynch,
+and I appreciate those kinds words that you had to say, and I
+appreciate your leadership on this.
+Mr. Hill is right, big data and privacy are critical to
+fintechs. Our technology now is moving at warp speed. Every
+day, it seems like there is something else we have to adjust,
+and I will tell you why: It has been 20 years since the
+enactment of Gramm-Leach-Bliley, which is the law predominantly
+governing the treatment of big data and privacy protection in
+all of the financials here. But since that time, we have seen
+extraordinary technological development that has changed the
+way consumers interact with financial services. And just in
+recent days, members of the Senate's Committees on Commerce,
+Science and Transportation, and Judiciary have released a set
+of privacy and data protection principles to underpin a broad
+privacy framework. And I am sure you all are probably aware of
+what the Senate has done. But among these principles are the
+minimization of the data collected, limitations on the way data
+can be shared between service providers and third parties.
+So thinking about the way that our financial technology has
+evolved, and understanding how the value of data itself has
+increased, how can our great financial technology grow in a way
+that incorporates key privacy protections?
+Mr. Cardinal, let me start with you.
+Mr. Cardinal. Thank you for the question. And I go back to
+our five core principles of control, where you put the customer
+in control of their data; transparency, so they know and see
+what is going on; and in a real way, traceability, access, and,
+of course, security.
+Earlier, I talked about the National Institute of Standards
+and Technology (NIST). NIST sets a lot of the government
+framework for data control and cybersecurity, and one of their
+core principles is data minimization. And good risk governance
+mandates data minimization, and we have that in our security
+principles as well. And the use cases we are defining set out
+that you should only return the data necessary to achieve a
+particular purpose, for example, again, a tax return or doing
+budgeting. Only get the data you need to do that one thing.
+So those five key principles really guide what we do, and I
+think they fit hand-in-glove with the points you raise.
+Mr. Scott. Okay.
+Mr. Kamara, in recent years, we have seen two major pieces
+of privacy legislation pass in California and in the European
+Union. These two pieces of legislation appear to shift towards
+what we call a bill of rights model in which a consumer can
+have a certain expectation of what privacy protections exist.
+Do you agree with this assessment?
+Mr. Kamara. Yes, I do. I also think that the excitement
+around financial technologies is great, but what I would like
+to see is as much excitement around privacy technologies. APIs
+are definitely an improvement over screen scraping, but I think
+we can still do better. We can bring minimization. We can
+minimize the amount of data collected down to zero if we invest
+in the right technologies.
+Mr. Scott. In your opinion, in these two areas where this
+legislation impacted, how would you assess their progress?
+Mr. Kamara. I am a computer scientist. I am a
+cryptographer. So, this is not exactly what I work on every
+day. I think, from my vantage point, one of the benefits is
+that it is forcing industry to actually have to put in real,
+practical technological measures to protect consumers' privacy,
+and I think that is a very positive outcome.
+Mr. Scott. And do any of you feel, in addition to you, Mr.
+Kamara, that any challenges have arisen with the implementation
+of these laws that may be helpful to us and instructive on a
+national basis?
+Mr. Kamara. I think there are surely challenges to
+implementing any policy, but I think these challenges are
+surmountable. We can use technology to do incredible things. We
+can use technology to provide privacy as well, so--
+Mr. Scott. Do you feel comfortable that we are--
+Chairman Lynch. The gentleman's time has expired.
+Mr. Scott. Thank you.
+Chairman Lynch. I thank the gentleman.
+The Chair now recognizes the gentleman from Ohio, Mr.
+Davidson, for 5 minutes.
+Mr. Davidson. Thank you, Mr. Chairman.
+This is an exciting time, because not all the time in this
+room do you have a near-uniform sense of what ought to be done.
+I haven't heard anyone say that the status quo with respect to
+privacy is just great. Everyone has said that it is broken, and
+everyone has said that there is a need to fix it.
+I just listened to Mr. Scott and Mr. Hill speak about their
+common ground that they shared in terms of a Federal approach.
+We haven't yet seen that bill and, unfortunately, this
+committee doesn't have full jurisdiction over everything. But
+what does have full jurisdiction over privacy? We don't need a
+new bill of rights with respect to privacy. I don't think there
+is an expiration data on the Fourth Amendment. Let me read it
+for you:
+``The right of the people to be secure in their persons,
+houses, papers, and effects, against unreasonable searches and
+seizures, shall not be violated, and no Warrants shall issue,
+but upon probable cause, supported by Oath or affirmation, and
+particularly describing the place to be searched, and the
+persons or things to be seized.''
+This was originally a restriction on the Federal Government
+doing these things but, of course, as we know, the Fourteenth
+Amendment ruled that out through all of the States. And I
+believe that Louis Brandeis in Griswold v. Connecticut
+expounded upon this. Unfortunately, what we have seen is a
+retrenching on the Fourth Amendment through a long period of
+time, both with respect to the government, with surveillance
+powers massively expanded with the Patriot Act, with renewed
+efforts to do that with ill-conceived ideas like the Corporate
+Transparency Act.
+And then we have seen, really over the past 30 years, as
+technology has gone around, most of the billionaires in Silicon
+Valley and, frankly, Mr. Bloomberg, have accumulated their
+wealth by monetizing data. It is quite valuable. In fact, it is
+more valuable than financial transactions. We do have a small
+segment carved out by Gramm-Leach-Bliley, but we are seeing
+even more fragmented. We have different standards that apply to
+different entities.
+When a bank collects credit card data, for example, we see
+different things than, say, Google Pay. One of my colleagues, a
+Member who gives great advice to me, recently pointed out that
+he purchased an airline ticket using Google's product Chrome.
+And Google, being the great customer service entity that it is,
+decided that they should store that credit card information in
+Google Pay. It had nothing to do with Google Pay he had no
+intention of signing up for Google Pay. It is all just part of
+the great customer experience.
+And I am sure that is in the fine print somewhere--I don't
+know how many pages or words are contained in Google's
+documents or how many times they are updated. I am sure we have
+all read them, right, printed them out, and checked each phrase
+before we clicked, ``accept.'' And we can all take solace that
+when they went public, they promised not to be evil, right? But
+we see the other thing. They are going to monetize.
+So when we talk about data minimization, Mr. Cardinal, you
+spoke of data minimization. You could minimize your data or at
+least attempt to. I only meant to share this with the airline,
+my credit card, when I entered it; or I only meant to share my
+health records with my health provider, yet Google has found a
+way to sell it.
+Going down the panel, do people believe consumers should
+have to give consent for transference of that data to third
+parties? Just yes or no, please?
+Ms. Saunders. It should not happen. It should not happen in
+ways consumers would not expect. If you didn't expect Google to
+keep your credit card, they just shouldn't do it.
+Mr. Davidson. Thank you.
+Mr. Kamara. I think that would be the minimum standard,
+yes.
+Mr. Davidson. Thank you.
+Mr. Gilliard. Absolutely minimum standard.
+Mr. Davidson. Thank you.
+Mr. Cardinal. Someone has to consent.
+Mr. Davidson. Thank you.
+Mr. Pozza. I think, taking out the aspect of a specific
+company, that there is--the consumer cannot be deceived under
+current law about what is going on with the data, and then if
+you are thinking about approaching it from, are you going to--
+Mr. Davidson. So they can't lie, cheat or steal, or deceive
+them. Right now, the problem is no one really enforces it,
+right? Google promised they weren't going to track you with
+their location services; and in theory, since they said they
+weren't going to do that in their terms of service, there would
+be a way to do it. The reality is that they are so
+sophisticated, the average consumer can't know whether they
+have stopped doing it, and the regulator right now would be the
+Federal Trade Commission, and they clearly do not have a way to
+monitor whether the companies are complying with the terms of
+service.
+In the financial sector, we have regulators that do that.
+And at subsequent hearings, I would hope to get to who should
+actually oversee the regulatory framework in the United States
+of America, because conformance is not going to happen in the
+stated nature. It leads towards decay and abuse, unfortunately,
+and it is way past time for us to update our laws.
+My time has expired, and I yield back.
+Chairman Lynch. I thank the gentleman. The gentleman yields
+back.
+It is my pleasure to recognize the gentlewoman from
+Michigan, Ms. Tlaib, for 5 minutes.
+Ms. Tlaib. Thank you, Mr. Chairman.
+There are going to be very few times that you will see a
+lot of us agree, especially on issues that are so critically
+important to civil liberties, civil rights issues, but in this
+particular issue, I think you can find a lot of bipartisan
+support about the great concern in protecting our residents at
+home, their privacy, and so forth.
+I want to kind of take this in a little different
+direction. I don't know how many of you all know, in Detroit,
+there is over $1 million spending on a facial scanning system
+called Project Green Light, which enables police to identify
+and track residents, capturing hundreds of private and public
+surveillance cameras installed at parks, schools, health
+centers, gas stations, women's clinics, fast food restaurants,
+and even addiction treatment centers. It has been expanded to
+also even include churches and low-income housing.
+Overall, this aggressive City-wide surveillance system has
+reached more than 500 of our City's businesses and institutions
+and community organizations.
+Ms. Saunders, are citizens even aware that they are being
+recorded and that their images are being captured?
+Ms. Saunders. No, I am sure that they are not.
+Ms. Tlaib. What are some of the implications of this
+technology being used in low-income housing specifically?
+Ms. Saunders. This is not an area of our expertise, but I
+am sure people would be concerned to know that they are being
+tracked and that their individual identities are in government
+databases being used in ways that they wouldn't expect.
+Ms. Tlaib. Dr. Gilliard, do you have anything to comment
+about this?
+Mr. Gilliard. I do. I think particularly for marginalized
+populations, this is especially onerous, because they are
+already subject to lots of surveillance in their daily lives
+that they are not able to escape. They don't have the means
+either to avoid this kind of surveillance, but also, maybe
+there are questions of if they are on public assistance, have
+they had run-ins with law enforcement, things like that. And
+that level of scrutiny on anyone is harmful, but I think the
+physical, emotional, and psychological effects on people to
+think that they are constantly being watched or to know that
+they are constantly being watched, I think is very pernicious.
+Ms. Tlaib. These are for-profit entities coming to sell to
+cities like Detroit, and other communities of color, technology
+that hasn't even been tested properly, and is flawed. Studies
+over and over again have shown that it is flawed. I think the
+ACLU even did a sample of Members of Congress, and I believe
+they misidentified the majority of the folks who are in there,
+especially the Brown/Black Members within the United States
+Congress.
+Given that Black men, and boys especially, are already more
+than twice as likely to die in an encounter at the hands of
+police, there are really strong implications of what this would
+mean, but also the fact that these are low-income families,
+people who are being surveilled.
+One of my residents told me the green light that flashes--
+they actually put a green light outside of their building. And
+when I asked the mayor about this, he said, ``What do you
+mean?'' I said, no, just you are telling this person that they
+are unsafe. You are letting the world know, as people are
+passing by, don't come here. It is unsafe. It is very
+counterproductive to trying to make people feel safe. It is
+saying, if you are poor, you deserve to feel less safe and to
+have kind of the stigma to be on you for living in public
+housing.
+Currently, my colleagues, Representative Ayanna Pressley
+and Representative Yvette Clarke, and I introduced the No
+Biometric Barriers to Housing Act, which would prohibit
+completely any use of real facial recognition technology in
+Federal housing.
+What would you all feel, is this something that you all
+would be able to support?
+Mr. Gilliard. Absolutely. I think more surveillance does
+not equal more safety. I think imperfect surveillance is bad,
+but perhaps perfect surveillance is even worse.
+Mr. Kamara. Yes, absolutely. Biometric data is very
+intrusive. It is very difficult to store and protect. If it
+gets leaked, if there is a data breach, biometric data is very
+hard to revocate. So, that is another issue. And a lot of these
+surveillance databases are connected with DMV data. They are
+connected with other datasets as well. There are also a lot of
+problems with, if you end up in one of these databases, it is
+very difficult to get off of it. That is another issue as well.
+So, absolutely.
+Ms. Saunders. That particular bill is a bit outside our
+organizational expertise, but as a general matter, we certainly
+are concerned about the collection of personal data about
+people without their consent, and also especially about data
+that may be used differently against different populations.
+And, as you note, there could be mistakes, especially if you
+don't test it for how it works for people of--
+Ms. Tlaib. No, there are actually documented mistakes.
+I know I am out of time, but thank you, Mr. Chairman.
+And thank you all so much for being here to testify.
+Chairman Lynch. Very insightful observations. Thank you.
+The gentleman from Wisconsin, Mr. Steil, is recognized for
+5 minutes.
+Mr. Steil. Thank you very much, Mr. Chairman.
+Mr. Pozza, I would like to dive into some of your
+testimony. The European Union's General Data Protection
+Regulation gives individuals the right to be forgotten. This is
+kind of intuitive as to what this might mean as it relates to
+Facebook, and maybe as it relates to Google. I think where some
+of the struggle comes in is, in particular, financial services
+products, loans, and insurance. I can think of a life insurance
+product where that is very challenging, if somebody comes in
+and asks for the right to be forgotten, but they are the
+beneficiary of someone else's life insurance product. It gets a
+bit complicated.
+Could you comment and provide some insight as to how the
+right to be forgotten and other digital deletions impact common
+financial products? And then, what other implications should
+policymakers be thinking of in this context?
+Mr. Pozza. I think that is a great question. I think that
+the deletion right, as it is sort of known under California, or
+the right to be forgotten, needs to be assessed in a way that
+is contextual. The examples that you point out are the kinds of
+things that maybe under California's law could be business
+exemptions, right? So, it can't just be a broad brush. You
+should be able to delete your data in a way that the business
+can no longer function, or it needs it to use for other sorts
+of analytical tools to make sure that it is not discriminating
+or something like that.
+There are lots of reasons why you would need to cabin
+something like that to be practical in terms of business. And I
+think that goes to just the general approach of being sensitive
+to the business concerns when making and creating these sorts
+of rights.
+The second piece of this is, the ABA recently released a
+report--it is in my testimony--that talks about the way that
+these deletion rights might impact sort of data models that
+would then be incomplete if they're used for things like fraud
+detection. So, again, you could potentially have something in
+the law that carves out these uses where it makes sense to make
+sure that companies have robust access to these datasets so
+they can use things like detecting fraud.
+Mr. Steil. Let me dig in here for a second. In particular,
+as it relates to this, where sometimes you have these
+conflicting regulations, where you are trying to work in
+multiple jurisdictions, and businesses and consumers, I think,
+face increasingly complicated sets of overlapping and
+conflicting rules. As you mentioned in your testimony, GDPR
+affects us since many of the services we are using are offered
+in Europe. CCPA, as you noted, is sometimes overlapping on
+this.
+Could you comment how the complexity impacts businesses and
+consumers and how Congress should respond to the costly and
+complicated overlapping system of regulations?
+Mr. Pozza. I think it is clearly costly for businesses, as
+I have talked about, to have multiple different regimes
+governing different kinds of data. I would also reiterate that
+I think it is difficult for consumers to have these different
+regimes because they don't necessarily have clear expectations
+about how their data will be treated, which is a lot of what we
+talked about today.
+When it comes to looking at something possibly on a Federal
+level, I think the U.S. Chamber has some pretty good principles
+they have outlined that talk about things like a risk-based
+approach and being sort of technology-neutral as much as
+possible and realizing that there are these tradeoffs, that
+consumer control of their information clearly is an important
+value, and that there are other sorts of things, as you point
+out, where it intersects with other kinds of regulations that
+you just sort of need to balance those.
+Mr. Steil. I appreciate your time and testimony today.
+Mr. Chairman, I yield back.
+Chairman Lynch. The gentleman yields back.
+First of all, I would like to thank our witnesses for your
+testimony today and for helping the task force with its work.
+Without objection, the following documents will be
+submitted for the record. We have received submissions from the
+American Bankers Association, the Electronic Transaction
+Association, Fidelity Investments, Finicity, Public Knowledge,
+and Plaid, P-l-a-i-d.
+The Chair notes that some Members may have additional
+questions for this panel, which they may wish to submit in
+writing. Without objection, the hearing record will remain open
+for 5 legislative days for Members to submit written questions
+to these witnesses and to place their responses in the record.
+Also, without objection, Members will have 5 legislative days
+to submit extraneous materials to the Chair for inclusion in
+the record.
+I wish you all a very happy and safe Thanksgiving. This
+hearing is now adjourned.
+[Whereupon, at 11:00 a.m., the hearing was adjourned.]
+A P P E N D I X
+November 21, 2019
+[GRAPHICS NOT AVAILABLE IN TIFF FORMAT]
+[all]

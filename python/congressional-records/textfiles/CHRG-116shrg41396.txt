@@ -1,0 +1,2298 @@
+- IMPLEMENTING THE 21ST CENTURY CURES ACT: MAKING ELECTRONIC HEALTH INFORMATION AVAILABLE TO PATIENTS AND PROVIDERS, PART II
+[Senate Hearing 116-434]
+[From the U.S. Government Publishing Office]
+S. Hrg. 116-434
+IMPLEMENTING THE 21ST CENTURY
+CURES ACT: MAKING ELECTRONIC
+HEALTH INFORMATION AVAILABLE
+TO PATIENTS AND PROVIDERS, PART II
+=======================================================================
+HEARING
+OF THE
+COMMITTEE ON HEALTH, EDUCATION,
+LABOR, AND PENSIONS
+UNITED STATES SENATE
+ONE HUNDRED SIXTEENTH CONGRESS
+FIRST SESSION
+ON
+EXAMINING IMPLEMENTING THE 21ST CENTURY CURES ACT, FOCUSING ON MAKING
+ELECTRONIC HEALTH INFORMATION AVAILABLE TO PATIENTS AND PROVIDERS
+__________
+MAY 7, 2019
+__________
+Printed for the use of the Committee on Health, Education, Labor, and
+Pensions
+[GRAPHIC NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://www.govinfo.gov
+__________
+U.S. GOVERNMENT PUBLISHING OFFICE
+41-396 PDF
+WASHINGTON : 2021
+--------------------------------------------------------------------------------------
+COMMITTEE ON HEALTH, EDUCATION, LABOR, AND PENSIONS
+LAMAR ALEXANDER, Tennessee, Chairman
+MICHAEL B. ENZI, Wyoming		PATTY MURRAY, Washington
+RICHARD BURR, North Carolina		BERNARD SANDERS (I), Vermont
+JOHNNY ISAKSON, Georgia			ROBERT P. CASEY, JR., Pennsylvania
+RAND PAUL, Kentucky			TAMMY BALDWIN, Wisconsin
+SUSAN M. COLLINS, Maine			CHRISTOPHER S. MURPHY, Connecticut
+BILL CASSIDY, M.D., Louisiana		ELIZABETH WARREN, Massachusetts
+PAT ROBERTS, Kansas			TIM KAINE, Virginia
+LISA MURKOWSKI, Alaska			MARGARET WOOD HASSAN, New Hampshire
+TIM SCOTT, South Carolina		TINA SMITH, Minnesota
+MITT ROMNEY, Utah			DOUG JONES, Alabama
+MIKE BRAUN, Indiana			JACKY ROSEN, Nevada
+David P. Cleary, Republican Staff Director
+Lindsey Ward Seidman, Republican Deputy Staff Director
+Evan Schatz, Minority Staff Director
+John Righter, Minority Deputy Staff Director
+C O N T E N T S
+----------
+STATEMENTS
+TUESDAY, MAY 7, 2019
+Page
+Committee Members
+Alexander, Hon. Lamar, Chairman, Committee on Health, Education,
+Labor, and Pensions, Opening statement.........................
+1
+Murray, Hon. Patty, Ranking Member, a U.S. Senator from the State
+of Washington, Opening statement...............................
+4
+Witnesses
+Rucker, Don, M.D., National Coordinator for Health Information
+Technology, Office of the National Coordinator for Health
+Information Technology, United States Department of Health and
+Human Services, Washington, DC.................................
+6
+Prepared statement...........................................
+7
+Summary statement............................................
+12
+Goodrich, Kate, M.D., Director and Center for Medicare and
+Medicaid Services Chief Medical Officer, Center for Clinical
+Standards and Quality, Center for Medicare and Medicaid
+Services, United States Department of Health and Human
+Services, Washington, DC.......................................
+13
+Prepared statement...........................................
+15
+Summary statement............................................
+19
+IMPLEMENTING THE 21ST CENTURY
+CURES ACT: MAKING ELECTRONIC
+HEALTH INFORMATION AVAILABLE
+TO PATIENTS AND PROVIDERS, PART II
+----------
+Tuesday, May 7, 2019
+U.S. Senate,
+Committee on Health, Education, Labor, and Pensions,
+Washington, DC.
+The Committee met, pursuant to notice, at 10:05 a.m., in
+Room SD-430, Dirksen Senate Office Building, Hon. Lamar
+Alexander, Chairman of the Committee, presiding.
+Present: Senators Alexander [presiding], Burr, Cassidy,
+Romney, Braun, Murray, Casey, Baldwin, Murphy, Kaine, Hassan,
+Jones, and Rosen.
+OPENING STATEMENT OF SENATOR ALEXANDER
+The Chairman. The Committee on Health, Education, Labor,
+and Pensions will please come to order. Senator Murray and I
+will each have an opening statement, then we will introduce the
+witnesses, and after that, Senators will each have five minutes
+of questions.
+Let me just--let me say at the beginning, what I may repeat
+both in my statement and questions, my major concern is to
+remind the administration of the advice that my piano teacher
+used to give me before a recital. She would say, Lamar, play it
+a little slower than you can play it. You are less likely to
+make a mistake. And that is pretty good advice, and as I look
+back at our experience with Meaningful Use 3 and the large
+amount of data that we are dealing with here, in summary my
+view is that you are on a good track. Both in the Obama and the
+Trump administrations, you have worked hard to try to get on
+the right track here and implement the 21st Century Cures law
+that we passed. That I appreciate very much, and I appreciate
+the extension of time for a comment period.
+But I want to say to Senator Murray and other Senators who
+are here that over the next two years we may want to continue
+to have, in an informal way, discussions with you about how we
+are doing, and I think it is much better for you to have on
+your tombstone, they got us where they wanted us to go instead
+of they try to go too fast and made it difficult for us. So we
+will say more about that. In 1991 the National Academies urged
+the adoption of electronic health records to improve patients'
+care. However, for many patients and many doctors, electronic
+health records made care more complicated.
+No one knows this better than Dr. Kelly Aldrich who is the
+Chief Clinical Transformation Officer at the Center for Medical
+Interoperability in Nashville and whose husband Eric
+experienced a life-threatening emergency that could have been
+prevented if his electronic health records had been
+interoperable. Eric woke up one morning with a splitting
+headache. He went to see his primary care doctor. He sent Eric
+to the hospital for a CT scan. The results of that prompted an
+MRI. Usually the hospital's electronic medical records sends
+the results of the MRI directly to Eric's primary care doctor
+but in this case, the results were never sent so 12 hours after
+test, Eric's doctor called the hospital and learned that Eric
+had a tumor so large it was causing his brain to swell and
+shift, putting him at risk of seizures, permanent brain damage,
+and possibly death. Eric, however, assuming no news was good
+news was already 500 miles away on a fishing trip to Louisiana.
+Eric went to the Tulane Medical Center, which had to do another
+MRI because they could not obtain Eric's original test results
+because the two hospitals use different electronic medical
+record systems. Eric flew back to Nashville where he had to
+have yet another MRI before entering surgery. He spent several
+weeks recovering in the ICU.
+At multiple points during this traumatic experience, the
+lack of interoperability between electronic health care records
+caused a life-threatening delay of care, redundant tests,
+higher costs, and additional pain. This is the second hearing
+on the proposed rules implementing the Electronic Health
+Information Provisions in the 21st Century Cures Act. Improving
+electronic health records is important to this Committee on
+both sides of the aisle. In 2015 while working on Cures, we
+realized that our electronic health record system was in a
+ditch.
+The Committee held six bipartisan hearings in the midst of
+the 21st Century Cures discussions on how to improve
+interoperability and form a working group that recommended
+provisions in Cures to ban information blocking, which is when
+some obstacle is in the way of a patient's information being
+sent from one doctor to another. And this year the Committee is
+working on legislation to lower the cost of healthcare. 50
+percent of what we spend on healthcare is unnecessary,
+according to Dr. Brent James of the National Academies.
+Electronic health records that are interoperable can prevent
+duplicative services, like Eric's repeated MRIs, and reduce
+what doctors and hospitals spend on administrative tasks.
+In March, the Office of the National Coordinator in the
+Center for Medicare and Medicaid Services issued two rules to
+implement the electronic health records provisions in the 21st
+Century Cures Act. First, the rules to define information
+blocking so it is more precisely clear what we mean when one
+system, hospital, doctor, vendor, or insurer is purposefully
+not sharing information with another. Second, the rules require
+that by January 1, 2020, for the first time, insurers must
+share a patient's health care data with a patient, so their
+health information follows them as they see different doctors.
+Third, all electronic health records, and there might be an
+example of going too fast. This rule may not be final until the
+end of this year, then this information must be shared by
+January of next year. Fourth, all electronic health records
+must adopt publicly available standards for data elements known
+as application programming interfaces are APIs--we will hear a
+lot about APIs today--two years after these rules are
+completed. Last month, we heard from those who use electronic
+health records. So here is what they had to say.
+First, I ask our witnesses at that hearing if these were
+good rules and all four said, yes, the intent and the goal of
+the rules is correct. Mary Greeley, President of Healthcare
+Leadership Council said, ``interoperability is not simply
+desirable, it is absolutely necessary. These rules represent an
+important and perhaps groundbreaking first step for true,
+national interoperability.'' Also asked our witnesses what one
+change they would make to improve the rules and Dr. Greeley
+cautioned about not rushing implementation saying, ``we don't
+want to prevent moving ahead or progress, but I think we also
+have to be very cognizant of the challenges that providers and
+others are facing trying to do this complex work.''
+In 2015, I urged the Obama administration to slow down
+stage 3 of Meaningful Use, which incentivize doctors and
+hospitals to adopt electronic health care records. The
+administration then did not slow down implementation and
+looking back, the results would have been better if it had. The
+best way to get where you want to go is not by going too far
+too fast. I want to make sure we learned lessons from
+implementing Meaning Use stage 3, which in the words of one
+major hospital in Tennessee was, terrifying.
+I am especially interested in getting where we want to go
+with the involvement of doctors, hospitals, vendors,
+insurances, with the fewest possible mistakes and the least
+confusion. We do not need to set a record time to get there
+with an unrealistic timeline. Because these are complex rules,
+I asked CMS and ONC to extend the comment period. I am glad to
+see they have done so, and I want to thank our witnesses for
+allowing more time to comment. We also heard concerns about
+ensuring patient privacy. If the 21st Century Cures Act is
+successfully implemented, patients should be able to get their
+own health data more easily and send it to their own healthcare
+providers. Patients may also choose to send that data to third
+parties like an exercise tracking app on their smartphones, but
+this raises some new questions about privacy and questions I am
+not sure have been answered.
+Lucia Savage, Chief Privacy and Regulatory Officer at Omada
+Health said, ``I think the Committee is rightfully concerned
+about privacy and security. None of this will matter if the
+consumers don't have confidence and their doctors don't have
+confidence that the consumers have confidence.'' Dr.
+Christopher Rehm, Chief Medical Informatics Officer at
+LifePoint Health in Brentwood, Tennessee reminded us at the
+hearing that these rules are, ``not about the technology, it is
+about the patient, their care, and their outcomes.''
+I look forward to hearing from the administration today
+about how they plan to implement these rules.
+Senator Murray.
+OPENING STATEMENT OF SENATOR MURRAY
+Senator Murray. Thank you very much, Mr. Chairman. In the
+decades, as Congress passed the HITECH Act to help spread
+better use of healthcare technology, we have made tremendous
+progress.
+Back in 2008, just one in twenty hospitals used electronic
+health records and today we have seen that statistically flip
+entirely, one in twenty hospitals have not adopted electronic
+health records. We saw the impact of that shift nationally when
+electronic health records played an important role in
+understanding how the water in Flint, Michigan was putting
+families in danger. And healthcare providers have seen the
+impact of that shift in their work as electronic health records
+have helped them identify health problems sooner so patients
+can get preventive care to stay healthy, avoid duplicative
+tests or medication errors, and identify treatments that might
+be counterproductive based on a patient's medical history or
+current prescriptions. But for all the promise of electronic
+health records, we have also seen the serious danger to
+patients when health IT systems failed to live up to high
+standards of quality.
+From the man in California who suffered brain damage after
+his diagnosis was delayed when a hospital software could not
+properly interface with the lab, to the women in Vermont who
+died of a brain aneurysm that might have been caught if a
+software problem had not stopped the order for the test that
+she needed. Families' lives depend on making sure we get this
+right, which is why I was glad Congress, and this Committee in
+particular, was able to take action in the 21st Century Cures
+Act to address some of the biggest challenges we face, and why
+I am eager to hear today from our witnesses about how the
+Office of the National Coordinator for Health Information
+Technology is implementing the steps that we passed.
+While HITECH required certified electronic health record
+products to meet technical standards intended to make good
+information more accessible for care providers, a 2015 ONC
+report detailed how instead of making information easy to
+access and share, many organizations engaged in information
+blocking, intentionally setting up barriers between their
+systems and other systems like exorbitant fees whenever someone
+sent, received, or even searched for a patient's information,
+contracts that restricted people's ability to access and share
+their own health information, and systems built in ways that
+made sharing information needlessly complicated.
+We have also seen how too many health IT vendors include
+gag causes to stop care providers from speaking out about the
+problems or the issues in errors that the encountered. We
+cannot afford to have bad actors who prioritize their bottom
+line over patients' best interest, who block information that
+is essential to patient care, and who prevent people from
+speaking out when they see something that could jeopardize
+someone's health because when systems cannot speak to each
+other and people can't speak up about problems they see, it is
+patients that get hurt. That is why in the 21st Century Cures
+Act, Congress moved to end information blocking and make clear
+when patients and their care providers need information, they
+should not be stopped by unnecessary, unreasonable barriers.
+We then tasked ONC with clarifying what concerns, like
+privacy, safety, and security, would be grounds for reasonable
+exceptions. We also took steps to help ONC strengthen its
+certification program so they can require vendors seeking the
+Government seal of approval to swear off information blocking
+and gag clauses. The new conditions also call for open
+application programming interfaces, APIs, another step that
+will help make sure systems, developed by different vendors and
+used by different doctors, are able to speak to each other and
+patients have an easier time getting access to their medical
+records. These are important steps. I am looking forward to
+hearing today about how ONC is working to carry them out.
+I am also eager to hear about how the Centers for Medicare
+and Medicaid Services is working on a parallel track to make
+claims data more accessible and prompt care providers to be
+better about sharing information. I hope during today's hearing
+we can also focus on how to make sure health information
+technology doesn't just work for providers, but for patients
+and that means tackling patient engagement and usability so
+patients who are looking for clear information about their
+health can find more than massive binders and unreadable PDFs
+and stacks of CDs.
+We also need to make sure we are discussing what is
+required for all parties to be good stewards of the data people
+entrust them with and supporting the development of technology
+and best practices to keep people's personal information
+private and secure. This is only going to become more important
+as tech companies and others introduce new products, mobile
+applications, that empower people with their healthcare data,
+that are not covered by existing HIPAA protections. Patients
+should be able to expect tech companies are going to use their
+most sensitive information responsibly and give them the tools
+they need to be able to control how and when their information
+is disclosed.
+Our objective should be to make sure tech companies are
+putting patients in the driver seat, not the other way around.
+So, I hope our witnesses will be able to speak to the
+importance of that as well. I look forward to continuing our
+bipartisan, Mr. Chairman, to help make sure health technology
+is informing and empowering patients and providers in a way
+that leads to better care and helps people live happier,
+healthier lives.
+Thank you.
+The Chairman. Thank you, Senator Murray. I think the
+witnesses can see by the attendance already today that this is
+of interest to a large number of Democrat and Republican
+Senators because we spent so much time with it in the 21st
+Century Cures Act. I am pleased to welcome our two witnesses
+today. I would like to ask you each to summarize your remarks
+in five minutes. The first witness, Dr. Don Rucker. He is the
+National Coordinator for Health Information Technology for the
+Office of the National Coordinator for Health IT within the
+Department of Health and Human Services. That is a big, long
+title. He has extensive experience with health information
+technology both in public service and the private sector, most
+recently serving as Clinical Professor of Emergency Medicine
+and Biomedical Informatics at the Ohio State University.
+Next, we will hear from Dr. Kate Goodrich who testified
+before the HELP Committee in 2017 on the implementation of
+health information technology provisions in the 21st Century
+Cures Act. Dr. Goodrich is the Director of the Center for
+Clinical Standards and Quality and the Chief Medical Officer
+for the Centers for Medicare and Medicaid Services. Dr.
+Goodrich has over 20 years of clinical and quality standards
+experience both as a practicing physician and in several roles
+with the Center for Clinical Standards and Quality.
+Dr. Rucker let us begin with you.
+STATEMENT OF DON RUCKER, M.D., NATIONAL COORDINATOR FOR HEALTH
+INFORMATION TECHNOLOGY, OFFICE OF THE NATIONAL COORDINATOR FOR
+HEALTH INFORMATION TECHNOLOGY, UNITED STATES DEPARTMENT OF
+HEALTH AND HUMAN SERVICES, WASHINGTON, DC
+Dr. Rucker. Thank you. Chairman Alexander, Ranking Member
+Murray, distinguished Members of the Committee, thank you for
+the opportunity to testify. As an ER physician and electronic
+health records software developer for the last 30 years, I am
+deeply appreciative to Congress for the 21st Century Cures Act
+and the work to improve interoperability and reduce provider
+burden.
+ONC's proposed Cures Act rule will help achieve Congress's
+vision for a patient's health information to be available to
+the patient and their clinicians whenever and wherever they
+need it. This rule can also unleash a wave of innovation that
+will make healthcare more efficient and affordable. The rule
+requires secure standards-based application programming
+interfaces that will allow patients to download their records
+to their phone and to do so at no cost. Moving patient charts
+to smart phone platforms will enable third-party app developers
+to build new business models of healthcare. Specifically, the
+proposed rule will require physician and hospital electronic
+record systems to allow patients to download their medical data
+to apps of the patient's choosing. App ecosystems have
+transformed many industries, including travel, entertainment,
+and shopping. An app ecosystem can do the same for healthcare.
+However, the promise of standards-based APIs can only be
+realized if providers and their business partners actually
+share the clinical data. The practice of information blocking
+not only undermines investments in the nation's health IT
+infrastructure but also frustrates efforts to use technology to
+improve care. The Cures Act directed ONC to identify activities
+that would not be treated as information blocking and the
+proposed rule outlines seven exceptions. At the same time, the
+Cures Act authorizes the HHS Office of the Inspector General to
+investigate information blocking allegations against healthcare
+providers, developers of certified health IT, health
+information exchanges, and health information networks.
+ONC's proposed rule makes it clear that data should move
+seamlessly in a private and secure manner without special
+effort on the part of the end-user. In addition, we have heard
+the concerns from stakeholders about security of APIs and
+secondary uses of health data. When it comes to security, this
+proposed rule requires the same API standards used by other
+industries which have to protect valuable assets such as
+banking and brokerage. Secondary use of data creates privacy
+challenges that extend beyond the healthcare industry. Today,
+deeply sensitive health facts can be inferred from online
+searches, credit card purchases, and social media postings.
+For example, location services can show which clinical a
+patient visited. While ONC's proposed rule empowers patients to
+take control of their data and their health, we are actively
+engaged with the Office of Civil Rights to inform patients
+about both their HIPAA rights and potential risks. Our proposed
+rule also recognizes the importance of price data. Today,
+payment data is retrospective and largely disconnected from
+clinical data. However, without price data, it is difficult for
+patients to either assess value or shop for care. Recent
+advances and standards may allow improved integration between
+clinical financial data streams.
+As defined in the Cures Act, ONC recently issued an updated
+draft of the Trusted Exchange Framework and Common Agreement,
+known as TEFCA, for public comment. TEFCA is designed to
+provide a single on-ramp to nationwide connectivity for health
+information exchanges and to include all providers. It includes
+a common set of principles that will facilitate trust and
+sharing between health information exchanges.
+Today, much of American healthcare remains complex and
+opaque. Congress's Cures Act and advances in computing allow us
+to revisit many assumptions about what medical care can be.
+ONC's proposed rule and TEFCA service major steps to make care
+more accessible, transparent, and affordable. We believe these
+policies place the Nation on the path to achieving the long-
+term benefits of interoperability.
+Mr. Chairman, Ranking Member, Members of the Committee,
+thank you for the opportunity to testify.
+[The prepared statement of Dr. Rucker follows:]
+prepared statement of don rucker
+Chairman Alexander, Ranking Member Murray, distinguished Members of
+the Committee, thank you for the opportunity to testify in support of
+the Department of Health and Human Services (HHS), Office of the
+National Coordinator for Health Information Technology's (ONC) efforts
+to implement provisions of title IV of the 21st Century Cures Act
+(Cures Act). I want to thank Congress and this Committee for your
+shared commitment to stimulate a modern and connected health care
+system. The bipartisan Cures Act accelerates our efforts to ensure that
+patients' records follow them when and where they need them.
+The Cures Act directs the HHS Secretary to adopt standards and
+policies that advance the seamless and secure flow of electronic health
+information (EHI) across the health system. On March 4, 2019, ONC
+issued a proposed rule to implement key provisions in title IV of the
+Cures Act. This proposed rule aims to drive the electronic access,
+exchange, and use of health information. It seeks to inject competition
+into the health care delivery system by addressing both technical
+barriers and business practices that impede the secure and appropriate
+sharing of data. A central purpose of the proposed rule is to
+facilitate patient access to their EHI on their smartphone, growing a
+nascent patient- and provider-facing app economy.
+I would like to begin by discussing the current health care and
+health information technology (health IT environments. In an
+extraordinary shift from a decade ago, most hospitals and providers now
+use electronic health records (EHR). \1\ However, information captured
+in these systems often remains inaccessible to patients and to their
+providers across different settings.
+---------------------------------------------------------------------------
+\1\
+Office of the National Coordinator for Health Information
+Technology (2018). Report to Congress: Annual Update on the Adoption of
+a Nationwide System for Electronic Use and Exchange of Health
+Information [online] Washington, DC. Available at: https://
+www.healthit.gov/sites/default/files/page/2018--12/2018--HITECH--
+report--to--Congress.pdf [Accessed 25 Apr. 2019.
+---------------------------------------------------------------------------
+Fragmented care can lead to hospital readmissions, medical errors,
+and poor health outcomes, especially among patients with multiple
+chronic conditions who rely on coordinated care to help manage their
+health. \2\, \3\, \4\ Today, only half of hospitals report having the
+necessary information electronically available from outside providers
+or sources at the point of care. Notably, hospitals with advanced
+interoperability capabilities are significantly more likely to have
+information available from outside sources compared with hospitals
+lacking those capabilities. \5\ A health system where information flows
+appropriately and securely to patients and their providers can improve
+care coordination, reduce adverse events, and lower costs. ONC designed
+this proposed rule to help stimulate a more connected health system
+that leverages health information to better serve patients.
+---------------------------------------------------------------------------
+\2\
+Moore, Carlton et al. ``Medical Errors Related To
+Discontinuity of Care From An Inpatient To An Outpatient Setting.''
+Journal Of General Internal Medicine, vol 18, no. 8, 2003, pp. 646-651.
+Springer Nature, doi:10.1046/j.1525-1497.2003.20722.x. Accessed 25 Apr
+2019.
+\3\
+Tsai TC., Orav EJ., & Jha AK. ``Care Fragmentation in the
+Postdischarge Period: Surgical Readmissions, Distance of Travel, and
+Postoperative Mortality.'' JAMA Surg. 2015 Jan;150(1):59-64. Accessed
+25 Apr 2019.
+\4\
+Robert Wood Johnson Foundation (U.S.) The Revolving Door: A
+Report on U.S. Hospital Readmissions. The Dartmouth Institute for
+Health Policy and Clinical Practice, 2013.
+\5\
+Pylypchuk Y., Johnson C., Henry J. & Ciricean D. (November
+2018). ``Variation in Interoperability among U.S. Non-Federal Acute
+Care Hospitals in 2017.'' ONC Data Brief, no.42. Office of the National
+Coordinator for Health Information Technology: Washington DC.
+---------------------------------------------------------------------------
+To develop this proposed rule, ONC coordinated extensively with
+relevant Federal agencies. We also met with more than 150 external
+stakeholders from across the health system to improve our understanding
+of the on-the-ground needs and barriers related to the flow of EHI.
+While the proposed rule covers many provisions within title IV of the
+Cures Act, today, I am going to highlight how the proposed rule
+addresses the Conditions of Certification and Information Blocking
+provisions.
+The conditions and maintenance of certification proposals include
+requirements for health IT developers under the ONC Health IT
+Certification Program and cover a range of business practices and
+behaviors that impede the access, exchange, and use of EHI. The first
+condition I will highlight focuses on the Cures Act requirement for
+health IT developers to publish application programming interfaces
+(APIs) that allow health information to be securely accessed,
+exchanged, and used ``without special effort.'' Requiring health IT
+developers to publish an API is not enough. Without common standards,
+third-party app developers need to learn and use different requirements
+and data base structures for each health IT system. This hampers
+competition by binding patients and app developers to particular
+clinicians or products.
+The proposed rule includes a suite of proposals that focus on
+certified health IT developers making available secure, standards-based
+APIs that facilitate patients' use of their smartphones (or other
+mobile devices) for accessing EHI at no cost. It also supports
+clinicians' ability to partner with third-party software developers
+offering unique and competitive services that support patient care.
+Specifically, ONC proposes to adopt a new standards-based API
+certification criterion that would require that a health IT product
+support ``read'' access to health information for both a single patient
+and for a group of patients. The proposed rule addresses the Cures Act
+phrase ``without special effort'' through a number of proposals that
+promote standardized, transparent, and pro-competitive market
+practices. Once finalized, health care providers would have two years
+from the final rule's publication date to offer patients' access to
+their EHI through secure, standards-based APIs.
+While developing the proposed rule, stakeholders shared two
+overarching security concerns. The first concern has to do with the
+overall security of APIs. The second concern touches upon the secondary
+use of data. When it comes to security, it is important to note that
+the health IT developers and health care providers using certified
+health IT would deploy APIs with the same security measures used by
+other industries, such as banking (through the OAuth 2 standard). In
+fact, health care providers already offer the same security measures to
+protect patient portals. Third-party health care apps who wish to
+connect to a health IT developer's certified API would need to
+establish secure connections, prompt patients to authenticate
+themselves to their health care provider, and obtain a patient's
+approval on the scope of data that the app may access.
+How data is secured and used once in third-party apps illustrates a
+pressing issue that is currently part of a national discussion a
+discussion that extends beyond health care and into data privacy,
+stewardship, and regulatory interventions. How APIs secure their
+connections and follow patients' individual preferences in health care
+is no exception. Many third-party apps are not required to implement
+the privacy protections and patient rights of the Health Insurance
+Portability and Accountability Act (HIPAA) Privacy and Security Rules,
+but they may be subject to the Federal Trade Commission (FTC)
+jurisdiction, including the Health Breach Notification Rule.
+The HHS Office for Civil Rights (OCR) has regulatory authority to
+ensure the privacy and security of data applies only to HIPAA covered
+entities (e.g., many health care providers, health plans) and their
+business associates (e.g., EHR developers). In April 2019, OCR released
+new frequently asked questions (FAQs) about the HIPAA right of access
+related to patient-designated apps and APIs. The FAQs clarify that once
+protected health information has been shared to a third-party app, as
+directed by the individual, the HIPAA-covered entity (or its business
+associate that fulfills the access request on behalf of the covered
+entity) will not be liable under HIPAA for subsequent use or disclosure
+of that particular electronic protected health information. This is
+provided that, with respect to the app, the app developer is not itself
+a business associate of a covered entity, directly or through another
+business associate.
+Across all business sectors, individuals often have little say with
+respect to the secondary use and disclosure of their personal data.
+However, the misuse of health information can have lifelong
+consequences for the patient. Individuals should balance their
+selection and use of a health app with the potential risk of having
+negative implications. These risks are similar to when they enter
+sensitive health data into an online search, contribute their DNA to
+learn about their ancestral heritage, share their credit card
+information when making an online purchase, or consent to location
+services on their phones. It is important to note that deeply sensitive
+health facts about patients can be inferred from consumer data
+``exhaust'' such as accelerometers, location services, and a wide
+variety of app and social media usage patterns.
+Individuals should have the ability to decide whether the potential
+benefit of an app to manage their health care information and medical
+conditions outweighs potential risks. This should be the patient's
+choice. Interestingly, some entities advocating to protect the patient
+from inappropriate secondary uses and disclosures of the patient's data
+have business models at risk from patients accessing their EHI. ONC's
+proposed rule empowers individuals to electronically access and share
+their EHI, enabling an individual's HIPAA right of access, and
+affording the patient agency over their own health information that is
+often absent in health care.
+Today's fragmented health system forces individuals or caregivers
+to navigate a byzantine system to manage their care. Emerging
+technologies and the use of mobile apps will provide individuals with
+access to their own EHI that can follow them across providers and
+health plans, and advance an app marketplace that addresses unique
+patient needs. \6\ For instance, an app may empower patients with
+multiple chronic conditions to consolidate and share their care journey
+with each clinician they visit, potentially preventing adverse and
+life-threatening events due to missing clinical information. A robust
+health app ecosystem can also lead to the development of disease-
+specific apps that allow patients to choose whether to share their
+health information with researchers working on clinical trials to test
+a drug or treatment's efficacy like those in the National Institutes of
+Health's All of Us Research Program. Apps could also help address
+barriers related to access by presenting complex information in easy to
+understand ways.
+---------------------------------------------------------------------------
+\6\
+Mandl, Kenneth D., Mandel Joshua C., & Kohane Isaac S.
+``Driving Innovation in Health Systems through an Apps-Based
+Information Economy.'' Cell Systems. 2015 Jul;1(1):8-13. Accessed 25
+Apr 2019.
+---------------------------------------------------------------------------
+We have seen promising signs of this occurring in the private
+sector. Last year, Apple introduced their Health Records on the iPhone
+using the same modern computing standards included in our proposed
+rule. A little over a year later, over 200 health institutions use the
+Health app to offer their patients access to their health records. Many
+other entrepreneurs are developing novel health apps as well, and our
+proposed rule is designed to lower the barriers to their entry into the
+health app industry. Later, I will discuss how we can envision this
+same approach taking shape when it comes to price transparency and
+providing patients with the ability to shop for care based on the price
+and quality of care.
+In addition to addressing the flow of EHI, this proposed rule seeks
+to enhance the safety of health IT. In 1999, when most clinicians were
+still using paper records, the former Institute of Medicine (now the
+National Academy of Medicine) published a seminal report, to Err is
+Human, where they estimated that between 44,000 to 98,000 people die in
+hospitals each year due to preventable medical errors. \7\ There is
+ample evidence that well-designed health IT systems can make care
+safer. \8\ However, due to the innate complexity of medicine and
+radical changes to established clinical workflows, health IT has
+introduced new safety issues and also exacerbated others.
+---------------------------------------------------------------------------
+\7\
+Institute of Medicine. 2000. To Err Is Human: Building a Safer
+Health System. Washington, DC: The National Academies Press. https://
+doi.org/10.17226/9728.
+\8\
+Office of the National Coordinator for Health Information
+Technology. ``Effects of Meaningful Use Functionalities On Health Care
+Quality, Safety, And Efficiency.'' Dashboard.Healthit.Gov, 2014,
+https://dashboard.healthit.gov/quickstats/pages/FIG-Health-IT-
+Literature-Review-Infographic.php.
+---------------------------------------------------------------------------
+One resounding complaint we heard from the patient safety community
+is that health IT developers use gag clauses to inhibit the flow of
+essential information that could improve safety across systems. A 2012
+National Academy of Medicine report found that such clauses discourage
+users from sharing information about patient safety risks,
+significantly limiting the ability of users to understand how health IT
+products impact patient safety. The report stressed the need for health
+IT developers to enable the exchange of information regarding user
+experiences, including the sharing of screenshots. \9\ As part of ONC's
+patient safety efforts that are paramount to its mission, programs, and
+policies, this proposed rule would prevent certified health IT
+developers from prohibiting or restricting communications regarding
+usability, interoperability, security, user experiences, business
+practices, and technology use. We also included provisions to respect
+health IT developers' intellectual property in the software.
+---------------------------------------------------------------------------
+\9\
+Institute of Medicine (U. S.). Health IT and Patient Safety:
+Building Safer Systems For Better Care (Health Information Technology
+And Patient Safety). National Academies Press, 2012.
+---------------------------------------------------------------------------
+The promise of standards-based API technology can only be
+successful if current business practices that enable information
+blocking to occur are dismantled. For that reason, I thank Congress for
+establishing consequences for information blocking in the Cures Act.
+The information blocking provisions were enacted in response to
+concerns that some individuals and entities engage in practices that
+unreasonably limit the availability and use of EHI for authorized and
+permitted purposes. These practices undermine public and private sector
+investments in the Nation's health IT infrastructure. They also
+frustrate efforts to use modern technologies to improve health care
+quality and efficiency, accelerate research and innovation, and provide
+greater value and choice to health care consumers.
+The information blocking provisions apply to health care providers,
+developers of certified health IT, health information exchanges, and
+health information networks. Under the Cures Act, the HHS Office of the
+Inspector General (OIG) has authority to investigate information
+blocking claims against these entities. Health care providers can be
+subject to disincentives determined by the HHS Secretary if the OIG
+finds that the provider has knowingly and unreasonably engaged in
+information blocking. Developers of certified health IT, health
+information exchanges, and health information networks can be subject
+to civil monetary penalties determined by OIG of up to $1 million per
+violation.
+The proposed rule establishes seven exceptions that identify
+certain reasonable and necessary activities that do not constitute
+information blocking. To develop the proposed exceptions, we were
+guided by three overarching policy considerations. First, the
+exceptions would be limited to certain activities that clearly advance
+the aims of the information blocking provision. Second, each exception
+is intended to address a significant risk that regulated actors (i.e.,
+health care providers, health IT developers of certified health IT,
+health information networks, and health information exchanges) would
+not engage in certain reasonable and necessary activities because of
+potential uncertainty regarding whether those activities would be
+considered information blocking. Third, each exception would be
+tailored, through appropriate conditions, so that it is limited to
+those reasonable and necessary activities that it is designed to
+exempt. These exceptions also would be subject to strict conditions to
+ensure that they do not extend protections to practices that should be
+considered information blocking.
+An action would not be treated as information blocking if it
+satisfies one or more of these seven exceptions. The first three
+exceptions extend to certain activities that are reasonable and
+necessary to prevent harm to patients and others; promote the privacy
+of EHI; and promote the security of EHI. We believe that without these
+exceptions, it would erode trust and undermine efforts to provide
+access and facilitate the exchange and use of EHI for important
+purposes.
+The next three exceptions promote competition and innovation.
+First, we propose to permit the recovery of certain types of reasonable
+costs incurred to provide technology and services that enable access to
+EHI and facilitate the exchange and use of that information. For
+example, this exception enables the recovery of costs reasonably
+incurred to develop technologies and provide services that enhance
+interoperability, while not protecting rent-seeking, opportunistic
+fees, and exclusionary practices that interfere with access, exchange,
+and use of EHI. Second, the proposed rule would permit an entity to
+decline infeasible requests to exchange EHI but would still require the
+actor to find a reasonable alternative for providing the EHI. Third, we
+propose an exception that would permit the licensing of
+interoperability elements on reasonable and non-discriminatory terms.
+Contractual and intellectual property rights are frequently used to
+extract rents for access to EHI or to prevent competition from
+developers of interoperable technologies and services. Such practices
+frustrate interoperability and stifle competition and innovation. In
+many scenarios, however, it is generally appropriate to license
+intellectual property on reasonable and non-discriminatory terms to
+support access, exchange, and use of EHI. This exception would further
+the goals of the information blocking provision by allowing for the
+protection of the value of their innovations and earn returns on the
+investments made to develop, maintain, and update those innovations.
+For health IT to perform properly and efficiently, it must be
+maintained, and in some instances improved. This may require that
+health IT be taken offline temporarily. The final exception would allow
+EHI to be temporarily unavailable during health IT implementation
+upgrades, repairs, and other changes.
+ONC's proposed rule primarily focuses on clinical data. However,
+advances in computer science and the maturity of data standards are
+accelerating the convergence of medical data with billing and price
+data. As such, the rule proposes to include such information as part of
+a patient's EHI that should be available for access, exchange, and use.
+The idiosyncratic and complex nature of pricing within the health care
+system has decreased efficiency and negatively impacted patients,
+clinicians, health systems, plans, plan sponsors, and other
+stakeholders.
+In our current health system, there is an asymmetry of information
+for patients. They have few ways if any to anticipate or plan for
+costs, lower or compare costs, and, importantly, measure their quality
+of care or coverage relative to the price they pay. Transparency in the
+price and cost of health care could help address some of those concerns
+by empowering patients with information they need to make informed
+decisions. Further, the wide availability of price information for
+health care services could engender competition and accountability
+based on the quality and value of those services in health care.
+Increased consumer demand, aligned incentives, more accessible and
+digestible information, and the evolution of price transparency tools
+are critical components to move from a delivery system that rewards
+volume of services to one that recognizes and rewards the value of
+health care services.
+Unfortunately, the complex and decentralized nature of how payment
+information for health care services is currently created, structured,
+and stored presents many challenges to achieving price transparency.
+This entire information chain is geared to retrospective payments
+rather than prices. The public has little idea what the CPT billing
+codes mean, or how they might be combined if at all to determine a
+prospective price. As noted in my discussion of APIs, we can see a
+future where, for example, platforms use raw data to provide consumers
+with digestible price information through their preferred medium such
+as an online tool or smartphone app. As such, the proposed rule seeks
+public input on both how we can scope and capture price information as
+part of EHI as well as what steps HHS can take, using all its available
+resources, to provide price transparency.
+I also want to note that, as part of ONC's implementation of
+congressional direction articulated through the Cures Act, we recently
+issued an updated draft of the Trusted Exchange Framework and Common
+Agreement (TEFCA) for public comment, which includes a common set of
+principles that facilitate trust between health information networks.
+The TEFCA is designed to provide a single ``on-ramp'' to nationwide
+connectivity and advance a landscape where information securely follows
+the patient where and when it is needed. We also issued a funding
+opportunity announcement for the selection of a private sector non-
+profit organization that will serve as the Recognized Coordinating
+Entity responsible for developing, updating, implementing, and
+maintaining the Common Agreement with ONC. This Common Agreement will
+create the baseline technical and legal requirements for networks to
+share EHI across the Nation. Nationwide interoperability is not a
+simple undertaking, and something as expansive as a final TEFCA
+requires thoughtful consideration of the issues and challenges. ONC's
+intention with releasing the draft for a second round of public comment
+is to ensure we get it right.
+I also wanted to note that a significant unmet need in the health
+care system is for patients with behavioral health conditions. These
+patients may transition between emergency rooms, primary care, mental
+and behavioral health specialists, shelters, group homes, and various
+treatment centers. When these patients present at a new setting, a
+provider may know where they transferred from, but lack the necessary
+insight about their care journey. ONC previously funded various
+programs to accelerate health information exchange at the state,
+regional, and local level. These community information exchanges have
+demonstrated reductions in care utilization, such as through reduced
+duplicate testing and imaging for patients. 1A\10\, \11\ Community
+information exchanges are positioned to connect patients with clinical
+services and social supports. ONC remains committed to advancing
+community information exchange to support care coordination and improve
+health, especially for patients with behavioral health conditions.
+---------------------------------------------------------------------------
+\10\
+Ayer, Turgay et al. ``The Impact of Health Information
+Exchanges on Emergency Department Length Of Stay.'' Production and
+Operations Management, vol 28, no. 3, 2018, pp. 740-758. Wiley,
+doi:10.1111/poms.12953. Accessed 25 Apr 2019.
+\11\
+Lammers, Eric J. et al. ``Does Health Information Exchange
+Reduce Redundant Imaging? Evidence from Emergency Departments.''
+Medical Care, vol 52, no. 3, 2014, pp. 227-234. Ovid Technologies
+(Wolters Kluwer Health), doi:10.1097/mlr.0000000000000067. Accessed 25
+Apr 2019.
+---------------------------------------------------------------------------
+In addition, the provisions in our proposed rule to support the use
+of secure APIs and to support the access, exchange, and use of
+electronic health information can also offer promising strategies to
+combat opioid use disorder (OUD). Data such as opioid prescription drug
+data, prior OUD diagnosis and treatment data, and community health
+information is essential for providers to be able to prevent and treat
+OUD. This data continues to be siloed across systems. This makes access
+to this information and to related decision making tools burdensome for
+providers. We look forward to continuing to advance the adoption of
+common industry standards that could help to address opioid use
+disorder prevention and treatment while addressing the patients' need
+for privacy.
+In summary, much of today's American health care delivery system
+remains complex and opaque to providers and patients. Congress's 21st
+Century Cures Act and advances in modern computing allow us to revisit
+many of the assumptions about what delivery of medical care could and
+should be. ONC's proposed rule and advancements on the Trusted Exchange
+Framework and Common Agreement serve as major steps to make health care
+more transparent, accountable, and patient and provider accessible. We
+believe these policies firmly place the Nation on the path to achieving
+the long-term benefits of interoperability of electronic health
+information connecting for the U.S. health system.
+We will continue to keep Congress informed of milestones as they
+occur. Mr. Chairman, Ranking Member, and Members of the Committee,
+thank you for the opportunity to testify. I look forward to responding
+to any questions you may have.
+______
+[summary statement of don rucker]
+The 21st Century Cures Act directs the HHS Secretary to adopt
+standards and policies that advance the seamless and secure flow of
+electronic health information (EHI) across the health system. On March
+4, 2019, ONC issued a proposed rule to implement key provisions in
+Title IV of the Cures Act. This proposed rule aims to drive the
+electronic access, exchange, and use of health information. It seeks to
+inject competition into the health care delivery system by addressing
+both technical barriers and business practices that impede the secure
+and appropriate sharing of data.
+A central purpose of the proposed rule is to facilitate patient
+access to their EHI on their smartphone, growing a burgeoning patient-
+and provider-facing app economy. The proposed rule includes proposals
+that focus on certified health IT developers making available secure,
+standards-based APIs that facilitate patients' use of their smartphones
+(or other mobile devices) for accessing EHI at no cost.
+The promise of standards-based API technology can only be
+successful if current business practices that enable information
+blocking are dismantled. The Cures Act's information blocking
+provisions were enacted in response to concerns that some individuals
+and entities engage in practices that unreasonably limit the
+availability and use of EHI for authorized and permitted purposes.
+These practices undermine public and private sector investments in the
+Nation's health IT infrastructure. The proposed rule establishes seven
+exceptions that identify certain reasonable and necessary activities
+that do not constitute information blocking.
+ONC's proposed rule primarily focuses on clinical data. However,
+advances in computer science and maturing data standards are
+accelerating the convergence of medical data with billing and price
+data. As such, the rule proposes to include such information as part of
+a patient's EHI that should be available for access, exchange, and use.
+ONC also recently issued an updated draft of the Trusted Exchange
+Framework and Common Agreement (TEFCA) for public comment, which
+includes a common set of principles that facilitate trust between
+health information networks. The TEFCA is designed to provide a single
+``on-ramp'' to nationwide connectivity and advance a landscape where
+information securely follows the patient. We also issued a funding
+opportunity announcement for the selection of a Recognized Coordinating
+Entity responsible for developing, updating, implementing, and
+maintaining the Common Agreement with ONC.
+In summary, much of today's American health care delivery system
+remains complex and opaque to providers and patients. The Cures Act and
+advances in modern computing allow us to revisit many of the
+assumptions about what delivery of medical care could and should be.
+ONC's proposed rule and advancements on the TEFCA serve as major steps
+to make health care more transparent, accountable, and accessible for
+both patients and providers. We believe these policies firmly place the
+Nation on the path to achieving the long-term benefits of
+interoperability of electronic health information connecting for the
+U.S. health system.
+______
+The Chairman. Thank you Dr. Rucker, Dr. Goodrich, welcome.
+STATEMENT OF KATE GOODRICH, M.D., DIRECTOR AND CENTER FOR
+MEDICARE AND MEDICAID SERVICES CHIEF MEDICAL OFFICER, CENTER
+FOR CLINICAL STANDARDS AND QUALITY, CENTER FOR MEDICARE AND
+MEDICAID SERVICES, UNITED STATES DEPARTMENT OF HEALTH AND HUMAN
+SERVICES, WASHINGTON, DC
+Dr. Goodrich. Thank you. Chairman Alexander, Ranking Member
+Murray, and Members of the Committee, thank you for the
+invitation to testify today on behalf of the Centers for
+Medicare and Medicaid Services. I appreciate this opportunity
+to discuss our efforts to foster innovation that promotes
+patient access to and use of their health information.
+At CMS we are committed to advancing interoperability and
+improving access to health information for patients in the
+healthcare system. As a practicing physician, I know how
+important it is to be fully informed of a patient's medical
+history before making a diagnosis, or proposing a treatment
+plan, or prescribing a medication. And as a patient, I value my
+right to access my own health information and to use it to
+better manage my care. A core policy principle underlying our
+proposals is that every American should be able, without
+special effort or advanced technical skills, to see, obtain,
+and use all electronically available information that is
+relevant to their health, care, and choices of plans,
+providers, and specific treatment options.
+While many consumers today can often access their own
+health information through patient portals and proprietary
+applications made available by various providers and health
+plans, they typically must go through distinct processes,
+separate processes, to obtain access to each system and often
+need to manually aggregate information that is delivered in
+various non-standardized formats. CMS believes that when a
+patient receives care from a new provider, a complete record of
+their health information should be readily available to that
+provider regardless of where their care may have been
+previously provided or by whom. Similarly, when an enrollee
+changes health plans or ages into Medicare, the enrollee should
+be able to have their claim's history and encounter data follow
+them so that information is not lost.
+Last year, the administration launched the My Healthy Data
+Initiative, a Government wide initiative spearheaded by the
+White House Office of American Innovation with participation
+from CMS and other Federal agencies. A key goal of this
+initiative is to empower patients by giving them the ability to
+move from health plan to health plan and from provider to
+provider while having both their clinical and administrative
+information follow them. In support of My Healthy Data, CMS
+launched Blue Button 2.0, our first developer-friendly,
+standards-based application programming interface that allows
+Medicare fee-for-service beneficiaries to access and share
+their healthcare claims data with applications and services
+that help them manage their health, as well as with their
+doctors and their caregivers. Through Blue Button 2.0, the
+nearly 40 million beneficiaries enrolled in traditional
+Medicare now have the ability to access their claims data using
+third-party applications.
+On March 4th, inspired by the vision set out by Congress in
+the 21st Century Cures Act, CMS issued a proposed rule that
+would, for the first time, require health plans doing business
+in Medicare Advantage, Medicaid, and through the Federal
+exchanges to follow our lead and share health claims data and
+other important information electronically with their patients.
+We announced our proposal concurrently with the office of the
+National Coordinator who's proposed rule updates standards for
+certified electronic health records.
+As we move forward through the rulemaking process, our
+agencies will continue to collaborate to make sure our policies
+work together in order to drive interoperability and improve
+care coordination for patients. Our efforts are designed to
+help patients access their health data through common
+technologies and without special effort. And while patients had
+a right to access their health care data and use it in any way
+they deem fit, we also feel a responsibility to protect the
+privacy and security of this sensitive information. That is why
+our proposed rule includes a requirement for plans to educate
+patients about the risks that they should consider when sharing
+their health data with third-party application developers. We
+also expect developers to maintain strong privacy and security
+standards as they develop applications for patients.
+Across the agency, CMS relies heavily on stakeholder
+feedback to help us improve our programs. We extended a public
+comment period on our interoperability proposed rule by 30
+days, and we encourage plans, providers, Members of Congress,
+and other interested parties to provide us comments for us to
+consider as we move forward through the decision making
+process. The deadline is June 3d, and we look forward to
+hearing ideas about how we can improve upon our proposals and
+implementation strategies.
+Thank you again for the invitation to be here and I look
+forward to answering your questions.
+[The prepared statement of Dr. Goodrich follows:]
+prepared statement of kate goodrich
+Chairman Alexander, Ranking Member Murray, and Members of the
+Committee, thank you for the opportunity to discuss Centers for
+Medicare & Medicaid Services' (CMS's) efforts to foster innovation that
+promotes patient access to and use of their health information. We are
+committed to advancing interoperability and improving access to health
+information for patients in the U.S. health care system. As evidenced
+by our ongoing work, as well as our proposed rule now out for public
+comment, CMS is taking an active approach to move the health care
+market toward interoperability and the secure and timely exchange of
+health information by proposing policies for the Medicare and Medicaid
+programs, the Children's Health Insurance Program (CHIP), and issuers
+of health plans sold on the Federal Exchange.
+Last year, the administration launched the MyHealthEData
+Initiative, which aims to break down the barriers that prevent patients
+from gaining electronic access to their health information from the
+device or application of their choice, empowering patients and taking a
+critical step toward interoperability and patient data exchange. As
+part of this initiative, we are taking a patient-centered approach to
+health information access and moving to a system in which empowered
+patients have immediate access to their health information
+electronically. Patients will have the ability to securely share their
+health information, creating a single record that will follow them as
+they move throughout the health care system, giving them the data they
+need to make the best decisions for themselves and their families.
+Medicare Blue Button 2.0
+In support of this goal, and in support of the MyHealthEData
+initiative, last year, the CMS announced the launch of Blue Button 2.0,
+our first secure, standards-based Application Program Interface (API)
+that allows Medicare beneficiaries to access and share their health
+care claims data with applications and services that help them manage
+their health, in addition to sharing this information with their
+doctors and caregivers. API technology allows software from different
+developers to connect with one another and exchange electronic health
+information in electronic formats that can be more easily compiled and
+shared.
+Through Blue Button 2.0, Medicare beneficiaries can select third
+party applications to connect to their data to compile and use their
+electronic health information. There are now 20 Blue Button apps
+available, which are posted on Medicare.gov, and developers are
+currently working on many more. Among other uses, these applications
+can help beneficiaries find plans, organize and share medical
+information and claims, or make appointments. We are also excited about
+the promises of research that can be enabled through beneficiaries
+choosing to share their data to help in the development of the next
+generation of cures and innovative treatments.
+Ensuring the privacy and security of beneficiary data has been a
+priority for CMS since the beginning of this effort. We have taken a
+number of steps to protect beneficiary data, including regular systems
+security testing. Blue Button applications use existing CMS standards
+for beneficiary authorization, and they must use clear and plain
+language to alert beneficiaries to the sensitivity of the data they are
+sharing. Additionally, CMS offers a user-friendly dashboard on
+MyMedicare that allows beneficiaries to turn off data access for any
+application at any time.
+Interoperability and Patient Access Proposed Rule
+Continuing to build on the MyHealthEData initiative, on March 4,
+2019, CMS issued a proposed rule 1A\1\ on Interoperability and Patient
+Access that is intended to move the health care market toward
+interoperability. This proposed rule was inspired by, and demonstrates
+our commitment to, the vision set out in the 21st Century Cures Act and
+Executive Order 13813 to improve access to and the quality of
+information that Americans need to make informed healthcare decisions,
+including data about health care prices and outcomes while attempting
+to minimize the burden associated with these changes to plans, health
+care providers and payers.
+---------------------------------------------------------------------------
+\1\
+Available at: https://www.Federalregister.gov/documents/2019/
+03/04/2019-02200/medicare-and-medicaid-programs-patient-protection-and-
+affordable-care-act-interoperability-and
+---------------------------------------------------------------------------
+The proposed rule would enable patients to access their health
+information electronically by requiring the payers subject to this
+proposed rule to share health claims and other information
+electronically with their enrollees by 2020, much like CMS is already
+doing for Medicare beneficiaries through Blue Button 2.0. This empowers
+patients to take charge of and better manage their health care.
+The rule also facilitates data exchange for health care providers
+and suppliers, including doctors and hospitals, to have access to
+health information about their patients, regardless of where the
+patient may have previously received care. Our proposals aim to connect
+providers through data exchange and provider directories while
+preventing them from engaging in the act of information blocking, or
+inappropriately restricting the flow of information to other health
+care providers and payers. These proposals support interoperable
+practices that may reduce the burden on health care providers.
+CMS announced the rule concurrently with another proposed rule,
+issued by the Department of Health and Human Services' Office of the
+National Coordinator for Health Information Technology (ONC). ONC's
+proposed rule updates the standards for certified EHR by identifying
+certain activities that ONC has determined are reasonable and necessary
+and making those activities exceptions to the original statutory
+definition of information blocking. Inspired by the 21st Century Cures
+Act, and in collaboration with ONC, the proposals in the CMS
+Interoperability and Patient Access proposed rule drive
+interoperability to promote competition and improve patient care.
+Patient Access Through Application Programming Interfaces (APIs)
+A core policy principle underlying our proposals is that every
+American should be able, without special effort or advanced technical
+skills, to see, obtain, and use all electronically available
+information that is relevant to their health, care, and choices--of
+plans, providers, and specific treatment options. While many consumers
+today can often access their own health information through patient
+portals and proprietary applications made available by various
+providers and health plans, they typically must go through separate
+processes to obtain access to each system, and often need to manually
+aggregate information that is delivered in various, non-standardized
+formats.
+We are proposing to require that certain kinds of plans--Medicare
+Advantage plans, Medicaid fee-for-service and managed care plans, CHIP
+fee-for-service and managed care plans, and Qualified Health Plans on
+the Federal Exchange--maintain secure APIs that enrollees can use to
+access certain categories of their health data. This proposal would
+enable enrollees to use the application of their choice to access and
+use their own electronic health information. We hope that other payers
+might voluntarily offer this type of data accessibility so that even
+more patients across the American health care system can be empowered
+through easy access to their electronic health data.
+Health Information Exchange and Care Coordination Across Payers
+As patients move throughout the healthcare system, in particular
+from health plan to health plan, they should be able to maintain access
+to their health information. Our proposed rule would require health
+plans to support patients in coordinating their own care through plan-
+to-plan health information exchange, electronic exchange of data as
+patients move between plans.
+This proposed policy also leverages interoperability to facilitate
+care coordination among plans to reduce unnecessary care, as well as
+ensure that health care providers are able to spend their time
+providing care rather than performing unnecessary administrative tasks.
+For instance, effective information exchange between plans could
+improve care coordination by reducing the need for health care
+providers to write unneeded letters of medical necessity; by reducing
+instances of inappropriate step therapy; and by reducing repeated
+utilization reviews, risk screenings or assessments.
+Care Coordination Through Trusted Exchange Networks
+We propose that Medicare Advantage organizations, Medicaid managed
+care plans, CHIP managed care entities, and issuers on the Federal
+Exchange be able to participate in a trusted exchange network, which
+would allow them to join any health information network they choose and
+be able to participate in nationwide exchange of data. Trusted exchange
+networks allow for broader interoperability beyond one health system or
+point-to-point connection by facilitating secure exchange of electronic
+health information without special effort on the part of the user.
+API Access to Published Provider Directory Data
+We believe access to provider directories and network information
+is critical for helping patients get the care they need. Health plan
+provider directories help patients find in-network providers and allow
+healthcare professionals to locate other providers for purposes of
+referrals, transitions of care, and care coordination. To ensure that
+patients and providers have easy access to provider directory
+information, we propose to require Medicare Advantage organizations,
+state Medicaid and CHIP programs, Medicaid managed care plans, and CHIP
+managed care entities to make standardized information about their
+provider networks available to enrollees and prospective enrollees
+through API technology, much like the Qualified Health Plans on the
+Federal Exchange.
+Provider Digital Contact Information
+Provider contact information is critical to interoperability, care
+coordination and patient care. Last summer, to implement the
+requirements in the 21st Century Cures Act that required the Secretary
+to create a provider digital contact information index, CMS updated our
+online National Plan and Provider Enumeration System (NPPES) that
+maintains the National Provider Identifier (NPI) records for providers
+to collect this information and to allow providers to include one or
+more pieces of digital contact information that can be used to
+facilitate secure sharing of health information. Digital contact
+information, or electronic addresses for providers, allow them to
+exchange data faster and more efficiently while improving
+interoperability. Ultimately, we believe this technology could
+eliminate the need for fax machines in the clinical setting, but to
+make this technology effective, we need providers to make the most of
+it. To promote increased use of this provider digital contact
+information index, CMS is proposing to publicly report the names and
+National Provider Identifiers of those providers who have not added
+digital contact information to their entries in the NPPES system
+beginning in the second half of 2020.
+Public Reporting of Information Blocking
+The Medicare Access and CHIP Reauthorization Act of 2015 (MACRA)
+included a requirement that eligible clinicians and hospitals
+demonstrate that they have not knowingly and willfully taken action to
+limit or restrict the compatibility or interoperability of certified
+EHR technology. \2\ CMS implemented these policies through attestation
+requirements in our Promoting Interoperability Programs. \3\ We believe
+it would benefit the public, which includes patients and caregivers, to
+know if individual clinicians, hospitals, and critical access hospitals
+have submitted a ``no'' response to any of the three attestation
+statements regarding the prevention of information blocking. In our
+proposed rule, we propose including an indicator on the Physician
+Compare website for eligible clinicians participating in the Quality
+Payment Program, and to post information on a CMS website available to
+the public for eligible hospitals and critical access hospitals
+participating in the Medicare Promoting Interoperability Program, who
+submitted a ``no'' response to any of the three attestation statements
+regarding the prevention of information blocking.
+---------------------------------------------------------------------------
+\2\
+Section 106(b)(2)(A) of MACRA amended section
+1848(o)(2)(A)(ii) of the Act to require that an eligible professional
+must demonstrate that he or she has not knowingly and willfully taken
+action (such as to disable functionality) to limit or restrict the
+compatibility or interoperability of certified EHR technology, as part
+of being a meaningful EHR user. Section 106(b)(2)(B) of MACRA made
+corresponding amendments to section 1886(n)(3)(A)(ii) of the Act for
+eligible hospitals and, by extension, under section 1814(l)(3) of the
+Act for CAHs. Sections 106(b)(2)(A) and (B) of MACRA provide that the
+manner of this demonstration is to be through a process specified by
+the Secretary, such as the use of an attestation.
+\3\
+To review our discussion of these requirements, see the CY
+2017 Quality Payment Program final rule (81 FR 77028 through 77035).
+---------------------------------------------------------------------------
+Revisions to the Conditions of Participation for Hospitals and Critical
+Access Hospitals
+We have helped to facilitate data sharing and notification
+capabilities through our policies on provider directory information,
+and we further promote this by proposing to require that hospitals send
+electronic patient event notifications to other providers treating a
+patient when the patient is admitted, discharged or transferred from
+the hospital. Clinical event notifications are widely recognized as an
+effective tool for improving care coordination across settings,
+especially for patients at admission, discharge, and transfer.
+We are proposing to revise the conditions of participation for
+hospitals and critical access hospitals to require that these entities
+send patient event notifications to other care providers or facilities
+that have an established care relationship with their patient. While
+deploying these notifications is low-cost and easy to achieve with any
+electronic health record system, many hospitals have not developed
+capabilities to send these notifications to other providers and
+facilities to whom they transition patients. We propose to limit this
+requirement to only those Medicare-and Medicaid-participating hospitals
+and CAHs that possess EHR systems with the technical capacity to
+generate information for electronic patient event notifications. This
+limitation will avoid burdening hospitals wishing to participate in the
+Medicare and Medicaid programs while still supporting efficient
+transitions of patient care whenever feasible.
+Request for Information: Advancing Interoperability Across the Care
+Continuum
+Transitions across care settings have been characterized as common,
+complicated, costly, and potentially hazardous for individuals with
+complex health needs. Yet despite the need for functionality to support
+better care coordination, discharge planning, and timely transfer of
+essential health information, interoperability by certain health care
+providers such as long-term and post-acute care, behavioral health, and
+home- and community-based services continues to lag behind acute care
+providers. We are soliciting comment on several potential strategies
+for advancing interoperability across care settings to inform future
+rulemaking activity in this area. We are seeking solutions to more
+broadly incentivize the adoption of interoperable health IT systems and
+use of interoperable data across settings, such as long-term and post-
+acute care, behavioral health, and settings that serve individuals
+receiving home- and community-based services or who are dually eligible
+for Medicare and Medicaid.
+Advancing Interoperability in Innovative Models
+We believe that the Center for Medicare and Medicaid Innovation
+(``Innovation Center'') models offer a unique opportunity to engage
+with healthcare providers in innovative ways and test new concepts and
+are an important lever to advance interoperability. CMS plans to
+promote interoperability across the healthcare spectrum through model
+testing that focuses on using emerging standards, models leveraging
+non-traditional data, and technology-enabled patient engagement
+platforms. The Innovation Center is seeking public comment on promoting
+interoperability among model participants and other healthcare
+providers as part of the design and testing of innovative payment and
+service delivery models.
+Request for Information: Policies To Improve Patient Matching
+Finally, because patient identification is so critical to patient
+safety and information exchange, CMS is investigating ways to
+facilitate private sector work on a practical and scalable patient
+matching strategy. Together, CMS and ONC are requesting feedback on how
+we can leverage our respective authorities to improve patient
+identification, and thus patient safety, to encourage better
+coordination of care across different healthcare settings while
+advancing interoperability. We are also seeking comment on how we may
+leverage our program authority to provide support to those working to
+improve patient matching.
+Promoting Interoperability
+Last year CMS announced an overhaul of the Medicare and Medicaid
+Electronic Health Record Incentive Programs (often known as the
+``meaningful use programs'') for hospitals after the Bipartisan Budget
+Act of 2018 increased our flexibility in implementing these programs.
+\4\ We renamed these programs the ``Promoting Interoperability
+Programs'' to promote interoperability, help to maintain a focus on
+patients and reduce burden. With these changes, hospitals and critical
+access hospitals are subject to a new performance-based scoring
+methodology with fewer measures beginning in 2019, which moves away
+from the threshold-based methodology that was in place. \5\ For
+clinicians, we changed the Merit-Based Incentive Payment System
+``Advancing Care Information'' category to the ``Promoting
+Interoperability'' category by generally aligning with the revised
+requirements for hospitals by moving clinicians to a single, smaller
+set of objectives and measures. \6\ We think these changes provide a
+less burdensome structure, allowing eligible hospitals, critical access
+hospitals, and clinicians to put their focus back on patients while
+still moving forward toward interoperability.
+---------------------------------------------------------------------------
+\4\
+Bipartisan Budget Act of 2018 (Pub. L. 115-123), Section
+50413, Reducing the Volume of Future EHR-Related Significant Hardship
+Requests, and section 51003, Technical Amendments to Public Law 114-10.
+\5\
+83 FR 41150.
+\6\
+83 FR 59785.
+---------------------------------------------------------------------------
+Moving Forward
+CMS is committed to creating a patient-centered health care system
+in which empowered patients have immediate access to their health
+information so they can better engage in and make decisions about their
+care. From our work with Blue Button 2.0 to the policies in the
+proposed rule, we want every stakeholder focused on the need for
+seamless data sharing so patients and providers can make decisions with
+complete, accurate sets of information and deliver the best health
+outcomes. Ultimately, we all need to work together to drive the
+seamless flow of information across the health care system. We are
+working toward a healthcare future when patients are able to obtain and
+share their health data securely and privately, with just a few clicks,
+and can ensure their care team is comprehensively informed of their
+specific care needs.
+______
+[summary statement of kate goodrich]
+At the Centers for Medicare & Medicaid Services (CMS), we are
+committed to advancing interoperability and improving access to health
+information for patients in the U.S. health care system. As evidenced
+by our ongoing work, as well as our proposed rule now out for public
+comment, CMS is taking an active approach to move the health care
+market toward interoperability and the secure and timely exchange of
+health information by proposing policies for the Medicare and Medicaid
+programs, the Children's Health Insurance Program (CHIP), and issuers
+of health plans sold on the Federal Exchange.
+Last year, the administration launched the MyHealthEData
+Initiative, which aims to break down the barriers that prevent patients
+from gaining electronic access to their health information from the
+device or application of their choice, empowering patients and taking a
+critical step toward interoperability and patient data exchange.
+In support of this goal, and in support of the MyHealthEData
+Initiative, last year, the CMS announced the launch of Blue Button 2.0,
+our first secure, standards-based Application Program Interface (API)
+that allows Medicare beneficiaries to access and share their health
+care claims data with applications and services that help them manage
+their health, in addition to sharing this information with their
+doctors and caregivers.
+Continuing to build on the MyHealthEData Initiative, on March 4,
+2019, CMS issued a proposed rule on Interoperability and Patient Access
+that is intended to move the health care market toward
+interoperability. The proposed rule would enable patients to access
+their health information electronically by requiring the payers subject
+to this proposed rule to share health claims and other information
+electronically with their enrollees by 2020, much like CMS is already
+doing for Medicare beneficiaries through Blue Button 2.0.
+A core policy principle underlying our proposals is that every
+American should be able, without special effort or advanced technical
+skills, to see, obtain, and use all electronically available
+information that is relevant to their health, care, and choices--of
+plans, providers, and specific treatment options. While many consumers
+today can often access their own health information through patient
+portals and proprietary applications made available by various
+providers and health plans, they typically must go through separate
+processes to obtain access to each system, and often need to manually
+aggregate information that is delivered in various, non-standardized
+formats.
+From our work with Blue Button 2.0 to the policies in the proposed
+rule, we want every stakeholder focused on the need for seamless data
+sharing so patients and providers can make decisions with complete,
+accurate sets of information and deliver the best health outcomes.
+Ultimately, we all need to work together to drive the seamless flow of
+information across the healthcare system. We are working toward a
+health care future when patients are able to obtain and share their
+health data securely and privately, with just a few clicks, and can
+ensure their care team is comprehensively informed of their specific
+care needs.
+______
+The Chairman. Thank you, Dr. Goodrich. We will now go to
+five minute round of questions.
+During the 21st Century Cures, when we had six bipartisan
+hearings on electronic health care records, we formed a working
+group of interested Senators and I am going to discuss it with
+Senator Murray. We might do that again, and keep, for those
+Senators who are interested in this, every 90 days or so as Dr.
+Rucker and Dr. Goodrich come up, spend an hour with us, give us
+an update on whether they are running into unexpected things.
+We know you are going to run into unexpected things. We want to
+create an environment in which you can succeed. So that would
+be what we may ask you to do.
+I mentioned earlier that my music teacher, and I will just
+repeat that, who said play it a little slower than you can play
+it and you will make fewer mistakes, and hopefully we will
+learn lessons from Meaningful Use 3. I do not mind saying it
+was Vanderbilt University who was pretty far ahead in
+electronic records and they said Meaningful Use 1 was very
+helpful, 2 was Okay, 3 was terrifying, and I think it would
+have been better if we had taken time and work with doctors and
+hospitals and others and incorporated them into the process.
+But that is a lesson to learn.
+It is true as Dr. Goodrich said and Dr. Rucker said, if you
+go to many hospitals or doctor's offices today, you can obtain
+your own personal medical information very rapidly and in an
+easy way. Our goal is to make it as easy to get your medical
+information, your own medical information, than it is to make
+an Airline reservation, and in some cases, that is already the
+case at an institution. But if you want to go from one
+institution to another, as Dr. Goodrich said, basically you
+crawl down to the basement of some hospital, find your
+information, put it in a wheelbarrow, and take it over to the
+next place. So that is what we are talking about with
+interoperability.
+Let me take an example of what I mean by making sure we do
+not go too fast. We deliberately left it up to you, with your
+expertise, to make a judgment about how to do this practically,
+and you have said that you want to have most of this data in
+two years after this rule is final. The rule will be final
+toward the end of this year. So that leaves two years.
+Why not have a more phased approach for that? For example,
+starting with the U.S. Core Data for Interoperability and do
+that well within those first two years, and then take a second
+step. You had a common clinical data set that was set in 2015,
+and many people still have not been able to comply with that.
+Now you are having to update the data set and you are not
+only asking for that information, but you are asking for all of
+the other information within a two-year period of time. In
+other words, why not phase in starting with the U.S. Core Data
+for Interoperability, Dr. Goodrich?
+Dr. Goodrich. Certainly. So, we did propose in our proposed
+rule that plans make available an API to be able to make data
+accessible to third-party application developers as designated
+by a patient, January 1st of 2020. We also, and most of these
+data are administrative claims data, encounter data that
+already exist, but we do reference also the USCDI.
+The Chairman. But wait a minute, is it not true though that
+you get to do this kind of thing in 2015? You have set some
+standards and most providers and doctors haven't yet mastered
+that, is that correct?
+Dr. Goodrich. Are you referencing the 2015 edition of
+certified technology?
+The Chairman. Of the Common Clinical Data set. That has
+been out there for four years----
+Dr. Goodrich. Correct.
+The Chairman. Has everybody mastered that in that four year
+period of time? Or would that be for Dr. Rucker?
+Dr. Goodrich. I might defer to Dr. Rucker to answer that as
+well. I think we do require that clinicians and hospitals that
+participate in our programs use the edition of certified
+technology that contains that Core Data set. We have seen
+fairly good adoption, but I will if Dr. Rucker wants to add
+anything.
+The Chairman. Well, what does fairly good mean, Dr. Rucker?
+Have they all--is that in really good shape? Because they have
+had four years to do it and what you are proposing to do, would
+be an even greater gathering of information than that.
+Dr. Rucker. Right. So, the Common Clinical Data set
+includes things like problem lists, medications, allergies. The
+difference between the U.S. Core Data for Interoperability and
+the Common Data set is we are adding in clinical notes and
+some, what is called metadata, so people know who did the note.
+The Chairman. But I am running out of time. I guess my
+question is, if you could not get it--if four years wouldn't do
+it for what you tried to do in 2015, why do you think you can
+do it in two years all of this other data collection? Why not
+start with a more modest start like the U.S. Core Data for
+Interoperability?
+Dr. Rucker. Well, that is actually what we are doing. So,
+what we have, all the core technical provisions and the testing
+are really about the Core Data for Interoperability because
+that is the part that is computable. That is the part, once the
+final rule and then two years after, that is where the testing
+is and that is an increment over the 2015 rule, which for the
+first time is being required in 2019. We have evidence that the
+vast majority of providers both physicians and hospitals have
+access to that software today.
+The Chairman. Okay. Thank you.
+Senator Murray.
+Senator Murray. Thank you, Mr. Chairman. Dr. Rucker, as you
+know prohibiting information blocking was one of the
+Committee's top health IT priorities in the 21st Century Cures
+Act. We want to make sure the Department of Health and Human
+Services takes the time to implement the Cures the right way
+but if health or care organizations or technology vendors are
+hoarding data in order to gain a competitive advantage for
+themselves, there are real consequences for the health and
+safety of patients if the Department takes too long to
+implement these policies. What are the risks of delaying the
+prohibition on information blocking?
+Dr. Rucker. Well, I think the risks are, as you have
+outlined them, I think the main risk fundamentally is, to the
+extent that this is delayed or prevented, the American public
+is not in charge of their healthcare and they are paying more
+for their care, they are not getting as good a care as they
+could get, and fundamentally they are not in control of their
+care.
+With the information blocking rule to make that to follow
+the intent of Congress we have, in our proposed rule, have
+seven specific exceptions based on literally over a hundred
+stakeholder meetings were this almost invariably came up as a
+topic for discussion to narrow the scope and make that
+enforceable for the Office of the Inspector General and to
+provide clarity for the public. We think that they are very
+common sense types of things. The one area where there has to
+be sort of a definition, if you will, is on allowable costs.
+We have heard vendors are charging over $1 million to a
+start up to, just get that data that obviously stops innovation
+in its tracks. So, we have language allowing reasonable
+recovery of costs and profit but that it is not used as a
+strategy to prevent competitors from entering potentially
+reserved spaces.
+Senator Murray. Okay, thank you. Dr. Goodrich, as I talked
+about in my opening statement, Congress aimed to prevent
+information blocking in all its forms in the bill. We asked HHS
+to decide what the appropriate consequence for providers and
+hospitals that block flow of information should be. In the CMS
+rule, your agency proposes creating a public list of the
+physicians and hospitals that respond yes when they are asked
+if they participate in this behavior. What was the thought
+process behind a public list as the proposed mechanism of
+enforcement?
+Dr. Goodrich. Certainly. And I will first say that the
+Department is still considering other ways to address that
+particular provision of the 21st Century Cures Act. What this
+does in our proposed rule is it builds upon what we finalized
+through actually the MACRA legislation related to requiring
+that providers attest that they did not willfully or knowingly
+block the flow of information. That is part of the MIPS program
+as well as what hospitals have to do for the Promoting
+Interoperability program.
+What we are doing in the Proposed Interoperability rule is
+merely saying, for people who do not attest that they did not
+block information flow essentially, that we would make that
+list of hospitals or clinicians public, but we are still
+considering other mechanisms.
+Senator Murray. Okay. What if a provider says they don't
+information block, but they are found guilty of that conduct?
+Dr. Goodrich. Anytime that we have any concern about
+information blocking that we discover through any of our usual
+mechanisms, that is something that we would certainly refer to
+the OIG to look into as well.
+Senator Murray. Okay. And open APIs which allow for data
+exchange between products developed by different companies.
+They are an essential feature for an interoperable healthcare
+system and allow patients actually to get more control over
+their own healthcare data. Last year, CMS allowed beneficiaries
+and traditional Medicare to access their healthcare claims and
+information through an API, and I was glad to see in your
+proposed rule CMS is expanding that initiative to beneficiaries
+and programs like Medicare Advantage, Medicaid Managed Care,
+CHIP, marketplace plans. Talk to us why that is so important.
+Dr. Goodrich. Yes. We have--again a core principle that it
+is critical for patients to have access to their data. They
+currently do have access to their data through individual
+patient portals or their various doctors' offices or
+proprietary applications their providers may have. And what our
+proposed rule does is it intends to lower the burden on
+patients by requiring that plans who do business with CMS
+aggregate that information and make it a bit available through
+an API. We have seen a lot of interest in this technology and
+Medicare beneficiaries wanting to access their data through our
+Blue Button 2.0, and we really hope that health plans would
+take our lead and build upon that while maintaining the highest
+standards of privacy and security.
+Senator Murray. Okay. Thank you very much.
+The Chairman. Thank you, Senator Murray.
+Senator Braun.
+Senator Braun. Thank you, Chairman Alexander. I think it is
+interesting that we are here talking about stuff like this, and
+that I think back to the 38 years I have had a logistics and
+distribution business. I remember taking handwritten orders
+back in the early 80's and remember being on a RadioShack
+information system in the late 80's. I remember going on the
+Great Plains in the 90's, and all I can tell you is that most
+industries would not be having hearings because there is
+transparency, and there is competition, and there is embracing
+of technology. Hated to hear that within the medical sector, it
+is the only place where we see neutral to may be negative
+annual gains in productivity or the use of technology.
+I think it begs the question, what is wrong with the
+industry itself? And as a conservative, a Main Street
+entrepreneur, I lay the burden not here in the Senate, on the
+shoulders of the industry itself. I mean when you are cloaking
+and making things so difficult to get simple things like
+interoperability and when you are dealing with talking about
+blocking information, that is so far out of the mainstream of
+all other industries and I want the industry to hear what I
+have been preaching all along get with it or you are going to
+be changed radically with all kinds of approaches that are out
+there based upon frustration.
+We have got a dysfunctional industry that is not consumer
+driven. The consumer needs to be responsible. There is no other
+industry sector where the people that buy stuff are not engaged
+in it. It is due to the paternalistic evolution of healthcare.
+It has got the change. And we have got an industry that is full
+of smart individuals and big corporations that have figured out
+how to take advantage of it. That is why we are talking about
+some of the stuff, nudging through Committee hearings and
+possibly legislation. It is frustrating to me because it
+evolves naturally everywhere else.
+My question is, do you think there is any chance that among
+consumers of healthcare, through some of the efforts I see to
+make it more consumer-driven--I have done it in my own business
+and all I can tell you is when you embrace it, you cut costs
+and you got to change your behavior because you are doing
+things you are not used to but like we evolved from taking
+handwritten orders and having the most high-tech system in the
+logistics and distribution business, and that is why we do
+well, we embraced it. And an industry that obviously is
+dragging its feet, does not see the handwriting on the wall, do
+you think there is any chance that the consumers that use it,
+the industry that provide it, will get to where they need to be
+without our nudging legislation and Committee hearings? And I
+would like each to comment on that kind of broad topic a little
+bit.
+Dr. Goodrich. Thank you. I would say that at CMS, we feel
+as a core principle for everything that we do at CMS, that
+consumers need to be in driver's seat. And I would say that
+many of our policies, including what we have proposed through
+this interoperability rule, are intended to do exactly that,
+whether it be through fostering transparency, nudging providers
+because our jurisdiction is of course over providers, to ensure
+that data flows to the patient and it is shared with the
+patient in a usable format, and of course through our
+interoperability efforts. And that is what we have been doing
+very closely in partnership with ONC. So, I think we absolutely
+believe that a consumer-driven system is necessary.
+Dr. Rucker. The rule I think, the proposed rule absolutely
+puts healthcare I think into a competitive place. It has not
+been literally in 50 years. Modern technology, these RESTful
+Json, those computer science terms, those APIs have transformed
+business after business after business. Logistics would be a
+perfect example of that. We think that they are going to
+transform healthcare by bringing other parties and new parties
+into the game who are not incumbents, who are not part of the
+current sort of system of consolidated delivery system and
+raise provider guilds. It has opened up markets throughout the
+world in other industries. We are quite optimistic that this
+will do it in healthcare.
+Senator Braun. Thank you. And I would encourage the
+industry, publicly, to get with it because I think if I am not
+happy about the speed we are moving, and I respect the
+Chairman's advice to make sure we do not move too quickly. But
+it is a sad state of affairs that where we are at now and the
+industry needs to get with it because they is so much they know
+they could do to make it better. Thank you.
+The Chairman. Thank you, Senator Braun.
+Senator Kaine.
+Senator Kaine. Thank you to the witnesses. Important topic.
+My staff members suggested that I read an Atul Gawande's New
+Yorker piece from November on ``Why Doctors Hate Their
+Computers,'' and what a great article. It is hard to really
+summarize it because there is a lot of nuances to it but two
+observations from the article were that the increasing use of
+EHRs and computers generally may be increasing job
+dissatisfaction among physicians, but it is also giving
+patients all kinds of access to the notes of their meetings and
+tests results and ability to schedule appointments that they
+did not have before. I am just curious as to your reaction to
+that piece and whether in proposing this rule you are trying
+to, figure out a way to make the advance of EHR continue to be
+a great thing for patients but also let more of a value add and
+a pleasurable value add for physicians.
+Dr. Goodrich. Certainly, yes. This is a topic that I
+personally care deeply about as a practicing physician. I have
+been around long enough to have practiced when I had,
+handwritten notes and then transitioning into a variety of
+different EMR systems over time. And I would say there is no
+question that the implementation of EMRs in many ways has
+actually been a positive improvement. Now nurses do not have to
+read my chicken scratch to take an order off. The computerized
+provider order entry has, I think really made some significant
+gains in improving patients' safety but there are real concerns
+that still remain that were highlighted in Dr. Gawande's
+article. We have done a number of things at CMS to try to
+address that related to what was passed in 21st Century Cures
+but also related to, for example, reducing the burden of
+documentation, which is a big pain point for clinicians.
+In our physician fee schedule rule last year, we sort of
+overhauled the requirements related to documentation and we
+intend to further build those out through rule-making this
+year. That will make using EMRs easier. That is so much an EMR
+specific issue, but it is manifested through the EMR. So, there
+are things like that we are continuing to explore. The patient
+access issue to data though is critical. I take care of my
+mother's Medicare beneficiary and her having access to her
+information has been transformative.
+Senator Kaine. Dr. Rucker, do you want to add anything to
+that?
+Dr. Rucker. Yes. I think the article makes a number of good
+points. I think the challenge is we have bundled all kinds of
+payment and policy things into the EMR. It is a lot easier for
+somebody to put that, oh, let the EMR sort it out so the EMR
+becomes a little bit of a waste basket for various things.
+Jointly with CMS under Cures, a physician-provider burden
+report was required. We have a draft out of that, and we have
+identified, in addition to the documentation that Kate
+mentioned another area, is prior authorization, a vast time
+sink for people, and so we are doing early work to try to
+figure out how to make that actually electronic. Right again,
+this is logistics, if you will, in healthcare as a lot of
+transaction cause opacity and delay.
+I think there are things--I went into this business to
+actually automate things. It is a source of personal
+embarrassment that after thirty odd years in the field that
+computers generate more work for me when I practice than
+anything else. I would not have guessed it if you had asked me
+in 1988, when I graduated from Computer Science school after
+residency, what was going to happen, but we have a lot of
+incentives that are maybe not in the right place.
+Senator Kaine. Let me move to a particular area. Health IT
+has a great potential to improve treatment pain management,
+especially help us deal with addiction issues. Everybody on
+this Committee has been very focused on opioid and other
+addictions. But IT can help us prevent prescription shopping,
+reduce inappropriate prescriptions, and facilitating
+interdisciplinary care. And the ONC proposed rule discusses
+these important issues and acknowledges the importance of
+patient privacy. Talk a little bit about the promise that
+increased standardization might offer to us as we are grappling
+continually with addiction issues, especially with respect to
+opioids.
+Dr. Rucker. Yes. I mean, the various state PDMPs which are
+now pretty much universal throughout the United States, have
+been very helpful. As an ER doc believe me, I have had every
+story of shopping for opioids in 30 years pitched at me, I
+think. So, I mean I have lived this for decades and decades,
+the challenges of these group of patients. So, the PDMPs, I
+think, are good for what they do.
+I think each state has a different approach to this. This
+makes it very complicated on a National basis to do this. It
+makes integration into workflows. You just talked about burden
+in the Atul Gawande article, and obviously having every state
+have different implementation is a type of impediment that I
+think we want to think about as we move forward and really
+harness the true power of this.
+Also, we want to look at some of the surround, such as
+health information exchanges, that can help these patients, in
+a more positive way rather than--it is one thing to say, do not
+give somebody opioids but when you look at mental health and
+behavioral health, we also have great opportunities in
+computerization to help the patients. So, we want to look at
+both sides of them.
+Senator Kaine. Great. Thank you. Thank you, Mr. Chairman.
+The Chairman. Thank you, Senator Kaine.
+Dr. Cassidy.
+Senator Cassidy. Thank you all for being here. I often take
+the position as a physician but today I will take the position
+of the patient. Are apps going to be covered entities?
+Dr. Rucker. Apps will not be covered entities unless they
+are part of a covered entity or business associate. Unless they
+are currently part. So, for example, if a provider----
+Senator Cassidy. I get that. I just have a limited time.
+Can they resell the data?
+Dr. Rucker. That, at the moment, is a contractual thing to
+be negotiated between the patient and the app----
+Senator Cassidy. No that is not, again I----
+Dr. Rucker. Subject to Federal Trade Commission----
+Senator Cassidy. I do not mean to be rude, we have just got
+limited time--he is going to wrap on me. And so, if I read down
+it says, will you agree, after ten-page legalese. I mean I
+realize that I have just given permission to an app to combine
+my data with location data and, or to resale it to Facebook--
+God knows what happens then. So is there any protection for the
+patient from, because she is not going to, he is not going to
+do that. I do not do it until finally now I do it. And now I do
+not sign up for stuff. What do we do to protect that patient
+from legalese dulling their mind to the fact that they just
+gave away their family history?
+Dr. Rucker. I think you raise a very real and major issue
+here. And this is true of every app and everything on our
+smartphone, right. I mean the data about us is constant. Every
+browser you use uniquely identifies you on the entire planet as
+we speak today. Under the rule, the OUF-2 provides security.
+That is the authentication. So, the patient has to make a very
+conscious decision to download the data to the app. That offers
+an opportunity certainly for providers to give those warnings.
+Once it is under the HIPAA right of access, then the broader
+legal protections, we have a model consent notice that we
+suggest using, but I think it is still an open area.
+Senator Cassidy. Perhaps something for us to consider, what
+would we require of the app in order to protect the patient.
+Next, we are docs. You take a family history. It is not just
+doctor and Mr. Braun whom I am taking history on, but I
+actually end up knowing whether his mama had diabetes. You see
+where I am going with that. Whether the brother had--I don't
+know anything about him by the way. I could go into all sorts
+of terrible things.
+[Laughter.]
+Senator Cassidy. When I give my permission for that medical
+record to be downloaded, I am not sure patients understand how
+much I have just gotten, even before talking about genetic
+data, about somebody's family history. Do we have protections
+on that, number one, and number two, can I say I want you to
+download everything but not my medical--but not my family
+history?
+Dr. Rucker. That is a major problem. I have seen all of the
+DNA sites, all the DNA testing sites. That is extremely
+specific and extremely broad. The privacy issue you ranged
+right now, there is some data segmentation for privacy
+opportunities. We are optimistic that the market will provide
+clarity here the same way that consumer branding helps with
+things like banking, right. We do not just put our money
+anywhere, we go to brands. We hope that a consumer economy will
+drive this with trusted brands but at the moment the
+prohibitions against secondary use of data are exactly as you
+describe.
+Senator Cassidy. Yes, that is I think we need to consider
+that, because this is going to be a mess. And some people get a
+loan charge right? So not everybody will have the kind of
+ability to sort out.
+Dr. Rucker. The one caveat I would put for you on that is,
+right now you can infer health data from many non-health
+records, right. You can infer from location of a clinic. You
+can infer it from your credit card statements. You can infer
+very specific health data from a lot of things. So, I think as
+Congress thinks about secondary use of data, it really should
+be a fairly broad consideration of that.
+Senator Cassidy. Let me flip back to being a physician or
+being an EHR vendor. If somebody requests--I got 10 data
+elements including the family history and maybe including HIV
+status. And I want to share all of this, but I do not want to
+share my HIV status or my family history. I think that is going
+to--I am assuming that is going to cost me, the provider, to
+figure out how to send some but not all. Am I going to be
+busted if I send too much or am I going to be busted if say, do
+see where I am going with that? How is that going to be handled
+and what would be the penalties if my EHR does not allow me to
+do it, but I am a doc and I have been requested to not give the
+family history?
+Dr. Rucker. That is a significant challenge with data
+segmentation for privacy. It is a brittle technology from a
+computer science point of view. We have in our information
+blocking provisions, provisions around what can actually be
+computed, so there is a protection in there for the physicians
+with those clauses.
+Senator Cassidy. The physician would not be busted for
+either not giving enough or giving too little if the EHR is
+inadequate? Does the EHR get busted?
+Dr. Rucker. Well, I think it is a joint challenge for both
+the physician and for the EHR, and we believe in the
+information blocking provisions that are up for public comment
+now, that we have provisions there to help that. But as it is a
+deeply complicated technical issue because of the way it
+impacts the architecture of every data base field.
+Senator Cassidy. I thank the Chairman and the Ranking
+Member, and I look forward to those further hearings. And we
+will have some more QFRs, questions for the record.
+Thank you.
+The Chairman. Thank you, Senator Cassidy. I think a good
+subject for an early working group discussion would be, what
+are the rules and who is in charge when a patient gives his or
+her information to third party.
+Senator Baldwin.
+Senator Baldwin. Thank you, and I want to thank the
+Chairman and Ranking Member for our continuing work on
+implementation of the 21st Century Cures Act. I want to thank
+both Dr. Rucker and Dr. Goodrich for your hard work to advance
+this law with the recent proposed rules. The proposed rule from
+ONC seeks to improve electronic health record quality by
+allowing providers or patient safety organizations to share
+screenshots for usability or safety reviews. I believe that
+certainly basic transparency is essential to improving data
+exchange on the quality and safety of patient care. However,
+these screens do demonstrate how information is organized
+within an electronic health record system, which could open up
+opportunities for bad actors.
+We have to figure out a way to guarantee that the effort to
+improve safety and usability also protects information that
+could be used to reverse engineer the system, reverse-engineer
+the software or create malware frankly that could cause harm.
+So, Dr. Rucker how do we strike that balance of permitting, if
+necessary, screen sharing for legitimate purposes while also
+protecting the IP, the Innovation, and the cyber security in
+this arena?
+Dr. Rucker. In the 21st Century Cures Act, there is a list
+of very specific allowed uses of those screenshots that I think
+goes back to a history of complaints about ``gag'' clauses. So,
+in our proposed rule we enumerate through the specific list
+that is in 21st Century Cures and do not allow sort of other
+broader uses and actually call out the requirement to respect
+intellectual property. So, if you are not using it for those
+specific purposes, those are copyrighted, trade-mark owned
+screens by the software developers.
+You have to have a very specific purpose in mind to do
+that, and broad reengineering of product as it has happened, as
+would not be allowed under those provisions. The cyber security
+we hope to have taken care of in large with some of the APIs by
+using industry-standard, cyber security thing so that we are
+not coming up with healthcare specific one-offs but actually
+using the broad industry thing that would be used by any
+industry protecting valuable information.
+Senator Baldwin. I may have some follow-up on that. I want
+to second move to an area explored by our Chairman in his
+questioning relating to moving from the 2015 U.S. Core Data for
+Interoperability to what appears to be a larger collection of
+information EHI, electronic health information. The Chairman
+was asking about where various health systems are with regard
+to the 2015 U.S. Court Data for Interoperability and then the
+impact of adding additional information.
+My question for you Dr. Rucker is how do you reconcile the
+ongoing industry work that is being done on this U.S. Core Data
+set with these new requirements to comply with more expansive
+standard for exporting EHI and if you could give a little bit
+more descriptive information on what is a part of the expanded
+EHI versus what was a part of the Core. And then, as you work
+to finalize a rule that requires compliance with these
+additional standards, how do you make sure that it is
+manageable for interoperability?
+Dr. Rucker. Yes. So, the U.S. Core Data for
+Interoperability again, the change from the prior common
+clinical data set is in getting the notes to patients and
+identifying better who actually generated the note, which
+believe it or not is sometimes very hard to know who put the
+note into the chart as this gets to the Gawande type of issue.
+There is a provision in Cures for all data download and that
+provision was placed because I believe Congress heard
+complaints that when folks switch from one EHR to another,
+their data is locked into the old EHR and can't get to the new
+one.
+There are no current extant standards to allow that data to
+be transmitted in any, I believe, really fundamentally usable
+format as structured data, so the rules says other than just
+giving the dictionary name of the term, it is just a simple
+download without structure. It can be done idiosyncratically to
+every system because there is no broader way of doing that.
+That data, I think, will be very challenging to put into a
+new system. I am guessing the folks who might be able to use
+that are people who are using machine learning and natural
+language processing to get at that data but that is a simple
+right and does not have an enforceable data structure unlike
+the U.S. Core Data for Interoperability. That is a very nuanced
+technical issue but hopefully I have explained it. And it is a
+complicated history.
+The Chairman. Well that clears that up.
+[Laughter.]
+The Chairman. Thank you, Senator Baldwin.
+Senator Burr.
+Senator Burr. Thank you, Mr. Chairman. Dr. Rucker, Dr.
+Goodrich thank you for being here. In 2016 my question to a
+panel like this was how the hell you going to do this. I think
+what you have heard is different variations of that going
+around the room, difference is we are in 2019 and this is a
+discussion that we started in 2013 about how do we get systems
+to talk to other systems. 2015, there was a rule and one of you
+said today, in 2019 the rule is being required.
+Here is my problem, over the 2013 to 2019 timeframe, Dr.
+Rucker, you know better than I do that technology innovation
+has exploded. It runs at an unbelievable pace, and here we are
+trying to set standards and set architecture of software, what
+technology can offer us whether it is a doctor's office, a
+hospitals, a provider that 12 months from now is going to be
+obsolete because that is how fast technology is changing. A
+good provider is going to constantly upgrade their technology
+to match the capabilities, not all, and there becomes the
+horror stories. That is not even getting into with Dr. Cassidy
+is talking about which is data control.
+Here is my question as it relates to apps. Are the apps
+that you are talking about, are they holistic apps or do they
+target on one disease, I have got diabetes, I have got an app
+to help me manage my diabetes. Two, is there a holistic app,
+one that manages my health care based upon all the data that
+goes into it? And Dr. Goodrich, a third piece of that would be
+has CMS looked through, my understanding then and now is
+Meaningful Use, can you create an incentive for somebody to
+utilize this. Have we looked at an incentive for that third-
+party entity to create a platform that can manage an
+individual's health care?
+I think one of the problems that I keep running up against
+is, I think the answer to the question I was asking, if
+Government can get the hell out of the way, we will find a
+solution to this. I think that gets to what Senator Braun said.
+I think the private sector, the private sector sees a problem
+and funds a solution to do it. Their business model makes some
+change based upon technology.
+Our problem is that we can't get rules through when the
+technology that we are applying it to is in existence, and by
+the time we get a rule through, technology has changed, it may
+or may not apply. So, I know I have thrown a lot at you. I will
+get both of you to comment on it.
+Dr. Rucker. Yes. So, I think--so, I have been in the
+computer science business for 30 years and I have seen these
+things. I think for the first time we have API technology that
+is pretty technically stable and broadly doable. That was not
+the case in prior versions. Again, a long history there. So,
+this is what is fueling the app economy broadly. Right now, to
+your point, medical data is not accessible to most health apps,
+to several hundred thousand apps out there who have not,
+believe it or not, no access to medical data.
+The entire point of what we are doing jointly is to allow
+these apps in the market economy to incorporate the patient's
+medical data into that. Some of them will incorporate a
+holistic view. There are companies, Apple most notably largely,
+there are small startups, my PatientLink, Humetrix, that are
+taking a broad view. There are going to be other companies that
+are going to be very disease-specific and focus on potentially
+life-threatening or lethal diseases.
+In an app economy, we see both of those happening and that
+is the way we are designing it. We also have a number of
+provisions to try to have standards evolve. All of the
+standards we use actually are from the private sector so ONC is
+not generating any standards whatsoever in this and we actually
+maintain and curate the current private sector standards on an
+ongoing basis. And we work a lot and we actually, some of our
+budget, we actually used to fund key parts of the standards
+organization to do this and to have the broadest public input
+into the development of these standards.
+Dr. Goodrich. Just quickly, I would absolutely agree with
+Don that the timing is really right for this because of where
+the state of play is with the standards, and I think it is a
+good time to sort of take advantage of that and move the field
+forward. You asked about the types of applications. I can tell
+you through our Blue Button 2.0 experience, we now have 1,800
+developers who are working in our sandbox which has synthetic
+data to develop apps and we have twenty that are actually out
+in production that Medicare beneficiaries are currently using.
+And they kind of run the gamut, so everything from essentially
+a personal health record and app that can function as a
+personal health record for a Medicare beneficiary, to apps that
+help beneficiaries find health plans or get them connected to
+research studies, and as well as disease-specific apps.
+It really does run the gamut and we have 7,000 Medicare
+beneficiaries using these right now and have gotten very, very
+positive feedback.
+Senator Burr. Well, let me--if the Chairman will give me 30
+more seconds to editorialize. Let me thank you for the work
+that you have done. I am probably no less convinced that we are
+going to get to the finish line today than I was in 2016,
+though the tools that we have are much better. I saw providers,
+insurers when they wanted to have a different outcome on
+diabetes, they took the responsibility, internally with their
+patients, their covered lives, to drastically change what they
+provided to them.
+It seems to me that is the most appropriate first place to
+go is to create an incentive for the providers, those
+individuals that are covered in lives, to do a holistic
+approach to not just diabetes or a particular disease but to
+manage their health care. And it is to their financial benefit
+to do that and they are the ones that can certify the benefits
+to the patients' overall health condition.
+I want to ask you to clarify what you said but Dr. Rucker I
+just wrote down a comment that you said, we have a lot of
+incentives that are in the wrong places. Now, if I understood
+it the way you said, for God's sakes, will you guys share with
+us where it takes a legislative remedy to move the incentives
+to the appropriate place? It is no longer good enough to have
+them but have them in the wrong place where they cannot be
+fully utilized. Thank you, Mr. Chairman.
+The Chairman. Thank you, Senator Burr.
+Senator Rosen.
+Senator Rosen. Thank you. Well as a former software
+developer and systems analyst, my head is spinning. I have some
+questions I want to get to but what I want to say is this, is
+absolutely nothing is more important or is more private or
+precious than your personal medical data and history. Its
+accuracy, its privacy and security must be part of any design,
+and the monetization of your personal data may be not in your
+best interest.
+We have to be careful when we allow apps to design what
+helps you or helps your family and what might hurt you through
+the monetization or data brokerage. There are many things the
+private sector can do that are so fantastic and there are also
+ways that they can take this most private and precious
+information and use it against you. So, what you are doing in
+taking this approach is very important. But what I really
+wanted to talk about today is a little bit about administrative
+costs in your implementation timeline. And so, we know that we
+have to improve our interoperability standards.
+Maybe we have to create some--you talk about the data sets
+to cannot be parsed. There are ways to fix that and that is for
+a different conversation, but it is really important that
+providers do have a complete and accurate background on their
+patients. And so, we have to be careful though and consider the
+full picture of the resulting administrative costs and the
+practicality of the implementation, and what the benefits are,
+how to mitigate the challenges.
+Does the ability for the patients to access records,
+schedule appointments, and contact their medical providers save
+time and costs overall for physicians, medical office
+personnel, and patients? Do you have data supporting how that
+is helping when they are integrated and how you think they can
+move to it in a particular way?
+Dr. Rucker. We think that making all of this be with
+relatively straightforward application programming interfaces
+actually takes the burden off providers, right. The burden at
+that point is to provide a secure end-point, right, rather than
+having ongoing conversations, right. This is self-service,
+right. It is literally like buying the airline ticket, right.
+You do not need a gate agent to buy your ticket online, right.
+So, we think that is very fundamental.
+Totally agree with the privacy issues that we have
+discussed but we do think that the application programming
+interfaces will allow that to simplify. Most, we have
+calculated that roughly 80 percent of American providers, their
+EHR vendors already have these, what are called FHIR healthcare
+interoperability interfaces up and running. Apple's version,
+which uses the design standards that ONC has funded over the
+years with the standards group, I believe has over a thousand,
+several thousand providers who are on it as we speak.
+Senator Rosen. It seems as if people are moving toward it.
+It is helping the independent practice and our practices become
+more integrated, but I do have a concern on the other hand,
+that we must always be mindful about people who have barriers
+to accessing their health information be it due to a lack of
+internet access, technology, a disability, a disease. I talk
+about my beloved father-in-law, his birthday, his 97th birthday
+would have been this week, and he was a civil engineer for 50
+years. Beautiful handwriting and drew bridges and all these
+wonderful things, and when he got in his 80's, he had a tremor
+and he couldn't see, and he could not use a computer.
+His brain was fine, but he did not have the skills to do
+that anymore. So, in your long-term planning, what are you
+doing to help people who either do not have internet access, a
+computer, physical barriers, emotional, mental, whatever those
+are, dementia, etc. and may not have an advocate for them to be
+on the computer. So, what are you doing to help those folks?
+Dr. Rucker. Well we think that having industry standard
+APIs will lead to the broader democratization of access here.
+It is very interesting that in countries like India,
+smartphones, right, are very--countries with vast limitations
+in resources, they are actually using a smartphone technology
+first.
+Senator Rosen. Would that have helped--your Medicare
+population is an older population.
+Dr. Rucker. Obviously, for some disabilities unfortunately
+the nature of the illness is that it is just part of the
+illness, but we think in general the affordability and the
+markets making access easier. There are all kinds of assistive
+devices built into modern smartphones. Are probably going to be
+better than trying to get on a bus or a cab or ride-sharing
+service to go to the hospital and try to dig out your patient
+record, which is the current.
+Senator Rosen. Thank you. I appreciate it. I yield back my
+time. Thank you.
+The Chairman. Thank you, Senator Rosen.
+Senator Romney.
+Senator Romney. Thank you, Mr. Chairman and Ranking Member
+for having this hearing and I appreciate also Dr. Rucker and
+Dr. Goodrich for your testimony and the work that you are
+doing. I would like--Senator Burr, I am somewhat skeptical and
+have been somewhat skeptical but am more optimistic in
+listening to you today. Skeptical in part because it struck me
+that when Congress said, interoperability is a good thing, make
+it so, it would be like saying to the Department of Energy, we
+got to reduce greenhouse gas emissions, please do so. It is
+like, well, how do you go about doing that? How big of a task
+is that?
+My background is in the private sector. I have seen
+settings were two companies will come together, they had
+different computer systems, and they wanted to make them talk
+to each other and share data across the systems. It usually
+takes years for that to happen, and even within two relatively
+small companies, relative to the Government of the United
+States, it takes hundreds of millions of dollars. So, the idea
+of achieving interoperability through Government oversight
+would be massively expensive, if not impossible, and would take
+a long period of time.
+I am drawn to the comments of the Chairman which is should
+we do this out of phase basis. Senator Burr suggested perhaps
+let the private sector deal with this over a longer period of
+time, but you seem to have optimism that we can make progress
+here. And I wonder exactly whether that is conceivable for us
+to achieve standards that will allow systems to talk to each
+other from one hospital system, for instance, to another
+provider or whether that is frankly a bridge too far at this
+stage.
+I participated in the healthcare system called
+Intermountain. It includes physicians in the group. It includes
+the hospitals and so forth. It is interoperable. It works
+extremely well, but to get it to communicate with let us say a
+system in Detroit, would strike me as being a very intensive,
+long-term process. Are we barking up the wrong tree here? Do we
+have a shot of actually making this work? Should we make it a
+more phase process? Is it a pitch too far? I am using a lot of
+metaphors here. I am just suggesting how distant the goal may
+be, but I am interested in your thoughts about whether we need
+to rethink how we approach this goal of interoperability.
+Whether we should, if you will, begin by restricting our sites
+a little bit and by looking within current healthcare systems
+as opposed to trying to reaching across systems across the
+country and across different types of practices, and whether
+instead we should move on a more, I guess standard-oriented
+process as opposed to implementation process.
+Interested in both of your comments in that regard.
+Dr. Rucker. Yes, there is plenty of room for skepticism.
+So, I started my computer science career building an EMR in
+Windows 2.1, right. So, if anybody remembers what a serial port
+is. So, the thought of sharing data was totally in the future.
+The internet did not actually, I think, the first stack didn't
+come until Windows '95. There are now hundreds of thousands of
+apps out there, hundreds of thousands, using the RESTful Json
+and the internet stacked share information. So, we know broadly
+in the economy, this is absolutely doable. It is done, more
+times than you can count in, many, many apps today.
+The healthcare part is customizing this to healthcare so
+the fast healthcare interoperability resource, which is
+ultimately vocabulary exercise, there has been very rapid
+progress on this FHIR protocol. ONC has supported that. CMS has
+supported that. That gives, I think, us vast grounds for
+optimism that we did not have the HL7 version 2 and its various
+iterations and parts of version 3. So, I think the technology
+has fundamentally changed and so we are moving. The U.S. Core
+Data for Interoperability is a very limited set of data and I
+know it is sometimes portrayed as an expansive set of data but
+is actually a very limited set of data that we are starting out
+with.
+Dr. Goodrich. I would agree with everything Don has said,
+and I will also reiterate that we have seen significant changes
+over time. I mean, I started practicing medicine in the late
+1990's, did not have an EMR, and increasingly, incrementally I
+have seen the ability to get more and more information from
+systems outside of my own, not necessarily complete information
+but I can get information through my regional healthcare
+exchange, is a great example of that.
+I think based upon what Don said related to the standards
+plus the health information exchanges that we are seeing around
+the country where you are seeing the opening up of exchange
+even in distant places. There is reason for optimism. I do
+think the 21st Century Cures also is sort of a transformative
+moment to be able to move forward in a way that we just haven't
+been able to before. So yes, plenty of room for skepticism but
+also more optimism than probably any of us would have had a
+couple of years ago.
+Senator Romney. Thank you.
+The Chairman. Thank you, Senator Romney.
+Senator Murray, do you have any further comments?
+Senator Murray. I do not at the time. I want to thank both
+of you. This is extremely complex and obviously we have seen a
+lot of good things happen as a result of technology for patient
+health. We have a lot challenges in front of us, whether it is
+interoperability, blocking information gag clause, and we have
+to talk about the developing issues that we are facing in the
+ever-changing world of cyber security, and privacy, and data
+stewardship. So, I look forward to continuing to work with you,
+Mr. Chairman.
+The Chairman. Thank you, Senator Murray. One thing that
+occurs to me, is reassuring to me is to hear again how
+important the 21st Century Cures Act has become in so many
+different ways, and I think the Senators on this Committee and
+staff should take a good deal of pride in that. And this is one
+area for that. We did find before that sometimes having working
+groups that would meet maybe every 90 days with an agenda, the
+staff could let you know what the Senators are interested in,
+Senators can come if they wished, and it would give us a way to
+continue to keep up with you, to give you our suggestions, to
+decide if we need to make any further legislative adjustments.
+And really to create an environment in which you can succeed
+which is what we want to do.
+The issues, I hope you will keep in mind from this, are the
+concern I have and others have balanced by what Senator Murray
+said about, there is a need, we need to get on with information
+blocking for the benefit of people but it is more important
+that we end up where we want to go, not that we try to get
+there faster than we can go. And so, taking lessons from
+Meaningful Use 3 and just the general laws of human nature as
+expressed by Senator Romney there, I think we would be wise to
+keep our eyes open as we go along. And the other reason for
+that, of course, is to work with providers, doctors, hospitals,
+nurse practitioners or others, incorporate them into this so
+they can buy into it and absorb it and make suggestions about
+it.
+There is concern about the what happens, who makes the
+rules, and who is in charge when a patient gives information,
+personal information to a third party. We need to talk more
+about that. We were careful in the 21st Century Cures Act not
+to be too prescriptive, wanting to leave with you many
+decisions about how to go ahead, and I was hopeful that you
+would not be too prescriptive, figuring that the reason we can
+make airline flights on our phone is not because the Government
+figured it out, but because we left room for somebody the
+private sector to figure it out. And that is beginning to
+happen. And as you solve problems, continuing to leave room for
+the private sector to solve them for us, is a part of the art
+of Government that I hope you continue to use.
+Then finally, the physician burden and the burden on
+providers is something I hope we keep in mind. I mean the whole
+idea of this is to make it easier and less expensive not more
+complicated and more expensive. And you have talked about your
+own 30 years of experience with computers creating work and I
+think about the effect of that. I was in South Dakota on Friday
+and talking about how in rural areas, the electronic health
+records and other requirements make it very difficult for a
+smaller rural hospital to manage that, so it is easier for them
+just to sell out to a big outfit, and that encourages
+consolidation. And then we have the larger question of whether
+consolidation of doctors and hospitals, all working for some
+big outfit, increases competition and increases costs, or
+simplifies things and lowers costs.
+Keeping in mind ways to actually reduce the burden on
+physicians, especially, is an important part of this. The
+hearing record will remain open for 10 days. Members may submit
+additional information for the record within that time if they
+would like.
+The Chairman. Thank you for being here. It has been a very
+useful hearing. Thank you for your work on behalf of the
+country, and the Committee will stand adjourned.
+[Whereupon, at 11:28 a.m., the hearing was adjourned.]
+[all]

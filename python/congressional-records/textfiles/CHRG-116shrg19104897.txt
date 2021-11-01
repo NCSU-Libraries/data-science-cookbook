@@ -1,0 +1,1776 @@
+- MILITARY CONSTRUCTION, VETERANS AFFAIRS, AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL YEAR 2020
+[Senate Hearing 116-]
+[From the U.S. Government Publishing Office]
+MILITARY CONSTRUCTION, VETERANS AFFAIRS, AND RELATED AGENCIES
+APPROPRIATIONS FOR FISCAL YEAR 2020
+----------
+TUESDAY, FEBRUARY 5, 2019
+U.S. Senate,
+Subcommittee of the Committee on Appropriations,
+Washington, DC.
+The subcommittee met at 10:30 a.m. in room SD-124, Dirksen
+Senate Office Building, Hon. John Boozman (chairman) presiding.
+Present: Senators Boozman, Schatz, Collins, Capito, Daines,
+Tester, Udall and Baldwin.
+DEPARTMENT OF VETERANS AFFAIRS
+STATEMENT OF HON. JAMES BYRNE, GENERAL COUNSEL
+PERFORMING THE DUTIES OF DEPUTY SECRETARY
+ACCOMPANIED BY:
+JOHN WINDOM, EXECUTIVE DIRECTOR, OFFICE OF ELECTRONIC
+HEALTH RECORD MODERNIZATION
+DR. LAURA KROUPA, CHIEF MEDICAL OFFICER (ACTING),
+OFFICE OF ELECTRONIC HEALTH RECORD
+MODERNIZATION
+JOHN SHORT, CHIEF TECHNOLOGY INTEGRATION OFFICER,
+OFFICE OF ELECTRONIC HEALTH RECORD
+MODERNIZATION
+opening statement of senator john boozman
+Senator Boozman. The committee will come to order. You guys
+can have a seat. Good morning, and thank you for coming today
+to discuss the Department of Veterans Affairs Electronic Health
+Record Modernization Effort.
+I would like to begin by recognizing today's panel: the
+Honorable James Byrne; VA's General Counsel, Performing the
+Duties of the Deputy Secretary. Thank you for being here. He is
+accompanied by leadership in VA's Office of Electronic Record
+Modernization, including Mr. John Windom, Executive Director,
+Dr. Laura Kroupa, Acting Chief Medical Officer, and Mr. John
+Short, Technology Integration Officer. So thank you all for
+being here, and we do appreciate your service to the--for our
+veterans.
+For years, the Department of Defense and VA struggled to
+share health information to service members transitioned to
+civilian life. Even within VA, there were more than 130
+different version of VISTA, the legacy electronic medical
+record. Last May, VA kicked off a 10-year, $16 billion effort
+to modernize VA's health IT system. This includes a $10 billion
+contract with Cerner by adopting the same (EHR) Electronic
+Health Record platform as DoD. VA argued that the patient data
+would be seamlessly shared between DoD, VA, and community
+providers, improving efficiency and transparency.
+Many of us on this committee have long advocated for a
+single, joint medical record that will follow a service member
+throughout their career in the military and into their time as
+a veteran. We are hopeful that this collaboration between VA,
+DoD, and Cerner can deliver on this vision.
+Since last May, VA has undertaken efforts to address
+lessons learned from past EHR modernization initiatives. VA
+conducted detailed workflow analysis, technology assessments,
+change of management workshops, and outreach to key
+stakeholders. However, challenges remain, including
+interoperability with both legacy and community health systems,
+simultaneous implementation with other initiatives, and
+spending at a lower than expected rate. Perhaps the most
+important challenge facing VA is the need for its workforce to
+embrace what will be a wholesale change in the way they do
+business on a daily basis. We look forward to discussing these
+and other issues this morning. And also, this is our first
+meeting, I believe, without Chad Schulken, who did a tremendous
+job on the minority staff. You know, the nice thing about these
+committees is that the staff and members work together so very
+well. We hear a lot about the rancor, but he did a tremendous
+job, and I know he will do a great job wherever he is at, but
+he will be missed.
+And now, I will turn to our Ranking Member, Senator Schatz
+from Hawaii for his opening statement.
+opening statement of senator brian schatz
+Senator Schatz. Thank you, Mr. Chairman and thank you for
+holding today's hearing on the VA's effort to modernize its
+electronic health record system. This is particularly important
+as we prepare to consider the Department's fiscal year 2020
+budget and fiscal year 2021 advance request.
+A new electronic health record has the potential to be
+transformational. This is an opportunity to improve patient
+care with seamless health data sharing between DoD and VA as
+well as community providers, and that is why in last year's
+appropriations bill, we provided more than a billion dollars so
+that the Department can get this system going. That includes
+more than $400 million, specifically to improve IT
+infrastructure. Now, we all know this process has not been easy
+for VA and that there were some initial challenges with rolling
+out the contract and the system. There were contracting delays
+and issues with aligning the project management and deployment
+with Department of Defense, but the VA has taken some important
+steps to address these problems. Last September, the VA and DoD
+issued a joint commitment which makes clear that they will work
+together to coordinate project and data management and develop
+and organizational structure that will deliver a single,
+seamlessly integrated, and interoperable EHR. That is the goal.
+But a commitment is only as strong as the willingness of
+each party to follow through and so I look forward to hearing
+from our witnesses about exactly how both Departments are
+planning to deliver on their promise to service members and
+veterans. As VA obligates and spends the funding that Congress
+provided for EHR, the Department needs to remain transparent
+about the status, the funding, and continue to provide regular
+updates, and that is especially important at the early stages.
+This information will help us as appropriators better meet the
+VA's needs and serve our veterans. And it gives us the
+confidence that you are making thoughtful decisions that will
+prevent cost overruns and schedule delays and other avoidable
+pitfalls.
+Finally, Mr. Chairman, I want to express my frustration and
+disappointment with how the VA has engaged Congress on its
+proposed access standards for the new Veterans Community Care
+Program created under the Mission Act.
+Members of the majority and minority, authorizers, and
+appropriators have made repeated requests for information to
+hear from VA about what information the Department relied on to
+inform its decisionmaking and the potential budgetary
+implications of expanding eligibility for veterans to seek care
+in the community.
+The VA can and should ensure access for all veterans by
+relying on community providers, that is especially important
+for veterans who live in rural and remote areas, but it cannot
+come at the expense of VA's internal healthcare system.
+But we do not have any analysis or projections about how
+the proposed access standards will effect utilization rates,
+and as a result, how it will affect the cost of VA's Community
+Care Program. And as a result, how it will interact with core
+VA services. Now I know that is not why we are here today, but
+we have a responsibility to the American people and to the
+Veterans Administration to ensure the VA's leadership is making
+decisions that are consistent with Congress' intent.
+I will have more to say on this as the VA files its
+proposed rule in the Federal register. And look forward to
+hearing from Secretary Wilkie directly when he comes before the
+subcommittee to present the Department's advance budget
+request.
+Thank you, Mr. Chairman.
+Senator Boozman. Mr. Byrne.
+summary statement of hon. james byrne
+Mr. Byrne. Good morning. Chairman Boozman, Ranking Member
+Schatz, distinguished members of the subcommittee. Thank you
+for the opportunity to testify about the Department of Veterans
+Affairs Initiative to transform veterans' care through
+modernizing VA's electronic health records system, EHR. And
+thank you for your unwavering support of veterans, their
+families, caregivers, and survivors.
+Mr. Chairman, please let me start with some recent good
+news from VA. First, you may have seen the Dartmouth report
+from the Annals of Internal Medicine that found, ``VA
+healthcare is as good or better than any care our American
+people receive in any part of the country.''
+Second, the partnership for public service, a nonprofit
+think tank that values the work of our Federal agencies
+reported that for the first time, VA is now one of the best
+places to work in the Federal Government. Moving from 17th
+place to 6th place.
+Last, a new study from the Journal of American Medical
+Association, JAMA, recently found that, ``Access to care within
+VA facilities appears to have improved between 2014 and 2017
+and appears to have surpassed access in the private sector for
+three of the four specialties evaluated.'' I believe these
+reports reflect the quality of how all of our employees and the
+hard work they do on behalf of veterans and taxpayers every
+day.
+Today, I am excited to be here to discuss the opportunities
+presented by our modernization of VA's electronic health record
+system. Does it mean that the implementation of our new EHR
+system will be simple, easy, or without hurdles? It is, in
+fact, a complex, difficult, time-consuming job. We appreciate
+the congressional funding of this critical modernization effort
+and welcome the committee's oversight as we negotiate this
+critical task.
+But as we move forward, I would like to remind all of my VA
+colleagues of some important facts: First, EHR modernization
+was not forced on us. This transformation is something that we,
+at VA, decided had to be done, because it makes sense and is
+best for veterans. Second, we must always keep our eyes on what
+those in the military refer to as the commander's intent. For
+VA and the end state of our EHRM efforts. VA exists to make
+life better for veterans. That is what transforming our EHR
+system and adopting the same system at DoD is all about.
+Meeting the challenging and evolving needs of veterans,
+improving their lives and their care, and making the system
+easier and more efficient for them.
+We need to constantly remind ourselves that when we
+complete this difficult, complex transformation, there will be
+tangible, measurable benefits for veterans, including but not
+limited to, patient data residing in a single site with records
+updated instantly at the time of care. Seamless transitions as
+service members become veterans and equally seamless access to
+quality care when veterans move between DoD, VA, and community
+care providers.
+Much greater ease in sharing health information that will
+result in care delivered in a more timely and safe manner.
+Scheduling of appointments, reimbursement of community
+providers, and critically, research of healthcare issues of
+special importance to veterans will all be easier and more
+efficient.
+And finally, care provided by one member of a veteran's
+care team will be transparent to all members of the team and to
+the veteran, especially important in treating patients at risk
+of suicide or opioid abuse. Our goal is to deliver an EHR
+system that is easy to understand, simple to administer, and
+meets veterans' needs. And now is the time to modernize. It is
+the right thing to do for veterans. This is our Commander's
+intent and how we see the end state of our EHRM efforts. As we
+strive for that end state, we at VA are committed to
+transparency and close coordination with DoD and all aspects of
+modernizing our EHR system and from learning all we can from
+their previous work with Cerner.
+We are ensuring our new EHR system is in alignment with
+commercial best practices, and we have every confidence that it
+does. We are determined to engage clinicians in the field who
+interact with veterans and their families each day to ensure we
+have their immediate, real time feedback on what works best to
+best serve veterans.
+Mr. Chairman, as I have traveled the VA medical centers
+across the country, I have encountered a sense of excitement
+about EHRM. On many occasions, I have had hospital directors,
+administrators, and clinicians ask me how their facility could
+be moved up on the schedule for fielding the new EHR system.
+Those who work most closely with veterans in providing care
+know that our current system is simply insufficient and
+recognize the vast potential the new EHR system represents:
+improvements in timeliness and quality of care, efficiencies in
+presentation of data, and prescription and administration of
+pharmaceuticals, and reducing risk for patients, treatment of
+chronic conditions, reduction in suicides, and in many other
+areas of care and treatment. They want it now, because they
+know it will help veterans.
+Mr. Chairman, in closing, thank you and all the members of
+the subcommittee once again for your support of veterans and
+VA. You have provided the funds for us to make this leap
+forward in care that will help veterans, their families, and
+caregivers. We recognize the importance of what we are about,
+the need for transparent and careful use of appropriated funds,
+and the need to move forward quickly but carefully as we make
+strides not only for our nation's veterans but in areas that
+surely pay dividends for better care of Americans in the
+future. We are all committed to strengthening the VA system.
+EHRM will help us do that and strengthen the ties that bind
+veterans to their VA.
+Thank you, sir, and we look forward to your questions.
+[The statement follows:]
+Prepared Statement of Hon. James Byrne
+Good morning Chairman Boozman, Ranking Member Schatz, and
+distinguished Members of the Subcommittee. Thank you for the
+opportunity to testify today in support of the Department of Veterans
+Affairs (VA) initiative to modernize its electronic health record (EHR)
+through the acquisition and deployment of the Cerner Millennium EHR
+solution. I am accompanied today by Mr. John Windom, Executive Director
+of the Office of Electronic Health Record Modernization (OEHRM), Dr.
+Laura Kroupa, Acting Chief Medical Officer of OEHRM and Mr. John Short,
+Technology and Integration Officer of OEHRM.
+I want to begin by thanking Congress, and specifically this
+Subcommittee, for your continued support and shared commitment for the
+program's success. Because of your continued support, VA has been able
+to stay on track for implementation, enabling us to continue our
+mission of improving healthcare delivery to our Nation's Veterans and
+those who care for them while being a good steward of taxpayer dollars.
+background
+On May 17, 2018, VA awarded an Indefinite Delivery/Indefinite
+Quantity (ID/IQ) EHR contract to Cerner. Given the complexity of the
+environment, VA has awarded this ID/IQ to provide maximum flexibility
+and the necessary structure to control cost. Through this acquisition,
+VA will adopt the same EHR solution as the Department of Defense (DoD).
+The solution allows patient data to reside in a single hosting site
+using a single common system to enable the sharing of health
+information, improve care delivery and coordination, and provide
+clinicians with data and tools that support patient safety. VA believes
+that implementing a single EHR will allow for seamless care for our
+Nation's Servicemembers and Veterans.
+program milestones
+Since contract award, VA has accomplished several key events
+outlined below.
+Task Orders
+As mentioned earlier, VA awarded the Cerner contract on May 17,
+2018. VA also awarded the first three Task Orders (TO), which are
+project management, Initial Operating Capabilities (IOC) site
+assessments, and data hosting. In September of 2018, VA awarded three
+TOs for Data Migration and Enterprise Interface Development, Functional
+Baseline Design and Development and IOC Deployment. By leveraging the
+ID/IQ contract structure, VA can award TOs as needs arise and negotiate
+firm-fixed- prices on an individual TO basis, allowing VA to moderate
+work and modify deployment strategies efficiently. Below are additional
+details regarding the TOs:
+--Task Order 1- EHRM Project Management, Planning Strategy, and Pre-
+IOC Under this task order, Cerner will provide project
+management, planning, strategy, and pre-IOC build support. More
+specifically, the scope of services included in this task order
+are project management; enterprise management; functional
+management; technical management; enterprise design and build
+activities; and pre-IOC infrastructure build and testing.
+--Task Order 2- EHRM Site Assessments--Veterans Integrated Service
+Network (VISN) 20 Under this task order, Cerner will conduct
+facility assessments, to prepare for the commercial EHR
+implementation, for the following VISN 20 IOC sites: Mann-
+Grandstaff VA Medical Center (VAMC) (Spokane WA), Seattle VAMC,
+and American Lake VAMC (Tacoma, WA). Cerner will also provide
+VA with a comprehensive current-state assessment to inform
+site-specific implementation activities and task order-specific
+pricing adjustments.
+--Task Order 3- EHRM Hosting Under this task order, Cerner will be
+funded to deliver a comprehensive EHRM hosting solution and
+start associated services to include hosting for EHRM
+applications, application services, and supporting EHRM data.
+--Task Order 4- Data Migration and Enterprise Interface Development
+Cerner will provide data migration planning refinement,
+analysis, development, testing, and execution. Cerner will
+support enterprise interface planning refinement, design,
+development, testing, and deployment. Cerner will provide
+commercially available registry selected by VA for IOC as well
+as details and updates on the progress of IOC data migration
+and enterprise interface development.
+--Task Order 5- Functional Baseline Design and Development Cerner
+will provide project management, workflow, training, change
+management, and EHRM stakeholder communication.
+--Task Order 6- IOC Deployment Cerner will provide: project
+management; IOC planning and deployment; test and evaluation;
+pre-deployment training; go-live readiness assessment,
+deployment, and release; go-live event; post-production health
+check and deployment completion; post-deployment support; and
+continued deployment decision support.
+Current State Review
+In July 2018, VA and Cerner conducted a Current State Review at
+VA's IOC sites to gain an understanding of the sites' specific as-is
+state, and how it aligns with the Cerner commercial standards to
+implement the proposed to-be state. The team conducted organizational
+reviews around people, process, and technology. They observed and
+captured current state workflows; identified areas that will affect
+value achievement and present risk to the project; identified benefits
+from software being deployed; and identified any scope items that need
+to be addressed.
+VA reviewed final reports analyzing the Current State Review in
+October 2018 and discovered there are infrastructure readiness areas
+that are in better condition than initially forecasted and areas that
+require slightly more investment due to aging infrastructure. However,
+there were no unexpected major needs or significant deviations from the
+current projected spend plan.
+Model Validation Event
+In September 2018, VA held its Model Validation Event, where VA's
+EHR Councils met with Cerner to begin the National and local workflow
+development process for VA's new EHR solution. There was a series of
+working sessions designed to examine Cerner's commercial recommended
+workflows and evaluate the current workflows used at VAMCs. This allows
+VA to configure the workflows to best meet the needs of our Veterans,
+while also implementing commercial best practices.
+Cerner Baseline Review
+VA is committed to align its workflows closely with commercial best
+practices; therefore, VA commissioned Cerner to complete a baseline
+assessment of how closely DoD's MHS GENESIS aligns with these
+practices. In September 2018, Cerner presented the results of the
+assessment. VA learned DoD has high adoption of recommendations and
+system configuration, which are generally in alignment with commercial
+best practices.
+oehrm organizational structure and strategic alignment with dod
+On June 25, 2018, VA established OEHRM to ensure VA successfully
+prepares for, deploys, and maintains the new EHR solution and the
+health IT tools dependent upon it. OEHRM reports directly to VA Deputy
+Secretary and works in close coordination with VA Veterans Health
+Administration and Office of Information Technology. Mr. Windom
+currently serves as the program's executive director and has supported
+the effort at a leadership-level since its inception. Prior to joining
+VA, Mr. Windom was a Program Manager for the Program Executive Office
+of the Defense Healthcare Management Systems (DHMS).
+To ensure appropriate VA and DoD coordination, we emphasize
+transparency within and across VA through integrated governance and
+open decisionmaking. The OEHRM governance structure has been
+established and is operational, consisting of technical and functional
+boards that will work to mitigate any potential risks to the EHRM
+program. The structure and process of the boards are designed to
+facilitate efficient and effective decisionmaking and the adjudication
+of risks to facilitate rapid implementation of recommended changes.
+At an inter-agency level, the Departments are committed to
+instituting an optimal organizational design that prioritizes
+accountability and effectiveness, while continuing to advance unity,
+synergy, and efficiencies between VA and DoD. The Departments have
+instituted an inter-agency working group to review use-cases and
+collaborate on best practices for business, functional, and IT
+workflows, with an emphasis on ensuring that interoperability
+objectives are achieved between the two agencies. VA's and DoD's
+leadership meet regularly to verify the working group's strategy and
+course correct when necessary. By learning from DoD, VA will be able to
+address challenges proactively and reduce potential risks at VA's IOC
+sites. As challenges arise throughout the deployment, VA will mitigate
+adverse effects to Veterans' healthcare.
+implementation planning and strategy
+It will take OEHRM several years to fully implement VA's new EHR
+solution and the program will continue to evolve as technological
+advances are made. The new EHR solution will be designed to accommodate
+various aspects of healthcare delivery that are unique to Veterans and
+VA, while bringing industry best practices to improve VA care for
+Veterans and their families. Most medical centers should not expect
+immediate major changes to their EHR systems.
+VA's approach involves deploying the EHR solution at IOC sites to
+identify challenges and correct them. With this IOC site approach, VA
+will hone governance, identify efficient strategies, and reduce risk to
+the portfolio by solidifying workflows and detecting course correction
+opportunities prior to the deployment at additional sites. As
+mentioned, VA and Cerner have conducted Current-State Reviews for VA's
+IOC sites. These site assessments include a current-state technical and
+clinical operations review and the validation of the facility
+capabilities list. VA started the go-live clock for the IOC sites, as
+planned, on October 1, 2018.
+Further, VA is continuing to work proactively with DoD and experts
+from the private sector to reduce potential risks during the deployment
+of VA's new EHR by leveraging DoD's lessons learned from its IOC sites.
+Several examples of efficiencies that VA is leveraging are: revised
+contract language to improve trouble ticket resolution based on DoD
+challenges; optimal VA EHRM governance structure; fully resourced PMO
+with highly qualified clinical and technical oversight expertise;
+effective change management strategy; and using Cerner Corporation as a
+developer and integrator consistent with commercial best practices.
+During the multi-year transition effort, VA will continue to use
+Veterans Information System and Technology Architecture (VistA) and
+related clinical systems until all legacy VA EHR modules are replaced
+by the Cerner solution. For the purposes of ensuring uninterrupted
+healthcare delivery, existing systems will run concurrently with the
+deployment of Cerner's platform while we transition each facility.
+During the transition, VA will ensure a seamless transition of care. A
+continued investment in legacy VA EHR systems will ensure patient
+safety, security, and a working functional system for all VA healthcare
+professionals.
+change management and workflow councils
+Because the program's success will rely heavily on effective user-
+adoption, VA is deploying a comprehensive change management strategy to
+support the transformation to VA's new EHR solution. The strategy
+includes providing the necessary training to end-users: VAMC
+leadership, managers, supervisors, and clinicians. In addition, there
+will be on-going communications regarding deployment schedule and
+anticipated changes to end-user's day-to-day activities and processes.
+VA will also work with affected stakeholders to identify and resolve
+any outstanding employee resistance and any additional reinforcement
+that is needed.
+VA has established 18 EHR Councils (EHRC) to support the
+development of national standardized clinical and business workflows
+for VA's new EHR solution. The councils represent each of the
+functional areas of the EHR solution, including behavioral health,
+pharmacy, ambulatory, dentistry, and business operations. VA
+understands that to meet the program's goals we must engage frontline
+staff and clinicians. Therefore, the composition of the EHRCs will
+continue to be about 60 percent clinicians from the field who provide
+care for Veterans, and 40 percent from VA Central Office. As VA
+implements its new EHR solution across the enterprise, certain council
+membership will evolve to align with contemporaneous implementation
+locations. While deploying in a particular VISN, the needs of Veterans
+and clinicians in that particular VISN will be incorporated into
+national workflows.
+funding
+With the support of Congress, OEHRM has not experienced funding
+shortfalls that would impact the success of the EHRM initiative. OEHRM
+reviews its lifecycle cost estimate at least once per month to reflect
+actual execution and to fulfill its programmatic oversight
+responsibilities. OEHRM will provide Congress with regular updates to
+ensure that the program is fully funded and to support our commitment
+to transparency. VA's enacted fiscal year 2019 budget of $1,107 million
+allows VA to continue the implementation, preparation, development,
+interface, management, rollout, and maintenance of the EHRM initiative.
+The 2019 enacted budget comprises the following:
+--$575 million in the EHR Contract subaccount used for Enterprise
+Integration task orders, Technology Acquisition Center fees,
+site assessments, and change management,
+--$120 million in the Program Management subaccount used for contract
+support staff, pay and benefits, travel and administrative
+expenses, and
+--$412 million in the Infrastructure Readiness subaccount for end
+user devices, testing activities, interfaces, and Medical
+Community of Interest, or MedCOI.
+closing
+Again, the EHRM effort will enable VA to provide the high-quality
+care and benefits that our Nation's Veterans deserve. VA will continue
+to keep Congress informed of milestones as they occur. Mr. Chairman,
+Ranking Member, and Members of the Subcommittee, thank you for the
+opportunity to testify before the Subcommittee today to discuss one of
+the VA Secretary's top priorities. I would be happy to respond to any
+questions that you have.
+Senator Boozman. Thank you. I will go ahead and get
+started. Mr. Byrne, interoperability with legacy systems
+remains a challenge across the board for new VA IT systems. We
+are currently watching VA struggle to implement changes to the
+G.I. Bill that resulted in IT challenges. The scope and scale
+of the challenges the VA will face in the EHR modernization
+endeavor cannot be understated. It is something that we simply
+cannot fail in.
+VA will be rolling out the modernized EHR system. At the
+same time, it is implementing the sweeping changes required
+under the Mission Act and other changes in law, $16 billion
+dollars over 10 years. Somebody was telling me, you can
+appreciate this as an old Naval Academy graduate. I think--did
+you tell me you had a son on submarines?
+Mr. Byrne. Yes sir, I do.
+Senator Boozman. Thank you very much. So we appreciate that
+service, but I think the new aircraft carrier is $13, $14
+billion. So this is a huge undertaking, huge expense. So I
+guess, my question is, what steps is the VA taking to ensure
+that we will have interoperability between new EHR system and
+VISTA? How is VA going to ensure that data from community care
+providers is quickly fed back into the new EHR?
+Mr. Byrne. So the first part of your question, sir, I think
+you asked about your concern with the implementation of Colmery
+and within (VBA) Veterans Benefits Administration. And so, I
+would like to differentiate the two of those, basically, and
+then I would like, with your permission to pass the question
+off to Mr. Windom, because I think you had several questions
+within that, I hope he was taking notes on them.
+Senator Boozman. He was busy.
+Mr. Byrne. But the first is with the implementation of the
+electronic solution for Colmery and the payment of education
+benefits. That was a homegrown solution, which I will
+differentiate between what we are doing now, which is an off-
+the-shelf purchasing of Cerner, a system that has sort of been
+proven across the industry and so I want to differentiate the
+two of those, why I think we should have a higher confidence in
+Cerner. It is proven in the marketspace. And so, I
+differentiate the two of those. I have asked Mr. Windom to
+address--I think there were six questions within that.
+Mr. Windom. Thank you, Mr. Chairman. The interoperability
+element is our primary objective. Not only interoperability
+within the VA, between DoD and the VA and also with our
+community providers. So at the forefront, I think, as we look
+at the challenges and implementation like this, we face, it is
+about putting the right people, the right team together. We
+have been leveraging DoD and lessons learned. I can assure you,
+our relationship has only grown over the past 22 months that I
+have been on board. And so, being able to understand their
+challenges, this is hard for a reason. And so, we are
+communicating weekly with not only our weekly one-hour sessions
+but our monthly sessions. So that exchange of ideas and
+communication is ongoing.
+I will tell you that we have got a number of strategies
+that we are employing with that I am going to turn it over to
+Dr. Kroupa to talk about that clinical information exchange
+that data exchange, because again, this is about user adoption.
+This is about the willingness of the end users to use the
+technical solution that we are bringing the bear. And so that
+training mechanism, those exchange management strategies are
+all imperative, and I think we are doing that as part of both
+our national workshops and our local workshops where we are
+engaging both headquarters and field to ensure an understanding
+of the direction. So I am going to pass it off, because I think
+that data movement, that data migration, that data access is
+important. So Dr. Kroupa, if you do not mind.
+Dr. Kroupa. Sure. So we are doing a couple of things. One
+thing we are doing right off the bat is moving a lot of our
+data into the Cerner system for all patients across the country
+before our first go live. So we have 20 domains of patient data
+that will be front loaded into the Cerner product. So that
+those--that data will be available to DoD sites and also be
+available at our IOC sites. So that clinicians will not have to
+work without the data that has been accumulated in VISTA over
+time.
+One of the things that we are going to accomplish with this
+system is interoperability between VAs, because right now, as
+you said--we have 130 different systems. So now folks will be
+able to see all of the records for across the country when we
+go live on Cerner as well as the DoD sites.
+The interoperability with the community is obviously a
+national issue. It is not just a technical issue. Using a
+Cerner hub will allow us to exchange information with community
+partners, and we hope to be able to grow and move that forward
+as we gain traction with Cerner. So some of that comes down to
+business rules and relationships and really making the case
+that this is important for our veteran care.
+Senator Boozman. Very good. Senator Schatz.
+Senator Schatz. Thank you, Mr. Chairman. I am concerned
+about VA's relationship with Congress when it comes to
+oversight and so I am just going to ask you, Mr. Byrne, a
+simple question, and I think you can answer on behalf of the
+rest of the team.
+Do you commit to responding promptly to written questions
+from members of this subcommittee including the Chair and
+Ranking Member beyond the quarterly reports on EHR and other
+matters?
+Mr. Byrne. Certainly.
+Senator Schatz. Thank you. I am looking at the appropriated
+money for last fiscal year, roughly $1.1 billion and you have a
+planned $25 million carryover which ends up being $205 million
+carryover. So then the spend plan for fiscal year 2019 is
+$1.287 billion. You have got $37.5 million obligated and
+roughly $9 million spent. I guess the first question is, are
+you on pace to spend this money in time? That is the first
+question. And then the second question, becomes, if not, how do
+we know, so that we can calibrate our appropriations so we are
+not appropriating money into a pile?
+Mr. Byrne. So I will take a quick stab at that and then
+kick it over to Mr. Windom who is intimate with those exact
+numbers.
+Senator Schatz. He smiled a lot.
+Mr. Byrne. Because he is chomping at the bit ready to
+answer this question. But I would like to insert, sir, that
+IOC, we anticipate going live here in the beginning of the
+second quarter, and we are going have a whole lot better
+picture of our spend rate and our ability to move forward at
+that time. So that is not really a specific answer to your
+question, but we are in a little bit of a wait-and-see method
+there.
+You give us three-year monies. That was appropriate as we
+spent up, and we are appreciative of that. I would ask Mr.
+Windom to maybe address the very specifics of your questions.
+Mr. Windom. Sir, I understand your concerns. I have had an
+opportunity to speak with your staff, and I appreciate the
+latitude you have given this program with three-year money. I
+think, though, the way I would answer your question is, you
+have challenged me to be fiscally responsible and fiducially
+responsible. And that we will not frivolously spend money
+without a bona fide need.
+There is a bona fide need for the resources that have been
+allocated. I cannot take the budget and just divide by four and
+have an equal expenditure in each quarter. We want to make sure
+our timing is correct. For example, many times we buy equipment
+prematurely, and you have to warehouse it. You have to put it
+in warehouses which now makes software go obsolete and things
+like that. So you will see, just-in-time-buys that we are
+employing for infrastructure buys.
+We do not want to buy the equipment such that when it
+arrives to us, we are able to put it where it is needed
+immediately. And so things like the infrastructure buys are
+going to be delayed until the last moment possible, such that
+as we are installing it and taking advantage of all
+technological advancements prior to that buy or that purchase.
+Senator Schatz. So, I just want to be clear. I am not
+criticizing you for spending slow. I am asking that we get
+better fidelity into what the spend plan is so that we know--
+because part of it is just as simple as, ``Hey, we don't want
+you to waste money just to satisfy our need to feel like you're
+on your plan.'' But on the other hand, if you are delayed, you
+are delayed. In which case, we ought not to appropriate money
+that can wait until a subsequent fiscal year.
+So all we need is better communication as it relates to
+where you are exactly.
+Mr. Windom. Yes sir.
+Senator Schatz. And not waiting for either an oversight
+hearing or these 90-day quarterly reports, which my staff tells
+me, you know, does not quite tell the picture. Especially when
+you are launching, 90 days is a really long time to wait to
+figure out where we are at.
+Final question, a lot of people have expressed concerns
+that private individuals have played in the VA procurement
+decisions and there are lots of very good people in leadership
+and at the line level who want to do this right. And I have no
+particular reasons to suspect that anybody is doing otherwise.
+But here is the question, besides workshops, council
+meetings, site visits, and other routine and related community
+events, have you or anyone you know formally or informally
+corresponded with any private individual not officially
+involved with the EHR modernization through a contract for
+services or provider agreement? Mr. Byrne?
+Mr. Byrne. I am not aware of anybody doing such things,
+sir.
+Senator Schatz. Okay, I am going to reduce this question to
+writing, because I do not want to put any of you on the spot,
+and I want you to get it exactly right.
+This concern that there are three private individuals who
+meet at a private club, who have improper influence over the
+operation of the Veterans Administration is a first order for
+scandal, if it is true. And we want to get to the bottom of
+that particular question. I know there is going to be, I
+believe, a GAO study, but I also trust you to answer the
+question as straightforwardly as possible. So we will, in a
+non-accusatory way, reduce this to writing so that you can
+clear up who, if anyone, is being influenced by these three
+private individuals who, at least reportedly, have outside
+influence at a Government agency.
+Thank you, Mr. Chairman.
+Senator Boozman. Senator Capito.
+Senator Capito. Thank you, Mr. Chairman. Thank all of you.
+Appreciate what we are trying to accomplish here, and I would
+say way overdue in time, and we want to see this be successful.
+So Cerner is the main contractor. Obviously, they are
+letting subcontracts to small businesses, which is required
+through the--complying with the subcontracting plan, one of
+those happens to be in my state. So I would like to know if
+anybody can give me some data as to whether they are fulfilling
+the 5 percent subcontract to small businesses, if Cerner is
+moving forward on that. And what kind of feedback you are
+getting from them in terms of moving some of that business to
+our smaller businesses?
+Mr. Windom. Yes ma'am. So we have a 17 percent overall
+small business set aside plan associated with the work that
+Cerner has been assigned, which equates to about $10 billion.
+The breakout of that is small disadvantaged businesses, 5
+percent women-owned businesses.
+Senator Capito. Right.
+Mr. Windom. Five percent up zones, 3 percent and so on. So
+as you know, the oversight mechanism is what is important. And
+I can tell you, my Program Management Oversight Office is very
+much attentive to Cerner fulfilling those established goals.
+Over 10 years, that equates to anywhere from $500 to $600
+million, and that is assuming at the present level. And so, we
+have the ability to not issue task orders if Cerner is not
+fulfilling those goals. So the task orders that we have issued
+today, Cerner has been meeting those small business objectives.
+Senator Capito. In all categories?
+Mr. Windom. Toward 17 percent. Keep in mind, ma'am, is that
+there is overlap between the 17 percent, in that you can be a
+small disadvantaged business and also be a woman-owned
+business, et cetera. So, ma'am, across the categories that we
+have established, they are in compliance, and we will continue
+to ensure that this is the case.
+In addition, as an aside, we are having in the spring, a
+vendor day, if you will, where Cerner is going to be hosting
+vendors that are interested in showing their expertise, their
+talent, their abilities to support our overall mission
+objectives as a proactive measure to ensure that we remain in
+compliance and can continue to leverage good ideas that small
+businesses, in fact, have.
+Senator Capito. Yeah, I would appreciate having the date
+and--
+Mr. Windom. Yes ma'am.
+Senator Capito [continuing]. And maybe you could generate
+all of that to our offices. Certainly as somebody whose
+proximity to the D.C. region, my state is fairly close. This
+could be helpful, but it would be helpful in Hawaii as well.
+Let me ask you something. Cerner is developing, I am sure,
+on the other side of their non-governmental business,
+proprietary products and other things for their private
+businesses. Is there any concern that with a contract this
+large that the firewall between developing proprietary products
+and the Government products, in other words, I do not want to
+see them developing their proprietary products on our
+Government tax dollars. What would you have to say? What kind
+of firewalls do you have in place for that?
+Mr. Windom. Ma'am, I think you will find our strategy
+supports the removal of the intellectual property barrier. It
+from--I cannot speak for Cerner, but it is--they seek to
+maintain a single base line between their commercial and their
+Federal business.
+I can tell you within the terms and conditions of the
+contract, we put clauses in there that address the fact that we
+will continue to help them innovate and hopefully we will be
+introducing ideas as part of, you know, if you will, our smart
+people that reside within the VA. Helping them understand, not
+only our market but contributing to ideas that may support
+their commercial market.
+Within the framework of the terms and conditions of the
+contract, we have, actually language that allows for the
+sharing of potential profits that may be gained by those ideas.
+Senator Capito. That was going to by my next--
+Mr. Windom. So yes ma'am. So I think the cross-pollination
+between the commercial and also the Federal space are important
+to preserving that commercial desire to be more like the
+commercial EHR platforms. So we have not faced those
+inhibitors, to date. But we will be mindful of them, especially
+since you have expressed that concern, but I think we have got
+language in the contract. And again, enforcement is important
+to where we are going to be able to cross-pollinate, share
+ideas, and then the Government reap whatever benefits they so
+need.
+Senator Capito [continuing]. Good. Let me ask this. I do
+not have much time left. This is a big question. In terms of
+putting electronic medical records into the private space and
+where we are doing this now with the VA, there has been an
+issue with providers--maybe I will say, since I am in that
+category, older providers who do not really want to, you know,
+move into the electronic medical records. It is expensive. They
+do not really know the technology. They do not want to mess
+with the technology. You said something, just a bit ago, about
+cross VA and how--it led me to believe, like this is going to
+be a requirement for everybody across.
+Are you going to be training through the spectrum? It is
+not just going to be physicians. Obviously, it might be
+physician's assistants, physical therapists, et cetera, et
+cetera. Am I understanding that correctly?
+Mr. Windom. Yes ma'am. There are many other types of users
+besides clinicians.
+Senator Capito. Right.
+Mr. Windom. And so that whole user base is important for
+our overall success. And so, ma'am, if you do not mind, I am
+going to defer that do Dr. Kroupa, because she is at the
+forefront of these clinical or these change management councils
+that are supporting those.
+Dr. Kroupa. So we have one advantage. We have been using
+electronic health records for many years, but we are not going
+from paper to an electronic health record. So everybody is used
+to being on a computer. But we have a robust training strategy
+and change management strategy to bring everyone to this new
+technology.
+Senator Capito. Great, thank you. I will just make a quick
+comment since Senator Baldwin and I work on this issue with the
+prescription of opioids and overuse and lack of accountability
+through the VA. I am certain that this will help, but if it is
+only if everybody is doing it the right way, cross VAs, cross
+your sea box and everything. So I encourage you that.
+Sorry I went over. Sorry.
+Senator Boozman. Senator Tester.
+Senator Tester. Thank you, Mr. Chairman. I want to thank
+you and Ranking Member for having this hearing. I welcome all
+the co-folks on the panel.
+Before I get into my questions on EHR modernization, I have
+a couple of things I just want to hit on very quickly.
+Yesterday, members of Congress charged with oversight of the
+VA's policy in funding, including myself and the Chairman and
+Ranking Member of this subcommittee.
+Sent a letter to the Secretary with a simple message that
+the VA needs to be more transparent. And the VA needs to work
+more collaboratively with Congress. I hope there are not folks
+within the VA that see us an enemy, because we are not. Our job
+is oversight, and if in fact, there are folks within the VA
+that think we are an enemy, then they need to change their
+opinion.
+We have got a lot of work to do, and we can get a lot of
+work done by working together, and I hope you folks agree on
+that. And let me give you an example, the Access Standards. I
+do not know anybody in Congress that knew what was in those
+Access Standards before they were announced, okay. Maybe one
+person. It has impacts on appropriations. It certainly has
+impacts on the Authorization Committee. And quite frankly, a
+better job should have been done in that regard. Why, because
+ultimately what we are talking about is that Dartmouth Report
+that you talk about, Mr. Byrne. Where the VA does have good
+healthcare and the Access Standards are bad or have
+unintentional consequences. It could result in privatization of
+the VA.
+So secondly, last week the Federal Court of Appeals ruled
+that territorial seize should be included in the definition of
+the service of the Republic of Vietnam. This is the Age in
+Orange Act. The Age in Orange Situation.
+Mr. Byrne, does the VA intend to appeal this ruling to the
+Supreme Court?
+Mr. Byrne. So these types of matters are handled by the
+Department of Justice in consultation with us.
+Senator Tester. That is right. You will be the driver. They
+will have to do the work.
+Mr. Byrne. That is correct, sir. And so we are taking that
+under advisement right now on what our recommendation is going
+to be.
+Senator Tester. So a decision has not been made yet?
+Mr. Byrne. Correct.
+Senator Tester. Okay. Mr. Byrne, it is no secret that
+making joint decisions and balancing priorities with the
+agencies, the size of the VA and DoD, which are very
+significant, is a challenge. Yet, we are only a year away from
+the first roll of the new EHR at the VA and no one has been
+designated as the ultimate decisionmaking authority between the
+two agencies. The Secretary committed back in September to
+create a joint Government structure. It still has not happened,
+and we have known since the Cerner contract in May that this
+process will be impossible without an entity at the top, the
+food chain to make final decisions.
+I understand there will be an upcoming report laying out
+some of the joint governance options, but we have not received
+any commitments about when there will be a final solution. In
+the meantime, important decisions are being made without formal
+interagency structure, and more importantly, many decisions are
+being kicked down the road, because there is nobody in place to
+make them.
+Senator Reid and I recently sent a letter to both agencies,
+because we are growing increasingly concerned about the impact
+that this is going to have on the success of this project. So
+tell me where we are at in this process and explain to me why
+this committee should not be concerned about what I just
+described?
+Mr. Byrne. So sir, we do have a governance construct in
+place, an interagency program office that is working. We have
+asked DoD Tiger Team--VA Tiger Team to work together to
+determine whether there is a better solution going forward for
+the long term. At the end of February, we will receive a report
+out from them on what they think the recommended course of
+action will be regarding some type of a joint or interagency
+organization to supplant or take over for this IPO office that
+is existing right now, allowing us to move forward undistracted
+to implement at the IOC sites.
+The agreement between the two Secretaries, then General
+Maddox and Secretary Wilkie was a 50,000-foot agreement.
+Senator Tester. Yep.
+Mr. Byrne. I can tell you that on a more operational level,
+I work with the acting Under Secretary over at DoD on the joint
+executive council. And ultimately, we are the decision makers
+if there is a dispute that cannot be resolved at the lower
+levels between DoD and the VA.
+All of us have agreed, despite any rumors that are out
+there, that we would like to consider the option, and we are
+looking forward to the recommendations at the end of February
+to have one arbitrator, whatever the title, a purple person,
+who we all agree would make decisions, whether it is a dispute
+between DoD and the VA. And that is a purple person, though.
+Not somebody from DoD. Not somebody from the VA.
+Senator Tester. Yep.
+Mr. Byrne. And the example I have used would be--this is a
+bad example, but it is like a marriage. You give 90 take 10.
+Senator Tester. So when is that purple person coming on
+board?
+Mr. Byrne. Well, we are looking for the recommendation.
+Senator Tester. Yeah.
+Mr. Byrne. That that is the right solution. And we are
+still seeking names and looking for that person right now. So
+we do not even have the--if that is the idea we choose. If that
+is the construct that we are going to use going forward, we
+have not decided on that person yet. We have not even
+interviewed them yet.
+Senator Tester. So--and I will put the rest of my questions
+in writing for the record.
+But my concern is DoD--VA's no small partner, here. It is
+big, but DoD can steamroll VA if they want.
+Mr. Byrne. I do not agree with that, sir.
+Senator Tester. Well, I hope you are right, but they have
+been down the road. So I think they have some experience that
+the VA does not have, that they could say, ``You know, we know
+better than you,'' and unless you have somebody who is able to
+look at it from both perspectives, because it is critical. Just
+one final thing, and it will be very quick, Mr. Chairman. When
+does the VA intend to determine whether they are going to
+appeal the Blue Water Navy issue?
+Mr. Byrne. So the DOJ has 90 days, I believe, to submit
+their package from the Solicitor General to the Supreme Court,
+and I am not sure exactly what our deadline is. I probably
+should know that, at the 45 or 60-day point. We have to put for
+what our recommendation to DOJ.
+Senator Tester. It would be really good to get some clarity
+on what is going to happen, here, because as you know, we
+almost had a Blue Water Navy Bill at the end of last Congress.
+We did not. This will have an impact whether we are going to
+move forward or not.
+Mr. Byrne. Yes sir. Thank you.
+Senator Tester. Thank you, Mr. Chairman.
+Senator Boozman. Senator Daines.
+Senator Daines. Thank you, Mr. Chairman. I am honored to
+join you and the members of the Mil-Con VA subcommittee for the
+116th Congress.
+The topic of today's hearing is timely. When I met with
+Robert Wilkie last summer, he shared a story about his father's
+service in Vietnam. The indorser's father incurred, the years
+he spent carrying around reams of paperwork to get treatment at
+VA facilities. As a son of a Marine myself, I appreciate the
+unique challenges that our service members face.
+Today we are reviewing a plan to create a viable,
+electronic health record system at a cost of $16.1 billion.
+That is with a ``B'' over 10 years. I spent years in the cloud
+computing, Novell software business data integration and so
+forth and had a fair amount of experience in this. Frankly,
+$16.1 billion, when I look at it, is a lot of money. I
+appreciate the witnesses' time and optimism, but I think these
+numbers demand some scrutiny.
+Mr. Byrne, you pointed out that new Office of Electronic
+Health Record Modernization emphasizes transparency. As a
+Senator from Montana, my first question in preparing for this
+hearing was simply, when will Fort Harrison go live? I cannot
+find this information on the VA's website nor any public facing
+outlet.
+Furthermore, VA documents provided to the committee show
+conflicting information. One schedule showed fiscal year 2020.
+Another showed fiscal year 2027. Mr. Byrnes, when will Montana
+veterans be able to use a modern electronic health record
+system?
+Mr. Byrne. Well first, sir, I am glad that you are excited
+about this being rolled out in your state. I believe there is a
+roll out schedule. I just do not know it off the top of my
+head, and unless Mr. Windom does, we can take that for the
+record and get it back to you.
+Mr. Windom. Sir, I will have to take it for the record. We
+do have a full deployment schedule that reflects the 10 years
+of the 9 years, 6 months, that does, in fact, capture Montana,
+the great State of Montana. And we can tell where your facility
+lies at that and so I will take that for the record.
+Please, the terms and conditions of the contract has an
+agreed-to a deployment schedule. We will make sure your staff
+has that, sir.
+Senator Daines. I think transparency is really important
+here. Especially in light of the huge amount of money being
+spent as well as the importance of this project here to help
+our veterans. So I look forward to that response.
+Last month, the GAO released a report finding the VA spent
+$1.1 billion over 5 years on two previous attempts to update
+its health information system. This latest effort by VA is
+expecting to cost upwards of $16 billion over 10 years. I am
+just skeptical. I have watched in the days of the private
+sector, particularly, in the public sector, as well as private
+companies but spending huge amounts of money. Anytime I hear
+about 10-year roll outs in project timelines, consider me in
+the camp of skeptical. We can spend a lot of money, and by the
+time something gets implemented after that long period of time,
+oftentimes it is obsolete from the day it goes live.
+Mr. Byrne, you noted that, ``With congressional support,
+the VA has been able to been able to stay on track.'' In its
+report, the GAO stated the VA must work expeditiously to reach
+its goal. My question is, is 10 years an ambitious timeline,
+and would you describe the VA's efforts as expeditious?
+Mr. Byrne. So 10 years is a long time, sir. And I
+appreciate that. And the technology that we are starting with
+in the Northwest will be different than those roll outs later
+on in the deployment schedule. What I will share with you--what
+I am looking forward to, has a big metric, is a big decision
+maker, has some visibility into where we are, is the roll out
+of the IOC sites in Washington State. Up in Spokane and Seattle
+and Tacoma. How those are rolled out. Deficiencies we have
+learned from those. The challenges we learned from those are
+going to give us a picture of how much this is actually going
+to cost.
+And so for us to guess--we are guessing right now on the
+amount. I think it is an educated guess, but after the IOC
+rolls out, I believe we are going to have a much clearer
+picture to then be able to address your question more
+specifically.
+Senator Daines. So I am running out of time. I am going to
+follow up with Mr. Windom. If the idea behind this initiative
+is to leverage ``commercial best practices,'' where in
+industry, do we see software solutions being introduced over a
+10-year horizon?
+Mr. Windom. Sir, I think it is important to understand that
+the signing of the contract is a static document for a very
+dynamic environment. And so, we will continue to evolve with
+the commercial product. Things like cloud computing that you
+mentioned, definitely something that is on the horizon. You
+know, when you put a mechanism in place, you challenge me to
+manage cost, schedule, performance, and risk. And so, I will
+continue to update you on our strategy moving forward, but the
+vehicle we have in place, the IDIQ, indefinite delivery,
+indefinite quantity structure will allow us to take advantage
+of the technological advancements. So what the product looks
+like today in year one, may look like something different in
+year nine, but it will be interoperable, and I think that is
+key.
+Senator Daines. It may look different two quarters later,
+at the state of technology.
+Mr. Windom. Yes.
+Senator Daines. And lastly, I will make a comment. We used
+to say as we working toward--and any time these great big
+enterprise solutions are put in place like this with a 10-year
+time line and $60 million dollar-price tag, that is a recipe
+for disaster. It is a recipe for, frankly, not spending tax
+dollars wisely, but the people that are hurt the most are our
+veterans here who will not see a timely implementation here. As
+we say, these great big erector set, kingdom building with an
+IT organization. Systems like this, they are dinosaurs.
+Mr. Windom. Yes sir.
+Senator Daines. They just do not know they are extinct yet.
+Thank you.
+Mr. Windom. Sir, may I comment, and that is why IOC is so
+important. Secretary Behr indicated that it is that bite of the
+apple that is a manageable bite that will be allowed to assess
+what efficiencies can be gained. I can assure you, Cerner wants
+to go faster. It is our implementation, ensuring we employ the
+appropriate change management strategies to ensure the
+embracing of the user that is important. So sir, we will be
+pushing to go as fast as we can, and I can assure you, under my
+watch, we will be incredibly judicious.
+Thank you, sir.
+Senator Boozman. Senator Baldwin.
+Senator Baldwin. Thank you and I want to thank you Chairman
+Boozman and Ranking Member Schatz for holding this hearing.
+Thank our witnesses for being here.
+The Wait Time crises that was brought to light in 2014
+really revealed tragic deficiencies in caring for our nation's
+veterans and the need for modern and functioning scheduling
+system at the VA. And 5 years later, I am fearful that we are
+not closer to a solution.
+Mr. Byrne, is the VA currently operating a Cerner
+scheduling program in any VA medical center?
+Mr. Byrne. I am concerned to answer that question. I know
+there is an intent to do so. Rolling it out simultaneously with
+the overall roll outs of the EHRM system, starting with the
+three locations in Washington State. We are also rolling out
+this portion of the suite of options offered by Cerner. And so,
+I know we are intending to.
+Senator Baldwin. Is the answer no?
+Mr. Byrne. I am not sure. I can ask.
+Senator Baldwin. When will a pilot Cerner scheduling module
+go live?
+Mr. Windom. So ma'am, the answer is no to the Cerner
+Millennium Scheduling Suite. We have deployed separately in
+Columbus, Ohio, an EPIC-based solution. We have committed to
+deploying a Cerner scheduling module out-of-sequent post IOC,
+and the intent is to leverage the learnings of IOC to deploy,
+if you will, out of the vessel suite solution, simply the
+scheduling module.
+Senator Baldwin. So what is the tentative date that a pilot
+Cerner scheduling module will go live?
+Mr. Windom. So I would, by itself, so within the framework
+of the best of suite March of 2020.
+Senator Baldwin. March 2020?
+Mr. Windom. Post March 2020.
+Senator Baldwin. Okay, when will the Cerner scheduling
+module go live nationwide?
+Mr. Windom. The nationwide is 9 years and 6 months from
+that point, because nationwide means incorporating all the
+medical centers, and so that would be at the end of the
+deployment timeline.
+Senator Baldwin. And so 9 months or 9 years and some months
+after March of 2020?
+Mr. Windom. That would be the total solution, deployed
+nationwide to all VA facilities. The scheduling piece, alone,
+our intent is to deploy the scheduling piece separately to the
+appropriate facilities. The timeline for that has yet to be
+fully fleshed out, because we have not developed fully, our
+execution strategy, but we expect that to start shortly after
+we achieve IOC milestones in March of 2020.
+Senator Baldwin. What is the total cost for the Cerner
+scheduling to go live nationwide?
+Mr. Windom. Ma'am, those estimates are rough-order
+magnitude right now. In the coming months, we should have the
+full profile of our execution strategy built out, and we will
+gladly come brief you or your staffers on that full profile.
+I think--what I would like arrange.
+Senator Baldwin. What is the range?
+Mr. Windom. Pardon me?
+Senator Baldwin. What is the rough range?
+Mr. Windom. Ma'am I would not even offer you a rough
+estimate, because it is important, in hearings like this, to be
+accurate. And so, in the coming months, we will have that full
+profile for you.
+Senator Baldwin. Last week the Secretary announced proposed
+access standards for veterans seeking care in the community and
+there, once again, tied to wait times. Last week, the VA also
+announced that it was canceling the medical appointment
+scheduling system that you just referred to, the mass pilot
+project deployed at the Columbus VA Ambulatory Care Center.
+Here are some of the results of that pilot: There was a 30
+percent improvement in primary care wait times. An 18 percent
+improvement in behavioral health wait times. 30 to 50 percent
+reduction in the time required to schedule an appointment by a
+scheduler. The mass pilot allowed schedulers to schedule across
+VA medical centers and into specific departments without
+multiple phone calls and faxes. This is not possible to do
+today. For VA medical centers that are using the Legacy VISTA
+scheduling system.
+So Mr. Byrne, will this higher level of functionality be
+required under the Cerner scheduling model?
+Mr. Byrne. Yes ma'am.
+Senator Baldwin. Okay. Will the Cerner model allow VA
+schedulers to schedule outside of the VA?
+Mr. Byrne. Yes ma'am, community care.
+Senator Baldwin. In fiscal year 2019, the subcommittee
+included report language that required the VA to report back on
+the status of the scheduling system component.
+VA notes in its response that will not implement any of the
+existing scheduling pilot programs and will instead go with the
+Cerner scheduling solution, and the response says, ``VA
+believes that there is a return on investment in productivity
+and efficiency realized by accelerating this scheduling
+system.'' Now that is a really great statement, but I would
+like to see some of the metrics attached to this conclusion,
+this statement. So I asked the VA to provide the actual data
+and metrics used to justify that statement.
+Another statement made was, ``This will improve access for
+veterans and streamline workflow for staff.'' Since no VA
+medical center is currently operating on a Cerner scheduling
+module, I am not sure how the VA can make such a statement. And
+so I would like you to provide the committee with metrics and
+actual data on how this decision will improve access for
+veterans and streamline the workflow for staff.
+Almost 5 years after the scheduling problems at the VA came
+to light, the VA is telling Congress that veterans are going to
+have to wait another 5 years or more for nationwide deployment
+of a modern scheduling system. A system that VA has not tested
+and does not know the capabilities of.
+In its report to this committee, the VA says that we should
+trust this new solution and that it will provide improved
+access to care and streamline workflow for staff. I have to
+tell you, I am skeptical, and I would like to hear those
+answers from the VA. I think our veterans have waited too long,
+and we have spent over $30 million on a cancelled scheduling
+pilot that showed tremendous progress and promise. And now we
+are being told cost will not change, but resources will be
+needed sooner. And somehow, this is going to lead to better
+outcomes for our veterans. So given the track record, I am
+highly skeptical, and I hope that you will be able to provide
+some answers that elaborate on the conclusions that you gave on
+in your report to this committee.
+Senator Boozman. Senator Collins.
+Senator Collins. Thank you, Mr. Chairman. And thank you for
+holding this hearing on this very important issue.
+This modernization effort is incredibly important. I do not
+need to tell the witnesses who are here that fact. It should
+mean a great improvement for veterans in the State of Maine,
+once it is finally implemented nationwide. And I cannot
+emphasize enough how important it is that we get this right. So
+that Mainers and others who are leaving the military and going
+into the VA system have a seamless transition. I have never
+understood why we had different electronic medical record
+systems in the first place, and I am glad we are finally acting
+on that. We also need to make sure that in addition to the
+seamless transition between the DoD and the VA that there is
+interoperability between the Togus VA Hospital in the State of
+Maine, the oldest VA hospital in the nation and community
+providers, because there is only one VA hospital in Maine. And
+a lot of veterans get their care at community-based clinics or
+through what used to be known as the Arch Program in northern
+Maine.
+So one of my questions is when DoD encounters a problem
+implementing the new electronic health record systems and comes
+away with lessons that might be helpful to the VA, how are
+those lessons learned? What is the system for ensuring that,
+that is transferred to the VA or vice versa, Mr. Windom?
+Mr. Windom. Ma'am, we have had an ongoing relationship with
+DoD since day one. Those lessons learned are not only
+physically captured in a database, but they are addressed
+individually with mitigation strategies to prevent us from, if
+you will, duplicating elements that may have been challenges
+that they faced. And so, we have got, not only a database
+associated with that, we have an ongoing interchange a monthly,
+all-day interchange with DoD to share ongoing progress. A
+weekly interaction with DoD and VA to exchange weekly
+interactions. So I think we are getting to that in a number of
+ways, and we also have workshops that DoD is participating in
+as part of our clinical workflow development process that I
+will defer to Dr. Kroupa to touch on.
+Dr. Kroupa. So we have 18 councils that are made up of VA
+clinicians from across the country. They meet on a regular
+basis over the next eight to 9 months to design and build and
+configure the Cerner product for VA. We have DoD
+representatives on each of those councils who participate in
+the both online and in-person workshops to help us understand
+why they made the decisions they made, the consequences of
+those, and to work together to build the system.
+Senator Collins. Thank you. Mr. Byrne, as DoD works to
+overhaul its electronic health records system, I was chagrined
+to read a Bloomberg story that reported that DoD had discovered
+cybersecurity vulnerabilities. Now the good news is that these
+vulnerabilities were discovered by a team of military hackers
+and IT specialists. But the test conclusion is very disturbing,
+because it was that the system was not survivable when hit with
+staged attacks.
+As a member of the Senate Intelligence Committee, we are
+dealing a lot with cybersecurity issues, and I am well aware of
+just how vulnerable our Government systems and private sector
+systems are. And here we are having this huge merger of two
+enormous Departments that are going to have very sensitive,
+personal information, plus identifying information. How will
+the VA go about identifying and addressing cyber
+vulnerabilities in the new system?
+Mr. Byrne. So ma'am, what I can answer to you on that is
+that we have a new CIO, Mr. Jim Gfrerer, and his strength, I
+believe is in cybersecurity. Not that that is relevant, because
+he is leading a very large organization. And I will have one
+comment, and I am going to ask Mr. Short, who I know, in fact,
+I heard him give the answer the other day much better than I
+could to address your question. But the Red Team at DoD is the
+best of the best. And so, I do not know that they are
+penetrating the environment necessarily means it is not a
+robust defense, but I am not an expert. Mr. Short is. And if
+you are okay, ma'am, I would like to kick it over to him.
+Senator Collins. Absolutely, but I would just say that,
+believe me, there are a lot of foreign actors who are also
+very, very capable in this area.
+Mr. Byrne. Yes ma'am.
+Mr. Short. Ma'am, I reviewed the DoD report before it came
+out in the press and spoke with DoD about it. The good news is,
+every month since MHS Genesis, DoD's name for the new EHR has
+gone live. Every month Cerner has drove down the
+vulnerabilities that DoD discovered. So every month, the number
+of vulnerabilities in the system keeps going down, because
+Cerner's improving the system. Cerner has also moved all their
+platforms, even on the commercial side, to using this a
+standard setting for all security, improving all the security
+platforms. So DoD's conclusion, in discussion with me is, this
+was a good thing, because our team found it. We expect DoD Red
+Team to always get in to any system they go after, but the good
+news is that every day, Cerner is reducing those
+vulnerabilities and DoD feels confident, as well as I do, that
+we are safe.
+Senator Collins. Thank you, Mr. Chairman.
+Senator Boozman. Senator Udall.
+Senator Udall. Thank you very much, Chairman Boozman. Thank
+you, Ranking Member Schatz for pulling together on this,
+because this, I think, is a crucial issue to really helping
+veterans right on the line every day. It was good to hear, Dr.
+Kroupa, that you said that the clinicians are going to be
+actively involved in coming up with a system. I hope that you
+will inform your new CIO about that, because he said recently,
+James Gfrerer, now the VA CIO said in his confirmation hearing,
+``Clinicians, clinicians,'' he said, ``Will have to go through
+a substantial, rigorous process to conform their workflows to
+the IT systems.'' To me, that is backwards. The clinicians
+should be driving the process, and so I hope that with what you
+have said, that that is the direction that we are headed.
+But my question today, Mr. Byrne, last year members of
+Congress called this transition process ``deteriorating and
+rudderless.'' The rising cost underscore that the
+administration did not start this process with a clear view of
+what would be required. That is unfortunately a particularly
+acute example of what is a Government-wide problem with
+upgrading IT systems.
+Senator Moran and I were actively involved in passing
+(FITARA) Federal Information Technology Acquisition Reform Act
+and the Modernizing Government Technology IT Act. Does the VA
+plan to use the newly authorized working capital fund to
+reprogram their IT budget to fund this modernization project?
+Mr. Byrne. So if I may, I would just like to address one
+quick matter you had addressed. Our CIO, during the
+confirmation hearing, making a particular statement about
+clinicians. And if you were to ask him that same question
+again, I think the answer would be very lined up with Dr.
+Kroupa.
+Senator Udall. Oh, good.
+Mr. Byrne. He is a good man and we are very, very fortunate
+that he is on board with our team. And sir, I have to tell you,
+I do not know the answer to your question, and I am hoping one
+of my colleagues up here knows the answer about the working
+capital group.
+Mr. Windom. Senator, I think that is a CIO's call on how he
+is going to employ the new policy or law regarding FITARA. I
+can tell you that OEHR adheres to the existing structure of
+FITARA that the CIO has approval authority on our expenditures,
+and we have the appropriate interactions with them in advance
+of obligating monies.
+I think that Congress has been very clear to me with
+regards to the accounting of EHRM expenditures, and they do not
+want that money co-mingled with other IT investments. But I can
+tell you from our joint infrastructure strategy that we worked
+hand in hand with OIT to develop--we are exchanging ideas. We
+are cross-pollinating. We both understand our fiscal
+responsibilities and have no desire to waste taxpayer money on
+not being aligned.
+So we are doing that. And sir, I will talk with the CIO
+when I return. But I think that question is likely in his
+corner.
+Senator Udall. Okay, well I am going to submit that
+question for the record and hope that you get me back a
+thorough answer with regard to the working capital fund.
+Because I think when you are doing such a big project, you are
+going to need those kinds of dollars, and I would be happy to
+hear what you say.
+Senator Udall. Mr. Byrne, just a final question and really,
+it is more of a statement but I have a pending request to meet
+with Secretary Wilkie. Unfortunately it has been pending since
+July, and I have heard from other members that have similar
+difficulty meeting with VA leadership. I would like to ask you
+personally to commit to being responsive, but also that you
+would advise the Secretary to respond to our congressional
+request. Would you please do that? Would you commit personally
+today to be responsive when we have requests of the VA
+administration and the leadership?
+Mr. Byrne. Yes, to both your questions, sir.
+Senator Udall. Okay, thank you. Thank you both. Appreciate
+it.
+Senator Boozman. Thank you. Let me just ask a couple of
+more things. Dr. Kroupa, Mr. Byrne talked about the importance
+of the roll out as we go forward. DoD, I think they would
+agree, we would all agree that they stumbled a little bit.
+Maybe a little bit more than a little bit with their roll out.
+You are doing your councils and things like that. I guess, my
+thought is, it is one thing to do them, but we really do need
+to listen to the problems that are coming up with the
+specialties and things. Reassure us that that is happening.
+Dr. Kroupa. So even before the contract was signed, we
+started talking to DoD about their experiences at all levels of
+the organization. As I mentioned, we have our clinical councils
+which are made up of both national program leaders and people
+from the field who have a lot of experience with electronic
+healthcare records. Many of them use electronic health records
+at their academic sites. So it not just VA expertise.
+We have brought DoD folks into those councils so we could
+hear firsthand from them. So after the national workshops, we
+take it to the local sites, our IOC sites, so we have a week in
+Kansas City where our clinical councils are working together.
+Then we take it to the local sites where the folks in Spokane,
+in Seattle, they can actually see what decisions have been made
+and say, ``Yes, that's going to work for us, or no, no let's
+tweak this. Let's change that, or we have a question about
+that.'' So in doing that, we are not only configuring it and
+designing it, but we are also educating our users of what is
+going to happen so that they can anticipate and participate in
+the challenge.
+I think we also have industry best practice advisors on the
+councils. These are folks from various academic and centers
+that have rolled out large integrated electronic health care
+records, to advise our council chairs on some of the pitfalls
+and problems that they might run into.
+Senator Boozman. Very good. Another issue I think you have
+heard discussed at length today is the scheduling. And 10 years
+is too long. You are going to have to figure out a way to do
+that much more rapidly with the new access standards that have
+come out which will help veterans.
+One of the things that we are being told by VA is that
+efficiencies in the VA systems will help pay for that, because
+we are going to become more efficient. The way that you do
+that, the critical way that you do that is through scheduling.
+Senator Baldwin, you know, talked about the efficiencies that
+were gained, and you are choosing the system that we do, but we
+simply have to have those efficiencies, and we have to have it
+in a timely fashion for our mission to work and for it to be
+affordable.
+So that is something that we are going to have to, I think,
+push really hard. I think we are all in agreement on the
+committee, that again, a 10-year reprogramming, that is just
+simply unacceptable.
+Mr. Byrne. So I will make a comment on that scheduling
+solution, and I will ask John and company to correct me if I am
+wrong, but my understanding is, it is going to be well before
+10 years that this scheduling solution will be across the
+United States, will be in every medical center in the United
+States. We are doing a dual effort as the EHRM rolls out within
+the various medical centers, we'll, of course, implement the
+scheduling solution. But there is a separate effort in other
+locations to do the same. So I will not say that it is going to
+be in 4 or 5 years, but that is probably more likely than,
+certainly the 9 years, right?
+Mr. Windom. Yes sir, that intent, Mr. Chairman. The
+scheduling again, IOC is our testing platform, if you will. And
+we intend to get scheduling out to our veterans as soon as we
+possibly can. The commitment is the reason the return on
+investment was what it is we paid for the Cerner licenses.
+And so, in promoting interoperability objectives,
+installing two different systems, we would, in fact, complicate
+that interoperability objective. So I think we have got a plan.
+It is being refined over the next 3 months including what the
+cost profile looks like, what the timing of the deploying
+scheduling is and look forward to coming back and updating
+either you or your staff, sir, on that progress. I can assure
+you we have the same concerns that you have, sir. And we are
+going to address them and be able to formally present that to
+you, the plan.
+Senator Boozman. Good. No, we appreciate that. The last
+thing and Senator Tester alluded to this, General Maddox,
+Secretary Wilkie, you know, got together and said we are going
+to do this, made this statement. And we are all patting each
+other on the back. The reality, though, is that somebody has to
+be in charge. We have to have an organizational flowchart as to
+how things are decided.
+We have all been around governance for significant years
+and simply, that will bog down tremendously. So what we would
+like for you to do is provide an update on joint oversight, how
+this is going to work, including the organizational structure
+and accountability mechanisms that facilitate, consort,
+coordinated decisionmaking oversight, and we really want that
+like soon. That should already be in place. I doubt that it is,
+and I am not really being critical about that, but it is a
+necessary function for us to go forward efficiently. And we are
+going to push really hard to see that, and if not, you are
+going to have to come back here and explain why it is not being
+done.
+Senator Schatz.
+Senator Schatz. Just following up on the Chairman's last
+request. Do you already have this? An organizational chart that
+clarifies who does what?
+Mr. Windom. Sir, we have an existing governing structure
+that is supporting us today. The more efficient, more agile
+governing structure that you are speaking to that identifies,
+if you will, that single belly button, that single point, that
+is part of the assessment that is ongoing.
+I can assure you that we are working hard, daily, to gain
+joint efficiencies, joint process improvement.
+Senator Schatz. Right. But do you know--I mean the question
+he is driving at, right, is push comes to shove, who is in
+charge? Do you know the answer to that question?
+Mr. Windom. Sure, push comes to shove, who is in charge,
+the Deputy Secretary is in charge. I am a 30-year naval
+veteran, sir. And so, I relish that single person to ask. One
+thing I would like to highlight is that governance is working
+at the lowest levels, and which is where it has to work. I can
+tell you, there is very few issues on the table that are
+immediate with regard to that person being in the seat, and we
+have not hit critical path on any of those decisions yet. So we
+are very--we want that mechanism in place with letting the
+assessment team flesh out, if you will, all the buckets of
+consideration that have to take place.
+Senator Schatz. Okay.
+Mr. Windom. And so we look forward to that reporting out on
+that.
+Senator Schatz. Mr. Byrne, being general counsel for the VA
+is a full time job?
+Mr. Byrne. Yes sir.
+Senator Schatz. When are we going to get a Deputy Secretary
+nominee so we can relieve you of one or the other of these
+duties?
+Mr. Byrne. I do not know how to answer that, sir. That is
+up to the President and Mr. Wilkie, the Secretary of the VA to
+determine. And, of course, with the consent of this body.
+Senator Schatz. Okay. Let us talk a little bit about
+VISTA's sustainment. Obviously, you are going to be making a
+transition and some of these are operational questions. I know,
+Mr., Windom, that you will reassure me that there will be no
+operational glitches. I guess, the question is, since some of
+these are really moving targets, does some of these slide
+appropriations either to the left or to the right, depending on
+how long you have to keep VISTA sustained, you know, this can
+get a little clunky as you are launching to maintain sort of
+seamless experience from the customer side. So that part we
+have not really talked about and how it could impact the need
+for appropriations, either positively or negatively.
+Mr. Windom. Sir, again, you have entrusted me to support
+our veterans. We are not going to prematurely turn things off.
+Senator Schatz. I do not think you are going to do anything
+stupid.
+Mr. Windom. Thank you sir.
+Senator Schatz. We are satisfied that you are trying to
+make the right choices.
+Mr. Windom. Yes sir.
+Senator Schatz. What I am not satisfied about is that you
+are going to tell us as we go along so that we can make
+appropriations that are dialed in, right. So that we give you
+enough runway to make smart choices.
+Mr. Windom. Yes sir.
+Senator Schatz. We do not penalize you for not spending,
+you know, one fiscal year's money. And we do not put so much
+political pressure on you that you do a dumb thing, but we
+still need better fidelity from the standpoint of our staff's
+ability to do a markup that does not appropriate money into a
+pile.
+Mr. Windom. Yes sir.
+Senator Schatz. So that is the part I want you to get a
+little bit clearer with our staff about. We get that there will
+be a transition. We get that VISTA has to be operational all
+the way, really until the end, at least portions of it. We want
+to know how much more or less that may cost.
+Finally, there were reports last fall on the condition of
+IT infrastructure in the Pacific Northwest. Pilot sites to try
+to figure out whether you had the IT infrastructure to roll a
+new system out. Were there shortfalls in IT infrastructure and
+from a planning standpoint and the standpoint of this
+committee, does that indicate something system wide that we
+should be planning for? Or is that all baked into the 10 odd
+billion that we are planning for?
+Mr. Windom. Sir, I am going to make a quick statement, then
+turn it over to John Short. First of all, the carryover from
+fiscal year 2018 allowed us to cover what we perceived to be
+about a $70 million-dollar expenditure for infrastructure
+upgrades that were on plan. Things like user devices and things
+like that. We have been working hand in hand with the CIO such
+that there is a joint strategy, such that, we are going to be
+able--
+Senator Schatz. Yeah, but let me stop you there. You have a
+$200 million carryover, I think?
+Mr. Windom [continuing]. Yes sir, $203 million, yes sir.
+Senator Schatz. $250?
+Mr. Windom. $203.
+Senator Schatz. $203, okay.
+Mr. Windom. Yes sir.
+Senator Schatz. You have a $200 million carryover and part
+of that is like contracting delays. So out of the presumably it
+was $270, you spent $70 to deal with IT infrastructure, but it
+is not like you found savings. You just moved money to the
+right on your appropriations schedules. So the question is, on
+a year over year basis, are you able to absorb the needs for
+new infrastructure, or are you just pushing this out to the
+right, and as you delay contracting and cumbering money and all
+the rest of it, that you sort of book that in the current year
+end savings, plow it into infrastructure, but we are going to
+be left with a two or three billion-dollar infrastructure bill
+on the back end.
+Mr. Windom. Well sir that is why I think it is important
+that the CIO and I have an incredibly cooperative effort.
+Again, he has a budget that supports maintaining infrastructure
+today. Our funding supports the installation of the Cerner
+Millennium Solution. So those have to work hand in hand.
+Senator Schatz. But the question is, you do this analysis
+of the Pacific Northwest.
+Mr. Windom. Right.
+Senator Schatz. It tells you what you need. Presumably, you
+can do some back of the envelope and say, ``Well this is x-
+percentage of our system. We should probably multiply that by
+whatever and figure out whether the number we have for IT
+infrastructure upgrades, you know, sort of rhymes with what we
+now have some hard numbers that can extrapolate.'' So the
+question is, have you done that, and does it look okay?
+Mr. Windom. Sure, we are doing that as part of--as OI and
+IT creates its budget, they are incorporating the challenges
+that we are finding with regards to what infrastructure
+upgrades. We have the ability to go out and do current state
+reviews and we are out in front of our deployment efforts that
+we are identifying those costs, if you will, early. And we
+intend to report those out.
+Senator Schatz. So the answer is, you actually do not--I do
+not mean this as a criticism. The answer is you do not know the
+answer to that.
+Mr. Windom. The answer is we have not been to every site to
+assess what deficiencies may exist but as part of our
+deployment strategy, we are going to be out front enough to
+make sure that we understand whether there are any funding
+needs. Right now, there is no additional funding needs in
+support of the IOC requirements as it relates to
+infrastructure.
+Senator Schatz. Right, but I do not want you to wait until
+you are 100 percent sure to tell us. If you are at 98 percent
+sure, look this looks like it's going to be more money.
+Mr. Windom. Yes sir.
+Senator Schatz. We do not want to find out at the last
+minute in one of your quarterly reports. I guess I will let Mr.
+Short answer the question and then that will be my last.
+Mr. Short. So far, sir, our early indication is our budget
+for infrastructure is on track. We do not see any indications
+otherwise. We would have alerted that. We have a lot of
+communication. Last thing I will mention. We did provide to the
+Hill, last year, within the last year, integrated
+infrastructure plan with OIT, and they are looking at the big
+things we are finding that alter the system, and they are
+incorporating that in their fiscal year 2020 budget and beyond
+to make sure all of the system is taken care of. So right now
+we do not believe we are going to find something like that, but
+we will let you know.
+Senator Schatz. Thank you.
+Senator Boozman. Senator Hoeven is on his way, so. Senator
+Hoeven is on his way, and would like to weigh in but let me go
+ahead and just kind of close up and we will gavel it out once
+he gets done, but thank you all so much for being here. I know
+that you all are working very, very hard and have huge jobs to
+do. This is certainly not a small or insignificant undertaking.
+In fact, it is just the opposite of that. It is huge. This new
+medical record system, though, has tremendous opportunity for
+efficiency and all of that translates down to better care for
+veterans and that really is what it is all about. So we look
+forward to working with you, and I think we can be a huge help
+in pushing things forward and, you know, we have got the
+easiest thing in Government, when you bog down is just not to
+make a decision. And so, we are going to do our best to help
+you come up with a decision one way or the other. So we do
+appreciate all of your efforts.
+Have you got any other things on your plate?
+I think we have asked about every possible question that
+can be asked.
+Let me ask you about the fiscal year 2020 budget. Are you
+maintaining your commitment to funding initiative through the
+electronic health record account and not relying on transfers?
+Mr. Windom. Yes sir, we have given you a budget that we
+believe supports our implementation strategy over the next 3
+years. And so, we are not relying on transfers. I guess what I
+would offer is that, as I stated before, static contract
+dynamic requirement or dynamic environment. And so, as there
+are emerging requirements, I think we will remain transparent
+with your staff and be proactive in identifying whether we
+think there are any prospective funding shortfalls, but right
+now, we feel very good with the budget that you have allocated.
+And we are pressing forward.
+Senator Boozman. Very good. Okay, we will wait just a few
+minutes. Catch your breath and get sacked up for the next.
+Okay, you are off the hook. What he is going to do is, he is
+running a little bit late. Today is unique, you know, we have
+the State of the Union, the prayer breakfast is going on. The
+National Prayer Breakfast and the list goes on and on. And so
+that is another reason you all are in the same situations. You
+have got a lot going on. So we appreciate you taking the time
+to come over.
+ADDITIONAL COMMITTEE QUESTIONS
+And with that for members of the subcommittee, any
+questions for the record should be turned into the subcommittee
+staff no later than the close of business Tuesday, February
+12th.
+Questions Submitted by Senator Senator John Hoeven
+Question. Last week, the VA announced its proposed access standards
+for community care which were required under the VA MISSION Act of
+2018. The new access standards will give our veterans more of a choice
+when it comes to their care and where they would like to receive that
+care. As the VA rolls out its new, interoperable EHR platform, how will
+the Department work with, educate, and train VA community care partners
+to ensure that providers can properly access and update a veteran's
+medical record?
+Answer. Understanding that many transformation efforts fail due to
+lack of leadership buy-in and/or cultural resistance to change, VA has
+a robust training and change management strategy to support the
+implementation of its new EHR solution. The Office of Electronic Health
+Record Modernization (OEHRM) analyzed the lessons learned from
+Department of Defense (DoD) and will continue to collaborate with VA
+clinicians, government stakeholders, and industry partners to identify
+effective end-user retention and adoption strategies to optimize the
+success of the new EHR solution. To engage frontline staff, VA is also
+hosting several roadshows and workshops to enable end-users to present
+their concerns and suggestions. Furthermore, VA will be providing on-
+site training for clinicians and providers prior to deployment of its
+EHR solutions.
+Question. It is critical that the VA and DoD maintain an open line
+of communication as the new EHR system is implemented. I understand
+that the Departments have established an inter-agency working group to
+ensure that interoperability objectives are reached between the two
+agencies. How is the working group performing? Have potential
+challenges to implementation been identified? Are there any specific
+challenges the Departments are experiencing while operating under the
+current organizational structure?
+Answer. VA and DoD are committed to successfully deploying their
+EHRs to improve access and the quality of healthcare for our Nation's
+Servicemembers and Veterans. The Federal Electronic Health Record
+Modernization (FEHRM) Working Group (WG) has been established to ensure
+VA and DoD have an effective and efficient inter-agency arbiter.
+FEHRM WG will assess the Departments' current EHR implementation
+strategy and requirements, management and governance structures, and
+existing legislative authorities to recommend the optimal
+organizational construct for aligning plans, strategies, and structure
+across VA and DoD. The goal is to ensure both organizations receive
+timely decisions regarding the architecture and operations needed for
+the core technology.
+Since November 2018, the WG met with technical, legal, acquisition,
+financial, functional, and data management subject matter experts from
+DoD and VA. Additionally, the WG has met with the Interagency Program
+Office to develop functional, technical, and programmatic functions for
+the ongoing success of the inter-agency working group. There have been
+no issues that would adversely affect the WG or its mission.
+Question. VA fiscal year 2019 appropriations include a little over
+$1.2 billion for the VA to continue the implementation, development,
+rollout and maintenance of VA's new EHR system. What do you see as the
+most significant items of concern that could either drive up the cost
+or delay the rollout of VA's EHR system?
+Answer. There are three items that could potentially impact the
+cost or timeline of VA's EHR deployment: system training and change
+management, information technology infrastructure upgrades, and
+creation of clinical workflows. End-users must receive adequate
+training on the new EHR solution to provide safe, high-quality care to
+our Veterans. VA seeks to mitigate this risk by developing and
+executing a training schedule 8 weeks prior to the Go-Live date at each
+rollout site. Infrastructure upgrades must be implemented at the
+enterprise and site levels to deploy a fully operational EHR solution.
+In addition, VA infrastructure must be capable of supporting the
+simultaneous operation of legacy systems (i.e., VistA) and the new EHR
+solution during the transition period. To mitigate infrastructure
+risks, VA is evaluating Initial Operating Capability site Current State
+Reviews conducted by Cerner to identify infrastructure requirements
+through gap analyses. VA is also developing acquisition strategies to
+meet identified infrastructure needs. Clinical workflows must be
+developed to improve clinicians' ability to provide high-quality care
+to Veterans. Cerner must provide education to VA to structure and align
+the workflow development process. VA must collaborate with clinicians
+and community care partners to design the workflows. VA held a Model
+Validation event in September 2018. This event resulted in an 8-stage
+process, which includes conducting eight follow-on national and local
+workshop events to identify potential workflow issues.
+Question. Electronic health records are an important part of how we
+receive healthcare today. Having a record that one's healthcare
+provider can readily access can help save both time and money. That
+being said, given today's cybersecurity risks, there are also
+legitimate concerns about what is being done to safeguard private
+health information from cybercriminals. What steps are being taken to
+ensure that a veterans' private health information is protected? Are
+there additional safeguards that need to be taken in order to ensure
+that this information remains secure?
+Answer. The joint EHR is stored within the DoD-authorized enclave
+(MHS GENESIS) hosted at Cerner Corporation. MHS GENESIS risk management
+and continuous monitoring activities are supported through Defense
+Health Agency, DoD Health Management System Modernization Program
+Management Office, and OEHRM unified interagency cybersecurity
+programs.
+VA and DoD cybersecurity and network operations teams are working
+as one team to fight against cyber threats. Both departments are
+employing every reasonable measure at their disposal to ensure
+Servicemembers' and Veterans' patient records are secure.
+VA will deploy security boundary protections including jointly
+agreed upon DoD authorized security architecture. VA and DoD require
+and employ data encryption both in transit and at rest using Federal
+Information Processing Standards-certified cryptographic modules. VA
+will use two factor authentication for access to the system as well as
+audit access to ensure users have correct access to the data their
+profile allows. Both VA and DoD use National Institute of Standards and
+Technology requirements and guidance to design, employ, and test
+security controls throughout the lifecycle of a system and the joint
+electronic health record initiative is no exception.
+Furthermore, VA will embed personnel within the DoD's Cyber
+Security Service Provider forming a joint Network Security Operations
+Center (NSOC) specifically focused on the joint EHR initiative. Forming
+a joint NSOC will allow the agencies to integrate their respective
+protect, detect, respond, and sustain services allowing for more
+efficient, effective, and integrated vulnerability monitoring and
+management, network security (and performance) monitoring, intrusion
+detection, attack sensing and warning, vulnerability analysis,
+vulnerability assessment, and threat intelligence sharing.
+Questions Submitted by Senator Brian Schatz
+Question.I have concerns about the role that private individuals
+have played in VA procurement decisions. There are a lot of good men
+and women at the VA working in earnest to make decisions in the best
+interest of veterans and American taxpayers. I have no reason to
+suspect that any of you have acted otherwise. However, when it comes to
+the largest transformation in the history of the department, people
+need to be confident in how decisions are made.
+Besides workshops, council meetings, site visits, and other routine
+and related community events, have you formally or informally
+corresponded with any private individual not officially involved with
+the EHR modernization through a contract for services or provider
+agreement?
+Answer. No.
+Answer. I have not formally or informally corresponded with any
+private individuals not officially involved with Electronic Health
+Record Modernization (EHRM) through a contract for services or provider
+agreement.
+Answer.No, I have not formally or informally corresponded with any
+private individuals not officially involved with the EHRM effort
+through a contract for services or provider agreement.
+Question.If so, what was the nature of that correspondence and did
+it directly affect, in any way, a procurement decision?
+Answer. N/A
+Question. Please provide the committee with any formal or informal
+correspondence that relates to the above request.
+Answer. N/A
+SUBCOMMITTEE RECESS
+Senator Boozman. And with that, we are adjourned. Again,
+thank you very much.
+[Whereupon, at 11:52 a.m., Tuesday, Feburary 5, the
+subcommittee was recesssed, to reconvene subject to the call of
+the chair.]

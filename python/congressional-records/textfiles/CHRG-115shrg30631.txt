@@ -1,0 +1,1478 @@
+- NET NEUTRALITY: IMPACTS ON NEW HAMPSHIRE SMALL BUSINESSES
+[Senate Hearing 115-301]
+[From the U.S. Government Publishing Office]
+S. Hrg. 115-301
+NET NEUTRALITY: IMPACTS ON NEW HAMPSHIRE SMALL BUSINESSES
+=======================================================================
+FIELD HEARING
+BEFORE THE
+COMMITTEE ON SMALL BUSINESS
+AND ENTREPRENEURSHIP
+UNITED STATES SENATE
+ONE HUNDRED FIFTEENTH CONGRESS
+SECOND SESSION
+__________
+MAY 3, 2018
+__________
+Printed for the Committee on Small Business and Entrepreneurship
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Available via the World Wide Web: http://www.govinfo.gov
+______
+U.S. GOVERNMENT PUBLISHING OFFICE
+30-631 PDF
+WASHINGTON : 2018
+COMMITTEE ON SMALL BUSINESS AND ENTREPRENEURSHIP
+ONE HUNDRED FIFTEENTH CONGRESS
+----------
+JAMES E. RISCH, Idaho, Chairman
+BENJAMIN L. CARDIN, Maryland, Ranking Member
+MARCO RUBIO, Florida
+MARIA CANTWELL, Washington
+RAND PAUL, Kentucky
+JEANNE SHAHEEN, NEW HAMPSHIRE
+TIM SCOTT, South Carolina
+HEIDI HEITKAMP, North Dakota
+JONI ERNST, Iowa
+EDWARD J. MARKEY, Massachusetts
+JAMES M. INHOFE, Oklahoma
+CORY A. BOOKER, New Jersey
+TODD YOUNG, Indiana
+CHRISTOPHER A. COONS, Delaware
+MICHAEL B. ENZI, Wyoming
+MAZIE K. HIRONO, Hawaii
+MIKE ROUNDS, South Dakota
+TAMMY DUCKWORTH, Illinois
+JOHN KENNEDY, Louisiana
+Skiffington E. Holderness, Republican Staff Director
+Sean Moore, Democratic Staff Director
+C O N T E N T S
+----------
+Opening Statements
+Page
+Shaheen, Hon. Jeanne, Ranking Member, and a U.S. Senator from New
+Hampshire......................................................
+1
+Witnesses
+Shoer, MJ, Director, Client Engagement and vCIO, Onepath,
+Bedford, NH....................................................
+7
+Zakon, Robert, Chief Technology Officer, Zakon Group, LLC, North
+Conway, NH.....................................................
+12
+Pearson, Nancy, Director, New Hampshire Center for Women and
+Enterprise, Nashua, NH.........................................
+16
+Luse, Zach, Founder and CEO, Paragon Digital Marketing, Keene, NH
+19
+Drake, Lisa, Director of Sustainability Innovation, Stonyfield
+Farm, Inc., Londonderry, NH....................................
+23
+Cyr, Joshua, Director of Acceleration and Education, Alpha Loft,
+Portsmouth, NH.................................................
+26
+Alphabetical Listing
+Cyr, Joshua
+Testimony....................................................
+26
+Prepared statement...........................................
+28
+Drake, Lisa
+Testimony....................................................
+23
+Prepared statement...........................................
+24
+Information Technology and Innovation Foundation
+Article dated May 2018.......................................
+44
+Internet Service Providers
+Letter dated May 9, 2018.....................................
+64
+Luse, Zach
+Testimony....................................................
+19
+Prepared statement...........................................
+21
+Pearson, Nancy
+Testimony....................................................
+16
+Prepared statement...........................................
+17
+Risch, Hon. James E.
+Prepared statement...........................................
+4
+Shaheen, Hon. Jeanne
+Opening statement............................................
+1
+Shoer, MJ
+Testimony....................................................
+7
+Prepared statement...........................................
+10
+Zakon, Robert
+Testimony....................................................
+12
+Prepared statement...........................................
+14
+NET NEUTRALITY: IMPACTS ON NEW HAMPSHIRE SMALL BUSINESSES
+----------
+THURSDAY, MAY 3, 2018
+United States Senate,
+Committee on Small Business
+and Entrepreneurship,
+Durham, NH.
+The Committee met, pursuant to notice, at 10:03 a.m., in
+Room 158, Memorial Union Building, University of New Hampshire,
+Hon. Jeanne Shaheen presiding.
+Present: Senator Shaheen.
+OPENING STATEMENT OF HON. JEANNE SHAHEEN, RANKING MEMBER, AND A
+U.S. SENATOR FROM NEW HAMPSHIRE
+Senator Shaheen. Good morning. I'm actually going to sit
+down in just a minute because we have an official format we
+have to follow, because this is an official field hearing of
+the Small Business and Entrepreneurship Committee. So we will
+be following the guidelines that we have as a field hearing.
+But I want to first welcome everyone, and you should feel free
+to move up if you would like, if you have trouble hearing.
+I wanted to thank the University of New Hampshire for
+hosting us this morning. We have Stan Waddel, who is UNH's
+Chief Information Officer who is here, and he will say a few
+words because he is also very interested in these issues.
+So, Stan, before we officially open, I'm going to ask you
+to say a few words.
+Mr. Waddel. Certainly. Thank you. Thank you very much.
+First, I would like to offer each of you a warm welcome to
+the University of New Hampshire. The University of New
+Hampshire is the State's flagship research and education
+institution, home to 13,000 undergraduate students and 2,500
+graduate and professional students, and an estimated $1.5
+billion economic impact on the State of New Hampshire.
+As a technology professional in higher education, I can
+tell you that colleges and universities are watching this issue
+with great concern. We have concerns around whether or not the
+impacts will increase our cost of delivering content for
+students in the education of students. We have concerns whether
+or not it will impact the cost of our research endeavors and
+just in general have an impact on the ability to have a free
+exchange of ideas and information on the internet.
+So we are watching these developments with concern, and I'm
+pleased that you guys are here to discuss this very important
+matter. Given that, I'd like to welcome the panel and Senator
+Jeanne Shaheen.
+Senator Shaheen. Thank you.
+Mr. Waddel. And I'll be brief and just say welcome and good
+morning.
+Senator Shaheen. Thank you, Stan.
+As you can tell, Stan is not from New Hampshire, but we're
+delighted that he's here, and he said he's actually made it
+through three winters now.
+Mr. Waddel. I have.
+Senator Shaheen. So he's here to stay.
+Thank you very much, Stan.
+At this time I would like to officially open the Small
+Business Committee's field hearing in Durham to explore the
+impact of net neutrality on New Hampshire's small businesses.
+Now, before we turn to our witnesses, I'm going to
+introduce a few of the people in the audience today.
+First of all, we have New Hampshire's head of the Small
+Business Administration, District Director Greta Johansson.
+Greta, very nice of you to join us today. Thank you.
+We also have the--I don't know if we have Warren Daniel
+here? Yes. Warren, thank you. Nice to have Warren here.
+And do we have Jason Cannon, the Acting Director from the
+Small Business Development Centers? No.
+So, thank you all very much. It's really important to have
+representatives from the SBA here to listen to the testimony
+about the impact on our small businesses.
+Is Carol Miller here? She is the Broadband--there you are,
+Carol. Thank you. She's the Broadband Specialist at the New
+Hampshire Bureau of Economic Affairs.
+And Liz Gray from Live Free and Start. Nice to see you,
+Liz. Thank you for being here.
+Let me also finally recognize Mike Shultz, who is the Vice
+President for Regulatory and Public Policy, and Ellen Scarponi,
+Senior Director of Government Affairs at Consolidated
+Communications. Thank you both for being here, as well.
+I also want to introduce the staff of the Small Business
+Committee who are here. Despite what you may have heard about
+divisions in Congress in Washington, at the Small Business
+Committee we actually work very well together on both sides of
+the aisle to promote the interests of small business. So we are
+delighted to have staff from both the majority and the minority
+represented here today. We are very glad to welcome Skiffington
+Holderness, who is the Majority Staff Director for the
+committee. He was sent by Senator Jim Risch, who is the
+Chairman of the committee from Idaho. Again, we're delighted to
+have you here. We're hoping that he will stay and spend some
+money while he's here.
+[Laughter.]
+We're also joined by Becky McNaught, who is the Counsel on
+the minority staff for Senator Cardin, who is from Maryland and
+is the Ranking Member. I have a note here that says this is the
+first time for both of you to be in New Hampshire, so we hope
+you will stay and enjoy yourselves a little bit.
+And finally let me introduce the Clerk of the Small
+Business Committee, Kathryn Eden, who is here to make sure that
+all of the notes from today's hearing are properly recorded.
+Again, I want to thank Chairman Risch and Ranking Member
+Cardin not only for sending their staff but also for their
+cooperation in today's hearing.
+I have a statement from Chairman Risch that I will enter
+into the record, and it's very helpful to have his support for
+this hearing.
+[The prepared statement of Senator Risch follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Now, today's format will be a roundtable discussion that
+features our panelists, and because this is an official hearing
+of the Small Business Committee, we will not be able to take
+questions from the audience. I know a number of you here have
+been at other field hearings, so you know that we're all here
+to listen. But the official record will remain open for another
+two weeks. Is that correct? So if anyone would like to submit
+written testimony, we will make sure that that gets entered
+into the record.
+So again, let me welcome all of you. Thank you very much
+for coming to the discussion this morning. This is an issue
+that I think is a key for so many of our small businesses. It's
+also a key for consumers. But as we look at the 99 percent of
+employers in New Hampshire who are small businesses, this is
+really critical. Net neutrality and the importance of
+maintaining an open internet is very important as we think
+about innovation and creativity that's going on with our small
+businesses.
+This week is also National Small Business Week. It's an
+opportunity to celebrate the contributions of small businesses
+to our economy. As I know everybody here knows, about two-
+thirds of jobs that are created are created as the result of
+small businesses, so anything we can do to help them prosper is
+very important.
+Net neutrality, as I think everyone here knows and as our
+panelists will further describe, is the idea that broadband
+providers should not be able to block or slow down access to
+certain websites. Now, this is a principle that I think has
+been key to a free and open internet. It has created a
+marketplace that's robust and a level playing field for ideas
+and commerce.
+Unfortunately, the protections that have ensured net
+neutrality are now at risk because of decisions by the Federal
+Communications Commission last year that voted along party
+lines to repeal net neutrality rules. As a result, unless
+Congress acts, these net neutrality protections will disappear
+later this year, and I think this is a decision that could
+really have major ramifications for consumers as well as for
+small businesses.
+In discussions that I've had throughout New Hampshire,
+small business owners have repeatedly expressed their concerns
+about what the impact of these changes would mean on their
+access to the internet. They're concerned that broadband
+providers will create a pay-to-play system that would put them
+at a competitive disadvantage. Small businesses in rural
+communities are especially concerned. As most of you know, in
+New Hampshire we have parts of our State that don't really have
+access to high-speed broadband, and we have other rural
+communities where they have access to only one provider.
+So it's possible in the near future that the Senate will
+consider a bipartisan Congressional Review Act resolution to
+rescind the FCC's order ending net neutrality, and just
+yesterday a coalition of small business owners across the
+country sent a letter to Congress asking that we protect them
+by overturning the FCC's decision to repeal net neutrality, and
+that letter was signed by 6,000 small businesses across the
+country.
+So as Congress considers whether to let net neutrality go
+forward, today's field hearing is an opportunity for us to hear
+from small businesses in New Hampshire, from those who work on
+this issue in New Hampshire, about what's at stake for them and
+the communities they serve, and I'm looking forward to your
+comments and the discussion today. I will take what I hear here
+and not only will we have it for the record but I will share it
+with my colleagues in Washington.
+So let me begin by introducing our panelists today.
+First we have MJ Shoer. He currently serves as Director,
+Client Engagement, at Onepath, which is a nationwide managed
+service provider with offices in New Hampshire and other
+states.
+Let me just point out that we have longer bios of all of
+the panelists here on the table in the back of the room, so
+please take those. You will be very impressed with the past
+work of all of our panelists.
+Next we have Robert Zakon. He is a technologist and
+entrepreneur who specializes in a wide range of subjects,
+including cyber security, enterprise architecture, cloud
+computing, and the internet.
+Nancy Pearson has more than 15 years of non-profit
+management experience, and she brings expertise in program
+development, delivery, and marketing at the Center for Women
+and Enterprise in New Hampshire, where she is the Director.
+Nancy, thank you for being here.
+Zach Luse founded Paragon Digital Marketing in 2012 and has
+more than 15 years of internet marketing experience, working
+with and consulting for organizations of all sizes. Zach, thank
+you for joining us.
+And Lisa Drake serves as the Director of Sustainability
+Innovation at Stonyfield, which is the leading organic yogurt
+manufacturer based in Londonderry, New Hampshire.
+And finally we have Josh Cyr. He's a UNH alum, and he has a
+background in tech entrepreneurship and software development,
+and he runs Alpha Loft in Portsmouth, which is one of New
+Hampshire's premiere startup accelerators.
+So we're delighted to have all of you here. Thank you very
+much for taking time to join us this morning. We're going to
+ask you to make opening statements of between 3 to 5 minutes,
+and then hopefully we will have time for further conversation.
+I'm going to ask MJ if you would start.
+STATEMENT OF MJ SHOER, DIRECTOR, CLIENT ENGAGEMENT & VCIO,
+ONEPATH, BEDFORD, NEW HAMPSHIRE
+Mr. Shoer. Thank you, Senator. My wife and I are alums, as
+is our oldest.
+Senator Shaheen. Oh, good.
+Mr. Shoer. My wife and I had our first date in this
+building many moons ago.
+[Laughter.]
+It's a little surreal.
+Senator, thank you so much for holding this hearing. I
+think it's very important to share our concerns with our
+legislators in a very direct way.
+As the Senator said, my name is MJ Shoer. I'm the Director
+of Client Engagement and vCIO for Onepath. We are a national
+company, but by way of local color we have clients from the
+Monadnock region to the North Country and all across the
+Southern Tier, and very well concentrated here in the seacoast.
+For 20 years, I ran a small business MSP in Portsmouth, and
+then merged into a slightly larger company in Massachusetts,
+which is both what's called a competitive local exchange
+carrier, a CLEC, and an ISP. So we've lived and breathed this
+for many years. In addition, all of our clients are directly
+affected by this.
+By way of a unique perspective, I also had the distinct
+pleasure of serving on the Board of Directors of CompTIA, which
+is the Computing Technology Industry Association, which is the
+global IT trade association. I currently serve as the immediate
+past chair, and over the last several years we've actually met
+with our office staff in D.C. when we've come into town
+annually to talk about technology issues. So I've got kind of
+an interesting take on all this.
+Perhaps most interestingly, back in 1995 I was a principal
+in the first dial-up internet service provider in Portsmouth,
+and in a matter of days--not months, not weeks, literally
+days--we had multiple competitors who had also opened up, and
+there was quite a bit of choice in Portsmouth at the time.
+Now, fast-forward 23 years and there's almost no choice. In
+the City of Portsmouth, it's really Comcast if you want high-
+speed internet access. Now, for the business community there is
+some choice, but for the consumer there really is not. So
+choice is a big piece of net neutrality as well. While the
+throttling and the controlling of content has been in the
+forefront, the concept of choice has been a big part of this
+equation.
+To put a little color on it--and not to pick on any of
+these companies but I'm big on word pictures--if there was a
+white board, I'd be doodling, which you're very happy there's
+not. But consider that Comcast owns NBC Universal, as an
+example, and further consider that Verizon is one of Comcast's
+largest competitors. Now, at home on Comcast with my TV
+service, I can get to ABC's network, CBS' network, NBC's
+network, whatever I want. But if I want to jump on the cut-the-
+cord bandwagon and only have internet access and use streaming
+services, Comcast is actually incented with the lack of net
+neutrality regulation to limit where I can go. All of a sudden,
+NBC will perform beautifully, but what about ABC or CBS?
+In higher education, with everything that's going on with
+the internet and being able to offer virtual courses in
+conjunction with on-campus courses, similar issues could
+happen. If a wealthy university, say a Notre Dame or a USC,
+were to make a deal with providers to prioritize their
+courseware at the expense of more moderately sized universities
+like our own, our own UNH could be at a significant
+disadvantage in the field of higher education. And even though
+I'm biased, this is a pretty darn good school. We don't want to
+see that happen.
+But more importantly is how it impacts small and mid-sized
+businesses in the State. It could be crippling without the
+regulations in place. I always like to say it's like the
+difference between Route 95 and Route 1. With net neutrality in
+place, we're all driving on 95 to get where we want to go. But
+if net neutrality is rolled back and I want to go stream a show
+on ABC across Comcast internet, I'm forced down Route 1, and
+I'm going to hit so many lights and so much traffic that I'm
+probably just not going to bother going anymore, and I really
+do believe it's that simple. That is the crux of the issue.
+But let me just quickly share a slightly broader
+perspective from the standpoint of CompTIA, which is that
+CompTIA's membership spans the entire global IT industry. So
+it's large providers, small providers, ISPs, edge providers,
+and CompTIA firmly believe that congressional bipartisan
+legislation is the only way to address this issue. Now, the CRA
+is a great first step. It will get what needs to get done. But
+I believe--this is my personal opinion, not CompTIA's--I
+believe this is a tremendous bipartisan opportunity.
+You're right, Senator, I think most of us out here in the
+real world don't see anything but division and gridlock on this
+side of the aisle or that side of the aisle, and I know I, for
+one, would dearly love to see both sides of the aisle
+collaborate on anything, and this could be a great start. And
+who knows? Maybe it could be the tip of that snowball over the
+top of the mountain.
+But we definitely believe that permanent legislation is the
+way to go because, as it stands right now, many states have
+enacted executive orders, their own laws, and yet the FCC's
+ruling preempts the states from doing anything to begin with.
+So there's instant conflict going on with this.
+I think the summary of it is it's a critically important
+issue. I hope you are very successful in rolling back the
+rollback. That's a double negative, but I think everyone knows
+what I mean. And we do believe that if the CRA is successful,
+the foot should not come off the gas pedal to get that
+permanent legislation in place.
+Thank you.
+[The prepared statement of Mr. Shoer follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Senator Shaheen. Thanks very much, MJ.
+Robert.
+STATEMENT OF ROBERT ZAKON, CHIEF TECHNOLOGY OFFICER, ZAKON
+GROUP, LLC, NORTH CONWAY, NH
+Mr. Zakon. Good morning. My name is Robert Zakon. I'm the
+Co-founder and Chief Technology Officer of Zakon Group, LLC.
+Thank you for the opportunity to provide testimony here at this
+hearing today.
+Zakon Group is a technology consulting development firm
+founded in 2002 and based in a rural county of New Hampshire.
+We work with clients of all sizes in industry and government
+and the non-profit sector, both regionally and around the
+world. That is in large part possible because of the internet
+itself. The majority of our work involves the internet in some
+way, whether it's the application services we develop, the
+content we host, or with the systems we work with.
+The founding policy of net neutrality could very well
+become outright impeded. Let me repeat that: It could be
+hindered or outright impeded. This is something that many
+people don't think of when they're talking about net
+neutrality.
+For example, the internet's openness has allowed our
+company to develop an event management software application and
+provided as a service globally. With users' attention span
+nowadays being fairly limited, and delays of even a few seconds
+resulting in loss of interest, had limitations been in place on
+how fast an end user could access the application it is
+unlikely our software, which has been used by events in over
+100 countries, would have become as popular. As a fairly small
+company, we're not in a position to negotiate enhanced network
+rights for ourselves and for clients given the potentially
+diverse providers involved.
+As it is, some restrictions placed on internet services
+outside the United States have resulted in the application
+being less than fully useful to a few of our international
+clients.
+Also, we currently have a single choice of reliable high-
+speed service. Again, I mentioned I'm in a rural county of New
+Hampshire. If our provider should start charging more for some
+of the services we offer or some of the services that we use
+from others, it would be immediately felt in our bottom line
+and leave us with limited alternatives.
+Beyond my own business, I volunteer as a mentor with
+Schoolwork, a non-profit association and resource partner of
+the Small Business Administration that helps businesses start-
+up and grow. In this capacity I have seen the benefits of
+unrestricted access to the internet by other small businesses,
+including those not in the technology sector such as a small
+retail shop setting up an internet storefront or manufacturers
+collaborating with clients and the like. Limiting the options
+available to these businesses will only serve to stifle their
+growth by causing them to not have or offer the best quality
+service possible. Even the uncertainty of what providers may do
+if net neutrality is not in place, as a client recently
+remarked to me, could be disruptive in the crucial business
+planning and funding stages.
+Having completed a year of public service last spring as a
+White House Presidential Innovation Fellow, I had the unique
+privilege to see the many innovations brought about by small
+businesses that were also of direct benefit to the government
+at all levels. These innovations greatly benefited from and
+were often only possible by an internet with an equal point of
+view.
+In the past few years Federal departments such as those of
+Defense and Homeland Security have recognized the innovation
+potential of small companies and stepped up ways to find them
+and facilitate procurement of their services. Even the public
+sector derives advantages from net neutrality.
+I have watched and participated in the internet's growth
+since the mid-1980s and for the past 25 years have authored an
+updated timeline that provides a comprehensive history of the
+internet. This work, which has been reprinted in thousands of
+books, magazines, and other mediums, tracks the many
+innovations that have been made thanks to an open internet. Had
+roadblocks been placed in this information superhighway and
+which is now so much more, many small businesses that have
+become global corporations, and I'm sure you can name them,
+would likely not have succeeded, and we would be limited to the
+few innovations allowed by the companies controlling the toll
+gates.
+It is the smaller businesses, however, that have brought
+many of the revolutionary innovations in the last couple of
+decades, and much of what you use today just would not be
+available otherwise.
+Net neutrality is imperative to the success of small
+businesses in this country as they continue to increasingly
+rely on the internet, and for the benefits derived literally by
+humankind from the innovations fostered by an open,
+transparent, and equal-access internet. Thank you.
+[The prepared statement of Mr. Zakon follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Senator Shaheen. Thanks very much, Robert.
+Nancy.
+STATEMENT OF NANCY PEARSON, DIRECTOR, NEW HAMPSHIRE CENTER FOR
+WOMEN AND ENTERPRISE, NASHUA, NH
+Ms. Pearson. Thank you so much for inviting me today on
+behalf of the Center for Women and Enterprise. We're a small
+business resource in New Hampshire. We operate the Small
+Business Administration Women's Business Center. We are the
+only statewide center dedicated to women entrepreneurs.
+One of the things that is of concern for us is that many of
+our clients are underserved in a number of ways, whether that
+be from a demographic or an economic or a geographical
+standpoint, and we provide services no matter where women are
+in their business cycle, whether they're in the idea phase,
+launch, start, or growth.
+One place that is the great equalizer is and always has
+been the internet, and it allows women to operate on a level
+playing field where they normally can't operate. So the
+potential concerns of the end of net neutrality raise a lot of
+questions for us, and they all revolve around that equalization
+issue, and I'm just going to touch upon a few bullet points
+here.
+If, for example, the large companies are able to block or
+slow content in terms of video streaming services from rival
+companies, and if they're creating fast lanes and other things
+that we've read about, there's just no way that small and micro
+businesses, which is the majority of what my clients are
+operating, there's no way that they can compete.
+All internet traffic needs to be treated as equal so that
+small business has access to the same resources as the big
+companies, and this is especially important for startups.
+The end of net neutrality could affect businesses using
+online services that are currently free. So Skype or MailChimp
+or some of the online market research tools, if suddenly they
+have to charge for their services and they were otherwise free
+for small and micro businesses, that could have a significant
+effect on already thin profit margins for small business.
+And in New Hampshire especially, in rural New Hampshire,
+small businesses rely on the internet for sales and for search
+engine optimization because they're just not getting the foot
+traffic that they would otherwise get. I would just like to put
+that in perspective because that affects Cheshire County,
+Sullivan County, Grafton County, Carroll County, Coos County.
+That is the majority of the counties in New Hampshire.
+So the bottom line for us is that New Hampshire small
+businesses and micro businesses rely on the equalizing force of
+the internet. Just to put that into perspective, women start
+businesses at five times the rate of any other entrepreneur,
+and for minority women and women veterans, that number is even
+higher. So when we start putting additional barriers in the way
+of these entrepreneurs, it can have a significant and, I think,
+disastrous effect on the amount of small businesses that are
+opening on a daily basis.
+[The prepared statement of Ms. Pearson follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Senator Shaheen. Thank you. Nancy, can you just define for
+us micro businesses?
+Ms. Pearson. I sure can. So, it's a little bit different
+depending on where you look for information, but in general
+we're talking about businesses with fewer than five employees,
+with revenues under $400,000, in general, and generally
+businesses that require less than $35,000 in seed money to
+start up.
+Senator Shaheen. Thank you.
+Zach.
+STATEMENT OF ZACH LUSE, FOUNDER & CEO, PARAGON DIGITAL
+MARKETING, KEENE, NH
+Mr. Luse. Thank you, Senator. I'm Zach Luse, Founder and
+CEO of Paragon Digital Marketing. Thanks for allowing me to
+share my perspective regarding net neutrality as it relates to
+small businesses. I'm strongly opposed to----
+Senator Shaheen. Excuse me, Zach.
+Can you all hear in the back?
+Maybe if you pull the microphone closer.
+Mr. Luse. Is that better?
+I'm strongly opposed to the recent decision to repeal net
+neutrality protections. The lack of net neutrality tips the
+scale in favor of large enterprises and puts small businesses
+and startups at a severe disadvantage if large enterprises are
+able to purchase fast lanes to speed up the delivery of their
+websites to consumers. My company is an internet marketing
+company and web development company that helps startups and
+small to midsize businesses succeed and grow online.
+I founded Paragon in 2012 in Keene. We've grown from a
+startup of one, me, and now we're a team of 13 employees in six
+short years. We have clients all over the country, a few
+overseas, in a wide array of industries. At Paragon we've spent
+a lot of time over the past few years making our clients'
+websites load faster, and the amount of time we've spent
+optimizing websites has increased substantially over the last
+couple of years.
+Website speed or load times have a major impact on our
+clients' sales and leads. The issue is two-fold. The number of
+visitors finding a business' website declines when the site is
+slow, and the rate at which people sign up or buy something on
+those sites also declines. That's known as the conversion rate,
+which declines rapidly as the speed of the site slows down.
+Data from Google, Amazon, and industry experts, as well as our
+own data from working with our own clients confirms that
+website speeds do have a big impact on the ability to attract
+visitors to a website and keep them there long enough to buy or
+sign up for a service.
+The speed of a website directly impacts the search engine
+rankings of a website as well. The slower a website is, the
+less likely it is to appear at the top of search results. Free
+traffic from search engines can be extremely important for
+startups or small businesses. Receiving less free traffic from
+search engines makes it harder for startups to gain traction
+and for small businesses to compete if they don't have deep
+pockets to pay for ads.
+In addition, there is a direct correlation between the
+speed of a website, commonly measured by page speed, and the
+rate at which people make a purchase on a website. The
+conversion rate declines rapidly as websites' load times
+increase. A study by industry experts, Kissmetrics, shows that
+just a 1-second delay on page speed can result in a 7 percent
+decrease in conversion rates.
+An internal Amazon study showed that for every 100
+milliseconds, or a tenth of a second, you slowed down their
+website, it would cause them a loss of 1 percent in sales,
+which would cost the company about $1.7 billion a year. Amazon
+is a very well-known and trusted brand. The impact on small
+businesses that aren't as well-known or trusted is likely to be
+greater.
+Consumers expect fast and frictionless experiences online
+and are becoming ever more impatient. This means that speed of
+websites is likely to become more and more crucial over the
+coming years.
+The internet was a great equalizer, allowing small startups
+to innovate and disrupt industries long controlled by large
+corporations. America's small businesses and startups should
+not be put at a disadvantage, and the next YouTube, Google,
+Facebook, or Amazon should have a level playing field, the same
+level playing field that was afforded to the very successful
+internet companies that once were startups as well.
+I certainly urge the committee to work to put net
+neutrality protections back in place for small businesses and
+our country so they can continue to compete on a fair and level
+playing field, and continue to innovate and grow and create
+jobs.
+I appreciate the opportunity to testify. Your interest and
+action on this issue is very important to the future of small
+businesses across the country.
+[The prepared statement of Mr. Luse follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Senator Shaheen. Thanks very much, Zach.
+Lisa.
+STATEMENT OF LISA DRAKE, DIRECTOR OF SUSTAINABILITY INNOVATION,
+STONYFIELD FARM, INC., LONDONDERRY, NH
+Ms. Drake. Thank you for the opportunity to provide
+testimony regarding our company's concerns about the FCC's
+decision to roll back net neutrality. Stonyfield is a yogurt
+manufacturer based in Londonderry, and we work with small
+businesses across the State and the region primarily to source
+our first ingredient, which is milk.
+As a business with strong ties to the rural and
+agricultural business community, we share these concerns from a
+business perspective. We regularly witness how small rural
+businesses, including the farms and cooperatives that we source
+from, already struggle with limited access to broadband and
+limited options for internet service providers. The repeal of
+net neutrality would compound the challenges faced by these
+small businesses, adding cost and creating a competitive
+disadvantage for running a successful business in rural
+America.
+Uninhibited access to the internet is a fundamental
+necessity for operating a successful business in rural areas,
+and this is only going to become more important into the
+future. In our work with farmers in the State and the region,
+we see how these businesses are increasingly reliant on the
+internet for access to technical information and support, to
+market information, and for communication with customers and
+vendors.
+Under this change, internet providers would gain new powers
+to steer businesses and customers using access to the internet.
+For example, internet access providers could charge new fees
+for prioritized access, and while large businesses and farms
+might be able to afford a pay-to-play prioritized fast lane,
+small and medium-sized businesses may not be able to and put
+them at a distinct disadvantage with larger competitors.
+Without net neutrality, internet access providers could
+charge rural businesses new fees for access, specifically to
+websites or to services. They could favor certain businesses by
+slowing down traffic or exempting traffic from data caps.
+Tiered service plans could throttle user access to a limited
+group of websites, or block websites outright. It could also
+potentially limit or bias farmers' access to products,
+services, and information that they need to run their business.
+So these possible outcomes could create immense uncertainty for
+companies in every sector of the economy who rely on open and
+unencumbered connectivity as a key enabler for their business.
+Ultimately, if the repeal of net neutrality is implemented,
+it will have a crippling effect on rural economies, further
+limiting investment in rural infrastructure and restricting
+access to the internet for rural businesses, at a point in time
+when we feel we need to expand and speed this access instead.
+So I urge you to consider these impacts on the repeal of
+net neutrality rules and focus on advancing policies that
+foster fair competition.
+[The prepared statement of Ms. Drake follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Senator Shaheen. Thank you, Lisa.
+Josh.
+STATEMENT OF JOSHUA CYR, DIRECTOR OF ACCELERATION AND
+EDUCATION, ALPHA LOFT, PORTSMOUTH, NH
+Mr. Cyr. Thank you, Senator. I really appreciate everyone's
+comments so far. I just want to point out that there are so
+many familiar faces in the audience here who are helping
+businesses in New Hampshire, and I really appreciate everything
+you've done and that you're here today and listening to this as
+well.
+I've worked with many startups throughout the State of New
+Hampshire over the past several years, and there's a unique
+aspect of a startup that makes them their own type of small
+business. Startups, by definition, are attempting a new
+business with many unknowns in their model.
+I have to remove my glasses so I can read here.
+Senator Shaheen. We sympathize.
+Mr. Cyr. It's a new thing for me.
+So startups, by default, startups have to do something
+that's new, that's not a traditional business model. So they're
+going to change their model, their product, or their approach.
+Startups create opportunities through innovation. That
+innovation lies either in new spin on an old business model or
+on innovative products themselves.
+Startups also have high growth potential. They don't
+typically focus on a small geographic area, at least not at the
+start. Ultimately, this means that competition is not their
+local businesses but large businesses with broad interests.
+Almost always, this competition has a substantially larger
+financial resource. The repeal of net neutrality protections
+enables a small handful of very powerful internet providers
+tremendous control over what is delivered to consumers' homes
+and the speed at which it's delivered. Without net neutrality,
+the power and control these internet providers have will allow
+them to create artificial market barriers. These barriers
+stifle innovation and competition and serve to only protect
+powerful incumbents and extract higher fees from consumers.
+Startups may find the price to be paid for preferred access
+to be too great at their earliest and most vulnerable stages,
+yet many will feel that they have no choice as slow website
+speeds will hurt their bottom line.
+So study after study has shown that user balance rate,
+which is the percentage of people who leave a site immediately,
+rises tremendously--we've heard some stats on that, so I'm
+going to skip what I had written here and just come to the
+short part of this, which is that page speed is so important
+that Google factors it into their search rankings. While search
+rankings will not be impacted by speed shifting of internet
+service providers, the intent of the ranking focused on page
+speed still remains. Speed has an immediate impact on user
+engagement.
+Now, some may suggest that if consumers felt strongly about
+the issues of net neutrality, they could simply vote with their
+dollars, picking a provider in line with their needs. That
+would presume consumers fully understood the detail of internet
+plans, and even if consumers did, a responsive market would
+require a healthy marketplace of options. Many U.S. consumers
+do not have a choice in their high-speed broadband. Those that
+do often find themselves in long-term contracts, limiting their
+options. The FCC's own Internet Access Services Report this
+February of 2018 showed that in many areas there's no high-
+speed broadband at all. However, in areas with broadband speeds
+of 25 megabits per second or higher, between 30 and 40 percent
+of homes have only one option for a provider, and that's true
+of the State I grew up in, Idaho, but also true of my home
+State now, New Hampshire.
+Consumers have little to no choice for their provider,
+which means the market isn't being driven by consumer net
+neutrality concerns. Consumers need high-speed internet access
+even if the provider isn't providing the kind of service the
+consumers want.
+In summary, any net neutrality protections will be
+detrimental to a healthy competition for small businesses,
+including startups. Thank you.
+[The prepared statement of Mr. Cyr follows:]
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+Senator Shaheen. Well, thank you all very much. You've
+obviously given us a lot to think about, and I'd like to now
+explore a little bit in further detail some of the issues that
+you've raised.
+I want to start with you, MJ, because one of the things you
+said, and I hadn't heard this before, is that you think it's
+not enough for us just to repeal what the FCC did, that you
+think we really need bipartisan legislation that puts in place
+net neutrality rules. So what should those include, and why do
+you think that's so important? And I'm going to ask everybody
+to jump in on that.
+Mr. Shoer. Well, to the importance, it's simply that it
+shouldn't be at the whim of who's in the White House, and
+that's not a slam on the current Administration.
+Senator Shaheen. Sure.
+Mr. Shoer. But we're in this cycle now, this unfortunately
+sustained cycle that every time the party in the White House
+turns, various legislation is rolled back and put back in
+place, oftentimes even without any modification. So the only
+way to hedge that is with permanent legislation.
+I also think, just because I consider myself a lost soul in
+our political system, if you will--when I was here on campus I
+was a die-hard Reagan Republican, conservative as could be.
+Then I had kids. Then I matured a little bit and I became an
+independent because while I am socially very liberal, I am
+fiscally and in foreign policy very conservative. There's no
+home for me in our political system today. There needs to be,
+and the only way we're going to get there is if we can find
+anything that Congress can come together on across aisles and
+pass.
+While I recognize that this really has some true partisan
+division, that the Republicans by and large favor the repeal,
+the Democrats by and large favor retaining the rules, if we
+really step back and look at the engine of our economy, we all
+know it's small business, and we have got to protect it. We
+have seen innovation like we have never seen in our human
+existence since the internet came to be in its current form,
+and anything that changes that free and open access and limits
+the competitive opportunities for that access will damage our
+economy. There's no question about it. There are so many
+studies.
+So that's really why. I mean, I think it rises to the level
+of warranting that kind of legislation. Quite frankly, we're
+not here to talk about data privacy, but data privacy
+regulations are the same thing. We've got every State in the
+Nation creating their own regulations, and if we want to kill
+small business and entrepreneurship, let's let every State
+create their own regulation, and then let's go and explain to
+every small business that those businesses in multiple states
+have to comply with each State's set of laws. It's not a
+sustainable model for growth.
+Senator Shaheen. Can I ask if others want to jump in on
+this?
+Ms. Pearson. Sure. I would like to add that the best-case
+scenario would be not only bipartisan legislation but a diverse
+group of bipartisan legislation so that we have the voices and
+perspectives of women business owners, minority business
+owners, and other underserved, because unless you have the
+perspective and the experience, the life experience and the
+understanding of the barriers that each demographic, each
+constituency creates, you're only going to have legislation
+from one point of view, and one size does not fit all.
+Senator Shaheen. Anyone else?
+Ms. Drake. I would just add support for legislation to
+create consistency for businesses in policy and the stability
+that's needed for businesses to make decisions to determine
+investments, in which communities they're going to settle in,
+and knowing what resources they're going to have, including
+internet as a tool.
+Mr. Shoer. I think that's a great point, Lisa, because I
+know the folks I've talked to with CompTIA have said the
+biggest concern that they're hearing across the membership is
+consistency, a consistent message so that they can plan,
+because it's very difficult, even for the large companies,
+ironically. You know, we're talking about the small businesses,
+but even for the large companies out there, it's very difficult
+for them to plan for uncertain futures.
+Senator Shaheen. Right. Uncertainty, whether it's around
+the internet or budgets or whatever it is, is a real problem
+for business in general, and particularly for small businesses
+that have less ability to weather ups and downs.
+Anything else anybody wants to address with respect to what
+ought to be in a piece of legislation around net neutrality?
+[No response.]
+Let me then go to another issue that came up, and that is
+the need to optimize websites and reduce load times for
+customers. Zach, you talked about the importance of this. Can
+you talk about why this is such an issue for small business?
+Mr. Luse. Yes, definitely. It's a big issue because,
+frankly, slow websites are less effective, and if you slow some
+down, there's nothing those people can do, aside from paying
+the providers to be in a fast lane, to make it faster beyond a
+certain point.
+Senator Shaheen. Talk, if you would--I think everybody here
+knows what we mean when we say pay-to-play and fast lanes
+versus slow lanes, but can you explain that a little more for
+people who may not be familiar with this conversation?
+Mr. Luse. Yes. Fast lanes would allow players who have deep
+pockets to go purchase faster speeds. Their websites and their
+content are delivered to consumers faster, whereas the
+businesses that are particularly startups and small businesses
+may not have the ability to do that, especially startups who
+are just scraping together the funds to make their ideas
+happen. So it puts them at a severe disadvantage, and it also
+allows those big players to block competition and stifle
+competition, which is detrimental to our economy because so
+many of those great ideas and innovations come out of small
+businesses and startups.
+Senator Shaheen. I'm always impressed with the fact that
+small businesses have 16 times more patents per employee than
+large businesses, which is an eye-opener, I think, for most
+people.
+Josh, talk about what--I mean, you and Nancy, and you too,
+because you work with a lot of startups, are in a position to
+be able to see what they could sustain in terms of increased
+costs. So if net neutrality means an increased cost for access
+to the internet, is there a percentage or a level at which you
+think you then begin to price small businesses out of their
+ability to continue to have access to the internet?
+Mr. Cyr. It's a great question, and I think it would
+probably really vary given the business. Let's say for a
+startup, but I think the same would be true for any business,
+if I'm having to pay--if we step back a second and think about
+what Zach was saying about the fast lanes, all the traffic is
+going through the internet service provider to the consumer
+through the same pipe, right? There's not technically a
+separate lane. But we know that the traffic from this website
+is somebody that pays us so we can go faster than the others
+that are going through the same pipe, so it gets channeled.
+So if I'm a startup and I want to make sure I have really
+good performance because people bounce off my website if I
+don't have really good performance, I have to divert some sort
+of money to that. Well, for every dollar I'm diverting to pay
+for consumers to have a better experience on the exact same
+thing that everybody else is using, that's one less dollar I
+can spend for digital marketers to help provide really great
+in-bound marketing services for me, or to hire a software
+developer to finally build or modify my minimum viable product,
+or to pay for advertising, or anything else, right?
+The two most valuable resources that a startup founder has,
+a small business owner has, is their time and their money, and
+anything we're diverting that isn't adding value back and
+creating better value for consumers is a waste. It's a wasted
+resource. Right now, we know what those are. We have a level
+playing field and we know exactly how to plan for the future.
+If I don't know what I'm going to have to spend, and I don't
+know what to even tell startups what they're going to have to
+plan and budget because we just don't know, that's a really
+scary place.
+So I guess the answer is that every single dollar that's
+spent could have been put in a better place which could have
+gotten them further along. If a startup I'm working with runs
+out of money before they can build a new and viable product or
+they can find the love with the customer, the product market
+fit, they're not in business anymore, right?
+And it's not simply a matter of a few hundred dollars a
+month or a thousand dollars a month or whatever that is. That's
+sort of making it about the money, and it's really about can I
+survive long enough to get to a place where everybody wants to
+buy what I have to sell, and then once I get there, do I have
+enough money to actually get it into consumers' hands and
+funnel the growth. We can talk about growth and investment and
+all that stuff later on, but it's not a simple formula. It's
+really complicated and scary.
+Senator Shaheen. Robert, and then Zach.
+Mr. Zakon. Sure. So, I'll pick up on the theme that you
+heard a little bit there, uncertainty. That's a huge concern
+for small businesses, something that I keep hearing over and
+over again. Just a few weeks ago, touring a harness
+manufacturer up in the Mt. Washington Valley----
+Senator Shaheen. Harmon? Harness?
+Mr. Zakon. Harness. They make leashes, those kinds of
+products, and one of the big concerns for them is now having
+more than half their sales online. But the other one is things
+like sales tax, as well, and the concern about what can happen
+there. So even though we're being told that if it goes away and
+we no longer have a neutral internet, it does not necessarily
+mean the next day that you're going to be charged that much
+more. But it's the uncertainty that down the road it might
+happen. As my colleagues mentioned, that could mean the
+investment that could have been going somewhere else, or
+perhaps a funder, as I mentioned in my intro, wouldn't be
+willing to invest in your company because there's too much
+uncertainty of whether you will really be in a position to
+offer your service if someone comes in and charges much more
+for them.
+Senator Shaheen. Zach.
+Mr. Luse. I would just add to that. That issue is
+compounded by taking money away from whatever their core
+business is because the marketing and advertising dollars are
+going to be less effective because less of those people are
+going to convert. Google's advertising platform actually
+charges you more if you have a slow landing page. So you pay
+more for the ads than your competitors with a faster website,
+and then less of those people turn into customers. So it really
+snowballs.
+Senator Shaheen. It's a double whammy.
+Mr. Luse. Yes.
+Ms. Pearson. Some of the clients that we see are even
+before this stage. They're operating their businesses using
+already-existing platforms like Sea, like Facebook, like
+Instagram, with the hopes that they can invest to the point
+where they get to their own website and their own internet
+sales. What I see as a great concern is that they will never
+get there. That's just a whole class of businesses that are not
+going to be able to work their way up into even the small
+business community.
+Senator Shaheen. Robert, you talked about how you have seen
+work impeded, and you've seen that in some other countries
+because of the way the internet operates in other countries.
+Did I understand that correctly? And can you give us some
+examples of what you've seen?
+Mr. Zakon. Sure. So, our software initiative and
+application, it integrates with software and services from
+other companies. At times, these services that we utilize as
+part of our software have been blocked in certain locations, in
+some other countries around the world. When this happens, it
+appears to be an issue of our software, so the client will
+contact us. This can be pretty burdensome from an impact
+standpoint in terms of tracking down the issue, providing
+support, trying to develop workarounds, if that's even possible
+when we're dealing with another nation altogether.
+I expect if a U.S. internet provider ends up blocking or
+throttling a service that we integrate with, or even our own,
+the effect is going to be truly burdensome for us and for our
+clients as well, even more so when you consider the number of
+providers that we're really talking about here. I'm certain
+that some large companies will evolve to offer a service to
+bypass some of this, but that would likely mean us not being as
+agile, as lean in the services that we're currently really able
+to engineer for ourselves.
+I realize that Nancy is talking about a different type of
+small business. Our business, we understand the technology. We
+can often kind of work around it. But again, with my score hat
+on, and I do not speak for the organization, only for myself as
+a counselor, I've seen too many businesses that can't even get
+started with what's out there. When you talk about looking at
+what are the terms of service, they have no way of even
+comparing things like that. So it very much becomes an impact,
+and when we look at it globally or internationally, it's a non-
+starter.
+Senator Shaheen. We had a small roundtable with a number of
+businesses at Alpha Loft earlier this year, and we had this
+whole conversation about the workaround because there were a
+couple of people who said, well, if this happens, technology
+will help us develop a workaround so we can avoid it. And we
+had this conversation that lasted probably 20 to 30 minutes
+about this whole issue, and at the end of it one of the
+participants said look how much time we've been spending just
+talking about this. Imagine if it happened how much time it
+would take businesses to focus on this, to deal with it, and
+the time it would take away from other things that they need to
+do. So it's really not an option at this point, and it doesn't
+make sense for us to do that.
+Mr. Zakon. It certainly hits the bottom line.
+Senator Shaheen. Absolutely.
+So, several of you have talked about the challenges that
+startups have with getting funding. I know it's a particular
+concern for women-owned businesses, Nancy, but it's obviously a
+concern for most startups. Can you elaborate on the impact on
+startups with a repeal of net neutrality, what that would mean
+for things like crowd funding and access to other investors who
+might be interested in a startup?
+Mr. Cyr. I'll go ahead, if you don't mind.
+If you think about what investors are looking for, at the
+very early stages they're investing in the team. They believe
+the team has an excellent idea and they're going to be able to
+make it, and they're going to use the resources they're given,
+this investment, in a reasonable fashion to be able to get
+there.
+They're also, through all their due diligence and research,
+seeking to reduce risk wherever they can. That's why they do
+the due diligence. It would be the same for anybody giving out
+money, really. So if you see a really compelling team and an
+awesome startup and a great idea, and then realize it's going
+to be enormously expensive just to pay-to-play to be able to
+compete because of whatever constraints are put onto the
+network, more barriers, is that a good use of those resources?
+The reality is for a typical investor, it's not like they
+only hear a dozen good ideas a year. A lot of ECs will receive
+100 solicitations a day. They're evaluating hundreds of
+thousands over the course of a year. So they're making good
+decisions, and if they're seeing possible barriers, possible
+issues, they have all these other good ideas. So it's just
+knocking good ideas right from the start.
+I think we don't want to see resources put to use simply to
+pay fees when we could see those put to use to see growth or
+build product. Those are the two things that any business has
+to do at the very beginning stages, small businesses, and
+specifically for startups. You're either building something or
+you're selling something, and a lot of the other stuff that you
+do around that is supporting that. If you're not doing those
+two things or something that supports those two things, you're
+probably putting resources at the wrong time. So you want to
+make sure that money is put to those two things.
+Senator Shaheen. Anybody else?
+Ms. Pearson. Well, for us, the majority of our clients are
+not really good candidates for that kind of startup funding
+opportunity. But I will say that we spend a lot of time with
+our clients exploring all the possible revenue streams and
+sales channels. So if you take a whole channel away because of
+the unknowns, that is a huge concern for the potential
+viability of their business. So again, it's the unknown and the
+barrier to entry.
+Senator Shaheen. I think platforms like Ebay and Etsy have
+really made a difference and provided opportunities. I have a
+staff here that says 87 percent of Etsy sellers are female, and
+we heard from one Etsy seller in New Hampshire, Gail Kimble,
+who is from New Hampshire Bowl and Board. Some of you may be
+familiar with that. They're in Webster. And she wrote--and I
+think her quote is worth repeating here. She said, ``The e-
+commerce world is super competitive, and the big guys have all
+the advantages.'' You've all alluded to that in some way. ``Net
+neutrality at least keeps the door open. Without net
+neutrality, I'm quite sure my margin will shrink to the place
+where I'll have no choice but to close up and give up.'' So it
+really shows the impact on small business owners who are
+looking at what will happen if we repeal net neutrality.
+Lisa, one of the things, again, that people have referred
+to--and we've got people here from all over the State--Keene,
+Londonderry, North Conway, Nashua. But you talked about the
+real impact for your rural providers for Stonyfield, and with
+the exception of the cows, can you talk a little more about
+what this means for rural entrepreneurs who really are often in
+places in New Hampshire where they don't have access to good
+internet, much less what it would mean if that access totally
+goes away and costs more?
+Ms. Drake. These are small family owned operations that we
+work with. You may think of dairy farming as low tech. It's
+cows eating grass. But really, technology is influencing
+farming as much as it is many other areas of our economy. So
+technology is a tool that farmers are using more and more to
+manage their farm, to improve their operations, and to improve
+the economic aspects of their operation. They use it to monitor
+feed and monitor markets where they're buying feed. They're
+using robotic milkers. They have all kinds of technology around
+milk quality, and lots of communication needs with both vendors
+and customers.
+So all of this is an important means of functioning as a
+business, and to add on top of living in rural areas don't have
+necessarily consistently strong cell service either, so the
+internet really, truly is--reliable internet is a connection to
+the community. And just to go further on the technology front,
+we continue to work on developing better software and tools for
+farmers for data collection and monitoring and trending so that
+they really have more intelligence about the operation of their
+farm.
+Mr. Shoer. Senator, I can share a story about a customer in
+a rural part of the State. Their business is somewhat unique,
+but what often gets lost is you have to think about the supply
+chain of the business, which is somewhat what Lisa is talking
+about. But in this case, this business found that over a period
+of years all of their technical manuals, all of their resources
+all went online. This used to be a business that could order--I
+think back to when I was a kid and the World Book would show
+up. They used to have the bookshelf full of their technical
+resources. That's all online now, and they found themselves in
+a very difficult position because there was no competition for
+access, and their access was dreadfully slow, and it was
+significantly showing impact.
+Now, this business had to negotiate with a broadband
+provider and had to spend over six figures to get that provider
+to bring access to them, and it was a choice of spend it or
+close the doors.
+So back to the access piece of the equation, we have got to
+find a way to get the competitive geographies expanded because
+we've got businesses that are at significant disadvantage on a
+regional scale, national, and in some cases global.
+Senator Shaheen. Robert.
+Mr. Zakon. I'll continue with the rural theme here, just to
+give another view of it. It's been mentioned that oftentimes,
+especially up in the North Country, some of the rural counties
+in New Hampshire, there is no alternative. There is hopefully
+one high-speed provider that you can rely on. For a client we
+have who they pipe music and video from the internet into their
+waiting area, if they can't get internet for that, not
+critical. They still have radios around. They can turn it on.
+But another client in the medical profession sends blood work
+over the internet and instantaneously receives results on their
+mobile app. So if they don't have the ability to do that
+anymore because net neutrality is not in place, it becomes too
+cost prohibitive for them. There is no alternative service. The
+quality of care is going to suffer.
+So as we look into tele-medicine and all the other
+wonderful innovations that we have, and innovation has been a
+theme here, it's much less likely for us to be able to deal
+with that in a State like New Hampshire.
+Senator Shaheen. Absolutely, and I want to get back to the
+tele-medicine piece because it is so important in New
+Hampshire. But before I do that, I have a statistic here that
+the University of New Hampshire has done. They have a report on
+the state of broadband in New Hampshire from 2015, and they
+asked New Hampshire residents about their limited provider
+options. When asked why they're using their current provider,
+39 percent said it's the only option available to them. So,
+think about that. Almost 40 percent of the State says we have
+no other choice, and that doesn't count the people who don't
+have a choice, who don't have a provider at all. There are some
+parts of New Hampshire that don't really have a provider at all
+unless it's dialup or so slow that it's really hard to use.
+But I want to go back to the tele-medicine because that's a
+really important issue that you raised. For, again, so much of
+the State, because we're rural, it's the one way we have access
+to different specialties and to information and expertise and
+physicians that we wouldn't have otherwise.
+I had a chance to visit the VA clinic up in Littleton, and
+what they're doing, they're using tele-medicine to bring in
+psychiatrists and psychologists for counseling there because
+they can't afford it otherwise. But if they can do it through
+their tele-health, they're able to make it available to all of
+the veterans who come in. So, as you say, this would have real
+implications for being able to do that in parts of New
+Hampshire because if it costs more, what does that mean for the
+physicians? They're either going to have to charge their
+patients more or they're not going to be able to afford it.
+So, do you want to elaborate on that a little more?
+Mr. Zakon. Sure. I'll actually give the example that I keep
+hearing, which is more from the opposite side of the argument,
+which is, well, if we do away with net neutrality, the large
+internet providers can now offer that high-speed route so that
+you can have those kinds of services. Unfortunately, I don't
+think that really pans out, because if I'm going to provide a
+remote surgery, for example, I'm going to want a dedicated
+circuit to be able to do that. I am not simply going to want
+that network traffic going through the public internet overall
+without some major paring agreements in there.
+Just yesterday, there was a router outage in the internet
+backbone. I think it was in Florida. And we got calls from
+clients who couldn't access one of our data centers there. It
+was not life and death, but again, that's where it really comes
+in. So I think the whole remote surgery, tele-medicine, all of
+that becomes a critical service, and I think necessarily it
+means that it really should not just be a part of the standard
+internet as we generally know it. You're looking more at
+internet 2 capabilities that are out there.
+Mr. Shoer. I think the other elephant in the room around
+tele-health is that we've seen the consolidation going on in
+the health care system and how few private practices are still
+able to survive with hospital systems or insurance systems
+buying up practices. So imagine a world without net neutrality
+where either an insurer or a hospital system that has
+significant cash resources can make deals with ISPs to
+prioritize their preferred end tele-health provider. It could
+significantly change that entire industry.
+Right now, that is somewhat of an upstart level playing
+field industry. We have clients that are using remote
+radiologists that are in the United States, as well as all
+around the world. For various reasons, that could go away or it
+could change dramatically, and it could absolutely impact
+quality of care.
+Mr. Zakon. And an example from another industry, if all of
+a sudden the electrical industry decides to say, you know,
+we're going to start charging more to one brand of computer or
+appliance going to the wall and the plug behind me here to get
+your electrical service, I don't think we generally stand for
+that. But that is, in large part, what we're talking about
+here. It's limiting the choice. I may now no longer be able to
+use one appliance brand but now have to use another one.
+Or going back to when we had multiple phone services, and
+I'm going back many, many years, before my time, I think----
+Senator Shaheen. Some of us remember that.
+[Laughter.]
+Mr. Zakon [continuing]. Where you may have had multiple
+telephones depending on who you wanted to talk to. So it's
+between the party line and where we are today.
+Senator Shaheen. We heard from an occupational therapist
+named Rachel who is in Litchfield, and she wrote to us about
+her concerns. She said, ``Ending net neutrality will cut off
+resources from individuals who can't afford to pay extra for
+internet services. It will be harder for these people to
+communicate with others and receive information they
+desperately need about their health. Additionally, ending net
+neutrality will make it harder for my clients to access
+resources that help them to cope with PTSD, depression, and
+other challenges.'' You all have said it very well.
+So, the one topic that we haven't yet covered is around the
+argument that we should repeal net neutrality rules and let the
+Federal Trade Commission do the actual enforcement. So when
+there's a problem, small businesses can go through the FTC and
+they can have their concerns addressed. Do you all think that's
+realistic?
+Zach.
+Mr. Luse. My understanding is it's a terrible idea, because
+the FTC is just going to be enforcing when somebody files a
+complaint. They're not going to be out there policing. And the
+process, from what I understand, is pretty tedious. Maybe small
+business associations might be able to handle that, but a small
+business isn't going to have time to really do that.
+Mr. Shoer. It's a reactive stance.
+Ms. Drake. I would agree. Our farmers need to stay on the
+farm and focus on farming and not submitting complaints about
+their internet service. It's really too much to ask of the
+small business owner.
+Mr. Shoer. It's shifting the burden in the wrong place, and
+there are other laws on the books in states where they've
+relied on FTC practice and precedence, and those laws have not
+played out well because of that.
+Senator Shaheen. Absolutely.
+Anything else, as we're getting close to wrapping up here?
+Are there any other points that folks wanted to make that
+haven't been made yet?
+Nancy.
+Ms. Pearson. I actually want to add to the health care
+conversation. I just tallied up some clients that I'm currently
+working with right now, in 2018. One is a physical therapist
+who delivers pain management services online. I have two
+nutritionists that deliver their services online. I have a
+personal trainer, and I have a fertility coach. All of them are
+working through tele-conferencing with their clients across
+northern New England. The physical therapist who deals with
+pain management has found a niche in addiction recovery.
+So these are real implications that we're talking about,
+because if people don't have access to these services that
+their insurance won't necessarily pay for but it's cost
+effective, it just has real-life consequences to more than just
+small business but the quality of life for people and some
+major, major issues going on in the State.
+Senator Shaheen. Yes, it does, and we also don't really
+know what all those implications are, as many of you have said.
+We've asked the GAO to do a study on what the potential impact
+is going to be on small businesses. Of course, we don't have
+that report yet, but just among the concerns that you all have
+raised, you can see the potential impact on small businesses
+and the ripple effect that has through the economy as we're
+thinking about job creation and development of new technologies
+and innovation.
+One of the things that we haven't talked about because
+we've been focused on small businesses, but I think it's
+important to think about as we look at the workforce challenges
+that we have in New Hampshire right now. Everywhere I've been
+in the last two years, the number-one issue has been workforce.
+What does it mean for young people and for workers if net
+neutrality changes and they aren't able to get information,
+Josh?
+Mr. Cyr. The way I see it is that states with more rural
+residents will probably suffer the most. I mean, if you think
+about I'm graduating from UNH and I'm looking to make my mark
+in the world, internet access is really going to be important
+to me. It's sort of foundational for how I grew up and what I
+expect. I start shopping around and I find that there's no
+broadband in certain areas, they're out. I'm not moving to the
+North Country. I'm not moving to all these other areas. I'm
+going to be moving to a place that has an internet service
+provider with a record I know and want. Maybe there's somebody
+who is voluntarily continuing with the net neutrality rules.
+That's probably in really competitive markets.
+So I think what we're going to see is new generations
+moving, primarily motivated because of reasons like that, to go
+to heavy competitive markets and skipping over the places that
+may not be able to offer those sorts of services if they find
+it's so important. And I think that we've heard time and time
+again that they do. So I think it's going to be specifically
+impactful for rural areas in a very negative way.
+Senator Shaheen. Zach, did you want to comment on that?
+Mr. Luse. Yes. I think for my business in particular, it
+will impact it heavily. It's already hard enough to attract and
+retain young workers in Keene. When they go home and they only
+have one option, if they have one option, of a provider, and
+you layer net neutrality on top of that where they might not be
+able to stream the content they want, it just compounds the
+issue.
+Senator Shaheen. Lisa, you wanted to say something.
+Ms. Drake. Yes. Just to take Josh's comments one step
+further, I think that what he is describing about young people
+making choices about where they're going to live, this is about
+the vitality of our rural communities. We're already seeing an
+exodus of young people from our rural areas, and it has a great
+impact on the vitality and the longevity of those communities
+and their health as a community. So I think if we don't want
+the exodus of all our young people to urban areas, this is
+something really important to consider.
+Senator Shaheen. Yes, absolutely.
+Mr. Shoer. I think there is also a significant risk to the
+diversification of our workforce. In the tech industry, we are
+very, very concerned about getting more women and disadvantaged
+minorities into that workforce because it's typically been
+coming out of those who can afford four-year college, but we've
+proven with any one of a number of initiatives that those other
+communities can more easily access the education to get them a
+foothold in to build a career. If net neutrality regulations
+are not in place, the large providers are going to start to get
+into the areas of the business that, quite frankly, they don't
+have any business getting into, and it could directly impact
+our ability to encourage young women, young minorities to get
+into technology fields.
+Even in our case, we've had a handful of employees over the
+last 18 months relocate for family reasons, and we've been able
+to retain them because, thank God, they've been able to get to
+an area where they had unfettered good broadband internet
+access. If that weren't the case, we would have lost some
+wonderful employees that we've actually been able to retain.
+Senator Shaheen. Robert.
+Mr. Zakon. And I would actually like to add another
+category of individuals to the list, and that is the disabled.
+Homebound individuals had startups before where we've had 20-
+plus homebound individuals that were doing meaningful work for
+us, for our company, in large part because there was an equal-
+access internet. They were able to come use the services that
+we have been using. There was no concern about, well, you're
+with a different provider, you can't use the service that we
+offer and therefore we cannot hire you. And that's really
+critical across the board.
+Senator Shaheen. That's a great point.
+Mr. Shoer. Very good point.
+Senator Shaheen. And, you know, the frustration for me is
+the responses to all of the points that all of you have made
+this morning have really been nonexistent. I mean, the biggest
+argument that I've heard for repealing net neutrality has been
+that, well, it will provide for more innovation. But, in fact,
+I think what we've heard from all of you is that you all think
+it would be less innovation. And the other implications for
+what we might be looking at are some unknown but certainly much
+more impactful than what we've heard from anybody at the FCC
+and for those who are proponents of this repeal.
+Robert.
+Mr. Zakon. Yes. For me it really comes down to there was a
+lot that internet providers could be doing already that they're
+not, that we are in the world we are today with regard to cyber
+security and privacy. That is something that they are empowered
+to take actions on. They are our tunnel to the internet. They
+can protect us, in large part, with regards to that. That is
+not something that I think, in large part, is done. The
+internet of things, we hear about how insecure they are. That
+is something that internet providers are in a position, in
+large part, to potentially help with. Yes, there are potential
+privacy issues and the like in there, but the leadership has
+not been there, and that will go a very long way with regard to
+saying, yes, there may be some leeway here. But as of right
+now, at least, I don't see it.
+Senator Shaheen. You mentioned the phone company and the
+changes when we deregulated the telephone industry, and the
+innovations that developed as a result of that. We're seeing
+that in the utility industry with the change in the way we
+provide electricity and utility service to folks.
+It seems to me that this goes in the wrong direction, that
+instead of opening things up to provide more innovation and
+more access, what we're talking about is closing things in a
+way that reduces access, reduces innovation, and that's not
+going to be good for anybody, I think, except the big players
+who have the potential to make money and really have a monopoly
+over what goes on.
+Well, thank you, everybody, again. Any final comments that
+someone wants to make that you haven't had a chance to?
+Mr. Luse. I would just reiterate that with repealing net
+neutrality, you're kind of changing the underlying fabric of
+the internet that's been there since the beginning, and there
+are probably so many implications that we can't even imagine.
+If you look at where we were 10 years ago and where we're
+going, we don't really even know how it could be detrimental to
+the future.
+Senator Shaheen. Well, again, thank you all very much.
+Special thanks to our panelists and for those of you who came.
+Many of you traveled long distances to get here, so we really
+appreciate that, your willingness to be here.
+I am looking forward to being able to take back what I've
+heard this morning and share that with my colleagues in
+Washington. I'm pleased that we'll have it as part of the
+record of the Small Business Committee and look forward to
+working to address both what the FCC has done and to think
+about how we can do bipartisan legislation that will really
+provide some certainty in the future.
+As I said, we have, I think, two weeks for additional
+questions and statements. So anyone in the audience who would
+like to weigh in, we have two weeks to do that, and you can get
+them--Chris, where should they send those?
+Mr. Neary. They can send them to Kathryn, or they can send
+them to me.
+Senator Shaheen. So you can send it to our office or to the
+committee. Both of those are available online, fittingly.
+[Laughter.]
+Yes, unrestricted, at least for the time being.
+[Laughter.]
+Thank you all for coming to join us in this conversation,
+and I look forward to seeing how things progress because I am,
+like all of you, very concerned about what the implications may
+be.
+Thanks very much. This hearing is now closed.
+[Applause.]
+[Whereupon, at 11:22 a.m., the hearing was adjourned.]
+APPENDIX MATERIAL SUBMITTED
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]
+[all]
