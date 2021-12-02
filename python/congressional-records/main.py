@@ -26,7 +26,7 @@ from typing import List
 import traceback
 
 # Your govinfo API key
-OPEN_GOV_API_KEY = "mHFrk52tb3tnJpM4Vn5M1Ydi4Sckac1ZrV5StAG5"
+OPEN_GOV_API_KEY = "YOUR_API_KEY_HERE"
 
 # Start of the time range for witch you would like documents
 START_DATE = "2018-01-01"
