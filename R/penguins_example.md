@@ -67,9 +67,7 @@ The first goal of the statistical analysis on the Palmer penguin data is to find
 
 ### ANOVA models
 Reasonable statistics models one might consider are one-way ANOVA, two-way ANOVA with or without interaction. Here we would not go into details about the ANOVA models, just provide a general strategy for statistical analysis using ANOVA models. Suppose that we consider fitting a two-way ANOVA model
-$$
-y_{ijk}=\mu+\alpha_{i}+\beta_{j}+(\alpha\beta)_{ij}+\epsilon_{ijk},
-$$
+$$y_{ijk}=\mu+\alpha_{i}+\beta_{j}+(\alpha\beta)_{ij}+\epsilon_{ijk},$$
 where $\mu$ is the overall mean of the response $y$, $\alpha_{i}$ and $\beta_{j}$ are the additive main effect of level $i$ and $j$ from the first and second group variables (species and island in Palmer Archipelago). The main assumption being made on the ANOVA models is that the error, $\epsilon$, are assumed to be independent and normally distributed with mean zero and constant variance $\sigma^2$. While fitting a two-way ANOVA model, we would need to investigate the interaction effect. This could be done by plotting the mean of the response variables for each group variable. Some useful code for plotting the mean plot of the observed data could be found through the following link
 
 <http://www.sthda.com/english/wiki/two-way-anova-test-in-r>.
